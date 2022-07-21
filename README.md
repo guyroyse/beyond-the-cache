@@ -6,4 +6,4 @@ If you've stumbled upon this repository after a long stint of googling, that's c
 
 Many of you have probably heard of Redis, or even used it. It's a cache, right? It can be a cache, a very good cache, but Redis does a lot more. The whole point of this workshop is to show you that “more” and give you the knowledge to take greater advantage of the Redis you are already love.
 
-Let's get started by [installing the software](docs/INSTALLATION.md) we'll be using.
+Let's get started by [installing the software](docs/01-INSTALLATION.md) we'll be using.

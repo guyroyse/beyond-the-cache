@@ -1,0 +1,19 @@
+{
+  "name": "bigfoot-tracker-api",
+  "version": "1.0.0",
+  "description": "Tracking sasquatch, one foot at a time.",
+  "type": "module",
+  "author": "Guy Royse <guy@guy.dev.com> (http://guy.dev/)",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --inspect ./server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "redis": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

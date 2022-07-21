@@ -9,6 +9,7 @@ Nearly everything in Redis is stored in keys. A key is just the name of one of t
 It is common practice to create namespaces within our keys. We call this a keyspace. By convention, the elements of a keyspace are delimited with colons. Here are some sample keys with keysapces:
 
 ```
+bigfoot:user:1234
 bigfoot:sighting:8086
 bigfoot:sighting:8086:county
 bigfoot:sighting:8086:state
@@ -17,7 +18,7 @@ bigfoot:sightings:byCounty:Athens
 bigfoot:sightings:byState:OH
 ```
 
-Oh, and we're going to build a Bigfoot tracker so all of the example data will be Bigfoot related. I hope that's OK.
+Oh, and we're going to build parts of a Bigfoot tracker with users, new sightings, forums, etc. so all of the example data will be Bigfoot related. I hope that's OK.
 
 ## Strings ##
 
@@ -29,5 +30,6 @@ Oh, and we're going to build a Bigfoot tracker so all of the example data will b
 
 ## Sets ##
 
+## Deleting and Expiring Keys ##
 
 Now that you've tried out these data structures from Redis, it's time to [write some code]() using Node Redis.
