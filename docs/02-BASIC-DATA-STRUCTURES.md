@@ -18,18 +18,26 @@ bigfoot:sightings:byCounty:Athens
 bigfoot:sightings:byState:OH
 ```
 
-Oh, and we're going to build parts of a Bigfoot tracker with users, new sightings, forums, etc. so all of the example data will be Bigfoot related. I hope that's OK.
+Oh, and we're going to build parts of a Bigfoot tracker with users, sightings, forums, etc. so all of the example data will be Bigfoot related. I hope that's OK.
 
 ## Strings ##
 
 [Strings](https://redis.io/commands/?group=string) contain more than just text, although they contain text just fine.
 
+Store a hashed password for a user.
+
 ## Hashes ##
+
+Store some bigfoot sightings ID, Title, Text, Classification, County, State, DateTime
 
 ## Lists ##
 
+Store some new reports, using it as a work queue
+
 ## Sets ##
+
+
 
 ## Deleting and Expiring Keys ##
 
-Now that you've tried out these data structures from Redis, it's time to [write some code]() using Node Redis.
+Now that you've tried out these data structures from Redis, it's time to [write some code](02-API-SETUP.md) using Node Redis.
