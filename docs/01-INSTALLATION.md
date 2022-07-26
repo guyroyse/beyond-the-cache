@@ -86,7 +86,6 @@ I'm gonna be giving you a lot of Redis commands. Don't expect screenshots all th
 ```
 127.0.0.1:6379> PING
 PONG
-127.0.0.1:6379>
 ```
 
 This is the format used by `redis-cli`, the command-line client that ships with OSS Redis.
