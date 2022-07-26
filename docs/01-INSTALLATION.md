@@ -91,4 +91,4 @@ PONG
 
 This is the format used by `redis-cli`, the command-line client that ships with OSS Redis.
 
-And that's it. Now, let's start looking at some [data structures](01-BASIC-DATA-STRUCTURES.md).
+And that's it. Now, let's start looking at some [Redis basics](02-REDIS-BASICS.md).

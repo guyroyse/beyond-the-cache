@@ -2,19 +2,22 @@ import 'dotenv/config'
 
 import express from 'express'
 
-import { statusRouter } from './routers/index.js'
+import { statusRouter, motdRouter, reportRouter, sightingsRouter } from './routers/index.js'
 
 const port = Number(process.env.SERVER_PORT)
 
 /* create an express app and use JSON */
 const app = new express()
-app.use(express.json())
+app.use(express.json({ strict: false }))
 
 /* something to test the server */
 app.get('/', (req, res) => res.send({ "hello": "world" }))
 
 /* bring in some routers */
 app.use('/status', statusRouter)
+app.use('/motd', motdRouter)
+app.use('/report', reportRouter)
+app.use('/sightings', sightingsRouter)
 
 /* start the server */
 app.listen(port, (err) => {
