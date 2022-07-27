@@ -30,6 +30,17 @@ sightingsRouter.get('/by-state/:state', async (req, res) => {
   res.send(sightings)
 })
 
+/* get all of the sightings for a class */
+sightingsRouter.get('/by-class/:class', async (req, res) => {
+  res.send("NOT IMPLEMENTED")
+})
+
+/* get all of the sightings for a state and a class */
+sightingsRouter.get('/by-state/:state/and-class/:class', async (req, res) => {
+  res.send("NOT IMPLEMENTED")
+})
+
+
 /* add a new sighting and assign it an ID */
 sightingsRouter.post('/', async (req, res) => {
   const id = ulid()
