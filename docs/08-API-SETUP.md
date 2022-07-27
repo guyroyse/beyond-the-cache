@@ -1,6 +1,6 @@
-# Using Redis from Node.js
+# Using Redis from Node.js #
 
-We're gonna build a simple express API. All the express stuff is already there so don't worry about that. We'll just focus on endpoints that do things.
+We're gonna build a simple Express API. All the Express stuff is already there so don't worry about that. We'll just focus on endpoints that do things.
 
 
 ## Cloning the Repo ##
@@ -100,4 +100,4 @@ It's up and running. Give it a quick test pointing your browser at http://localh
 { "hello": "world" }
 ```
 
-Now that's it's running, let's [add some code](04-NODE-REDIS-BASICS) to it that makes use of Redis.
+Now that's it's running, let's take a look at some of the code we've just run and learn the [basics of Node Redis](09-NODE-REDIS-BASICS).

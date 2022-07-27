@@ -1,4 +1,4 @@
-# Installing Redis Stack & RedisInsight
+# Installing Redis Stack & RedisInsight #
 
 We'll be using [Redis Stack](https://redis.io/docs/stack/) for our flavor of Redis. Redis Stack includes the OSS Redis that you know and love plus several modules that extend it's capabilities. More on modules later.
 
@@ -79,7 +79,7 @@ Let's confirm that the installation of Redis Stack is working by entering our fi
 ![](images/redisinsight-ping.png)
 
 
-## Next Steps
+## Next Steps ##
 
 I'm gonna be giving you a lot of Redis commands. Don't expect screenshots all the time, as they're kind of a pain for me make and hard for you to copy and paste from. So, instead, future command-line examples will often be presented in the following format:
 
@@ -89,5 +89,6 @@ PONG
 ```
 
 This is the format used by `redis-cli`, the command-line client that ships with OSS Redis.
+
 
 And that's it. Now, let's start looking at some [Redis basics](02-REDIS-BASICS.md).
