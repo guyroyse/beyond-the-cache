@@ -1,38 +1,87 @@
-# Node Redis Basics
+# Node Redis Basics #
 
+Inside of the **`src`** folder, we have the follow files and folders or note:
+
+-  **`server.js`**: This is the main file that starts the Express server and binds the routers. You shouldn't need to modify it—and there is nothing Redis specfic in it—but take a look and see how it works.
+-  **`redis/client.js`**: Establishes a Redis connection with Node Redis and exports it. You won't need to modify this either, but you should know how it works. It'll be covered below.
+-  **`routers/`**: This folder contains the various routers, with stubbed-out implementations, that server.js exposes.
 
 ## Connecting to Redis ##
+
+We're going to connect to Redis using [Node Redis](https://github.com/redis/node-redis). Node Redis is the library you get when you run:
+
+```bash
+npm install redis
+```
+
+It's already in the `package.json`, so no need to do that. Once you have it, there are several ways to connect. The simplest is:
+
+```javascript
+import { createClient } from 'redis'
+
+export const redis = createClient()
+await redis.connect()
+```
+
+This will connect to Redis running locally, on the default port of `6379`. This might be good enough for what your doing, but it's not good enough for this workshop.
+
+Another way is to connect with a Redis URL. The Redis URL format is defined by the IANA. You can [read the details](https://www.iana.org/assignments/uri-schemes/prov/redis) there, if you like. The tl;dr is that it works just like http URLs and is in the format:
+
+`redis[s]://[[username][:password]@][host][:port]`
+
+The following connects to Redis running on `awesome.redis.server` that is listening on port `6380`. The connecting user is `alice` and her password is `foobared`.
+
+```javascript
+import { createClient } from 'redis'
+
+createClient({ url: 'redis://alice:foobared@awesome.redis.server:6380' })
+await redis.connect()
+```
+
+Take a look at the **`client.js`** file and see how we are connecting to Redis. We specifying discrete confiuration options rather than using a URL. The details of this options can be found in the [Client Configuration Guide](https://github.com/redis/node-redis/blob/master/docs/client-configuration.md) on GitHub.
+
+Also note that we are listening for any errors that Node Redis might report and just spamming them out to the console. [This is fine](https://en.wikipedia.org/wiki/Gunshow_(webcomic)).
 
 
 ## Pinging the Server ##
 
+Let's write some code. We're going to call PING against Redis to make sure that all of our plumbing works. If you haven't done this already, go ahead and start the server:
 
-## Strings ##
+```bash
+npm start
+```
 
-Configuring data for clients with strings. Temp message with SET and EXPIRE.
+Now, let's open up the **`status.js`** file in the **`routers`**  folder. We need to replace the clearly unimplemented code with something a little more... implemented.
 
-### GET ###
-curl -X GET http://localhost:8080/motd
+Add a call to `.ping()` and await a response. Then, return that response—along with some other server details (just for fun):
 
-### SET ###
-curl -X PUT -H "Content-Type: application/json" -d '{"motd":"Eat more chicken","expireIn":10}' http://localhost:8080/motd
+```javascript
+  const pingResponse = await redis.ping()
+  res.send({ name, version, pingResponse })
+```
 
-### EXPIRE ###
+Now try it out. You can use your browser, curl, Postman, or whatever you want to try it out. I like to use curl combined with [jq](https://stedolan.github.io/jq/) as that makes my JSON pretty so all my examples will look like this:
 
-### UNLINK ###
-curl -X DELETE http://localhost:8080/motd
+```bash
+curl -X GET http://localhost:8080/status -s | jq
+```
 
-## Lists ##
-
-Imcoming reports as a List
-
-## Hashes ##
-
-CRUD sightings data with Hashes
-
-## Sets ##
-
-All of the sightings with Sets.
-Indexing our sitings with Sets.
+If you want to use curl without jq, you'll need to just remove the pipe to jq:
 
 
+```bash
+curl -X GET http://localhost:8080/status -s
+```
+
+Regardless, this should return the following JSON:
+
+```json
+{
+  "name": "bigfoot-tracker-api",
+  "version": "1.0.0",
+  "pingResponse": "PONG"
+}
+```
+
+
+And that's it. We successfully talk to Redis. Let's [do something with some Strings](10-NODE-REDIS-STRINGS.md) next.
