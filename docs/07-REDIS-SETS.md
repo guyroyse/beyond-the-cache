@@ -32,7 +32,7 @@ You can check to see if a member is in the Set using the [SISMEMBER](https://red
 (integer) 0
 ```
 
-And, finally, you can remove members from a Set using the [SREM](https://redis.io/commands/SREB/) command. Let's delete some stuff:
+And, finally, you can remove members from a Set using the [SREM](https://redis.io/commands/srem/) command. Let's delete some stuff:
 
 ```bash
 127.0.0.1:6379> SREM states Ohio
@@ -41,11 +41,32 @@ And, finally, you can remove members from a Set using the [SREM](https://redis.i
 (integer) 2
 ```
 
+If you have more than one Set, you can get the difference, intersection, or union of those Sets with the [SDIFF](https://redis.io/commands/sdiff/), [SINTER](https://redis.io/commands/sinter/), [SUNION](https://redis.io/commands/sunion/) commands repsectively. Create some sets and try them out:
+
+```bash
+127.0.0.1:6379> SADD midwest:states Ohio Indiana Michigan
+(integer) 3
+127.0.0.1:6379> SADD eastern:states Ohio Pennsylvania Maryland
+(integer) 3
+127.0.0.1:6379> SDIFF midwest:states eastern:states
+1) "Michigan"
+2) "Indiana"
+127.0.0.1:6379> SINTER midwest:states eastern:states
+1) "Ohio"
+127.0.0.1:6379> SUNION midwest:states eastern:states
+1) "Michigan"
+2) "Ohio"
+3) "Indiana"
+4) "Pennsylvania"
+5) "Maryland"
+```
+
 ### 📍 Figure It Out ###
 
-- What happens when you add a member that's already in the Set?
-- What happens when you remove a member that's not in the Set?
-- Look at the [Hash commands](https://redis.io/commands/?group=hash). How would you get the field names of a Hash? The length?
+- What happens when you add a member that's already in a Set?
+- What happens when you remove a member that's not in a Set?
+- What happens when you check the cardinality of a Set that's not defined in Redis?
+- What happens when you flip the order of the arguments in SDIFF?
 
 
 Now that you've tried out some of the most common data structures in Redis, it's time to write some code using Node Redis. We'll start by [setting up a simple API](08-API-SETUP.md) using Express.
