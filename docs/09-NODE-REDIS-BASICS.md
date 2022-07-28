@@ -60,17 +60,22 @@ Add a call to `.ping()` and await a response. Then, return that response—along
   res.send({ name, version, pingResponse })
 ```
 
-Now try it out. You can use your browser, curl, Postman, or whatever you want to try it out. I like to use curl combined with [jq](https://stedolan.github.io/jq/) as that makes my JSON pretty so all my examples will look like this:
+Note that most calls to Redis are `async`. So, you'll need to `await` them.
+
+You might notice that the PING command in Redis is mapped to the `.ping()` function in Node Redis. This is a common pattern. Almost all of the Redis commands map to a function of the same name in Node Redis. But they are converted from uppercase to camelcase.
+
+For single-word commands, this is really easy. Things like PING, GET, and EXPIRE become `.ping()`, `.set()`, and `.expire()`. More verbosely named commands are only slightly trickier. For example, HGETALL and SISMEMBER become `.hGetAll()` and `.sIsMember()`.
+
+But we just called `.ping()`. So let's try it out. You can use your browser, curl, Postman, or whatever you want to do so. All of my examples will be using curl like this:
+
+```bash
+curl -X GET http://localhost:8080/status
+```
+
+Personally, I like to use curl combined with [jq](https://stedolan.github.io/jq/) as that makes my JSON pretty. It's an option of you want to explore it:
 
 ```bash
 curl -X GET http://localhost:8080/status -s | jq
-```
-
-If you want to use curl without jq, you'll need to just remove the pipe to jq:
-
-
-```bash
-curl -X GET http://localhost:8080/status -s
 ```
 
 Regardless, this should return the following JSON:

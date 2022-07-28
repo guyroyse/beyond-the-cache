@@ -4,14 +4,17 @@ import { redis } from '../redis/index.js'
 
 export const motdRouter = Router()
 
+/* get the message of the day */
 motdRouter.get('/', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
-motdRouter.put('/', async (req, res) => {
+/* set the message of the day */
+motdRouter.put('/', (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
-motdRouter.delete('/', async (req, res) => {
+/* clear the message of the day */
+motdRouter.delete('/', (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })

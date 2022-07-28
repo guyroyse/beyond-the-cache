@@ -15,6 +15,7 @@ Note the folders:
 
 - **`data`**: Contains sample Bigfoot Tracker data we can load into Redis.
 - **`docs`**: Contains all the instructions for the workshop. You are reading them right now.
+- **`slides`**: Contains the slides I'll be presenting during the workshop.
 - **`solution`**: This is the folder that contains the completed API that you'll be creating. If you get stuck and need to see the answer (i.e. cheat) this is where you can do it.
 - **`src`**: This is the folder you will be working from. Change into here to run the application.
 

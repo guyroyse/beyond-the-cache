@@ -4,26 +4,32 @@ import { redis } from '../redis/index.js'
 
 export const motdRouter = Router()
 
+const motdKey = 'bigfoot:motd'
+
+/* get the message of the day */
 motdRouter.get('/', async (req, res) => {
-  const motd = await redis.get('bigfoot:motd')
+  const motd = await redis.get(motdKey)
   res.send({ motd })
 })
 
-motdRouter.put('/', async (req, res) => {
+/* set the message of the day */
+motdRouter.put('/', (req, res) => {
   const { motd, expireIn } = req.body
   if (expireIn ?? 0 > 0) {
-    await redis.setEx('bigfoot:motd', expireIn, motd)
+    redis.setEx('bigfoot:motd', expireIn, motd)
   } else {
-    await redis.set('bigfoot:motd', motd)
+    redis.set('bigfoot:motd', motd)
   }
   res.send({
     status: "OK",
-    message: `MOTD set to ${motd} for ${expireIn} seconds.`
+    message: `MOTD set to: ${motd}`,
+    expireIn
   })
 })
 
-motdRouter.delete('/', async (req, res) => {
-  await redis.unlink('bigfoot:motd')
+/* clear the message of the day */
+motdRouter.delete('/', (req, res) => {
+  redis.unlink('bigfoot:motd')
   res.send({
     status: "OK",
     message: `MOTD removed.`
