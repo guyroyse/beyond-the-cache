@@ -56,5 +56,6 @@ Next, use [INCRBY](https://redis.io/commands/incrby/) and [DECRBY](https://redis
 - What about a String that doesn't contain a number?
 - What happens when you give INCRBY and DECRBY negative numbers?
 
+----------------------------------------
 
 Before we explore the next data structure, let's learn some of the commands for [manipulating keys](04-REDIS-KEYS.md) in Redis.

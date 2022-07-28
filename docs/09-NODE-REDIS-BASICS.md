@@ -88,5 +88,17 @@ Regardless, this should return the following JSON:
 }
 ```
 
+## One Last Thing
 
-And that's it. We successfully talk to Redis. Let's [do something with some Strings](10-NODE-REDIS-STRINGS.md) next.
+Before we start adding more code to our API and more data to Redis, let's go ahead and clean out the data we have already stored from the previous section of the workshop. To do that, I'm going to teach you a **very dangerous** Redis command—[FLUSHALL](https://redis.io/commands/flushall/).
+
+FLUSHALL removes all data from Redis. All data. Everything. And, it doesn't prompt you to ask if you are sure. It just *does it*. So, this is fine to use for learning and experiments and workshops and whatnot. But if you run it in production, you're gonna have a bad day.
+
+Go ahead and run this command from RedisInsight:
+
+```bash
+127.0.0.1:6379> FLUSHALL
+OK
+```
+
+And that's it. We successfully talked to Redis and learned a dangerous thing. Now, let's [do something with some Strings](10-NODE-REDIS-STRINGS.md).

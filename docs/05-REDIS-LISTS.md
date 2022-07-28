@@ -66,5 +66,6 @@ You can even pop from one list and push to another using [LMOVE](https://redis.i
 - What happens when you RPOP or LPOP from an empty List?
 - What happens if you set the source and destination of LMOVE to the same List?
 
+----------------------------------------
 
 Now that you've explored Lists, it's time to take a look at [Hashes](06-REDIS-HASHES.md).

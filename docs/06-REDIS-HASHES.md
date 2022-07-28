@@ -75,5 +75,6 @@ And, of course, you need to be able to delete things. You can do this with the [
 - What happens when you remove all the items from a Hash?
 - Look at the [Hash commands](https://redis.io/commands/?group=hash). How would you get the field names of a Hash? The length?
 
+----------------------------------------
 
 Hashes down. Let's take a look at [Sets](07-REDIS-SETS.md).

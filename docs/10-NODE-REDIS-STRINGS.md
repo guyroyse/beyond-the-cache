@@ -6,7 +6,7 @@ We'll be using the Redis commands of [GET](https://redis.io/commands/get/), [SET
 
 Go ahead and open **`src/motd.js`** as this is where we'll be making our changes.
 
-## Getting the MOTD
+## Getting the MOTD ##
 
 Find the route that gets the message of the day and add the following code inside it:
 
@@ -31,7 +31,7 @@ It should return a null as we've not set the message of the day:
 
 Let's set one.
 
-## Setting the MOTD
+## Setting the MOTD ##
 
 Add the following code to set the message of the day:
 
@@ -77,7 +77,7 @@ And you should see:
 }
 ```
 
-## Clearing the MOTD
+## Clearing the MOTD ##
 
 We can read and write. Now let's delete. Add the following code:
 
@@ -118,7 +118,7 @@ And you should get a `null`:
 }
 ```
 
-## Expiring the MOTD
+## Expiring the MOTD ##
 
 We want our message of the day to automaitcally expire. That way we don't have to go in and manually remove it. Let's modify our code that sets the message of the day to optionally allow you to provide an expiration:
 
@@ -156,6 +156,10 @@ And you should get:
 
 Wait a few second and see if the message disappears. Check it via the API, as you did earlier, or take a look in RedisInsight.
 
-## Refactoring Our Code
+## Refactoring Our Code ##
 
 We've got one little messy bit in our code here. We've used a magic value of `bigfoot:motd` all over the place. Let's clean that up and move it to a constant named `motdKey`.
+
+----------------------------------------
+
+And that's it. We wrote, read, and removed Strings from  Redis. Let's work with [Lists](11-NODE-REDIS-LISTS.md) next.

@@ -43,5 +43,6 @@ OK
 - What happens when you ask for the TTL on a non-EXPIREd key?
 - What happens when you ask for the TTL on a key that no longer exists?
 
+----------------------------------------
 
 Let's check out [Lists](05-REDIS-LISTS.md) next.

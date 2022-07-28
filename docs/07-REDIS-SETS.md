@@ -68,5 +68,6 @@ If you have more than one Set, you can get the difference, intersection, or unio
 - What happens when you check the cardinality of a Set that's not defined in Redis?
 - What happens when you flip the order of the arguments in SDIFF?
 
+----------------------------------------
 
 Now that you've tried out some of the most common data structures in Redis, it's time to write some code using Node Redis. We'll start by [setting up a simple API](08-API-SETUP.md) using Express.
