@@ -24,9 +24,24 @@ Add the following code to add a report to the list:
 Try adding some reports:
 
 ```bash
-curl -X POST -H "Content-Type: application/json" -d '{ "report": "I saw Bigfoot out by the Walmart" }' http://localhost:8080/report
-curl -X POST -H "Content-Type: application/json" -d '{ "report": "I heard Bigfoot behind the trailer digging through some trash cans" }' http://localhost:8080/report
-curl -X POST -H "Content-Type: application/json" -d '{ "report": "My grandpa told me about this time he saw Bigfoot when he was a kid in Kentucky" }' http://localhost:8080/report
+curl \
+  -X POST \
+  -H "Content-Type: application/json" \
+  -d '{ "report": "I saw Bigfoot out by the Walmart" }' \
+  http://localhost:8080/report
+
+
+curl \
+  -X POST \
+  -H "Content-Type: application/json" \
+  -d '{ "report": "I heard Bigfoot behind the trailer digging through some trash cans" }' \
+  http://localhost:8080/report
+
+curl \
+  -X POST \
+  -H "Content-Type: application/json" \
+  -d '{ "report": "My grandpa told me about this time he saw Bigfoot when he was a kid in Kentucky" }' \
+  http://localhost:8080/report
 ```
 
 Each of these should respond with the following:
@@ -50,7 +65,7 @@ Add the following code to retrieve all the incoming reports:
 And test it out:
 
 ```bash
-curl -X GET http://localhost:8080/report -s | jq
+curl -X GET http://localhost:8080/report
 ```
 
 Hey, look. There's all the reports we added:

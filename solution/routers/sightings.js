@@ -113,4 +113,3 @@ sightingsRouter.delete('/:id', async (req, res) => {
     message: `Sighting ${id} removed.`
   })
 })
-

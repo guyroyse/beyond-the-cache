@@ -49,7 +49,11 @@ Note that we are not awaiting the call to `.set()`. This is becauase we don't ca
 Invoke it over REST to set a message:
 
 ```bash
-curl -X PUT -H "Content-Type: application/json" -d '{ "motd": "The Bigfoot Tracker will be down for scheduled maintenance tomorrow." }' http://localhost:8080/motd
+curl \
+  -X PUT \
+  -H "Content-Type: application/json" \
+  -d '{ "motd": "The Bigfoot Tracker will be down for scheduled maintenance tomorrow." }' \
+  http://localhost:8080/motd
 ```
 
 You should get the following reply:
@@ -141,7 +145,11 @@ Note that we are checking to see if `expireIn` is defined and that is greater th
 Let's try it out and set an expiring message of the day:
 
 ```bash
-curl -X PUT -H "Content-Type: application/json" -d '{ "expireIn": 60, "motd": "The Bigfoot Tracker will be down for scheduled maintenance tomorrow." }' http://localhost:8080/motd
+curl \
+  -X PUT \
+  -H "Content-Type: application/json" \
+  -d '{ "expireIn": 60, "motd": "The Bigfoot Tracker will be down for scheduled maintenance tomorrow." }' \
+  http://localhost:8080/motd
 ```
 
 And you should get:

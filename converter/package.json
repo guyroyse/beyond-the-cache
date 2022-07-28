@@ -1,0 +1,14 @@
+{
+  "name": "bigfoot-data-converter",
+  "version": "1.0.0",
+  "description": "Quick utility to convert Bigfoot CSV data to discrete JSON files",
+  "type": "module",
+  "author": "Guy Royse <guy@guy.dev.com> (http://guy.dev/)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./convert.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
