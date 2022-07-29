@@ -18,7 +18,7 @@ Find the route that gets the message of the day and add the following code insid
 Save, and try out the route:
 
 ```bash
-curl -X GET http://localhost:8080/motd
+curl -X GET localhost:8080/motd
 ```
 
 It should return a null as we've not set the message of the day:
@@ -53,7 +53,7 @@ curl \
   -X PUT \
   -H "Content-Type: application/json" \
   -d '{ "motd": "The Bigfoot Tracker will be down for scheduled maintenance tomorrow." }' \
-  http://localhost:8080/motd
+  localhost:8080/motd
 ```
 
 You should get the following reply:
@@ -70,7 +70,7 @@ Use RedisInsight to look at what you have wrought. There should be a key named `
 Go ahead and get it from the API:
 
 ```bash
-curl -X GET http://localhost:8080/motd
+curl -X GET localhost:8080/motd
 ```
 
 And you should see:
@@ -96,7 +96,7 @@ We can read and write. Now let's delete. Add the following code:
 And try deleting the message of the day:
 
 ```bash
-curl -X DELETE http://localhost:8080/motd
+curl -X DELETE localhost:8080/motd
 ```
 
 You should get the response:
@@ -111,7 +111,7 @@ You should get the response:
 Confirm this with a get:
 
 ```bash
-curl -X GET http://localhost:8080/motd
+curl -X GET localhost:8080/motd
 ```
 
 And you should get a `null`:
@@ -149,7 +149,7 @@ curl \
   -X PUT \
   -H "Content-Type: application/json" \
   -d '{ "expireIn": 60, "motd": "The Bigfoot Tracker will be down for scheduled maintenance tomorrow." }' \
-  http://localhost:8080/motd
+  localhost:8080/motd
 ```
 
 And you should get:

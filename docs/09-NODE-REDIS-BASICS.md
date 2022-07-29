@@ -69,13 +69,13 @@ For single-word commands, this is really easy. Things like PING, GET, and EXPIRE
 But we just called `.ping()`. So let's try it out. You can use your browser, curl, Postman, or whatever you want to do so. All of my examples will be using curl like this:
 
 ```bash
-curl -X GET http://localhost:8080/status
+curl -X GET localhost:8080/status
 ```
 
 Personally, I like to use curl combined with [jq](https://stedolan.github.io/jq/) as that makes my JSON pretty. It's an option of you want to explore it:
 
 ```bash
-curl -X GET http://localhost:8080/status -s | jq
+curl -X GET localhost:8080/status -s | jq
 ```
 
 Regardless, this should return the following JSON:

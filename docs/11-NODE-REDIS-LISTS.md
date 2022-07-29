@@ -28,20 +28,19 @@ curl \
   -X POST \
   -H "Content-Type: application/json" \
   -d '{ "report": "I saw Bigfoot out by the Walmart" }' \
-  http://localhost:8080/report
-
+  localhost:8080/report
 
 curl \
   -X POST \
   -H "Content-Type: application/json" \
   -d '{ "report": "I heard Bigfoot behind the trailer digging through some trash cans" }' \
-  http://localhost:8080/report
+  localhost:8080/report
 
 curl \
   -X POST \
   -H "Content-Type: application/json" \
   -d '{ "report": "My grandpa told me about this time he saw Bigfoot when he was a kid in Kentucky" }' \
-  http://localhost:8080/report
+  localhost:8080/report
 ```
 
 Each of these should respond with the following:
@@ -65,7 +64,7 @@ Add the following code to retrieve all the incoming reports:
 And test it out:
 
 ```bash
-curl -X GET http://localhost:8080/report
+curl -X GET localhost:8080/report
 ```
 
 Hey, look. There's all the reports we added:
@@ -90,7 +89,7 @@ Let's add the code to pop a report off of the list for processing:
 Let's pop one off the queue:
 
 ```bash
-curl -X PATCH http://localhost:8080/report
+curl -X PATCH localhost:8080/report
 ```
 
 You should get back the first one you added. Hey, we made a FIFO queue!
@@ -106,7 +105,7 @@ Go ahead and use the same command to pop them all off the list. What happens whe
 Once they are all gone, let's try fetching all the reports again and see what we get:
 
 ```bash
-curl -X GET http://localhost:8080/report
+curl -X GET localhost:8080/report
 ```
 
 Nothing. We get nothing:
@@ -116,4 +115,4 @@ Nothing. We get nothing:
 
 ----------------------------------------
 
-Now the we are bring in reports, let's see how to create Bigfoot sigthings using [Hashes](12-NODE-REDIS-HASHES.md).
+Now the we are bringing in reports, let's see how to create Bigfoot sightings using [Hashes](12-NODE-REDIS-HASHES.md).
