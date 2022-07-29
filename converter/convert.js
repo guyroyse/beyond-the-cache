@@ -52,7 +52,7 @@ fs.createReadStream('../data/bfro_reports_geocoded.csv')
 
     // write the data to a file
     fs.writeFile(
-      `../data/bigfoot-sighting-${id}.json`,
+      `../data/json/bigfoot-sighting-${id}.json`,
       JSON.stringify(json, null, 2),
       err => {
         if (err) console.log(err)
