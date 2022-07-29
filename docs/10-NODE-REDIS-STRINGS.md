@@ -6,6 +6,16 @@ We'll be using the Redis commands of [GET](https://redis.io/commands/get/), [SET
 
 Go ahead and open **`src/motd.js`** as this is where we'll be making our changes.
 
+## Endpoints ##
+
+Here's the various endpoints for this section:
+
+| Verb   | Path  | Description
+|:-------|:------|:------------------------------------------------------------
+| GET    | /motd | Get the message of the day
+| PUT    | /motd | Create or replace the message of the day
+| DELETE | /motd | Clear the message of the day
+
 ## Getting the MOTD ##
 
 Find the route that gets the message of the day and add the following code inside it:

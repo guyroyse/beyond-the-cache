@@ -1,6 +1,6 @@
 # Hashes #
 
-Let's get to the meat of the Bigfoot Tracker API and store and retrieve Bigfoot sightings. We'll use Hashes to do this—storing a single sighting in a single Hash using at keyspace of `bigfoot:sighting:`.
+Let's get to the meat of the Bigfoot Tracker API and store and retrieve Bigfoot sightings. We'll use Hashes to do this—storing a single sighting in a single Hash using a keyspace of `bigfoot:sighting:`.
 
 We'll be using the Redis commands of [HSET](https://redis.io/commands/hset/), [HGETALL](https://redis.io/commands/hgetall/), and [UNLINK](https://redis.io/commands/unlink/) in this section.
 
@@ -10,20 +10,25 @@ Go ahead and open **`src/sightings.js`** as this is where we'll be making our ch
 
 Here's the various endpoints for this section. We'll add more endpoints to it in the next section when we talk about RediSearch and RediJSON:
 
-| Verb   | Path | Description
-|:-------|:-----|:------------------------------------------------------------
-| GET    | /    | Get all of the Bigfoot sighting
-| POST   | /    | Add a new Bigfoot sighting and assign it an ID
-| GET    | /:id | Get an existing Bigfoot sighting by ID
-| PUT    | /:id | Create or replace a Bigfoot sighting with the given ID
-| PATCH  | /:id | Add a new Bigfoot sighting and assign it an ID
-| DELETE | /:id | Add a new Bigfoot sighting and assign it an ID
+| Verb   | Path           | Description
+|:-------|:---------------|:------------------------------------------------------------
+| POST   | /sightings     | Add a new Bigfoot sighting and assign it an ID
+| GET    | /sightings/:id | Get an existing Bigfoot sighting for the given ID
+| PATCH  | /sightings/:id | Update an existing Bigfoot sighting for the given ID
+| PUT    | /sightings/:id | Create or replace a Bigfoot sighting with the given ID
+| DELETE | /sightings/:id | Remove a Bigfoot sighting for the given ID
+| GET    | /sightings     | Get all of the Bigfoot sighting
 
 ## Optimzing `curl` ##
 
-We've been typing in all the data for `curl` for the last view examples, and, frankly, it's kinda tedious. So, in the **`data`** folder, there are several JSON files containing Bigfoot sightings. We'll tell `curl` to load these instead of typing in the data manually for all the examples in this section.
+We've been typing in all the data for `curl` for the last view examples, and, frankly, it's kinda tedious. So, in the **`data`** folder, there are a few thousand JSON files containing Bigfoot sightings. We'll tell `curl` to load some of these instead of typing in the data manually for all the examples in this section.
 
 ## Adding a New Sighting ##
+## Fetch a Sighting ##
+## Update a Sighting by ID ##
+## Replace a Sighting ##
+## Remove a Sighting ##
+## Get All the Sightings ##
 
 Add the following code to add a report to the list:
 

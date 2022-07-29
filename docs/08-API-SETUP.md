@@ -13,7 +13,7 @@ git clone git@github.com:guyroyse/beyond-the-cache.git
 
 Note the folders:
 
-- **`data`**: Contains sample Bigfoot Tracker data we can load into Redis.
+- **`data`**: Contains sample Bigfoot Tracker data we can load into Redis and a shell script to load it.
 - **`docs`**: Contains all the instructions for the workshop. You are reading them right now.
 - **`slides`**: Contains the slides I'll be presenting during the workshop.
 - **`solution`**: This is the folder that contains the completed API that you'll be creating. If you get stuck and need to see the answer (i.e. cheat) this is where you can do it.

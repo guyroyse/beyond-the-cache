@@ -8,6 +8,16 @@ We'll be using the Redis commands of [RPUSH](https://redis.io/commands/rpush/), 
 
 Go ahead and open **`src/report.js`** as this is where we'll be making our changes.
 
+## Endpoints ##
+
+Here's the various endpoints for this section:
+
+| Verb  | Path    | Description
+|:------|:--------|:------------------------------------------------------------
+| POST  | /report | Add a new report to the list of reported Bigfoot sightings
+| GET   | /report | Get all the reported Bigfoot sightings in the list
+| PATCH | /report | Remove and return the next report of a Bigfoot sighting
+
 ## Adding a New Report ##
 
 Add the following code to add a report to the list:
