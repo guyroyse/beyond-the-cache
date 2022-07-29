@@ -5,8 +5,10 @@ import { redis } from '../redis/index.js'
 
 export const sightingsRouter = Router()
 
+const sightingKey = id => `bigfoot:sighting:${id}`
+
 /* add a new sighting and assign it an ID */
-sightingsRouter.post('/', async (req, res) => {
+sightingsRouter.post('/', (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
@@ -15,18 +17,18 @@ sightingsRouter.get('/:id', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
-/* create or replace a specific sighting with the provided ID */
-sightingsRouter.put('/:id', async (req, res) => {
+/* update a specific sighting by ID with the provided fields */
+sightingsRouter.patch('/:id', (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
-/* update a specific sighting by ID with the provided fields */
-sightingsRouter.patch('/:id', async (req, res) => {
+/* create or replace a specific sighting with the provided ID */
+sightingsRouter.put('/:id', (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
 /* delete a specific sighting by ID */
-sightingsRouter.delete('/:id', async (req, res) => {
+sightingsRouter.delete('/:id', (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
