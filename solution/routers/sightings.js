@@ -12,7 +12,7 @@ sightingsRouter.post('/', (req, res) => {
   const id = ulid()
   const key = sightingKey(id)
 
-  redis.hSet(key, { id, ...req.body })
+  redis.json.set(key, '$', { id, ...req.body })
 
   res.send({ id })
 })
@@ -22,22 +22,41 @@ sightingsRouter.get('/:id', async (req, res) => {
   const { id } = req.params
   const key = sightingKey(id)
 
-  const sighting = await redis.hGetAll(key)
+  const sighting = await redis.json.get(key)
 
   res.send(sighting)
 })
 
 /* update a specific sighting by ID with the provided fields */
-sightingsRouter.patch('/:id', (req, res) => {
+sightingsRouter.patch('/:id', async (req, res) => {
   const { id } = req.params
   const key = sightingKey(id)
 
-  redis.hSet(key, req.body)
+  try {
+    await redis.executeIsolated(async isolatedClient => {
+      await isolatedClient.watch(key)
 
-  res.send({
-    status: "OK",
-    message: `Sighting ${id} updated.`
-  })
+      const multi = isolatedClient.multi()
+
+      Object.entries(req.body).forEach(([prop, value]) => {
+        multi.json.set(key, `$.${prop}`, value)
+      })
+
+      await multi.exec()
+    })
+
+    res.send({
+      status: "OK",
+      message: `Sighting ${id} update.`
+    })
+  } catch (err) {
+    if (err instanceof WatchError) {
+      res.send({
+        status: "ERROR",
+        message: `Sighting ${id} was not updated.`
+      })
+    }
+  }
 })
 
 /* create or replace a specific sighting with the provided ID */
@@ -45,28 +64,12 @@ sightingsRouter.put('/:id', async (req, res) => {
   const { id } = req.params
   const key = sightingKey(id)
 
-  try {
-    await redis.executeIsolated(async isolatedClient => {
-      await isolatedClient.watch(key)
-      await isolatedClient
-        .multi()
-          .unlink(key)
-          .hSet(key, { id, ...req.body })
-        .exec()
-    })
+  redis.json.set(key, '$', { id, ...req.body })
 
-    res.send({
-      status: "OK",
-      message: `Sighting ${id} created or replaced.`
-    })
-  } catch (err) {
-    if (err instanceof WatchError) {
-      res.send({
-        status: "ERROR",
-        message: `Sighting ${id} was not created or replaced.`
-      })
-    }
-  }
+  res.send({
+    status: "OK",
+    message: `Sighting ${id} created or replaced.`
+  })
 })
 
 /* delete a specific sighting by ID */
@@ -74,7 +77,7 @@ sightingsRouter.delete('/:id', (req, res) => {
   const { id } = req.params
   const key = sightingKey(id)
 
-  redis.unlink(key)
+  redis.json.del(key)
 
   res.send({
     status: "OK",
@@ -86,7 +89,7 @@ sightingsRouter.delete('/:id', (req, res) => {
 sightingsRouter.get('/', async (req, res) => {
   const keys = await redis.keys('bigfoot:sighting:*')
   const sightings = await Promise.all(
-    keys.map(key => redis.hGetAll(key))
+    keys.map(key => redis.json.get(key))
   )
   res.send(sightings)
 })

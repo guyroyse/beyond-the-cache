@@ -127,7 +127,7 @@ If it doesn't, make sure you are using the correct ULID.
 
 ## Update a Sighting by ID ##
 
-Let's a the code to update a sighting:
+Let's add the code to update a sighting:
 
 ```javascript
   const { id } = req.params
