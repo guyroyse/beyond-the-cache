@@ -41,17 +41,32 @@ sightingsRouter.patch('/:id', (req, res) => {
 })
 
 /* create or replace a specific sighting with the provided ID */
-sightingsRouter.put('/:id', (req, res) => {
+sightingsRouter.put('/:id', async (req, res) => {
   const { id } = req.params
   const key = sightingKey(id)
 
-  redis.unlink(key)
-  redis.hSet(key, { id, ...req.body })
+  try {
+    await redis.executeIsolated(async isolatedClient => {
+      await isolatedClient.watch(key)
+      await isolatedClient
+        .multi()
+          .unlink(key)
+          .hSet(key, { id, ...req.body })
+        .exec()
+    })
 
-  res.send({
-    status: "OK",
-    message: `Sighting ${id} created or replaced.`
-  })
+    res.send({
+      status: "OK",
+      message: `Sighting ${id} created or replaced.`
+    })
+  } catch (err) {
+    if (err instanceof WatchError) {
+      res.send({
+        status: "ERROR",
+        message: `Sighting ${id} was not created or replaced.`
+      })
+    }
+  }
 })
 
 /* delete a specific sighting by ID */
