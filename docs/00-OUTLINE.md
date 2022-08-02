@@ -1,8 +1,6 @@
 # Beyond the Cache with Redis + Node.js
 
-This is the outline for the Beyond the Cache with Redis + Node.js workshop:
-
-## Part 1 ##
+This is the outline for the Beyond the Cache with Redis + Node.js workshop. If you're attending the full-day workshop, we should cover all the material. If you're attending the half-day workshop, we'll start at the begining and probably get about half of this outline completed. Either way, you should be able to complete the rest of the workshop on your own:
 
    1. **Presentation**: Introduction
    2. **Presentation**: How to Get Redis
@@ -23,10 +21,16 @@ This is the outline for the Beyond the Cache with Redis + Node.js workshop:
   17. **Presentation**: Pipelining & Transactions
   18. **Hands On**: [Using Transactions](13-TRANSACTIONS.md)
   21. **Presentation**: RedisJSON & RediSearch
-  22. **Hands On**: Replacing Hashes with RedisJSON
-  23. **Hands On**: Searching with RedisSearch
+  22. **Hands On**: [Using RedisJSON](14-REDISJSON.md)
+  22. **Hands On**: [Replacing Hashes with RedisJSON](15-HASHES-TO-JSON.md)
+  23. **Hands On**: [Using RediSearch](16.md)
+  23. **Hands On**: [Implementing Searach](17.md)
   19. **Presentation**: Redis Streams
-  20. **Hands On**: Replacing Our Lists with a Stream
-
-## Part 2 ##
-
+  20. **Hands On**: [Using Streams](18.md)
+  21. **Hands On**: [Replacing Our Lists with a Stream](19.md)
+  22. **Presentation**: Using PubSub
+  23. **Hands On**: [Making Bigchat with PubSub](20.md)
+  24. **Presentation**: Storing Binary Data in Strings, Lists, and Hashes
+  25. **Hands On**: [Accepting Photos of Bigfoot](21.md)
+  26. **Presentation**: Bit Twiddling
+  27. **Hands On**: [Decoding 13-bit Messages from Bigfoot](21.md)
