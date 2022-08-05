@@ -28,7 +28,7 @@ This is the outline for the Beyond the Cache with Redis + Node.js workshop. If y
   22. **Hands On**: [Search Numbers and Positions](18-REDISEARCH-NUMERIC-AND-GEO.md)
   23. **Hands On**: [Implementing Search](19-NODE-REDIS-SEARCH.md)
   24. **Presentation**: Redis Streams
-  25. **Hands On**: Using Streams
+  25. **Hands On**: [Using Streams](20-REDIS-STREAMS.md)
   26. **Hands On**: Replacing Our Lists with a Stream
   27. **Presentation**: Using PubSub
   28. **Hands On**: Making Bigchat with PubSub
