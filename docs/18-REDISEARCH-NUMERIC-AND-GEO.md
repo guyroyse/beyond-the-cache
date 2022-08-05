@@ -246,4 +246,4 @@ And that's GEO.
 
 ----------------------------------------
 
-Search covered, let's see about making our Bigfoot Tracking API take advantage of [RediSearch from Node Redis](19.md) to get rid of that call to `.keys()` and to complete our API!
+Search covered, let's see about making our Bigfoot Tracking API take advantage of [RediSearch from Node Redis](19-NODE-REDIS-SEARCH.md) to get rid of that call to `.keys()` and to complete our API!
