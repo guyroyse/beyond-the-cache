@@ -1,11 +1,12 @@
 import { Router } from 'express'
 import { ulid } from 'ulid'
 
-import { redis } from '../redis/index.js'
+import { redis, sightingIndex } from '../redis/index.js'
 
 export const sightingsRouter = Router()
 
 const sightingKey = id => `bigfoot:sighting:${id}`
+const escapeTag = tag => tag.replaceAll(' ', '\\ ')
 
 /* add a new sighting and assign it an ID */
 sightingsRouter.post('/', (req, res) => {
@@ -87,24 +88,52 @@ sightingsRouter.delete('/:id', (req, res) => {
 
 /* get all of the sightings */
 sightingsRouter.get('/', async (req, res) => {
-  const keys = await redis.keys('bigfoot:sighting:*')
-  const sightings = await Promise.all(
-    keys.map(key => redis.json.get(key))
-  )
+  const results = await redis.ft.search(sightingIndex, '*', { LIMIT: { from: 0, size: 5000 } })
+  const sightings = results.documents.map(document => document.value)
+  res.send(sightings)
+})
+
+/* get a page of sightings */
+sightingsRouter.get('/page/:pageNumber', async (req, res) => {
+  const page = Number(req.params.pageNumber)
+  const size = 20
+  const from = (page - 1) * size
+
+  const results = await redis.ft.search(sightingIndex, '*', { LIMIT: { from, size } })
+  const sightings = results.documents.map(document => document.value)
+
   res.send(sightings)
 })
 
 /* get all of the sightings for a state */
 sightingsRouter.get('/by-state/:state', async (req, res) => {
-  res.send(`"NOT IMPLEMENTED"`)
+  const { state } = req.params
+  const query = `@state:{${escapeTag(state)}}`
+
+  const results = await redis.ft.search(sightingIndex, query, { LIMIT: { from: 0, size: 20 } })
+  const sightings = results.documents.map(document => document.value)
+
+  res.send(sightings)
 })
 
 /* get all of the sightings for a class */
-sightingsRouter.get('/by-class/:class', async (req, res) => {
-  res.send("NOT IMPLEMENTED")
+sightingsRouter.get('/by-class/:clazz', async (req, res) => {
+  const { clazz } = req.params
+  const query = `@classification:{${escapeTag(clazz)}}`
+
+  const results = await redis.ft.search(sightingIndex, query, { LIMIT: { from: 0, size: 20 } })
+  const sightings = results.documents.map(document => document.value)
+
+  res.send(sightings)
 })
 
 /* get all of the sightings for a state and a class */
-sightingsRouter.get('/by-state/:state/and-class/:class', async (req, res) => {
-  res.send("NOT IMPLEMENTED")
+sightingsRouter.get('/by-state/:state/and-class/:clazz', async (req, res) => {
+  const { state, clazz } = req.params
+  const query = `@state:{${escapeTag(state)}} @classification:{${escapeTag(clazz)}}`
+
+  const results = await redis.ft.search(sightingIndex, query, { LIMIT: { from: 0, size: 20 } })
+  const sightings = results.documents.map(document => document.value)
+
+  res.send(sightings)
 })

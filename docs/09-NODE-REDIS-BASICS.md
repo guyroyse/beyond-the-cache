@@ -51,7 +51,7 @@ Let's write some code. We're going to call PING against Redis to make sure that 
 npm start
 ```
 
-Now, let's open up the **`status.js`** file in the **`routers`**  folder. We need to replace the clearly unimplemented code with something a little more... implemented.
+Now, let's open up the **`status.js`** file in the **`routers`** folder. We need to replace the clearly unimplemented code with something a little more... implemented.
 
 Add a call to `.ping()` and await a response. Then, return that response—along with some other server details (just for fun):
 

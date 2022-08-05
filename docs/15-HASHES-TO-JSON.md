@@ -7,7 +7,7 @@ For the most part, this is pretty straight forward. We'll be replacing calls to 
 OK
 ```
 
-Go ahead and open **`src/sightings.js`** as this is where we'll be making our changes. Find any code in there that calls `.hSet()`. Like this line here:
+Go ahead and open **`routers/sightings.js`** as this is where we'll be making our changes. Find any code in there that calls `.hSet()`. Like this line here:
 
 ```javascript
   redis.hSet(key, { id, ...req.body })
@@ -239,4 +239,4 @@ curl -X DELETE localhost:8080/sightings/<your ulid>
 
 ----------------------------------------
 
-Assuming that is now all working, we can take a look at [RediSearch](16-REDISEARCH-BASICS.md) and finally get rid of that call the `.keys()` that is bugging us. And implement the rest of our routes in **`src/sightings.js`**.
+Assuming that is now all working, we can take a look at [RediSearch](16-REDISEARCH-BASICS.md) and finally get rid of that call the `.keys()` that is bugging us. And implement the rest of our routes in **`routers/sightings.js`**.

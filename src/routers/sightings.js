@@ -37,6 +37,11 @@ sightingsRouter.get('/', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
+/* get a page of sightings */
+sightingsRouter.get('/page/:pageNumber', async (req, res) => {
+  res.send(`"NOT IMPLEMENTED"`)
+})
+
 /* get all of the sightings for a state */
 sightingsRouter.get('/by-state/:state', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)

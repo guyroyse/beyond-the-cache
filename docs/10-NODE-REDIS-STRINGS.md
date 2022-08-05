@@ -4,7 +4,7 @@ Our Bigfoot Tracker API needs to provide a message of the day. This is a message
 
 We'll be using the Redis commands of [GET](https://redis.io/commands/get/), [SET](https://redis.io/commands/set/), and [UNLINK](https://redis.io/commands/unlink/) through Node Redis. And, we'll look at a new command that combines SET and EXPIRE atomicly—[SETEX](https://redis.io/commands/setex/).
 
-Go ahead and open **`src/motd.js`** as this is where we'll be making our changes.
+Go ahead and open **`routers/motd.js`** as this is where we'll be making our changes.
 
 ## Endpoints ##
 

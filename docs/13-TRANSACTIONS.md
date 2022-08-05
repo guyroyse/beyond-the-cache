@@ -60,7 +60,7 @@ But, for transactions to work, they need to happen on the same connection. And n
 
 ## Adding Transactions to Bigfoot Sightings ##
 
-Remember this code in **`src/sightings.js`**?
+Remember this code in **`routers/sightings.js`**?
 
 ```javascript
 sightingsRouter.put('/:id', (req, res) => {

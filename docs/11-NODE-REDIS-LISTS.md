@@ -6,7 +6,7 @@ We'll work on creating new Bigfoot sighting using Hashes in the next session. Fo
 
 We'll be using the Redis commands of [RPUSH](https://redis.io/commands/rpush/), [LRANGE](https://redis.io/commands/lrange/), and [LPOP](https://redis.io/commands/lpop/) through Node Redis for this section.
 
-Go ahead and open **`src/report.js`** as this is where we'll be making our changes.
+Go ahead and open **`routes/report.js`** as this is where we'll be making our changes.
 
 ## Endpoints ##
 
