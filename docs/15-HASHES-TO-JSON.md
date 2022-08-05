@@ -239,4 +239,4 @@ curl -X DELETE localhost:8080/sightings/<your ulid>
 
 ----------------------------------------
 
-Assuming that is now all working, we can take a look at [RediSearch](16-REDISEARCH.md) and finally get rid of that call the `.keys()` that is bugging us. And implement the rest of our routes in **`src/sightings.js`**.
+Assuming that is now all working, we can take a look at [RediSearch](16-REDISEARCH-BASICS.md) and finally get rid of that call the `.keys()` that is bugging us. And implement the rest of our routes in **`src/sightings.js`**.

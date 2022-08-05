@@ -1,7 +1,5 @@
 # Using RedisJSON #
 
-https://redis.io/docs/reference/modules/
-
 [RedisJSON](https://redis.io/docs/stack/json/) is a module. Modules are plugins to Redis that extend it with new data structures and new commands. Anyone can [write a module](https://redis.io/docs/reference/modules/), if they are handy with a systems-level programing language like C or Rust.
 
 RedisJSON, as you might have guessed based on the name, adds a JSON document data strucutre and and [commands](https://redis.io/commands/?group=json) to manipulate those documents.

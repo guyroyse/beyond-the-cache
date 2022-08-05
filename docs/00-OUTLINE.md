@@ -20,17 +20,19 @@ This is the outline for the Beyond the Cache with Redis + Node.js workshop. If y
   16. **Hands On**: [Storing Bigfoot Sightings with Hashes](12-NODE-REDIS-HASHES.md)
   17. **Presentation**: Pipelining & Transactions
   18. **Hands On**: [Using Transactions](13-TRANSACTIONS.md)
-  21. **Presentation**: RedisJSON & RediSearch
-  22. **Hands On**: [Using RedisJSON](14-REDISJSON.md)
-  22. **Hands On**: [Replacing Hashes with RedisJSON](15-HASHES-TO-JSON.md)
-  23. **Hands On**: [Using RediSearch](16.md)
-  23. **Hands On**: [Implementing Searach](17.md)
-  19. **Presentation**: Redis Streams
-  20. **Hands On**: [Using Streams](18.md)
-  21. **Hands On**: [Replacing Our Lists with a Stream](19.md)
-  22. **Presentation**: Using PubSub
-  23. **Hands On**: [Making Bigchat with PubSub](20.md)
-  24. **Presentation**: Storing Binary Data in Strings, Lists, and Hashes
-  25. **Hands On**: [Accepting Photos of Bigfoot](21.md)
-  26. **Presentation**: Bit Twiddling
-  27. **Hands On**: [Decoding 13-bit Messages from Bigfoot](21.md)
+  19. **Presentation**: RedisJSON & RediSearch
+  20. **Hands On**: [Using RedisJSON](14-REDISJSON.md)
+  21. **Hands On**: [Replacing Hashes with RedisJSON](15-HASHES-TO-JSON.md)
+  22. **Hands On**: [Using RediSearch](16-REDISEARCH-BASICS.md)
+  22. **Hands On**: [Searching Full-Text and Tags](17-REDISEARCH-TEXT-AND-TAG.md)
+  22. **Hands On**: [Search Numbers and Positions](18-REDISEARCH-NUMERIC-AND-GEO.md)
+  23. **Hands On**: [Implementing Search](19.md)
+  24. **Presentation**: Redis Streams
+  25. **Hands On**: Using Streams
+  26. **Hands On**: Replacing Our Lists with a Stream
+  27. **Presentation**: Using PubSub
+  28. **Hands On**: Making Bigchat with PubSub
+  29. **Presentation**: Storing Binary Data in Strings, Lists, and Hashes
+  30. **Hands On**: Accepting Photos of Bigfoot
+  31. **Presentation**: Bit Twiddling
+  32. **Hands On**: Decoding 13-bit Messages from Bigfoot
