@@ -156,4 +156,4 @@ That's plenty to get you started with RedisJSON. There are a [lots of additional
 
 ----------------------------------------
 
-Next, we're going to [convert our Bigfoot Tracker API to use RedisJSON]((15-HASHES-TO-JSON.md)).
+Next, we're going to [convert our Bigfoot Tracker API to use RedisJSON](15-HASHES-TO-JSON.md).
