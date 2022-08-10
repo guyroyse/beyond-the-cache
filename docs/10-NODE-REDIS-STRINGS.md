@@ -54,7 +54,7 @@ Add the following code to set the message of the day:
   })
 ```
 
-Note that we are not awaiting the call to `.set()`. This is becauase we don't care about the return value. So, no need to stick around and wait for it.
+Note that we are not awaiting the call to `.set()`. This is because we don't care about the return value. So, no need to stick around and wait for it.
 
 Invoke it over REST to set a message:
 
