@@ -64,7 +64,7 @@ Note that most calls to Redis are `async`. So, you'll need to `await` them.
 
 You might notice that the PING command in Redis is mapped to the `.ping()` function in Node Redis. This is a common pattern. Almost all of the Redis commands map to a function of the same name in Node Redis. But they are converted from uppercase to camelcase.
 
-For single-word commands, this is really easy. Things like PING, GET, and EXPIRE become `.ping()`, `.set()`, and `.expire()`. More verbosely named commands are only slightly trickier. For example, HGETALL and SISMEMBER become `.hGetAll()` and `.sIsMember()`.
+For single-word commands, this is really easy. Things like PING, GET, and EXPIRE become `.ping()`, `.get()`, and `.expire()`. More verbosely named commands are only slightly trickier. For example, HGETALL and SISMEMBER become `.hGetAll()` and `.sIsMember()`.
 
 But we just called `.ping()`. So let's try it out. You can use your browser, curl, Postman, or whatever you want to do so. All of my examples will be using curl like this:
 
