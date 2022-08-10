@@ -2,7 +2,7 @@
 
 Our Bigfoot Tracker API needs to provide a message of the day. This is a message that will be displayed on the site, if it exists. We want the message to be temporary. So, it needs to be able to be set and removed. And, it'd be nice if it could just go away on it's own.
 
-We'll be using the Redis commands of [GET](https://redis.io/commands/get/), [SET](https://redis.io/commands/set/), and [UNLINK](https://redis.io/commands/unlink/) through Node Redis. And, we'll look at a new command that combines SET and EXPIRE atomicly—[SETEX](https://redis.io/commands/setex/).
+We'll be using the Redis commands of [GET](https://redis.io/commands/get/), [SET](https://redis.io/commands/set/), and [UNLINK](https://redis.io/commands/unlink/) through Node Redis. And, we'll look at a new command that combines SET and EXPIRE atomically—[SETEX](https://redis.io/commands/setex/).
 
 Go ahead and open **`routers/motd.js`** as this is where we'll be making our changes.
 
