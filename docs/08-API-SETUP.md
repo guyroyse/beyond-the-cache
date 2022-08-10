@@ -103,4 +103,4 @@ It's up and running. Give it a quick test pointing your browser at http://localh
 }
 ```
 
-Now that's it's running, let's take a look at some of the code we've just run and learn the [basics of Node Redis](09-NODE-REDIS-BASICS).
+Now that's it's running, let's take a look at some of the code we've just run and learn the [basics of Node Redis](09-NODE-REDIS-BASICS.md).
