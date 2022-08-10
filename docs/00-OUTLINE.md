@@ -2,8 +2,8 @@
 
 This is the outline for the Beyond the Cache with Redis + Node.js workshop. If you're attending the full-day workshop, we should cover all the material. If you're attending the half-day workshop, we'll start at the begining and probably get about half of this outline completed. Either way, you should be able to complete the rest of the workshop on your own:
 
-   1. **Presentation**: Introduction
-   2. **Presentation**: How to Get Redis
+   1. **Presentation**: Getting Started
+   2. **Presentation**: How to Get Redis Stack
    3. **Hands On**: [Installing Redis](01-INSTALLATION.md)
    4. **Presentation**: Redis 101
    5. **Hands On**: [Redis Basics](02-REDIS-BASICS.md)
