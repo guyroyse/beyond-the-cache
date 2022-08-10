@@ -266,7 +266,7 @@ And we see that it did work. The state's now Kentucky and the comments are gone:
 
 ## Remove a Sighting ##
 
-Well, we've done everything else. I guess it's time to delete. Ad the code to delete a sighting:
+Well, we've done everything else. I guess it's time to delete. Add the code to delete a sighting:
 
 ```javascript
   const { id } = req.params
