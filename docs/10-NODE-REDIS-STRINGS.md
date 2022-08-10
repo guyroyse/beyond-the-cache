@@ -134,7 +134,7 @@ And you should get a `null`:
 
 ## Expiring the MOTD ##
 
-We want our message of the day to automaitcally expire. That way we don't have to go in and manually remove it. Let's modify our code that sets the message of the day to optionally allow you to provide an expiration:
+We want our message of the day to automatically expire. That way we don't have to go in and manually remove it. Let's modify our code that sets the message of the day to optionally allow you to provide an expiration:
 
 ```javascript
   const { motd, expireIn } = req.body
