@@ -19,7 +19,7 @@ Here's the various endpoints for this section. We'll add more endpoints to it in
 | DELETE | /sightings/:id | Remove a Bigfoot sighting for the given ID
 | GET    | /sightings     | Get all of the Bigfoot sighting
 
-## Optimzing `curl` ##
+## Optimizing `curl` ##
 
 We've been typing in all the data for `curl` for the last view examples, and, frankly, it's kinda tedious. So, in the **`data`** folder, there are a few thousand JSON files containing Bigfoot sightings. We'll tell `curl` to load some of these instead of typing in the data manually for all the examples in this section.
 
