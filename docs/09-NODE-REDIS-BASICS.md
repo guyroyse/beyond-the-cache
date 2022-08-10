@@ -38,7 +38,7 @@ createClient({ url: 'redis://alice:foobared@awesome.redis.server:6380' })
 await redis.connect()
 ```
 
-Take a look at the **`client.js`** file and see how we are connecting to Redis. We specifying discrete confiuration options rather than using a URL. The details of this options can be found in the [Client Configuration Guide](https://github.com/redis/node-redis/blob/master/docs/client-configuration.md) on GitHub.
+Take a look at the **`client.js`** file and see how we are connecting to Redis. We are specifying discrete configuration options rather than using a URL. The details of these options can be found in the [Client Configuration Guide](https://github.com/redis/node-redis/blob/master/docs/client-configuration.md) on GitHub.
 
 Also note that we are listening for any errors that Node Redis might report and just spamming them out to the console. [This is fine](https://en.wikipedia.org/wiki/Gunshow_(webcomic)).
 
