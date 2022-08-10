@@ -25,7 +25,7 @@ We've been typing in all the data for `curl` for the last view examples, and, fr
 
 ## Adding a New Sighting ##
 
-Add the code to add a new Sighting to the apropriate route:
+Add the code to add a new Sighting to the appropriate route:
 
 ```javascript
   const id = ulid()
