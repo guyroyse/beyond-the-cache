@@ -300,7 +300,7 @@ And it is:
 
 ## Get All the Sightings ##
 
-So, it would be nice if we could get *all* of the sightings. We can do this using the KEYS command in Redis. Node Redis exposes this a `.keys()`. The `.keys()` function takes a string as an argument and returns the names of all of the keys in Redis that match that pattern.
+So, it would be nice if we could get *all* of the sightings. We can do this using the KEYS command in Redis. Node Redis exposes this as `.keys()`. The `.keys()` function takes a string as an argument and returns the names of all of the keys in Redis that match that pattern.
 
 It's worth noting that **using KEYS is an antipattern**. Yes. I'm showing you the wrong way to do things. It's the wrong way because Redis is single-threaded and KEYS blocks that single thread while is scans *all* of the keys in Redis. Not a big deal if you have a few thousand Bigfoot sightings and some supporting keys. A *huge* deal if you have millions keys.
 
