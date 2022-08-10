@@ -157,7 +157,7 @@ You should get back a message stating the sighting was updated. But let's be sur
 curl -X GET localhost:8080/sightings/<your ulid>
 ```
 
-I see comments and Kentucky. Looks like it worked:
+I see comments and West Virginia. Looks like it worked:
 
 ```json
 {
