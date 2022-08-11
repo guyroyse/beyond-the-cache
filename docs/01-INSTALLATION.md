@@ -66,7 +66,7 @@ docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:lat
 And that's it. You now have Redis Stack installed and running. *And* you now have RedisInsight running too. To use it, just point your browser at http://localhost:8001 and browse your database.
 
 
-## Running You First Command ##
+## Running Your First Command ##
 
 Let's confirm that the installation of Redis Stack is working by entering our first command from RedisInsight.
 

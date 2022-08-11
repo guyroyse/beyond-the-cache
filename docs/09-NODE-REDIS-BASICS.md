@@ -1,6 +1,6 @@
 # Node Redis Basics #
 
-Inside of the **`src`** folder, we have the follow files and folders or note:
+Inside of the **`src`** folder, we have the following files and folders or note:
 
 -  **`server.js`**: This is the main file that starts the Express server and binds the routers. You shouldn't need to modify it—and there is nothing Redis specfic in it—but take a look and see how it works.
 -  **`redis/client.js`**: Establishes a Redis connection with Node Redis and exports it. You won't need to modify this either, but you should know how it works. It'll be covered below.
@@ -38,7 +38,7 @@ createClient({ url: 'redis://alice:foobared@awesome.redis.server:6380' })
 await redis.connect()
 ```
 
-Take a look at the **`client.js`** file and see how we are connecting to Redis. We specifying discrete confiuration options rather than using a URL. The details of this options can be found in the [Client Configuration Guide](https://github.com/redis/node-redis/blob/master/docs/client-configuration.md) on GitHub.
+Take a look at the **`client.js`** file and see how we are connecting to Redis. We are specifying discrete configuration options rather than using a URL. The details of these options can be found in the [Client Configuration Guide](https://github.com/redis/node-redis/blob/master/docs/client-configuration.md) on GitHub.
 
 Also note that we are listening for any errors that Node Redis might report and just spamming them out to the console. [This is fine](https://en.wikipedia.org/wiki/Gunshow_(webcomic)).
 
@@ -64,7 +64,7 @@ Note that most calls to Redis are `async`. So, you'll need to `await` them.
 
 You might notice that the PING command in Redis is mapped to the `.ping()` function in Node Redis. This is a common pattern. Almost all of the Redis commands map to a function of the same name in Node Redis. But they are converted from uppercase to camelcase.
 
-For single-word commands, this is really easy. Things like PING, GET, and EXPIRE become `.ping()`, `.set()`, and `.expire()`. More verbosely named commands are only slightly trickier. For example, HGETALL and SISMEMBER become `.hGetAll()` and `.sIsMember()`.
+For single-word commands, this is really easy. Things like PING, GET, and EXPIRE become `.ping()`, `.get()`, and `.expire()`. More verbosely named commands are only slightly trickier. For example, HGETALL and SISMEMBER become `.hGetAll()` and `.sIsMember()`.
 
 But we just called `.ping()`. So let's try it out. You can use your browser, curl, Postman, or whatever you want to do so. All of my examples will be using curl like this:
 
