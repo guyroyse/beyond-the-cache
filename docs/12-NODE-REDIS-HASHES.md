@@ -19,13 +19,13 @@ Here's the various endpoints for this section. We'll add more endpoints to it in
 | DELETE | /sightings/:id | Remove a Bigfoot sighting for the given ID
 | GET    | /sightings     | Get all of the Bigfoot sighting
 
-## Optimzing `curl` ##
+## Optimizing `curl` ##
 
 We've been typing in all the data for `curl` for the last view examples, and, frankly, it's kinda tedious. So, in the **`data`** folder, there are a few thousand JSON files containing Bigfoot sightings. We'll tell `curl` to load some of these instead of typing in the data manually for all the examples in this section.
 
 ## Adding a New Sighting ##
 
-Add the code to add a new Sighting to the apropriate route:
+Add the code to add a new Sighting to the appropriate route:
 
 ```javascript
   const id = ulid()
@@ -157,7 +157,7 @@ You should get back a message stating the sighting was updated. But let's be sur
 curl -X GET localhost:8080/sightings/<your ulid>
 ```
 
-I see comments and Kentucky. Looks like it worked:
+I see comments and West Virginia. Looks like it worked:
 
 ```json
 {
@@ -266,7 +266,7 @@ And we see that it did work. The state's now Kentucky and the comments are gone:
 
 ## Remove a Sighting ##
 
-Well, we've done everything else. I guess it's time to delete. Ad the code to delete a sighting:
+Well, we've done everything else. I guess it's time to delete. Add the code to delete a sighting:
 
 ```javascript
   const { id } = req.params
@@ -300,7 +300,7 @@ And it is:
 
 ## Get All the Sightings ##
 
-So, it would be nice if we could get *all* of the sightings. We can do this using the KEYS command in Redis. Node Redis exposes this a `.keys()`. The `.keys()` function takes a string as an argument and returns the names of all of the keys in Redis that match that pattern.
+So, it would be nice if we could get *all* of the sightings. We can do this using the KEYS command in Redis. Node Redis exposes this as `.keys()`. The `.keys()` function takes a string as an argument and returns the names of all of the keys in Redis that match that pattern.
 
 It's worth noting that **using KEYS is an antipattern**. Yes. I'm showing you the wrong way to do things. It's the wrong way because Redis is single-threaded and KEYS blocks that single thread while is scans *all* of the keys in Redis. Not a big deal if you have a few thousand Bigfoot sightings and some supporting keys. A *huge* deal if you have millions keys.
 
