@@ -23,6 +23,7 @@
 	"postCreateCommand": "cd src && sudo chown node node_modules && npm i",
 
 	"remoteUser": "node",
+	"forwardPorts": [8001],
 	"portsAttributes": {
 		"6379": {
 			"label": "Redis",
@@ -30,7 +31,7 @@
 		},
 		"8001": {
 			"label": "Redis Insight",
-			"onAutoForward": "notify"
+			"onAutoForward": "silent"
 		},
 		"8080": {
 			"label": "Bigfoot Tracker",
