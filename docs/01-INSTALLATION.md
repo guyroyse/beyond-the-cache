@@ -47,7 +47,7 @@ For this workshop, there are two ways you can install Redis Stack and RedisInsig
 
 **Pros**:
   - No network. No problems.
-  - Mo database limits on _my_ machine.
+  - No database limits on _my_ machine.
   - Docker image has RedisInsight already installed.
 
 **Cons**:
