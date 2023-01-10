@@ -14,15 +14,15 @@ Here's the additional endpoints we're adding or modifying for this section:
 |:-----|:--------------------------------------------|:------------------------------------------------------------
 | GET  | /sightings                                  | Get all of the Bigfoot sighting
 | GET  | /sightings/page/:page                       | Get a page of all the Bigfoot sighting
-| GET  | /sightings/by-state/:state                  | Get
-| GET  | /sightings/by-class/:clazz                  |
-| GET  | /sightings/by-state/:state/and-class/:clazz |
+| GET  | /sightings/by-state/:state                  | Get all the Bigfoot sightings for a state
+| GET  | /sightings/by-class/:clazz                  | Get all the Bigfoot sightings for a class
+| GET  | /sightings/by-state/:state/and-class/:clazz | Get all the Bigfoot sightings for a state and a class
 
 ## Creating Our Index ##
 
 We need to create an index for RediSearch to be able to... well... search. We'll do this in **`redis/client.js`**.
 
-First things first, we need a name for our index. And, we'll need to use that name in **`routers/sighting.js`** when we call `.ft.search()`. So, let's assign it and export it. I did this after the call to `redis.connect()` but it really doesn't matter where you put it.
+First things first, we need a name for our index. And, we'll need to use that name in **`routers/sighting.js`** when we call `.ft.search()`. So, let's assign it and export it. I did this after the call to `redis.connect()` but it really doesn't matter where you put it:
 
 ```javascript
 export const sightingIndex = `bigfoot:sighting:index`

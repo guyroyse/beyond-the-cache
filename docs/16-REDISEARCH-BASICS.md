@@ -63,16 +63,16 @@ Immediately after we specify the name of the index, we can provide the data stru
 After specifying the data structure, we can provide one or more keyspaces for this index to, well, index. Whenever a change in made in this keyspace, our index is updated automatically and atomically with the change. We have specified `PREFIX 1 bigfoot:sighting:` so we'll look at any JSON document that starts with `bigfoot:sighting:`. The `1` tells Redis that we only have one prefix. If we had more, it might look like this:
 
 ```
-PREFIX 3 bigfoot:sighting: ufo:sighting: ghost:sighting
+PREFIX 3 bigfoot:sighting: ufo:sighting: ghost:sighting:
 ```
 
 Then, we specify the schema for the index. This tells RediSearch how to index our data. Each section in the schema tells Redis three things.
 
-The first is the location of the field. This is hte JSONPath to the field if we are indexing JSON documents or just the name of the field if we are indexing Hashes.
+The first is the location of the field. This is the JSONPath to the field if we are indexing JSON documents or just the name of the field if we are indexing Hashes.
 
-Next, is an optional alias to use when we search with the index later. With Hashes, this isn't mildly useful. But with JSON documents, this allows us to rename something like `$.foo.bar[*].baz` to `baz`.
+Next, is an optional alias to use when we search with the index later. With Hashes, this is only mildly useful. But with JSON documents, this allows us to rename something like `$.foo.bar[*].baz` to `baz`.
 
-Third and last, we tell Redis the type of data that is stored at that location. Valid types a TEXT, TAG, NUMERIC, and GEO. We'll cover these mor later when we search on them.
+Third and lastly, we tell Redis the type of data that is stored at that location. Valid types a TEXT, TAG, NUMERIC, and GEO. We'll cover these more later when we search on them.
 
 ## Removing Indices ##
 

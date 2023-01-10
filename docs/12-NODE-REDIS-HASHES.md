@@ -2,13 +2,13 @@
 
 Let's get to the meat of the Bigfoot Tracker API and store and retrieve Bigfoot sightings. We'll use Hashes to do this—storing a single sighting in a single Hash using a keyspace of `bigfoot:sighting:`.
 
-We'll be using the Redis commands of [HSET](https://redis.io/commands/hset/), [HGETALL](https://redis.io/commands/hgetall/), [UNLINK](https://redis.io/commands/unlink/), and the ever abused [KEYS](https://redis.io/commands/keys/) in this section.
+We'll be using the Redis commands of [HSET](https://redis.io/commands/hset/), [HGETALL](https://redis.io/commands/hgetall/), [UNLINK](https://redis.io/commands/unlink/), and the ever-abused [KEYS](https://redis.io/commands/keys/) in this section.
 
 Go ahead and open **`routers/sightings.js`** as this is where we'll be making our changes.
 
 ## Endpoints ##
 
-Here's the various endpoints for this section. We'll add more endpoints to it in the next section when we talk about RediSearch and RediJSON:
+Here's the various endpoints for this section. We'll add more endpoints to it in the next section when we talk about RediSearch and RedisJSON:
 
 | Verb   | Path           | Description
 |:-------|:---------------|:------------------------------------------------------------
@@ -141,7 +141,7 @@ Let's add the code to update a sighting:
   })
 ```
 
-Note that this will replace the provided field without removing existing fields. Let's change `state` field to 'West Virginia' and add a field called `comments` and provide some comments. Be sure :
+Note that this will replace the provided field without removing existing fields. Let's change `state` field to 'West Virginia' and add a field called `comments` and provide some comments:
 
 ```bash
 curl \
@@ -211,7 +211,7 @@ Let's keep going and *replace* an existing sighting instead of just updating it.
   })
 ```
 
-Note that we are calling `.unlink()` before we call `.hSet()`. If we were to only call `.hSet()`, and field that were on the sighting we are replacing that *aren't* on the sighting we're replacing it with, like say a comments field, would still be in the new object. So, we need to delete what is there first.
+Note that we are calling `.unlink()` before we call `.hSet()`. If we were to only call `.hSet()`, any field that was on the sighting we are replacing that *aren't* on the sighting we're replacing it with, like say a comments field, would still be in the new object. So, we need to delete what is there first.
 
 Let's try it out and replace the sighting at the old ULID with a different Bigfoot sighting:
 

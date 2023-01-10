@@ -1,6 +1,6 @@
 # Sets #
 
-[Sets](https://redis.io/commands/?group=set) in Redis are, well, sets. Think set theory. You can add, remove, and check membership. And you can do things like unions and intersections, which is pretty cool. Importantly, you cannot add duplicate member to a Set.
+[Sets](https://redis.io/commands/?group=set) in Redis are, well, sets. Think set theory. You can add, remove, and check membership. And you can do things like unions and intersections, which is pretty cool. Importantly, you cannot add a duplicate member to a Set.
 
 You add things to a Set with the [SADD](https://redis.io/commands/sadd/) command. Let's add some states:
 
@@ -11,7 +11,7 @@ You add things to a Set with the [SADD](https://redis.io/commands/sadd/) command
 (integer) 3
 ```
 
-We can get all the states, the members of the Set, using the [SMEMBERS](https://redis.io/commands/smembers/) command and a count of members, i.e. the cardinality, using the [SCARD](https://redis.io/commands/scard/) command. Try them:
+We can get all the states, the members of the Set, using the [SMEMBERS](https://redis.io/commands/smembers/) command and a count of these members, i.e. the cardinality, using the [SCARD](https://redis.io/commands/scard/) command. Try them:
 
 ```bash
 127.0.0.1:6379> SMEMBERS states

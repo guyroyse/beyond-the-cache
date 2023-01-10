@@ -69,14 +69,12 @@ sightingsRouter.put('/:id', async (req, res) => {
   const key = sightingKey(id)
 
   try {
-    await redis.executeIsolated(async isolatedClient => {
-      await isolatedClient.watch(key)
-      await isolatedClient
-        .multi()
-          .unlink(key)
-          .json.set(key, '$', { id, ...req.body })
-        .exec()
-    })
+    await redis.watch(key)
+    await redis
+      .multi()
+        .unlink(key)
+        .json.set(key, '$', { id, ...req.body })
+      .exec()
 
     res.send({
       status: "OK",
@@ -153,7 +151,7 @@ Easy enough. Take a look at this code:
 
 Here, we are iterating over each incoming property change, and using `.json.set()` to set that exact property by build a JSONPath *to* that property. Not so bad.
 
-But, we've just introduced a new problem. Our change is no longer atomic. Which meas transactions. So, we need to take all that code we just removed it move it here. I won't make you type it again. Here's the completed route handler:
+But, we've just introduced a new problem. Our change is no longer atomic. Which means transactions. So, we need to take all that code we just removed and move it here. I won't make you type it again. Here's the completed route handler:
 
 ```javascript
 sightingsRouter.patch('/:id', async (req, res) => {
@@ -161,17 +159,15 @@ sightingsRouter.patch('/:id', async (req, res) => {
   const key = sightingKey(id)
 
   try {
-    await redis.executeIsolated(async isolatedClient => {
-      await isolatedClient.watch(key)
+    await redis.watch(key)
 
-      const multi = isolatedClient.multi()
+    const multi = redis.multi()
 
-      Object.entries(req.body).forEach(([prop, value]) => {
-        multi.json.set(key, `$.${prop}`, value)
-      })
-
-      await multi.exec()
+    Object.entries(req.body).forEach(([prop, value]) => {
+      multi.json.set(key, `$.${prop}`, value)
     })
+
+    await multi.exec()
 
     res.send({
       status: "OK",

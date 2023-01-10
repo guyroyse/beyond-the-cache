@@ -2,7 +2,7 @@
 
 [RedisJSON](https://redis.io/docs/stack/json/) is a module. Modules are plugins to Redis that extend it with new data structures and new commands. Anyone can [write a module](https://redis.io/docs/reference/modules/), if they are handy with a systems-level programing language like C or Rust.
 
-RedisJSON, as you might have guessed based on the name, adds a JSON document data strucutre and and [commands](https://redis.io/commands/?group=json) to manipulate those documents.
+RedisJSON, as you might have guessed based on the name, adds a JSON document data strucutre and [commands](https://redis.io/commands/?group=json) to manipulate those documents.
 
 Let's try it out from RedisInsight first. Then we can take a look at changing our API to write out to JSON instead.
 
@@ -24,7 +24,7 @@ OK
 
 Probably not worth it.
 
-Now, let's get our JSON string it using [JSON.GET](https://redis.io/commands/json.get/):
+Now, let's get our JSON string using [JSON.GET](https://redis.io/commands/json.get/):
 
 ```bash
 127.0.0.1:6379> JSON.GET user:luser
@@ -110,7 +110,7 @@ OK
 
 Note the odd syntax here. The value we are setting is JSON. In order for a string to be valid JSON, it needs to be in quotes, double-quotes specifically. If we set a string in Redis, we need to put it in quotes. So, we wrap it in single-quotes. Strings in strings. Yo dawg.
 
-We'll cover on last command here: [JSON.DEL](https://redis.io/commands/json.del/). As you might imagine, this deletes all or part of a JSON document based on a JSONPath. Let's delete a user from `bigfoot:users`:
+We'll cover one last command here: [JSON.DEL](https://redis.io/commands/json.del/). As you might imagine, this deletes all or part of a JSON document based on a JSONPath. Let's delete a user from `bigfoot:users`:
 
 ```bash
 127.0.0.1:6379> JSON.DEL bigfoot:users $.users[0]

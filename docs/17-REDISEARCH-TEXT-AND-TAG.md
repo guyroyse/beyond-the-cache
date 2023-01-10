@@ -23,7 +23,7 @@ By default, RediSearch will search all text fields in the index. Let's find some
 11) "bigfoot:sighting:01G9HSRNQ0E24FF71C243NA4NQ"
 ```
 
-Looks like we got quite a few. Turns out there are a look of creeks in the woods.
+Looks like we got quite a few. Turns out there are a lot of creeks in the woods.
 
 To search a specific field, prefix it with the field name. Let's look for Bigfoot sightings with the word `creek` in the `title`:
 
@@ -93,7 +93,7 @@ You could create a TAG field with a JSONPath of `$.bigfootState[*].state`.
 
 You can think of TAGs as the tags clouds on a blog. You can search for JSON documents and Hashes that contain a specific value within that TAG. So, you could search for `Ohio` and any document tagged with `Ohio` will be returned.
 
-If you provide only a single values in a TAG, it can make excellent key—foreign or primary. In the above JSON, you can specify a TAG field for the `reportId` property with a JSONPath of `$.reportId`.
+If you provide only a single values in a TAG, it can make an excellent key—foreign or primary. In the above JSON, you can specify a TAG field for the `reportId` property with a JSONPath of `$.reportId`.
 
 You can search on a TAG field using the following syntax:
 

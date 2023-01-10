@@ -194,7 +194,7 @@ GEO fields contain a longitude and a latitude. But, in order for RediSearch to p
 
 Not all of the Bigfoot sightings have locations, but those that do are in `<longitude>,<latitude>` format. It's worth noting that beyond a certain degree of precision, RediSearch will no longer parse a coordinate. So, don't try to cram 14 decimals worth of precision into your coordinates. Anything more than 6 decimals (~10cm) is [probably pointless](https://en.wikipedia.org/wiki/Decimal_degrees) for your application.
 
-To search a GEO field, we need to specify a longitude, a latitude, a radius, and a unit of measure for the radius. This find all the Bigfoot sightings with 50 miles of Cincinati:
+To search a GEO field, we need to specify a longitude, a latitude, a radius, and a unit of measure for the radius. This finds all the Bigfoot sightings with 50 miles of Cincinati:
 
 ```bash
 127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index "@location:[-84.5125 39.1 50 mi]" RETURN 1 $.location

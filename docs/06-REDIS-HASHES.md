@@ -16,7 +16,7 @@ You store things in a Hash in Redis using the [HSET](https://redis.io/commands/h
 
 Notice that the return value is the number of fields *added* to the hash. Modifying a field returns a zero.
 
-We've written, let's read. To get the value of a field out of a Hash, use [HGET](https://redis.io/commands/hget/). The get the values of multiple fields, use [HMGET](https://redis.io/commands/hmget/). And to get *all* the fields, just [HGETALL](https://redis.io/commands/hgetall/). Give it a try:
+We've written, let's read. To get the value of a field out of a Hash, use [HGET](https://redis.io/commands/hget/). To get the values of multiple fields, use [HMGET](https://redis.io/commands/hmget/). And to get *all* the fields, just [HGETALL](https://redis.io/commands/hgetall/). Give it a try:
 
 ```bash
 127.0.0.1:6379> HGET bigfoot:sighting:1234 title
