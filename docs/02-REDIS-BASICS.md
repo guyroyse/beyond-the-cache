@@ -1,6 +1,6 @@
 # Basic Data Structures in Redis #
 
-Redis can be thought of as networked memory. That memory can contain a variety of [data structures](https://redis.io/docs/manual/data-types/). You know, those things you learned about in college but modern languges just provide natively. Like hash tables, linked lists, and sets. These data strucutres are created, manipulated, and exposed over the network via a wire protocol, called [RESP](https://redis.io/docs/reference/protocol-spec/). The details of RESP are not terribly important for this workshop. Just know that when you issue a command in RedisInsight to Redis, it translates your commands and their responses to and from that wire protocol.
+Redis can be thought of as networked memory. That memory can contain a variety of [data structures](https://redis.io/docs/manual/data-types/). You know, those things you learned about in college but modern languges just provide natively. Like hash tables, linked lists, and sets. These data structures are created, manipulated, and exposed over the network via a wire protocol, called [RESP](https://redis.io/docs/reference/protocol-spec/). The details of RESP are not terribly important for this workshop. Just know that when you issue a command in RedisInsight to Redis, it translates your commands and their responses to and from that wire protocol.
 
 Speaking of commands, the full reference documention for all of Redis' commands can be found online at https://redis.io/commands/. Feel free to refer to this page during the workshop. I _work_ for Redis and use it every day.
 

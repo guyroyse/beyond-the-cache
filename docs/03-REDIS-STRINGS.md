@@ -1,6 +1,6 @@
 # Strings #
 
-[Strings](https://redis.io/commands/?group=string) are the simplest data structure in Redis. They're called Strings but they're really more insteresting and can contain numbers and binary data as well as text.
+[Strings](https://redis.io/commands/?group=string) are the simplest data structure in Redis. They're called Strings but they're really more interesting and can contain numbers and binary data as well as text.
 
 Use [GET](https://redis.io/commands/get/) and [SET](https://redis.io/commands/set/) to, well, get and set a String in Redis. Quotes are optional but needed if you have any whitespace in your string. You can use either single- or double-quotes, just like in JavaScript. Escape quotes within your string with a backslash, also just like in JavaScript.
 
