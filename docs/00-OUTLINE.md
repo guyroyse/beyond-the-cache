@@ -26,6 +26,11 @@ This is the outline for the Beyond the Cache with Redis + Node.js workshop. If y
   22. **Hands On**: [Searching Full-Text and Tags](17-REDISEARCH-TEXT-AND-TAG.md)
   23. **Hands On**: [Search Numbers and Positions](18-REDISEARCH-NUMERIC-AND-GEO.md)
   24. **Hands On**: [Implementing Search](19-NODE-REDIS-SEARCH.md)
+  25. **Presentation**: Introducing Redis OM
+  26. **Hands On**: Schema & Repository
+
+
+
   25. **Presentation**: Redis Streams
   26. **Hands On**: [Using Streams](20-REDIS-STREAMS.md)
   27. **Hands On**: Replacing Our Lists with a Stream

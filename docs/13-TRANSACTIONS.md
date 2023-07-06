@@ -19,9 +19,9 @@ QUEUED
 127.0.0.1:6379>
 ```
 
-In this example, we want to remove `site:config` and replace its values without someone else changing it out from underneath us. We want to operation to be atomic.
+In this example, we want to remove `site:config` and replace its values without someone else changing it out from underneath us. We want the operation to be atomic.
 
-Note that the returned values are the results of each of the queued commands being executes. So, in this example, UNLINK didn't do anything as `site:config` didn't exists—hence the 0 being returns. And HSET set two fields, so a 2 was returned.
+Note that the returned values are the results of each of the queued commands being executed. So, in this example, UNLINK didn't do anything as `site:config` didn't exists—hence the 0 being returns. And HSET set two fields, so a 2 was returned.
 
 Now, this is optimistic locking. We're not locking other clients out of the key we want to change. We're ensuring that is hasn't changed before we make our changes. If it *has* changed, we'll get an error.
 

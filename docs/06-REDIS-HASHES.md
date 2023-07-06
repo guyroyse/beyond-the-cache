@@ -1,7 +1,6 @@
 # Hashes #
 
-[Hashes](https://redis.io/commands/?group=hash) in Redis are hash data structures that store a bunch of fields and their respective value in pairs. This is probably the most ubiquitous data structure in software. You see this in programing languages under lots of names. In Java, they call them Maps, Python and C# call them dictionaries, and in JavaScript, well, they're just objects.
-
+[Hashes](https://redis.io/commands/?group=hash) in Redis are data structures that store a bunch of fields and their respective value in pairs. This is probably the most ubiquitous data structure in software. You see this in programing languages under lots of names. In Java, they call them Maps, Python and C# call them dictionaries, and in JavaScript, well, they're just objects.
 
 You store things in a Hash in Redis using the [HSET](https://redis.io/commands/hset/) command. It just takes the key, a field, and the value. But it's also variadic, so you can specify multiple fields and values. Try it out by adding a Bigfoot sighting:
 

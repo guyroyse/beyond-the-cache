@@ -40,7 +40,7 @@ Note a couple of small things about this code:
 
   1. We are generating a unique ID for this sighting using `ulid()`. ULIDs are like UUIDs but a bit nicer. They're available for pretty much any platform you'd care to use. [Check 'em out](https://github.com/ulid/spec) if you interested.
 
-  2. I added a helper function for you to build the key called `sightingKey()`. That code'd be smeared all over the place I hadn't done that. You're welcome. 😏
+  2. I added a helper function for you to build the key called `sightingKey()`. That code'd be smeared all over the place if I hadn't done that. You're welcome. 😏
 
 Also note this **really important thing**. We are taking the request body and using it as input to `.hSet()`. `.hSet()` happily takes a JavaScript object for the multiple fields you might want to set in a Hash. But Hashes only store Redis Strings. If you pass in a body that has nested objects, arrays, or even just a boolean, this won't work.
 

@@ -152,7 +152,7 @@ If we want to remove the JSON document itself, we need to delete the root. Or ju
 (nil)
 ```
 
-That's plenty to get you started with RedisJSON. There are a [lots of additional](https://redis.io/commands/?group=json) to manipulate JSON documents in Redis. I encourage you to play around with them.
+That's plenty to get you started with RedisJSON. There are a [lots of additional commands](https://redis.io/commands/?group=json) to manipulate JSON documents in Redis. I encourage you to play around with them.
 
 ----------------------------------------
 

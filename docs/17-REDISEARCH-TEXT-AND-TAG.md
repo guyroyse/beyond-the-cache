@@ -1,4 +1,4 @@
-# Searching TEXT and TAG Fields ##
+# Searching TEXT and TAG Fields #
 
 TEXT and TAG fields together allow you to perform most of the types of searches against strings that you'd want to do. TEXT fields provide full-text search so you can find words within blocks of texts. Tags act as keys or collections of keys that match on an entire value.
 

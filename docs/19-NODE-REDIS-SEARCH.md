@@ -458,7 +458,7 @@ curl -X GET localhost:8080/sightings/by-state/Ohio/and-class/Class%20A
 
 ## Getting Creative ##
 
-You can pretty clearly see how we could add all sorts of interesting queries using RediSearch. Play around with some of your own. Modify the index to add some new fields to search on. Add some routes to find Bigfoot sightings that contain a particular keyword. Or sightings that occurr suring a particular temperature range. Or sightings near a particular location. Go crazy!
+You can pretty clearly see how we could add all sorts of interesting queries using RediSearch. Play around with some of your own. Modify the index to add some new fields to search on. Add some routes to find Bigfoot sightings that contain a particular keyword. Or sightings that occurr using a particular temperature range. Or sightings near a particular location. Go crazy!
 
 ----------------------------------------
 

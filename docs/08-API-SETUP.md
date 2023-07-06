@@ -55,7 +55,7 @@ The API is configured using [dotenv](https://www.npmjs.com/package/dotenv) so yo
 cp sample.env .env
 ```
 
-Open this file. If you are running Redis Stack via Docker, the default setting should be fine. If you used Redis Cloud, update the `REDIS_HOST`, `REDIS_PORT`, and `REDIS_PASSWORD` values to match the values you got when you set up your Redis Cloud instance.
+Open this file. If you are running Redis Stack via Docker, the default setting should be fine. If you installed it some other way or had to use a different port or something, update the `REDIS_HOST`, `REDIS_PORT`, and `REDIS_PASSWORD` values to match the values you are using.
 
 By default, the file has the API listening port port 8080. If this won't work for you, feel free to change it by updating the `SERVER_PORT`,
 

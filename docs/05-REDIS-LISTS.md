@@ -46,7 +46,7 @@ Try popping a few things off the List:
 "I heard Bigfoot behind the trailer digging through some trash cans"
 ```
 
-You can even pop from one list and push to another using [LMOVE](https://redis.io/commands/lmove/). LMOVE takes a source and desination list and then arguments to specify which side to pop and which side to push. Try it out:
+You can even pop from one list and push to another using [LMOVE](https://redis.io/commands/lmove/). LMOVE takes a source and destination list and then arguments to specify which side to pop and which side to push. Since we removed a bunch of stuff from it, recreate the the list above and then try moving some items:
 
 ```bash
 127.0.0.1:6379>LMOVE bigfoot:sightings:reported bigfoot:sightings:processed RIGHT LEFT

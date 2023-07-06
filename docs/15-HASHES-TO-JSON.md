@@ -149,7 +149,7 @@ Easy enough. Take a look at this code:
   })
 ```
 
-Here, we are iterating over each incoming property change, and using `.json.set()` to set that exact property by build a JSONPath *to* that property. Not so bad.
+Here, we are iterating over each incoming property change, and using `.json.set()` to set that exact property by building a JSONPath *to* that property. Not so bad.
 
 But, we've just introduced a new problem. Our change is no longer atomic. Which means transactions. So, we need to take all that code we just removed and move it here. I won't make you type it again. Here's the completed route handler:
 
