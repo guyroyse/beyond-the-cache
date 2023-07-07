@@ -1,7 +1,7 @@
 import { Router } from 'express'
 import { ulid } from 'ulid'
 
-import { redis, sightingIndex } from '../redis/index.js'
+import { redis, sightingsIndex } from '../redis/index.js'
 
 export const sightingsRouter = Router()
 
@@ -88,7 +88,7 @@ sightingsRouter.delete('/:id', (req, res) => {
 
 /* get all of the sightings */
 sightingsRouter.get('/', async (req, res) => {
-  const results = await redis.ft.search(sightingIndex, '*', { LIMIT: { from: 0, size: 5000 } })
+  const results = await redis.ft.search(sightingsIndex, '*', { LIMIT: { from: 0, size: 5000 } })
   const sightings = results.documents.map(document => document.value)
   res.send(sightings)
 })
@@ -99,7 +99,7 @@ sightingsRouter.get('/page/:pageNumber', async (req, res) => {
   const size = 20
   const from = (page - 1) * size
 
-  const results = await redis.ft.search(sightingIndex, '*', { LIMIT: { from, size } })
+  const results = await redis.ft.search(sightingsIndex, '*', { LIMIT: { from, size } })
   const sightings = results.documents.map(document => document.value)
 
   res.send(sightings)
@@ -110,7 +110,7 @@ sightingsRouter.get('/by-state/:state', async (req, res) => {
   const { state } = req.params
   const query = `@state:{${escapeTag(state)}}`
 
-  const results = await redis.ft.search(sightingIndex, query, { LIMIT: { from: 0, size: 20 } })
+  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
   const sightings = results.documents.map(document => document.value)
 
   res.send(sightings)
@@ -121,7 +121,7 @@ sightingsRouter.get('/by-class/:clazz', async (req, res) => {
   const { clazz } = req.params
   const query = `@classification:{${escapeTag(clazz)}}`
 
-  const results = await redis.ft.search(sightingIndex, query, { LIMIT: { from: 0, size: 20 } })
+  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
   const sightings = results.documents.map(document => document.value)
 
   res.send(sightings)
@@ -132,7 +132,7 @@ sightingsRouter.get('/by-state/:state/and-class/:clazz', async (req, res) => {
   const { state, clazz } = req.params
   const query = `@state:{${escapeTag(state)}} @classification:{${escapeTag(clazz)}}`
 
-  const results = await redis.ft.search(sightingIndex, query, { LIMIT: { from: 0, size: 20 } })
+  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
   const sightings = results.documents.map(document => document.value)
 
   res.send(sightings)

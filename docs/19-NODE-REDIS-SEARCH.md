@@ -25,13 +25,13 @@ We need to create an index for RediSearch to be able to... well... search. We'll
 First things first, we need a name for our index. And, we'll need to use that name in **`routers/sighting.js`** when we call `.ft.search()`. So, let's assign it and export it. I did this after the call to `redis.connect()` but it really doesn't matter where you put it:
 
 ```javascript
-export const sightingIndex = `bigfoot:sighting:index`
+export const sightingsIndex = `bigfoot:sighting:index`
 ```
 
 Next, we need to create our index with a call to `.ft.create()`. This is a rather weighty call but you should recognize all the arguments from your earlier calls to FT.SEARCH. Just past it at the bottom of **`redis/client.js`**:
 
 ```javascript
-await redis.ft.create(sightingIndex, {
+await redis.ft.create(sightingsIndex, {
   '$.title': { type: SchemaFieldTypes.TEXT, AS: 'title' },
   '$.observed': { type: SchemaFieldTypes.TEXT, AS: 'observed' },
   '$.state': { type: SchemaFieldTypes.TAG, AS: 'state' },
@@ -61,7 +61,7 @@ However, if you stop and start yet again, you'll get the error again. So, we nee
 
 ```javascript
 try {
-  await redis.ft.create(sightingIndex, {
+  await redis.ft.create(sightingsIndex, {
     '$.title': { type: SchemaFieldTypes.TEXT, AS: 'title' },
     '$.observed': { type: SchemaFieldTypes.TEXT, AS: 'observed' },
     '$.state': { type: SchemaFieldTypes.TAG, AS: 'state' },
@@ -113,17 +113,17 @@ See that it skipped creation. If you want to change the index as some point, say
 
 ## Getting Rid of the Call to `.keys()` ##
 
-Ok. Finally, we can replace that call to `.keys()` with some sweet, sweet RediSearch. At the top of **`routers/sightings.js`**, import the `sightingIndex` that we just exported:
+Ok. Finally, we can replace that call to `.keys()` with some sweet, sweet RediSearch. At the top of **`routers/sightings.js`**, import the `sightingsIndex` that we just exported:
 
 ```javascript
-import { redis, sightingIndex } from '../redis/index.js'
+import { redis, sightingsIndex } from '../redis/index.js'
 ```
 
 Now, remove all the code that's calling `.keys()` and call `.ft.search() instead`:
 
 ```javascript
 sightingsRouter.get('/', async (req, res) => {
-  const results = await redis.ft.search(sightingIndex, '*', { LIMIT: { from: 0, size: 5000 } })
+  const results = await redis.ft.search(sightingsIndex, '*', { LIMIT: { from: 0, size: 5000 } })
   const sightings = results.documents.map(document => document.value)
   res.send(sightings)
 })
@@ -288,7 +288,7 @@ Returning everything isn't really the best. So, let's add a paginating route:
   const size = 20
   const from = (page - 1) * size
 
-  const results = await redis.ft.search(sightingIndex, '*', { LIMIT: { from, size } })
+  const results = await redis.ft.search(sightingsIndex, '*', { LIMIT: { from, size } })
   const sightings = results.documents.map(document => document.value)
 
   res.send(sightings)
@@ -382,7 +382,7 @@ Now, let's add the route for searching by `state`. We'll limit search to just th
   const { state } = req.params
   const query = `@state:{${escapeTag(state)}}`
 
-  const results = await redis.ft.search(sightingIndex, query, { LIMIT: { from: 0, size: 20 } })
+  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
   const sightings = results.documents.map(document => document.value)
 
   res.send(sightings)
@@ -416,7 +416,7 @@ Works like a champ. Let's add the one for `classification` next:
   const { clazz } = req.params
   const query = `@classification:{${escapeTag(clazz)}}`
 
-  const results = await redis.ft.search(sightingIndex, query, { LIMIT: { from: 0, size: 20 } })
+  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
   const sightings = results.documents.map(document => document.value)
 
   res.send(sightings)
@@ -442,7 +442,7 @@ And let's combine these together and add the route to find Bigfoot sightings of 
   const { state, clazz } = req.params
   const query = `@state:{${escapeTag(state)}} @classification:{${escapeTag(clazz)}}`
 
-  const results = await redis.ft.search(sightingIndex, query, { LIMIT: { from: 0, size: 20 } })
+  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
   const sightings = results.documents.map(document => document.value)
 
   res.send(sightings)

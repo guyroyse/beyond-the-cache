@@ -10,10 +10,10 @@ redis.on('error', (err) => console.log('Redis Client Error', err))
 
 await redis.connect()
 
-export const sightingIndex = `bigfoot:sighting:index`
+export const sightingsIndex = `bigfoot:sighting:index`
 
 try {
-  await redis.ft.create(sightingIndex, {
+  await redis.ft.create(sightingsIndex, {
     '$.title': { type: 'TEXT', AS: 'title' },
     '$.observed': { type: 'TEXT', AS: 'observed' },
     '$.state': { type: 'TAG', AS: 'state' },
