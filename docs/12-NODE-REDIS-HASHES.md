@@ -4,7 +4,7 @@ Let's get to the meat of the Bigfoot Tracker API and store and retrieve Bigfoot 
 
 We'll be using the Redis commands of [HSET](https://redis.io/commands/hset/), [HGETALL](https://redis.io/commands/hgetall/), [UNLINK](https://redis.io/commands/unlink/), and the ever-abused [KEYS](https://redis.io/commands/keys/) in this section.
 
-Go ahead and open **`routers/sightings.js`** as this is where we'll be making our changes.
+Go ahead and open **`routers/sightings-router.js`** as this is where we'll be making our changes.
 
 ## Endpoints ##
 

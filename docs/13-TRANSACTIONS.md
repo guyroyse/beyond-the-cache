@@ -59,7 +59,7 @@ We can use these commands in Node Redis as well, provided we use the same connec
 
 ## Adding Transactions to Bigfoot Sightings ##
 
-Remember this code in **`routers/sightings.js`**?
+Remember this code in **`routers/sightings-router.js`**?
 
 ```javascript
 sightingsRouter.put('/:id', (req, res) => {

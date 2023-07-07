@@ -4,7 +4,7 @@ Now that we know our way around RediSearch fairly well, we can update our Bigfoo
 
 We'll be using the RediSearch commands of [FT.CREATE](https://redis.io/commands/ft.create/) and [FT.SEARCH](https://redis.io/commands/ft.search/) in this section.
 
-Go ahead and open **`redis/client.js`** and `routers/sightings.js`** as these are where we'll be making our changes.
+Go ahead and open **`redis/client.js`** and `routers/sightings-router.js`** as these are where we'll be making our changes.
 
 ## Endpoints
 
@@ -113,7 +113,7 @@ See that it skipped creation. If you want to change the index as some point, say
 
 ## Getting Rid of the Call to `.keys()` ##
 
-Ok. Finally, we can replace that call to `.keys()` with some sweet, sweet RediSearch. At the top of **`routers/sightings.js`**, import the `sightingsIndex` that we just exported:
+Ok. Finally, we can replace that call to `.keys()` with some sweet, sweet RediSearch. At the top of **`routers/sightings-router.js`**, import the `sightingsIndex` that we just exported:
 
 ```javascript
 import { redis, sightingsIndex } from '../redis/index.js'
@@ -368,7 +368,7 @@ You will be rewarded with a nice, empty array:
 
 Let's search on some actual fields. We'll just do some TAG fields—specifically `state` and `classification`.
 
-Now, since we are using TAG fields, there is a need to escape any spaces if they occur in the value. We *know* that both `state` and `classification` can have spaces in them—"West Virginia" and "Class A" being obvious examples. So, let's add a function to the top of **`routers/sightings.js`** that will escape them for us:
+Now, since we are using TAG fields, there is a need to escape any spaces if they occur in the value. We *know* that both `state` and `classification` can have spaces in them—"West Virginia" and "Class A" being obvious examples. So, let's add a function to the top of **`routers/sightings-router.js`** that will escape them for us:
 
 ```javascript
 const escapeTag = tag => tag.replaceAll(' ', '\\ ')
