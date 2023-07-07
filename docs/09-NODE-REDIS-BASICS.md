@@ -4,7 +4,7 @@ Inside of the **`src`** folder, we have the following files and folders or note:
 
 -  **`server.js`**: This is the main file that starts the Express server and binds the routers. You shouldn't need to modify it—and there is nothing Redis specfic in it—but take a look and see how it works.
 -  **`redis/client.js`**: Establishes a Redis connection with Node Redis and exports it. You won't need to modify this either, but you should know how it works. It'll be covered below.
--  **`routers/`**: This folder contains the various routers, with stubbed-out implementations, that server.js exposes.
+-  **`routers/`**: This folder contains the various routers, with stubbed-out implementations, that **`server.js`** exposes.
 
 ## Connecting to Redis ##
 
@@ -14,7 +14,7 @@ We're going to connect to Redis using [Node Redis](https://github.com/redis/node
 npm install redis
 ```
 
-It's already in the `package.json`, so no need to do that. Once you have it, there are several ways to connect. The simplest is:
+It's already in the **`package.json`**, so no need to do that. Once you have it, there are several ways to connect. The simplest is:
 
 ```javascript
 import { createClient } from 'redis'
