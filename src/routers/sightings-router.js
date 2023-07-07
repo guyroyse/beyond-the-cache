@@ -51,3 +51,13 @@ sightingsRouter.get('/by-class/:class', async (req, res) => {
 sightingsRouter.get('/by-state/:state/and-class/:class', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
+
+/* get all of the sightings above a temperature */
+sightingsRouter.get('/above-temperature/:temperature', async (req, res) => {
+  res.send(`"NOT IMPLEMENTED"`)
+})
+
+/* get all of the sightings with so many miles of latlng */
+sightingsRouter.get('/within/:radius/miles-of/:longitude,:latitude', async (req, res) => {
+  res.send(`"NOT IMPLEMENTED"`)
+})

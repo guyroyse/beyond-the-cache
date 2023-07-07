@@ -91,3 +91,27 @@ sightingsRouter.get('/by-state/:state/and-class/:clazz', async (req, res) => {
 
   res.send(sightings)
 })
+
+/* get all of the sightings above a temperature */
+sightingsRouter.get('/above-temperature/:temperature', async (req, res) => {
+  const temperature = Number(req.params.temperature)
+
+  const sightings = await sightingsRepository.search()
+    .where('temperature_mid').is.greaterThanOrEqualTo(temperature)
+      .return.all()
+
+  res.send(sightings)
+})
+
+/* get all of the sightings with so many miles of latlng */
+sightingsRouter.get('/within/:radius/miles-of/:longitude,:latitude', async (req, res) => {
+  const radiusInMiles = Number(req.params.radius)
+  const longitude = Number(req.params.longitude)
+  const latitude = Number(req.params.latitude)
+
+  const sightings = await sightingsRepository.search()
+    .where('location').inRadius(circle => circle.origin(longitude, latitude).radius(radiusInMiles).miles)
+      .return.all()
+
+  res.send(sightings)
+})

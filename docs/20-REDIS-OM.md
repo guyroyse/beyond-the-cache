@@ -41,3 +41,6 @@ DELETE
 
 ### Actually Searching ##
 
+- add a geo example
+- add a numeric example
+
