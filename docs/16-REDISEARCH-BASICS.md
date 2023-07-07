@@ -8,7 +8,7 @@ In the next few sections, we'll be using the [FT.CREATE](https://redis.io/comman
 
 To really show off RediSearch, we need some data. Like, maybe, 4,586 Bigfoot sightings. We have all of those in the **`data/json`** folder but adding them one by one might be a *bit* tedious. So, I wrote a shell script to do it for you.
 
-Make sure your Bigfoot Tracker API is running. Then, in another terminal and in **`data`** folder, just run the `load-sightings.sh` script:
+Make sure your Bigfoot Tracker API is running. Then, in another terminal and in the **`data`** folder, just run the `load-sightings.sh` script:
 
 ```bash
 ./load-sightings.sh

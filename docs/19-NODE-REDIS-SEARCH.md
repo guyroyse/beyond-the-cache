@@ -4,7 +4,7 @@ Now that we know our way around RediSearch fairly well, we can update our Bigfoo
 
 We'll be using the RediSearch commands of [FT.CREATE](https://redis.io/commands/ft.create/) and [FT.SEARCH](https://redis.io/commands/ft.search/) in this section.
 
-Go ahead and open **`redis/client.js`** and `routers/sightings-router.js`** as these are where we'll be making our changes.
+Go ahead and open **`redis/sightings.js`** and `routers/sightings-router.js`** as these are where we'll be making our changes.
 
 ## Endpoints
 
@@ -20,15 +20,15 @@ Here's the additional endpoints we're adding or modifying for this section:
 
 ## Creating Our Index ##
 
-We need to create an index for RediSearch to be able to... well... search. We'll do this in **`redis/client.js`**.
+We need to create an index for RediSearch to be able to... well... search. We'll do this in **`redis/sightings.js`**.
 
-First things first, we need a name for our index. And, we'll need to use that name in **`routers/sighting.js`** when we call `.ft.search()`. So, let's assign it and export it. I did this after the call to `redis.connect()` but it really doesn't matter where you put it:
+First things first, we need a name for our index. And, we'll need to use that name in **`routers/sightings-router.js`** when we call `.ft.search()`. So, let's assign it and export it:
 
 ```javascript
 export const sightingsIndex = `bigfoot:sighting:index`
 ```
 
-Next, we need to create our index with a call to `.ft.create()`. This is a rather weighty call but you should recognize all the arguments from your earlier calls to FT.SEARCH. Just past it at the bottom of **`redis/client.js`**:
+Next, we need to create our index with a call to `.ft.create()`. This is a rather weighty call but you should recognize all the arguments from your earlier calls to FT.SEARCH. Just paste it at the bottom of **`redis/sightings.js`**:
 
 ```javascript
 await redis.ft.create(sightingsIndex, {

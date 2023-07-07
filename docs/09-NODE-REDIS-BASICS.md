@@ -1,9 +1,10 @@
 # Node Redis Basics #
 
-Inside of the **`src`** folder, we have the following files and folders or note:
+Inside of the **`src`** folder, we have the following files and folders of note:
 
 -  **`server.js`**: This is the main file that starts the Express server and binds the routers. You shouldn't need to modify it—and there is nothing Redis specfic in it—but take a look and see how it works.
 -  **`redis/client.js`**: Establishes a Redis connection with Node Redis and exports it. You won't need to modify this either, but you should know how it works. It'll be covered below.
+-  **`redis/sightings.js`**: This mostly empty file will contain code to set up RediSearch and Redis OM to search Bigfoot sightings. You won't need to modify this anytime soon, but know that it's there.
 -  **`routers/`**: This folder contains the various routers, with stubbed-out implementations, that **`server.js`** exposes.
 
 ## Connecting to Redis ##
