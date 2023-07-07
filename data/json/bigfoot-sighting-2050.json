@@ -11,9 +11,11 @@
   "longitude": -95.52722,
   "location": "-95.52722,30.61667",
   "location_details": "Occured in or near Huntsville State Park.",
-  "temperature_high": 90.71,
-  "temperature_mid": 81.845,
-  "temperature_low": 72.98,
+  "temperature": {
+    "high": 90.71,
+    "mid": 81.845,
+    "low": 72.98
+  },
   "dew_point": 71.56,
   "humidity": 0.76,
   "cloud_cover": 0.45,

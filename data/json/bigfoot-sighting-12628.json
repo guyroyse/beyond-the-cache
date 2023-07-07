@@ -11,9 +11,11 @@
   "longitude": -82.055,
   "location": "-82.055,28.555",
   "location_details": "[West of Tarrytown -- Specific location details removed from this version of the report]",
-  "temperature_high": 88.04,
-  "temperature_mid": 81.395,
-  "temperature_low": 74.75,
+  "temperature": {
+    "high": 88.04,
+    "mid": 81.395,
+    "low": 74.75
+  },
   "dew_point": 71.91,
   "humidity": 0.79,
   "cloud_cover": 0.59,

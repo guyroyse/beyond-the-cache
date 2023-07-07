@@ -11,9 +11,11 @@
   "longitude": -123.1967,
   "location": "-123.1967,47.5616",
   "location_details": "Turn off Hiway 101 at Hamma Hamma Recreation Area road, turn onto dirt road 2480 and continue to road 2401 continue on this past Jefferson Lake. The prints were about 1 1/2 -2 miles past lake. The pond is about 1/8 mile from end of road on short spur road.",
-  "temperature_high": 73.54,
-  "temperature_mid": 63.28,
-  "temperature_low": 53.02,
+  "temperature": {
+    "high": 73.54,
+    "mid": 63.28,
+    "low": 53.02
+  },
   "dew_point": 46.37,
   "humidity": 0.6,
   "cloud_cover": 0.51,

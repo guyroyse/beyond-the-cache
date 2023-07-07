@@ -11,9 +11,11 @@
   "longitude": -121.5314,
   "location": "-121.5314,46.46447",
   "location_details": "On Chambers Lake spur road off FSR 21",
-  "temperature_high": 47.19,
-  "temperature_mid": 42.445,
-  "temperature_low": 37.7,
+  "temperature": {
+    "high": 47.19,
+    "mid": 42.445,
+    "low": 37.7
+  },
   "dew_point": 37.84,
   "humidity": 0.88,
   "cloud_cover": 0.79,

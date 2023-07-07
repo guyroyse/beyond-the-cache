@@ -11,9 +11,11 @@
   "longitude": -78.09365,
   "location": "-78.09365,36.21335",
   "location_details": "Area has seen \"some\" residential development,and some logging (clearcutting)had been reported At the time of my experience,it was an old forest,with hardwoods,and pines mixed. ",
-  "temperature_high": 62.47,
-  "temperature_mid": 52.96,
-  "temperature_low": 43.45,
+  "temperature": {
+    "high": 62.47,
+    "mid": 52.96,
+    "low": 43.45
+  },
   "dew_point": 47.73,
   "humidity": 0.83,
   "cloud_cover": 0.98,

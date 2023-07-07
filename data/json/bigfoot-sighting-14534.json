@@ -11,9 +11,11 @@
   "longitude": -120.7772,
   "location": "-120.7772,48.19923",
   "location_details": "Take a boat or sea plane to lucerne and up the road to Holden Village and follow the Creek until it bends southwest",
-  "temperature_high": 83.41,
-  "temperature_mid": 72.525,
-  "temperature_low": 61.64,
+  "temperature": {
+    "high": 83.41,
+    "mid": 72.525,
+    "low": 61.64
+  },
   "dew_point": 53.18,
   "humidity": 0.52,
   "cloud_cover": 0.11,

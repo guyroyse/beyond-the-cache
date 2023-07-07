@@ -11,9 +11,11 @@
   "longitude": -122.3775,
   "location": "-122.3775,40.8875",
   "location_details": "We went there in a boat I think it was on a north bank were the boat dock was.  I think I could find it if I went back there but it's hard to explain.  I think the cove was in a northern direction too.",
-  "temperature_high": 93.45,
-  "temperature_mid": 80.03,
-  "temperature_low": 66.61,
+  "temperature": {
+    "high": 93.45,
+    "mid": 80.03,
+    "low": 66.61
+  },
   "dew_point": 52.2,
   "humidity": 0.44,
   "cloud_cover": 0.77,

@@ -11,9 +11,11 @@
   "longitude": -95.62278,
   "location": "-95.62278,34.11306",
   "location_details": "Northeast of Soper, OK.",
-  "temperature_high": 62.85,
-  "temperature_mid": 50.28,
-  "temperature_low": 37.71,
+  "temperature": {
+    "high": 62.85,
+    "mid": 50.28,
+    "low": 37.71
+  },
   "dew_point": 41.22,
   "humidity": 0.69,
   "cloud_cover": 0.34,

@@ -11,9 +11,11 @@
   "longitude": -120.55,
   "location": "-120.55,47.83843",
   "location_details": "Thousand Trails camp site. 20752 Chiwawa Loop Rd Leavenworth, WA 98626. 18 miles west of Leavenworth, WA",
-  "temperature_high": 66.46,
-  "temperature_mid": 58.405,
-  "temperature_low": 50.35,
+  "temperature": {
+    "high": 66.46,
+    "mid": 58.405,
+    "low": 50.35
+  },
   "dew_point": 47.19,
   "humidity": 0.64,
   "cloud_cover": 0.46,

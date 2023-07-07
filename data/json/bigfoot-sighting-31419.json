@@ -11,9 +11,11 @@
   "longitude": -89.53419,
   "location": "-89.53419,38.9241",
   "location_details": "Outside Greenville near Old Ripley",
-  "temperature_high": 42.5,
-  "temperature_mid": 37.74,
-  "temperature_low": 32.98,
+  "temperature": {
+    "high": 42.5,
+    "mid": 37.74,
+    "low": 32.98
+  },
   "dew_point": 24.86,
   "humidity": 0.68,
   "cloud_cover": 0.31,

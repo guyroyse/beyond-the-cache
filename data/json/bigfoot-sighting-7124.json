@@ -11,9 +11,11 @@
   "longitude": -118.1253,
   "location": "-118.1253,45.9957",
   "location_details": "Because I was only 14 at the time, and since I was only there once, I have no recollection of how to get there, and I have long since forgotten the name, although I recall it being a little unusual. However, I lived in SE Washington at the time, and it wasn't that far away, maybe 90 minutes. After reviewing maps of NE Oregon, there is a \"river\" in that area with an unusual name with several small creeks feeding it: the Wenaha River. I also recall the encampment had a small parade ground, perhaps 1/3 to 1/2 the size of a football field, with a small pond, both of which were elevated from the river by no more than 15 feet. I also seem to recall parallel to the river at this point a forest service road. If I recall correctly, the sun setting in the west places the ravine/creek at the west end of camp; my campsite was at the northeast end, the river along the southern edge of camp flowed east to west, and the small creek flowed down out of the north.",
-  "temperature_high": 74.27,
-  "temperature_mid": 61.16,
-  "temperature_low": 48.05,
+  "temperature": {
+    "high": 74.27,
+    "mid": 61.16,
+    "low": 48.05
+  },
   "dew_point": 44.93,
   "humidity": 0.52,
   "cloud_cover": 0.75,

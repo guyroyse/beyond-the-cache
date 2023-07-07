@@ -11,9 +11,11 @@
   "longitude": -82.49833,
   "location": "-82.49833,39.56573",
   "location_details": "Rockbridge State Nature Preserve",
-  "temperature_high": 75.25,
-  "temperature_mid": 64.15,
-  "temperature_low": 53.05,
+  "temperature": {
+    "high": 75.25,
+    "mid": 64.15,
+    "low": 53.05
+  },
   "dew_point": 50.3,
   "humidity": 0.58,
   "cloud_cover": 0.1,

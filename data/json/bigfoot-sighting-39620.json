@@ -11,9 +11,11 @@
   "longitude": -85.86473,
   "location": "-85.86473,34.04129",
   "location_details": "Appalachian highway heading from Hokes bluff to Gadsden Alabama right pass the Appalachian bridge, between Cotes Bend and the Coosa River",
-  "temperature_high": 52.45,
-  "temperature_mid": 48.975,
-  "temperature_low": 45.5,
+  "temperature": {
+    "high": 52.45,
+    "mid": 48.975,
+    "low": 45.5
+  },
   "dew_point": 33.83,
   "humidity": 0.62,
   "cloud_cover": 0.82,

@@ -11,9 +11,11 @@
   "longitude": -94.3643,
   "location": "-94.3643,33.76986",
   "location_details": "Take hwy 71 to hwy 32 go west to Aleen cross over railroad tracks keep on 32 for 3 to 5 miles find the road to the right that leads to the river. the place is called cottonwood shouls.",
-  "temperature_high": 97,
-  "temperature_mid": 85.13,
-  "temperature_low": 73.26,
+  "temperature": {
+    "high": 97,
+    "mid": 85.13,
+    "low": 73.26
+  },
   "dew_point": 69.25,
   "humidity": 0.64,
   "cloud_cover": 0.42,

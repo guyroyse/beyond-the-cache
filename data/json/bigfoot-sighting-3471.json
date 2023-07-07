@@ -11,9 +11,11 @@
   "longitude": -88.9094,
   "location": "-88.9094,38.4975",
   "location_details": "Near Kell, Illinois in a rural farming area, quite remote. I was only 11, and don't remember exact location, but our farm, about 60 acres, was located at a crossroad of two highways",
-  "temperature_high": 78,
-  "temperature_mid": 72.69,
-  "temperature_low": 67.38,
+  "temperature": {
+    "high": 78,
+    "mid": 72.69,
+    "low": 67.38
+  },
   "dew_point": 63.77,
   "humidity": 0.84,
   "cloud_cover": 0.7,

@@ -11,9 +11,11 @@
   "longitude": -95.2577,
   "location": "-95.2577,38.9142",
   "location_details": "South of Haskell University near the Wetlands.",
-  "temperature_high": 39.97,
-  "temperature_mid": 34.565,
-  "temperature_low": 29.16,
+  "temperature": {
+    "high": 39.97,
+    "mid": 34.565,
+    "low": 29.16
+  },
   "dew_point": 29.18,
   "humidity": 0.77,
   "cloud_cover": 0.63,

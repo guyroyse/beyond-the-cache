@@ -11,9 +11,11 @@
   "longitude": -81.96419,
   "location": "-81.96419,41.06648",
   "location_details": "State Route 42 south from Medina to Friendsville Road. The farm is on the right hand side of the road.",
-  "temperature_high": 47.52,
-  "temperature_mid": 45.285,
-  "temperature_low": 43.05,
+  "temperature": {
+    "high": 47.52,
+    "mid": 45.285,
+    "low": 43.05
+  },
   "dew_point": 42.86,
   "humidity": 0.88,
   "cloud_cover": 0.98,

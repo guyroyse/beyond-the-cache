@@ -11,9 +11,11 @@
   "longitude": -122.3291,
   "location": "-122.3291,46.13795",
   "location_details": "From Olympia, Washington, take I-5 south to exit 21.  Take exit 21 at Woodland and take WA-503 east towards Cougar.  Follow WA-503 about 28 miles (just before Cougar) and take a left on Forest Service Road 81 towards Merrill Lake and Kalama Horse Camp.  We took a small gravel turnoff near the Kalama Horse Camp and camped right near the Kalama River.",
-  "temperature_high": 84.37,
-  "temperature_mid": 69.875,
-  "temperature_low": 55.38,
+  "temperature": {
+    "high": 84.37,
+    "mid": 69.875,
+    "low": 55.38
+  },
   "dew_point": 52.78,
   "humidity": 0.59,
   "cloud_cover": 0.09,

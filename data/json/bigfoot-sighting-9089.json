@@ -11,9 +11,11 @@
   "longitude": -91.68192,
   "location": "-91.68192,42.28422",
   "location_details": "Near Wipsipinicon River by Troy Mills",
-  "temperature_high": 83.79,
-  "temperature_mid": 70.465,
-  "temperature_low": 57.14,
+  "temperature": {
+    "high": 83.79,
+    "mid": 70.465,
+    "low": 57.14
+  },
   "dew_point": 58.99,
   "humidity": 0.73,
   "cloud_cover": 0.02,

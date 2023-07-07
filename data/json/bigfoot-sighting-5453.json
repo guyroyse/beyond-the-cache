@@ -11,9 +11,11 @@
   "longitude": -121.5863,
   "location": "-121.5863,46.6711",
   "location_details": "It was west of the Chinook pass turn off.  and before your reach the bottom of the pass.",
-  "temperature_high": 48.92,
-  "temperature_mid": 40.84,
-  "temperature_low": 32.76,
+  "temperature": {
+    "high": 48.92,
+    "mid": 40.84,
+    "low": 32.76
+  },
   "dew_point": 37.98,
   "humidity": 0.81,
   "cloud_cover": 0.77,

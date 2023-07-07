@@ -11,9 +11,11 @@
   "longitude": -121.6667,
   "location": "-121.6667,45.9667",
   "location_details": "This happened at Peterson Prairie Campground, six miles West of Trout Lake, South of Mt Adams on FS 60 and 10 miles SE of Skookum Meadows.",
-  "temperature_high": 80.21,
-  "temperature_mid": 69.72,
-  "temperature_low": 59.23,
+  "temperature": {
+    "high": 80.21,
+    "mid": 69.72,
+    "low": 59.23
+  },
   "dew_point": 56.58,
   "humidity": 0.69,
   "cloud_cover": 0.26,

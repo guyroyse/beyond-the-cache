@@ -11,9 +11,11 @@
   "longitude": -124.0133,
   "location": "-124.0133,46.2262",
   "location_details": "It was at the beach area off the North Jetty at Ft. Stevens State Park, South of the Jetty on the ocean side. Clearly viewable from the observation tower right where the jetty and the beach meet.",
-  "temperature_high": 48.94,
-  "temperature_mid": 41.755,
-  "temperature_low": 34.57,
+  "temperature": {
+    "high": 48.94,
+    "mid": 41.755,
+    "low": 34.57
+  },
   "dew_point": 36.19,
   "humidity": 0.87,
   "cloud_cover": 0.59,

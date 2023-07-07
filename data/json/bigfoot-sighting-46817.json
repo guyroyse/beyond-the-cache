@@ -11,9 +11,11 @@
   "longitude": -92.75357,
   "location": "-92.75357,47.47025",
   "location_details": "Morse Rd to the west and Hwy 169 to the north, a large swamp to the west and east. I was facing north when I saw it. Ten seconds before I saw it is when I heard the howling in the swamp to the west of my position.",
-  "temperature_high": 59.39,
-  "temperature_mid": 50.065,
-  "temperature_low": 40.74,
+  "temperature": {
+    "high": 59.39,
+    "mid": 50.065,
+    "low": 40.74
+  },
   "dew_point": 44.62,
   "humidity": 0.82,
   "cloud_cover": 0.17,

@@ -11,9 +11,11 @@
   "longitude": -120.0914,
   "location": "-120.0914,38.9575",
   "location_details": "It was thick and foresty, lot of tall pine trees.",
-  "temperature_high": 94.83,
-  "temperature_mid": 80.525,
-  "temperature_low": 66.22,
+  "temperature": {
+    "high": 94.83,
+    "mid": 80.525,
+    "low": 66.22
+  },
   "dew_point": 48.29,
   "humidity": 0.36,
   "cloud_cover": 0.23,

@@ -11,9 +11,11 @@
   "longitude": -71.65183,
   "location": "-71.65183,41.432",
   "location_details": "In a development off RT 112 in Charlestown known as Five Seasons.",
-  "temperature_high": 69.38,
-  "temperature_mid": 66.15,
-  "temperature_low": 62.92,
+  "temperature": {
+    "high": 69.38,
+    "mid": 66.15,
+    "low": 62.92
+  },
   "dew_point": 62.49,
   "humidity": 0.88,
   "cloud_cover": 0.93,

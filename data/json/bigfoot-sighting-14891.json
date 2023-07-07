@@ -11,9 +11,11 @@
   "longitude": -123.3333,
   "location": "-123.3333,42.0833",
   "location_details": "Take Carberry Creek road from Applegate Lake west to Sturgis Fork Road then west then NFD 1020 to NFD 600.",
-  "temperature_high": 59.2,
-  "temperature_mid": 52.49,
-  "temperature_low": 45.78,
+  "temperature": {
+    "high": 59.2,
+    "mid": 52.49,
+    "low": 45.78
+  },
   "dew_point": 36.87,
   "humidity": 0.66,
   "cloud_cover": 0.42,

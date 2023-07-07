@@ -11,9 +11,11 @@
   "longitude": -76.29115,
   "location": "-76.29115,36.3715",
   "location_details": "Pasquatank County NC and the property was on/near the Pasquatank River, near Elizabeth City and the Great Dismal Swamp.",
-  "temperature_high": 72.29,
-  "temperature_mid": 66.105,
-  "temperature_low": 59.92,
+  "temperature": {
+    "high": 72.29,
+    "mid": 66.105,
+    "low": 59.92
+  },
   "dew_point": 57.61,
   "humidity": 0.77,
   "cloud_cover": 0.71,

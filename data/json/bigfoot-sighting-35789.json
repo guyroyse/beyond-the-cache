@@ -11,9 +11,11 @@
   "longitude": -88.68893,
   "location": "-88.68893,32.09515",
   "location_details": "Clarkco State Park is located just off US Highway 45 about four miles or so north of Quitman, MS.",
-  "temperature_high": 81.9,
-  "temperature_mid": 63.3,
-  "temperature_low": 44.7,
+  "temperature": {
+    "high": 81.9,
+    "mid": 63.3,
+    "low": 44.7
+  },
   "dew_point": 45.6,
   "humidity": 0.63,
   "cloud_cover": 0,

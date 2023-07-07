@@ -1,0 +1,35 @@
+{
+  "reportId": "11451",
+  "title": "While biking to work, man hears loud animal in woods.",
+  "date": "2005-04-26",
+  "timestamp": 1114473600,
+  "observed": "My husband was on his way to work, on his bicyle and there is a long hill he has to ride after bear creek. He heard something with heavy steps coming from the left side of the road, my husband stopped and used his flashlight into that area, when he did that whatever it was started moving back into the woods and he could hear branches breaking. My husband said, he rode his bike so fast. Whatever it was scared him. It happened around 5:30 a.m.",
+  "classification": "Class B",
+  "county": "Polk",
+  "state": "Texas",
+  "latitude": 30.71139,
+  "longitude": -94.58,
+  "location": {
+    "longitude": -94.58,
+    "latitude": 30.71139
+  },
+  "location_details": "between Big Sandy Creek and Bear Creek",
+  "temperature": {
+    "high": 78.23,
+    "mid": 64.665,
+    "low": 51.1
+  },
+  "dew_point": 54.67,
+  "humidity": 0.67,
+  "cloud_cover": 0.41,
+  "moon_phase": 0.58,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.22,
+  "precip_type": "rain",
+  "pressure": 1009.52,
+  "summary": "Mostly cloudy in the morning.",
+  "uv_index": 11,
+  "visibility": 8.79,
+  "wind_bearing": 309,
+  "wind_speed": 5.23
+}

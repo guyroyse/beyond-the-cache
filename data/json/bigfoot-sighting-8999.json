@@ -11,9 +11,11 @@
   "longitude": -115.3903,
   "location": "-115.3903,47.62167",
   "location_details": "To the right of the bridge is a public boat launch on the east side of the river. The sighting took place on the west side of the river in a popular picnicing/camping area in the summer months. In the winter it is deserted.",
-  "temperature_high": 45.92,
-  "temperature_mid": 37.875,
-  "temperature_low": 29.83,
+  "temperature": {
+    "high": 45.92,
+    "mid": 37.875,
+    "low": 29.83
+  },
   "dew_point": 25.47,
   "humidity": 0.62,
   "cloud_cover": 0.66,

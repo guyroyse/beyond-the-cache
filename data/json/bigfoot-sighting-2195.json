@@ -11,9 +11,11 @@
   "longitude": -118.0711,
   "location": "-118.0711,46.03944",
   "location_details": "take Mill Creek road to Blue Creek rd, go left and follow to Fivepoint then go right on Blacksnake ridge",
-  "temperature_high": 55.78,
-  "temperature_mid": 46.135,
-  "temperature_low": 36.49,
+  "temperature": {
+    "high": 55.78,
+    "mid": 46.135,
+    "low": 36.49
+  },
   "dew_point": 31.59,
   "humidity": 0.7,
   "cloud_cover": 0.27,

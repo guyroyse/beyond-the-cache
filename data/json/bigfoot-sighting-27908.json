@@ -11,9 +11,11 @@
   "longitude": -81.30889,
   "location": "-81.30889,36.31126",
   "location_details": "It happened in Wilbar, NC. Off 16 North about 8 to 10 miles. Roten Creek Road",
-  "temperature_high": 86.74,
-  "temperature_mid": 77.79,
-  "temperature_low": 68.84,
+  "temperature": {
+    "high": 86.74,
+    "mid": 77.79,
+    "low": 68.84
+  },
   "dew_point": 64.67,
   "humidity": 0.73,
   "cloud_cover": 0.11,

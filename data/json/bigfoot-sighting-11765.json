@@ -11,9 +11,11 @@
   "longitude": -87.38542,
   "location": "-87.38542,36.12318",
   "location_details": "About five miles north of Dickson between Sycamore Rd and Westfield Rd.",
-  "temperature_high": 90.74,
-  "temperature_mid": 81.275,
-  "temperature_low": 71.81,
+  "temperature": {
+    "high": 90.74,
+    "mid": 81.275,
+    "low": 71.81
+  },
   "dew_point": 72.97,
   "humidity": 0.77,
   "cloud_cover": 0.28,

@@ -11,9 +11,11 @@
   "longitude": -81.40079,
   "location": "-81.40079,39.63382",
   "location_details": "Closest town was Harriettsville. Closest main road is State Route 145. Right on the border of Noble and Washington Counties.",
-  "temperature_high": 34,
-  "temperature_mid": 29.995,
-  "temperature_low": 25.99,
+  "temperature": {
+    "high": 34,
+    "mid": 29.995,
+    "low": 25.99
+  },
   "dew_point": 31.17,
   "humidity": 0.93,
   "cloud_cover": 1,

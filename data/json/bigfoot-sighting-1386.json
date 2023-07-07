@@ -11,9 +11,11 @@
   "longitude": -121.5356,
   "location": "-121.5356,47.3958",
   "location_details": "Bandera Airstrip. 3/4 mile from end of USFS Road off I-90. The site is 100 yards to the east (upriver) from the western end of the airstrip, within sight of I-90.",
-  "temperature_high": 59.9,
-  "temperature_mid": 51.125,
-  "temperature_low": 42.35,
+  "temperature": {
+    "high": 59.9,
+    "mid": 51.125,
+    "low": 42.35
+  },
   "dew_point": 40.94,
   "humidity": 0.72,
   "cloud_cover": 0.73,

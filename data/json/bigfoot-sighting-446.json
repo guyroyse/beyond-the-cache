@@ -11,9 +11,11 @@
   "longitude": -81.52915,
   "location": "-81.52915,30.2333",
   "location_details": "Off I-95. The area sits between Southside Blvd. to the west. J.Turner Butler Blvd. to the north. Gate Parkway to the east and 9-A St. Johns Bluff Road to south.",
-  "temperature_high": 81.99,
-  "temperature_mid": 78.69,
-  "temperature_low": 75.39,
+  "temperature": {
+    "high": 81.99,
+    "mid": 78.69,
+    "low": 75.39
+  },
   "dew_point": 77.02,
   "humidity": 0.91,
   "cloud_cover": 0.45,

@@ -11,9 +11,11 @@
   "longitude": -89.98725,
   "location": "-89.98725,36.06055",
   "location_details": "Two miles west of sunrise corner just acress the railroad tracks",
-  "temperature_high": 67.85,
-  "temperature_mid": 53.895,
-  "temperature_low": 39.94,
+  "temperature": {
+    "high": 67.85,
+    "mid": 53.895,
+    "low": 39.94
+  },
   "dew_point": 31.74,
   "humidity": 0.51,
   "cloud_cover": 0.01,

@@ -11,9 +11,11 @@
   "longitude": -85.95136,
   "location": "-85.95136,30.9854",
   "location_details": "The road in between Geneva, Alabama and the Rural community of Sweet Gum Head, Florida.",
-  "temperature_high": 62.09,
-  "temperature_mid": 47.93,
-  "temperature_low": 33.77,
+  "temperature": {
+    "high": 62.09,
+    "mid": 47.93,
+    "low": 33.77
+  },
   "dew_point": 29.92,
   "humidity": 0.47,
   "cloud_cover": 0.16,

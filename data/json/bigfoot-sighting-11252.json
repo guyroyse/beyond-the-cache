@@ -11,9 +11,11 @@
   "longitude": -94.0679,
   "location": "-94.0679,35.1759",
   "location_details": "We were heading east toward Booneville Lake.",
-  "temperature_high": 89.49,
-  "temperature_mid": 80.265,
-  "temperature_low": 71.04,
+  "temperature": {
+    "high": 89.49,
+    "mid": 80.265,
+    "low": 71.04
+  },
   "dew_point": 68.95,
   "humidity": 0.72,
   "cloud_cover": 0.55,

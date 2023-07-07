@@ -11,9 +11,11 @@
   "longitude": -81.48534,
   "location": "-81.48534,28.85982",
   "location_details": "From I95 south take the LPGA BLVD exit near Daytona, turn right, follow to end and turn right onto International Speedway BLVD (17/92), continue on 17/92 into DeLand, Turn left onto 17, turn right onto 44 west, continue on 44 approximatly 10 miles. Cassia is a very small town, look closely for the sign. Once in Cassia, the area where this took place is now called Camp Boggy Creek, I believe, which will be on your left, a sand road. It is just before the Blackwater Creek bridge (small bridge). Unknown who the land owners are now if any.",
-  "temperature_high": 68.92,
-  "temperature_mid": 65.555,
-  "temperature_low": 62.19,
+  "temperature": {
+    "high": 68.92,
+    "mid": 65.555,
+    "low": 62.19
+  },
   "dew_point": 60.39,
   "humidity": 0.87,
   "cloud_cover": 0.85,

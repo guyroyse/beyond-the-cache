@@ -11,9 +11,11 @@
   "longitude": -81.56005,
   "location": "-81.56005,34.9533",
   "location_details": "[Exact location details omitted.] Location is near pine forest, creek runs along side and there are a number of large farms in the location.",
-  "temperature_high": 78.02,
-  "temperature_mid": 64.56,
-  "temperature_low": 51.1,
+  "temperature": {
+    "high": 78.02,
+    "mid": 64.56,
+    "low": 51.1
+  },
   "dew_point": 52.38,
   "humidity": 0.66,
   "cloud_cover": 0.06,

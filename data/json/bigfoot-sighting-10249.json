@@ -11,9 +11,11 @@
   "longitude": -74.6298,
   "location": "-74.6298,39.652",
   "location_details": "within 5 miles of batsto",
-  "temperature_high": 50.46,
-  "temperature_mid": 41.835,
-  "temperature_low": 33.21,
+  "temperature": {
+    "high": 50.46,
+    "mid": 41.835,
+    "low": 33.21
+  },
   "dew_point": 24.06,
   "humidity": 0.57,
   "cloud_cover": 0.2,

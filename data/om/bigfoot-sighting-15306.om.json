@@ -1,0 +1,34 @@
+{
+  "reportId": "15306",
+  "title": "Young Woman Observes Large Biped in a Field east of Pittsburgh",
+  "date": "2007-11-03",
+  "timestamp": 1194048000,
+  "observed": "My name is Amanda and I live in Plum, Pennsylvania.  On july 23rd, I was sitting out side talking to my boyfriend of nine months, Tommy.  I heard some moving in the woods beside our house, but disregarded it as a wolf or a bear or something like that.  I continued talking to tommy for about another 20 minutes when i smelled something strange and happened to look up and see a figure in the middle of our field that appeared to be about 8 or 9 feet tall.  It was very large and was covered in dark brown to black hair from head to foot.  It's face was part human, part...something else.  I jumped up in fear, ran into my house and immediately locked the doors and shut the blinds.  My family was wondering what was wrong with me, they all said that i was \"as pale as a ghost\".   My mom went out and shone a flashlight around, we saw nothing else that night.  The next morning my cousin and I woke up and went outside to investigate.  We found flattened grass and 3 clearings in the woods and tracks that led deep into the woods.  We were going to go into the woods, but both of us were to frightened by what we had already found to venture off into the woods.  that was the scariest moment of my entire life.",
+  "classification": "Class A",
+  "county": "Allegheny",
+  "state": "Pennsylvania",
+  "latitude": 40.5278,
+  "longitude": -79.7668,
+  "location": {
+    "longitude": -79.7668,
+    "latitude": 40.5278
+  },
+  "location_details": "right off of route 909 onto kerr road",
+  "temperature": {
+    "high": 56.07,
+    "mid": 45.685,
+    "low": 35.3
+  },
+  "dew_point": 28.86,
+  "humidity": 0.62,
+  "cloud_cover": 0.19,
+  "moon_phase": 0.81,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1018.83,
+  "summary": "Partly cloudy starting in the afternoon.",
+  "uv_index": 3,
+  "visibility": 9.81,
+  "wind_bearing": 302,
+  "wind_speed": 2.68
+}

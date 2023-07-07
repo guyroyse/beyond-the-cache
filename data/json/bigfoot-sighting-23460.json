@@ -11,9 +11,11 @@
   "longitude": -122.8665,
   "location": "-122.8665,47.28435",
   "location_details": "We were in Hartstene Point. The gated community at the north tip of the island. The sound was coming from the south. We guessed it was 1/2 mile to 1 mile away based on where the gated community starts. It sounded like it could have been right down on the beach or up above on the high bluff.",
-  "temperature_high": 49.09,
-  "temperature_mid": 44.96,
-  "temperature_low": 40.83,
+  "temperature": {
+    "high": 49.09,
+    "mid": 44.96,
+    "low": 40.83
+  },
   "dew_point": 33.28,
   "humidity": 0.75,
   "cloud_cover": 0.73,

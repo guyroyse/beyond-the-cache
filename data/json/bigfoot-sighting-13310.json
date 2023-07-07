@@ -11,9 +11,11 @@
   "longitude": -75.5167,
   "location": "-75.5167,39.632",
   "location_details": "From the Delaware memorial bridge take rt49 south to Fort Mott road.  After about one mile turn left onto Ft Sumpter road.  The apartments are at the end of the road.  They are still there as of 2004.",
-  "temperature_high": 46.01,
-  "temperature_mid": 38.815,
-  "temperature_low": 31.62,
+  "temperature": {
+    "high": 46.01,
+    "mid": 38.815,
+    "low": 31.62
+  },
   "dew_point": 25.32,
   "humidity": 0.57,
   "cloud_cover": 0.72,

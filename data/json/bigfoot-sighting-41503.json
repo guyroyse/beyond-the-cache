@@ -11,9 +11,11 @@
   "longitude": -81.85223,
   "location": "-81.85223,29.97917",
   "location_details": "Headed east from Gainesville on SR-16 between Starke and Camp Blanding.",
-  "temperature_high": 87.78,
-  "temperature_mid": 81.025,
-  "temperature_low": 74.27,
+  "temperature": {
+    "high": 87.78,
+    "mid": 81.025,
+    "low": 74.27
+  },
   "dew_point": 71.08,
   "humidity": 0.81,
   "cloud_cover": 0.31,

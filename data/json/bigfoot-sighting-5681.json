@@ -11,9 +11,11 @@
   "longitude": -96.968,
   "location": "-96.968,35.86972",
   "location_details": "From the city of Tryon; approx. 1 to 2 miles west on Highway 105 at the peak of a hill.",
-  "temperature_high": 64.86,
-  "temperature_mid": 48.65,
-  "temperature_low": 32.44,
+  "temperature": {
+    "high": 64.86,
+    "mid": 48.65,
+    "low": 32.44
+  },
   "dew_point": 33.39,
   "humidity": 0.68,
   "cloud_cover": 0.24,

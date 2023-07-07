@@ -11,9 +11,11 @@
   "longitude": -122.3759,
   "location": "-122.3759,43.20335",
   "location_details": "Near Diamond Lake, right on Rough Creek were it runs into Fish Creek. Near Toketee Falls.",
-  "temperature_high": 79.51,
-  "temperature_mid": 67.255,
-  "temperature_low": 55,
+  "temperature": {
+    "high": 79.51,
+    "mid": 67.255,
+    "low": 55
+  },
   "dew_point": 45.34,
   "humidity": 0.58,
   "cloud_cover": 0.23,

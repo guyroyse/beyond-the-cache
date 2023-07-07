@@ -11,9 +11,11 @@
   "longitude": -92.59781,
   "location": "-92.59781,38.81124",
   "location_details": "west of Prairie Home on Highway J. Not far after crossing Pisgah creek. Old farm house with separate yard from pasture.",
-  "temperature_high": 60.41,
-  "temperature_mid": 50.5,
-  "temperature_low": 40.59,
+  "temperature": {
+    "high": 60.41,
+    "mid": 50.5,
+    "low": 40.59
+  },
   "dew_point": 48.71,
   "humidity": 0.72,
   "cloud_cover": 0.78,

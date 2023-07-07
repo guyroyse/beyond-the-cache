@@ -11,9 +11,11 @@
   "longitude": -84.7602,
   "location": "-84.7602,44.4355",
   "location_details": "Swamp between 2 hills",
-  "temperature_high": 69.99,
-  "temperature_mid": 60.1,
-  "temperature_low": 50.21,
+  "temperature": {
+    "high": 69.99,
+    "mid": 60.1,
+    "low": 50.21
+  },
   "dew_point": 57.32,
   "humidity": 0.79,
   "cloud_cover": 0.63,

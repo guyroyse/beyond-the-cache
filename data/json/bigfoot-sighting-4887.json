@@ -11,9 +11,11 @@
   "longitude": -118.5272,
   "location": "-118.5272,36.10556",
   "location_details": "Golden Trout Wilderness Packing Station - it's web site is under the same name.",
-  "temperature_high": 98.9,
-  "temperature_mid": 84.345,
-  "temperature_low": 69.79,
+  "temperature": {
+    "high": 98.9,
+    "mid": 84.345,
+    "low": 69.79
+  },
   "dew_point": 47.89,
   "humidity": 0.3,
   "cloud_cover": 0.06,

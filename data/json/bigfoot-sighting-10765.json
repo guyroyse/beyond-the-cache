@@ -11,9 +11,11 @@
   "longitude": -86.1358,
   "location": "-86.1358,37.3817",
   "location_details": "At this moment I don't know the location because I was so young.",
-  "temperature_high": 85.72,
-  "temperature_mid": 77.02,
-  "temperature_low": 68.32,
+  "temperature": {
+    "high": 85.72,
+    "mid": 77.02,
+    "low": 68.32
+  },
   "dew_point": 67.48,
   "humidity": 0.75,
   "cloud_cover": 0.43,

@@ -11,9 +11,11 @@
   "longitude": -97.52499,
   "location": "-97.52499,32.15",
   "location_details": "County road 1108 and 916. next to the Brazos River, very near the Klondike ranch. on the cliffs over looking the river. In the Goat Neck area.",
-  "temperature_high": 75.19,
-  "temperature_mid": 65.06,
-  "temperature_low": 54.93,
+  "temperature": {
+    "high": 75.19,
+    "mid": 65.06,
+    "low": 54.93
+  },
   "dew_point": 53.02,
   "humidity": 0.67,
   "cloud_cover": 0.69,

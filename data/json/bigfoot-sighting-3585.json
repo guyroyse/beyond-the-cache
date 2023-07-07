@@ -11,9 +11,11 @@
   "longitude": -121.9697,
   "location": "-121.9697,47.85556",
   "location_details": "I would rather not say online, my friend is a very private person. I would discuss the location by phone however.",
-  "temperature_high": 69.27,
-  "temperature_mid": 64.19,
-  "temperature_low": 59.11,
+  "temperature": {
+    "high": 69.27,
+    "mid": 64.19,
+    "low": 59.11
+  },
   "dew_point": 51.12,
   "humidity": 0.75,
   "cloud_cover": 0.56,

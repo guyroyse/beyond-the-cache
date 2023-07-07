@@ -1,0 +1,35 @@
+{
+  "reportId": "13286",
+  "title": "Possible vocalizations near Salado.",
+  "date": "2005-12-15",
+  "timestamp": 1134604800,
+  "observed": "I was gathering some firewood from a stack of previously split wood behind my house. I kept hearing a strange \"whooping\" sound coming from the thick woods about 100 yards away. My nearest neighbor has horses which I could hear bolting away about the same time. My dog ran to the edge of the woods and kept barking and running around back and forth in that area. I have never heard these kind of sounds before. It was after dark about 9:00 pm. I also could faintly smell a very odd smell. Strangly enough the smell reminded me of a zoo. The incident lasted about one or two minutes. I believe that I was being watched.",
+  "classification": "Class B",
+  "county": "Independence",
+  "state": "Arkansas",
+  "latitude": 35.69958,
+  "longitude": -91.51528,
+  "location": {
+    "longitude": -91.51528,
+    "latitude": 35.69958
+  },
+  "location_details": "The area is near the small community of Salado. About 10 miles from Batesville and about 10 miles from Oil Trough going the other direction.",
+  "temperature": {
+    "high": 49.79,
+    "mid": 37.52,
+    "low": 25.25
+  },
+  "dew_point": 21.37,
+  "humidity": 0.48,
+  "cloud_cover": 0.18,
+  "moon_phase": 0.51,
+  "precip_intensity": 0.0014,
+  "precip_probability": 0.49,
+  "precip_type": "rain",
+  "pressure": 1014.18,
+  "summary": "Partly cloudy in the evening.",
+  "uv_index": 2,
+  "visibility": 9.76,
+  "wind_bearing": 285,
+  "wind_speed": 7.71
+}

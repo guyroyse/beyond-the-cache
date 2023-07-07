@@ -11,9 +11,11 @@
   "longitude": -77.7011,
   "location": "-77.7011,41.845",
   "location_details": "Roger's lot.",
-  "temperature_high": 65.76,
-  "temperature_mid": 56.735,
-  "temperature_low": 47.71,
+  "temperature": {
+    "high": 65.76,
+    "mid": 56.735,
+    "low": 47.71
+  },
   "dew_point": 42.18,
   "humidity": 0.72,
   "cloud_cover": 0.41,

@@ -11,9 +11,11 @@
   "longitude": -88.50061,
   "location": "-88.50061,37.61404",
   "location_details": "We were in the most remote camp site at Williams Hill Pass, which is the first one nearest the entrance.  The park is bordered by a National Forest, the name of which eludes me at the moment.  It may be the Shawnee National Forest.",
-  "temperature_high": 89.55,
-  "temperature_mid": 79.845,
-  "temperature_low": 70.14,
+  "temperature": {
+    "high": 89.55,
+    "mid": 79.845,
+    "low": 70.14
+  },
   "dew_point": 68.91,
   "humidity": 0.73,
   "cloud_cover": 0.07,

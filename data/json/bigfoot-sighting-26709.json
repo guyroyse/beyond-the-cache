@@ -11,9 +11,11 @@
   "longitude": -80.77592,
   "location": "-80.77592,41.09087",
   "location_details": "I was between route 224 and Mahoning Ave.  Austintowns water comes from Meander Reservoir which is protected by park rangers.  We were within a mile from the reservoir but exact location within the forrest is unknown due to the production of housing developments within the past few years.",
-  "temperature_high": 64.83,
-  "temperature_mid": 53.395,
-  "temperature_low": 41.96,
+  "temperature": {
+    "high": 64.83,
+    "mid": 53.395,
+    "low": 41.96
+  },
   "dew_point": 42.58,
   "humidity": 0.71,
   "cloud_cover": 0.08,

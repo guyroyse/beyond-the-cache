@@ -11,9 +11,11 @@
   "longitude": -120.0133,
   "location": "-120.0133,38.85556",
   "location_details": "\"It\" crossed Hwy 50 close to Upper Truckee River.  I can pinpoint the location because Hwy 50 crosses Upper Truckee River.  I know the area  well, I want very much to look for tracks in this area. But I live in Sacramento and I'm too busy right now.",
-  "temperature_high": 89.73,
-  "temperature_mid": 74.07,
-  "temperature_low": 58.41,
+  "temperature": {
+    "high": 89.73,
+    "mid": 74.07,
+    "low": 58.41
+  },
   "dew_point": 38.97,
   "humidity": 0.3,
   "cloud_cover": 0.1,

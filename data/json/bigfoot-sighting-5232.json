@@ -11,9 +11,11 @@
   "longitude": -123.6283,
   "location": "-123.6283,40.94083",
   "location_details": "I don't specifically recollect, it has been 41 years ago and I didn't know the area to begin with. However I may be able to point it out in a general way on a map.",
-  "temperature_high": 66.1,
-  "temperature_mid": 54.55,
-  "temperature_low": 43,
+  "temperature": {
+    "high": 66.1,
+    "mid": 54.55,
+    "low": 43
+  },
   "dew_point": 45.87,
   "humidity": 0.78,
   "cloud_cover": 0.77,

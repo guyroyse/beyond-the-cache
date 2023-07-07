@@ -1,0 +1,35 @@
+{
+  "reportId": "23293",
+  "title": "Tall creature with red eyes tries to hide from two boys near Chenoa",
+  "date": "1982-10-15",
+  "timestamp": 403488000,
+  "observed": "Eyes were glowing red..........eerie.....",
+  "classification": "Class A",
+  "county": "Bell",
+  "state": "Kentucky",
+  "latitude": 36.67311,
+  "longitude": -83.85683,
+  "location": {
+    "longitude": -83.85683,
+    "latitude": 36.67311
+  },
+  "location_details": "Located in bell county near parrot lake across the road from the smith farm on the hill side",
+  "temperature": {
+    "high": 68.49,
+    "mid": 55.61,
+    "low": 42.73
+  },
+  "dew_point": 44.55,
+  "humidity": 0.71,
+  "cloud_cover": 0.14,
+  "moon_phase": 0.95,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.27,
+  "precip_type": "rain",
+  "pressure": 1012.68,
+  "summary": "Partly cloudy starting in the evening.",
+  "uv_index": 4,
+  "visibility": 9.52,
+  "wind_bearing": 237,
+  "wind_speed": 7.84
+}

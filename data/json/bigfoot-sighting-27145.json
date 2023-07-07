@@ -11,9 +11,11 @@
   "longitude": -82.0125,
   "location": "-82.0125,29.95301",
   "location_details": "This occured in the archery only area of camp Blanding in C Block About 300 yds from the gate on Sapp rd.",
-  "temperature_high": 77.62,
-  "temperature_mid": 70.31,
-  "temperature_low": 63,
+  "temperature": {
+    "high": 77.62,
+    "mid": 70.31,
+    "low": 63
+  },
   "dew_point": 66.39,
   "humidity": 0.89,
   "cloud_cover": 0.65,

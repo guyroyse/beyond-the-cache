@@ -1,0 +1,35 @@
+{
+  "reportId": "12067",
+  "title": "Youth has sighting while fishing on Kansas River near Topeka",
+  "date": "1978-07-08",
+  "timestamp": 268704000,
+  "observed": "I was 10 yrs old roughly my dad and cousin and I were fishing on the Kansas River west of Topeka between Topeka and Silverlake. I was about 125 yards away from them on a sand bar when I looked to the west of me and saw a large dark hairy figure in the water splashing itself as if where bathing. I froze for a minute then it looked at me and stood there. I took off running back to my dad and cousin scared out of my wits. Finally my dad was spooked too so we left the area. To me it looked like a big bear in the water but I remember its arms were way to long.",
+  "classification": "Class A",
+  "county": "Shawnee",
+  "state": "Kansas",
+  "latitude": 39.072,
+  "longitude": -95.747,
+  "location": {
+    "longitude": -95.747,
+    "latitude": 39.072
+  },
+  "location_details": "Just past Fleming Foods and Payless Shoes Distribution Center.",
+  "temperature": {
+    "high": 96.68,
+    "mid": 86.775,
+    "low": 76.87
+  },
+  "dew_point": 67.91,
+  "humidity": 0.7,
+  "cloud_cover": 0.34,
+  "moon_phase": 0.1,
+  "precip_intensity": 0.0033,
+  "precip_probability": 0.81,
+  "precip_type": "rain",
+  "pressure": 1015.17,
+  "summary": "Light rain overnight.",
+  "uv_index": 9,
+  "visibility": 9.49,
+  "wind_bearing": 124,
+  "wind_speed": 6.29
+}

@@ -11,9 +11,11 @@
   "longitude": -120.0833,
   "location": "-120.0833,37.4583",
   "location_details": "A 40 acre site with ranch style house, two ponds, located in a rural site, off approximately 1/2-1 mile off Highway 140 at Guadalupe Pass, keep to the left.",
-  "temperature_high": 74.62,
-  "temperature_mid": 59.655,
-  "temperature_low": 44.69,
+  "temperature": {
+    "high": 74.62,
+    "mid": 59.655,
+    "low": 44.69
+  },
   "dew_point": 49.02,
   "humidity": 0.67,
   "cloud_cover": 0.24,

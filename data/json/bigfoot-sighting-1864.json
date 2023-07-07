@@ -11,9 +11,11 @@
   "longitude": -84.59345,
   "location": "-84.59345,34.28745",
   "location_details": "Cherokee County, Georgia, Hwy. 108. west of Waleska.",
-  "temperature_high": 58.62,
-  "temperature_mid": 54.95,
-  "temperature_low": 51.28,
+  "temperature": {
+    "high": 58.62,
+    "mid": 54.95,
+    "low": 51.28
+  },
   "dew_point": 37.78,
   "humidity": 0.68,
   "cloud_cover": 0.85,

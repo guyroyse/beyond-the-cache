@@ -11,9 +11,11 @@
   "longitude": -77.27178,
   "location": "-77.27178,39.76366",
   "location_details": "Greenmount Firehall south of Gettysburg,PA on RT 15",
-  "temperature_high": 92.17,
-  "temperature_mid": 80.06,
-  "temperature_low": 67.95,
+  "temperature": {
+    "high": 92.17,
+    "mid": 80.06,
+    "low": 67.95
+  },
   "dew_point": 67.29,
   "humidity": 0.66,
   "cloud_cover": 0.3,

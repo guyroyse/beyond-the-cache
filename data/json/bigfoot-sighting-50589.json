@@ -11,9 +11,11 @@
   "longitude": -79.1347,
   "location": "-79.1347,38.44367",
   "location_details": "Upper Tract take Smucker Rd towards Kline about 3 1/2 miles turn on Kiser Gap Rd go about 4 miles",
-  "temperature_high": 80.04,
-  "temperature_mid": 66.34,
-  "temperature_low": 52.64,
+  "temperature": {
+    "high": 80.04,
+    "mid": 66.34,
+    "low": 52.64
+  },
   "dew_point": 53.4,
   "humidity": 0.67,
   "cloud_cover": 0.14,

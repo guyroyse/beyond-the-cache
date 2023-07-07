@@ -11,9 +11,11 @@
   "longitude": -105.7854,
   "location": "-105.7854,39.39565",
   "location_details": "south on 285 coming down on the backside of Kenosha Pass headed towards jefferson.",
-  "temperature_high": 50.21,
-  "temperature_mid": 35.755,
-  "temperature_low": 21.3,
+  "temperature": {
+    "high": 50.21,
+    "mid": 35.755,
+    "low": 21.3
+  },
   "dew_point": 14.02,
   "humidity": 0.38,
   "cloud_cover": 0.34,

@@ -11,9 +11,11 @@
   "longitude": -83.16293,
   "location": "-83.16293,36.89771",
   "location_details": "Follow the railroad tracks East out of town and take Nance Lane North",
-  "temperature_high": 80.96,
-  "temperature_mid": 70.29,
-  "temperature_low": 59.62,
+  "temperature": {
+    "high": 80.96,
+    "mid": 70.29,
+    "low": 59.62
+  },
   "dew_point": 56.45,
   "humidity": 0.75,
   "cloud_cover": 0.15,

@@ -11,9 +11,11 @@
   "longitude": -90.32,
   "location": "-90.32,35.0194",
   "location_details": "Take I-40 west out of West Memphis, Arkansas.  Exit I-40 south at highway 147.  Take highway 147 south about ten miles.  It runs parallel to the Mississippi River levee for several of those miles. Turn left off the highway on Blue Lake road.  This road heads east for 2-3 miles, crosses the levee, then goes about another mile before reaching the lake.  The land is all private property, and was sold out of my friends' family several years ago.  I do not know who the current owners are.",
-  "temperature_high": 94.15,
-  "temperature_mid": 86.2,
-  "temperature_low": 78.25,
+  "temperature": {
+    "high": 94.15,
+    "mid": 86.2,
+    "low": 78.25
+  },
   "dew_point": 63.84,
   "humidity": 0.52,
   "cloud_cover": 0.13,

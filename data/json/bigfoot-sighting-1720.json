@@ -11,9 +11,11 @@
   "longitude": -124.53,
   "location": "-124.53,42.82",
   "location_details": "South on US 101, turn west on Cape Blanco Hwy between Sixes River and Elk River to Cape Blanco beach along the north end towards cape.  Location within Cape Blanco State Park",
-  "temperature_high": 73.1,
-  "temperature_mid": 64.545,
-  "temperature_low": 55.99,
+  "temperature": {
+    "high": 73.1,
+    "mid": 64.545,
+    "low": 55.99
+  },
   "dew_point": 51.93,
   "humidity": 0.69,
   "cloud_cover": 0.36,

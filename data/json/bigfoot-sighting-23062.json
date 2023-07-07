@@ -11,9 +11,11 @@
   "longitude": -121.5354,
   "location": "-121.5354,47.55477",
   "location_details": "Swamp Creek, just before Taylor River",
-  "temperature_high": 76.57,
-  "temperature_mid": 66.19,
-  "temperature_low": 55.81,
+  "temperature": {
+    "high": 76.57,
+    "mid": 66.19,
+    "low": 55.81
+  },
   "dew_point": 53.27,
   "humidity": 0.75,
   "cloud_cover": 0.68,

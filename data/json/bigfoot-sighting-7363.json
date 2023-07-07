@@ -11,9 +11,11 @@
   "longitude": -120.8294,
   "location": "-120.8294,39.5575",
   "location_details": "We were in Ramshorn Campground in the upper campsite area.",
-  "temperature_high": 87.83,
-  "temperature_mid": 72.735,
-  "temperature_low": 57.64,
+  "temperature": {
+    "high": 87.83,
+    "mid": 72.735,
+    "low": 57.64
+  },
   "dew_point": 50.58,
   "humidity": 0.52,
   "cloud_cover": 0.12,

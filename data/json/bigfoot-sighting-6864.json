@@ -11,9 +11,11 @@
   "longitude": -121.6967,
   "location": "-121.6967,48.9058",
   "location_details": "Follow the Mt. Baker Highway East from Bellingham.  Go through Maple Falls and drive for 37 miles.  Turn left into Snoqualmie Snow Park and follow gravel road.  Turn left at the fork and follow until you come to the banks of the Nooksack River.  Campsite is on the right (Silver Fir Campground).",
-  "temperature_high": 77.78,
-  "temperature_mid": 68.575,
-  "temperature_low": 59.37,
+  "temperature": {
+    "high": 77.78,
+    "mid": 68.575,
+    "low": 59.37
+  },
   "dew_point": 53.49,
   "humidity": 0.63,
   "cloud_cover": 0.21,

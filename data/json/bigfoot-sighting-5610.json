@@ -11,9 +11,11 @@
   "longitude": -121.726,
   "location": "-121.726,44.42565",
   "location_details": "Suttle Lake Resort (east end of Suttle Lake) off the Santiam Highway (Hwy 22) east fo the Santiam Pass,  cabin # 6",
-  "temperature_high": 56.91,
-  "temperature_mid": 45.765,
-  "temperature_low": 34.62,
+  "temperature": {
+    "high": 56.91,
+    "mid": 45.765,
+    "low": 34.62
+  },
   "dew_point": 36.08,
   "humidity": 0.71,
   "cloud_cover": 0.38,

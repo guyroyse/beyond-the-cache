@@ -11,9 +11,11 @@
   "longitude": -106.496,
   "location": "-106.496,37.37285",
   "location_details": "mount cornwall, right at the treeline",
-  "temperature_high": 59.57,
-  "temperature_mid": 50.01,
-  "temperature_low": 40.45,
+  "temperature": {
+    "high": 59.57,
+    "mid": 50.01,
+    "low": 40.45
+  },
   "dew_point": 38.86,
   "humidity": 0.72,
   "cloud_cover": 0.57,

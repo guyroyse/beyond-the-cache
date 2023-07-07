@@ -11,9 +11,11 @@
   "longitude": -74.29085,
   "location": "-74.29085,41.1445",
   "location_details": "Ringwood Ave, south boat ramp to Monksville Reservior, just norht of the dam.  Easy to locate on Google Earth.",
-  "temperature_high": 42.75,
-  "temperature_mid": 36.96,
-  "temperature_low": 31.17,
+  "temperature": {
+    "high": 42.75,
+    "mid": 36.96,
+    "low": 31.17
+  },
   "dew_point": 37.9,
   "humidity": 0.91,
   "cloud_cover": 0.94,

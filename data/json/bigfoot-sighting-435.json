@@ -11,9 +11,11 @@
   "longitude": -86.66465,
   "location": "-86.66465,34.5422",
   "location_details": "south of tennesse river in morgan county valhermosa springs area cabbage patch road near creek area",
-  "temperature_high": 66.04,
-  "temperature_mid": 49.005,
-  "temperature_low": 31.97,
+  "temperature": {
+    "high": 66.04,
+    "mid": 49.005,
+    "low": 31.97
+  },
   "dew_point": 28.18,
   "humidity": 0.53,
   "cloud_cover": 0.01,

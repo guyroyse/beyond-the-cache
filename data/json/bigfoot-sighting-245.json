@@ -11,9 +11,11 @@
   "longitude": -87.32655,
   "location": "-87.32655,33.28375",
   "location_details": "Go south on I59 towards Tuscaloosa to exit 100.  Take a right onto HWY216. go about 10-15 miles and hang a right at the sign to Rocky Branch.",
-  "temperature_high": 87.19,
-  "temperature_mid": 79.275,
-  "temperature_low": 71.36,
+  "temperature": {
+    "high": 87.19,
+    "mid": 79.275,
+    "low": 71.36
+  },
   "dew_point": 70.36,
   "humidity": 0.79,
   "cloud_cover": 0.31,

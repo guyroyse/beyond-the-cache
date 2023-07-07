@@ -11,9 +11,11 @@
   "longitude": -83.51418,
   "location": "-83.51418,44.6375",
   "location_details": "Huron National Forest in the Hayes Tower area, Beaver Pond 1/4 mile away.",
-  "temperature_high": 33.53,
-  "temperature_mid": 26.64,
-  "temperature_low": 19.75,
+  "temperature": {
+    "high": 33.53,
+    "mid": 26.64,
+    "low": 19.75
+  },
   "dew_point": 17.5,
   "humidity": 0.6,
   "cloud_cover": 0.5,

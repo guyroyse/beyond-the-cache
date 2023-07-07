@@ -11,9 +11,11 @@
   "longitude": -112.5,
   "location": "-112.5,38",
   "location_details": "I was approx half way through circleville canyon on hwy 89, traveling south.  It crossed the hwy to the sevier river.",
-  "temperature_high": 50.38,
-  "temperature_mid": 37.735,
-  "temperature_low": 25.09,
+  "temperature": {
+    "high": 50.38,
+    "mid": 37.735,
+    "low": 25.09
+  },
   "dew_point": 26.04,
   "humidity": 0.58,
   "cloud_cover": 0.35,

@@ -11,9 +11,11 @@
   "longitude": -86.075,
   "location": "-86.075,43.103",
   "location_details": "It was on my property in the back where theres a lot of woods.",
-  "temperature_high": 76.94,
-  "temperature_mid": 70.16,
-  "temperature_low": 63.38,
+  "temperature": {
+    "high": 76.94,
+    "mid": 70.16,
+    "low": 63.38
+  },
   "dew_point": 60.26,
   "humidity": 0.77,
   "cloud_cover": 0.57,

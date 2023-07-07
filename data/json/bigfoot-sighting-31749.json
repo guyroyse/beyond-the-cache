@@ -11,9 +11,11 @@
   "longitude": -121.6014,
   "location": "-121.6014,46.68102",
   "location_details": "N E of Packwood",
-  "temperature_high": 75.77,
-  "temperature_mid": 61.54,
-  "temperature_low": 47.31,
+  "temperature": {
+    "high": 75.77,
+    "mid": 61.54,
+    "low": 47.31
+  },
   "dew_point": 49.57,
   "humidity": 0.64,
   "cloud_cover": 0.54,

@@ -11,9 +11,11 @@
   "longitude": -105.8226,
   "location": "-105.8226,39.40305",
   "location_details": "Private deeded rural community called Indian Mountain approx 2-3 miles W. of Kenosha Pass off Rt. 285. Jefferson, Colorado",
-  "temperature_high": 85.76,
-  "temperature_mid": 69.745,
-  "temperature_low": 53.73,
+  "temperature": {
+    "high": 85.76,
+    "mid": 69.745,
+    "low": 53.73
+  },
   "dew_point": 38.94,
   "humidity": 0.37,
   "cloud_cover": 0.14,

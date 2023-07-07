@@ -1,0 +1,35 @@
+{
+  "reportId": "46973",
+  "title": "Hikers hear possible knocks and howls in The Berkshires",
+  "date": "2015-11-06",
+  "timestamp": 1446768000,
+  "observed": "October Mountain state forest, Washington, MA. October 20, 5 pm. Near camp Eagle. Loud, strong wood knocks. Long sustained low pitched howl occurring while 2 barred owls hooted back and forth. Definitely not a coyote. Sounded almost human, but very low pitch. There is no human habitation in this area and is very remote.",
+  "classification": "Class B",
+  "county": "Berkshire",
+  "state": "Massachusetts",
+  "latitude": 42.34607,
+  "longitude": -73.16418,
+  "location": {
+    "longitude": -73.16418,
+    "latitude": 42.34607
+  },
+  "location_details": "Near Fenton Lake also known as Camp Eagle in October Mountain State Forest. Access road is north of four corners.",
+  "temperature": {
+    "high": 71.49,
+    "mid": 61.815,
+    "low": 52.14
+  },
+  "dew_point": 57.62,
+  "humidity": 0.77,
+  "cloud_cover": 0.23,
+  "moon_phase": 0.85,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.06,
+  "precip_type": "rain",
+  "pressure": 1012.31,
+  "summary": "Partly cloudy in the afternoon.",
+  "uv_index": 2,
+  "visibility": 8.99,
+  "wind_bearing": 211,
+  "wind_speed": 7.33
+}

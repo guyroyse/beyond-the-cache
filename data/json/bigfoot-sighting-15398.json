@@ -11,9 +11,11 @@
   "longitude": -73.45947,
   "location": "-73.45947,43.56211",
   "location_details": "Pike Brook Rd. Opposite trail to Black Mt. approx. 1/4 to 1/2 mile south of trail parking lot",
-  "temperature_high": 62.96,
-  "temperature_mid": 51.72,
-  "temperature_low": 40.48,
+  "temperature": {
+    "high": 62.96,
+    "mid": 51.72,
+    "low": 40.48
+  },
   "dew_point": 38.79,
   "humidity": 0.71,
   "cloud_cover": 0.05,

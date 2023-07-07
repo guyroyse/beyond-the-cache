@@ -1,0 +1,35 @@
+{
+  "reportId": "1986",
+  "title": "Hikers make track find on Table Rock Creek, Oregon",
+  "date": "2001-03-18",
+  "timestamp": 984873600,
+  "observed": "Today, March 18, 2001, my brother and I were hiking near Table Rock Wilderness in Clackamas County, Oregon. Found footprints in the snow very much like a very large, bare, human foot. We wear size 12 and 13 boots and the prints were significantly bigger. Using a dollar bill as a size reference I took pictures with a digital camera. Using the dollar bill we measured a stride of 4 feet. Also the prints were deeper than ours or the other human prints in the area. I would like to submit the pictures for expert evaluation and will do so if an e-mail address is provided.",
+  "classification": "Class B",
+  "county": "Clackamas",
+  "state": "Oregon",
+  "latitude": 44.97487,
+  "longitude": -122.3057,
+  "location": {
+    "longitude": -122.3057,
+    "latitude": 44.97487
+  },
+  "location_details": "To get to Table Rock Wilderness from Molalla take Dickey Prairie Road to South Molalla Road and follow Molalla River. Follow signs to Table Rock.  See \"investigator comments\" for precise directions to location.",
+  "temperature": {
+    "high": 58.3,
+    "mid": 49.885,
+    "low": 41.47
+  },
+  "dew_point": 49.37,
+  "humidity": 0.87,
+  "cloud_cover": 0.9,
+  "moon_phase": 0.81,
+  "precip_intensity": 0.0102,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1018.73,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 3,
+  "visibility": 9.32,
+  "wind_bearing": 189,
+  "wind_speed": 9.43
+}

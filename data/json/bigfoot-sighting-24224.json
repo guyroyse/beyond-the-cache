@@ -11,9 +11,11 @@
   "longitude": -116.211,
   "location": "-116.211,47.6835",
   "location_details": "I'm not 100% sure, but this looks like the location. http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.682726,-116.209431&spn=0.019184,0.040169&t=h&z=15",
-  "temperature_high": 84.44,
-  "temperature_mid": 67.9,
-  "temperature_low": 51.36,
+  "temperature": {
+    "high": 84.44,
+    "mid": 67.9,
+    "low": 51.36
+  },
   "dew_point": 44.15,
   "humidity": 0.46,
   "cloud_cover": 0.07,

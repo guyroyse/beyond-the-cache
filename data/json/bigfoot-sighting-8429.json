@@ -11,9 +11,11 @@
   "longitude": -89.6918,
   "location": "-89.6918,30.46825",
   "location_details": "At the end of the road off the Honey Island Swamp exit.  It initially took place by the collapsed bridge.",
-  "temperature_high": 84.92,
-  "temperature_mid": 79.965,
-  "temperature_low": 75.01,
+  "temperature": {
+    "high": 84.92,
+    "mid": 79.965,
+    "low": 75.01
+  },
   "dew_point": 69.27,
   "humidity": 0.75,
   "cloud_cover": 0.41,

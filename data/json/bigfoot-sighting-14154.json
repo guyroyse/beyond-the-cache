@@ -11,9 +11,11 @@
   "longitude": -80.074,
   "location": "-80.074,34.374",
   "location_details": "About 2 miles from BoBo Newsome Hwy. Incident occured on Hwy. 15",
-  "temperature_high": 81.39,
-  "temperature_mid": 71.125,
-  "temperature_low": 60.86,
+  "temperature": {
+    "high": 81.39,
+    "mid": 71.125,
+    "low": 60.86
+  },
   "dew_point": 57.36,
   "humidity": 0.67,
   "cloud_cover": 0.27,

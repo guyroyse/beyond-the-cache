@@ -11,9 +11,11 @@
   "longitude": -81.37085,
   "location": "-81.37085,39.42635",
   "location_details": "Wayne National Forrest",
-  "temperature_high": 60.8,
-  "temperature_mid": 47.195,
-  "temperature_low": 33.59,
+  "temperature": {
+    "high": 60.8,
+    "mid": 47.195,
+    "low": 33.59
+  },
   "dew_point": 47.65,
   "humidity": 0.76,
   "cloud_cover": 0.74,

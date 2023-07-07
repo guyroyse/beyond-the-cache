@@ -11,9 +11,11 @@
   "longitude": -91.3171,
   "location": "-91.3171,44.4049",
   "location_details": "Take Hwy.53 north out of Whittehall, to county road D north about 2 miles turn left toward the rod & gun club. go past the rod & gun. It happened on the road just before you turn the corner.",
-  "temperature_high": 24.31,
-  "temperature_mid": 12.875,
-  "temperature_low": 1.44,
+  "temperature": {
+    "high": 24.31,
+    "mid": 12.875,
+    "low": 1.44
+  },
   "dew_point": 12.24,
   "humidity": 0.67,
   "cloud_cover": 0.65,

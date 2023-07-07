@@ -11,9 +11,11 @@
   "longitude": -81.52101,
   "location": "-81.52101,40.11632",
   "location_details": "over by cabin 53 u go down a hill and across a log and up the hill on the other side. walk on the trail closest to the lake and all the way up. there are huge rocks and trees...... as u walk u will be able to see a grassy area..... right before u get to the grassy area is where the sighting happened.",
-  "temperature_high": 82.54,
-  "temperature_mid": 76.895,
-  "temperature_low": 71.25,
+  "temperature": {
+    "high": 82.54,
+    "mid": 76.895,
+    "low": 71.25
+  },
   "dew_point": 68.57,
   "humidity": 0.76,
   "cloud_cover": 0.63,

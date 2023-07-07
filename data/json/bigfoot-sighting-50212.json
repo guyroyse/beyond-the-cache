@@ -11,9 +11,11 @@
   "longitude": -117.9368,
   "location": "-117.9368,48.36624",
   "location_details": "On Dunn mountain",
-  "temperature_high": 61.7,
-  "temperature_mid": 56.635,
-  "temperature_low": 51.57,
+  "temperature": {
+    "high": 61.7,
+    "mid": 56.635,
+    "low": 51.57
+  },
   "dew_point": 44.69,
   "humidity": 0.72,
   "cloud_cover": 0.5,

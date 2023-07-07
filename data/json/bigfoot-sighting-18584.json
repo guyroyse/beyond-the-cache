@@ -11,9 +11,11 @@
   "longitude": -89.4205,
   "location": "-89.4205,38.0985",
   "location_details": "There was a home for about every 300 acres",
-  "temperature_high": 74.57,
-  "temperature_mid": 66.9,
-  "temperature_low": 59.23,
+  "temperature": {
+    "high": 74.57,
+    "mid": 66.9,
+    "low": 59.23
+  },
   "dew_point": 52.51,
   "humidity": 0.69,
   "cloud_cover": 0.36,

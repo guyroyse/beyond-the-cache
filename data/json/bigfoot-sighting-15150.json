@@ -11,9 +11,11 @@
   "longitude": -84.16389,
   "location": "-84.16389,44.53665",
   "location_details": "I am unsure, but I can get them from my friend if needed",
-  "temperature_high": 81.69,
-  "temperature_mid": 69.035,
-  "temperature_low": 56.38,
+  "temperature": {
+    "high": 81.69,
+    "mid": 69.035,
+    "low": 56.38
+  },
   "dew_point": 61.1,
   "humidity": 0.68,
   "cloud_cover": 0.41,

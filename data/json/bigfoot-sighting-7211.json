@@ -11,9 +11,11 @@
   "longitude": -121.42,
   "location": "-121.42,39.08",
   "location_details": "Beale is an active Air Force Base now and has changed a lot. The area we were in was about three miles North East of the main part of the base. There were barracks there when the army had it for training. It was called Camp Beale and had some 80,000 acres. The army abandoned the camp many years before this took place. The Air Force reopened it in 1960. Go towards the mountains on base untill you see the thick forest area. I don't know if the barracks are still there or not. Likely not.",
-  "temperature_high": 80.52,
-  "temperature_mid": 66.665,
-  "temperature_low": 52.81,
+  "temperature": {
+    "high": 80.52,
+    "mid": 66.665,
+    "low": 52.81
+  },
   "dew_point": 34.9,
   "humidity": 0.32,
   "cloud_cover": 0.03,

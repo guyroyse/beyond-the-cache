@@ -11,9 +11,11 @@
   "longitude": -122.6986,
   "location": "-122.6986,40.98333",
   "location_details": "right on trail, where trail first breaks into open meadow--about 50 ft or so of prints; the trail surface becomes too hard to sustain prints before and after the tracks, so i couldnt follow them very far.",
-  "temperature_high": 70.79,
-  "temperature_mid": 56.87,
-  "temperature_low": 42.95,
+  "temperature": {
+    "high": 70.79,
+    "mid": 56.87,
+    "low": 42.95
+  },
   "dew_point": 37.24,
   "humidity": 0.5,
   "cloud_cover": 0.1,

@@ -11,9 +11,11 @@
   "longitude": -82.58765,
   "location": "-82.58765,29.1299",
   "location_details": "I wish I could recall more.",
-  "temperature_high": 85.73,
-  "temperature_mid": 77.135,
-  "temperature_low": 68.54,
+  "temperature": {
+    "high": 85.73,
+    "mid": 77.135,
+    "low": 68.54
+  },
   "dew_point": 70.38,
   "humidity": 0.83,
   "cloud_cover": 0.28,

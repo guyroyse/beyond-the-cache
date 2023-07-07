@@ -1,0 +1,34 @@
+{
+  "reportId": "8067",
+  "title": "Deer hunter encounters bigfoot at Caddo Lake near Karnack",
+  "date": "2004-02-22",
+  "timestamp": 1077408000,
+  "observed": "I was deer hunting on a piece of land called Benton right off of Caddo lake. I was standing at the shore line watching the water when I saw something out of the side of my eye. Looked to my left and saw an animal come out of the water, look both ways and then walk into the woods. The animal was large even at the 50 yard distance dividing us. As I was walking back to the truck I saw a foot print in some loose soil.",
+  "classification": "Class A",
+  "county": "Harrison",
+  "state": "Texas",
+  "latitude": 32.8,
+  "longitude": -94.16666,
+  "location": {
+    "longitude": -94.16666,
+    "latitude": 32.8
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 66.48,
+    "mid": 58.515,
+    "low": 50.55
+  },
+  "dew_point": 37.28,
+  "humidity": 0.58,
+  "cloud_cover": 0.31,
+  "moon_phase": 0.08,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1018.72,
+  "summary": "Partly cloudy starting in the afternoon.",
+  "uv_index": 4,
+  "visibility": 9.59,
+  "wind_bearing": 118,
+  "wind_speed": 5.86
+}

@@ -11,9 +11,11 @@
   "longitude": -83.12916,
   "location": "-83.12916,38.68516",
   "location_details": "Picnic Point, off State Route 125, near the Riffee 3C camp",
-  "temperature_high": 84.65,
-  "temperature_mid": 74.93,
-  "temperature_low": 65.21,
+  "temperature": {
+    "high": 84.65,
+    "mid": 74.93,
+    "low": 65.21
+  },
   "dew_point": 63.19,
   "humidity": 0.72,
   "cloud_cover": 0.39,

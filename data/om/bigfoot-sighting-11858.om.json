@@ -1,0 +1,35 @@
+{
+  "reportId": "11858",
+  "title": "Possible night time sighting near Big Lake",
+  "date": "1986-07-06",
+  "timestamp": 520992000,
+  "observed": "It was our annual summer camping trip and I was in the back of the car with my uncle.  My grandmother and grandfather were in the front and my grandma and uncle were sleeping.  I was staring out the side window and slightly forward.  While looking I saw a large animal that I thought was a bear.  It was only a very brief view but the animal was walking upright and was very furry.  I mentioned to my grandfather that I saw a \"huge bear\" walking upright but he laughed and said it must have been trying to climb a tree.  But there was a break in the trees where I saw the creature.  It looked like it was going off of the side of the road into the forest. I cannot be sure what it was.  But, it was so very odd that it certainly looked like it was \"walking\" on two legs.  It was dark so I couldn't distinguish any other features.",
+  "classification": "Class B",
+  "county": "Apache",
+  "state": "Arizona",
+  "latitude": 33.9,
+  "longitude": -109.355,
+  "location": {
+    "longitude": -109.355,
+    "latitude": 33.9
+  },
+  "location_details": "South of Big Lake on Road 273.",
+  "temperature": {
+    "high": 90.07,
+    "mid": 79.735,
+    "low": 69.4
+  },
+  "dew_point": 45.38,
+  "humidity": 0.4,
+  "cloud_cover": 0.19,
+  "moon_phase": 0.98,
+  "precip_intensity": 0.002,
+  "precip_probability": 0.49,
+  "precip_type": "rain",
+  "pressure": 1016.6,
+  "summary": "Partly cloudy starting in the afternoon.",
+  "uv_index": 12,
+  "visibility": 9.12,
+  "wind_bearing": 217,
+  "wind_speed": 3.28
+}

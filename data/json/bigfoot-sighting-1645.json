@@ -11,9 +11,11 @@
   "longitude": -122.2083,
   "location": "-122.2083,46.27583",
   "location_details": "My sighting occured on the north side of Mt.St.Helen, Washington State with spirit lake in view. My parents drove up to the parking lot and I was on the side of the mountain playing in a patch of snow looking north.",
-  "temperature_high": 78,
-  "temperature_mid": 66.5,
-  "temperature_low": 55,
+  "temperature": {
+    "high": 78,
+    "mid": 66.5,
+    "low": 55
+  },
   "dew_point": 49.02,
   "humidity": 0.6,
   "cloud_cover": 0.48,

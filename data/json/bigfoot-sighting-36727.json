@@ -11,9 +11,11 @@
   "longitude": -114.0725,
   "location": "-114.0725,46.96508",
   "location_details": "It was in the Lavalle Creek area on private lands.",
-  "temperature_high": 77.97,
-  "temperature_mid": 62.87,
-  "temperature_low": 47.77,
+  "temperature": {
+    "high": 77.97,
+    "mid": 62.87,
+    "low": 47.77
+  },
   "dew_point": 32.71,
   "humidity": 0.37,
   "cloud_cover": 0.04,

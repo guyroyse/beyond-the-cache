@@ -11,9 +11,11 @@
   "longitude": -86.5653,
   "location": "-86.5653,32.4456",
   "location_details": "The events that I can describe took place along the Alabama River in Autauga Co. Aabama between the city of Prattville and the town of Autuagaville within a five or six mile radius of a creek named Rocky Branch",
-  "temperature_high": 88.62,
-  "temperature_mid": 80.595,
-  "temperature_low": 72.57,
+  "temperature": {
+    "high": 88.62,
+    "mid": 80.595,
+    "low": 72.57
+  },
   "dew_point": 71.47,
   "humidity": 0.81,
   "cloud_cover": 0.67,

@@ -11,9 +11,11 @@
   "longitude": -95.90694,
   "location": "-95.90694,33.61666",
   "location_details": "6 miles north of Honey Grove I would like to leave this as the only online listed location to the property.",
-  "temperature_high": 46.78,
-  "temperature_mid": 38.195,
-  "temperature_low": 29.61,
+  "temperature": {
+    "high": 46.78,
+    "mid": 38.195,
+    "low": 29.61
+  },
   "dew_point": 26.9,
   "humidity": 0.74,
   "cloud_cover": 0.63,

@@ -11,9 +11,11 @@
   "longitude": -85.6489,
   "location": "-85.6489,30.98555",
   "location_details": "Esto,Fl. is located right on the Fl., Al. line in Holmes County. Dothan,Al. or Enterprise,Al. would be the closest larger cities nearby. Hwy 167 out of Enterprise will run right into Hwy. 79 where Esto,Fl.is located.",
-  "temperature_high": 91.04,
-  "temperature_mid": 82.005,
-  "temperature_low": 72.97,
+  "temperature": {
+    "high": 91.04,
+    "mid": 82.005,
+    "low": 72.97
+  },
   "dew_point": 72.18,
   "humidity": 0.76,
   "cloud_cover": 0.36,

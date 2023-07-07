@@ -11,9 +11,11 @@
   "longitude": -80.96515,
   "location": "-80.96515,27.35644",
   "location_details": "I do not wish to disclose this as I may return",
-  "temperature_high": 85.68,
-  "temperature_mid": 80.275,
-  "temperature_low": 74.87,
+  "temperature": {
+    "high": 85.68,
+    "mid": 80.275,
+    "low": 74.87
+  },
   "dew_point": 75.05,
   "humidity": 0.83,
   "cloud_cover": 0.32,

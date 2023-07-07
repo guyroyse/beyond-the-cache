@@ -1,0 +1,35 @@
+{
+  "reportId": "5791",
+  "title": "Campers hear late night scream near Woodfords",
+  "date": "2002-08-01",
+  "timestamp": 1028160000,
+  "observed": "We heard something we can only speculate about but I can still remember clearly the sound.  It was the middle of the night and I was awoken by the sound that started low and went to a high pitch scream.  I'm sure my hair was standing on end.  Then I heard it run off.  It was right outside our tent.  We were camping at Lost Lakes by Blues Lakes.  Our altimeter read about 8400 feet. There were no other people in the camping area around the lake and it was very quiet. It was a week night and the nearest campers were down at the Upper Blue Lake Campgrounds.  My husband is a very sound sleeper and did not hear it and said I must have dreamt it. He almost had me convinced when the next morning our friends who were camping with us and had their tent a little ways away asked if we heard the strange scream. He said he got up and went out side the tent to see what it was an was and saw nothing but there was a terrible smell outside.  We still cannot give credit to another animal and our family are hunters and have spent many hours in the wilderness around the country.",
+  "classification": "Class B",
+  "county": "Alpine",
+  "state": "California",
+  "latitude": 38.77778,
+  "longitude": -119.8208,
+  "location": {
+    "longitude": -119.8208,
+    "latitude": 38.77778
+  },
+  "location_details": "Hwy 88 to Blue Lakes Rd. You go back to the PGE Campgrounds. Go the the Upper Blue Lakes campground and continue up the dirt road to Lost Lakes. If you continue on the road it takes you to Red Lake. Eldorado National Forest.",
+  "temperature": {
+    "high": 85.65,
+    "mid": 70.36,
+    "low": 55.07
+  },
+  "dew_point": 47.14,
+  "humidity": 0.45,
+  "cloud_cover": 0.16,
+  "moon_phase": 0.76,
+  "precip_intensity": 0.0072,
+  "precip_probability": 0.3,
+  "precip_type": "rain",
+  "pressure": 1014.15,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 11,
+  "visibility": 9.69,
+  "wind_bearing": 208,
+  "wind_speed": 1.79
+}

@@ -11,9 +11,11 @@
   "longitude": -81.56219,
   "location": "-81.56219,36.42315",
   "location_details": "Buffalo Rd./ Hwy. 88 area near Three Top Mountain.",
-  "temperature_high": 88.02,
-  "temperature_mid": 78.675,
-  "temperature_low": 69.33,
+  "temperature": {
+    "high": 88.02,
+    "mid": 78.675,
+    "low": 69.33
+  },
   "dew_point": 65.15,
   "humidity": 0.66,
   "cloud_cover": 0.12,

@@ -11,9 +11,11 @@
   "longitude": -92.22327,
   "location": "-92.22327,37.50983",
   "location_details": "Approximatley .5 miles from the Gasconade River.  Four water supplies with in 1200 feet, abundant deer and wild life.  We don't hunt the land.  Approximately 100 acres, minimal population.",
-  "temperature_high": 92.88,
-  "temperature_mid": 84.23,
-  "temperature_low": 75.58,
+  "temperature": {
+    "high": 92.88,
+    "mid": 84.23,
+    "low": 75.58
+  },
   "dew_point": 69.34,
   "humidity": 0.72,
   "cloud_cover": 0.16,

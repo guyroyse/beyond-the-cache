@@ -11,9 +11,11 @@
   "longitude": -123.0585,
   "location": "-123.0585,38.83996",
   "location_details": "East/West Highway. Very remote, hills, wooded ravines with creeks and stream bottoms.",
-  "temperature_high": 69.63,
-  "temperature_mid": 62.165,
-  "temperature_low": 54.7,
+  "temperature": {
+    "high": 69.63,
+    "mid": 62.165,
+    "low": 54.7
+  },
   "dew_point": 50.07,
   "humidity": 0.7,
   "cloud_cover": 0.23,

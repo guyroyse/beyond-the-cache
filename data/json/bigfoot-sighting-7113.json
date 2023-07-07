@@ -11,9 +11,11 @@
   "longitude": -84.869,
   "location": "-84.869,33.5388",
   "location_details": "The area is steep terrain in some places clear cut in some and very wooded in others. This is a very remote area with several thousands of acres. There is plenty of game in the area and a well known whitetail hunting area.",
-  "temperature_high": 66.1,
-  "temperature_mid": 59.935,
-  "temperature_low": 53.77,
+  "temperature": {
+    "high": 66.1,
+    "mid": 59.935,
+    "low": 53.77
+  },
   "dew_point": 62.01,
   "humidity": 0.95,
   "cloud_cover": 0.78,

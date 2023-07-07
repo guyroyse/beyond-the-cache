@@ -11,9 +11,11 @@
   "longitude": -90.04582,
   "location": "-90.04582,39.37753",
   "location_details": "About a mile or so north of town to the west of Boyscout Road probably 1/2 mile.",
-  "temperature_high": 50.07,
-  "temperature_mid": 42.51,
-  "temperature_low": 34.95,
+  "temperature": {
+    "high": 50.07,
+    "mid": 42.51,
+    "low": 34.95
+  },
   "dew_point": 24.33,
   "humidity": 0.57,
   "cloud_cover": 0.16,

@@ -11,9 +11,11 @@
   "longitude": -110.5979,
   "location": "-110.5979,42.4829",
   "location_details": "Bridger Teton National Forest- HWY 30 out of Cokeville, WY, North to HWY 89 to Salt Creek pass, right turn onto Forest Service Rd 10072 east into National forest about 16mi from main highway to FS 10138 to 10128 north to Thompsom Pass Please don't post actual directions online.",
-  "temperature_high": 78.74,
-  "temperature_mid": 61.75,
-  "temperature_low": 44.76,
+  "temperature": {
+    "high": 78.74,
+    "mid": 61.75,
+    "low": 44.76
+  },
   "dew_point": 34.88,
   "humidity": 0.43,
   "cloud_cover": 0.01,

@@ -11,9 +11,11 @@
   "longitude": -79.65835,
   "location": "-79.65835,36.86345",
   "location_details": "ne south carolina betwwen darlington and dillon on the great pee dee river about 1 mile up river from the cashua ferry boat landing",
-  "temperature_high": 88.63,
-  "temperature_mid": 78.425,
-  "temperature_low": 68.22,
+  "temperature": {
+    "high": 88.63,
+    "mid": 78.425,
+    "low": 68.22
+  },
   "dew_point": 64.14,
   "humidity": 0.65,
   "cloud_cover": 0.18,

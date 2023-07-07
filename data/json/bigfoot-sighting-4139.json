@@ -11,9 +11,11 @@
   "longitude": -94.20695,
   "location": "-94.20695,32.1",
   "location_details": "Approximately 8 miles West of FM 31 between Deadwood and Gary.",
-  "temperature_high": 50.17,
-  "temperature_mid": 44.385,
-  "temperature_low": 38.6,
+  "temperature": {
+    "high": 50.17,
+    "mid": 44.385,
+    "low": 38.6
+  },
   "dew_point": 31.61,
   "humidity": 0.64,
   "cloud_cover": 0.54,

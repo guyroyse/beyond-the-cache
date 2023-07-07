@@ -11,9 +11,11 @@
   "longitude": -87.0796,
   "location": "-87.0796,40.38335",
   "location_details": "Going West on 200 South from Lafayette. To the Wabash River. Go to the end of the road and Turn Left down the gated Mud path 2.25 miles South",
-  "temperature_high": 85.34,
-  "temperature_mid": 74.79,
-  "temperature_low": 64.24,
+  "temperature": {
+    "high": 85.34,
+    "mid": 74.79,
+    "low": 64.24
+  },
   "dew_point": 62.59,
   "humidity": 0.7,
   "cloud_cover": 0.09,

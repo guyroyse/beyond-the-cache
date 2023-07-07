@@ -11,9 +11,11 @@
   "longitude": -83.64597,
   "location": "-83.64597,39.92821",
   "location_details": "From South Vienna take State Route 40 west to Buena Vista Rd, turn right and it's less than a mile down on the right.",
-  "temperature_high": 52.56,
-  "temperature_mid": 45.205,
-  "temperature_low": 37.85,
+  "temperature": {
+    "high": 52.56,
+    "mid": 45.205,
+    "low": 37.85
+  },
   "dew_point": 33.63,
   "humidity": 0.72,
   "cloud_cover": 0.55,

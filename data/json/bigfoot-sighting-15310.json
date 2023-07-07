@@ -11,9 +11,11 @@
   "longitude": -81.8995,
   "location": "-81.8995,27.8565",
   "location_details": "Go down 60 back toward mulberry over on the right hand side large car dealer ship there is a ball park down the road a bit. First set of ponds by the park.",
-  "temperature_high": 88.35,
-  "temperature_mid": 80.315,
-  "temperature_low": 72.28,
+  "temperature": {
+    "high": 88.35,
+    "mid": 80.315,
+    "low": 72.28
+  },
   "dew_point": 67.6,
   "humidity": 0.74,
   "cloud_cover": 0.25,

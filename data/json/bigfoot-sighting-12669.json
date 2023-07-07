@@ -11,9 +11,11 @@
   "longitude": -83.56088,
   "location": "-83.56088,40.01979",
   "location_details": "Just SW of the barn at the rear of the south woods that was formerly owned my Mr. Paul L. Located about halfway between Davisson Road and the S-curves on Hunt-Clymer road.",
-  "temperature_high": 67.63,
-  "temperature_mid": 55.09,
-  "temperature_low": 42.55,
+  "temperature": {
+    "high": 67.63,
+    "mid": 55.09,
+    "low": 42.55
+  },
   "dew_point": 40.76,
   "humidity": 0.68,
   "cloud_cover": 0.09,

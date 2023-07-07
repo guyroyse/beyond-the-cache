@@ -11,9 +11,11 @@
   "longitude": -124.0644,
   "location": "-124.0644,41.30056",
   "location_details": "To get to this place, you must float down the Klamath river from Johnson's Bar (I think that is the name of the place, it is or was as far down river as you could drive on the Karok indian reservation road from the confluence of the Klamath and Trinity Rivers)approx. 1-2 miles to the mouth of Tek-Tah Creek on the southern side of the river. Then you must walk up the bar of Tek-Tah Creek about 1/2 miles or so to a place where the creek canyon curves to the east and the creek itself flowed against a steep curved cliff or hillside. The cliff was about 150 yards long and perhaps 50-100' high. the creek flowed against this cliff and formed a deep (maybe 6-7') arched pool about 100 yards or so long.  On the eastern side of the creek was a large bar made of fine dry sand and some gravel.  This bar was as long as the pool, and was maybe 50yards wide at its largest spot. The creek was flanked on bothe sides by steep and desnse timber and brush.  There may have been some debrees on the bar, but I can't remember (It is strange what you can and cannot remember after so many years...).  At the northern end of this bar is where I saw the tracks.",
-  "temperature_high": 74.24,
-  "temperature_mid": 64.07,
-  "temperature_low": 53.9,
+  "temperature": {
+    "high": 74.24,
+    "mid": 64.07,
+    "low": 53.9
+  },
   "dew_point": 49.66,
   "humidity": 0.64,
   "cloud_cover": 0.4,

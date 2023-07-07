@@ -11,9 +11,11 @@
   "longitude": -82.46557,
   "location": "-82.46557,27.28518",
   "location_details": "Southeast corner of Acorn circle; Just below and to the right of the star on this mapquest URL:(*Note - Honore Ave went through years after this incident)",
-  "temperature_high": 92.42,
-  "temperature_mid": 84.6,
-  "temperature_low": 76.78,
+  "temperature": {
+    "high": 92.42,
+    "mid": 84.6,
+    "low": 76.78
+  },
   "dew_point": 75.34,
   "humidity": 0.76,
   "cloud_cover": 0.43,

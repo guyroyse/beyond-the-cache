@@ -11,9 +11,11 @@
   "longitude": -84.50035,
   "location": "-84.50035,37.55156",
   "location_details": "on old fall lick rd turn onto harmons lick i think thats what the farm road is called im not sure. (specific instructions omitted)",
-  "temperature_high": 73.31,
-  "temperature_mid": 63.09,
-  "temperature_low": 52.87,
+  "temperature": {
+    "high": 73.31,
+    "mid": 63.09,
+    "low": 52.87
+  },
   "dew_point": 52.31,
   "humidity": 0.69,
   "cloud_cover": 0.15,

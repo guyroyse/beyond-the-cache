@@ -1,0 +1,35 @@
+{
+  "reportId": "39267",
+  "title": "Motorist reports his second sighting near railroad tracks west of Murphysboro",
+  "date": "2012-03-06",
+  "timestamp": 1330992000,
+  "observed": "I was crossing the railroad tracks when I saw two, one standing and one sitting down. I have seen them in this spot before.",
+  "classification": "Class A",
+  "county": "Jackson",
+  "state": "Illinois",
+  "latitude": 37.71917,
+  "longitude": -89.48784,
+  "location": {
+    "longitude": -89.48784,
+    "latitude": 37.71917
+  },
+  "location_details": "Along Illinois Route 3 west of Murphysboro.",
+  "temperature": {
+    "high": 69.52,
+    "mid": 62.715,
+    "low": 55.91
+  },
+  "dew_point": 28.98,
+  "humidity": 0.38,
+  "cloud_cover": 0.02,
+  "moon_phase": 0.44,
+  "precip_intensity": 0.0011,
+  "precip_probability": 0.04,
+  "precip_type": "rain",
+  "pressure": 1022.48,
+  "summary": "Breezy throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.97,
+  "wind_bearing": 182,
+  "wind_speed": 15.67
+}

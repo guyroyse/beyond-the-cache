@@ -1,0 +1,33 @@
+{
+  "reportId": "13313",
+  "title": "Possible vocalizations heard by four-wheelers near Southport",
+  "date": "2000-10-14",
+  "timestamp": 971481600,
+  "observed": "I would never have made any type of report about this incident but after listening to the first 2 audio recordings on your site I was compelled to tell you about an incident that I experienced along with 2 of my friends. It was fall of 2000 and we were riding in a jeep through the woods north of Panama City in a wooded area near the power plant off of hwy 77.  We were doing some low grade four wheel driving in an area that falls between immediate coastline and some heavily wooded areas; areas that are sometimes incredibly thick and densely wooded swamps.  We happened to stop the jeep in order to make a navigational decision when we all heard the loudest and definitely the strangest sound I had ever heard.  It was truly beyond description and I am not a person to be lost for descriptors.  The three of us immediately began a \"did you hear that?\" dialogue when we heard essentially the same noise again. The only reason I bothered to submit this is because of those audio clips.  I am an audio engineer and am very familiar with sound.  In addition I have lived in this area for the majority of my life having spent many days and nights in the woods hearing and seeing all sorts of things.  This was, until tonight, beyond my experience.  None of us could, with any certainty, say what we heard.",
+  "classification": "Class B",
+  "county": "Bay",
+  "state": "Florida",
+  "latitude": 30.28881,
+  "longitude": -85.64108,
+  "location": {
+    "longitude": -85.64108,
+    "latitude": 30.28881
+  },
+  "location_details": "From Panama City travel north on state hwy 77 through Lynn Haven and just north of Southport.  Turn left on the road that goes to the power plant (the steam plant in local parlance).  Towrds the end of the road (where the power plant sits) is a dirt road, heavily rutted, that brings you to a canal used by the power plant as a collection canal.  The water is usually very warm and in the winter people fish there (esp at night) and sometimes go swimming there (very NOT safe to do).  There are sandy/muddy trails/roads throughout the area that cover LOTS of area.  The area is very diverse in landscape/topography and varies from coastal wetland/marshland to thick wooded swamp.",
+  "temperature": {
+    "high": 79.8,
+    "mid": 64.255,
+    "low": 48.71
+  },
+  "dew_point": 48.05,
+  "humidity": 0.6,
+  "cloud_cover": 0.02,
+  "moon_phase": 0.54,
+  "precip_type": "rain",
+  "pressure": 1022.56,
+  "summary": "Clear throughout the day.",
+  "uv_index": 6,
+  "visibility": 8.88,
+  "wind_bearing": 61,
+  "wind_speed": 2.7
+}

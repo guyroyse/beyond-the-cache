@@ -11,9 +11,11 @@
   "longitude": -72.43684,
   "location": "-72.43684,43.43623",
   "location_details": "Park rangers are trying to keep this quiet, but have had reports of bigfoots and tracks. The tracks I saw were on the Futures Trail above the first parking lot and below the power line at Mt. Ascutney State Park in Windsor, VT.",
-  "temperature_high": 79.96,
-  "temperature_mid": 66.61,
-  "temperature_low": 53.26,
+  "temperature": {
+    "high": 79.96,
+    "mid": 66.61,
+    "low": 53.26
+  },
   "dew_point": 36.04,
   "humidity": 0.43,
   "cloud_cover": 0.05,

@@ -11,9 +11,11 @@
   "longitude": -120.0397,
   "location": "-120.0397,38.09832",
   "location_details": "In the Stanislaus National Forest. From Long Barn, Take North Fork rd. east, it will turn in to Forest road 3N01. Follow 3N01 for 20-30 minutes then make a left just past Hull Creek campground on 4N09. At the top of the hill take the right fork which is 3N11Y. At the bottom of the hill, go right which is still 3N11Y. A little bit further up that road it will fork again at 3N26Y. Continue until you see Trout Creek.",
-  "temperature_high": 77.22,
-  "temperature_mid": 61.82,
-  "temperature_low": 46.42,
+  "temperature": {
+    "high": 77.22,
+    "mid": 61.82,
+    "low": 46.42
+  },
   "dew_point": 36.48,
   "humidity": 0.47,
   "cloud_cover": 0.05,

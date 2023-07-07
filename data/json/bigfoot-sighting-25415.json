@@ -11,9 +11,11 @@
   "longitude": -103.6183,
   "location": "-103.6183,44.38611",
   "location_details": "Take Hwy 14A west out of Sturgis",
-  "temperature_high": 77.42,
-  "temperature_mid": 67.93,
-  "temperature_low": 58.44,
+  "temperature": {
+    "high": 77.42,
+    "mid": 67.93,
+    "low": 58.44
+  },
   "dew_point": 51.94,
   "humidity": 0.61,
   "cloud_cover": 0.07,

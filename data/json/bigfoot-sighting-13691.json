@@ -11,9 +11,11 @@
   "longitude": -101.7312,
   "location": "-101.7312,43.4471",
   "location_details": "i am quite surprised that there are no other reports, coming from the wanblee area. there is a creek running from a butte (8 miles south of wanblee) through wanblee and out to the badlands. and there is a rich history of sightings of bigfoots in this particular area.",
-  "temperature_high": 34.96,
-  "temperature_mid": 31.335,
-  "temperature_low": 27.71,
+  "temperature": {
+    "high": 34.96,
+    "mid": 31.335,
+    "low": 27.71
+  },
   "dew_point": 24.56,
   "humidity": 0.83,
   "cloud_cover": 0.87,

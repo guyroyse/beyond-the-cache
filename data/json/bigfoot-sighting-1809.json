@@ -11,9 +11,11 @@
   "longitude": -122.2825,
   "location": "-122.2825,47.4549",
   "location_details": "Jefferson point, Decommisioned Submarine degausing station. \"Very private\"",
-  "temperature_high": 59.81,
-  "temperature_mid": 51.74,
-  "temperature_low": 43.67,
+  "temperature": {
+    "high": 59.81,
+    "mid": 51.74,
+    "low": 43.67
+  },
   "dew_point": 42.78,
   "humidity": 0.69,
   "cloud_cover": 0.84,

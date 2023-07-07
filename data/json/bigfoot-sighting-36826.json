@@ -11,9 +11,11 @@
   "longitude": -80.94411,
   "location": "-80.94411,28.54293",
   "location_details": "Christmas is between Titusville and Orlando, Florida. Titusville which is where we were leaving from to go to dinner is about 12 miles from the Cape Canavaral Space Center.",
-  "temperature_high": 71.23,
-  "temperature_mid": 67.06,
-  "temperature_low": 62.89,
+  "temperature": {
+    "high": 71.23,
+    "mid": 67.06,
+    "low": 62.89
+  },
   "dew_point": 62.01,
   "humidity": 0.75,
   "cloud_cover": 0.7,

@@ -11,9 +11,11 @@
   "longitude": -93.3945,
   "location": "-93.3945,36.589",
   "location_details": "I was halfway between Marionville and Aurora driving east..some traffic..saw something move at edge of tree line. it was off to my left. North of the road.. actually it looked like it was climbing up a tree or coming down a tree... did NOT know what I saw...but as soon as possible I pulled over and turned around and went back and it was gone..so I went home and drew a sketch of it...and forgot about it...I did not have internet then...when the Bigfoot programs started I watched them and that is when I knew what I had seen... actually it was difficult to draw..I couldn't get the head right and it seem to not have a neck..I think the head was kind of pointed?  not round..",
-  "temperature_high": 36.95,
-  "temperature_mid": 35.65,
-  "temperature_low": 34.35,
+  "temperature": {
+    "high": 36.95,
+    "mid": 35.65,
+    "low": 34.35
+  },
   "dew_point": 32.92,
   "humidity": 0.89,
   "cloud_cover": 0.98,

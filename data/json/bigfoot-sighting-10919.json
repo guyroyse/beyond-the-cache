@@ -11,9 +11,11 @@
   "longitude": -92.12,
   "location": "-92.12,34.87",
   "location_details": "The incident was in Pulaski County.  Even though it happened at a military installation there were plenty of woods behind our house.",
-  "temperature_high": 63.91,
-  "temperature_mid": 62.245,
-  "temperature_low": 60.58,
+  "temperature": {
+    "high": 63.91,
+    "mid": 62.245,
+    "low": 60.58
+  },
   "dew_point": 57.23,
   "humidity": 0.88,
   "cloud_cover": 0.95,

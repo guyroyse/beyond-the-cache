@@ -11,9 +11,11 @@
   "longitude": -83.40022,
   "location": "-83.40022,39.11929",
   "location_details": "This is a state park in Ohio.  It is off of Rt. 41 between Hillsboro and Peebles.",
-  "temperature_high": 87.31,
-  "temperature_mid": 78.76,
-  "temperature_low": 70.21,
+  "temperature": {
+    "high": 87.31,
+    "mid": 78.76,
+    "low": 70.21
+  },
   "dew_point": 68.04,
   "humidity": 0.77,
   "cloud_cover": 0.35,

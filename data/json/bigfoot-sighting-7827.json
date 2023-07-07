@@ -11,9 +11,11 @@
   "longitude": -107.7084,
   "location": "-107.7084,38.875",
   "location_details": "Sighting location was near an area called Wolf Park near Hotchkiss.",
-  "temperature_high": 64.9,
-  "temperature_mid": 51.26,
-  "temperature_low": 37.62,
+  "temperature": {
+    "high": 64.9,
+    "mid": 51.26,
+    "low": 37.62
+  },
   "dew_point": 30.71,
   "humidity": 0.5,
   "cloud_cover": 0.27,

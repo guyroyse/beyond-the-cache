@@ -11,9 +11,11 @@
   "longitude": -83.95846,
   "location": "-83.95846,37.0787",
   "location_details": "hwy 229 to 830 to 1189",
-  "temperature_high": 87.66,
-  "temperature_mid": 79.715,
-  "temperature_low": 71.77,
+  "temperature": {
+    "high": 87.66,
+    "mid": 79.715,
+    "low": 71.77
+  },
   "dew_point": 70.16,
   "humidity": 0.78,
   "cloud_cover": 0.37,

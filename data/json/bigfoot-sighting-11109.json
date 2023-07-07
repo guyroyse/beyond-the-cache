@@ -11,9 +11,11 @@
   "longitude": -107.3956,
   "location": "-107.3956,36.72065",
   "location_details": "this was in the oil field in gubnerdor on BLM land ans ranch land",
-  "temperature_high": 46.8,
-  "temperature_mid": 41.015,
-  "temperature_low": 35.23,
+  "temperature": {
+    "high": 46.8,
+    "mid": 41.015,
+    "low": 35.23
+  },
   "dew_point": 33.48,
   "humidity": 0.78,
   "cloud_cover": 0.68,

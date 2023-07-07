@@ -1,0 +1,35 @@
+{
+  "reportId": "1361",
+  "title": "Twenty-two inch tracks found",
+  "date": "1998-04-14",
+  "timestamp": 892512000,
+  "observed": "Four 22 inch long bare human tracks. Eight feet from toe to heel in order left right left right. These tracks followed a deer path doun a hill and crossed a dirt road. The road was very hard and the tracks on the hill sunk in the earth about 2to 3 inches. The tracks on the road did not indent becouse of the hardness of the road. Dirt was left on the road in a bare foot form with 5 toes.",
+  "classification": "Class A",
+  "county": "Fremont",
+  "state": "Colorado",
+  "latitude": 38.54166,
+  "longitude": -104.9908,
+  "location": {
+    "longitude": -104.9908,
+    "latitude": 38.54166
+  },
+  "location_details": "USA, Colorado, Fremont county Hwy 115 A state land area called Table mountain.",
+  "temperature": {
+    "high": 49.86,
+    "mid": 41.175,
+    "low": 32.49
+  },
+  "dew_point": 31.75,
+  "humidity": 0.7,
+  "cloud_cover": 0.55,
+  "moon_phase": 0.59,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.48,
+  "precip_type": "rain",
+  "pressure": 1007,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 7,
+  "visibility": 8.42,
+  "wind_bearing": 1,
+  "wind_speed": 7.53
+}

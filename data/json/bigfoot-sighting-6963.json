@@ -11,9 +11,11 @@
   "longitude": -123.8692,
   "location": "-123.8692,40.26639",
   "location_details": "About three miles west of Myers Flats up in the woods on an old logging road.",
-  "temperature_high": 71.95,
-  "temperature_mid": 64.44,
-  "temperature_low": 56.93,
+  "temperature": {
+    "high": 71.95,
+    "mid": 64.44,
+    "low": 56.93
+  },
   "dew_point": 52.59,
   "humidity": 0.72,
   "cloud_cover": 0.6,

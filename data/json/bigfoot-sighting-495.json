@@ -11,9 +11,11 @@
   "longitude": -122.3003,
   "location": "-122.3003,47.0274",
   "location_details": "I was driving west after turning off the Orting-Kapowsin Highway. I sighted the bigfoot about halfway down the lane on the left. At the end of the lane, a left turn onto a gravel road takes one past 3 houses to my friends' gate. The neighbor I spoke with lives in the last house on the right before the gate.",
-  "temperature_high": 73.61,
-  "temperature_mid": 60.775,
-  "temperature_low": 47.94,
+  "temperature": {
+    "high": 73.61,
+    "mid": 60.775,
+    "low": 47.94
+  },
   "dew_point": 40.05,
   "humidity": 0.57,
   "cloud_cover": 0.1,

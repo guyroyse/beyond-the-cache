@@ -1,0 +1,35 @@
+{
+  "reportId": "25026",
+  "title": "Possible late night sighting across the road from a house near Kirbyville",
+  "date": "2009-03-09",
+  "timestamp": 1236556800,
+  "observed": "I let my dog out about 11 pm oct 3rd or 4th. It was pretty cool that night so he didnt go too far.across from my home in rural taney county there is thousands of acres bordering taneycomo and bull shoals lake. It was from there I heard stomping and my dog got scared. There is a street sign and a telephone pole across the road that when this thing passed showed to be about 8 ft tall in only a few seconds it was gone. my brother seen the same thing 2 days before.",
+  "classification": "Class B",
+  "county": "Taney",
+  "state": "Missouri",
+  "latitude": 36.3881,
+  "longitude": -93.1073,
+  "location": {
+    "longitude": -93.1073,
+    "latitude": 36.3881
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 73.99,
+    "mid": 63.555,
+    "low": 53.12
+  },
+  "dew_point": 41.08,
+  "humidity": 0.54,
+  "cloud_cover": 0.24,
+  "moon_phase": 0.45,
+  "precip_intensity": 0.0043,
+  "precip_probability": 0.69,
+  "precip_type": "rain",
+  "pressure": 1015.75,
+  "summary": "Mostly cloudy starting in the evening.",
+  "uv_index": 5,
+  "visibility": 9.85,
+  "wind_bearing": 149,
+  "wind_speed": 7.74
+}

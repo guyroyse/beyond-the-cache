@@ -1,0 +1,34 @@
+{
+  "reportId": "592",
+  "title": "Two witnesses observed a large, black-brown human-like form  between Wiles Rd. and Sample Rd",
+  "date": "1975-01-15",
+  "timestamp": 158976000,
+  "observed": "My brother and I observed a large, black-brown human-like form near a large tree that had a branch some 18 inches in diameter hanging over a dirtbike trail.  We heard grunting and movement in the bushes next to tree and then saw that particular branch snapped in 2 with ease at it's base.  Then whatever it was ran into the woods leaving a path of destruction, mostly small trees laying down.",
+  "classification": "Class A",
+  "county": "Broward",
+  "state": "Florida",
+  "latitude": 26.27395,
+  "longitude": -80.1937,
+  "location": {
+    "longitude": -80.1937,
+    "latitude": 26.27395
+  },
+  "location_details": "Florida, Broward county, Coral Springs, between Wiles Rd. and Sample Rd.",
+  "temperature": {
+    "high": 71.39,
+    "mid": 65.885,
+    "low": 60.38
+  },
+  "dew_point": 46.82,
+  "humidity": 0.62,
+  "cloud_cover": 0.41,
+  "moon_phase": 0.1,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1022.7,
+  "summary": "Partly cloudy throughout the day and breezy in the evening.",
+  "uv_index": 4,
+  "visibility": 9.27,
+  "wind_bearing": 21,
+  "wind_speed": 11.61
+}

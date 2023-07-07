@@ -11,9 +11,11 @@
   "longitude": -83.77811,
   "location": "-83.77811,34.7673",
   "location_details": "the upper hooch",
-  "temperature_high": 79.73,
-  "temperature_mid": 67.125,
-  "temperature_low": 54.52,
+  "temperature": {
+    "high": 79.73,
+    "mid": 67.125,
+    "low": 54.52
+  },
   "dew_point": 53.25,
   "humidity": 0.67,
   "cloud_cover": 0.03,

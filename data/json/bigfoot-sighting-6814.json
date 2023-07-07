@@ -11,9 +11,11 @@
   "longitude": -123.8979,
   "location": "-123.8979,47.4645",
   "location_details": "Since the report is for 3 separate incidents, in 3 nearby but separate places, the counties are Jefferson and Grays Harbor, I think. One is on the south shore, and two on the north shore, of Lake Quinault.",
-  "temperature_high": 73.04,
-  "temperature_mid": 63.99,
-  "temperature_low": 54.94,
+  "temperature": {
+    "high": 73.04,
+    "mid": 63.99,
+    "low": 54.94
+  },
   "dew_point": 51.01,
   "humidity": 0.69,
   "cloud_cover": 0.15,

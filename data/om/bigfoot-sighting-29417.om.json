@@ -1,0 +1,35 @@
+{
+  "reportId": "29417",
+  "title": "Deer hunter has a late afternoon sighting through his rifle scope in the Winona Wildlife Management Area",
+  "date": "2010-11-18",
+  "timestamp": 1290038400,
+  "observed": "Sitting in tree during deer season. Saw a dark figure in deep brush, as i watch it moved into an open spot. I didn't Know what it was so i looked through the scope of my gun, not having binoculars on me, and saw it standing next to a cedar tree, with its hand on the tree. It turned profile to me and noticed that it wasn't any person in a custom as i thought it was at first. it was about 7'5\" tall deep brown color, had hair from nose down, the face was deep wrinkled and the eyes had no whites, they were colored kind of. Scared i clicked the safety of my gun off, and the creature let out a deep grunt, way too deep to be any bear. It ran into the thick brush. A little while later i walked down to where it was to see if i could figure out what it was. I saw an imprint in the bark like a thumb and two long scratches that were as far apart as my pointer and pinkie streched.",
+  "classification": "Class A",
+  "county": "Saline",
+  "state": "Arkansas",
+  "latitude": 34.73147,
+  "longitude": -92.75093,
+  "location": {
+    "longitude": -92.75093,
+    "latitude": 34.73147
+  },
+  "location_details": "Winona wildlife area",
+  "temperature": {
+    "high": 51.09,
+    "mid": 45.295,
+    "low": 39.5
+  },
+  "dew_point": 43.14,
+  "humidity": 0.83,
+  "cloud_cover": 0.82,
+  "moon_phase": 0.4,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.26,
+  "precip_type": "rain",
+  "pressure": 1025.31,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 8.63,
+  "wind_bearing": 347,
+  "wind_speed": 3.76
+}

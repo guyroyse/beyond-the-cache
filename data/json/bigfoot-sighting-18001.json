@@ -11,9 +11,11 @@
   "longitude": -83.59509,
   "location": "-83.59509,34.4447",
   "location_details": "there is a stream that runs deep into the woods,i dont know how far back it goes",
-  "temperature_high": 95.51,
-  "temperature_mid": 84.11,
-  "temperature_low": 72.71,
+  "temperature": {
+    "high": 95.51,
+    "mid": 84.11,
+    "low": 72.71
+  },
   "dew_point": 71.01,
   "humidity": 0.69,
   "cloud_cover": 0.12,

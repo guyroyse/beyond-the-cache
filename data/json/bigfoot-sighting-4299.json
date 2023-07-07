@@ -11,9 +11,11 @@
   "longitude": -82.82491,
   "location": "-82.82491,41.42364",
   "location_details": "State Route 269 in the Resthaven Wildlife Reserve.",
-  "temperature_high": 52.56,
-  "temperature_mid": 44.225,
-  "temperature_low": 35.89,
+  "temperature": {
+    "high": 52.56,
+    "mid": 44.225,
+    "low": 35.89
+  },
   "dew_point": 33.06,
   "humidity": 0.7,
   "cloud_cover": 0.07,

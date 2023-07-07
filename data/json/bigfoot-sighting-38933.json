@@ -11,9 +11,11 @@
   "longitude": -122.553,
   "location": "-122.553,40.5835",
   "location_details": "South side of Whiskeytown Lake, Whiskeytown National Recreation Area.  We were riding the roads from the boat ramp area.",
-  "temperature_high": 53.31,
-  "temperature_mid": 46.88,
-  "temperature_low": 40.45,
+  "temperature": {
+    "high": 53.31,
+    "mid": 46.88,
+    "low": 40.45
+  },
   "dew_point": 38.93,
   "humidity": 0.8,
   "cloud_cover": 0.39,

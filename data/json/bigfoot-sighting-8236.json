@@ -11,9 +11,11 @@
   "longitude": -82.28814,
   "location": "-82.28814,40.05998",
   "location_details": "South of State Route 16 on Brownsville Road just south of the Claylick Bridge.",
-  "temperature_high": 19.38,
-  "temperature_mid": 14.79,
-  "temperature_low": 10.2,
+  "temperature": {
+    "high": 19.38,
+    "mid": 14.79,
+    "low": 10.2
+  },
   "dew_point": 5.81,
   "humidity": 0.66,
   "cloud_cover": 0.63,

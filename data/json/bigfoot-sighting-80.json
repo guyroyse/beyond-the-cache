@@ -11,9 +11,11 @@
   "longitude": -122.3755,
   "location": "-122.3755,43.69005",
   "location_details": "It was at Kitson Springs, near the Willamette Divide",
-  "temperature_high": 83.55,
-  "temperature_mid": 69.305,
-  "temperature_low": 55.06,
+  "temperature": {
+    "high": 83.55,
+    "mid": 69.305,
+    "low": 55.06
+  },
   "dew_point": 51.86,
   "humidity": 0.62,
   "cloud_cover": 0.09,

@@ -11,9 +11,11 @@
   "longitude": -84.62567,
   "location": "-84.62567,39.70042",
   "location_details": "Preble County, south-east of Eaton, Ohio; U.S. 127 and Old Camden Pike near the Roberts covered bridge",
-  "temperature_high": 87.85,
-  "temperature_mid": 76.36,
-  "temperature_low": 64.87,
+  "temperature": {
+    "high": 87.85,
+    "mid": 76.36,
+    "low": 64.87
+  },
   "dew_point": 61.22,
   "humidity": 0.62,
   "cloud_cover": 0.37,

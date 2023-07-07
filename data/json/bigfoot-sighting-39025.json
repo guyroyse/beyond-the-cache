@@ -11,9 +11,11 @@
   "longitude": -122.911,
   "location": "-122.911,48.00503",
   "location_details": "From the stump that the bigfoot was standing on, the hwy was bewtween the stump and the bay that it was watching.",
-  "temperature_high": 60.82,
-  "temperature_mid": 55.655,
-  "temperature_low": 50.49,
+  "temperature": {
+    "high": 60.82,
+    "mid": 55.655,
+    "low": 50.49
+  },
   "dew_point": 48.52,
   "humidity": 0.83,
   "cloud_cover": 0.68,

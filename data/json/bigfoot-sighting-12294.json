@@ -11,9 +11,11 @@
   "longitude": -123.35,
   "location": "-123.35,41.75",
   "location_details": "Our back yard... Mountain I should say.",
-  "temperature_high": 35.08,
-  "temperature_mid": 26.54,
-  "temperature_low": 18,
+  "temperature": {
+    "high": 35.08,
+    "mid": 26.54,
+    "low": 18
+  },
   "dew_point": 27.69,
   "humidity": 0.83,
   "cloud_cover": 1,

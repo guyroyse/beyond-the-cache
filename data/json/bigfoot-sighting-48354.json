@@ -11,9 +11,11 @@
   "longitude": -71.35414,
   "location": "-71.35414,43.11074",
   "location_details": "Don't know any closer than that. It was midnight with no street lights, just highbeam headlights, moon & stars. The west end of Deerfield Rd is Route 28 in Allenstown.",
-  "temperature_high": 56.27,
-  "temperature_mid": 45.16,
-  "temperature_low": 34.05,
+  "temperature": {
+    "high": 56.27,
+    "mid": 45.16,
+    "low": 34.05
+  },
   "dew_point": 32.1,
   "humidity": 0.73,
   "cloud_cover": 0.57,

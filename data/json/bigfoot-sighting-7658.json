@@ -11,9 +11,11 @@
   "longitude": -121.3338,
   "location": "-121.3338,44.1263",
   "location_details": "About a half before the end of the road to Tumalo Falls (in 1976 you had to hike the rest of the way into the Falls) there is a road that goes to the right, crosses Tumalo Creek and then eventually switchbacks up the hillside.  The Cabin sat right there on the right after crossing the creek (don't know if it's still there)",
-  "temperature_high": 75.68,
-  "temperature_mid": 58.635,
-  "temperature_low": 41.59,
+  "temperature": {
+    "high": 75.68,
+    "mid": 58.635,
+    "low": 41.59
+  },
   "dew_point": 29.19,
   "humidity": 0.42,
   "cloud_cover": 0.05,

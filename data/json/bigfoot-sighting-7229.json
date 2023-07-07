@@ -11,9 +11,11 @@
   "longitude": -121.6352,
   "location": "-121.6352,47.8573",
   "location_details": "Heading east out of Gold Bar towards Stevens Pass turned left onto paved road which was to take us to a lake in the mountains.  not sure exactly how far back we were, at least a few miles",
-  "temperature_high": 51.19,
-  "temperature_mid": 44.13,
-  "temperature_low": 37.07,
+  "temperature": {
+    "high": 51.19,
+    "mid": 44.13,
+    "low": 37.07
+  },
   "dew_point": 37.69,
   "humidity": 0.78,
   "cloud_cover": 0.83,

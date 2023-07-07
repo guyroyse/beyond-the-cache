@@ -11,9 +11,11 @@
   "longitude": -82.1475,
   "location": "-82.1475,26.9745",
   "location_details": "On Koala just east of intersection of Collingswood.  North side of Koala",
-  "temperature_high": 65.05,
-  "temperature_mid": 49.765,
-  "temperature_low": 34.48,
+  "temperature": {
+    "high": 65.05,
+    "mid": 49.765,
+    "low": 34.48
+  },
   "dew_point": 55.53,
   "humidity": 0.84,
   "cloud_cover": 0.64,

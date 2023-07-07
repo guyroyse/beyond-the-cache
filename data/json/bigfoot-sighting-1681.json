@@ -11,9 +11,11 @@
   "longitude": -122.4133,
   "location": "-122.4133,46.803",
   "location_details": "In an area... called The Bald Hills, near The Deschutes Falls Park. This area is between the Southwest corner of Mt. Rainier park and the town of Yelm.",
-  "temperature_high": 81.57,
-  "temperature_mid": 69.025,
-  "temperature_low": 56.48,
+  "temperature": {
+    "high": 81.57,
+    "mid": 69.025,
+    "low": 56.48
+  },
   "dew_point": 53.07,
   "humidity": 0.65,
   "cloud_cover": 0.2,

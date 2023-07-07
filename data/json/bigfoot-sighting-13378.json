@@ -11,9 +11,11 @@
   "longitude": -80.66,
   "location": "-80.66,36.134",
   "location_details": "Farmland 5 miles east on Courtney Huntsville Rd. off of Highway 601",
-  "temperature_high": 54.66,
-  "temperature_mid": 48.1,
-  "temperature_low": 41.54,
+  "temperature": {
+    "high": 54.66,
+    "mid": 48.1,
+    "low": 41.54
+  },
   "dew_point": 50.72,
   "humidity": 0.99,
   "cloud_cover": 0.99,

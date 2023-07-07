@@ -11,9 +11,11 @@
   "longitude": -71.80123,
   "location": "-71.80123,42.54334",
   "location_details": "Leominster state forest, back side of No Town Res.",
-  "temperature_high": 49.31,
-  "temperature_mid": 46.275,
-  "temperature_low": 43.24,
+  "temperature": {
+    "high": 49.31,
+    "mid": 46.275,
+    "low": 43.24
+  },
   "dew_point": 37.15,
   "humidity": 0.85,
   "cloud_cover": 0.99,

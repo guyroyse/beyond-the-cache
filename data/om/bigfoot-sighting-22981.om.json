@@ -1,0 +1,35 @@
+{
+  "reportId": "22981",
+  "title": "Motorcyclist has up-close sighting near Beech Grove",
+  "date": "2006-07-12",
+  "timestamp": 1152662400,
+  "observed": "This occurred in July 2006. I was on my way to work, it was approx, 4:30 AM in the morning. I was riding my motorcycle. I have a extra bright headlight on my motorcycle and I approached an area with a saw mill, I notice something squating beside the road. I slowed and passed this thing and was no more than 4 feet away. I looked right into its eyes and face. The hair was about 2.5 to 3 inches long, black and shiny. I know it was not any animal I had ever seen before. No Bear No Dog nothing. The height if this thing had it stood up would be at least 6.5 feet tall. I continue to ask myself did I just see what I thought I saw. I was to shook up to stop and double check of what I saw. I still to this day wish I had stopped and verified what I saw. Anyhow I still look for it whenever I am night riding.",
+  "classification": "Class A",
+  "county": "McLean",
+  "state": "Kentucky",
+  "latitude": 37.6095,
+  "longitude": -87.344,
+  "location": {
+    "longitude": -87.344,
+    "latitude": 37.6095
+  },
+  "location_details": "about midway between calhoun, Ky and Beech Grove, Ky. On HWY 136, 3 miles SE of Beech Grove",
+  "temperature": {
+    "high": 83.05,
+    "mid": 77.935,
+    "low": 72.82
+  },
+  "dew_point": 72.77,
+  "humidity": 0.89,
+  "cloud_cover": 0.65,
+  "moon_phase": 0.56,
+  "precip_intensity": 0.0221,
+  "precip_probability": 0.76,
+  "precip_type": "rain",
+  "pressure": 1016.16,
+  "summary": "Rain in the morning and afternoon.",
+  "uv_index": 7,
+  "visibility": 7.8,
+  "wind_bearing": 204,
+  "wind_speed": 6.54
+}

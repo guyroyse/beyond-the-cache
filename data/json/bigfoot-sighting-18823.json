@@ -11,9 +11,11 @@
   "longitude": -123.2902,
   "location": "-123.2902,47.00625",
   "location_details": "Now called Gravatt Road, off of the Mox-Chehalis Road.  At the time there was an empty field surrounded by a maturing second growth forest.  The field was about a 1/3 mile off of the Mox-Chehalis, on the left side after the first hill climb.",
-  "temperature_high": 61.2,
-  "temperature_mid": 55.62,
-  "temperature_low": 50.04,
+  "temperature": {
+    "high": 61.2,
+    "mid": 55.62,
+    "low": 50.04
+  },
   "dew_point": 43.66,
   "humidity": 0.7,
   "cloud_cover": 0.72,

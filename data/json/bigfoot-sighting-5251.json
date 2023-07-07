@@ -11,9 +11,11 @@
   "longitude": -118.6078,
   "location": "-118.6078,35.56805",
   "location_details": "Piute Mountain region of the Sequoia National Forest, located 20 miles southeast of Lake Isabella. Our campground (Saddle Spring) was located 5.7 miles north of Piute Peak (campground). The coordinates of our campsite were 35 31.185 N, 118 24.748 W; at an elevation of 6,866 ft.",
-  "temperature_high": 67.44,
-  "temperature_mid": 58.005,
-  "temperature_low": 48.57,
+  "temperature": {
+    "high": 67.44,
+    "mid": 58.005,
+    "low": 48.57
+  },
   "dew_point": 43.48,
   "humidity": 0.64,
   "cloud_cover": 0.3,

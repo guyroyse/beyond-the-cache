@@ -11,9 +11,11 @@
   "longitude": -89.8741,
   "location": "-89.8741,45.7264",
   "location_details": "Willow Reservoir, between Tomahawk and Minocqua, WI.",
-  "temperature_high": 80.9,
-  "temperature_mid": 72.695,
-  "temperature_low": 64.49,
+  "temperature": {
+    "high": 80.9,
+    "mid": 72.695,
+    "low": 64.49
+  },
   "dew_point": 61.27,
   "humidity": 0.7,
   "cloud_cover": 0.43,

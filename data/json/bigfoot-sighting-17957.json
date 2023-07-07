@@ -11,9 +11,11 @@
   "longitude": -83.62215,
   "location": "-83.62215,34.71425",
   "location_details": "This is only 10 to 15 miles away from another site in Helen. Both which back up to the National Forrest.",
-  "temperature_high": 40.74,
-  "temperature_mid": 32.065,
-  "temperature_low": 23.39,
+  "temperature": {
+    "high": 40.74,
+    "mid": 32.065,
+    "low": 23.39
+  },
   "dew_point": 13.93,
   "humidity": 0.51,
   "cloud_cover": 0.28,

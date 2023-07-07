@@ -11,9 +11,11 @@
   "longitude": -81.898,
   "location": "-81.898,28.917",
   "location_details": "The area was on Hartsock Sawmill RD off of 441/27",
-  "temperature_high": 47.53,
-  "temperature_mid": 39,
-  "temperature_low": 30.47,
+  "temperature": {
+    "high": 47.53,
+    "mid": 39,
+    "low": 30.47
+  },
   "dew_point": 29.35,
   "humidity": 0.62,
   "cloud_cover": 0.37,

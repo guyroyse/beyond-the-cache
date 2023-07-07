@@ -11,9 +11,11 @@
   "longitude": -85.69739,
   "location": "-85.69739,40.54919",
   "location_details": "it was in a woods at the end of 12th street that is no longer there",
-  "temperature_high": 84.37,
-  "temperature_mid": 74.02,
-  "temperature_low": 63.67,
+  "temperature": {
+    "high": 84.37,
+    "mid": 74.02,
+    "low": 63.67
+  },
   "dew_point": 57.76,
   "humidity": 0.63,
   "cloud_cover": 0.32,

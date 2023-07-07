@@ -11,9 +11,11 @@
   "longitude": -90.4049,
   "location": "-90.4049,39.02775",
   "location_details": "Between Otterville and Grafton.",
-  "temperature_high": 83.56,
-  "temperature_mid": 76,
-  "temperature_low": 68.44,
+  "temperature": {
+    "high": 83.56,
+    "mid": 76,
+    "low": 68.44
+  },
   "dew_point": 61.84,
   "humidity": 0.72,
   "cloud_cover": 0.51,

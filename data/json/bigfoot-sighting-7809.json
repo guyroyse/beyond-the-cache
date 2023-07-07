@@ -11,9 +11,11 @@
   "longitude": -95.88,
   "location": "-95.88,41.134",
   "location_details": "Georgia Ave. and Tulip Ln. run East-West  My house was approximately 1/3 of a mile from Bellevue Blvd., which ran along the heavily forested area of Fontenelle Forest.",
-  "temperature_high": 12.83,
-  "temperature_mid": 8.475,
-  "temperature_low": 4.12,
+  "temperature": {
+    "high": 12.83,
+    "mid": 8.475,
+    "low": 4.12
+  },
   "dew_point": 2.79,
   "humidity": 0.89,
   "cloud_cover": 0.37,

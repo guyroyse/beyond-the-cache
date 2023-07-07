@@ -11,9 +11,11 @@
   "longitude": -82.26195,
   "location": "-82.26195,35.74875",
   "location_details": "Yancey County, North Carolina, near the summit of Mt. Mitchell",
-  "temperature_high": 35.65,
-  "temperature_mid": 30.035,
-  "temperature_low": 24.42,
+  "temperature": {
+    "high": 35.65,
+    "mid": 30.035,
+    "low": 24.42
+  },
   "dew_point": 10.97,
   "humidity": 0.49,
   "cloud_cover": 0.46,

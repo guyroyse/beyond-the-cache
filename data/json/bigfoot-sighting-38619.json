@@ -11,9 +11,11 @@
   "longitude": -79.79759,
   "location": "-79.79759,37.64224",
   "location_details": "Directions from Route 220. Cross the James River on James St. Take right onto route 43 (Church Street) into Eagle Rock. You will pass the Eagle Rock Fire Station on your left.  The next road to the left is Indian Lane.  Go up Indian Lane to the top and the graveyard will be on right, and gravel road to the water tank is on the left side of Indian Lane.",
-  "temperature_high": 38.44,
-  "temperature_mid": 37.63,
-  "temperature_low": 36.82,
+  "temperature": {
+    "high": 38.44,
+    "mid": 37.63,
+    "low": 36.82
+  },
   "dew_point": 34.97,
   "humidity": 0.9,
   "cloud_cover": 0.85,

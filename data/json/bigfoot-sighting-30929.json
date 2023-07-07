@@ -11,9 +11,11 @@
   "longitude": -80.16933,
   "location": "-80.16933,26.80829",
   "location_details": "Northlake Blvd and St Rd 710, south on Northlake Blvd to Grassy Waters Preserve. On the left maybe two miles.",
-  "temperature_high": 85.05,
-  "temperature_mid": 80.33,
-  "temperature_low": 75.61,
+  "temperature": {
+    "high": 85.05,
+    "mid": 80.33,
+    "low": 75.61
+  },
   "dew_point": 73.68,
   "humidity": 0.77,
   "cloud_cover": 0.36,

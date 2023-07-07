@@ -11,9 +11,11 @@
   "longitude": -89.7915,
   "location": "-89.7915,38.4335",
   "location_details": "East of Belleville",
-  "temperature_high": 39.82,
-  "temperature_mid": 36.29,
-  "temperature_low": 32.76,
+  "temperature": {
+    "high": 39.82,
+    "mid": 36.29,
+    "low": 32.76
+  },
   "dew_point": 22.79,
   "humidity": 0.65,
   "cloud_cover": 0.2,

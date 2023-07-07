@@ -11,9 +11,11 @@
   "longitude": -112.455,
   "location": "-112.455,44.0925",
   "location_details": "Take 1-15 North aprox. 60 miles from Idaho Falls to Dubois.  Exit Dubois and take the sr that goes to Medicine Lodge Canyon. (I do not know the name of this road)",
-  "temperature_high": 54.21,
-  "temperature_mid": 46.695,
-  "temperature_low": 39.18,
+  "temperature": {
+    "high": 54.21,
+    "mid": 46.695,
+    "low": 39.18
+  },
   "dew_point": 40.31,
   "humidity": 0.8,
   "cloud_cover": 0.77,

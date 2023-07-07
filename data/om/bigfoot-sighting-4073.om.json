@@ -1,0 +1,35 @@
+{
+  "reportId": "4073",
+  "title": "White hair covered creature seen at the edge of a cornfield",
+  "date": "1984-07-04",
+  "timestamp": 457747200,
+  "observed": "It was July 4th, 1984. I was 17 and between my junior and senior year of high school. I went to the fireworks in Beverly, Ohio and had met a young lady (sorry I don't recall her name) who was staying with some friends that lived near Churchtown. We watched the fireworks, then I offered to drive her home. I don't know the township road, but it is off state Route 676. We parked for a while then drove on to where she was staying. On the way to the house she had fallen asleep with her head in my lap, so she didn't see a thing. As I drove about 15 mph along these backroads, I rounded a slight turn where the banks on either side rose about six feet. On both sides of the road were fence and cornfields. Then, on the left side of the road behind the fence was a large hair covered, gray or white colored figure standing by the fence line. I was stunned and didn't say a word and just kept driving along slowly looking at this thing. As I went by it just looked at me. I didn't have a clue what to do, so I kept going. When I looked in the rear view mirror I saw it turn and go back into the cornfield. I didn't tell anyone for a while, but eventually told a couple friends who just smiled.",
+  "classification": "Class A",
+  "county": "Washington",
+  "state": "Ohio",
+  "latitude": 39.46019,
+  "longitude": -81.54855,
+  "location": {
+    "longitude": -81.54855,
+    "latitude": 39.46019
+  },
+  "location_details": "A few miles off State Route 676 on a township road.",
+  "temperature": {
+    "high": 76.01,
+    "mid": 72.325,
+    "low": 68.64
+  },
+  "dew_point": 63.92,
+  "humidity": 0.75,
+  "cloud_cover": 0.88,
+  "moon_phase": 0.2,
+  "precip_intensity": 0.0096,
+  "precip_probability": 0.63,
+  "precip_type": "rain",
+  "pressure": 1012.61,
+  "summary": "Rain starting in the evening.",
+  "uv_index": 6,
+  "visibility": 4.92,
+  "wind_bearing": 198,
+  "wind_speed": 7.61
+}

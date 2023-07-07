@@ -11,9 +11,11 @@
   "longitude": -72.91994,
   "location": "-72.91994,42.64809",
   "location_details": "See my post, near MP 410 on the railroad track, overhead route 2 bridge",
-  "temperature_high": 48.08,
-  "temperature_mid": 47.945,
-  "temperature_low": 47.81,
+  "temperature": {
+    "high": 48.08,
+    "mid": 47.945,
+    "low": 47.81
+  },
   "dew_point": 38.2,
   "humidity": 0.76,
   "cloud_cover": 0.4,

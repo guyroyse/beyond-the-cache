@@ -11,9 +11,11 @@
   "longitude": -124.1625,
   "location": "-124.1625,40.80222",
   "location_details": "The end of Ole Hanson rd.  Through the Hanson Property",
-  "temperature_high": 67.71,
-  "temperature_mid": 58.19,
-  "temperature_low": 48.67,
+  "temperature": {
+    "high": 67.71,
+    "mid": 58.19,
+    "low": 48.67
+  },
   "dew_point": 51.3,
   "humidity": 0.78,
   "cloud_cover": 0.14,

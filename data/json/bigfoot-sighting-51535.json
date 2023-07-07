@@ -11,9 +11,11 @@
   "longitude": -75.74288,
   "location": "-75.74288,41.32501",
   "location_details": "Back side of Everhart Street",
-  "temperature_high": 67.58,
-  "temperature_mid": 54.955,
-  "temperature_low": 42.33,
+  "temperature": {
+    "high": 67.58,
+    "mid": 54.955,
+    "low": 42.33
+  },
   "dew_point": 30.35,
   "humidity": 0.42,
   "cloud_cover": 0,

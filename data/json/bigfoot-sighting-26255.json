@@ -11,9 +11,11 @@
   "longitude": -121.9418,
   "location": "-121.9418,47.13485",
   "location_details": "Mud Mountain Dam area.",
-  "temperature_high": 77.78,
-  "temperature_mid": 65.56,
-  "temperature_low": 53.34,
+  "temperature": {
+    "high": 77.78,
+    "mid": 65.56,
+    "low": 53.34
+  },
   "dew_point": 49.37,
   "humidity": 0.63,
   "cloud_cover": 0.07,

@@ -11,9 +11,11 @@
   "longitude": -121.7692,
   "location": "-121.7692,48.1278",
   "location_details": "2 miles from the beginning of 3 Fingers Mtn. road and about a mile from where the road ends there.",
-  "temperature_high": 40.85,
-  "temperature_mid": 38.2,
-  "temperature_low": 35.55,
+  "temperature": {
+    "high": 40.85,
+    "mid": 38.2,
+    "low": 35.55
+  },
   "dew_point": 32.65,
   "humidity": 0.83,
   "cloud_cover": 0.97,

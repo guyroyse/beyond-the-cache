@@ -11,9 +11,11 @@
   "longitude": -110.177,
   "location": "-110.177,31.63",
   "location_details": "As you travel Charlestone Road from Sierra Vista to Tombstone heading north east, stop at the San Pedro River bridge, and head north, probably about 1/3 mile along the west side banks of the San Pedro River.",
-  "temperature_high": 60.44,
-  "temperature_mid": 48.015,
-  "temperature_low": 35.59,
+  "temperature": {
+    "high": 60.44,
+    "mid": 48.015,
+    "low": 35.59
+  },
   "dew_point": 37.53,
   "humidity": 0.64,
   "cloud_cover": 0.43,

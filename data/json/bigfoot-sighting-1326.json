@@ -11,9 +11,11 @@
   "longitude": -97.40294,
   "location": "-97.40294,37.64103",
   "location_details": "USA, Kansas, Sedgwick,wichita,hoover and k42. 1/4 miles south. In the \"Big ditch\".",
-  "temperature_high": 66.61,
-  "temperature_mid": 53.5,
-  "temperature_low": 40.39,
+  "temperature": {
+    "high": 66.61,
+    "mid": 53.5,
+    "low": 40.39
+  },
   "dew_point": 33.3,
   "humidity": 0.58,
   "cloud_cover": 0.32,

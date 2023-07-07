@@ -11,9 +11,11 @@
   "longitude": -95.74556,
   "location": "-95.74556,36.18889",
   "location_details": "1755 NORTH HIGHWAY 66, CATOOSA, OKLAHOMA",
-  "temperature_high": 75.21,
-  "temperature_mid": 65.85,
-  "temperature_low": 56.49,
+  "temperature": {
+    "high": 75.21,
+    "mid": 65.85,
+    "low": 56.49
+  },
   "dew_point": 63,
   "humidity": 0.85,
   "cloud_cover": 0.68,

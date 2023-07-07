@@ -11,9 +11,11 @@
   "longitude": -116.5333,
   "location": "-116.5333,33.95002",
   "location_details": "It was at the desert Hot Springs condominium complex approx.10 miles north of Palm Springs",
-  "temperature_high": 77.06,
-  "temperature_mid": 62.475,
-  "temperature_low": 47.89,
+  "temperature": {
+    "high": 77.06,
+    "mid": 62.475,
+    "low": 47.89
+  },
   "dew_point": 41.5,
   "humidity": 0.53,
   "cloud_cover": 0.08,

@@ -11,9 +11,11 @@
   "longitude": -93.14626,
   "location": "-93.14626,36.39835",
   "location_details": "Take hwy 248 north out of Branson approx 3-4 miles",
-  "temperature_high": 63.79,
-  "temperature_mid": 54.425,
-  "temperature_low": 45.06,
+  "temperature": {
+    "high": 63.79,
+    "mid": 54.425,
+    "low": 45.06
+  },
   "dew_point": 57.64,
   "humidity": 0.89,
   "cloud_cover": 0.11,

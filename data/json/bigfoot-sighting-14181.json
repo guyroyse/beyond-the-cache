@@ -11,9 +11,11 @@
   "longitude": -85.97701,
   "location": "-85.97701,30.993",
   "location_details": "Near Pea River.",
-  "temperature_high": 69.55,
-  "temperature_mid": 64.71,
-  "temperature_low": 59.87,
+  "temperature": {
+    "high": 69.55,
+    "mid": 64.71,
+    "low": 59.87
+  },
   "dew_point": 39.95,
   "humidity": 0.56,
   "cloud_cover": 0.46,

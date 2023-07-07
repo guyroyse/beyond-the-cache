@@ -11,9 +11,11 @@
   "longitude": -79.21278,
   "location": "-79.21278,35.18083",
   "location_details": "Secured military installation.",
-  "temperature_high": 82.1,
-  "temperature_mid": 68.765,
-  "temperature_low": 55.43,
+  "temperature": {
+    "high": 82.1,
+    "mid": 68.765,
+    "low": 55.43
+  },
   "dew_point": 69.37,
   "humidity": 0.85,
   "cloud_cover": 0.86,

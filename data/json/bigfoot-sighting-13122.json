@@ -11,9 +11,11 @@
   "longitude": -79.52835,
   "location": "-79.52835,38.7016",
   "location_details": "go up Spruce Knob road",
-  "temperature_high": 53.87,
-  "temperature_mid": 42.77,
-  "temperature_low": 31.67,
+  "temperature": {
+    "high": 53.87,
+    "mid": 42.77,
+    "low": 31.67
+  },
   "dew_point": 37.58,
   "humidity": 0.76,
   "cloud_cover": 0.53,

@@ -11,9 +11,11 @@
   "longitude": -122.4163,
   "location": "-122.4163,45.3894",
   "location_details": "I can't remember cross rd. may nearest would be Ammiseiger or something like that.",
-  "temperature_high": 84.37,
-  "temperature_mid": 73.095,
-  "temperature_low": 61.82,
+  "temperature": {
+    "high": 84.37,
+    "mid": 73.095,
+    "low": 61.82
+  },
   "dew_point": 59.05,
   "humidity": 0.69,
   "cloud_cover": 0.48,

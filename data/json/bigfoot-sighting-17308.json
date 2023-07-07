@@ -11,9 +11,11 @@
   "longitude": -85.3582,
   "location": "-85.3582,33.9844",
   "location_details": "I have marked gps coordinates for the area.",
-  "temperature_high": 63.62,
-  "temperature_mid": 50.865,
-  "temperature_low": 38.11,
+  "temperature": {
+    "high": 63.62,
+    "mid": 50.865,
+    "low": 38.11
+  },
   "dew_point": 40.88,
   "humidity": 0.65,
   "cloud_cover": 0.23,

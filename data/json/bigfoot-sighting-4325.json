@@ -11,9 +11,11 @@
   "longitude": -84.66833,
   "location": "-84.66833,43.5975",
   "location_details": "Specific directions are edited, but about 2-3 mile east of Soaring Eagle Casino, off M-20.",
-  "temperature_high": 59.68,
-  "temperature_mid": 53.055,
-  "temperature_low": 46.43,
+  "temperature": {
+    "high": 59.68,
+    "mid": 53.055,
+    "low": 46.43
+  },
   "dew_point": 33.67,
   "humidity": 0.66,
   "cloud_cover": 0.37,

@@ -11,9 +11,11 @@
   "longitude": -82.05008,
   "location": "-82.05008,35.85107",
   "location_details": "Leave spruce pine wal mart head toward the brp. there is a small field on the right about half a mile to a mile. that is the spot.. sorry so vague but there is not much in the way of land marks.",
-  "temperature_high": 65.52,
-  "temperature_mid": 53.525,
-  "temperature_low": 41.53,
+  "temperature": {
+    "high": 65.52,
+    "mid": 53.525,
+    "low": 41.53
+  },
   "dew_point": 45.21,
   "humidity": 0.71,
   "cloud_cover": 0.26,

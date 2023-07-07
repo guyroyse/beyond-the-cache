@@ -1,0 +1,35 @@
+{
+  "reportId": "32308",
+  "title": "Possible nighttime encounter experienced by campers in the West Tract of the Green Swamp Preserve",
+  "date": "2011-12-12",
+  "timestamp": 1323648000,
+  "observed": "Around 2 or 3 am I was woken by a sound that I can only describe as a mixture of a whooping, screaming, howl. I have heard coyotes and bobcats and this was not anything like that. (In fact I did hear coyotes howling and yipping later in the evening) I patted my son on the leg and he responded in a whisper that he was awake and he heard it too; we laid there for several minutes and then we heard a whistling noise moving through the swamp around the perimeter of our camp. It was not like a bird it was almost like a human whistling a tune but much louder. The whistling lasted for several minutes. It was long drawn out whistles not just 2 or 3 seconds and then a pause. Another hour or so later I woke up again just in time to see a silhouette pass by the backside of the tent.",
+  "classification": "Class B",
+  "county": "Pasco",
+  "state": "Florida",
+  "latitude": 28.36168,
+  "longitude": -82.11937,
+  "location": {
+    "longitude": -82.11937,
+    "latitude": 28.36168
+  },
+  "location_details": "Along the Florida National Scenic Trail in the West Tract of SWFMD's Green Swamp Wilderness Preserve. At a spot between a fork with a sign pointing to the Boy Scout Bigfoot Wilderness Camp and the Compressco Camp.",
+  "temperature": {
+    "high": 75.18,
+    "mid": 68.645,
+    "low": 62.11
+  },
+  "dew_point": 63.25,
+  "humidity": 0.87,
+  "cloud_cover": 0.78,
+  "moon_phase": 0.57,
+  "precip_intensity": 0.9875,
+  "precip_probability": 0.35,
+  "precip_type": "rain",
+  "pressure": 1022.85,
+  "summary": "Heavy rain in the morning and afternoon.",
+  "uv_index": 2,
+  "visibility": 8.45,
+  "wind_bearing": 37,
+  "wind_speed": 7.93
+}

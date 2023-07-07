@@ -11,9 +11,11 @@
   "longitude": -82.82576,
   "location": "-82.82576,40.46339",
   "location_details": "Across from the intersection of Main Street and High Street there's an old grain elevator (it's now a thrift shop). Follow the trail and about 200 yards back you come to the old coal loader area.  Towards the back of the coal loader area is where the old switch and sign were. The old railroad bed is still there but the train tracks are gone.",
-  "temperature_high": 82.6,
-  "temperature_mid": 75.3,
-  "temperature_low": 68,
+  "temperature": {
+    "high": 82.6,
+    "mid": 75.3,
+    "low": 68
+  },
   "dew_point": 61.45,
   "humidity": 0.7,
   "cloud_cover": 0.4,

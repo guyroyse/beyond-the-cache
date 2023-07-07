@@ -11,9 +11,11 @@
   "longitude": -86.16861,
   "location": "-86.16861,42.86361",
   "location_details": "N.W. of the City of Holland, (exact location edited)",
-  "temperature_high": 52.52,
-  "temperature_mid": 51.17,
-  "temperature_low": 49.82,
+  "temperature": {
+    "high": 52.52,
+    "mid": 51.17,
+    "low": 49.82
+  },
   "dew_point": 33.57,
   "humidity": 0.73,
   "cloud_cover": 0.39,

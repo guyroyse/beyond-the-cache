@@ -11,9 +11,11 @@
   "longitude": -93.29459,
   "location": "-93.29459,36.66887",
   "location_details": "Ruth Henning conservation area - aka Henning Park scenic overlook",
-  "temperature_high": 83.79,
-  "temperature_mid": 74.19,
-  "temperature_low": 64.59,
+  "temperature": {
+    "high": 83.79,
+    "mid": 74.19,
+    "low": 64.59
+  },
   "dew_point": 61.44,
   "humidity": 0.69,
   "cloud_cover": 0.38,

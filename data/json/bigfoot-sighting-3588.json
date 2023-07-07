@@ -11,9 +11,11 @@
   "longitude": -105.0354,
   "location": "-105.0354,38.71145",
   "location_details": "It was off Gold Camp Rd., two miles east of the watershed road.",
-  "temperature_high": 69.78,
-  "temperature_mid": 55.55,
-  "temperature_low": 41.32,
+  "temperature": {
+    "high": 69.78,
+    "mid": 55.55,
+    "low": 41.32
+  },
   "dew_point": 25.1,
   "humidity": 0.4,
   "cloud_cover": 0.23,

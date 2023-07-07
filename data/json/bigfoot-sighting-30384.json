@@ -11,9 +11,11 @@
   "longitude": -111.563,
   "location": "-111.563,45.12266",
   "location_details": "Upon entering Virginia City via Hwy 287, take a right if your coming from Nevada City, or a left if you came in from Ennis, up Alder Gulch. This is the first place in Montana that gold was discovered, so there is a monument a short was up the gulch.  I was 16 years old at the time and my cousin was 25, so quite a few years have passed since this sighting happened. My Grandfather's cabins are about 8-10 miles up Alder Gulch and the road to the ridge is another mile and a half from my Grandfather's cabin. My Grandfather no longer owns the cabin.",
-  "temperature_high": 55.21,
-  "temperature_mid": 40.22,
-  "temperature_low": 25.23,
+  "temperature": {
+    "high": 55.21,
+    "mid": 40.22,
+    "low": 25.23
+  },
   "dew_point": 30.22,
   "humidity": 0.58,
   "cloud_cover": 0.76,

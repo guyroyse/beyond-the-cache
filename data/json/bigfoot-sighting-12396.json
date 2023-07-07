@@ -11,9 +11,11 @@
   "longitude": -109.75,
   "location": "-109.75,40.9",
   "location_details": "Drive south, out of Mountain View, Wyoming.  The highway turns east just on the outskirts of town.  Drive to a dirt, forest road that is marked \"Hoop Lake\".  The road goes south into the North Slope of the Uintah Mountains.",
-  "temperature_high": 88.59,
-  "temperature_mid": 71.485,
-  "temperature_low": 54.38,
+  "temperature": {
+    "high": 88.59,
+    "mid": 71.485,
+    "low": 54.38
+  },
   "dew_point": 34.38,
   "humidity": 0.27,
   "cloud_cover": 0.04,

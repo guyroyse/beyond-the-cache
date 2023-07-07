@@ -11,9 +11,11 @@
   "longitude": -91.52025,
   "location": "-91.52025,36.33205",
   "location_details": "IT WAS ON WHITE HORSE MT. GRAVEL ROADS DON'T KNOW THE NAMES OF THEM WOULD HAVE TO SHOW YOU",
-  "temperature_high": 41.75,
-  "temperature_mid": 35.33,
-  "temperature_low": 28.91,
+  "temperature": {
+    "high": 41.75,
+    "mid": 35.33,
+    "low": 28.91
+  },
   "dew_point": 20.55,
   "humidity": 0.64,
   "cloud_cover": 0.04,

@@ -11,9 +11,11 @@
   "longitude": -86.35931,
   "location": "-86.35931,37.55379",
   "location_details": "We are on the banks of rough river. Our home is located between the river and 1000's of acres of forest and cornfields.",
-  "temperature_high": 60.16,
-  "temperature_mid": 49.785,
-  "temperature_low": 39.41,
+  "temperature": {
+    "high": 60.16,
+    "mid": 49.785,
+    "low": 39.41
+  },
   "dew_point": 46.47,
   "humidity": 0.7,
   "cloud_cover": 0.72,

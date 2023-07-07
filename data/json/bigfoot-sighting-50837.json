@@ -11,9 +11,11 @@
   "longitude": -89.08323,
   "location": "-89.08323,45.05855",
   "location_details": "I was traveling west on Highway 47 in between County Highway W going west to highway 45. It happened on highway 47 approximately 125 yards east of trout road Bigfoot was going north",
-  "temperature_high": 5.15,
-  "temperature_mid": -1.92,
-  "temperature_low": -8.99,
+  "temperature": {
+    "high": 5.15,
+    "mid": -1.92,
+    "low": -8.99
+  },
   "dew_point": -6.91,
   "humidity": 0.7,
   "cloud_cover": 0.14,

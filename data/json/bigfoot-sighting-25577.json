@@ -11,9 +11,11 @@
   "longitude": -81.11927,
   "location": "-81.11927,28.48106",
   "location_details": "ecolockhatchie river off st rd 50 between 2 spots where we drop the kayaks then drive 2 cars then drive back so we can float down stream and drive back so we dont have to paddle up stream then float back to the same spot where we parked the car get to see more of the river",
-  "temperature_high": 79.08,
-  "temperature_mid": 71.1,
-  "temperature_low": 63.12,
+  "temperature": {
+    "high": 79.08,
+    "mid": 71.1,
+    "low": 63.12
+  },
   "dew_point": 65.43,
   "humidity": 0.84,
   "cloud_cover": 0.63,

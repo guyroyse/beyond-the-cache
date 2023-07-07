@@ -11,9 +11,11 @@
   "longitude": -94.23417,
   "location": "-94.23417,36.20611",
   "location_details": "Im not familiar with location,me and my friend followed Spring creek from Springdale into Elm Springs,where there is only dense woods,id say about five miles into Elm Springs,out of the creek bed,to the left,about fifty yards off.",
-  "temperature_high": 66.23,
-  "temperature_mid": 63.68,
-  "temperature_low": 61.13,
+  "temperature": {
+    "high": 66.23,
+    "mid": 63.68,
+    "low": 61.13
+  },
   "dew_point": 56.07,
   "humidity": 0.88,
   "cloud_cover": 0.99,

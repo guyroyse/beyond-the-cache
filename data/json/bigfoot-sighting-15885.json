@@ -11,9 +11,11 @@
   "longitude": -81.5745,
   "location": "-81.5745,41.29621",
   "location_details": "From RT.82 in Brecksville, OH., Head south on Riverview road approx. 5 miles. Vaughn road will be on the left with a bunch of yellow houses/buildings belonging to the park service. There is a public parking lot on the NE corner.",
-  "temperature_high": 13.64,
-  "temperature_mid": 8.675,
-  "temperature_low": 3.71,
+  "temperature": {
+    "high": 13.64,
+    "mid": 8.675,
+    "low": 3.71
+  },
   "dew_point": 5.1,
   "humidity": 0.72,
   "cloud_cover": 0.7,

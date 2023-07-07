@@ -11,9 +11,11 @@
   "longitude": -106.7682,
   "location": "-106.7682,40.4805",
   "location_details": "Take the fish creek falls main trail across the bridge (passing the falls) and continue up the trail about 1/2 mile until you are past the switchbacks and the trail straightens heading WSW.  Take a right off the trail go a few hundred feet and then turn ENE and follow back down the ravine towards fish creek.  Decend towards the creek until your about 150 feet above the water and then follow the creek back towards the bridge and falls (heading approx wnw) and you will pass over roughly the same area we did.  I estimate that we were about 1500 feet from the falls (heading towards them) when we saw the tracks.",
-  "temperature_high": 31.75,
-  "temperature_mid": 26.83,
-  "temperature_low": 21.91,
+  "temperature": {
+    "high": 31.75,
+    "mid": 26.83,
+    "low": 21.91
+  },
   "dew_point": 12.87,
   "humidity": 0.69,
   "cloud_cover": 0.35,

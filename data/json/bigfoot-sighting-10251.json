@@ -11,9 +11,11 @@
   "longitude": -78.39445,
   "location": "-78.39445,41.31268",
   "location_details": "About 3 miles east of Bennezzette, 1 mile from Rt. 555",
-  "temperature_high": 57.15,
-  "temperature_mid": 49.63,
-  "temperature_low": 42.11,
+  "temperature": {
+    "high": 57.15,
+    "mid": 49.63,
+    "low": 42.11
+  },
   "dew_point": 40.49,
   "humidity": 0.77,
   "cloud_cover": 0.59,

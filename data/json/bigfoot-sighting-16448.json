@@ -11,9 +11,11 @@
   "longitude": -119.801,
   "location": "-119.801,38.3958",
   "location_details": "Popular area off Highway 108 corridor. Clark Fork campground is located next to the Clark Fork (river) near the Carson-Iceberg Wilderness in the Stanislaus National Forest.",
-  "temperature_high": 78.36,
-  "temperature_mid": 62.64,
-  "temperature_low": 46.92,
+  "temperature": {
+    "high": 78.36,
+    "mid": 62.64,
+    "low": 46.92
+  },
   "dew_point": 46.75,
   "humidity": 0.57,
   "cloud_cover": 0.31,

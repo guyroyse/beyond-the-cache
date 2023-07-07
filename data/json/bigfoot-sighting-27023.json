@@ -11,9 +11,11 @@
   "longitude": -92.31901,
   "location": "-92.31901,39.08817",
   "location_details": "the location was at the Rocky Fork Lake which is part of the FingerLake Park located outside of columbia",
-  "temperature_high": 93.94,
-  "temperature_mid": 82.49,
-  "temperature_low": 71.04,
+  "temperature": {
+    "high": 93.94,
+    "mid": 82.49,
+    "low": 71.04
+  },
   "dew_point": 73.99,
   "humidity": 0.74,
   "cloud_cover": 0.09,

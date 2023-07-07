@@ -11,9 +11,11 @@
   "longitude": -80.88494,
   "location": "-80.88494,41.72134",
   "location_details": "Directions: Off of Interstate 90 head south on Rt. 534 to Cork Cold Springs Rd. Once on Cork Cold Springs head east to Windsor Mechanicsville. On Windsor Mechanicsville head north to Country View ln. On Country View head east to Timberwoods. Once on Timberwoods go to the end of the road, it dead ends. Past the dead end is large patch of woods. That is where the sighting occured.",
-  "temperature_high": 20.64,
-  "temperature_mid": 16.96,
-  "temperature_low": 13.28,
+  "temperature": {
+    "high": 20.64,
+    "mid": 16.96,
+    "low": 13.28
+  },
   "dew_point": 8.5,
   "humidity": 0.79,
   "cloud_cover": 0.76,

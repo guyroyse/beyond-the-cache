@@ -11,9 +11,11 @@
   "longitude": -97.77225,
   "location": "-97.77225,29.32862",
   "location_details": "Northwest three to five miles on Farm Road1117 leaving Nixon, Texas.  House with large, very distinct lamposts will be passed just prior to the site.",
-  "temperature_high": 72.25,
-  "temperature_mid": 58.44,
-  "temperature_low": 44.63,
+  "temperature": {
+    "high": 72.25,
+    "mid": 58.44,
+    "low": 44.63
+  },
   "dew_point": 37.15,
   "humidity": 0.49,
   "cloud_cover": 0.09,

@@ -11,9 +11,11 @@
   "longitude": -121.9425,
   "location": "-121.9425,48.2475",
   "location_details": "Go North on Hwy. 530 to Trafton, turn Right. on 242nd St. NE. to Lake Riley area.",
-  "temperature_high": 75.33,
-  "temperature_mid": 62.06,
-  "temperature_low": 48.79,
+  "temperature": {
+    "high": 75.33,
+    "mid": 62.06,
+    "low": 48.79
+  },
   "dew_point": 42.52,
   "humidity": 0.56,
   "cloud_cover": 0.48,

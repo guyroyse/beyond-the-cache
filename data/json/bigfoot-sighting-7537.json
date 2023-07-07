@@ -11,9 +11,11 @@
   "longitude": -123.694,
   "location": "-123.694,45.0608",
   "location_details": "About 1/4 mile west of Murphy Hill summit in coast range on a long straightaway",
-  "temperature_high": 48.97,
-  "temperature_mid": 45.16,
-  "temperature_low": 41.35,
+  "temperature": {
+    "high": 48.97,
+    "mid": 45.16,
+    "low": 41.35
+  },
   "dew_point": 42.32,
   "humidity": 0.91,
   "cloud_cover": 0.75,

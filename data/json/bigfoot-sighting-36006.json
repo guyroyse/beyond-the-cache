@@ -11,9 +11,11 @@
   "longitude": -83.87177,
   "location": "-83.87177,34.36153",
   "location_details": "1st incident happened behind the 1st house on the left on LeDan Road coming off of Hwy 60 2nd incident happened about a half mile down Ledan Road at Knickerbocker lake 3rd incident happened behind 2nd house on right on Ledan road.",
-  "temperature_high": 84.67,
-  "temperature_mid": 78.405,
-  "temperature_low": 72.14,
+  "temperature": {
+    "high": 84.67,
+    "mid": 78.405,
+    "low": 72.14
+  },
   "dew_point": 64.99,
   "humidity": 0.71,
   "cloud_cover": 0.58,

@@ -11,9 +11,11 @@
   "longitude": -84.583,
   "location": "-84.583,30.587",
   "location_details": "FLORIDIA GEORGIA LINE",
-  "temperature_high": 94.83,
-  "temperature_mid": 84.69,
-  "temperature_low": 74.55,
+  "temperature": {
+    "high": 94.83,
+    "mid": 84.69,
+    "low": 74.55
+  },
   "dew_point": 73.84,
   "humidity": 0.75,
   "cloud_cover": 0.26,

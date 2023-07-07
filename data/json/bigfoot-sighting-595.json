@@ -11,9 +11,11 @@
   "longitude": -82.42065,
   "location": "-82.42065,28.76465",
   "location_details": "Citrus county Fl. approx. 10 miles N. of Brooksville. Also it occurred in the Citrus wildlife management area.",
-  "temperature_high": 93.18,
-  "temperature_mid": 85.58,
-  "temperature_low": 77.98,
+  "temperature": {
+    "high": 93.18,
+    "mid": 85.58,
+    "low": 77.98
+  },
   "dew_point": 74.12,
   "humidity": 0.72,
   "cloud_cover": 0.55,

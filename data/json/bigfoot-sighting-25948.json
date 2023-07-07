@@ -11,9 +11,11 @@
   "longitude": -80.90944,
   "location": "-80.90944,40.64049",
   "location_details": "We are located on Apollo Road NE near Bane Road.",
-  "temperature_high": 60.34,
-  "temperature_mid": 54.235,
-  "temperature_low": 48.13,
+  "temperature": {
+    "high": 60.34,
+    "mid": 54.235,
+    "low": 48.13
+  },
   "dew_point": 40.87,
   "humidity": 0.64,
   "cloud_cover": 0.58,

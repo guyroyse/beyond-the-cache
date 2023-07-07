@@ -11,9 +11,11 @@
   "longitude": -74.3516,
   "location": "-74.3516,40.77545",
   "location_details": "I don't know the name of the road I was originally traveling on but I made a left onto what I was later told was Kennedy parkway southbound this is the road where the crossing occurred.",
-  "temperature_high": 56.12,
-  "temperature_mid": 51.885,
-  "temperature_low": 47.65,
+  "temperature": {
+    "high": 56.12,
+    "mid": 51.885,
+    "low": 47.65
+  },
   "dew_point": 32.88,
   "humidity": 0.65,
   "cloud_cover": 0.38,

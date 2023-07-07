@@ -11,9 +11,11 @@
   "longitude": -86.10335,
   "location": "-86.10335,44.1708",
   "location_details": "about 12 miles east of Manistee and a mile south of M 55",
-  "temperature_high": 53.15,
-  "temperature_mid": 45.255,
-  "temperature_low": 37.36,
+  "temperature": {
+    "high": 53.15,
+    "mid": 45.255,
+    "low": 37.36
+  },
   "dew_point": 37.81,
   "humidity": 0.79,
   "cloud_cover": 0.84,

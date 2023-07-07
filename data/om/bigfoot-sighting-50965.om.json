@@ -1,0 +1,34 @@
+{
+  "reportId": "50965",
+  "title": "Possible footprints found and cast east of Belleville near Illinois Route 4",
+  "date": "2016-01-27",
+  "timestamp": 1453852800,
+  "observed": "I found tracks and video documented them as well as cast them....this is the second time finding tracks , first time was in June of 2015 then January 15 2016...no actual sighting but have heard unusual howls throughout the year since March of 2015",
+  "classification": "Class B",
+  "county": "St. Clair",
+  "state": "Illinois",
+  "latitude": 38.4335,
+  "longitude": -89.7915,
+  "location": {
+    "longitude": -89.7915,
+    "latitude": 38.4335
+  },
+  "location_details": "East of Belleville",
+  "temperature": {
+    "high": 39.82,
+    "mid": 36.29,
+    "low": 32.76
+  },
+  "dew_point": 22.79,
+  "humidity": 0.65,
+  "cloud_cover": 0.2,
+  "moon_phase": 0.62,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1024.66,
+  "summary": "Partly cloudy overnight.",
+  "uv_index": 2,
+  "visibility": 10,
+  "wind_bearing": 219,
+  "wind_speed": 3.53
+}

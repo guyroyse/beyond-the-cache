@@ -11,9 +11,11 @@
   "longitude": -84.83903,
   "location": "-84.83903,34.03528",
   "location_details": "Off of Hwy 61 in Dallas Georgia in Paulding County. In Burnt Hickory Estates Stephen Court. Behind my house in the 125 acre woods behind my pasture that was 4 acres. Standing to the left of my barn.",
-  "temperature_high": 80.58,
-  "temperature_mid": 71.405,
-  "temperature_low": 62.23,
+  "temperature": {
+    "high": 80.58,
+    "mid": 71.405,
+    "low": 62.23
+  },
   "dew_point": 61.35,
   "humidity": 0.72,
   "cloud_cover": 0.31,

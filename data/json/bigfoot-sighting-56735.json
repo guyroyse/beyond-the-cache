@@ -11,9 +11,11 @@
   "longitude": -92.25454,
   "location": "-92.25454,34.85324",
   "location_details": "Bateville-Pike begins just past the North Little Rock airport (Remount Rd).  The sighting occurred just before the 1st major curve if you are traveling south on Bateville-Pike.  I saw the creature on the Camp Robinson side of the road. This area is strictly off limits and signs are clearly posted.",
-  "temperature_high": 69.68,
-  "temperature_mid": 65.745,
-  "temperature_low": 61.81,
+  "temperature": {
+    "high": 69.68,
+    "mid": 65.745,
+    "low": 61.81
+  },
   "dew_point": 38.66,
   "humidity": 0.66,
   "cloud_cover": 0.05,

@@ -1,0 +1,35 @@
+{
+  "reportId": "38013",
+  "title": "Man recalls seeing an unknown animal walking along Hwy. 97",
+  "date": "1995-12-15",
+  "timestamp": 818985600,
+  "observed": "We were on our way to Seattle when in the woods my father saw what was a tall figure standing straight. It was so quick, but he will never forget. He just remembers it was covered in hair, black, and had red eyes. He couldn't sleep for days. He thought he had seen the devil. :/   Anyways, thought we should let you know. This was a real sighting. It even scares him to talk about it now.",
+  "classification": "Class B",
+  "county": "Kittitas",
+  "state": "Washington",
+  "latitude": 44.83931,
+  "longitude": -120.5688,
+  "location": {
+    "longitude": -120.5688,
+    "latitude": 44.83931
+  },
+  "location_details": "Hwy 97 South at Blewett Pass",
+  "temperature": {
+    "high": 42.66,
+    "mid": 36.84,
+    "low": 31.02
+  },
+  "dew_point": 34.54,
+  "humidity": 0.91,
+  "cloud_cover": 0.7,
+  "moon_phase": 0.77,
+  "precip_intensity": 0.0045,
+  "precip_probability": 0.4,
+  "precip_type": "rain",
+  "pressure": 1019.59,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 8.68,
+  "wind_bearing": 185,
+  "wind_speed": 1.05
+}

@@ -11,9 +11,11 @@
   "longitude": -89.18135,
   "location": "-89.18135,43.8708",
   "location_details": "County Rd. J Princeton, WI.",
-  "temperature_high": 44.15,
-  "temperature_mid": 41.185,
-  "temperature_low": 38.22,
+  "temperature": {
+    "high": 44.15,
+    "mid": 41.185,
+    "low": 38.22
+  },
   "dew_point": 39.14,
   "humidity": 0.95,
   "cloud_cover": 0.98,

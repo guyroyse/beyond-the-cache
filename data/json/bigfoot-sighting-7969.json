@@ -11,9 +11,11 @@
   "longitude": -92.55472,
   "location": "-92.55472,36.36",
   "location_details": "I was only 13 at the time and didnt pay much attention to the roads.  The dirt road came down around a hill and leveled off along the east bank of the river.  The other side of the river was inaccessible due to a very steep bluff.  The bottom of the bluff was exposed rock with a slight outcropping from erosion.  About 50 feet up the bluff vegitation began with ever increasing pine trees and vegetation that continued at least another 200 plus yards to the top.  This part of the river was on a long gradual bend that obstructed lengthy views along the river in either direction.  I have fished the river many times as an adult but have yet to find the exact spot.",
-  "temperature_high": 89.58,
-  "temperature_mid": 79.905,
-  "temperature_low": 70.23,
+  "temperature": {
+    "high": 89.58,
+    "mid": 79.905,
+    "low": 70.23
+  },
   "dew_point": 64.9,
   "humidity": 0.6,
   "cloud_cover": 0.41,

@@ -1,0 +1,35 @@
+{
+  "reportId": "28711",
+  "title": "Memory told of seeing an upright figure walk into a shooting lane while hunting near Nashwauk",
+  "date": "1970-11-01",
+  "timestamp": 26265600,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Itasca",
+  "state": "Minnesota",
+  "latitude": 47.52522,
+  "longitude": -93.25262,
+  "location": {
+    "longitude": -93.25262,
+    "latitude": 47.52522
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 38.98,
+    "mid": 37.225,
+    "low": 35.47
+  },
+  "dew_point": 33.41,
+  "humidity": 0.9,
+  "cloud_cover": 0.98,
+  "moon_phase": 0.08,
+  "precip_intensity": 0.0015,
+  "precip_probability": 0.51,
+  "precip_type": "rain",
+  "pressure": 1016.19,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 1,
+  "visibility": 5.25,
+  "wind_bearing": 49,
+  "wind_speed": 4.64
+}

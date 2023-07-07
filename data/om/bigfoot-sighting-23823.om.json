@@ -1,0 +1,34 @@
+{
+  "reportId": "23823",
+  "title": "Man recalls seeing a large creature while driving at night near Fayetteville",
+  "date": "1987-10-01",
+  "timestamp": 560044800,
+  "observed": "I was 17 and had an 11:30 curfew.  I had left my girlfriend's house a little later than I should and was in a hurry to get home.  I traveled Howell Hill Rd to Teal Hollow Rd.  On Teal Hollow Rd I was speeding down a long straight away and saw something on the side of the road.  I thought it was a deer or cow at first, so I slowed down.  As I got closer to it, it stood up.  As I passed it I was still going fast, about 55 or 60.  I then thought it was a person who had crashed their car so I hit my brakes.  By this time I was past it.  I stoped in the road about 100 to 200 yards past it.  When I put the car in reverse to back up I could see that it had walked into the road behind me.  I probably got to within 25 to 30 yards of it when I realized it was much bigger than a person. It was dark so I do not have a great description. It scared me.  I threw the car in drive and floored it.  I drove like a bat out of heck until I got to HWY 64.  When I got home I was still shaking and still had tears in my eyes.  I do not know what I saw, but it was big, looked to be 6 1/2 to 7ft and almost half the width of my car.  20 yrs have past and I still will not drive that road anytime close to dark.  I get cold chills everytime I think about what happened.  It scared the heck out of me, whatever it was",
+  "classification": "Class A",
+  "county": "Lincoln",
+  "state": "Tennessee",
+  "latitude": 35.10615,
+  "longitude": -86.46987,
+  "location": {
+    "longitude": -86.46987,
+    "latitude": 35.10615
+  },
+  "location_details": "Teal hollow Rd. I was going west. It is a short cut road between Flintville and Fayetteville little traffic and not many homes long straights where you could go very fast without traffic or police",
+  "temperature": {
+    "high": 72.02,
+    "mid": 60.03,
+    "low": 48.04
+  },
+  "dew_point": 43.39,
+  "humidity": 0.59,
+  "cloud_cover": 0.03,
+  "moon_phase": 0.3,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1016.48,
+  "summary": "Clear throughout the day.",
+  "uv_index": 6,
+  "visibility": 9.77,
+  "wind_bearing": 354,
+  "wind_speed": 3.07
+}

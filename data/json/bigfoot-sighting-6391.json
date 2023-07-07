@@ -11,9 +11,11 @@
   "longitude": -116.9156,
   "location": "-116.9156,45.9978",
   "location_details": "I can pin point the location on any map. I was on the Idaho side of the snake river. The ridge it was on was located across the river. There was a sign we used to shoot at that said leaving Washington entering Oregon. The house is still there and being used as a hunting lodge for Chucker. The ridge was just behind the sign so it was the first ridge entering Oregon on the Snake.",
-  "temperature_high": 89.6,
-  "temperature_mid": 75.005,
-  "temperature_low": 60.41,
+  "temperature": {
+    "high": 89.6,
+    "mid": 75.005,
+    "low": 60.41
+  },
   "dew_point": 52.01,
   "humidity": 0.45,
   "cloud_cover": 0.35,

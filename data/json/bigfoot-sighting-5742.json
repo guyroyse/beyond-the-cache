@@ -11,9 +11,11 @@
   "longitude": -89.1979,
   "location": "-89.1979,37.1142",
   "location_details": "Do ya one better, here's a satellite photo of the place where it happened http://terraserver.homeadvisor.msn.com/image.aspx?Lon=-89.23263719&Lat=37.11832531&w=1&ref=G|-89.23263719,37.11832531. My place was on the left side of the road, there was only one trailor there at the time, and the feild I was in is across the treeline on the same side of the road as my house, north east of my home was the two fields, the one closest to the road was at the bottom of the hill, the creek snakes across the back of my yard and the area is definately thick brush. I have given you all the info I have, complete with a pic of the area.",
-  "temperature_high": 48.36,
-  "temperature_mid": 40.83,
-  "temperature_low": 33.3,
+  "temperature": {
+    "high": 48.36,
+    "mid": 40.83,
+    "low": 33.3
+  },
   "dew_point": 40.49,
   "humidity": 0.8,
   "cloud_cover": 0.9,

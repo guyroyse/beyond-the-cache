@@ -11,9 +11,11 @@
   "longitude": -119.9833,
   "location": "-119.9833,38.93333",
   "location_details": "south of South Lake Tahoe",
-  "temperature_high": 90.49,
-  "temperature_mid": 76.145,
-  "temperature_low": 61.8,
+  "temperature": {
+    "high": 90.49,
+    "mid": 76.145,
+    "low": 61.8
+  },
   "dew_point": 49.01,
   "humidity": 0.41,
   "cloud_cover": 0.04,

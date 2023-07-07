@@ -1,0 +1,35 @@
+{
+  "reportId": "11976",
+  "title": "Vocalizations heard near Dulce",
+  "date": "2005-06-21",
+  "timestamp": 1119312000,
+  "observed": "DULCE NEW MEXICO Around 2:55 am on the morning of June 21st, I was going outside to check the trash cans to check if there was room for more trash bags.  As I walked outside I heard what sounded like a scream coming from  over by the Navajo River area.  The scream lasted for about 15 seconds.  During the time there was absolutely no sounds, ie dogs barking, crickets, etc.  It was interesting, and kind of scary.",
+  "classification": "Class B",
+  "county": "Rio Arriba",
+  "state": "New Mexico",
+  "latitude": 36.91475,
+  "longitude": -106.9958,
+  "location": {
+    "longitude": -106.9958,
+    "latitude": 36.91475
+  },
+  "location_details": "Around the navajo river.",
+  "temperature": {
+    "high": 79.2,
+    "mid": 64.85,
+    "low": 50.5
+  },
+  "dew_point": 37.96,
+  "humidity": 0.36,
+  "cloud_cover": 0.11,
+  "moon_phase": 0.48,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.44,
+  "precip_type": "rain",
+  "pressure": 1017.83,
+  "summary": "Partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 14,
+  "visibility": 9.99,
+  "wind_bearing": 140,
+  "wind_speed": 3.9
+}

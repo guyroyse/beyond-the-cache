@@ -11,9 +11,11 @@
   "longitude": -86.00004,
   "location": "-86.00004,33.00014",
   "location_details": "Exit 166 or 266 just above Birmingham, Al.",
-  "temperature_high": 82.61,
-  "temperature_mid": 69.545,
-  "temperature_low": 56.48,
+  "temperature": {
+    "high": 82.61,
+    "mid": 69.545,
+    "low": 56.48
+  },
   "dew_point": 61.37,
   "humidity": 0.72,
   "cloud_cover": 0.3,

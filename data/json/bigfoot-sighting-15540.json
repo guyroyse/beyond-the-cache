@@ -11,9 +11,11 @@
   "longitude": -122.2333,
   "location": "-122.2333,40.8833",
   "location_details": "This was at the McCloud Campsite on Lake Shasta. It was before I knew how to drive so I do not recall highways and such. I have no idea if McCloud is still there. It was pretty popular then though, but not over corwded. For all I know it could be a huge hotel and casino by now ... I hope not. It was quite rustic at the time I was there in 1970.",
-  "temperature_high": 88,
-  "temperature_mid": 71.95,
-  "temperature_low": 55.9,
+  "temperature": {
+    "high": 88,
+    "mid": 71.95,
+    "low": 55.9
+  },
   "dew_point": 44.37,
   "humidity": 0.4,
   "cloud_cover": 0.09,

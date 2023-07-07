@@ -1,0 +1,35 @@
+{
+  "reportId": "4968",
+  "title": "Tracks found along soybean field near Edinburgh",
+  "date": "1970-11-01",
+  "timestamp": 26265600,
+  "observed": "Tracked large, human like tracks in mud along soybean field next to stand of old white birch trees laden with grape vines and underbrush. Tracks entered forest at corner of field. Tracked a 100 yards through the forest and out into a clearing. Ground was padded with dog prints in about a 50 foot circle. Blood all over the ground. Tracks led into a bog.",
+  "classification": "Class B",
+  "county": "Portage",
+  "state": "Ohio",
+  "latitude": 41.10715,
+  "longitude": -81.1414,
+  "location": {
+    "longitude": -81.1414,
+    "latitude": 41.10715
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 57.99,
+    "mid": 51.76,
+    "low": 45.53
+  },
+  "dew_point": 46.65,
+  "humidity": 0.86,
+  "cloud_cover": 0.91,
+  "moon_phase": 0.08,
+  "precip_intensity": 0.0029,
+  "precip_probability": 0.39,
+  "precip_type": "rain",
+  "pressure": 1022.53,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 1,
+  "visibility": 6.16,
+  "wind_bearing": 141,
+  "wind_speed": 0.89
+}

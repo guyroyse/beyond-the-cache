@@ -11,9 +11,11 @@
   "longitude": -80.51534,
   "location": "-80.51534,38.27832",
   "location_details": "Near Richwood, WV, in the Cranberry Back Country located inside Monongahela National Forest. The nearest road is the Highland Scenic Highway.",
-  "temperature_high": 39.39,
-  "temperature_mid": 33.805,
-  "temperature_low": 28.22,
+  "temperature": {
+    "high": 39.39,
+    "mid": 33.805,
+    "low": 28.22
+  },
   "dew_point": 30.91,
   "humidity": 0.74,
   "cloud_cover": 0.64,

@@ -11,9 +11,11 @@
   "longitude": -93,
   "location": "-93,34.08",
   "location_details": "Bismarck, Hot Spring Co. (Not far from Clark Co./Arkadelphia), Arkansas, Highway 7 North.",
-  "temperature_high": 80.72,
-  "temperature_mid": 69.33,
-  "temperature_low": 57.94,
+  "temperature": {
+    "high": 80.72,
+    "mid": 69.33,
+    "low": 57.94
+  },
   "dew_point": 55.94,
   "humidity": 0.73,
   "cloud_cover": 0.2,

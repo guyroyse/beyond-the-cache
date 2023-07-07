@@ -11,9 +11,11 @@
   "longitude": -121.845,
   "location": "-121.845,37.055",
   "location_details": "This is near the epicenter of the '89 Earthquake. The area specifically where this happened is called Hinkley Basin. This in now part of Nisine Marks State Park.",
-  "temperature_high": 71.5,
-  "temperature_mid": 61.71,
-  "temperature_low": 51.92,
+  "temperature": {
+    "high": 71.5,
+    "mid": 61.71,
+    "low": 51.92
+  },
   "dew_point": 51.23,
   "humidity": 0.72,
   "cloud_cover": 0.12,

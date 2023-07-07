@@ -11,9 +11,11 @@
   "longitude": -84.43484,
   "location": "-84.43484,32.0321",
   "location_details": "Between Plains and Richland",
-  "temperature_high": 91.82,
-  "temperature_mid": 81.075,
-  "temperature_low": 70.33,
+  "temperature": {
+    "high": 91.82,
+    "mid": 81.075,
+    "low": 70.33
+  },
   "dew_point": 67.63,
   "humidity": 0.68,
   "cloud_cover": 0.34,

@@ -11,9 +11,11 @@
   "longitude": -79.7802,
   "location": "-79.7802,38.7084",
   "location_details": "Not sure of rt # gravel road between Durbin and Bemis camped at a place called Wildell Bottom.",
-  "temperature_high": 60.54,
-  "temperature_mid": 47.615,
-  "temperature_low": 34.69,
+  "temperature": {
+    "high": 60.54,
+    "mid": 47.615,
+    "low": 34.69
+  },
   "dew_point": 42.06,
   "humidity": 0.71,
   "cloud_cover": 0.56,

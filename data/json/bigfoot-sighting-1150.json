@@ -11,9 +11,11 @@
   "longitude": -90.0329,
   "location": "-90.0329,37.8602",
   "location_details": "Hilly terrain, rural area, sparsely populated area, approximately 7 miles to nearest populated area.",
-  "temperature_high": 89.05,
-  "temperature_mid": 78.025,
-  "temperature_low": 67,
+  "temperature": {
+    "high": 89.05,
+    "mid": 78.025,
+    "low": 67
+  },
   "dew_point": 66.04,
   "humidity": 0.67,
   "cloud_cover": 0.15,

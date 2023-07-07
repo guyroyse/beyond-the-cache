@@ -11,9 +11,11 @@
   "longitude": -88.77015,
   "location": "-88.77015,32.036",
   "location_details": "I am not sure about this. My roommate was driving and knew the area well. I am not exactly sure where we were at on HWY 512",
-  "temperature_high": 80.88,
-  "temperature_mid": 65.065,
-  "temperature_low": 49.25,
+  "temperature": {
+    "high": 80.88,
+    "mid": 65.065,
+    "low": 49.25
+  },
   "dew_point": 47.77,
   "humidity": 0.64,
   "cloud_cover": 0.06,

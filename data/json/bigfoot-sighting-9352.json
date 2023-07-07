@@ -11,9 +11,11 @@
   "longitude": -122.0802,
   "location": "-122.0802,43.08929",
   "location_details": "About 10 miles west of the junction between highway #138 and #97 (Diamond Lake Junction).",
-  "temperature_high": 57.68,
-  "temperature_mid": 50.09,
-  "temperature_low": 42.5,
+  "temperature": {
+    "high": 57.68,
+    "mid": 50.09,
+    "low": 42.5
+  },
   "dew_point": 41.04,
   "humidity": 0.77,
   "cloud_cover": 0.7,

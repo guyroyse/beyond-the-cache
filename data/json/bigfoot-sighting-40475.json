@@ -11,9 +11,11 @@
   "longitude": -89.38184,
   "location": "-89.38184,41.96925",
   "location_details": "Five miles south of Oregon on Illinois Rt 2.",
-  "temperature_high": 73.78,
-  "temperature_mid": 59.3,
-  "temperature_low": 44.82,
+  "temperature": {
+    "high": 73.78,
+    "mid": 59.3,
+    "low": 44.82
+  },
   "dew_point": 45.32,
   "humidity": 0.66,
   "cloud_cover": 0,

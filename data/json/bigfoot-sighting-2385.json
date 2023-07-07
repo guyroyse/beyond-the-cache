@@ -11,9 +11,11 @@
   "longitude": -85.89175,
   "location": "-85.89175,38.14415",
   "location_details": "Pleasure Ridge Park, Kentucky (Jefferson County). Area south of Louisville and closest to Shively, Kentucky. The nearest main road would be Dixie Highway.",
-  "temperature_high": 81.81,
-  "temperature_mid": 73.185,
-  "temperature_low": 64.56,
+  "temperature": {
+    "high": 81.81,
+    "mid": 73.185,
+    "low": 64.56
+  },
   "dew_point": 59.44,
   "humidity": 0.72,
   "cloud_cover": 0.67,

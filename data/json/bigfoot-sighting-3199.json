@@ -11,9 +11,11 @@
   "longitude": -94.70278,
   "location": "-94.70278,34.52667",
   "location_details": "Land owners request that no directions be given.",
-  "temperature_high": 80.2,
-  "temperature_mid": 66.58,
-  "temperature_low": 52.96,
+  "temperature": {
+    "high": 80.2,
+    "mid": 66.58,
+    "low": 52.96
+  },
   "dew_point": 50.37,
   "humidity": 0.68,
   "cloud_cover": 0,

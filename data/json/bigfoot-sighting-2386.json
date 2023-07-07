@@ -11,9 +11,11 @@
   "longitude": -94.92667,
   "location": "-94.92667,36.4075",
   "location_details": "Creek between Spavinaw and Eucha on land owned by the city of Tulsa Oklahoma.",
-  "temperature_high": 71.65,
-  "temperature_mid": 58.57,
-  "temperature_low": 45.49,
+  "temperature": {
+    "high": 71.65,
+    "mid": 58.57,
+    "low": 45.49
+  },
   "dew_point": 27.76,
   "humidity": 0.49,
   "cloud_cover": 0.01,

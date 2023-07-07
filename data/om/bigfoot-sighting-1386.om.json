@@ -1,0 +1,35 @@
+{
+  "reportId": "1386",
+  "title": "Two unsusual man-like tracks discovered",
+  "date": "1998-05-18",
+  "timestamp": 895449600,
+  "observed": "I found two unknown animal footprints, one I stepped on and destroyed, the other an obvious right foot. The print seemed a week or more old.",
+  "classification": "Class B",
+  "county": "King",
+  "state": "Washington",
+  "latitude": 47.3958,
+  "longitude": -121.5356,
+  "location": {
+    "longitude": -121.5356,
+    "latitude": 47.3958
+  },
+  "location_details": "Bandera Airstrip. 3/4 mile from end of USFS Road off I-90. The site is 100 yards to the east (upriver) from the western end of the airstrip, within sight of I-90.",
+  "temperature": {
+    "high": 59.9,
+    "mid": 51.125,
+    "low": 42.35
+  },
+  "dew_point": 40.94,
+  "humidity": 0.72,
+  "cloud_cover": 0.73,
+  "moon_phase": 0.74,
+  "precip_intensity": 0.003,
+  "precip_probability": 0.59,
+  "precip_type": "rain",
+  "pressure": 1021.65,
+  "summary": "Mostly cloudy until evening.",
+  "uv_index": 5,
+  "visibility": 8.25,
+  "wind_bearing": 247,
+  "wind_speed": 3.26
+}

@@ -11,9 +11,11 @@
   "longitude": -122.8994,
   "location": "-122.8994,47.7442",
   "location_details": "In forest about 4-5 miles north of Brinnon. Far from any road.",
-  "temperature_high": 69.07,
-  "temperature_mid": 61.075,
-  "temperature_low": 53.08,
+  "temperature": {
+    "high": 69.07,
+    "mid": 61.075,
+    "low": 53.08
+  },
   "dew_point": 40.33,
   "humidity": 0.6,
   "cloud_cover": 0.81,

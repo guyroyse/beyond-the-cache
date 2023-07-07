@@ -1,0 +1,35 @@
+{
+  "reportId": "4917",
+  "title": "Campers hear late night \"banging\" near Oroville",
+  "date": "2002-09-07",
+  "timestamp": 1031356800,
+  "observed": "I was camping with 4 friends at Feather Falls campground several miles outside of Oroville.  We were the only ones camping there.  We stayed up late talking and what not and had gone to sleep about 1:00 AM.  Some time later, it was still dark out, I heard what sounded like a tree branch being wacked against the trunk of a tree, it had specific patterns and rhythms...but the interval of time between \"episodes\" was random...I heard similar noises from another spot in the area. I would estimate that these noises were about 300-400 yards away, maybe more.  My friends who heard it, who don't believe in anything they don't see, said it was a woodpecker.  I've heard a lot of woodpeckers, but never at that time of night, or with the irregularity of the sounds.  I didn't hear any vocalizations at all.",
+  "classification": "Class B",
+  "county": "Butte",
+  "state": "California",
+  "latitude": 39.64306,
+  "longitude": -121.2733,
+  "location": {
+    "longitude": -121.2733,
+    "latitude": 39.64306
+  },
+  "location_details": "Go to the Feather Falls trailhead.  There's a small 6 spot campground there.  We were in the 3rd or 4th spot, the only one with wood stairs leading down to it.",
+  "temperature": {
+    "high": 80.67,
+    "mid": 63.86,
+    "low": 47.05
+  },
+  "dew_point": 41.08,
+  "humidity": 0.52,
+  "cloud_cover": 0.05,
+  "moon_phase": 0.03,
+  "precip_intensity": 0.0131,
+  "precip_probability": 0.28,
+  "precip_type": "rain",
+  "pressure": 1012.96,
+  "summary": "Heavy rain in the evening.",
+  "uv_index": 7,
+  "visibility": 9.99,
+  "wind_bearing": 232,
+  "wind_speed": 1.34
+}

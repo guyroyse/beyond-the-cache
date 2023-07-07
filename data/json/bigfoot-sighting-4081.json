@@ -11,9 +11,11 @@
   "longitude": -97.45694,
   "location": "-97.45694,35.64389",
   "location_details": "Ravine at entrance to Hafer Park, at 9th and Bryant.  The ravine runs parallell to Bryant. From I-35, take Edmond Road (2nd St) west to Bryant, then south on Bryant to 9th.  This is the entrance to Hafer Park.",
-  "temperature_high": 58.84,
-  "temperature_mid": 33.03,
-  "temperature_low": 7.22,
+  "temperature": {
+    "high": 58.84,
+    "mid": 33.03,
+    "low": 7.22
+  },
   "dew_point": 23.33,
   "humidity": 0.55,
   "cloud_cover": 0.18,

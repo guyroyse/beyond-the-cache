@@ -11,9 +11,11 @@
   "longitude": -111.6992,
   "location": "-111.6992,40.3857",
   "location_details": "A mile up Grove Creek canyon, near Pleasent Grove City, Utah County, State of Utah",
-  "temperature_high": 60.42,
-  "temperature_mid": 50.715,
-  "temperature_low": 41.01,
+  "temperature": {
+    "high": 60.42,
+    "mid": 50.715,
+    "low": 41.01
+  },
   "dew_point": 28.53,
   "humidity": 0.39,
   "cloud_cover": 0.4,

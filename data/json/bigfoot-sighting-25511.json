@@ -11,9 +11,11 @@
   "longitude": -107.501,
   "location": "-107.501,37.33815",
   "location_details": "The location was up Beaver Meadows off of Bear Creek road, east of Bayfield north of Hwy 160",
-  "temperature_high": 43.5,
-  "temperature_mid": 30.865,
-  "temperature_low": 18.23,
+  "temperature": {
+    "high": 43.5,
+    "mid": 30.865,
+    "low": 18.23
+  },
   "dew_point": 10.78,
   "humidity": 0.37,
   "cloud_cover": 0.21,

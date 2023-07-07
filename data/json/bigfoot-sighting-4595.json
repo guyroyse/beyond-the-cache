@@ -11,9 +11,11 @@
   "longitude": -122.0505,
   "location": "-122.0505,44.23861",
   "location_details": "Highway 126 approx 10 miles East of McKenzie Bridge",
-  "temperature_high": 51.18,
-  "temperature_mid": 42.325,
-  "temperature_low": 33.47,
+  "temperature": {
+    "high": 51.18,
+    "mid": 42.325,
+    "low": 33.47
+  },
   "dew_point": 35.66,
   "humidity": 0.72,
   "cloud_cover": 0.85,

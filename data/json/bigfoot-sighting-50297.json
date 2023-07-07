@@ -11,9 +11,11 @@
   "longitude": -111.3637,
   "location": "-111.3637,45.7922",
   "location_details": "Approximately 4 miles west of Belgrade, Montana and 1 mile south of I-90.  3/4 of a mile east of the West Gallatin River.",
-  "temperature_high": 16.35,
-  "temperature_mid": 6.145,
-  "temperature_low": -4.06,
+  "temperature": {
+    "high": 16.35,
+    "mid": 6.145,
+    "low": -4.06
+  },
   "dew_point": -1.69,
   "humidity": 0.74,
   "cloud_cover": 0.02,

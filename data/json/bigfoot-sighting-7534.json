@@ -11,9 +11,11 @@
   "longitude": -97.54944,
   "location": "-97.54944,32.17194",
   "location_details": "On the Brazos River where it flows into Lake Whitney.",
-  "temperature_high": 52.8,
-  "temperature_mid": 41,
-  "temperature_low": 29.2,
+  "temperature": {
+    "high": 52.8,
+    "mid": 41,
+    "low": 29.2
+  },
   "dew_point": 22.02,
   "humidity": 0.45,
   "cloud_cover": 0.01,

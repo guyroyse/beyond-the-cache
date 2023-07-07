@@ -11,9 +11,11 @@
   "longitude": -91.51528,
   "location": "-91.51528,35.69958",
   "location_details": "The area is near the small community of Salado. About 10 miles from Batesville and about 10 miles from Oil Trough going the other direction.",
-  "temperature_high": 49.79,
-  "temperature_mid": 37.52,
-  "temperature_low": 25.25,
+  "temperature": {
+    "high": 49.79,
+    "mid": 37.52,
+    "low": 25.25
+  },
   "dew_point": 21.37,
   "humidity": 0.48,
   "cloud_cover": 0.18,

@@ -11,9 +11,11 @@
   "longitude": -119.2916,
   "location": "-119.2916,34.625",
   "location_details": "Pine Mountain campground.",
-  "temperature_high": 77.3,
-  "temperature_mid": 68.6,
-  "temperature_low": 59.9,
+  "temperature": {
+    "high": 77.3,
+    "mid": 68.6,
+    "low": 59.9
+  },
   "dew_point": 54.28,
   "humidity": 0.65,
   "cloud_cover": 0.31,

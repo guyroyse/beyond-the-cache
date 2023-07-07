@@ -11,9 +11,11 @@
   "longitude": -90.23058,
   "location": "-90.23058,37.40025",
   "location_details": "It's about 15 min out of Farmington.",
-  "temperature_high": 72.37,
-  "temperature_mid": 60.73,
-  "temperature_low": 49.09,
+  "temperature": {
+    "high": 72.37,
+    "mid": 60.73,
+    "low": 49.09
+  },
   "dew_point": 46.13,
   "humidity": 0.69,
   "cloud_cover": 0.02,

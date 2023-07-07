@@ -11,9 +11,11 @@
   "longitude": -116.1842,
   "location": "-116.1842,48.15585",
   "location_details": "hwy 200 spring creek road",
-  "temperature_high": 36.9,
-  "temperature_mid": 28.325,
-  "temperature_low": 19.75,
+  "temperature": {
+    "high": 36.9,
+    "mid": 28.325,
+    "low": 19.75
+  },
   "dew_point": 13.69,
   "humidity": 0.56,
   "cloud_cover": 0.03,

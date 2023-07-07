@@ -1,0 +1,35 @@
+{
+  "reportId": "22017",
+  "title": "Possible wood knocks heard while staying at Wallace Falls State Park",
+  "date": "2007-10-14",
+  "timestamp": 1192320000,
+  "observed": "I was staying in a cabin in Washington State. Around 2 in the morning, I heard wood knockings. I also heard dogs barking.I really couldn't tell you how far off the sounds came from.I do know that there were some houses upstream from the sounds.",
+  "classification": "Class B",
+  "county": "Snohomish",
+  "state": "Washington",
+  "latitude": 47.86405,
+  "longitude": -121.6738,
+  "location": {
+    "longitude": -121.6738,
+    "latitude": 47.86405
+  },
+  "location_details": "Wallace Falls State Park",
+  "temperature": {
+    "high": 61.14,
+    "mid": 55.51,
+    "low": 49.88
+  },
+  "dew_point": 45.99,
+  "humidity": 0.81,
+  "cloud_cover": 0.34,
+  "moon_phase": 0.11,
+  "precip_intensity": 0.0006,
+  "precip_probability": 0.55,
+  "precip_type": "rain",
+  "pressure": 1012.4,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 2,
+  "visibility": 7.85,
+  "wind_bearing": 155,
+  "wind_speed": 1.78
+}

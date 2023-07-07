@@ -11,9 +11,11 @@
   "longitude": -80.8595,
   "location": "-80.8595,28.3725",
   "location_details": "Brevard County (Cocoa), Florida.  Around 11pm at night on Nova Road which is off of Route 520. Nova Road is 30 miles long and extremely desolate (swamps and cattle farms).",
-  "temperature_high": 86.43,
-  "temperature_mid": 80.6,
-  "temperature_low": 74.77,
+  "temperature": {
+    "high": 86.43,
+    "mid": 80.6,
+    "low": 74.77
+  },
   "dew_point": 73.88,
   "humidity": 0.77,
   "cloud_cover": 0.45,

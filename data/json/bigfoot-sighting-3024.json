@@ -11,9 +11,11 @@
   "longitude": -121.8,
   "location": "-121.8,46.1333",
   "location_details": "Sounds heard while at Tillicum campsite located about 4.5 miles NE of Skookum meadow.  Possible prints found on deer trail off of hiking trail 21 while going to the meadow.",
-  "temperature_high": 89.01,
-  "temperature_mid": 74.125,
-  "temperature_low": 59.24,
+  "temperature": {
+    "high": 89.01,
+    "mid": 74.125,
+    "low": 59.24
+  },
   "dew_point": 55.71,
   "humidity": 0.61,
   "cloud_cover": 0.19,

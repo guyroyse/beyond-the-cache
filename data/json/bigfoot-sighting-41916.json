@@ -11,9 +11,11 @@
   "longitude": -89.49155,
   "location": "-89.49155,37.68485",
   "location_details": "Happy Hollow road south of Gorham.",
-  "temperature_high": 53.44,
-  "temperature_mid": 44.49,
-  "temperature_low": 35.54,
+  "temperature": {
+    "high": 53.44,
+    "mid": 44.49,
+    "low": 35.54
+  },
   "dew_point": 33.88,
   "humidity": 0.68,
   "cloud_cover": 0.55,

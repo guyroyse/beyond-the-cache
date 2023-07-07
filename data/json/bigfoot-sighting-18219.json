@@ -11,9 +11,11 @@
   "longitude": -94.856,
   "location": "-94.856,39.859",
   "location_details": "\"Monkey Mountain\" along Missouri River Bluffs, east of Missouri River",
-  "temperature_high": 94.18,
-  "temperature_mid": 83.83,
-  "temperature_low": 73.48,
+  "temperature": {
+    "high": 94.18,
+    "mid": 83.83,
+    "low": 73.48
+  },
   "dew_point": 67.53,
   "humidity": 0.62,
   "cloud_cover": 0.01,

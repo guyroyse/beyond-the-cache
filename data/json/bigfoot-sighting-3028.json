@@ -11,9 +11,11 @@
   "longitude": -86.6333,
   "location": "-86.6333,34.4881",
   "location_details": "Off of Hiwaay 231South, out of Huntsville towards Arab. Take a right on Apple Grove road to Water Tower Road, Left onto Darden Drive that winds around to the property on the edge of the bluff,",
-  "temperature_high": 89,
-  "temperature_mid": 76.34,
-  "temperature_low": 63.68,
+  "temperature": {
+    "high": 89,
+    "mid": 76.34,
+    "low": 63.68
+  },
   "dew_point": 59.64,
   "humidity": 0.6,
   "cloud_cover": 0.06,

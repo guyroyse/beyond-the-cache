@@ -1,0 +1,35 @@
+{
+  "reportId": "28820",
+  "title": "Man recounts sighting from his teens near Edinburg",
+  "date": "1994-02-12",
+  "timestamp": 761011200,
+  "observed": "winter 1994 jay lake area west branch state park a friend and i were fishing a pond. the pond was mostly frozen over except for a spot in the middle which we were casting bait into. i dont know how long we were fishing but across the pond a figure stood up from the shoreline area and walked up a steep hill when it got to the top it turned back to look at us, the figure was large covered with hair and walked on two legs, it was winter the pond was frozen and the figure wore no clothes so theres noway it was a human we were arround 15 yrs old so we took off since we were scarred by this encouter. we viewd the figure for maybe 1 or 2 minutes",
+  "classification": "Class A",
+  "county": "Portage",
+  "state": "Ohio",
+  "latitude": 41.15384,
+  "longitude": -81.1124,
+  "location": {
+    "longitude": -81.1124,
+    "latitude": 41.15384
+  },
+  "location_details": "greenleaf rd at rt 5 across railroad tracks into woods pond at horse area",
+  "temperature": {
+    "high": 37.71,
+    "mid": 33.53,
+    "low": 29.35
+  },
+  "dew_point": 22.82,
+  "humidity": 0.8,
+  "cloud_cover": 0.84,
+  "moon_phase": 0.07,
+  "precip_intensity": 0.0006,
+  "precip_probability": 0.81,
+  "precip_type": "snow",
+  "pressure": 1021.47,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 7.71,
+  "wind_bearing": 123,
+  "wind_speed": 5.46
+}

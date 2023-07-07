@@ -11,9 +11,11 @@
   "longitude": -77.9407,
   "location": "-77.9407,39.5392",
   "location_details": "Knipetown Road about seven miles down Route 11 north approximately 7 miles north of Martinsburg, WV and to the west of Route 11",
-  "temperature_high": 87.51,
-  "temperature_mid": 78.83,
-  "temperature_low": 70.15,
+  "temperature": {
+    "high": 87.51,
+    "mid": 78.83,
+    "low": 70.15
+  },
   "dew_point": 67.96,
   "humidity": 0.71,
   "cloud_cover": 0.24,

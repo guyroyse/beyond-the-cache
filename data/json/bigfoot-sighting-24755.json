@@ -11,9 +11,11 @@
   "longitude": -121.6548,
   "location": "-121.6548,47.48176",
   "location_details": "Travel east on SE Middle Fork Road where it turns into NFD 5060 Road then heads east into the Middle Fork Canyon.  The logging road where the sighting took place, was off the NFD 5060 Road.",
-  "temperature_high": 45.52,
-  "temperature_mid": 44.325,
-  "temperature_low": 43.13,
+  "temperature": {
+    "high": 45.52,
+    "mid": 44.325,
+    "low": 43.13
+  },
   "dew_point": 38.97,
   "humidity": 0.86,
   "cloud_cover": 0.97,

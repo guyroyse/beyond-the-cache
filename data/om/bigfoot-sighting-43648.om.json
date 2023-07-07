@@ -1,0 +1,35 @@
+{
+  "reportId": "43648",
+  "title": "Memory told of possible activity while trapping in Horicon Marsh",
+  "date": "1975-11-01",
+  "timestamp": 184032000,
+  "observed": "It was around 1975, a friend's family owned 80 acres next to a national wildlife refuge. My friend and I had run a trap line about a quarter mile or so and checked it daily after school. On one occasion after returning to our vehicle we heard movement at the top of the hill, roughly 80 yards or so. and a smell that to this day I've never smelled again. A rotten egg sulphur smell that was over powering. We left quickly and didn't run a trap line for quite awhile. Although this was quite awhile ago its the area that's key. This happened next to one of, if not the biggest national wildlife refuge areas, Horicon Marsh. If such a thing as Bigfoot exists, and I believe they do, you probably won't find a better place in the US because a lot of it is restricted, no hunting.Check it out it will not disappoint, the place is huge and scary.",
+  "classification": "Class B",
+  "county": "Dodge",
+  "state": "Wisconsin",
+  "latitude": 43.425,
+  "longitude": -88.68,
+  "location": {
+    "longitude": -88.68,
+    "latitude": 43.425
+  },
+  "location_details": "The Horicon Marsh is a huge area with many side roads leading to it, county trunk is just east of Waupun, has several roads into the marsh.",
+  "temperature": {
+    "high": 64.67,
+    "mid": 54.575,
+    "low": 44.48
+  },
+  "dew_point": 45.68,
+  "humidity": 0.73,
+  "cloud_cover": 0.49,
+  "moon_phase": 0.93,
+  "precip_intensity": 0.0041,
+  "precip_probability": 0.34,
+  "precip_type": "rain",
+  "pressure": 1013.45,
+  "summary": "Mostly cloudy until afternoon.",
+  "uv_index": 2,
+  "visibility": 8.18,
+  "wind_bearing": 231,
+  "wind_speed": 9.34
+}

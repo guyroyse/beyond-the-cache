@@ -11,9 +11,11 @@
   "longitude": -86.45915,
   "location": "-86.45915,36.68937",
   "location_details": "I 65 S left on 100 4th rd to right go to stop sign take a left there is a bridge and thats where it was to the left of the bridge is where we were.",
-  "temperature_high": 101.67,
-  "temperature_mid": 88.135,
-  "temperature_low": 74.6,
+  "temperature": {
+    "high": 101.67,
+    "mid": 88.135,
+    "low": 74.6
+  },
   "dew_point": 64.29,
   "humidity": 0.52,
   "cloud_cover": 0.16,

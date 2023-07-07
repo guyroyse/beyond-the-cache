@@ -11,9 +11,11 @@
   "longitude": -82.0443,
   "location": "-82.0443,30.71004",
   "location_details": "I have found the location on google earth, we were at 30degrees 42'18.54\" N 82 degrees 02'16.20\"W elevation 11ft",
-  "temperature_high": 65.83,
-  "temperature_mid": 61.88,
-  "temperature_low": 57.93,
+  "temperature": {
+    "high": 65.83,
+    "mid": 61.88,
+    "low": 57.93
+  },
   "dew_point": 58.27,
   "humidity": 0.93,
   "cloud_cover": 0.86,

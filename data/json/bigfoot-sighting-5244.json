@@ -11,9 +11,11 @@
   "longitude": -88.7829,
   "location": "-88.7829,45.56326",
   "location_details": "Highway 8 runs between Crandon and Laona (approximately 13 miles between them.) (DN)",
-  "temperature_high": 89.12,
-  "temperature_mid": 78.71,
-  "temperature_low": 68.3,
+  "temperature": {
+    "high": 89.12,
+    "mid": 78.71,
+    "low": 68.3
+  },
   "dew_point": 67.11,
   "humidity": 0.7,
   "cloud_cover": 0.54,

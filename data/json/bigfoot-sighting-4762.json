@@ -11,9 +11,11 @@
   "longitude": -81.1351,
   "location": "-81.1351,41.5325",
   "location_details": "I don't remember the exact directions to the camp ground or even the name, it was way back. My house on the other hand is right on state rt 322 with an open field and woods behind it.  They recently began building in some of the woods but it would still be somewhat small town, bordering on rural",
-  "temperature_high": 89.53,
-  "temperature_mid": 81.75,
-  "temperature_low": 73.97,
+  "temperature": {
+    "high": 89.53,
+    "mid": 81.75,
+    "low": 73.97
+  },
   "dew_point": 65.82,
   "humidity": 0.69,
   "cloud_cover": 0.32,

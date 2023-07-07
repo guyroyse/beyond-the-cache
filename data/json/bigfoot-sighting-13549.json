@@ -11,9 +11,11 @@
   "longitude": -121.9167,
   "location": "-121.9167,40.4999",
   "location_details": "Start from Redding ,California ,Go HWY 44 East just past Shingletown, California.",
-  "temperature_high": 50.58,
-  "temperature_mid": 42.43,
-  "temperature_low": 34.28,
+  "temperature": {
+    "high": 50.58,
+    "mid": 42.43,
+    "low": 34.28
+  },
   "dew_point": 42.01,
   "humidity": 0.87,
   "cloud_cover": 0.7,

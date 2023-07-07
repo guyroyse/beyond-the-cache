@@ -11,9 +11,11 @@
   "longitude": -92.3104,
   "location": "-92.3104,31.6825",
   "location_details": "On file w/BFRO",
-  "temperature_high": 42.58,
-  "temperature_mid": 39.975,
-  "temperature_low": 37.37,
+  "temperature": {
+    "high": 42.58,
+    "mid": 39.975,
+    "low": 37.37
+  },
   "dew_point": 35.7,
   "humidity": 0.89,
   "cloud_cover": 0.84,

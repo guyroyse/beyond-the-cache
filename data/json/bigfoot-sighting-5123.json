@@ -11,9 +11,11 @@
   "longitude": -92.1527,
   "location": "-92.1527,36.7548",
   "location_details": "Mark Twain National Forest Campground along the North Fork in the Devil's Backbone recreation area just outside Dora, MO in Douglas County off route CC. Campite #20 in the \"Pine\" Loop.",
-  "temperature_high": 56.88,
-  "temperature_mid": 54.275,
-  "temperature_low": 51.67,
+  "temperature": {
+    "high": 56.88,
+    "mid": 54.275,
+    "low": 51.67
+  },
   "dew_point": 48.97,
   "humidity": 0.88,
   "cloud_cover": 0.93,

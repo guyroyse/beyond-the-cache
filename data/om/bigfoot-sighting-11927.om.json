@@ -1,0 +1,35 @@
+{
+  "reportId": "11927",
+  "title": "Two witnesses hear a possible vocalization in woods near creek Bay City.",
+  "date": "2005-02-01",
+  "timestamp": 1107216000,
+  "observed": "One day at about 3:00 p.m. my friend and I, Shaun, were out riding his four wheeler back in the woods.  We stopped and turned off the four- wheeler for about 20 minutes and went walking.  When we got back we were just about to turn on the four wheeler when we heard a call that sounded like some kind of primate call.  Then I remembered when I was watching the history channel about bigfoot and the people recorded a call from bigfoot and they played it and it sounded just like what I just heard.",
+  "classification": "Class B",
+  "county": "Matagorda",
+  "state": "Texas",
+  "latitude": 29,
+  "longitude": -95.5,
+  "location": {
+    "longitude": -95.5,
+    "latitude": 29
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 46.59,
+    "mid": 45.515,
+    "low": 44.44
+  },
+  "dew_point": 44.01,
+  "humidity": 0.94,
+  "cloud_cover": 1,
+  "moon_phase": 0.73,
+  "precip_intensity": 0.0218,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1019.55,
+  "summary": "Rain in the morning.",
+  "uv_index": 3,
+  "visibility": 8.02,
+  "wind_bearing": 7,
+  "wind_speed": 10.91
+}

@@ -11,9 +11,11 @@
   "longitude": -112.24,
   "location": "-112.24,36.65",
   "location_details": "10 MILES SOUTH OF JACOB LAKE, ON FS 212 TO THE WEST THEN NORTH ON 282 ABOUT 1 MILE.",
-  "temperature_high": 74.31,
-  "temperature_mid": 59.7,
-  "temperature_low": 45.09,
+  "temperature": {
+    "high": 74.31,
+    "mid": 59.7,
+    "low": 45.09
+  },
   "dew_point": 26.2,
   "humidity": 0.27,
   "cloud_cover": 0,

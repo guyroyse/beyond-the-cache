@@ -11,9 +11,11 @@
   "longitude": -122.3574,
   "location": "-122.3574,46.878",
   "location_details": "I've heard many of the animals that inhabit this area, but I've never heard this before.",
-  "temperature_high": 77.21,
-  "temperature_mid": 63.29,
-  "temperature_low": 49.37,
+  "temperature": {
+    "high": 77.21,
+    "mid": 63.29,
+    "low": 49.37
+  },
   "dew_point": 46.5,
   "humidity": 0.67,
   "cloud_cover": 0.03,

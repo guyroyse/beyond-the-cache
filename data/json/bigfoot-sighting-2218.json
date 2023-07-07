@@ -11,9 +11,11 @@
   "longitude": -82.24471,
   "location": "-82.24471,33.3646",
   "location_details": "US Army Signal School-Fort Gordon-Small Arms Impact Area.  This was in a ravine where a spring fed rill forms the headwaters of South Prong Creek. It is the center branch of three which form the creek.",
-  "temperature_high": 53.5,
-  "temperature_mid": 41.96,
-  "temperature_low": 30.42,
+  "temperature": {
+    "high": 53.5,
+    "mid": 41.96,
+    "low": 30.42
+  },
   "dew_point": 20.22,
   "humidity": 0.58,
   "cloud_cover": 0.13,

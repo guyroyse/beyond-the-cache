@@ -11,9 +11,11 @@
   "longitude": -121.6594,
   "location": "-121.6594,47.1608",
   "location_details": "To get there go up highway 410 eastbound. Go through Greenwater, take the \"_\" FS road up onto Huckleberry Mountain. Note:  Witness did not want exact location of events made public for reasons of public safety.  BFRO Investigator has verified the exact location witness described.",
-  "temperature_high": 70.46,
-  "temperature_mid": 59.22,
-  "temperature_low": 47.98,
+  "temperature": {
+    "high": 70.46,
+    "mid": 59.22,
+    "low": 47.98
+  },
   "dew_point": 47.54,
   "humidity": 0.65,
   "cloud_cover": 0.35,

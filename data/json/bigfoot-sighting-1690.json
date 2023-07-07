@@ -11,9 +11,11 @@
   "longitude": -121.1458,
   "location": "-121.1458,46.5602",
   "location_details": "North slope of Divide Ridge, South of Rimrock lake, north of Strobach Springs at the \"headwaters\" of Short and Dirty Creek.",
-  "temperature_high": 53.34,
-  "temperature_mid": 42.39,
-  "temperature_low": 31.44,
+  "temperature": {
+    "high": 53.34,
+    "mid": 42.39,
+    "low": 31.44
+  },
   "dew_point": 32.63,
   "humidity": 0.78,
   "cloud_cover": 0.1,

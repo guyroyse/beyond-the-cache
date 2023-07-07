@@ -11,9 +11,11 @@
   "longitude": -96.46025,
   "location": "-96.46025,42.47356",
   "location_details": "Outside of South Sioux City NE on Golf road about 50 yards past Elgin ave.",
-  "temperature_high": 83.62,
-  "temperature_mid": 68.83,
-  "temperature_low": 54.04,
+  "temperature": {
+    "high": 83.62,
+    "mid": 68.83,
+    "low": 54.04
+  },
   "dew_point": 57.63,
   "humidity": 0.68,
   "cloud_cover": 0.1,

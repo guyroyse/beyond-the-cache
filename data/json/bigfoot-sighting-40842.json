@@ -11,9 +11,11 @@
   "longitude": -89.48825,
   "location": "-89.48825,37.68393",
   "location_details": "Three miles south of Gorham along Illinois Rt 3 go west on Happy Hollow Road.",
-  "temperature_high": 79.57,
-  "temperature_mid": 69.125,
-  "temperature_low": 58.68,
+  "temperature": {
+    "high": 79.57,
+    "mid": 69.125,
+    "low": 58.68
+  },
   "dew_point": 58.96,
   "humidity": 0.78,
   "cloud_cover": 0.23,

@@ -11,9 +11,11 @@
   "longitude": -117.6454,
   "location": "-117.6454,47.981",
   "location_details": "Until I show these pictures to someone, I'd rather not, but when the time comes, I can show you exactly where the prints came out of the woods and aproximately where they went back in.",
-  "temperature_high": 49.35,
-  "temperature_mid": 45.25,
-  "temperature_low": 41.15,
+  "temperature": {
+    "high": 49.35,
+    "mid": 45.25,
+    "low": 41.15
+  },
   "dew_point": 44.3,
   "humidity": 0.91,
   "cloud_cover": 0.95,

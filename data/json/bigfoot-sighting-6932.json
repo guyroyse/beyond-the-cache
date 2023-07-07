@@ -11,9 +11,11 @@
   "longitude": -91.45889,
   "location": "-91.45889,35.64861",
   "location_details": "oil trough arkansas 4 miles from newark arkansas near the oiltrough elementry school go to the public fishing access in oil trough it is well marked. Bypass the fishing access and the old ferry concrete bridge.  Continue down the dirt rowad until it ends about 0.5 miles.  Corn and soybean to your left.  You should be at the river.  Look Toward the treeline to your right.  Make your way into the treeline and you should come out into a wash across the river.  There I saw the creature.",
-  "temperature_high": 63.58,
-  "temperature_mid": 50.765,
-  "temperature_low": 37.95,
+  "temperature": {
+    "high": 63.58,
+    "mid": 50.765,
+    "low": 37.95
+  },
   "dew_point": 28.26,
   "humidity": 0.39,
   "cloud_cover": 0.01,

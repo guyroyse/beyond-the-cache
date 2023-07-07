@@ -11,9 +11,11 @@
   "longitude": -81.33134,
   "location": "-81.33134,41.15845",
   "location_details": "The area is located on Rt.59 just east of the Kent State University campus.",
-  "temperature_high": 40.02,
-  "temperature_mid": 39.045,
-  "temperature_low": 38.07,
+  "temperature": {
+    "high": 40.02,
+    "mid": 39.045,
+    "low": 38.07
+  },
   "dew_point": 32.09,
   "humidity": 0.83,
   "cloud_cover": 0.95,

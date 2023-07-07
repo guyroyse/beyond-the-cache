@@ -11,9 +11,11 @@
   "longitude": -96.01464,
   "location": "-96.01464,41.48453",
   "location_details": "If you go north on I-29 to Loveland Iowa, then go west about 5 miles. the camp ground is right on the Missouri river directly south of Desoto Bend. It's about 10 miles north of Omaha Neb. as the Crow flies.",
-  "temperature_high": 50.85,
-  "temperature_mid": 34.925,
-  "temperature_low": 19,
+  "temperature": {
+    "high": 50.85,
+    "mid": 34.925,
+    "low": 19
+  },
   "dew_point": 25,
   "humidity": 0.71,
   "cloud_cover": 0.13,

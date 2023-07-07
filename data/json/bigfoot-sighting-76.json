@@ -11,9 +11,11 @@
   "longitude": -92.25139,
   "location": "-92.25139,36.37139",
   "location_details": "THE LOCATION WAS IN THE GOVERNMENT TRACK LAND WHICH SURROUNDS LAKE NORFOLK.  THE LAKE IS A MAN MADE LAKE AND THERE ARE NO HOMES ON THE WATER FRONT, AS THE US/GOVT OWNS THE LAND.  THIS INCIDENT WAS EAST OF THE 101 BRIDGE BUT NORTH OF THE(62?)BRIDGE.  THE AREA IS DENSE FOREST.",
-  "temperature_high": 87.64,
-  "temperature_mid": 79.38,
-  "temperature_low": 71.12,
+  "temperature": {
+    "high": 87.64,
+    "mid": 79.38,
+    "low": 71.12
+  },
   "dew_point": 70.15,
   "humidity": 0.81,
   "cloud_cover": 0.39,

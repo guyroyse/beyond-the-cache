@@ -11,9 +11,11 @@
   "longitude": -106.3681,
   "location": "-106.3681,37.1137",
   "location_details": "Highway 17...Rio Grande National Forest...midway up the grade rising from a small bridge over the Conejos River to La Manga Pass.",
-  "temperature_high": 52.77,
-  "temperature_mid": 39.07,
-  "temperature_low": 25.37,
+  "temperature": {
+    "high": 52.77,
+    "mid": 39.07,
+    "low": 25.37
+  },
   "dew_point": 16.48,
   "humidity": 0.36,
   "cloud_cover": 0.25,

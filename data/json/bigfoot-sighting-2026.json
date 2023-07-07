@@ -11,9 +11,11 @@
   "longitude": -121.7115,
   "location": "-121.7115,45.32301",
   "location_details": "We were camping within a 5 minute walk of Timberline Lodge, on Mt Hood",
-  "temperature_high": 71.35,
-  "temperature_mid": 65.3,
-  "temperature_low": 59.25,
+  "temperature": {
+    "high": 71.35,
+    "mid": 65.3,
+    "low": 59.25
+  },
   "dew_point": 57.43,
   "humidity": 0.79,
   "cloud_cover": 0.82,

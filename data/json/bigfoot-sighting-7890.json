@@ -11,9 +11,11 @@
   "longitude": -76.17366,
   "location": "-76.17366,42.40489",
   "location_details": "State land area known as \"Michigan hill\" in Richford , NY  main road )travel out of newark valley on route 36 , you turn right of route 36 just after fishing access area. go about 1/4 mile and hang a right on michigan hill road go up th mountain approx 3 or 4 miles and hang left on access road.",
-  "temperature_high": 21.81,
-  "temperature_mid": 15.95,
-  "temperature_low": 10.09,
+  "temperature": {
+    "high": 21.81,
+    "mid": 15.95,
+    "low": 10.09
+  },
   "dew_point": 9.42,
   "humidity": 0.77,
   "cloud_cover": 0.61,

@@ -11,9 +11,11 @@
   "longitude": -123.5439,
   "location": "-123.5439,46.33425",
   "location_details": "This sighting took place at the top of KM Hill on Highway 4 traveling from Naselle, WA towards (eastbound) Cathlamet, WA.  The location is between the beginning of the slide area to the end of the slide area traveling eastbound.  The slide area was fixed a few years ago and is marked by the hydroseeded grassed area.",
-  "temperature_high": 52.42,
-  "temperature_mid": 45.195,
-  "temperature_low": 37.97,
+  "temperature": {
+    "high": 52.42,
+    "mid": 45.195,
+    "low": 37.97
+  },
   "dew_point": 40.05,
   "humidity": 0.81,
   "cloud_cover": 0.73,

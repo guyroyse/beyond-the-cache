@@ -11,9 +11,11 @@
   "longitude": -110.825,
   "location": "-110.825,40.825",
   "location_details": "Head south on highway 150 from evanston.  about 2 miles .75-1.25 miles south of the ranger station turn left on the christmas meadows road.  about half a mile turn right and then another immediate right and travel about .25-.5 miles to where we were at.",
-  "temperature_high": 62.92,
-  "temperature_mid": 51.46,
-  "temperature_low": 40,
+  "temperature": {
+    "high": 62.92,
+    "mid": 51.46,
+    "low": 40
+  },
   "dew_point": 30.32,
   "humidity": 0.62,
   "cloud_cover": 0.48,

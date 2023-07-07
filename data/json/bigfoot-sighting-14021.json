@@ -11,9 +11,11 @@
   "longitude": -81.35876,
   "location": "-81.35876,27.37341",
   "location_details": "it was at this place in the woods of lake placid with atv tracks",
-  "temperature_high": 76.55,
-  "temperature_mid": 65.205,
-  "temperature_low": 53.86,
+  "temperature": {
+    "high": 76.55,
+    "mid": 65.205,
+    "low": 53.86
+  },
   "dew_point": 53.18,
   "humidity": 0.64,
   "cloud_cover": 0.08,

@@ -11,9 +11,11 @@
   "longitude": -123.2022,
   "location": "-123.2022,47.4028",
   "location_details": "It was Division 17 near lot 27 down the hill by the lake.  My parents no longer own the property but I do know a lot of homes have been built there since.",
-  "temperature_high": 79.11,
-  "temperature_mid": 65.9,
-  "temperature_low": 52.69,
+  "temperature": {
+    "high": 79.11,
+    "mid": 65.9,
+    "low": 52.69
+  },
   "dew_point": 51.73,
   "humidity": 0.61,
   "cloud_cover": 0.23,

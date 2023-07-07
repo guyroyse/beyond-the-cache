@@ -11,9 +11,11 @@
   "longitude": -93.2512,
   "location": "-93.2512,31.1458",
   "location_details": "In a wooded area just outside of a housing complex for military residents and their families of Fort Polk (near Leesville)",
-  "temperature_high": 89.84,
-  "temperature_mid": 81.24,
-  "temperature_low": 72.64,
+  "temperature": {
+    "high": 89.84,
+    "mid": 81.24,
+    "low": 72.64
+  },
   "dew_point": 74.92,
   "humidity": 0.83,
   "cloud_cover": 0.66,

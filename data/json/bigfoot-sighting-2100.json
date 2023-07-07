@@ -11,9 +11,11 @@
   "longitude": -84.20175,
   "location": "-84.20175,33.97005",
   "location_details": "7 miles from Chattahoochee River, a couple miles from Norcross.",
-  "temperature_high": 81.98,
-  "temperature_mid": 70.35,
-  "temperature_low": 58.72,
+  "temperature": {
+    "high": 81.98,
+    "mid": 70.35,
+    "low": 58.72
+  },
   "dew_point": 55.71,
   "humidity": 0.65,
   "cloud_cover": 0.23,

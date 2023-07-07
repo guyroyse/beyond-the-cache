@@ -11,9 +11,11 @@
   "longitude": -80.76735,
   "location": "-80.76735,41.36755",
   "location_details": "About 1.5 miles from Mosquito lake",
-  "temperature_high": 26.91,
-  "temperature_mid": 20.075,
-  "temperature_low": 13.24,
+  "temperature": {
+    "high": 26.91,
+    "mid": 20.075,
+    "low": 13.24
+  },
   "dew_point": 17.52,
   "humidity": 0.79,
   "cloud_cover": 0.98,

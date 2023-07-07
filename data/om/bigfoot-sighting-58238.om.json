@@ -1,0 +1,34 @@
+{
+  "reportId": "58238",
+  "title": "Nighttime road crossing between Rochester and East Lake Drive",
+  "date": "2017-09-16",
+  "timestamp": 1505520000,
+  "observed": "On September 16, 2017 I left work early. I clocked out around 4:45 a.m., yes a.m. I was driving on Rochester Road getting close to the stoplight at Oak Hill Road when from the left side of the road a two legged creature ran across the road in front of me. It was still dark out and I had my lights on, the creature was just at the end of where my lights hit. It didn't seem to be extremely tall, but what caught my eye was the huge muscles on its legs and arms. It didn't appear to have much of a neck, like the head was sitting on the shoulders. I could see that it was not wearing any clothes, but also did not see long hair either. I would estimate it to be between 6'-6'5\". It was a dark dirty black/grey color. It disappeared quickly into the cornfield. This all runs extremely close to the river. The area it came from always has multiple deer feeding and crossing the road.  I always drive slow and cautiously on this stretch of road. ",
+  "classification": "Class A",
+  "county": "Sangamon",
+  "state": "Illinois",
+  "latitude": 39.75318,
+  "longitude": -89.56226,
+  "location": {
+    "longitude": -89.56226,
+    "latitude": 39.75318
+  },
+  "location_details": "Several hundred feet east of the South Fork of the Sangamon River on Rochester Road, between East Lake Drive and the village of Rochester.",
+  "temperature": {
+    "high": 88.54,
+    "mid": 78.245,
+    "low": 67.95
+  },
+  "dew_point": 63.54,
+  "humidity": 0.69,
+  "cloud_cover": 0.08,
+  "moon_phase": 0.88,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1017.23,
+  "summary": "Partly cloudy in the afternoon.",
+  "uv_index": 5,
+  "visibility": 9.91,
+  "wind_bearing": 173,
+  "wind_speed": 5.75
+}

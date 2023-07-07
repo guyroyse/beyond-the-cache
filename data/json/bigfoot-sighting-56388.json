@@ -11,9 +11,11 @@
   "longitude": -90.83465,
   "location": "-90.83465,37.30427",
   "location_details": "County road (removed for privacy)",
-  "temperature_high": 75,
-  "temperature_mid": 64.865,
-  "temperature_low": 54.73,
+  "temperature": {
+    "high": 75,
+    "mid": 64.865,
+    "low": 54.73
+  },
   "dew_point": 53.14,
   "humidity": 0.68,
   "cloud_cover": 0.11,

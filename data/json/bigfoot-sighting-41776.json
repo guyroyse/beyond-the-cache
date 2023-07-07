@@ -11,9 +11,11 @@
   "longitude": -86.5549,
   "location": "-86.5549,36.8066",
   "location_details": "Octagon Hall 6040 Bowling Green Rd Franklin, Ky",
-  "temperature_high": 83.51,
-  "temperature_mid": 73.41,
-  "temperature_low": 63.31,
+  "temperature": {
+    "high": 83.51,
+    "mid": 73.41,
+    "low": 63.31
+  },
   "dew_point": 56.88,
   "humidity": 0.59,
   "cloud_cover": 0.12,

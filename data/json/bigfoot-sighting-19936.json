@@ -11,7 +11,9 @@
   "longitude": -87.5034,
   "location": "-87.5034,46.52545",
   "location_details": "im not sure as to the exact name of the road but if you go past lost creek apartments and keep following that road until you get to where it says Acocks where there used to be a sanitarium . keep going past that and its the next right , there is a road going up a little hill and there will be a gate . just about 300 feet from that to the right is where we seen the prints in the snow .",
-  "temperature_low": -2.93,
+  "temperature": {
+    "low": -2.93
+  },
   "dew_point": -8,
   "humidity": 0.68,
   "cloud_cover": 0.6,

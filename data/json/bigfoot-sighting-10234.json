@@ -11,9 +11,11 @@
   "longitude": -98.62833,
   "location": "-98.62833,34.62944",
   "location_details": "From Lawton,Ok, go west on Hwy 62, take Cache exit go south on Hwy 115,until you get to intersection of old Hwy 62, go west about 1 1/4 mi, turn right, on Quannah Rd, go down about 3/4 of mi, house on left or west side of road.",
-  "temperature_high": 66.84,
-  "temperature_mid": 50.785,
-  "temperature_low": 34.73,
+  "temperature": {
+    "high": 66.84,
+    "mid": 50.785,
+    "low": 34.73
+  },
   "dew_point": 51.75,
   "humidity": 0.88,
   "cloud_cover": 0.3,

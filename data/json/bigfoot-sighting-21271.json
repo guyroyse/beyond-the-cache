@@ -11,9 +11,11 @@
   "longitude": -85.589,
   "location": "-85.589,46.56725",
   "location_details": "It was very close to what is now Oswald's bear ranch.  He did not have the huge fenced facility that is present today.  He was however actively feeding many black bears in the area.",
-  "temperature_high": 65.41,
-  "temperature_mid": 57.155,
-  "temperature_low": 48.9,
+  "temperature": {
+    "high": 65.41,
+    "mid": 57.155,
+    "low": 48.9
+  },
   "dew_point": 43.32,
   "humidity": 0.64,
   "cloud_cover": 0.55,

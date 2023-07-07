@@ -11,9 +11,11 @@
   "longitude": -120.205,
   "location": "-120.205,38.93",
   "location_details": "You take a hike from wrights lake to desolation wilderness and from their at lake schmidel",
-  "temperature_high": 77.95,
-  "temperature_mid": 65.05,
-  "temperature_low": 52.15,
+  "temperature": {
+    "high": 77.95,
+    "mid": 65.05,
+    "low": 52.15
+  },
   "dew_point": 41.74,
   "humidity": 0.46,
   "cloud_cover": 0.03,

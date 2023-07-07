@@ -11,9 +11,11 @@
   "longitude": -89.3179,
   "location": "-89.3179,43.0625",
   "location_details": "Rte 12 West through Madison. Rte 151 North to University Bay on Lake Mendota.",
-  "temperature_high": 3.36,
-  "temperature_mid": -1.14,
-  "temperature_low": -5.64,
+  "temperature": {
+    "high": 3.36,
+    "mid": -1.14,
+    "low": -5.64
+  },
   "dew_point": -12.69,
   "humidity": 0.62,
   "cloud_cover": 0,

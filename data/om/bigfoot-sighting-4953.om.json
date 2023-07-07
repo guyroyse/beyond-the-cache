@@ -1,0 +1,35 @@
+{
+  "reportId": "4953",
+  "title": "Family has sighting on farm along Headleys Mill Road",
+  "date": "1968-08-01",
+  "timestamp": -44755200,
+  "observed": "My family bought a farm back in 1966 on county rd 28 (now Headleys Mill rd).There was an old farm house on there and before my father built our new home we would camp out in the farm house on weekends. The farm was 21 acres, mostly in a hollow and you could see the county road 60 yards from the farm house. It was pretty rural back in that time with maybe 4 houses within 4 sq miles. On that weekend nothing abnormal happened until the next morning. What I remember was waking up and seeing my father pacing back and forth with some kind of farm tool in his hand. My mother was crying and holding my baby sister in her arms, and I asked my dad what was wrong and he said look out the window. What I saw was a very tall black hairy thing walking down the road. As it walked across the bridge, its head was at least 2 feet above the rail which was at least 6 foot high. At that point my father ran out of the house after this thing and I followed. The thing walked across the bridge and into the woods, and we have never seen it again. To this day my father will not talk about what happened, but my mother will admit we did see something and that she remembers the incident similarly to what I just described.",
+  "classification": "Class A",
+  "county": "Licking",
+  "state": "Ohio",
+  "latitude": 40.00915,
+  "longitude": -82.67252,
+  "location": {
+    "longitude": -82.67252,
+    "latitude": 40.00915
+  },
+  "location_details": "Headleys Mill Road, Pataskala Ohio, Licking County",
+  "temperature": {
+    "high": 78.66,
+    "mid": 70.265,
+    "low": 61.87
+  },
+  "dew_point": 66.12,
+  "humidity": 0.79,
+  "cloud_cover": 0.93,
+  "moon_phase": 0.25,
+  "precip_intensity": 0.107,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1016.54,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 6,
+  "visibility": 6.17,
+  "wind_bearing": 306,
+  "wind_speed": 2.9
+}

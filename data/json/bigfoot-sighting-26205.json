@@ -11,9 +11,11 @@
   "longitude": -73.87915,
   "location": "-73.87915,41.94512",
   "location_details": "From the Rhinecliff Bridge heading towards Rhinebeck, go straight at the first light. Turn right at the second light, and drive until you see another light in an intersection. Make a left at the intersection, and Pilgrim's Progress is the first right on that road.",
-  "temperature_high": 39.31,
-  "temperature_mid": 34.055,
-  "temperature_low": 28.8,
+  "temperature": {
+    "high": 39.31,
+    "mid": 34.055,
+    "low": 28.8
+  },
   "dew_point": 20.41,
   "humidity": 0.62,
   "cloud_cover": 0.65,

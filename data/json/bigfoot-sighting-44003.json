@@ -11,9 +11,11 @@
   "longitude": -89.17177,
   "location": "-89.17177,37.63264",
   "location_details": "This is a small lake on a map created by Illinois Department of Conservation. I was fishing this lake because it had a 21 inch length minimum limit. Listed as lake A-41 in Jackson County Illinois.",
-  "temperature_high": 52.85,
-  "temperature_mid": 50.135,
-  "temperature_low": 47.42,
+  "temperature": {
+    "high": 52.85,
+    "mid": 50.135,
+    "low": 47.42
+  },
   "dew_point": 49.17,
   "humidity": 0.9,
   "cloud_cover": 0.37,

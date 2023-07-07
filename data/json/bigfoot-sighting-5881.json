@@ -11,9 +11,11 @@
   "longitude": -84.33998,
   "location": "-84.33998,36.66257",
   "location_details": "Highway 92",
-  "temperature_high": 48.36,
-  "temperature_mid": 45.665,
-  "temperature_low": 42.97,
+  "temperature": {
+    "high": 48.36,
+    "mid": 45.665,
+    "low": 42.97
+  },
   "dew_point": 40.05,
   "humidity": 0.95,
   "cloud_cover": 0.98,

@@ -11,9 +11,11 @@
   "longitude": -92.22704,
   "location": "-92.22704,34.56384",
   "location_details": "on the way to the grassy lake w.m.a.",
-  "temperature_high": 75.4,
-  "temperature_mid": 61.045,
-  "temperature_low": 46.69,
+  "temperature": {
+    "high": 75.4,
+    "mid": 61.045,
+    "low": 46.69
+  },
   "dew_point": 42.66,
   "humidity": 0.57,
   "cloud_cover": 0.07,

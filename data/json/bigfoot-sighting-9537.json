@@ -11,9 +11,11 @@
   "longitude": -82.82214,
   "location": "-82.82214,40.5896",
   "location_details": "Intersection of SR 61 and TR 75.  It ran for west to east along fence row of the newest white ranch style house on the east side of SR 61 south of TR 75.",
-  "temperature_high": 83.64,
-  "temperature_mid": 77.885,
-  "temperature_low": 72.13,
+  "temperature": {
+    "high": 83.64,
+    "mid": 77.885,
+    "low": 72.13
+  },
   "dew_point": 70.12,
   "humidity": 0.83,
   "cloud_cover": 0.54,

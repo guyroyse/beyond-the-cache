@@ -11,9 +11,11 @@
   "longitude": -90.2488,
   "location": "-90.2488,37.5562",
   "location_details": "East of Fredericktown, MO.",
-  "temperature_high": 85.12,
-  "temperature_mid": 76.76,
-  "temperature_low": 68.4,
+  "temperature": {
+    "high": 85.12,
+    "mid": 76.76,
+    "low": 68.4
+  },
   "dew_point": 66.6,
   "humidity": 0.74,
   "cloud_cover": 0.42,

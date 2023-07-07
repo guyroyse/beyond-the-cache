@@ -11,9 +11,11 @@
   "longitude": -122.1914,
   "location": "-122.1914,47.79111",
   "location_details": "Off Pacific Rim Blvd, in Canyon Park.  Walking trail that skirts office buildings along North Creek.",
-  "temperature_high": 50.25,
-  "temperature_mid": 45.865,
-  "temperature_low": 41.48,
+  "temperature": {
+    "high": 50.25,
+    "mid": 45.865,
+    "low": 41.48
+  },
   "dew_point": 41.77,
   "humidity": 0.83,
   "cloud_cover": 0.89,

@@ -11,9 +11,11 @@
   "longitude": -81.8945,
   "location": "-81.8945,29.0765",
   "location_details": "Ocala National Forest in a primitive camping area a couple of miles off and to the west of the main forest road. The entrance road to the camping area was a few miles north of the southern entrance, the Welcome Center, of the park. The campsite was surrounded by high brush nearly all the way around three sides, the back side faced the woods. There was a small bathroom at the entrance to the camping area, which was about 100 yards or so from our campsite. This site was the last site before the woods began. There was a trail that dropped out almost right into this site. There was a small lake on the south side of the campground.",
-  "temperature_high": 71.09,
-  "temperature_mid": 68.255,
-  "temperature_low": 65.42,
+  "temperature": {
+    "high": 71.09,
+    "mid": 68.255,
+    "low": 65.42
+  },
   "dew_point": 57.71,
   "humidity": 0.74,
   "cloud_cover": 0.82,

@@ -11,9 +11,11 @@
   "longitude": -86.86,
   "location": "-86.86,33.1",
   "location_details": "smelled of a wet goat on it's charge. it was dark couldn't see clearly yet it towered over me.",
-  "temperature_high": 83.97,
-  "temperature_mid": 76.22,
-  "temperature_low": 68.47,
+  "temperature": {
+    "high": 83.97,
+    "mid": 76.22,
+    "low": 68.47
+  },
   "dew_point": 68.77,
   "humidity": 0.82,
   "cloud_cover": 0.55,

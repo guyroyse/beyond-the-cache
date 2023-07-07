@@ -1,0 +1,32 @@
+{
+  "reportId": "1572",
+  "title": "Campers hear loud scream in National Forest",
+  "date": "1996-08-24",
+  "timestamp": 840844800,
+  "observed": "My son and I heard a howl or scream in the deep woods of the Colville National Forest in N.W. Washinton @ 1:00 A.M. The sound was more like the recording found by the Westen Bigfoot Society on the net. Actually, it was exactly like that one. It sent shivers down your back. We were a measured 6 miles N. of state rd. #20 on Rocky Creek Rd. The sound came from approx. .5 to 1 mi. northwest of our campsite. We had noticed for the past couple of hours prior to this that the forest was absolutly quiet. No noise at all. Please contact me if you want any other info.",
+  "classification": "Class B",
+  "county": "Pend Oreille",
+  "state": "Washington",
+  "latitude": 48.66611,
+  "longitude": -117.4694,
+  "location": {
+    "longitude": -117.4694,
+    "latitude": 48.66611
+  },
+  "location_details": "The name of the county was Pend O'reille( pronounced \"pond o'ray\") and the closest town was Ione (pronounced \"eye-own\") about 10 miles by road or 5 miles by air.",
+  "temperature": {
+    "high": 91.93,
+    "mid": 73.375,
+    "low": 54.82
+  },
+  "dew_point": 44.63,
+  "humidity": 0.42,
+  "moon_phase": 0.35,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1016.68,
+  "summary": "Clear throughout the day.",
+  "visibility": 9.97,
+  "wind_bearing": 35,
+  "wind_speed": 2.48
+}

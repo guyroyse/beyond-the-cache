@@ -11,9 +11,11 @@
   "longitude": -81.36305,
   "location": "-81.36305,41.06194",
   "location_details": "Mogadore Lake/Reservoir 30 ft to the right of the launching ramp.",
-  "temperature_high": 81.66,
-  "temperature_mid": 72.365,
-  "temperature_low": 63.07,
+  "temperature": {
+    "high": 81.66,
+    "mid": 72.365,
+    "low": 63.07
+  },
   "dew_point": 55.73,
   "humidity": 0.64,
   "cloud_cover": 0.14,

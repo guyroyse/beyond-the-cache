@@ -11,9 +11,11 @@
   "longitude": -80.26563,
   "location": "-80.26563,41.21365",
   "location_details": "From the red light in Sandy Lake take 173 north to Mill Street stay on Mill Street it turns into Coal Road go about 1 mile you will cross a small creek in a valley the incident happened near the back of the property.",
-  "temperature_high": 46.02,
-  "temperature_mid": 41.365,
-  "temperature_low": 36.71,
+  "temperature": {
+    "high": 46.02,
+    "mid": 41.365,
+    "low": 36.71
+  },
   "dew_point": 34.53,
   "humidity": 0.81,
   "cloud_cover": 0.63,

@@ -11,9 +11,11 @@
   "longitude": -112.571,
   "location": "-112.571,46.05292",
   "location_details": "At Bull Run Gulch just northwest of Walkerville, Montana, a suburb of Butte, Montana.",
-  "temperature_high": 19.43,
-  "temperature_mid": 11.16,
-  "temperature_low": 2.89,
+  "temperature": {
+    "high": 19.43,
+    "mid": 11.16,
+    "low": 2.89
+  },
   "dew_point": 3.96,
   "humidity": 0.73,
   "cloud_cover": 0.22,

@@ -1,0 +1,35 @@
+{
+  "reportId": "13424",
+  "title": "Trail bike rider describes being briefly chased at night near Happy Camp",
+  "date": "1993-12-15",
+  "timestamp": 755913600,
+  "observed": "I was travelling down a couty road from a friends camp, and I was riding a small Honda motorbike.  I got past a turn and heard something akin to a flat tire flopping.  My bike is small enough that if it had a flat tire, I'd know it.  I was doing about 15 mph and looked back after going around a right-hand curve crossing a creek.  I saw what looked to be a hairy human figure, about 6-6 1/2' tall, running behind my bike.  Scared the crap out of me, so I hit the thottle and did what I could to get out of there.",
+  "classification": "Class A",
+  "county": "Siskiyou",
+  "state": "California",
+  "latitude": 41.75,
+  "longitude": -123.35,
+  "location": {
+    "longitude": -123.35,
+    "latitude": 41.75
+  },
+  "location_details": "Moderate to steep incline on the lift after passing a creek, and moderately wooded.  On the right more gentle, and more heavily wooded.  About a mile or two from a remote home.",
+  "temperature": {
+    "high": 48.76,
+    "mid": 41.285,
+    "low": 33.81
+  },
+  "dew_point": 37.53,
+  "humidity": 0.82,
+  "cloud_cover": 0.5,
+  "moon_phase": 0.09,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.48,
+  "precip_type": "rain",
+  "pressure": 1017.24,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 8.72,
+  "wind_bearing": 312,
+  "wind_speed": 5.97
+}

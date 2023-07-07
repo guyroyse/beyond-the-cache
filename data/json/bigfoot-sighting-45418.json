@@ -11,9 +11,11 @@
   "longitude": -92.66538,
   "location": "-92.66538,45.38867",
   "location_details": "South Campground of Interstate State Park",
-  "temperature_high": 72.73,
-  "temperature_mid": 66.12,
-  "temperature_low": 59.51,
+  "temperature": {
+    "high": 72.73,
+    "mid": 66.12,
+    "low": 59.51
+  },
   "dew_point": 44.9,
   "humidity": 0.61,
   "cloud_cover": 0.02,

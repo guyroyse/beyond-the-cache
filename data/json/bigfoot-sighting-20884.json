@@ -11,9 +11,11 @@
   "longitude": -114.2634,
   "location": "-114.2634,42.21834",
   "location_details": "South of Hansen, Rock Creek Road, almost to the ski lodge",
-  "temperature_high": 89.78,
-  "temperature_mid": 75.35,
-  "temperature_low": 60.92,
+  "temperature": {
+    "high": 89.78,
+    "mid": 75.35,
+    "low": 60.92
+  },
   "dew_point": 39.05,
   "humidity": 0.32,
   "cloud_cover": 0.05,

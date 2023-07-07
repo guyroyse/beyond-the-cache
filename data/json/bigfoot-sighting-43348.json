@@ -11,9 +11,11 @@
   "longitude": -90.0933,
   "location": "-90.0933,39.30525",
   "location_details": "Leaving Carlinville, IL headed west on IL Hwy 108.  There is a little town named Hagaman.  Go past the Hagaman turn off and you will come to a long bridge just below a big hill called Bell Hill.  The creature stood on the north side of the highway right before you get to the bridge. This is in Macoupin County.",
-  "temperature_high": 53.19,
-  "temperature_mid": 49.845,
-  "temperature_low": 46.5,
+  "temperature": {
+    "high": 53.19,
+    "mid": 49.845,
+    "low": 46.5
+  },
   "dew_point": 45.14,
   "humidity": 0.83,
   "cloud_cover": 0.16,

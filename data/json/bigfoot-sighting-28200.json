@@ -11,9 +11,11 @@
   "longitude": -81.95577,
   "location": "-81.95577,28.44926",
   "location_details": "center grade by the power lines",
-  "temperature_high": 89.55,
-  "temperature_mid": 81.93,
-  "temperature_low": 74.31,
+  "temperature": {
+    "high": 89.55,
+    "mid": 81.93,
+    "low": 74.31
+  },
   "dew_point": 74.39,
   "humidity": 0.8,
   "cloud_cover": 0.33,

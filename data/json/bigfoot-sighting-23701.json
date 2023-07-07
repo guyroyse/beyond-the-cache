@@ -11,9 +11,11 @@
   "longitude": -84.0354,
   "location": "-84.0354,34.6527",
   "location_details": "Gooch Mountain Shelter",
-  "temperature_high": 79.9,
-  "temperature_mid": 75.55,
-  "temperature_low": 71.2,
+  "temperature": {
+    "high": 79.9,
+    "mid": 75.55,
+    "low": 71.2
+  },
   "dew_point": 69.7,
   "humidity": 0.83,
   "cloud_cover": 0.5,

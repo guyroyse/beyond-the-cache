@@ -11,9 +11,11 @@
   "longitude": -122.4328,
   "location": "-122.4328,47.15556",
   "location_details": "It happened in a wooded area near my house at McCord AFB.",
-  "temperature_high": 67.39,
-  "temperature_mid": 55.79,
-  "temperature_low": 44.19,
+  "temperature": {
+    "high": 67.39,
+    "mid": 55.79,
+    "low": 44.19
+  },
   "dew_point": 38.46,
   "humidity": 0.65,
   "cloud_cover": 0.53,

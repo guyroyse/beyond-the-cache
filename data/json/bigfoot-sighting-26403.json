@@ -11,9 +11,11 @@
   "longitude": -121.1859,
   "location": "-121.1859,47.70178",
   "location_details": "Within a mile west of the west side of the Cascade Tunnel. Just after the sighting, I viewed a sharp drop in the terrain, to reveal a river below that was full of boulders and had 'white water' rapids.",
-  "temperature_high": 76.11,
-  "temperature_mid": 66.635,
-  "temperature_low": 57.16,
+  "temperature": {
+    "high": 76.11,
+    "mid": 66.635,
+    "low": 57.16
+  },
   "dew_point": 51.12,
   "humidity": 0.6,
   "cloud_cover": 0.22,

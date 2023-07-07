@@ -1,0 +1,35 @@
+{
+  "reportId": "42352",
+  "title": "Early evening close encounter near Bandon by mushroom hunters leaving the forest",
+  "date": "2004-10-29",
+  "timestamp": 1099008000,
+  "observed": "Late Oct 2004. I was picking Matsutaki mushrooms near Storm Ranch in Coos County. I noticed free range cattle acting spooked so I kept my path moving in a clock wise motion. Periodically the cattle would sound off, but always behind me, roughly at my 7 o'clock. This happened for around 3 hours and when I decided to call it a night and hiked out to the road. When I got there I heard the cattle again. This time a huge bi- pedal animal ran up the side of the road directly at me. It was 7+ feet tall, huge shoulders, covered in reddish blonde, brown hair, no neck, pointed head, long arms and shorter legs. I could hear the bare feet slapping the road surface as it ran. I was frozen with fear. This thing came within 100 feet of me and stopped. I could see its breath as it stood there breathing heavily. After a few seconds, it turned away from me and with 2 bounds it cleared a two lane road, then jumped over a patch of sala brush. The brush stood 4' tall and extended off the road 20 feet. I never heard it land and the rest of the walk out I heard what sounded like Racoons chattering all around me.",
+  "classification": "Class A",
+  "county": "Coos",
+  "state": "Oregon",
+  "latitude": 43,
+  "longitude": -124.43,
+  "location": {
+    "longitude": -124.43,
+    "latitude": 43
+  },
+  "location_details": "Near Storm Ranch / New River",
+  "temperature": {
+    "high": 55.27,
+    "mid": 52.25,
+    "low": 49.23
+  },
+  "dew_point": 47.26,
+  "humidity": 0.88,
+  "cloud_cover": 0.68,
+  "moon_phase": 0.56,
+  "precip_intensity": 0.0009,
+  "precip_probability": 0.24,
+  "precip_type": "rain",
+  "pressure": 1023.5,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 7.15,
+  "wind_bearing": 174,
+  "wind_speed": 4.93
+}

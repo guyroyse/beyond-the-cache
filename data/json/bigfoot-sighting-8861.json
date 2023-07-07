@@ -11,9 +11,11 @@
   "longitude": -98.38333,
   "location": "-98.38333,32.83333",
   "location_details": "Near Possum Kingdom Lake.",
-  "temperature_high": 77.37,
-  "temperature_mid": 68.915,
-  "temperature_low": 60.46,
+  "temperature": {
+    "high": 77.37,
+    "mid": 68.915,
+    "low": 60.46
+  },
   "dew_point": 62.61,
   "humidity": 0.86,
   "cloud_cover": 0.59,

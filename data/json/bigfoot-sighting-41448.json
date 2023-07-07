@@ -11,9 +11,11 @@
   "longitude": -82.43094,
   "location": "-82.43094,27.66726",
   "location_details": "To the right (east) side of I75 going North after where I275 exit to St. Petersburg crosses, about 10 miles north of there near Little Manatee River State Park. There is a small bridge on I75, I witnessed the sighting either before or after the small highway bridge near Manatee River State Park. I was driving on the far right lane going about 65 or 70 miles per hour. I hope no one tries to hurt it or capture it. Maybe it is best not to post the exact location online for the benefit of the creature.",
-  "temperature_high": 80.67,
-  "temperature_mid": 74.52,
-  "temperature_low": 68.37,
+  "temperature": {
+    "high": 80.67,
+    "mid": 74.52,
+    "low": 68.37
+  },
   "dew_point": 63.15,
   "humidity": 0.7,
   "cloud_cover": 0.1,

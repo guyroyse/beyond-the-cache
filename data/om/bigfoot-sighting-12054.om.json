@@ -1,0 +1,34 @@
+{
+  "reportId": "12054",
+  "title": "Teenagers find footprint near Daugherty",
+  "date": "1983-10-15",
+  "timestamp": 435024000,
+  "observed": "My brother, neighbor, and I were on a walk like we normally did almost every day that we could.  We would walk miles away from our house (we lived in the country) and would go exploring for hours on end.  This time we were in a soybean field that had been combined and left for the next planting season.  Farmers whenever they plant a field they leave an area between the field and the fenceline not plowed so they can turn their equipment around to get the next row.  In this area we saw something had walked in the grass next to the field that had large steps but didn't think anything of it till we came across a small wash out that had brought dirt out of the field into the area of grass into the path of the creature that had walked in the grass.  There we saw the largest footprint I had ever seen in my life.  We looked around for more tracks we could make out beside the one, but we lost the rest in the woods because it was starting to get dark.  The print was long but not extremely wide.  Like the stupid kids we were, we did not get a cast of the print and did not go back that way for a long time, but after that incident we were creeped out about going out in the woods without a weapon with us even still to this day",
+  "classification": "Class B",
+  "county": "Cass",
+  "state": "Missouri",
+  "latitude": 38.586,
+  "longitude": -94.286,
+  "location": {
+    "longitude": -94.286,
+    "latitude": 38.586
+  },
+  "location_details": "South of Daugherty on Freedom Rd. (Daugherty is halfway between Harrisonville and Garden City on Highway 7) about a mile or so where road turns into 291st.  Turn right and immediately to the left is a house on the land where the print was.",
+  "temperature": {
+    "high": 73.84,
+    "mid": 66.865,
+    "low": 59.89
+  },
+  "dew_point": 49.18,
+  "humidity": 0.56,
+  "cloud_cover": 0.59,
+  "moon_phase": 0.31,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1013.81,
+  "summary": "Breezy until afternoon and mostly cloudy throughout the day.",
+  "uv_index": 3,
+  "visibility": 9.74,
+  "wind_bearing": 178,
+  "wind_speed": 14.27
+}

@@ -11,9 +11,11 @@
   "longitude": -95.63,
   "location": "-95.63,30.6",
   "location_details": "Near Lake Conroe, several creeks in area that we were scouting around.",
-  "temperature_high": 50.38,
-  "temperature_mid": 48,
-  "temperature_low": 45.62,
+  "temperature": {
+    "high": 50.38,
+    "mid": 48,
+    "low": 45.62
+  },
   "dew_point": 42.57,
   "humidity": 0.88,
   "cloud_cover": 0.99,

@@ -11,9 +11,11 @@
   "longitude": -91.985,
   "location": "-91.985,37.27",
   "location_details": "There was a red pole-barn or out-building behind the row of cedars, set back maybe 50-60 feet.  The cedars looked as if they were planted as a sight-screen.  The site was maybe 1000-1500' north of the bridge over Hog Creek.",
-  "temperature_high": 63.9,
-  "temperature_mid": 54.455,
-  "temperature_low": 45.01,
+  "temperature": {
+    "high": 63.9,
+    "mid": 54.455,
+    "low": 45.01
+  },
   "dew_point": 31.99,
   "humidity": 0.56,
   "cloud_cover": 0.14,

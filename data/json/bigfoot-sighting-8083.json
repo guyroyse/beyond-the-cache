@@ -11,9 +11,11 @@
   "longitude": -95.27361,
   "location": "-95.27361,33.66666",
   "location_details": "Several ponds in the area.",
-  "temperature_high": 52.47,
-  "temperature_mid": 49.745,
-  "temperature_low": 47.02,
+  "temperature": {
+    "high": 52.47,
+    "mid": 49.745,
+    "low": 47.02
+  },
   "dew_point": 43.2,
   "humidity": 0.83,
   "cloud_cover": 0.82,

@@ -11,9 +11,11 @@
   "longitude": -117.5853,
   "location": "-117.5853,48.80483",
   "location_details": "29  miles north of Colville off of Smackout Creek rd.  Camping at USAF survival school instructors camp.",
-  "temperature_high": 51.7,
-  "temperature_mid": 45.165,
-  "temperature_low": 38.63,
+  "temperature": {
+    "high": 51.7,
+    "mid": 45.165,
+    "low": 38.63
+  },
   "dew_point": 40.8,
   "humidity": 0.89,
   "cloud_cover": 0.02,

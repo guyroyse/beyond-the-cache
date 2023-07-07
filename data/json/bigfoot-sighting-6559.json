@@ -11,9 +11,11 @@
   "longitude": -121.9192,
   "location": "-121.9192,46.21583",
   "location_details": "You take the 90 Rd., west from Eagles Cliff to the 25 Rd., follow the 25 Rd. to the 93 Rd. across the Muddy River. Follow the 93 Rd. about 14+ miles to the end where it forks take the left fork (40 Rd.?) and go about a quarter to a half mile our camp was on the left next to the (Wright) creek just before the road crosses it just before a trail head on the right. It has been used for elk camp for 15 years and is set up as such.",
-  "temperature_high": 85.98,
-  "temperature_mid": 70.57,
-  "temperature_low": 55.16,
+  "temperature": {
+    "high": 85.98,
+    "mid": 70.57,
+    "low": 55.16
+  },
   "dew_point": 48.36,
   "humidity": 0.56,
   "cloud_cover": 0.04,

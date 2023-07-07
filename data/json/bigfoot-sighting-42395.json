@@ -11,9 +11,11 @@
   "longitude": -122.3482,
   "location": "-122.3482,47.064",
   "location_details": "The stop sign located at 212th and 62nd Ave. Spanaway, WA",
-  "temperature_high": 52.09,
-  "temperature_mid": 50.79,
-  "temperature_low": 49.49,
+  "temperature": {
+    "high": 52.09,
+    "mid": 50.79,
+    "low": 49.49
+  },
   "dew_point": 45.36,
   "humidity": 0.91,
   "cloud_cover": 0.85,

@@ -11,9 +11,11 @@
   "longitude": -122.5322,
   "location": "-122.5322,45.7811",
   "location_details": "You go through main street in Battleground and keep going. Im not sure what is there now but it used to be that when you hit our corner if you turned right there was still black top but if you went straight it was a gravel road and to the left was a logging road.",
-  "temperature_high": 41.35,
-  "temperature_mid": 31.975,
-  "temperature_low": 22.6,
+  "temperature": {
+    "high": 41.35,
+    "mid": 31.975,
+    "low": 22.6
+  },
   "dew_point": 16.76,
   "humidity": 0.51,
   "cloud_cover": 0.02,

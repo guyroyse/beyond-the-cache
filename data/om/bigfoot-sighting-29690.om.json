@@ -1,0 +1,35 @@
+{
+  "reportId": "29690",
+  "title": "Driver and passengers have late night sighting on mountain road in Bountiful Canyon",
+  "date": "2004-03-04",
+  "timestamp": 1078358400,
+  "observed": "As I was watching the show on tv. They showed the dash cam vid. It gave me chills. A few years back two friends and I saw The exact figure that was displayed while driving in The mountains of bountiful ut. All three of us will give you the exact same account. Even if interviewed apart. For years we joked about big foot till I saw that movie. The creature started off crouched on the of a steep hill on the side of the road as I turned on my brights it stood up, ran across The road and vanished up the mountain into thick trees.",
+  "classification": "Class A",
+  "county": "Davis",
+  "state": "Utah",
+  "latitude": 40.91689,
+  "longitude": -111.8038,
+  "location": {
+    "longitude": -111.8038,
+    "latitude": 40.91689
+  },
+  "location_details": "We where headed down the road just below buckland trail. We where headed west it crossed south to north.",
+  "temperature": {
+    "high": 36.67,
+    "mid": 31.81,
+    "low": 26.95
+  },
+  "dew_point": 25.28,
+  "humidity": 0.79,
+  "cloud_cover": 0.83,
+  "moon_phase": 0.42,
+  "precip_intensity": 0.0031,
+  "precip_probability": 0.76,
+  "precip_type": "snow",
+  "pressure": 1011.02,
+  "summary": "Light snow (< 1 in.) in the morning and overnight.",
+  "uv_index": 3,
+  "visibility": 6.59,
+  "wind_bearing": 218,
+  "wind_speed": 1.24
+}

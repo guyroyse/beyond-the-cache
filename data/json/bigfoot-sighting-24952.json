@@ -11,9 +11,11 @@
   "longitude": -76.811,
   "location": "-76.811,39.11378",
   "location_details": "Oxbow Lake Nature Preserve",
-  "temperature_high": 65,
-  "temperature_mid": 59.295,
-  "temperature_low": 53.59,
+  "temperature": {
+    "high": 65,
+    "mid": 59.295,
+    "low": 53.59
+  },
   "dew_point": 45.53,
   "humidity": 0.72,
   "cloud_cover": 0.39,

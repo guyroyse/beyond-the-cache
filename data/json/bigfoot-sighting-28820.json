@@ -11,9 +11,11 @@
   "longitude": -81.1124,
   "location": "-81.1124,41.15384",
   "location_details": "greenleaf rd at rt 5 across railroad tracks into woods pond at horse area",
-  "temperature_high": 37.71,
-  "temperature_mid": 33.53,
-  "temperature_low": 29.35,
+  "temperature": {
+    "high": 37.71,
+    "mid": 33.53,
+    "low": 29.35
+  },
   "dew_point": 22.82,
   "humidity": 0.8,
   "cloud_cover": 0.84,

@@ -11,9 +11,11 @@
   "longitude": -81.88995,
   "location": "-81.88995,31.9621",
   "location_details": "[First heard within 50 yards of the western boundary of Fort Stewart]",
-  "temperature_high": 82.87,
-  "temperature_mid": 72.87,
-  "temperature_low": 62.87,
+  "temperature": {
+    "high": 82.87,
+    "mid": 72.87,
+    "low": 62.87
+  },
   "dew_point": 57.06,
   "humidity": 0.69,
   "cloud_cover": 0.47,

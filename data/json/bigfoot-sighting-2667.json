@@ -11,9 +11,11 @@
   "longitude": -106.2583,
   "location": "-106.2583,39.24998",
   "location_details": "Sighting occured on an unspecified road east of Leadville in the Pike-San Isabel National Forest. It was a few miles past mining district. Road was not the one to Mosquito Pass.",
-  "temperature_high": 78.96,
-  "temperature_mid": 63.56,
-  "temperature_low": 48.16,
+  "temperature": {
+    "high": 78.96,
+    "mid": 63.56,
+    "low": 48.16
+  },
   "dew_point": 41.77,
   "humidity": 0.42,
   "cloud_cover": 0.63,

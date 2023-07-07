@@ -11,9 +11,11 @@
   "longitude": -121.1692,
   "location": "-121.1692,45.88039",
   "location_details": "North at old Wahkiacus post office for approx. 4 miles there is a school house.From there it is approx. 2mi N.W. on private land.",
-  "temperature_high": 57.75,
-  "temperature_mid": 50.71,
-  "temperature_low": 43.67,
+  "temperature": {
+    "high": 57.75,
+    "mid": 50.71,
+    "low": 43.67
+  },
   "dew_point": 41.57,
   "humidity": 0.75,
   "cloud_cover": 0.59,

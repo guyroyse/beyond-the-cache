@@ -1,0 +1,35 @@
+{
+  "reportId": "41169",
+  "title": "Motorist sees a tall man-like figure standing in a field at dawn near Cedartown",
+  "date": "2013-05-10",
+  "timestamp": 1368144000,
+  "observed": "I was driving to work Friday, May 10. I twas approximately 6:15 EST. I had just cut off Hwy 278 at the Shilo Church road and had gone approximately 1 mile. It was light enough that I could see into fields, I was looking for deer which is my hobby while driving. The first field that I came to I began to scan it. There was something standing in the field about 30 yards from the road. It was around 8' tall. I could see the body and head, with the body extending down into the grass which is about 3' tall. By the time I stopped my truck, the figure was no longer there. As you approach the filed it is around a slight curve in the road and about 60 yards to where I made the sighting.",
+  "classification": "Class B",
+  "county": "Polk",
+  "state": "Georgia",
+  "latitude": 33.95003,
+  "longitude": -85.35133,
+  "location": {
+    "longitude": -85.35133,
+    "latitude": 33.95003
+  },
+  "location_details": "Coming from Piedmont, AL. eastward, When you cross the Georgia state line on HWY 278. It is approximately 2 1/2 miles to The Shilo Baptist church sign on the right side of the highway. You drive approximately 1/4 mile to a stop sign. You have two choices, right or straight. Go straight across the road, field is on the left side of the road. Sighting was approximately 60 yards down the fence. Just past the gate to the property.",
+  "temperature": {
+    "high": 74.04,
+    "mid": 66.855,
+    "low": 59.67
+  },
+  "dew_point": 56.95,
+  "humidity": 0.74,
+  "cloud_cover": 0.19,
+  "moon_phase": 0.02,
+  "precip_intensity": 0.0007,
+  "precip_probability": 0.22,
+  "precip_type": "rain",
+  "pressure": 1016.68,
+  "summary": "Partly cloudy starting in the evening.",
+  "uv_index": 11,
+  "visibility": 9.42,
+  "wind_bearing": 207,
+  "wind_speed": 4.35
+}

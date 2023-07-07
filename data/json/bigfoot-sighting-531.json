@@ -11,9 +11,11 @@
   "longitude": -122.8889,
   "location": "-122.8889,45.63893",
   "location_details": "On US-26,Sunset Hwy and go West for 9.2 miles Bear right on ramp at sign reading \"Exit 64 185th Ave. to Rock Cr.\" and go Northwest for 0.3 miles Turn right on NW 185th Ave and go North for 2.7 miles Turn left on NW Germantown Rd and go West for 0.3 miles Turn right on NW Old Cornelius Pass Rd and go North for about 500 feet Turn right on NW Cornelius Pass Rd and go North for 2.2 miles Continue on NW Skyline Blvd and go Northwest for 2.4 miles Turn left on NW Rock Creek Rd and go Northwest for 0.4 miles to Nw Rock Creek Rd",
-  "temperature_high": 59.3,
-  "temperature_mid": 48.425,
-  "temperature_low": 37.55,
+  "temperature": {
+    "high": 59.3,
+    "mid": 48.425,
+    "low": 37.55
+  },
   "dew_point": 43.36,
   "humidity": 0.82,
   "cloud_cover": 0.59,

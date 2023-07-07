@@ -11,9 +11,11 @@
   "longitude": -80.89096,
   "location": "-80.89096,41.42579",
   "location_details": "Very near the Grand River State Game Preserve, also near the Grand River, and west of the Mosquito Creek reservoir.",
-  "temperature_high": 71.92,
-  "temperature_mid": 64.405,
-  "temperature_low": 56.89,
+  "temperature": {
+    "high": 71.92,
+    "mid": 64.405,
+    "low": 56.89
+  },
   "dew_point": 51.08,
   "humidity": 0.67,
   "cloud_cover": 0.3,

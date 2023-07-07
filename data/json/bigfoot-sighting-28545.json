@@ -11,9 +11,11 @@
   "longitude": -89.4691,
   "location": "-89.4691,39.7721",
   "location_details": "North of Buckhart on Young Road.",
-  "temperature_high": 83.01,
-  "temperature_mid": 70.885,
-  "temperature_low": 58.76,
+  "temperature": {
+    "high": 83.01,
+    "mid": 70.885,
+    "low": 58.76
+  },
   "dew_point": 51.81,
   "humidity": 0.64,
   "cloud_cover": 0.12,

@@ -11,9 +11,11 @@
   "longitude": -92.01759,
   "location": "-92.01759,47.4284",
   "location_details": "Off Town Line Road 16 by the Skibo overlook.",
-  "temperature_high": 83.25,
-  "temperature_mid": 69.065,
-  "temperature_low": 54.88,
+  "temperature": {
+    "high": 83.25,
+    "mid": 69.065,
+    "low": 54.88
+  },
   "dew_point": 54.6,
   "humidity": 0.63,
   "cloud_cover": 0.09,

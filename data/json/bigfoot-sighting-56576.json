@@ -11,9 +11,11 @@
   "longitude": -92.422,
   "location": "-92.422,31.368",
   "location_details": "Take Hwy.471 to Dartigo Rd. to the Church of God. Woods behind the Church.",
-  "temperature_high": 71.5,
-  "temperature_mid": 63.345,
-  "temperature_low": 55.19,
+  "temperature": {
+    "high": 71.5,
+    "mid": 63.345,
+    "low": 55.19
+  },
   "dew_point": 61.18,
   "humidity": 0.9,
   "cloud_cover": 0.19,

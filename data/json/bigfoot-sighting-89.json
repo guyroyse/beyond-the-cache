@@ -11,9 +11,11 @@
   "longitude": -117.6767,
   "location": "-117.6767,46.33333",
   "location_details": "Just due east of Spring lake by 1/4 mile up Cummins creek drainage, on  the Tucannon Rd.(f.r. 47)",
-  "temperature_high": 87.98,
-  "temperature_mid": 72.175,
-  "temperature_low": 56.37,
+  "temperature": {
+    "high": 87.98,
+    "mid": 72.175,
+    "low": 56.37
+  },
   "dew_point": 45.17,
   "humidity": 0.43,
   "cloud_cover": 0.04,

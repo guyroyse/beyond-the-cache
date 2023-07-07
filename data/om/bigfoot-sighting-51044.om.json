@@ -1,0 +1,35 @@
+{
+  "reportId": "51044",
+  "title": "Vacationer has a possible daytime encounter while taking a walk on Shell Island Beach",
+  "date": "2015-07-14",
+  "timestamp": 1436832000,
+  "observed": "My family and I took a boat ride to the Shell Island Beach (it wasn't really an island, it eventually connected to the mainland).  When we anchored I got out  and proceeded into the forest farther in.  As I began to approach the forest I heard a high pitched scream that I mistook as a bird at first, I then saw a large brown mass moving to my right in the trees in front of me.  I saw it for no more than a second as I turned around an ran back to the beach.",
+  "classification": "Class B",
+  "county": "Bay",
+  "state": "Florida",
+  "latitude": 30.1766,
+  "longitude": -85.8055,
+  "location": {
+    "longitude": -85.8055,
+    "latitude": 30.1766
+  },
+  "location_details": "The island was across from St. Andrews State Park.",
+  "temperature": {
+    "high": 87.44,
+    "mid": 85.49,
+    "low": 83.54
+  },
+  "dew_point": 76.87,
+  "humidity": 0.8,
+  "cloud_cover": 0.11,
+  "moon_phase": 0.96,
+  "precip_intensity": 0.0012,
+  "precip_probability": 0.17,
+  "precip_type": "rain",
+  "pressure": 1012.5,
+  "summary": "Humid throughout the day.",
+  "uv_index": 11,
+  "visibility": 9.61,
+  "wind_bearing": 239,
+  "wind_speed": 7.51
+}

@@ -11,9 +11,11 @@
   "longitude": -81.96195,
   "location": "-81.96195,29.7351",
   "location_details": "We were driving through a place called Putnam Hall on SR100 west bound. 2-10 miles past church.",
-  "temperature_high": 95.99,
-  "temperature_mid": 84.985,
-  "temperature_low": 73.98,
+  "temperature": {
+    "high": 95.99,
+    "mid": 84.985,
+    "low": 73.98
+  },
   "dew_point": 74.16,
   "humidity": 0.75,
   "cloud_cover": 0.52,

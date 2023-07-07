@@ -11,9 +11,11 @@
   "longitude": -93.42848,
   "location": "-93.42848,35.15193",
   "location_details": "Take Hwy 27 SW from Dardenelle 9 miles Right or West on Arkansas 307  3miles (paved) to Forest Service Rd 1602 (gravel)",
-  "temperature_high": 97.33,
-  "temperature_mid": 86.315,
-  "temperature_low": 75.3,
+  "temperature": {
+    "high": 97.33,
+    "mid": 86.315,
+    "low": 75.3
+  },
   "dew_point": 71.65,
   "humidity": 0.64,
   "cloud_cover": 0.13,

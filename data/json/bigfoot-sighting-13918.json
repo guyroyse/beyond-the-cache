@@ -11,9 +11,11 @@
   "longitude": -88.77015,
   "location": "-88.77015,32.036",
   "location_details": "On Hwy. 512, between the artesian well and the river bridge on the straight stretch.  If you exit I59 and go through Pachuta, you will see the exit for Hwy. 512 shortly after that.",
-  "temperature_high": 80.88,
-  "temperature_mid": 65.065,
-  "temperature_low": 49.25,
+  "temperature": {
+    "high": 80.88,
+    "mid": 65.065,
+    "low": 49.25
+  },
   "dew_point": 47.77,
   "humidity": 0.64,
   "cloud_cover": 0.06,

@@ -11,9 +11,11 @@
   "longitude": -109.6824,
   "location": "-109.6824,44.49817",
   "location_details": "We were on a widing reach of highway with dense frest cover on either side. At the precise location of the siting we identified a standard under-road box culvert with a secondary channel flowing through. There were standard metal barrier s on either side of the road protecting the culvert and vehicles. We had seen no homes or lights for perhaps 30 minutes and it was another 30 minutes before we reached the park gates - where there were no rangers available to report the siting to.",
-  "temperature_high": 83.97,
-  "temperature_mid": 63.6,
-  "temperature_low": 43.23,
+  "temperature": {
+    "high": 83.97,
+    "mid": 63.6,
+    "low": 43.23
+  },
   "dew_point": 34.31,
   "humidity": 0.32,
   "cloud_cover": 0.35,

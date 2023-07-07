@@ -1,0 +1,35 @@
+{
+  "reportId": "25999",
+  "title": "Hunter reports hearing loud wood knocking NW of Tieton",
+  "date": "2008-10-05",
+  "timestamp": 1223164800,
+  "observed": "A knocking noise sounded like a limb was being being used to hit a tree this noise was late at night after midnight it  woke me up was like 10 to 15 knocks and then was quiet for  what seemed like 20 mins and the knocking started again.   This went on just like the first time the knocking was even in its rythem and happened three more times that night.",
+  "classification": "Class B",
+  "county": "Yakima",
+  "state": "Washington",
+  "latitude": 46.52485,
+  "longitude": -121.2957,
+  "location": {
+    "longitude": -121.2957,
+    "latitude": 46.52485
+  },
+  "location_details": "Between the old burn and nasty flats along the creek  drainage.",
+  "temperature": {
+    "high": 56.8,
+    "mid": 53.115,
+    "low": 49.43
+  },
+  "dew_point": 43.52,
+  "humidity": 0.77,
+  "cloud_cover": 0.53,
+  "moon_phase": 0.2,
+  "precip_intensity": 0.0039,
+  "precip_probability": 0.6,
+  "precip_type": "rain",
+  "pressure": 1013.27,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 3,
+  "visibility": 9.71,
+  "wind_bearing": 251,
+  "wind_speed": 2.26
+}

@@ -11,9 +11,11 @@
   "longitude": -89.67815,
   "location": "-89.67815,36.00565",
   "location_details": "The house into which we had just moved was about 3-4 miles couth of Currotherville.",
-  "temperature_high": 91.13,
-  "temperature_mid": 81.57,
-  "temperature_low": 72.01,
+  "temperature": {
+    "high": 91.13,
+    "mid": 81.57,
+    "low": 72.01
+  },
   "dew_point": 69.26,
   "humidity": 0.71,
   "cloud_cover": 0.22,

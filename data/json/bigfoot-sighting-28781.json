@@ -11,9 +11,11 @@
   "longitude": -124.2306,
   "location": "-124.2306,47.2838",
   "location_details": "A mile or two north of Moclips on highway 109.",
-  "temperature_high": 65.86,
-  "temperature_mid": 58.94,
-  "temperature_low": 52.02,
+  "temperature": {
+    "high": 65.86,
+    "mid": 58.94,
+    "low": 52.02
+  },
   "dew_point": 48.66,
   "humidity": 0.75,
   "cloud_cover": 0.19,

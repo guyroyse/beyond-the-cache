@@ -11,9 +11,11 @@
   "longitude": -111.2186,
   "location": "-111.2186,39.64175",
   "location_details": "it is a 2 hr truck drive-a 3 hour horse ride and a 1 hour hike to get to our elk spot",
-  "temperature_high": 69.62,
-  "temperature_mid": 55.69,
-  "temperature_low": 41.76,
+  "temperature": {
+    "high": 69.62,
+    "mid": 55.69,
+    "low": 41.76
+  },
   "dew_point": 33.78,
   "humidity": 0.42,
   "cloud_cover": 0.34,

@@ -11,9 +11,11 @@
   "longitude": -116.934,
   "location": "-116.934,48.6334",
   "location_details": "East from Nordman on Reeder Bay Road.  After 1/2 mile, North on Tangle Creek Road.  Sighting right after loggers 2 mile marker.",
-  "temperature_high": 47.34,
-  "temperature_mid": 40.14,
-  "temperature_low": 32.94,
+  "temperature": {
+    "high": 47.34,
+    "mid": 40.14,
+    "low": 32.94
+  },
   "dew_point": 32.79,
   "humidity": 0.82,
   "cloud_cover": 0.72,

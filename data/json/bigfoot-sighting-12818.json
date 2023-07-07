@@ -11,9 +11,11 @@
   "longitude": -119.9501,
   "location": "-119.9501,38.6167",
   "location_details": "There are no other directions to give, aside from what was given inn the narrative.",
-  "temperature_high": 69.6,
-  "temperature_mid": 58.005,
-  "temperature_low": 46.41,
+  "temperature": {
+    "high": 69.6,
+    "mid": 58.005,
+    "low": 46.41
+  },
   "dew_point": 40.51,
   "humidity": 0.63,
   "cloud_cover": 0.41,

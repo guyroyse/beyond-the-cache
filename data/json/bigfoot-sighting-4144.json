@@ -11,9 +11,11 @@
   "longitude": -94.63458,
   "location": "-94.63458,31.91708",
   "location_details": "Mount Enterprise, eastbound Hwy 84.",
-  "temperature_high": 66.86,
-  "temperature_mid": 61.53,
-  "temperature_low": 56.2,
+  "temperature": {
+    "high": 66.86,
+    "mid": 61.53,
+    "low": 56.2
+  },
   "dew_point": 51.92,
   "humidity": 0.82,
   "cloud_cover": 0.76,

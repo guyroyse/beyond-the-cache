@@ -11,9 +11,11 @@
   "longitude": -106.6535,
   "location": "-106.6535,40.4521",
   "location_details": "Lost Lake, just north of Rabbit Ears Pass, in the Routt National Forest.",
-  "temperature_high": 81.47,
-  "temperature_mid": 67.595,
-  "temperature_low": 53.72,
+  "temperature": {
+    "high": 81.47,
+    "mid": 67.595,
+    "low": 53.72
+  },
   "dew_point": 42.27,
   "humidity": 0.44,
   "cloud_cover": 0.44,

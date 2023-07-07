@@ -11,9 +11,11 @@
   "longitude": -85.6316,
   "location": "-85.6316,30.4664",
   "location_details": "TAKE HWY-77 SOUTH FROM GREENHEAD ABOUT 3 2/2 MILE.",
-  "temperature_high": 85.1,
-  "temperature_mid": 79.74,
-  "temperature_low": 74.38,
+  "temperature": {
+    "high": 85.1,
+    "mid": 79.74,
+    "low": 74.38
+  },
   "dew_point": 65.22,
   "humidity": 0.64,
   "cloud_cover": 0.64,

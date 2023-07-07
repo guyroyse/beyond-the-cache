@@ -11,9 +11,11 @@
   "longitude": -94.37361,
   "location": "-94.37361,32.65",
   "location_details": "About 15 miles west of Caddo lake.",
-  "temperature_high": 60.05,
-  "temperature_mid": 56.72,
-  "temperature_low": 53.39,
+  "temperature": {
+    "high": 60.05,
+    "mid": 56.72,
+    "low": 53.39
+  },
   "dew_point": 41.04,
   "humidity": 0.73,
   "cloud_cover": 0.39,

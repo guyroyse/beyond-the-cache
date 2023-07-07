@@ -11,9 +11,11 @@
   "longitude": -98.3298,
   "location": "-98.3298,32.8269",
   "location_details": "Only accessable by water (Brazos River).",
-  "temperature_high": 98.37,
-  "temperature_mid": 85.47,
-  "temperature_low": 72.57,
+  "temperature": {
+    "high": 98.37,
+    "mid": 85.47,
+    "low": 72.57
+  },
   "dew_point": 68.67,
   "humidity": 0.54,
   "cloud_cover": 0.75,

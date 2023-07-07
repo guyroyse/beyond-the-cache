@@ -1,0 +1,35 @@
+{
+  "reportId": "4846",
+  "title": "Boy has two encounters at eastern edge of Coast Range.",
+  "date": "2002-08-24",
+  "timestamp": 1030147200,
+  "observed": "What I saw was a thing about 6 foot tall, all black and short hair, its body was skinny and its forearms were bigger than its biceps. It was leaning over, drinking out of a stream by the path I was walking on. It had to be very strong because wen I came walking by, it stood up on two legs very fast and grabbed on to the tree behind it to help it up the hill. This thing I saw almost looked like a monkey except way too tall to be a monkey and also way to skinny to be a bear and too fast.",
+  "classification": "Class A",
+  "county": "Benton",
+  "state": "Oregon",
+  "latitude": 44.58335,
+  "longitude": -123.4166,
+  "location": {
+    "longitude": -123.4166,
+    "latitude": 44.58335
+  },
+  "location_details": "Where I saw this thing was on the outside of Philomath when you're leaving and there's a road to King's Valley.  You take that right and on that road take another right and down that road there's an old abandoned mill and beside that there's a pond and a path. If you take the path, you will see that there are little areas of connecting streams that run off the pond. I saw it drinking out of one of them.",
+  "temperature": {
+    "high": 75.97,
+    "mid": 66,
+    "low": 56.03
+  },
+  "dew_point": 54.35,
+  "humidity": 0.74,
+  "cloud_cover": 0.22,
+  "moon_phase": 0.56,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.13,
+  "precip_type": "rain",
+  "pressure": 1018.35,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 6,
+  "visibility": 9.2,
+  "wind_bearing": 301,
+  "wind_speed": 3.75
+}

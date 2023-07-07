@@ -11,9 +11,11 @@
   "longitude": -98.055,
   "location": "-98.055,31.11611",
   "location_details": "At the Lampasas River, between Copperas Cove and Lampasas, Texas off of Highway 190.",
-  "temperature_high": 95.57,
-  "temperature_mid": 84.96,
-  "temperature_low": 74.35,
+  "temperature": {
+    "high": 95.57,
+    "mid": 84.96,
+    "low": 74.35
+  },
   "dew_point": 71.43,
   "humidity": 0.67,
   "cloud_cover": 0.52,

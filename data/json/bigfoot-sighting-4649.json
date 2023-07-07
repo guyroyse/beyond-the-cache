@@ -11,9 +11,11 @@
   "longitude": -120.1547,
   "location": "-120.1547,38.18389",
   "location_details": "Sand Bar Flat campground is a well-known area.  Take Highway 108 to the turn off.  It is right on the Stanislaus River.",
-  "temperature_high": 88.52,
-  "temperature_mid": 72.19,
-  "temperature_low": 55.86,
+  "temperature": {
+    "high": 88.52,
+    "mid": 72.19,
+    "low": 55.86
+  },
   "dew_point": 48.89,
   "humidity": 0.49,
   "cloud_cover": 0.06,

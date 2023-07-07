@@ -11,9 +11,11 @@
   "longitude": -86.96416,
   "location": "-86.96416,34.00806",
   "location_details": "I was coming from jasper Alabama on Hwy 69.",
-  "temperature_high": 83.47,
-  "temperature_mid": 74.865,
-  "temperature_low": 66.26,
+  "temperature": {
+    "high": 83.47,
+    "mid": 74.865,
+    "low": 66.26
+  },
   "dew_point": 67.95,
   "humidity": 0.84,
   "cloud_cover": 0.16,

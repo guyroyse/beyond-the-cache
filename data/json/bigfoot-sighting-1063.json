@@ -11,9 +11,11 @@
   "longitude": -95.32,
   "location": "-95.32,32.13972",
   "location_details": "Marlow Bottoms, 5 miles S. of Tyler towards Bullard Texas, at Marlow Creek going west about 3 miles into the bottoms.",
-  "temperature_high": 90.06,
-  "temperature_mid": 73.42,
-  "temperature_low": 56.78,
+  "temperature": {
+    "high": 90.06,
+    "mid": 73.42,
+    "low": 56.78
+  },
   "dew_point": 55.43,
   "humidity": 0.58,
   "cloud_cover": 0.01,

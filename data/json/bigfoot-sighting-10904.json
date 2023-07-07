@@ -11,9 +11,11 @@
   "longitude": -84.05358,
   "location": "-84.05358,44.36434",
   "location_details": "I was walking the west border of the Rifle River State Park west of the bridge over Rifle River. I had made it about 300 yards into the park.",
-  "temperature_high": 52.91,
-  "temperature_mid": 48.565,
-  "temperature_low": 44.22,
+  "temperature": {
+    "high": 52.91,
+    "mid": 48.565,
+    "low": 44.22
+  },
   "dew_point": 40.79,
   "humidity": 0.93,
   "cloud_cover": 0.89,

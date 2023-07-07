@@ -11,9 +11,11 @@
   "longitude": -122.6317,
   "location": "-122.6317,46.97441",
   "location_details": "Nisqually River area on south side of Joint Base Lewis McCord.",
-  "temperature_high": 69.61,
-  "temperature_mid": 58.99,
-  "temperature_low": 48.37,
+  "temperature": {
+    "high": 69.61,
+    "mid": 58.99,
+    "low": 48.37
+  },
   "dew_point": 39.4,
   "humidity": 0.59,
   "cloud_cover": 0.17,

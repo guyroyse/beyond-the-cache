@@ -11,9 +11,11 @@
   "longitude": -85.705,
   "location": "-85.705,32.43",
   "location_details": "GO I85 to Auburn,AL Exit 51 go south on 29 about 15-20 miles to Tuskegee National Forest hang right on dirtroad directly before onramp to hwy.80.Go straight up dirtroad hang second left go to top of hill and park in front of dirt mound on the right follow trail to swamp.",
-  "temperature_high": 79.83,
-  "temperature_mid": 64.79,
-  "temperature_low": 49.75,
+  "temperature": {
+    "high": 79.83,
+    "mid": 64.79,
+    "low": 49.75
+  },
   "dew_point": 42.81,
   "humidity": 0.46,
   "cloud_cover": 0.03,

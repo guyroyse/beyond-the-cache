@@ -11,9 +11,11 @@
   "longitude": -105.2155,
   "location": "-105.2155,39.11636",
   "location_details": "off the road from Woodland Park to Decker.",
-  "temperature_high": 49.67,
-  "temperature_mid": 38.885,
-  "temperature_low": 28.1,
+  "temperature": {
+    "high": 49.67,
+    "mid": 38.885,
+    "low": 28.1
+  },
   "dew_point": 20.09,
   "humidity": 0.59,
   "cloud_cover": 0.46,

@@ -11,9 +11,11 @@
   "longitude": -79.7927,
   "location": "-79.7927,38.7201",
   "location_details": "The \"Wildell Shelter\" along the Allegheny Trail on Shavers Mountain. South of the old town of Wildell and north of the Gaudineer scenic area.",
-  "temperature_high": 77.73,
-  "temperature_mid": 65.655,
-  "temperature_low": 53.58,
+  "temperature": {
+    "high": 77.73,
+    "mid": 65.655,
+    "low": 53.58
+  },
   "dew_point": 53.76,
   "humidity": 0.65,
   "cloud_cover": 0.24,

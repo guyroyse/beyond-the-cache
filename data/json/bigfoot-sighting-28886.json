@@ -11,9 +11,11 @@
   "longitude": -105.9678,
   "location": "-105.9678,36.65339",
   "location_details": "It was just North of the road on Hwy 285 from the flashing light of Tres Piedras, New Mexico right where there is a wall of rocks on each side of the road. by the Per-light.",
-  "temperature_high": 33.17,
-  "temperature_mid": 21.325,
-  "temperature_low": 9.48,
+  "temperature": {
+    "high": 33.17,
+    "mid": 21.325,
+    "low": 9.48
+  },
   "dew_point": 14.86,
   "humidity": 0.61,
   "cloud_cover": 0.69,

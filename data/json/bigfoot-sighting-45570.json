@@ -11,9 +11,11 @@
   "longitude": -78.48832,
   "location": "-78.48832,38.90323",
   "location_details": "The area is Artz Road were it meets Route 11. The thing with this area, it is close to the George Washington National Forest.",
-  "temperature_high": 64.23,
-  "temperature_mid": 57.29,
-  "temperature_low": 50.35,
+  "temperature": {
+    "high": 64.23,
+    "mid": 57.29,
+    "low": 50.35
+  },
   "dew_point": 46.99,
   "humidity": 0.71,
   "cloud_cover": 0.09,

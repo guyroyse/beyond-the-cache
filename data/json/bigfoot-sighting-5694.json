@@ -11,9 +11,11 @@
   "longitude": -86.81917,
   "location": "-86.81917,46.01278",
   "location_details": "To get to the location you would turn off of US2 at the top of Whitefish hill and drivedown 511 past 509 to what is now the parking lot at the head of the Rapid River Snowmobile trail. There take the road heading north into the woods. You will come to a split after just a minute. Take the one to the right. You will come to a forest service gate that will probably be closed. If it is, you can continue on foot up the road about 1/2 mile to the site. If it is open you can drive up. Be careful is you don't have a 4x4 or good clearance. There has been some significant logging in the area so the way in is much different than it was at the time but the actually site is pretty much unchanged. If you have read the description above, you will know it when you get to the right spot.",
-  "temperature_high": 67.89,
-  "temperature_mid": 63.055,
-  "temperature_low": 58.22,
+  "temperature": {
+    "high": 67.89,
+    "mid": 63.055,
+    "low": 58.22
+  },
   "dew_point": 51.13,
   "humidity": 0.7,
   "cloud_cover": 0.63,

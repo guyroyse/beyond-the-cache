@@ -11,9 +11,11 @@
   "longitude": -118.3804,
   "location": "-118.3804,35.5803",
   "location_details": "Parker Meadow in the Sequoia National Monument. I was located approx 3/4 of the way up the western most fire road",
-  "temperature_high": 98.51,
-  "temperature_mid": 81.825,
-  "temperature_low": 65.14,
+  "temperature": {
+    "high": 98.51,
+    "mid": 81.825,
+    "low": 65.14
+  },
   "dew_point": 42.2,
   "humidity": 0.28,
   "cloud_cover": 0.01,

@@ -11,9 +11,11 @@
   "longitude": -79.908,
   "location": "-79.908,37.01115",
   "location_details": "Where we live is in town, but are surrounded by woodlands and have rivers and lakes close by. We have a garden every summer in which we regularly see deer and the occasional raccoon.",
-  "temperature_high": 81.16,
-  "temperature_mid": 73.8,
-  "temperature_low": 66.44,
+  "temperature": {
+    "high": 81.16,
+    "mid": 73.8,
+    "low": 66.44
+  },
   "dew_point": 66.35,
   "humidity": 0.77,
   "cloud_cover": 0.33,

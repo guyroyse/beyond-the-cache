@@ -11,9 +11,11 @@
   "longitude": -84.68864,
   "location": "-84.68864,34.0474",
   "location_details": "Acworth, GA",
-  "temperature_high": 78.72,
-  "temperature_mid": 66.235,
-  "temperature_low": 53.75,
+  "temperature": {
+    "high": 78.72,
+    "mid": 66.235,
+    "low": 53.75
+  },
   "dew_point": 51.81,
   "humidity": 0.67,
   "cloud_cover": 0.18,

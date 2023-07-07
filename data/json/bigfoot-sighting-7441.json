@@ -11,9 +11,11 @@
   "longitude": -122.5344,
   "location": "-122.5344,47.763",
   "location_details": "township26North Range02East,Section#11,willamette Meridian, Kitsap county Washington",
-  "temperature_high": 52.16,
-  "temperature_mid": 45.3,
-  "temperature_low": 38.44,
+  "temperature": {
+    "high": 52.16,
+    "mid": 45.3,
+    "low": 38.44
+  },
   "dew_point": 44.33,
   "humidity": 0.89,
   "cloud_cover": 0.8,

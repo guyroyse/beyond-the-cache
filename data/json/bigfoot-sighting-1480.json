@@ -11,9 +11,11 @@
   "longitude": -81.59005,
   "location": "-81.59005,29.08405",
   "location_details": "West on st road 40, just past Astor, turn off to the left on 19, it is in the East side of the Ocala Nat. Forest. This is Alexander Springs Campground.",
-  "temperature_high": 79.75,
-  "temperature_mid": 74.38,
-  "temperature_low": 69.01,
+  "temperature": {
+    "high": 79.75,
+    "mid": 74.38,
+    "low": 69.01
+  },
   "dew_point": 62.84,
   "humidity": 0.73,
   "cloud_cover": 0.24,

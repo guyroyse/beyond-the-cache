@@ -1,0 +1,35 @@
+{
+  "reportId": "1686",
+  "title": "Woman sees bigfoot on two occasions along the same road",
+  "date": "1996-08-30",
+  "timestamp": 841363200,
+  "observed": "Laurie Durrell Duyck by way of Linda Durrell My two daughters and I were driving in to Yakima from our home in Naches. The road runs along the Naches River. Looking down at the river, as I always do to see deer or Bald Eagles, I saw a large dark figure at the edge of the water behind some bushes. Slamming on my brakes and backing up far enough to see the river again, the large figure was gone and no where to be seen. Of course my kids said, \"Sure Mom, Bigfoot...I don't think so\". About 2 weeks later I was driving on the same road coming home from Yakima in the evening. About a half mile from where I thought I had seen the other one, there were two standing side by side just looking down at the water. One was about a foot and a half taller than the other, both dark in color with very wide shoulders. And again by the time I stopped and backed up, there was nothing to be seen.",
+  "classification": "Class A",
+  "county": "Yakima",
+  "state": "Washington",
+  "latitude": 46.71444,
+  "longitude": -120.6694,
+  "location": {
+    "longitude": -120.6694,
+    "latitude": 46.71444
+  },
+  "location_details": "Along the Naches River",
+  "temperature": {
+    "high": 78.56,
+    "mid": 65.425,
+    "low": 52.29
+  },
+  "dew_point": 51.98,
+  "humidity": 0.58,
+  "cloud_cover": 0.24,
+  "moon_phase": 0.58,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.11,
+  "precip_type": "rain",
+  "pressure": 1013.13,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.58,
+  "wind_bearing": 257,
+  "wind_speed": 7.66
+}

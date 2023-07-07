@@ -11,9 +11,11 @@
   "longitude": -106.4745,
   "location": "-106.4745,37.26505",
   "location_details": "I was in the Trail Creek Primitive Camping Area, just off of FR 250, about 30(?) miles up the Conejos Valley from the turnoff at Horca, CO.",
-  "temperature_high": 72.71,
-  "temperature_mid": 59.73,
-  "temperature_low": 46.75,
+  "temperature": {
+    "high": 72.71,
+    "mid": 59.73,
+    "low": 46.75
+  },
   "dew_point": 27.55,
   "humidity": 0.32,
   "cloud_cover": 0.14,

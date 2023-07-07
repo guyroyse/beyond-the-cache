@@ -11,9 +11,11 @@
   "longitude": -120.6049,
   "location": "-120.6049,38.9037",
   "location_details": "I was heading towards Georgetown and stopped on the dam at Stumpy Meadows where the concrete overflow runway is.",
-  "temperature_high": 90.68,
-  "temperature_mid": 74.18,
-  "temperature_low": 57.68,
+  "temperature": {
+    "high": 90.68,
+    "mid": 74.18,
+    "low": 57.68
+  },
   "dew_point": 46.07,
   "humidity": 0.4,
   "cloud_cover": 0,

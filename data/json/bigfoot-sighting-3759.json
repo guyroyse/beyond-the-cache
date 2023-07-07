@@ -11,9 +11,11 @@
   "longitude": -121.0638,
   "location": "-121.0638,46.621",
   "location_details": "Logging road above Rimrock Lake.",
-  "temperature_high": 47.29,
-  "temperature_mid": 44.505,
-  "temperature_low": 41.72,
+  "temperature": {
+    "high": 47.29,
+    "mid": 44.505,
+    "low": 41.72
+  },
   "dew_point": 34.86,
   "humidity": 0.78,
   "cloud_cover": 0.82,

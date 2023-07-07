@@ -11,9 +11,11 @@
   "longitude": -94.3745,
   "location": "-94.3745,34.369",
   "location_details": "4 miles east of cove",
-  "temperature_high": 74.59,
-  "temperature_mid": 62.63,
-  "temperature_low": 50.67,
+  "temperature": {
+    "high": 74.59,
+    "mid": 62.63,
+    "low": 50.67
+  },
   "dew_point": 42.98,
   "humidity": 0.67,
   "cloud_cover": 0.11,

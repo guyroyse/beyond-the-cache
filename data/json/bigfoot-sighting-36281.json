@@ -11,9 +11,11 @@
   "longitude": -110.7781,
   "location": "-110.7781,46.76389",
   "location_details": "it has lots of think pine forest and beaver dams on the creek and lots of water; it is green border line lush",
-  "temperature_high": 57.46,
-  "temperature_mid": 47.385,
-  "temperature_low": 37.31,
+  "temperature": {
+    "high": 57.46,
+    "mid": 47.385,
+    "low": 37.31
+  },
   "dew_point": 35.31,
   "humidity": 0.73,
   "cloud_cover": 0.78,

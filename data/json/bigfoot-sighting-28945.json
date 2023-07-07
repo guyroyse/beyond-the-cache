@@ -11,9 +11,11 @@
   "longitude": -85.2515,
   "location": "-85.2515,43.2725",
   "location_details": "Location would be at my cottage on Turk Lake, just a few minutes from M-91.",
-  "temperature_high": 83.85,
-  "temperature_mid": 73.945,
-  "temperature_low": 64.04,
+  "temperature": {
+    "high": 83.85,
+    "mid": 73.945,
+    "low": 64.04
+  },
   "dew_point": 65.47,
   "humidity": 0.72,
   "cloud_cover": 0.31,

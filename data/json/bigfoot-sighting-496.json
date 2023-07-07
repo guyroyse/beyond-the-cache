@@ -11,9 +11,11 @@
   "longitude": -91.432,
   "location": "-91.432,37.8597",
   "location_details": "We had put in our canoes at the Highway 19 bridge, floated north about 4 or 5 hours before camping before nightfall.",
-  "temperature_high": 89.23,
-  "temperature_mid": 81.94,
-  "temperature_low": 74.65,
+  "temperature": {
+    "high": 89.23,
+    "mid": 81.94,
+    "low": 74.65
+  },
   "dew_point": 71.07,
   "humidity": 0.77,
   "cloud_cover": 0.36,

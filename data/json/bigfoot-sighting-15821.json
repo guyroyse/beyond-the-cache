@@ -11,9 +11,11 @@
   "longitude": -120.2201,
   "location": "-120.2201,38.86165",
   "location_details": "trail from Wright's Lake to Enchanted Pools",
-  "temperature_high": 85.06,
-  "temperature_mid": 69.06,
-  "temperature_low": 53.06,
+  "temperature": {
+    "high": 85.06,
+    "mid": 69.06,
+    "low": 53.06
+  },
   "dew_point": 47.46,
   "humidity": 0.52,
   "cloud_cover": 0.02,

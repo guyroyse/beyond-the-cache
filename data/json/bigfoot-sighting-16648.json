@@ -11,9 +11,11 @@
   "longitude": -107.8708,
   "location": "-107.8708,40.277",
   "location_details": "At the southern end of the Danforth Hills, on private property known as the Morgan Creek Ranch, owned by the Colowyo Coal Company. This property is part of the Colorado Division of Wildlife's Ranching for Wildlife program, and is actually known as Morgan Creek Ranch.",
-  "temperature_high": 49.57,
-  "temperature_mid": 39.115,
-  "temperature_low": 28.66,
+  "temperature": {
+    "high": 49.57,
+    "mid": 39.115,
+    "low": 28.66
+  },
   "dew_point": 29.12,
   "humidity": 0.67,
   "cloud_cover": 0.75,

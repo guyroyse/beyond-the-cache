@@ -11,9 +11,11 @@
   "longitude": -92.58667,
   "location": "-92.58667,34.56444",
   "location_details": "Wooded hilltop near cell towers",
-  "temperature_high": 66.52,
-  "temperature_mid": 64.335,
-  "temperature_low": 62.15,
+  "temperature": {
+    "high": 66.52,
+    "mid": 64.335,
+    "low": 62.15
+  },
   "dew_point": 59.46,
   "humidity": 0.9,
   "cloud_cover": 0.94,

@@ -11,9 +11,11 @@
   "longitude": -111.1241,
   "location": "-111.1241,42.5149",
   "location_details": "Elk Valley in Bear Lake Co. east of Montpelier, Idaho near Wyoming. Specifically at some beaver ponds called \"The Bloody Bucket\".",
-  "temperature_high": 72.19,
-  "temperature_mid": 60.8,
-  "temperature_low": 49.41,
+  "temperature": {
+    "high": 72.19,
+    "mid": 60.8,
+    "low": 49.41
+  },
   "dew_point": 42.4,
   "humidity": 0.55,
   "cloud_cover": 0.33,

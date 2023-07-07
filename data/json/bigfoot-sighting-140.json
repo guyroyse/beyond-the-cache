@@ -11,9 +11,11 @@
   "longitude": -107.7,
   "location": "-107.7,38.48959",
   "location_details": "The incident occurred in Fall Creek Basin, on Hayden Mountain, above Camp Bird mine.  From Ouray Colorado, take the graded road to Camp Bird mine and Yankee Boy Basin.  If you have a topo map, you will see the drainage of Fall Creek out of Fall Creek Basin.",
-  "temperature_high": 78.28,
-  "temperature_mid": 66.065,
-  "temperature_low": 53.85,
+  "temperature": {
+    "high": 78.28,
+    "mid": 66.065,
+    "low": 53.85
+  },
   "dew_point": 45.8,
   "humidity": 0.47,
   "moon_phase": 0.35,

@@ -11,9 +11,11 @@
   "longitude": -89.63499,
   "location": "-89.63499,35.537",
   "location_details": "Our sighting occurred just outside of Covington, TN in the outer edges of Tipton County.  The area that we were in is refereed to by locals as \"Pilljerk\", located on the Hatchi River.",
-  "temperature_high": 58.05,
-  "temperature_mid": 46.875,
-  "temperature_low": 35.7,
+  "temperature": {
+    "high": 58.05,
+    "mid": 46.875,
+    "low": 35.7
+  },
   "dew_point": 24.42,
   "humidity": 0.51,
   "cloud_cover": 0.01,

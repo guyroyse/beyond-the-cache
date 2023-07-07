@@ -11,9 +11,11 @@
   "longitude": -122.1931,
   "location": "-122.1931,46.11887",
   "location_details": "State Route #503 past town of Cougar approx 5mi to Jct with FS#81. FS#81 to Jct with FS#83. FS#83 one to two miles to un-numbered logging road pull off on right.We pulled off onto this road approx 50 yards and made camp.",
-  "temperature_high": 71.85,
-  "temperature_mid": 66.35,
-  "temperature_low": 60.85,
+  "temperature": {
+    "high": 71.85,
+    "mid": 66.35,
+    "low": 60.85
+  },
   "dew_point": 54.54,
   "humidity": 0.72,
   "cloud_cover": 0.91,

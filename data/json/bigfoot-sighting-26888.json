@@ -11,9 +11,11 @@
   "longitude": -78.66863,
   "location": "-78.66863,41.97226",
   "location_details": "In the report. I will try to get google earth's coordinates, if need be. It seems pretty blurry to really be of help. Maybe send me a topographical map.",
-  "temperature_high": 65.19,
-  "temperature_mid": 52.87,
-  "temperature_low": 40.55,
+  "temperature": {
+    "high": 65.19,
+    "mid": 52.87,
+    "low": 40.55
+  },
   "dew_point": 44.74,
   "humidity": 0.67,
   "cloud_cover": 0.36,

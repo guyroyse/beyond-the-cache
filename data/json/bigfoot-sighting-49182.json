@@ -11,9 +11,11 @@
   "longitude": -87.60555,
   "location": "-87.60555,38.76417",
   "location_details": "George Field Barracks (a WWII airfield) then halfway between Lawrenceville and Vincennes, Indiana",
-  "temperature_high": 43,
-  "temperature_mid": 40.01,
-  "temperature_low": 37.02,
+  "temperature": {
+    "high": 43,
+    "mid": 40.01,
+    "low": 37.02
+  },
   "dew_point": 35.52,
   "humidity": 0.81,
   "cloud_cover": 0.28,

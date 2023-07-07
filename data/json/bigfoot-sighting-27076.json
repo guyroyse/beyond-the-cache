@@ -11,9 +11,11 @@
   "longitude": -82.33316,
   "location": "-82.33316,29.58358",
   "location_details": "Very swampy area.",
-  "temperature_high": 90.95,
-  "temperature_mid": 81.48,
-  "temperature_low": 72.01,
+  "temperature": {
+    "high": 90.95,
+    "mid": 81.48,
+    "low": 72.01
+  },
   "dew_point": 70.93,
   "humidity": 0.78,
   "cloud_cover": 0.24,

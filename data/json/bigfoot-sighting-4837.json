@@ -11,9 +11,11 @@
   "longitude": -80.58163,
   "location": "-80.58163,41.81902",
   "location_details": "Interstate 90 to State Route 84 to Stanhope Kellogsville Road",
-  "temperature_high": 43.58,
-  "temperature_mid": 37.12,
-  "temperature_low": 30.66,
+  "temperature": {
+    "high": 43.58,
+    "mid": 37.12,
+    "low": 30.66
+  },
   "dew_point": 25.69,
   "humidity": 0.65,
   "cloud_cover": 0.32,

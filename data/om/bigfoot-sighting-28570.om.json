@@ -1,0 +1,35 @@
+{
+  "reportId": "28570",
+  "title": "Possible nighttime encounter outside a home north of Northville",
+  "date": "2010-09-24",
+  "timestamp": 1285286400,
+  "observed": "My friend and I finished preparing for a big outdoors event and we were sitting outside his home.  It was around 11 p.m and his wife and dog had gone inside for the evening.  Across the road from his house there is a large swamp that goes up to a small mountain.  Our talk was cut short by an odd scream about 75 yards into the swamp on the right at ground level.  I asked my friend, an avid hunter, what animal screams like that?  He didn't know but we talked that maybe it could be an owl or a fisher.  A few minutes later, in the woods on our side of the road, a large animal broke a lot of dead branches all at once.  It wasn't running but seemed to have just turned around in one location.  A minute or two later three owls hooted between themselves at treetop level in the woods behind his house.  The owls seemed to have been about 50 feet apart.  We commented about this sudden weird activity when something came from the woods and landed in his yard behind us.  We were still facing the road and didn't see the object but I assume it was something around the size of a baseball.  He doesn't have a manicured lawn and it would be impossible to know exactly what it was.  I've thought about this incident for a couple of months and could write off the first three occurrences that evening but the object landing in the yard made this event too much to ignore.  My friend was as puzzled as I am.  He lives where people are few and far between.",
+  "classification": "Class B",
+  "county": "Hamilton",
+  "state": "New York",
+  "latitude": 43.30679,
+  "longitude": -74.15429,
+  "location": {
+    "longitude": -74.15429,
+    "latitude": 43.30679
+  },
+  "location_details": "(Specific directions omitted)",
+  "temperature": {
+    "high": 84.58,
+    "mid": 73.85,
+    "low": 63.12
+  },
+  "dew_point": 61.23,
+  "humidity": 0.71,
+  "cloud_cover": 0.43,
+  "moon_phase": 0.54,
+  "precip_intensity": 0.0028,
+  "precip_probability": 0.18,
+  "precip_type": "rain",
+  "pressure": 1013.42,
+  "summary": "Partly cloudy starting in the evening.",
+  "uv_index": 4,
+  "visibility": 9.6,
+  "wind_bearing": 194,
+  "wind_speed": 6.58
+}

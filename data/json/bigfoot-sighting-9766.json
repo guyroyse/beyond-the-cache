@@ -11,9 +11,11 @@
   "longitude": -84.15971,
   "location": "-84.15971,39.8494",
   "location_details": "from columbus take 70 west huber heights exit go left until chambersburg rd turn right the pond is down on the left cant miss it",
-  "temperature_high": 73.31,
-  "temperature_mid": 61.75,
-  "temperature_low": 50.19,
+  "temperature": {
+    "high": 73.31,
+    "mid": 61.75,
+    "low": 50.19
+  },
   "dew_point": 53.48,
   "humidity": 0.74,
   "cloud_cover": 0.33,

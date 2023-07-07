@@ -11,9 +11,11 @@
   "longitude": -80.6282,
   "location": "-80.6282,35.91965",
   "location_details": "64 toward lake myers campground,",
-  "temperature_high": 87.98,
-  "temperature_mid": 79.71,
-  "temperature_low": 71.44,
+  "temperature": {
+    "high": 87.98,
+    "mid": 79.71,
+    "low": 71.44
+  },
   "dew_point": 72.16,
   "humidity": 0.82,
   "cloud_cover": 0.84,

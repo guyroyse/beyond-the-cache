@@ -11,9 +11,11 @@
   "longitude": -83.11422,
   "location": "-83.11422,39.49265",
   "location_details": "Southeast of Clarksburg, Ohio  towards Chillicothe,",
-  "temperature_high": 80.23,
-  "temperature_mid": 73.735,
-  "temperature_low": 67.24,
+  "temperature": {
+    "high": 80.23,
+    "mid": 73.735,
+    "low": 67.24
+  },
   "dew_point": 59.15,
   "humidity": 0.71,
   "cloud_cover": 0.66,

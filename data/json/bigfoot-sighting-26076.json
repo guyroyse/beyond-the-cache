@@ -11,9 +11,11 @@
   "longitude": -77.90525,
   "location": "-77.90525,36.0089",
   "location_details": "Near Hwy 43 on Hunter Hill Rd and Old Carriage Rd. in Rocky Mount, N.C. Both incidents were in this area - twenty years apart.",
-  "temperature_high": 82.11,
-  "temperature_mid": 76.575,
-  "temperature_low": 71.04,
+  "temperature": {
+    "high": 82.11,
+    "mid": 76.575,
+    "low": 71.04
+  },
   "dew_point": 71.35,
   "humidity": 0.86,
   "cloud_cover": 0.87,

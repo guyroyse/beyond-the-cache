@@ -1,0 +1,35 @@
+{
+  "reportId": "1374",
+  "title": "Creature observed running on hind legs",
+  "date": "1998-07-25",
+  "timestamp": 901324800,
+  "observed": "We had already unpacked our backpacks and were just going up to the top of the mountain to see were my husband could go elk hunting. As we were looking around, we seen this big black bear looking creature. We knew it wasn't a bear, because both my husband and myself are black bear hunters. This creature was about 200 yards away on a open spot on the mountain. It was running away from us at a pretty good pace we figured around 20mph. From were we were standing the creature seemed to be just gliding along at a fast pace. My 13 year old nephew looked at my husband and myself and said \" Boy I never seen a bear running on it's hind legs before, and running that fast.\" My husband is not a firm believer in the unknown but I swear to what I saw was no kind of black bear or animal that I ever saw before. We figured it was around 8 feet tall.",
+  "classification": "Class A",
+  "county": "San Juan",
+  "state": "Colorado",
+  "latitude": 37.75417,
+  "longitude": -107.7667,
+  "location": {
+    "longitude": -107.7667,
+    "latitude": 37.75417
+  },
+  "location_details": "My husband myself and my son and nephew were backpacking in the San Juan Mountains in Colorado the days of July 25th and 26th of this year 1998. We were in the area of the Twin Sisters mountain tops, south of Silverton about four miles in on a pack trail following the Lime Creek.",
+  "temperature": {
+    "high": 74.5,
+    "mid": 63.98,
+    "low": 53.46
+  },
+  "dew_point": 54.53,
+  "humidity": 0.73,
+  "cloud_cover": 0.63,
+  "moon_phase": 0.07,
+  "precip_intensity": 0.0097,
+  "precip_probability": 0.7,
+  "precip_type": "rain",
+  "pressure": 1017.15,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 11,
+  "visibility": 9.15,
+  "wind_bearing": 131,
+  "wind_speed": 1.52
+}

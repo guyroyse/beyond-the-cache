@@ -1,0 +1,35 @@
+{
+  "reportId": "24862",
+  "title": "Experienced bow hunter recalls being scared by an unknown scream/howl near Austin",
+  "date": "1992-10-20",
+  "timestamp": 719539200,
+  "observed": "It was bow season in October 1992, around 5:30 in the evening. I had just climed out of my deer stand and heard movement about 20 meters in front of my stand. So I decided to just sit at the base of the tree to see if if the deer would come out of the brush, and hopefuly get a shot at it. After waiting for about 10 minutes it got pretty dark in the woods. Too dark to take a shot, so instead of spooking the deer, I decided to wait for it to move out so that I might have another chance at it the next day. It was making alot of noise, kind of unusual for deer. I must have set there for another 20 minutes when I heard this loud high pitch scream, or howl. It lasted for about 3-4 seconds and it was very close to my left. Needless to say, it scared the crap out of me! I have never heard anything like that before! I grew up around the woods and I have been hunting for many years, and never heard that sound before or since. I have been in the military for 16 years and spent my share of many different types of wilderness, and this sound that I heard I will never forget.",
+  "classification": "Class B",
+  "county": "Scott",
+  "state": "Indiana",
+  "latitude": 38.73725,
+  "longitude": -85.84489,
+  "location": {
+    "longitude": -85.84489,
+    "latitude": 38.73725
+  },
+  "location_details": "take I-65 to Austin IN go west on 256 turn left on Boatman Rd turn right on York street, fallow the road till it turns into gravel and then dead ends at the river in the middle of a field. It is the deep in the woods on the right",
+  "temperature": {
+    "high": 54.19,
+    "mid": 50.55,
+    "low": 46.91
+  },
+  "dew_point": 34.87,
+  "humidity": 0.7,
+  "cloud_cover": 0.78,
+  "moon_phase": 0.81,
+  "precip_intensity": 0.0011,
+  "precip_probability": 0.59,
+  "precip_type": "rain",
+  "pressure": 1023.16,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 8.76,
+  "wind_bearing": 189,
+  "wind_speed": 7.44
+}

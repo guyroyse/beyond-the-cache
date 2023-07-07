@@ -11,9 +11,11 @@
   "longitude": -95.5425,
   "location": "-95.5425,32.7943",
   "location_details": "Hwy 182, Wood County Between Quitman, Texas and Alba, Texas",
-  "temperature_high": 73.96,
-  "temperature_mid": 69.005,
-  "temperature_low": 64.05,
+  "temperature": {
+    "high": 73.96,
+    "mid": 69.005,
+    "low": 64.05
+  },
   "dew_point": 56.34,
   "humidity": 0.76,
   "cloud_cover": 0.49,

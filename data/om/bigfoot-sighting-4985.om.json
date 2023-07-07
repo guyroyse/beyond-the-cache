@@ -1,0 +1,35 @@
+{
+  "reportId": "4985",
+  "title": "Vocalizations heard by couple at dawn near Randle",
+  "date": "2002-09-19",
+  "timestamp": 1032393600,
+  "observed": "My wife and I were wakened by the loudest vocalization I have ever heard , similar to a Peacock but much louder and more timber to its voice , there was no anxiety in its voice not a scream but more of a call , it called about 12 times then went silent I went outside and tried to mimic its call at which time it answered me about 6 times getting closer with each call , close enough that I felt uncomfortable enough to go back inside. I would say it went as far as the edge of my yard where it could have seen me through the trees and still remain unseen. The odd part about this is that not one of my 3 dogs barked they were very alert and tense. These dogs bark at the slightest provacation one of these dogs I had to fit with a bark collar to stop her nuisance barking",
+  "classification": "Class B",
+  "county": "Lewis",
+  "state": "Washington",
+  "latitude": 46.5256,
+  "longitude": -122.0252,
+  "location": {
+    "longitude": -122.0252,
+    "latitude": 46.5256
+  },
+  "location_details": "One mile at the dead end of Cropsey Dr. which is off of Kiona about one mile from the intersection of Savio and Kiona Savio is off of Hiwy 12",
+  "temperature": {
+    "high": 69.11,
+    "mid": 58.25,
+    "low": 47.39
+  },
+  "dew_point": 51.07,
+  "humidity": 0.77,
+  "cloud_cover": 0.56,
+  "moon_phase": 0.44,
+  "precip_intensity": 0.0019,
+  "precip_probability": 0.21,
+  "precip_type": "rain",
+  "pressure": 1019.48,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 3,
+  "visibility": 8.85,
+  "wind_bearing": 233,
+  "wind_speed": 3.62
+}

@@ -11,9 +11,11 @@
   "longitude": -122.2156,
   "location": "-122.2156,48.76075",
   "location_details": "Heading South on Highway 9 from the intersection of Highway 9 and the Mt Baker Highway, past Van Zandt about 5 miles to the Strand Road. Turn right on the Strand Road, going about 3/4 mile until it dead ends at the South Fork of the Nooksack River.",
-  "temperature_high": 49.23,
-  "temperature_mid": 47.025,
-  "temperature_low": 44.82,
+  "temperature": {
+    "high": 49.23,
+    "mid": 47.025,
+    "low": 44.82
+  },
   "dew_point": 43.08,
   "humidity": 0.89,
   "cloud_cover": 0.87,

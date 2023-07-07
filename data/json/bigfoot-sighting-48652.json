@@ -11,9 +11,11 @@
   "longitude": -121.3539,
   "location": "-121.3539,48.13261",
   "location_details": "Off the Mountain Loop Highway, I would have to drive back there and reset my odometer to see how far it was from the Monte Cristo trailhead.",
-  "temperature_high": 72.44,
-  "temperature_mid": 61.355,
-  "temperature_low": 50.27,
+  "temperature": {
+    "high": 72.44,
+    "mid": 61.355,
+    "low": 50.27
+  },
   "dew_point": 42.85,
   "humidity": 0.56,
   "cloud_cover": 0.04,

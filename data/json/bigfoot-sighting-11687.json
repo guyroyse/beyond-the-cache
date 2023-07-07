@@ -11,9 +11,11 @@
   "longitude": -94.47903,
   "location": "-94.47903,31.0232",
   "location_details": "Neches River. Cow pasture across river from our camp.",
-  "temperature_high": 94.77,
-  "temperature_mid": 83.545,
-  "temperature_low": 72.32,
+  "temperature": {
+    "high": 94.77,
+    "mid": 83.545,
+    "low": 72.32
+  },
   "dew_point": 70.97,
   "humidity": 0.7,
   "cloud_cover": 0.09,

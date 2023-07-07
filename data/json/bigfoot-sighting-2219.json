@@ -11,9 +11,11 @@
   "longitude": -83.4192,
   "location": "-83.4192,34.6423",
   "location_details": "Approximately (as best I can recall) from Toccoa, about 5 miles west on GA 123, then north about 5 miles. I do not have a map that has this specific road on it, but I can try to track one down.",
-  "temperature_high": 80.46,
-  "temperature_mid": 71.31,
-  "temperature_low": 62.16,
+  "temperature": {
+    "high": 80.46,
+    "mid": 71.31,
+    "low": 62.16
+  },
   "dew_point": 59.29,
   "humidity": 0.71,
   "cloud_cover": 0.37,

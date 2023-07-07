@@ -11,9 +11,11 @@
   "longitude": -112.5649,
   "location": "-112.5649,47.07954",
   "location_details": "The area was a large section of land between the Indian Meadows USFS Trailhead, Copper Creek and Landers Fork Drainages. I believe the USGS 7.5 minute quadrangle maps list an Elk Tail Park and show an airstrip. The occurrence took place 1/2 to 1 mi west or nw of that strip on my estimate.",
-  "temperature_high": 60.26,
-  "temperature_mid": 49.125,
-  "temperature_low": 37.99,
+  "temperature": {
+    "high": 60.26,
+    "mid": 49.125,
+    "low": 37.99
+  },
   "dew_point": 31.51,
   "humidity": 0.44,
   "cloud_cover": 0.75,

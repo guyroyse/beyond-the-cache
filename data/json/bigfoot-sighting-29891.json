@@ -11,9 +11,11 @@
   "longitude": -86.4324,
   "location": "-86.4324,39.3804",
   "location_details": "Hatfield Ridge fire trail back to Prather Lake trail. Long walk down the gravel fire trail to get to the trail that leads to the lake. The lake trail is completely down hill and once the lake is in sight the whole area is super rugged, mostly steep mossy covered hills that surround the lake, very difficult to traverse.",
-  "temperature_high": 87.69,
-  "temperature_mid": 76.78,
-  "temperature_low": 65.87,
+  "temperature": {
+    "high": 87.69,
+    "mid": 76.78,
+    "low": 65.87
+  },
   "dew_point": 63.6,
   "humidity": 0.65,
   "cloud_cover": 0.04,

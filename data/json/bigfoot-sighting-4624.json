@@ -11,9 +11,11 @@
   "longitude": -82.353,
   "location": "-82.353,37.49993",
   "location_details": "Vicinity of a place called Kimper.",
-  "temperature_high": 37.71,
-  "temperature_mid": 29.375,
-  "temperature_low": 21.04,
+  "temperature": {
+    "high": 37.71,
+    "mid": 29.375,
+    "low": 21.04
+  },
   "dew_point": 18.87,
   "humidity": 0.69,
   "cloud_cover": 0.67,

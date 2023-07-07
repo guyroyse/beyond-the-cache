@@ -11,9 +11,11 @@
   "longitude": -95.97023,
   "location": "-95.97023,35.36895",
   "location_details": "Located below a hill or ridgeline, approx. 2 or so miles from a lake. Wooded area very nearby. 5 miles south of Henryetta, Oklahoma on Lake Road.",
-  "temperature_high": 92.98,
-  "temperature_mid": 82.055,
-  "temperature_low": 71.13,
+  "temperature": {
+    "high": 92.98,
+    "mid": 82.055,
+    "low": 71.13
+  },
   "dew_point": 67.09,
   "humidity": 0.65,
   "cloud_cover": 0.45,

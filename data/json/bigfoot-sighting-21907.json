@@ -11,9 +11,11 @@
   "longitude": -113.7593,
   "location": "-113.7593,47.60413",
   "location_details": "While I cannot give a specific location, I will do my best. We were off  highway 83 east towards the mountains. We were hunting district 130 of MT, north of Lindberg Lake, and south of the hunters check in station heading north on 83. I believe we were behind the small airport.",
-  "temperature_high": 44.56,
-  "temperature_mid": 37.46,
-  "temperature_low": 30.36,
+  "temperature": {
+    "high": 44.56,
+    "mid": 37.46,
+    "low": 30.36
+  },
   "dew_point": 11.67,
   "humidity": 0.46,
   "cloud_cover": 0.03,

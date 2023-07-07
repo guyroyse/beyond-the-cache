@@ -11,9 +11,11 @@
   "longitude": -109.9,
   "location": "-109.9,40.5",
   "location_details": "Location is mouth of Dryfork canyon, right before the canyon starts. At this point the dryfork river is several hundred yards from the road",
-  "temperature_high": 34.31,
-  "temperature_mid": 25.595,
-  "temperature_low": 16.88,
+  "temperature": {
+    "high": 34.31,
+    "mid": 25.595,
+    "low": 16.88
+  },
   "dew_point": 10.01,
   "humidity": 0.64,
   "cloud_cover": 0.06,

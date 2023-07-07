@@ -11,9 +11,11 @@
   "longitude": -122.0456,
   "location": "-122.0456,47.5103",
   "location_details": "Squak Mountain, East of I-90. Squak Mt. is above mountain park hill in Issaquah.",
-  "temperature_high": 75.14,
-  "temperature_mid": 65.64,
-  "temperature_low": 56.14,
+  "temperature": {
+    "high": 75.14,
+    "mid": 65.64,
+    "low": 56.14
+  },
   "dew_point": 53.48,
   "humidity": 0.7,
   "cloud_cover": 0.18,

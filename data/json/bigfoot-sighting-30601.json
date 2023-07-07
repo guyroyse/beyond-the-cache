@@ -11,9 +11,11 @@
   "longitude": -87.76622,
   "location": "-87.76622,41.63243",
   "location_details": "The deep prints were found on the trail which follows the abandoned section of the Midlothian Turnpike past Bachelors Grove Cemetery, just beyond the abandoned settlement of Bachelors Grove.  The foot impressions were found at the head of the trail, near 143rd Street, just before the gate.",
-  "temperature_high": 67.81,
-  "temperature_mid": 63.79,
-  "temperature_low": 59.77,
+  "temperature": {
+    "high": 67.81,
+    "mid": 63.79,
+    "low": 59.77
+  },
   "dew_point": 48.24,
   "humidity": 0.63,
   "cloud_cover": 0.27,

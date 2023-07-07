@@ -11,9 +11,11 @@
   "longitude": -85.5481,
   "location": "-85.5481,39.45697",
   "location_details": "It was a small little campground along Flatrock River in a secluded part of northwestern Decatur County close to Rush and Shelby County.",
-  "temperature_high": 83.45,
-  "temperature_mid": 73.895,
-  "temperature_low": 64.34,
+  "temperature": {
+    "high": 83.45,
+    "mid": 73.895,
+    "low": 64.34
+  },
   "dew_point": 60.16,
   "humidity": 0.64,
   "cloud_cover": 0.45,

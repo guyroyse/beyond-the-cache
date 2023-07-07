@@ -11,9 +11,11 @@
   "longitude": -83.78375,
   "location": "-83.78375,34.78035",
   "location_details": "Poplar Stump Rd. (FS 44)",
-  "temperature_high": 67.15,
-  "temperature_mid": 59.26,
-  "temperature_low": 51.37,
+  "temperature": {
+    "high": 67.15,
+    "mid": 59.26,
+    "low": 51.37
+  },
   "dew_point": 41.39,
   "humidity": 0.67,
   "cloud_cover": 0.06,

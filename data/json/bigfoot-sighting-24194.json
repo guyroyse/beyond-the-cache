@@ -11,9 +11,11 @@
   "longitude": -106.4213,
   "location": "-106.4213,39.15735",
   "location_details": "On the Colorado Trail, a few hundred yards east of the Mt. Massive trailhead",
-  "temperature_high": 80.72,
-  "temperature_mid": 62.06,
-  "temperature_low": 43.4,
+  "temperature": {
+    "high": 80.72,
+    "mid": 62.06,
+    "low": 43.4
+  },
   "dew_point": 35.73,
   "humidity": 0.43,
   "cloud_cover": 0.2,

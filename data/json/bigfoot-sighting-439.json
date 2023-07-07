@@ -11,9 +11,11 @@
   "longitude": -81,
   "location": "-81,38",
   "location_details": "It is very easy to find,once in the near by city of Oak Hill Rt 17 is right of Highway 19 on Main St Oak Hill,then procede approximately two miles down Rt 17 to Rock Lick",
-  "temperature_high": 64.03,
-  "temperature_mid": 53.495,
-  "temperature_low": 42.96,
+  "temperature": {
+    "high": 64.03,
+    "mid": 53.495,
+    "low": 42.96
+  },
   "dew_point": 40.99,
   "humidity": 0.72,
   "cloud_cover": 0.15,

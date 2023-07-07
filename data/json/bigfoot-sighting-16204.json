@@ -11,9 +11,11 @@
   "longitude": -78.49429,
   "location": "-78.49429,39.5226",
   "location_details": "Route 29 (Edited for privacy)",
-  "temperature_high": 67.6,
-  "temperature_mid": 57.8,
-  "temperature_low": 48,
+  "temperature": {
+    "high": 67.6,
+    "mid": 57.8,
+    "low": 48
+  },
   "dew_point": 51.13,
   "humidity": 0.83,
   "cloud_cover": 0.41,

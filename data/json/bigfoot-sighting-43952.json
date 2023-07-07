@@ -11,9 +11,11 @@
   "longitude": -98.56143,
   "location": "-98.56143,29.26258",
   "location_details": "Incident occurred in the Medina River Natural Area off of Hwy 16.",
-  "temperature_high": 70.41,
-  "temperature_mid": 60.4,
-  "temperature_low": 50.39,
+  "temperature": {
+    "high": 70.41,
+    "mid": 60.4,
+    "low": 50.39
+  },
   "dew_point": 24.46,
   "humidity": 0.43,
   "cloud_cover": 0.01,

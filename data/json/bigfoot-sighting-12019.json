@@ -11,9 +11,11 @@
   "longitude": -123.4034,
   "location": "-123.4034,42.354",
   "location_details": "From Hwy 238 drive about 2 miles, take a right on New Hope Road, drive about 3 miles, take right on Fishhatchery Rd., drive just under 2 miles to Wetherbee Dr.",
-  "temperature_high": 68.7,
-  "temperature_mid": 61.265,
-  "temperature_low": 53.83,
+  "temperature": {
+    "high": 68.7,
+    "mid": 61.265,
+    "low": 53.83
+  },
   "dew_point": 42.45,
   "humidity": 0.62,
   "cloud_cover": 0.18,

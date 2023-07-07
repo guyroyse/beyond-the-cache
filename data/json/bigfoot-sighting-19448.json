@@ -11,9 +11,11 @@
   "longitude": -118.1666,
   "location": "-118.1666,36.1999",
   "location_details": "Camp was located about 150 yards west of the main Monache trail on the road toward the Monache ranger camp. Detailed topo map available on request.",
-  "temperature_high": 94.54,
-  "temperature_mid": 79.355,
-  "temperature_low": 64.17,
+  "temperature": {
+    "high": 94.54,
+    "mid": 79.355,
+    "low": 64.17
+  },
   "dew_point": 47.89,
   "humidity": 0.36,
   "cloud_cover": 0.13,

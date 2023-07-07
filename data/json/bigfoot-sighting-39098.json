@@ -11,9 +11,11 @@
   "longitude": -89.61281,
   "location": "-89.61281,39.73333",
   "location_details": "North side of the fields by the Frisbee golf course.",
-  "temperature_high": 80.17,
-  "temperature_mid": 62.71,
-  "temperature_low": 45.25,
+  "temperature": {
+    "high": 80.17,
+    "mid": 62.71,
+    "low": 45.25
+  },
   "dew_point": 52.89,
   "humidity": 0.7,
   "cloud_cover": 0.38,

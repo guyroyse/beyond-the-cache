@@ -11,9 +11,11 @@
   "longitude": -82.64864,
   "location": "-82.64864,40.74705",
   "location_details": "Outside of a town called Ontario.",
-  "temperature_high": 84.21,
-  "temperature_mid": 73.845,
-  "temperature_low": 63.48,
+  "temperature": {
+    "high": 84.21,
+    "mid": 73.845,
+    "low": 63.48
+  },
   "dew_point": 62.28,
   "humidity": 0.62,
   "cloud_cover": 0,

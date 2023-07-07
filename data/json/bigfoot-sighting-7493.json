@@ -11,9 +11,11 @@
   "longitude": -80.59236,
   "location": "-80.59236,40.72943",
   "location_details": "The area is in the back or southern part of the park by the Gretchen's Lock trail heading downstream.",
-  "temperature_high": 54.63,
-  "temperature_mid": 45.895,
-  "temperature_low": 37.16,
+  "temperature": {
+    "high": 54.63,
+    "mid": 45.895,
+    "low": 37.16
+  },
   "dew_point": 41.85,
   "humidity": 0.72,
   "cloud_cover": 0.63,

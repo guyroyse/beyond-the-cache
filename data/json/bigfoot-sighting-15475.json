@@ -11,9 +11,11 @@
   "longitude": -79.9442,
   "location": "-79.9442,39.6716",
   "location_details": "Northeast of Morgantown, WV",
-  "temperature_high": 68.67,
-  "temperature_mid": 66.215,
-  "temperature_low": 63.76,
+  "temperature": {
+    "high": 68.67,
+    "mid": 66.215,
+    "low": 63.76
+  },
   "dew_point": 62.33,
   "humidity": 0.9,
   "cloud_cover": 0.76,

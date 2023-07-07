@@ -1,0 +1,34 @@
+{
+  "reportId": "9407",
+  "title": "Two children discover small footprints frozen on the surface of a creek near Jackson.",
+  "date": "1984-01-14",
+  "timestamp": 442886400,
+  "observed": "As a small child i grew up in south eastern kentucky. Each winter the creek that ran next to our home would freeze over and we would skate on a area we had built a crude dam on. One morning after the creek had frozen back hard after partly thawing my sister and i went to play on the ice. When we arived we noticed that what apeared to be a small bare footed child had walked across the ice before it had fully frozen. The track had a definite form a heel, front pad and five toes .It had crossed a distance of about twenty feet in six steps went up a steep bank slipped down and went on up the bank. No other prints were ever seen and i have never heard of any other encounters in that area. The print was about eight inchs long and three or four inches wide.",
+  "classification": "Class B",
+  "county": "Breathitt",
+  "state": "Kentucky",
+  "latitude": 37.28205,
+  "longitude": -83.21735,
+  "location": {
+    "longitude": -83.21735,
+    "latitude": 37.28205
+  },
+  "location_details": "Turn off highway 15 toward Lost Creek about 8 miles.",
+  "temperature": {
+    "high": 34,
+    "mid": 30.11,
+    "low": 26.22
+  },
+  "dew_point": 24.76,
+  "humidity": 0.73,
+  "cloud_cover": 1,
+  "moon_phase": 0.36,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1032.08,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 1,
+  "visibility": 6.62,
+  "wind_bearing": 335,
+  "wind_speed": 4.9
+}

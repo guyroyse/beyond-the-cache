@@ -11,9 +11,11 @@
   "longitude": -122.6228,
   "location": "-122.6228,46.05333",
   "location_details": "Along the Kalama river, a popular steelhead fishing area (at the time, I'm not sure now). Most areas of this river are accessible from Kalama River Road.",
-  "temperature_high": 71.71,
-  "temperature_mid": 57.735,
-  "temperature_low": 43.76,
+  "temperature": {
+    "high": 71.71,
+    "mid": 57.735,
+    "low": 43.76
+  },
   "dew_point": 50.15,
   "humidity": 0.66,
   "cloud_cover": 0.51,

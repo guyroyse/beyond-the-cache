@@ -11,9 +11,11 @@
   "longitude": -142.7691,
   "location": "-142.7691,63.98869",
   "location_details": "This is near Ketchumstock Mountain, about a 30 mile jaunt by ATV's to the west of the Taylor Highway south of Chicken Alaska.",
-  "temperature_high": 58.71,
-  "temperature_mid": 46.725,
-  "temperature_low": 34.74,
+  "temperature": {
+    "high": 58.71,
+    "mid": 46.725,
+    "low": 34.74
+  },
   "dew_point": 38.39,
   "humidity": 0.69,
   "cloud_cover": 0.54,

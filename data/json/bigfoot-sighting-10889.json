@@ -11,9 +11,11 @@
   "longitude": -85.77714,
   "location": "-85.77714,44.64535",
   "location_details": "About a half mile west along the old railroad (which has since been torn up) from M-137 in Interlochen. (About halfway between Riley Rd and M-137.) It was on the left side of the railroad.",
-  "temperature_high": 37.98,
-  "temperature_mid": 35.79,
-  "temperature_low": 33.6,
+  "temperature": {
+    "high": 37.98,
+    "mid": 35.79,
+    "low": 33.6
+  },
   "dew_point": 33.41,
   "humidity": 0.94,
   "cloud_cover": 0.97,

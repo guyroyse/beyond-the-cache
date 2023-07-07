@@ -11,9 +11,11 @@
   "longitude": -83.3626,
   "location": "-83.3626,35.46865",
   "location_details": "Can only say that it was in the Bluff Mountain area between Townsend and Pigeon Forge, as sounds are difficult to pinpoint.",
-  "temperature_high": 73.44,
-  "temperature_mid": 59.425,
-  "temperature_low": 45.41,
+  "temperature": {
+    "high": 73.44,
+    "mid": 59.425,
+    "low": 45.41
+  },
   "dew_point": 36.41,
   "humidity": 0.51,
   "cloud_cover": 0.01,

@@ -11,9 +11,11 @@
   "longitude": -123.4817,
   "location": "-123.4817,39.68833",
   "location_details": "Baxter Ranch",
-  "temperature_high": 87.78,
-  "temperature_mid": 73.335,
-  "temperature_low": 58.89,
+  "temperature": {
+    "high": 87.78,
+    "mid": 73.335,
+    "low": 58.89
+  },
   "dew_point": 53.63,
   "humidity": 0.57,
   "cloud_cover": 0.26,

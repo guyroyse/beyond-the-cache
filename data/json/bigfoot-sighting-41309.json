@@ -11,9 +11,11 @@
   "longitude": -81.95499,
   "location": "-81.95499,28.525",
   "location_details": "1 mile south of the Lake County line (power line)",
-  "temperature_high": 83.5,
-  "temperature_mid": 75.64,
-  "temperature_low": 67.78,
+  "temperature": {
+    "high": 83.5,
+    "mid": 75.64,
+    "low": 67.78
+  },
   "dew_point": 63.19,
   "humidity": 0.69,
   "cloud_cover": 0.44,

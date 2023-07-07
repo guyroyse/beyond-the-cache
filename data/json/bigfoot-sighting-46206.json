@@ -11,9 +11,11 @@
   "longitude": -79.02109,
   "location": "-79.02109,38.51591",
   "location_details": "We had parked on the side of the road at blue hole on 33 and started hiking from there. We where approximately 2 miles up into the forest.",
-  "temperature_high": 79.01,
-  "temperature_mid": 68.665,
-  "temperature_low": 58.32,
+  "temperature": {
+    "high": 79.01,
+    "mid": 68.665,
+    "low": 58.32
+  },
   "dew_point": 57.72,
   "humidity": 0.71,
   "cloud_cover": 0.16,

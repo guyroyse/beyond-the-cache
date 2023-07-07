@@ -11,9 +11,11 @@
   "longitude": -80.60419,
   "location": "-80.60419,38.32548",
   "location_details": "Near the Nicholas Webster county line. About 1.5 miles down railroad tacks",
-  "temperature_high": 72.1,
-  "temperature_mid": 64.26,
-  "temperature_low": 56.42,
+  "temperature": {
+    "high": 72.1,
+    "mid": 64.26,
+    "low": 56.42
+  },
   "dew_point": 52.6,
   "humidity": 0.72,
   "cloud_cover": 0.46,

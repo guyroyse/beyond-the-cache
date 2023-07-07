@@ -11,9 +11,11 @@
   "longitude": -81.4625,
   "location": "-81.4625,38.2639",
   "location_details": "If you go past charleston towards beckley get off the chelyan ceadar grove exit 85 or86 turn rt @ the first light then rt @ the second light then about 1/2 mile turn left under the railroad tracks past paul white chevrolet. Then about 8 miles up slaughters creek turn left",
-  "temperature_high": 55.79,
-  "temperature_mid": 46.53,
-  "temperature_low": 37.27,
+  "temperature": {
+    "high": 55.79,
+    "mid": 46.53,
+    "low": 37.27
+  },
   "dew_point": 26.34,
   "humidity": 0.64,
   "cloud_cover": 0.13,

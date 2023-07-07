@@ -11,9 +11,11 @@
   "longitude": -99.1702,
   "location": "-99.1702,35.3011",
   "location_details": "The creature crossed from one cattle pasture to another, it may have been leaving a pond on the east side of the highway.",
-  "temperature_high": 72.55,
-  "temperature_mid": 63.225,
-  "temperature_low": 53.9,
+  "temperature": {
+    "high": 72.55,
+    "mid": 63.225,
+    "low": 53.9
+  },
   "dew_point": 50.86,
   "humidity": 0.73,
   "cloud_cover": 0.16,

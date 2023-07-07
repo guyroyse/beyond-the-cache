@@ -11,9 +11,11 @@
   "longitude": -142.9,
   "location": "-142.9,61.5",
   "location_details": "On the main trail toward the glacier, before the stream,about 1 mile past the Kennikot settlement at the abandon dynamite shaft.",
-  "temperature_high": 58.35,
-  "temperature_mid": 51.745,
-  "temperature_low": 45.14,
+  "temperature": {
+    "high": 58.35,
+    "mid": 51.745,
+    "low": 45.14
+  },
   "dew_point": 41.59,
   "humidity": 0.75,
   "cloud_cover": 0.85,

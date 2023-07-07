@@ -11,9 +11,11 @@
   "longitude": -82.04508,
   "location": "-82.04508,28.45786",
   "location_details": "Head south on 471. Take a left onto center grade road. Midway down that road off the main road on the left a trail. it is in Richloam wildlife management area.",
-  "temperature_high": 80.08,
-  "temperature_mid": 68.475,
-  "temperature_low": 56.87,
+  "temperature": {
+    "high": 80.08,
+    "mid": 68.475,
+    "low": 56.87
+  },
   "dew_point": 56.43,
   "humidity": 0.73,
   "cloud_cover": 0.29,

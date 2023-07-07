@@ -11,9 +11,11 @@
   "longitude": -123.2208,
   "location": "-123.2208,40.0625",
   "location_details": "Access from East. Started high and paralled the river for 5 - 7 miles.",
-  "temperature_high": 79.7,
-  "temperature_mid": 66.63,
-  "temperature_low": 53.56,
+  "temperature": {
+    "high": 79.7,
+    "mid": 66.63,
+    "low": 53.56
+  },
   "dew_point": 54.6,
   "humidity": 0.65,
   "cloud_cover": 0.53,

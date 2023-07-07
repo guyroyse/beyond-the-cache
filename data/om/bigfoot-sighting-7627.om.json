@@ -1,0 +1,35 @@
+{
+  "reportId": "7627",
+  "title": "Man recalls childhood encounter near Hudson",
+  "date": "2004-02-15",
+  "timestamp": 1076803200,
+  "observed": "About 26 or 27 years ago when I was about 9 or 10 at the time and my sister was either 7 or 8, but we both remember exactly what we saw.  We shared a bedroom in the mobile home that we lived in.  The bedroom window was only about a foot wide and a foot tall and was only about one foot from the ceiling.  One summer night we both woke up with a feeling like something was watching us, and when we looked at the window we both saw a dark figure looking down at us through the window.  the thing that got us both was the red eyes that almost glowed in the dark.  We were so scared that neither of us moved a muscle until whatever it was left.  a couple of weeks later, my mother and I were sitting in the living room watching tv late at night when all of a sudden we both heard a loud bang and the mobile home shook.  the next day when we went outside to look, the middle of the back door had a fist print in it about half way up the door and it was bent in a little.  (it was a metal door.)  and there were big bare foot prints under the door.  the mobile home sat about three feet off the ground at that time, so the bedroom window alone had to be at least 8 feet from the ground. the last thing was in either December or January that winter, my sister and I were waiting at the bus stop to go to school, when we heard something in the palmetto bushes behind us.  We both turned around and saw a dark figure moving the palmetto bushes aside with it's hand to look at us, then duck back down behind the bushes.  it did that for about 10 minutes or so until more kids started showing up at the bus stop, then we didn't see it again.  Neither of us were brave enough at that time to go see what it was.",
+  "classification": "Class B",
+  "county": "Pasco",
+  "state": "Florida",
+  "latitude": 28.41655,
+  "longitude": -82.1426,
+  "location": {
+    "longitude": -82.1426,
+    "latitude": 28.41655
+  },
+  "location_details": "about 40 miles east of Pasco county, and about 5 miles south of Hernando county.  At the time it was nothing but wooded area very sparsley populated.",
+  "temperature": {
+    "high": 69.12,
+    "mid": 57.89,
+    "low": 46.66
+  },
+  "dew_point": 56.95,
+  "humidity": 0.79,
+  "cloud_cover": 0.69,
+  "moon_phase": 0.83,
+  "precip_intensity": 0.0029,
+  "precip_probability": 0.64,
+  "precip_type": "rain",
+  "pressure": 1014.36,
+  "summary": "Mostly cloudy throughout the day and breezy in the afternoon.",
+  "uv_index": 4,
+  "visibility": 9.27,
+  "wind_bearing": 255,
+  "wind_speed": 8.3
+}

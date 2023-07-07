@@ -1,0 +1,35 @@
+{
+  "reportId": "36591",
+  "title": "Runner shadowed by possible biped keeping pace through heavy forest near Wirtz",
+  "date": "2012-10-04",
+  "timestamp": 1349308800,
+  "observed": "I am an avid runner. I run close to 50 miles a week every week. I often run the exact same route. When I trail run I have been followed by deer and other wildlife that comes up from time to time. However, today was different. First I was not on a trail but on a country road near my house. I crossed a main road and was headed out to my turn around point. There is a thick wooded area on the right hand of the road. I heard something in the woods and thought maybe it was a deer or a dog. I kept running but the noise kept happening. It was like someone was in the woods just out of sight running in the leaves as I was running on the road. I would slow down and it would slow down. I would speed up and it would speed up. When I passed a house the noise would stop for a few yards and then pick back up again in the wooded areas. I am an avid hunter. This really sounded like a person or something like a person running along in the woods as I ran the road. Thing is the wooded side of the road is very up and down with several deep drop offs. So whatever was keeping pace with me was able to navigate them with no problem at all. I run a 9 minute mile pace. So whatever was following me in the woods had to keep that pace yet in the woods and the deep valley areas. Maybe I was hearing things. However, there was a recent sighting in our area and I thought I would at least report this to you guys. No visual on what was there. I will keep a better eye out into the woods now if I hear it again though.",
+  "classification": "Class B",
+  "county": "Franklin",
+  "state": "Virginia",
+  "latitude": 37.12815,
+  "longitude": -79.8871,
+  "location": {
+    "longitude": -79.8871,
+    "latitude": 37.12815
+  },
+  "location_details": "Alean Road goes from Wirtz Road to Boones Mill Road in Franklin County and is only about a 7 mile stretch of road.",
+  "temperature": {
+    "high": 75.9,
+    "mid": 63.845,
+    "low": 51.79
+  },
+  "dew_point": 58.56,
+  "humidity": 0.75,
+  "cloud_cover": 0.21,
+  "moon_phase": 0.64,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.16,
+  "precip_type": "rain",
+  "pressure": 1022,
+  "summary": "Clear throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.46,
+  "wind_bearing": 277,
+  "wind_speed": 4.89
+}

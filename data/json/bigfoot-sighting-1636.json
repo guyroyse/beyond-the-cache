@@ -11,9 +11,11 @@
   "longitude": -92.38222,
   "location": "-92.38222,36.19444",
   "location_details": "Approximately 10 miles south of Mountain Home AR. Off of Hwy 5, close to the northern fringe of the Ozark National Forest.",
-  "temperature_high": 65,
-  "temperature_mid": 54.865,
-  "temperature_low": 44.73,
+  "temperature": {
+    "high": 65,
+    "mid": 54.865,
+    "low": 44.73
+  },
   "dew_point": 39.96,
   "humidity": 0.67,
   "cloud_cover": 0.01,

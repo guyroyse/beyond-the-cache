@@ -1,0 +1,35 @@
+{
+  "reportId": "43348",
+  "title": "Memory told of sighting at night along SR 108 near Hagaman",
+  "date": "2014-05-14",
+  "timestamp": 1400025600,
+  "observed": "It was around the year 1989.  I was working at McDonald's in Carlinville, Il and I had closed that night.  I was headed home at around 1:00 a.m. or 2:00 a.m.  I was headed west on IL Hwy 108.  I was going thru an area on the highway known to locals as Hagaman Bottoms.  Just as I was about to approach the bridge at the Bottom of Bell Hill I saw a large creature standing next to the road.  Just as I got near it or just about even with the creature it reached out at my car.  It scared me and I accelerated my car to get away from it.  It was a very bright moonlit night and I could tell that it was dark brown or black in color.  It was also tall as it stood above the top of my car.  The car I owned at the time was a Chevy Celebrity Eurosport.  I remember it standing facing east and when I was passing it it turned south and reached out with its right hand.  This was a very scarey experience for a young girl in a car going home all by herself.",
+  "classification": "Class A",
+  "county": "Macoupin",
+  "state": "Illinois",
+  "latitude": 39.30525,
+  "longitude": -90.0933,
+  "location": {
+    "longitude": -90.0933,
+    "latitude": 39.30525
+  },
+  "location_details": "Leaving Carlinville, IL headed west on IL Hwy 108.  There is a little town named Hagaman.  Go past the Hagaman turn off and you will come to a long bridge just below a big hill called Bell Hill.  The creature stood on the north side of the highway right before you get to the bridge. This is in Macoupin County.",
+  "temperature": {
+    "high": 53.19,
+    "mid": 49.845,
+    "low": 46.5
+  },
+  "dew_point": 45.14,
+  "humidity": 0.83,
+  "cloud_cover": 0.16,
+  "moon_phase": 0.49,
+  "precip_intensity": 0.0094,
+  "precip_probability": 0.87,
+  "precip_type": "rain",
+  "pressure": 1020.24,
+  "summary": "Light rain in the evening.",
+  "uv_index": 8,
+  "visibility": 9.03,
+  "wind_bearing": 347,
+  "wind_speed": 8.91
+}

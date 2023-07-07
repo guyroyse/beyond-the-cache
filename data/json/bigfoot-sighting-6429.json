@@ -11,9 +11,11 @@
   "longitude": -121.6156,
   "location": "-121.6156,40.92911",
   "location_details": "Location was the last hill going south on 299 to Burney, and i remembered also as we observed this creature it did not look back at us, and it was walking in front of us on the opposite side of the road next to a tall caltrans 55 mile speed limit sign.  A approaching car almost hit the creature,as the car was coming down the hill.",
-  "temperature_high": 86.12,
-  "temperature_mid": 68.62,
-  "temperature_low": 51.12,
+  "temperature": {
+    "high": 86.12,
+    "mid": 68.62,
+    "low": 51.12
+  },
   "dew_point": 38.36,
   "humidity": 0.37,
   "cloud_cover": 0.02,

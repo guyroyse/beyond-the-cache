@@ -11,9 +11,11 @@
   "longitude": -89.9758,
   "location": "-89.9758,39.2038",
   "location_details": "I was traveling southbound on County Hwy 6 between the Chesterfield Rd and the town of Plainview at approximately 11:45pm. In the area of Beaver Dam State Park and it was approximately one quarter mile north of the Macoupin Creek Bottoms",
-  "temperature_high": 47.06,
-  "temperature_mid": 38.63,
-  "temperature_low": 30.2,
+  "temperature": {
+    "high": 47.06,
+    "mid": 38.63,
+    "low": 30.2
+  },
   "dew_point": 38.63,
   "humidity": 0.89,
   "cloud_cover": 0.5,

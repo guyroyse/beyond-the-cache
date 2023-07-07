@@ -11,9 +11,11 @@
   "longitude": -89.9595,
   "location": "-89.9595,41.30412",
   "location_details": "North of town on Rt. 78 one mile and turn on to Salebarn Rd. west. About three and three quarter miles around curve to 2450 St. North. Road is short and curves and leads over Mud Creek. There it branches.",
-  "temperature_high": 66.65,
-  "temperature_mid": 55.265,
-  "temperature_low": 43.88,
+  "temperature": {
+    "high": 66.65,
+    "mid": 55.265,
+    "low": 43.88
+  },
   "dew_point": 43.03,
   "humidity": 0.68,
   "cloud_cover": 0.27,

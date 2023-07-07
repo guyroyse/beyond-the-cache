@@ -11,9 +11,11 @@
   "longitude": -122.4428,
   "location": "-122.4428,47.07405",
   "location_details": "Right alongside joint base lewis,McCord boundry sign.",
-  "temperature_high": 63.93,
-  "temperature_mid": 53.89,
-  "temperature_low": 43.85,
+  "temperature": {
+    "high": 63.93,
+    "mid": 53.89,
+    "low": 43.85
+  },
   "dew_point": 49.45,
   "humidity": 0.76,
   "cloud_cover": 0.23,

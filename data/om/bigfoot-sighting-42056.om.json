@@ -1,0 +1,33 @@
+{
+  "reportId": "42056",
+  "title": "Possible activity at a cabin outside Traverse City",
+  "date": "2013-09-02",
+  "timestamp": 1378080000,
+  "observed": "Last night on Sept 2nd my friend was outside with with her 7 pound dog when I stepped out to smoke with her. We both heard a grunting sound, we got scared and ran inside. The next day we went looking in the area where it had come from and we found bushes pressed down at what appeared to be a heel print. I took a couple photos of it. That night we went out and tried to do wood knocks and howls  after about five sets off knocks (I was doing knocks of two and three hits) we heard a distinct wood knock back, it sounded like when a baseball player hits a ball solid. I proceeded to knock and howl and we heard thuds like something hitting the ground. We also heard movement thru the woods and in a stream. We are going to go back and try some more knocks to see if we can add to the story.",
+  "classification": "Class B",
+  "county": "Leelanau",
+  "state": "Michigan",
+  "latitude": 44.83369,
+  "longitude": -85.72845,
+  "location": {
+    "longitude": -85.72845,
+    "latitude": 44.83369
+  },
+  "location_details": "East Fouch Road, Traverse City, MI",
+  "temperature": {
+    "high": 59.71,
+    "mid": 57.275,
+    "low": 54.84
+  },
+  "dew_point": 52.73,
+  "humidity": 0.81,
+  "moon_phase": 0.91,
+  "precip_intensity": 0.0013,
+  "precip_probability": 0.79,
+  "precip_type": "rain",
+  "pressure": 1011.96,
+  "summary": "Clear throughout the day.",
+  "visibility": 9.07,
+  "wind_bearing": 325,
+  "wind_speed": 11.81
+}

@@ -11,9 +11,11 @@
   "longitude": -111.6631,
   "location": "-111.6631,38.8204",
   "location_details": "I-70  Goosberry road exit and then 10 or so miles up the canyon to Hoo Doo canyon.  Very thick trees mostly Quaking Aspens,",
-  "temperature_high": 84.64,
-  "temperature_mid": 68.1,
-  "temperature_low": 51.56,
+  "temperature": {
+    "high": 84.64,
+    "mid": 68.1,
+    "low": 51.56
+  },
   "dew_point": 30.78,
   "humidity": 0.25,
   "cloud_cover": 0.26,

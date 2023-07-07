@@ -11,9 +11,11 @@
   "longitude": -74.59959,
   "location": "-74.59959,41.14652",
   "location_details": "I forget the name of the apartment complex, but it is on rt. 94 in Hamburg NJ and has been there for decades.  My street was called Wit's End Drive...that much I do remember.",
-  "temperature_high": 35.45,
-  "temperature_mid": 33.87,
-  "temperature_low": 32.29,
+  "temperature": {
+    "high": 35.45,
+    "mid": 33.87,
+    "low": 32.29
+  },
   "dew_point": 28.5,
   "humidity": 0.83,
   "cloud_cover": 0.94,

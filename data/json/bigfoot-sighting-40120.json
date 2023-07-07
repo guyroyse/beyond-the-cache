@@ -11,9 +11,11 @@
   "longitude": -89.15173,
   "location": "-89.15173,37.61335",
   "location_details": "Its hard to explain how to get there unless you know the area.  Its near Little Grassy and Devils Kitchen Lake in the Crab Orchard Wild Life Refuge",
-  "temperature_high": 36.05,
-  "temperature_mid": 33.025,
-  "temperature_low": 30,
+  "temperature": {
+    "high": 36.05,
+    "mid": 33.025,
+    "low": 30
+  },
   "dew_point": 30.86,
   "humidity": 0.9,
   "cloud_cover": 0.99,

@@ -11,9 +11,11 @@
   "longitude": -79.77946,
   "location": "-79.77946,38.05408",
   "location_details": "Virginia, Bath County, Warm Springs, Rt 39 on Warm Springs Mountain.",
-  "temperature_high": 78.65,
-  "temperature_mid": 72.125,
-  "temperature_low": 65.6,
+  "temperature": {
+    "high": 78.65,
+    "mid": 72.125,
+    "low": 65.6
+  },
   "dew_point": 66.95,
   "humidity": 0.85,
   "cloud_cover": 0.83,

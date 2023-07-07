@@ -11,9 +11,11 @@
   "longitude": -94.01338,
   "location": "-94.01338,42.10722",
   "location_details": "I had just picked up by daughter from Camp Sacajawea (L Ave) and had gone several miles west on E26 (aka 170th St) toward P70 (aka H Ave) both paved roads with gravel shoulders. Hilly area, there is even a sign that states \"Hill\" just west where the incident happened.",
-  "temperature_high": 76.28,
-  "temperature_mid": 65.81,
-  "temperature_low": 55.34,
+  "temperature": {
+    "high": 76.28,
+    "mid": 65.81,
+    "low": 55.34
+  },
   "dew_point": 57.74,
   "humidity": 0.7,
   "cloud_cover": 0.04,

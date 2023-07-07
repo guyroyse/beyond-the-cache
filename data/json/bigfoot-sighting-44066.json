@@ -11,9 +11,11 @@
   "longitude": -82.14536,
   "location": "-82.14536,40.04603",
   "location_details": "Boat ramp off Rt 146 near Nashport, OH..then head up river to the first bend in the river.",
-  "temperature_high": 60.91,
-  "temperature_mid": 48.64,
-  "temperature_low": 36.37,
+  "temperature": {
+    "high": 60.91,
+    "mid": 48.64,
+    "low": 36.37
+  },
   "dew_point": 29.01,
   "humidity": 0.56,
   "cloud_cover": 0.12,

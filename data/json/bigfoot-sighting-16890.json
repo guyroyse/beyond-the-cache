@@ -11,9 +11,11 @@
   "longitude": -81.1271,
   "location": "-81.1271,37.32091",
   "location_details": "Southern Mercer county WV, not far from VA state line. Between US460 and I-77.",
-  "temperature_high": 81.78,
-  "temperature_mid": 73.985,
-  "temperature_low": 66.19,
+  "temperature": {
+    "high": 81.78,
+    "mid": 73.985,
+    "low": 66.19
+  },
   "dew_point": 67.4,
   "humidity": 0.78,
   "cloud_cover": 0.38,

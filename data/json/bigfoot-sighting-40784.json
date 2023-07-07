@@ -11,9 +11,11 @@
   "longitude": -83.96767,
   "location": "-83.96767,30.40785",
   "location_details": "There's a big lake across the dirt road from where this old dump used to be. The back side of that lake is a bad swamp.",
-  "temperature_high": 88.77,
-  "temperature_mid": 80.375,
-  "temperature_low": 71.98,
+  "temperature": {
+    "high": 88.77,
+    "mid": 80.375,
+    "low": 71.98
+  },
   "dew_point": 72.97,
   "humidity": 0.83,
   "cloud_cover": 0.84,

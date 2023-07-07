@@ -11,9 +11,11 @@
   "longitude": -73.47686,
   "location": "-73.47686,42.08354",
   "location_details": "Mount Washington State Forest is located in the southern Berkshires of western Massachusetts. From East or West/Mass Pike (I-90): Take Exit 2 in Lee. Follow MA Rte. 102 west for 4.7 miles to Stockbridge. Turn left and follow U.S. Rte. 7 south for 7.7 miles through Great Barrington. Turn right and follow MA Rte. 23 west for 4.9 miles to South Egremont. Turn left onto MA Rte. 41 south, then take immediate right, Mount Washington Road; continue for 8.8 miles (becomes East St.) to park entrance and headquarters. From West, North and South/NY Rte. 22: From NY Rte. 22 in Copake Falls, NY take NY Rte. 344 east into Massachusetts (becomes Falls Rd.) for 3.3 miles. Turn right onto West Street and continue for 2 miles, bearing right onto East Street. Parking and trailhead are on right.",
-  "temperature_high": 57.09,
-  "temperature_mid": 49.395,
-  "temperature_low": 41.7,
+  "temperature": {
+    "high": 57.09,
+    "mid": 49.395,
+    "low": 41.7
+  },
   "dew_point": 25.38,
   "humidity": 0.48,
   "cloud_cover": 0.05,

@@ -11,9 +11,11 @@
   "longitude": -74.36187,
   "location": "-74.36187,39.98216",
   "location_details": "U can post it and if u wanna call me cool but I don't want my full name involved in anything. I'm stressed enough and don't need any more smart jokes.",
-  "temperature_high": 44.18,
-  "temperature_mid": 41.095,
-  "temperature_low": 38.01,
+  "temperature": {
+    "high": 44.18,
+    "mid": 41.095,
+    "low": 38.01
+  },
   "dew_point": 20.67,
   "humidity": 0.45,
   "cloud_cover": 0.25,

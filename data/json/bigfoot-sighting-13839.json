@@ -11,9 +11,11 @@
   "longitude": -123.375,
   "location": "-123.375,41.8111",
   "location_details": "On a very primitive private piece of land right near a river also were at an active animal crossing for the river.",
-  "temperature_high": 75.64,
-  "temperature_mid": 65.685,
-  "temperature_low": 55.73,
+  "temperature": {
+    "high": 75.64,
+    "mid": 65.685,
+    "low": 55.73
+  },
   "dew_point": 53.51,
   "humidity": 0.66,
   "cloud_cover": 0.31,

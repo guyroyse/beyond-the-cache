@@ -1,0 +1,35 @@
+{
+  "reportId": "24194",
+  "title": "Hiker describes possible near encounter on the Colorado Trail near Mt. Massive",
+  "date": "2001-09-04",
+  "timestamp": 999561600,
+  "observed": "On Sept. 4, 2001, I climbed Mt. Massive, southwest of Leadville. The route I took starts at the Mt. Massive trailhead, in the wooded valley where the Colorado Trail crosses Halfmoon Creek. The elevation of this area is just over 10,000 feet. Near the end of this long hike, at about 6:30 PM, I was approaching the trailhead parking lot, maybe several hundred yards ahead, when I heard an animal walking through the trees to my right. The trees in this area are dense, so I couldn't see anything moving. But I could clearly hear loud footsteps crunching through the underbrush, about 100 to 150 feet away. I was not particularly worried, because the animal was rapidly moving in the opposite direction I was headed. After about 10 or 20 seconds, the animal made a loud, deep, resonant bark, like a combined dog bark and foghorn. The crunching footsteps continued moving away, when after 20 or 30 seconds, the animal made another loud bark, exactly like the first. I didn't hear anything else. I never saw anything. No one else was in the area.  I immediately presumed this animal was a black bear. This explanation seemed satisfactory until a few months ago, when I found out that black bears don't make any sound similar to the bark I heard. Also, the footsteps sounded as if made by a bipedal animal, but bears don't walk on two legs.",
+  "classification": "Class B",
+  "county": "Lake",
+  "state": "Colorado",
+  "latitude": 39.15735,
+  "longitude": -106.4213,
+  "location": {
+    "longitude": -106.4213,
+    "latitude": 39.15735
+  },
+  "location_details": "On the Colorado Trail, a few hundred yards east of the Mt. Massive trailhead",
+  "temperature": {
+    "high": 80.72,
+    "mid": 62.06,
+    "low": 43.4
+  },
+  "dew_point": 35.73,
+  "humidity": 0.43,
+  "cloud_cover": 0.2,
+  "moon_phase": 0.56,
+  "precip_intensity": 0.0004,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1016.05,
+  "summary": "Partly cloudy starting in the afternoon.",
+  "uv_index": 9,
+  "visibility": 9.96,
+  "wind_bearing": 157,
+  "wind_speed": 3.2
+}

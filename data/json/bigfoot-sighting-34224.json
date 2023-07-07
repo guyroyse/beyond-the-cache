@@ -11,9 +11,11 @@
   "longitude": -85.61766,
   "location": "-85.61766,31.30503",
   "location_details": "I am a pastor and do not want people to doubt me which would in turn damage my ability to minister. I have been in the area over a decade and feel I have credibility here and would do nothing to harm that. Yet I still wanted to report it without publicity.",
-  "temperature_high": 74.68,
-  "temperature_mid": 63.975,
-  "temperature_low": 53.27,
+  "temperature": {
+    "high": 74.68,
+    "mid": 63.975,
+    "low": 53.27
+  },
   "dew_point": 44.07,
   "humidity": 0.64,
   "cloud_cover": 0.11,

@@ -11,9 +11,11 @@
   "longitude": -83.21461,
   "location": "-83.21461,36.38632",
   "location_details": "it was on TVA land on the back side of short moutain.and the lake was down",
-  "temperature_high": 63.54,
-  "temperature_mid": 56.74,
-  "temperature_low": 49.94,
+  "temperature": {
+    "high": 63.54,
+    "mid": 56.74,
+    "low": 49.94
+  },
   "dew_point": 46.55,
   "humidity": 0.76,
   "cloud_cover": 0.46,

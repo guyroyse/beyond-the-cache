@@ -1,0 +1,35 @@
+{
+  "reportId": "12628",
+  "title": "Possible sighting in woods separating farms west of Tarrytown",
+  "date": "1990-06-01",
+  "timestamp": 644198400,
+  "observed": "[I] was walking with two other freinds,in the woods, on a sunday afternoon, when we came upon an abbandoned camp site,we decided to take the tent back to my house. [T]he next day me and my dog whent back to get other stuff, frying pans,couple of stools,just camping things i thought someone didnt want anymore. [O]n the way there i got about halfway through the feild,looking towards the tree line,i saw something that wasnt there the day before.   [I]t was standing in the tree line kinda squatting,standing very still,and looking at me,it had reddish,brown hair,long arms.oval head,its face was kinda blurry,iwas approx. 3-400 feet away. [I] turned and ran as fast as i could.",
+  "classification": "Class B",
+  "county": "Sumter",
+  "state": "Florida",
+  "latitude": 28.555,
+  "longitude": -82.055,
+  "location": {
+    "longitude": -82.055,
+    "latitude": 28.555
+  },
+  "location_details": "[West of Tarrytown -- Specific location details removed from this version of the report]",
+  "temperature": {
+    "high": 88.04,
+    "mid": 81.395,
+    "low": 74.75
+  },
+  "dew_point": 71.91,
+  "humidity": 0.79,
+  "cloud_cover": 0.59,
+  "moon_phase": 0.29,
+  "precip_intensity": 0.015,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1020.42,
+  "summary": "Heavy rain in the evening.",
+  "uv_index": 8,
+  "visibility": 7.54,
+  "wind_bearing": 87,
+  "wind_speed": 6.29
+}

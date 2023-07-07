@@ -1,0 +1,34 @@
+{
+  "reportId": "23068",
+  "title": "Unknown animal heard crashing through property near Blyn and Sequim Bay",
+  "date": "2008-06-01",
+  "timestamp": 1212278400,
+  "observed": "After I read several articles of experiences I feel I should tell my story... In 1983 I lived in an old cabin off of Chicken Coop Road and Highway 1 near Sequim. The cabin was very remote and there was a 200 acre tract behind us that was second growth forest and very lush. I remember the 4 to 5' ferns and very large trees. The outhouse was about 100' from the house and across a stream. When I walked out the door I untied my Rottweiler/Doberman mix so she could walk with me. She was a very protective dog and I always felt safe with her around. Well she immediately ran under the cabin and refused to come out. Then I heard the crashing through the small alders on my left and it sounded BIG. I immediately ran back into the cabin and got my husband. He ran out the front door and heard the crashing through the trees. Needless to say, I slept with a wooden baseball bat and my husband slept with a machete since we didn't have anything else. That next morning we investigated the area we heard the sounds from. The grove of small 4\" alders that grew in that draw were broken off about 4' up from the bases of the trees. We found no tracks but there was a clear trail through that stand of trees. I don't what it was but I've been in the mountains most of my life and I'm familiar with most of the woodland creatures. I've never been so scared in my life and after 25 years and I remember very clearly as if it was yesterday. ",
+  "classification": "Class B",
+  "county": "Jefferson",
+  "state": "Washington",
+  "latitude": 48.03632,
+  "longitude": -122.9539,
+  "location": {
+    "longitude": -122.9539,
+    "latitude": 48.03632
+  },
+  "location_details": "Chicken Coop Road and Highway 1, Opposite of Chicken Coop Road is Diamond Point and it turns into Craig Road South.",
+  "temperature": {
+    "high": 56.1,
+    "mid": 52.62,
+    "low": 49.14
+  },
+  "dew_point": 43.46,
+  "humidity": 0.72,
+  "cloud_cover": 0.89,
+  "moon_phase": 0.92,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1020.8,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.98,
+  "wind_bearing": 253,
+  "wind_speed": 10.38
+}

@@ -11,9 +11,11 @@
   "longitude": -121.4844,
   "location": "-121.4844,47.1144",
   "location_details": "forest service road 70 snowed over",
-  "temperature_high": 68.61,
-  "temperature_mid": 54.785,
-  "temperature_low": 40.96,
+  "temperature": {
+    "high": 68.61,
+    "mid": 54.785,
+    "low": 40.96
+  },
   "dew_point": 28.58,
   "humidity": 0.45,
   "cloud_cover": 0.07,

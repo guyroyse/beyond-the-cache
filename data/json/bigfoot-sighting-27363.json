@@ -11,9 +11,11 @@
   "longitude": -80.27,
   "location": "-80.27,38.98",
   "location_details": "Off of Brushy Fork near Buckhannon",
-  "temperature_high": 70.45,
-  "temperature_mid": 60.695,
-  "temperature_low": 50.94,
+  "temperature": {
+    "high": 70.45,
+    "mid": 60.695,
+    "low": 50.94
+  },
   "dew_point": 53.09,
   "humidity": 0.78,
   "cloud_cover": 0.6,

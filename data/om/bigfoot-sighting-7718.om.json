@@ -1,0 +1,35 @@
+{
+  "reportId": "7718",
+  "title": "Four teens camping hear grunting or snorting, observe creature walk from corn field into the woods",
+  "date": "2003-09-03",
+  "timestamp": 1062547200,
+  "observed": "I was with my friends at one of their houses. We were spending the night in a tent in his back yard and we had a small fire going. We had been hearing strange noises, like some animal grunting or snorting for about 15 minutes when we noticed a 10-12 foot tall hairy creature walking upright along a tree line at the edge of a corn field. We could see it since the corn was recently harvested down to the stalks. The creature appeared for about 20 seconds and then looked in our direction and took off into the woods. We could hear tree limbs falling and we could hear some more noises as it ran off. It was the scariest moment of my life, and I am not scared easily.",
+  "classification": "Class A",
+  "county": "Miami",
+  "state": "Ohio",
+  "latitude": 39.89172,
+  "longitude": -84.14493,
+  "location": {
+    "longitude": -84.14493,
+    "latitude": 39.89172
+  },
+  "location_details": "State Route 202 heading south to Ross road then to Wildcat Road.",
+  "temperature": {
+    "high": 77.45,
+    "mid": 70.375,
+    "low": 63.3
+  },
+  "dew_point": 66.15,
+  "humidity": 0.87,
+  "cloud_cover": 0.73,
+  "moon_phase": 0.25,
+  "precip_intensity": 0.0026,
+  "precip_probability": 0.19,
+  "precip_type": "rain",
+  "pressure": 1015.66,
+  "summary": "Mostly cloudy until evening.",
+  "uv_index": 5,
+  "visibility": 6.24,
+  "wind_bearing": 266,
+  "wind_speed": 4.27
+}

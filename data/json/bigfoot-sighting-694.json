@@ -11,9 +11,11 @@
   "longitude": -118.2742,
   "location": "-118.2742,45.3233",
   "location_details": "Hwy 84 in the Umatilla National Forest by Emigrant Springs State Heritage Site (a park)",
-  "temperature_high": 73.67,
-  "temperature_mid": 62.975,
-  "temperature_low": 52.28,
+  "temperature": {
+    "high": 73.67,
+    "mid": 62.975,
+    "low": 52.28
+  },
   "dew_point": 44.67,
   "humidity": 0.53,
   "cloud_cover": 0.54,

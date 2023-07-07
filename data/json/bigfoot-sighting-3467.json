@@ -11,9 +11,11 @@
   "longitude": -89.0111,
   "location": "-89.0111,37.846",
   "location_details": "Williamson County, Illinois.  Woods northeast of Chittyville, Illinois, which itself is an unincorporated area north of Herrin.  One sighting in the area specifically mentioned \"near\" Route 148 which runs due north from Herrin to Chittyville, and then off to the northwest from Chittyville.",
-  "temperature_high": 85.24,
-  "temperature_mid": 79.12,
-  "temperature_low": 73,
+  "temperature": {
+    "high": 85.24,
+    "mid": 79.12,
+    "low": 73
+  },
   "dew_point": 73.02,
   "humidity": 0.86,
   "cloud_cover": 0.73,

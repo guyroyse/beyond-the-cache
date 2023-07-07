@@ -11,9 +11,11 @@
   "longitude": -81.67339,
   "location": "-81.67339,39.38745",
   "location_details": "Vincent, Ohio (In theWayne National Forest)",
-  "temperature_high": 76.32,
-  "temperature_mid": 70.44,
-  "temperature_low": 64.56,
+  "temperature": {
+    "high": 76.32,
+    "mid": 70.44,
+    "low": 64.56
+  },
   "dew_point": 62.45,
   "humidity": 0.82,
   "cloud_cover": 0.86,

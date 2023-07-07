@@ -1,0 +1,35 @@
+{
+  "reportId": "1996",
+  "title": "Screams wake campers on consecutive nights at Cle Elum Lake",
+  "date": "2004-10-16",
+  "timestamp": 1097884800,
+  "observed": "I saw the story about the BFRO on animal planet's Animal X show and the tape recorded \"calls\" you were using to attract Sasquatch was exactly what I heard about while camping on Lake Cle Elum in central Washington state. My Mom and i had gone camping for the weekend and Saturday morning she claimed she heard the most terrible screaming sound the night before that lasted a few hours.I'm a heavy sleeper so I told her to wake me up if the sound continued that night as well. Around four in the morning she woke me up and told me to listen. It wasn't long before I heard the screaming that sounded like nothing either of us had heard before. It was also very very loud. We left the tent and everyone around us in all the other campsites was awake too.The sound was exactly what I heard on your recording. A chill still runs down my spine when I hear it.",
+  "classification": "Class B",
+  "county": "Kittitas",
+  "state": "Washington",
+  "latitude": 47.2842,
+  "longitude": -121.0777,
+  "location": {
+    "longitude": -121.0777,
+    "latitude": 47.2842
+  },
+  "location_details": "from Cle Elum, drive ten miles northwest on highway 903, then turn west on forest service road 112",
+  "temperature": {
+    "high": 57.03,
+    "mid": 53.11,
+    "low": 49.19
+  },
+  "dew_point": 49.53,
+  "humidity": 0.84,
+  "cloud_cover": 0.86,
+  "moon_phase": 0.09,
+  "precip_intensity": 0.0194,
+  "precip_probability": 0.76,
+  "precip_type": "rain",
+  "pressure": 1001.82,
+  "summary": "Rain until afternoon.",
+  "uv_index": 2,
+  "visibility": 6.77,
+  "wind_bearing": 241,
+  "wind_speed": 5.58
+}

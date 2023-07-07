@@ -11,9 +11,11 @@
   "longitude": -119.5423,
   "location": "-119.5423,48.94655",
   "location_details": "directions are as follows: from oroville pass through nighthawk then turn right on chopaka rd just before palmer lake.  travel halfway down chopaka road to BLM hunter access point.  climb 3/4 up the east saddle between chopaka and hurley mt.",
-  "temperature_high": 60.43,
-  "temperature_mid": 47.025,
-  "temperature_low": 33.62,
+  "temperature": {
+    "high": 60.43,
+    "mid": 47.025,
+    "low": 33.62
+  },
   "dew_point": 39.5,
   "humidity": 0.67,
   "cloud_cover": 0.45,

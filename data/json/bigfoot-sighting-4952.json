@@ -11,9 +11,11 @@
   "longitude": -80.78826,
   "location": "-80.78826,40.2831",
   "location_details": "Jefferson County Ohio. The town of Smithfield, Friendship Lake. I do not recall the name of the road. The segment of road that connects the gates of Friendship lake to the town of Smithfield. Traveling from the gate to towards the town. The incident occured in a field on the right hand side of the road, about 1/2 way up the hill.",
-  "temperature_high": 38.47,
-  "temperature_mid": 35.57,
-  "temperature_low": 32.67,
+  "temperature": {
+    "high": 38.47,
+    "mid": 35.57,
+    "low": 32.67
+  },
   "dew_point": 29.13,
   "humidity": 0.83,
   "cloud_cover": 0.77,

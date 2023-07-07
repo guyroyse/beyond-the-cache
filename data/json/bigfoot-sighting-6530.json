@@ -11,9 +11,11 @@
   "longitude": -91.01565,
   "location": "-91.01565,30.49905",
   "location_details": "The are is full of small streams that flow in to Beaver Creek.",
-  "temperature_high": 93.07,
-  "temperature_mid": 82.365,
-  "temperature_low": 71.66,
+  "temperature": {
+    "high": 93.07,
+    "mid": 82.365,
+    "low": 71.66
+  },
   "dew_point": 69.67,
   "humidity": 0.66,
   "cloud_cover": 0.1,

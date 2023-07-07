@@ -11,9 +11,11 @@
   "longitude": -81.6143,
   "location": "-81.6143,26.6878",
   "location_details": "It's about 15 miles East of I-75 right off of SR. 80 e-mail for more info.",
-  "temperature_high": 73.89,
-  "temperature_mid": 64.725,
-  "temperature_low": 55.56,
+  "temperature": {
+    "high": 73.89,
+    "mid": 64.725,
+    "low": 55.56
+  },
   "dew_point": 47.07,
   "humidity": 0.59,
   "cloud_cover": 0.09,

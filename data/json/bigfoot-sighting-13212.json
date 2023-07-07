@@ -11,9 +11,11 @@
   "longitude": -80.04166,
   "location": "-80.04166,36.94165",
   "location_details": "From Roanoke: 220 South to Rocky Mount, then 40 West past Ferrum College",
-  "temperature_high": 44.36,
-  "temperature_mid": 37.63,
-  "temperature_low": 30.9,
+  "temperature": {
+    "high": 44.36,
+    "mid": 37.63,
+    "low": 30.9
+  },
   "dew_point": 20.47,
   "humidity": 0.38,
   "cloud_cover": 0.15,

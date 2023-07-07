@@ -11,9 +11,11 @@
   "longitude": -118.5518,
   "location": "-118.5518,45.3712",
   "location_details": "Beginning from Pilot Rock, Oregon, go south on E. Birch Creek Rd. for about 18 miles,  traveling around the east side of Indian Lake to the campground located on the NW side of the lake.",
-  "temperature_high": 81.04,
-  "temperature_mid": 67.02,
-  "temperature_low": 53,
+  "temperature": {
+    "high": 81.04,
+    "mid": 67.02,
+    "low": 53
+  },
   "dew_point": 42.81,
   "humidity": 0.48,
   "cloud_cover": 0.33,

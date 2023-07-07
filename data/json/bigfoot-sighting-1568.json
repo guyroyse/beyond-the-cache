@@ -11,9 +11,11 @@
   "longitude": -122.8858,
   "location": "-122.8858,47.27667",
   "location_details": "Harstine Isl. several miles N.E. of Shelton, off Hwy. 3",
-  "temperature_high": 55.55,
-  "temperature_mid": 51.945,
-  "temperature_low": 48.34,
+  "temperature": {
+    "high": 55.55,
+    "mid": 51.945,
+    "low": 48.34
+  },
   "dew_point": 51.29,
   "humidity": 0.91,
   "cloud_cover": 0.95,

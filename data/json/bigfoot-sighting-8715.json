@@ -11,9 +11,11 @@
   "longitude": -84.588,
   "location": "-84.588,38.528",
   "location_details": "30-40 miles south of Cincinnati, OH on Interstate 75.",
-  "temperature_high": 36.88,
-  "temperature_mid": 33.955,
-  "temperature_low": 31.03,
+  "temperature": {
+    "high": 36.88,
+    "mid": 33.955,
+    "low": 31.03
+  },
   "dew_point": 25.46,
   "humidity": 0.79,
   "cloud_cover": 0.47,

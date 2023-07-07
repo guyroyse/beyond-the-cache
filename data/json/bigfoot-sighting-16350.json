@@ -11,9 +11,11 @@
   "longitude": -119.7595,
   "location": "-119.7595,48.3912",
   "location_details": "From HWY 20 turn on Loup Loup Canyon Road 4-5 miles to Rock Creek Campground",
-  "temperature_high": 57.38,
-  "temperature_mid": 50.845,
-  "temperature_low": 44.31,
+  "temperature": {
+    "high": 57.38,
+    "mid": 50.845,
+    "low": 44.31
+  },
   "dew_point": 39.74,
   "humidity": 0.76,
   "cloud_cover": 0.43,

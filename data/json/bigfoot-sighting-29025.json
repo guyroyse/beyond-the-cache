@@ -11,9 +11,11 @@
   "longitude": -122.4331,
   "location": "-122.4331,46.88234",
   "location_details": "warehouser land tule lake",
-  "temperature_high": 85.12,
-  "temperature_mid": 72.025,
-  "temperature_low": 58.93,
+  "temperature": {
+    "high": 85.12,
+    "mid": 72.025,
+    "low": 58.93
+  },
   "dew_point": 57.36,
   "humidity": 0.62,
   "cloud_cover": 0.26,

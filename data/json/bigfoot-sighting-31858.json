@@ -11,9 +11,11 @@
   "longitude": -87.68468,
   "location": "-87.68468,38.71682",
   "location_details": "What ever it was it came from the left to right by some grain bins across 12th Street. It took just seconds to run across the road going west.  We are rural here at my location.",
-  "temperature_high": 49.4,
-  "temperature_mid": 45.925,
-  "temperature_low": 42.45,
+  "temperature": {
+    "high": 49.4,
+    "mid": 45.925,
+    "low": 42.45
+  },
   "dew_point": 39.6,
   "humidity": 0.77,
   "cloud_cover": 0.99,

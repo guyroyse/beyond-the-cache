@@ -11,9 +11,11 @@
   "longitude": -88.55,
   "location": "-88.55,37.63",
   "location_details": "8 miles south/southeast of Harrisburg, Illinois, 2 miles south of a small burg called Mitchellville, at the edge of the Shawnee National Forest.",
-  "temperature_high": 51.63,
-  "temperature_mid": 43.06,
-  "temperature_low": 34.49,
+  "temperature": {
+    "high": 51.63,
+    "mid": 43.06,
+    "low": 34.49
+  },
   "dew_point": 23.94,
   "humidity": 0.61,
   "cloud_cover": 0.08,

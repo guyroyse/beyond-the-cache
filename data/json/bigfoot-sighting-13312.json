@@ -11,9 +11,11 @@
   "longitude": -80.985,
   "location": "-80.985,39.51",
   "location_details": "Southeast of Sistersville WV. Along county road 3 miles from the Ohio River.",
-  "temperature_high": 27.38,
-  "temperature_mid": 18.815,
-  "temperature_low": 10.25,
+  "temperature": {
+    "high": 27.38,
+    "mid": 18.815,
+    "low": 10.25
+  },
   "dew_point": 16.73,
   "humidity": 0.71,
   "cloud_cover": 0.71,

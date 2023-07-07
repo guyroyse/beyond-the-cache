@@ -11,9 +11,11 @@
   "longitude": -87.5047,
   "location": "-87.5047,31.20325",
   "location_details": "the location is between the oil well road and the country store",
-  "temperature_high": 87.37,
-  "temperature_mid": 82.645,
-  "temperature_low": 77.92,
+  "temperature": {
+    "high": 87.37,
+    "mid": 82.645,
+    "low": 77.92
+  },
   "dew_point": 70.61,
   "humidity": 0.73,
   "cloud_cover": 0.3,

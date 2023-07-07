@@ -11,9 +11,11 @@
   "longitude": -93.9475,
   "location": "-93.9475,33.18639",
   "location_details": "Close to Miller County Wildlife Management Area, not far from Mercer Bayou in an area called Thorton Wells not far from Fouke, Ark between 71 and Old Blackmon Ferry Rd.",
-  "temperature_high": 70.22,
-  "temperature_mid": 64.04,
-  "temperature_low": 57.86,
+  "temperature": {
+    "high": 70.22,
+    "mid": 64.04,
+    "low": 57.86
+  },
   "dew_point": 44.11,
   "humidity": 0.65,
   "cloud_cover": 0.21,

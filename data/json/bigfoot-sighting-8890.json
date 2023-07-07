@@ -11,9 +11,11 @@
   "longitude": -92.411,
   "location": "-92.411,38.305",
   "location_details": "About 200 to 400 yds.south of Buster Rd. on Hwy 17 in the middle of the highway.",
-  "temperature_high": 52.55,
-  "temperature_mid": 49.59,
-  "temperature_low": 46.63,
+  "temperature": {
+    "high": 52.55,
+    "mid": 49.59,
+    "low": 46.63
+  },
   "dew_point": 37.42,
   "humidity": 0.87,
   "cloud_cover": 0.54,

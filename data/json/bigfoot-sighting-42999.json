@@ -11,9 +11,11 @@
   "longitude": -77.85507,
   "location": "-77.85507,34.78052",
   "location_details": "The location you go down Deep Bottom Road in Chinquapin NC and take Angola Bay road to the land.",
-  "temperature_high": 65.58,
-  "temperature_mid": 57.775,
-  "temperature_low": 49.97,
+  "temperature": {
+    "high": 65.58,
+    "mid": 57.775,
+    "low": 49.97
+  },
   "dew_point": 42.07,
   "humidity": 0.77,
   "cloud_cover": 0.17,

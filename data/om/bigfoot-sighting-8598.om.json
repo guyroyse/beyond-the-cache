@@ -1,0 +1,33 @@
+{
+  "reportId": "8598",
+  "title": "Daylight Sighting by Hikers Near Bennett Mountain",
+  "date": "1986-07-01",
+  "timestamp": 520560000,
+  "observed": "It was in the summer of 1986 when myself, my friend and his brother set off to climb Bennett Peak in Santa Rosa. Back then there was only a golf course separating the rural area from Annadel State Park. The way we climbed took us over a series of smaller hills before we got to the base of the peak. On our descent off the last hill we took a break knowing the large climb ahead of us. Just then we heard the loud snapping and cracking of tree limbs directly across the valley that separated ourselves from Bennett Peak. It was then I spied a huge brown/black hairy back trucking up the peak at a very fast pace. As this creature moved up the hill it basically was clearing all of the foliage, mainly oak tree branches, out of its way. When we reached the spot where we saw this thing, we noticed that the tree branches that were damaged were four to five feet off the ground. Bear? Maybe but we don't get much bear in Santa Rosa.",
+  "classification": "Class B",
+  "county": "Sonoma",
+  "state": "California",
+  "latitude": 38.415,
+  "longitude": -122.585,
+  "location": {
+    "longitude": -122.585,
+    "latitude": 38.415
+  },
+  "location_details": "Bennett Peak behind Bennett Valley Golf Course",
+  "temperature": {
+    "high": 88.2,
+    "mid": 72.37,
+    "low": 56.54
+  },
+  "dew_point": 52.33,
+  "humidity": 0.55,
+  "cloud_cover": 0.07,
+  "moon_phase": 0.83,
+  "precip_type": "rain",
+  "pressure": 1013.99,
+  "summary": "Clear throughout the day.",
+  "uv_index": 11,
+  "visibility": 9.26,
+  "wind_bearing": 248,
+  "wind_speed": 5.69
+}

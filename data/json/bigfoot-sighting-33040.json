@@ -11,9 +11,11 @@
   "longitude": -90.6757,
   "location": "-90.6757,40.1348",
   "location_details": "From Rushville drive 2 miles north on U.S. 67 and then west about 4 1/2 miles.",
-  "temperature_high": 46.2,
-  "temperature_mid": 38.295,
-  "temperature_low": 30.39,
+  "temperature": {
+    "high": 46.2,
+    "mid": 38.295,
+    "low": 30.39
+  },
   "dew_point": 29.63,
   "humidity": 0.75,
   "cloud_cover": 0.66,

@@ -11,9 +11,11 @@
   "longitude": -105.5728,
   "location": "-105.5728,40.33838",
   "location_details": "Both incidents occurred on the YMCA Campus located in Estes Park.",
-  "temperature_high": 21.89,
-  "temperature_mid": 18.7,
-  "temperature_low": 15.51,
+  "temperature": {
+    "high": 21.89,
+    "mid": 18.7,
+    "low": 15.51
+  },
   "dew_point": 17.99,
   "humidity": 0.91,
   "moon_phase": 0.34,

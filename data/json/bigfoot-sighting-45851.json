@@ -11,9 +11,11 @@
   "longitude": -94.40015,
   "location": "-94.40015,39.60238",
   "location_details": "I could provide the approximate location again but there are no real distinguishing landmarks which make this area of the roadway stand out from the rest of the surroundings.",
-  "temperature_high": 87.91,
-  "temperature_mid": 81.4,
-  "temperature_low": 74.89,
+  "temperature": {
+    "high": 87.91,
+    "mid": 81.4,
+    "low": 74.89
+  },
   "dew_point": 68.65,
   "humidity": 0.74,
   "cloud_cover": 0.13,

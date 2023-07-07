@@ -11,9 +11,11 @@
   "longitude": -121.3034,
   "location": "-121.3034,46.85524",
   "location_details": "OK to post online: Location was at Bumping Lake, Upper Campground site #37. Very end of the campground loop.  And on Swamp/Cougar Lake trail.",
-  "temperature_high": 73.23,
-  "temperature_mid": 64.475,
-  "temperature_low": 55.72,
+  "temperature": {
+    "high": 73.23,
+    "mid": 64.475,
+    "low": 55.72
+  },
   "dew_point": 49.79,
   "humidity": 0.63,
   "cloud_cover": 0.08,

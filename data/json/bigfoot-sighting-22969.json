@@ -11,9 +11,11 @@
   "longitude": -85.87055,
   "location": "-85.87055,33.46345",
   "location_details": "(topozone.com map 33° 27.85'N, 85° 52.21'W - across road from red #13 about 200 yds. )  This is in the Talladega National Forest on the Pinhote Trail SE of McDill Point and NW of Odum Trail, on the SE side of Henderson Peak (as pointed out by the Troop Leader).",
-  "temperature_high": 36.07,
-  "temperature_mid": 27.12,
-  "temperature_low": 18.17,
+  "temperature": {
+    "high": 36.07,
+    "mid": 27.12,
+    "low": 18.17
+  },
   "dew_point": 23.92,
   "humidity": 0.65,
   "cloud_cover": 0.72,

@@ -11,9 +11,11 @@
   "longitude": -94.22043,
   "location": "-94.22043,38.99353",
   "location_details": "There are a few houses with acreage in the area;",
-  "temperature_high": 42.4,
-  "temperature_mid": 32.89,
-  "temperature_low": 23.38,
+  "temperature": {
+    "high": 42.4,
+    "mid": 32.89,
+    "low": 23.38
+  },
   "dew_point": 24.4,
   "humidity": 0.69,
   "cloud_cover": 0.09,

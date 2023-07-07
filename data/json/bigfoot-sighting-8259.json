@@ -11,9 +11,11 @@
   "longitude": -68.8405,
   "location": "-68.8405,46.1333",
   "location_details": "We were camped south of Long Pond in the Trout Brook Mt. Quad of Baxter State Park. We were were walking south from the southern shore of Long Pond toward the elevation of Billfish Mt. (Baxter State Park contains Mt. Katadhin).",
-  "temperature_high": 39.28,
-  "temperature_mid": 37.555,
-  "temperature_low": 35.83,
+  "temperature": {
+    "high": 39.28,
+    "mid": 37.555,
+    "low": 35.83
+  },
   "dew_point": 32.76,
   "humidity": 0.86,
   "cloud_cover": 1,

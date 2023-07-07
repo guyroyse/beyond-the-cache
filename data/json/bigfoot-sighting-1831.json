@@ -11,9 +11,11 @@
   "longitude": -80.17845,
   "location": "-80.17845,26.28585",
   "location_details": "Lyons halfway between Sample and Hillsboro, roughly where the Wiles rioad extension is being built.",
-  "temperature_high": 86.3,
-  "temperature_mid": 83.65,
-  "temperature_low": 81,
+  "temperature": {
+    "high": 86.3,
+    "mid": 83.65,
+    "low": 81
+  },
   "dew_point": 75.34,
   "humidity": 0.83,
   "cloud_cover": 0.86,

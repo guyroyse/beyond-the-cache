@@ -11,9 +11,11 @@
   "longitude": -93.6383,
   "location": "-93.6383,36.7279",
   "location_details": "on flat creek past EE hwy. about 2 miles ",
-  "temperature_high": 84.41,
-  "temperature_mid": 76.34,
-  "temperature_low": 68.27,
+  "temperature": {
+    "high": 84.41,
+    "mid": 76.34,
+    "low": 68.27
+  },
   "dew_point": 67.32,
   "humidity": 0.81,
   "cloud_cover": 0.57,

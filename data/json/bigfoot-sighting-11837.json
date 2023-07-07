@@ -11,9 +11,11 @@
   "longitude": -120.0969,
   "location": "-120.0969,38.96",
   "location_details": "We were south of Tahoe City, and north of Sugar Pine Campground.",
-  "temperature_high": 53.29,
-  "temperature_mid": 47.765,
-  "temperature_low": 42.24,
+  "temperature": {
+    "high": 53.29,
+    "mid": 47.765,
+    "low": 42.24
+  },
   "dew_point": 43.29,
   "humidity": 0.83,
   "cloud_cover": 0.92,

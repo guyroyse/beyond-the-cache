@@ -11,9 +11,11 @@
   "longitude": -86.84557,
   "location": "-86.84557,33.89833",
   "location_details": "I believe it is exit 287 off I-65. I think at that time there was only an exit at that location in one direction. I saw the creature on a curve near the interstate.",
-  "temperature_high": 58.36,
-  "temperature_mid": 47.805,
-  "temperature_low": 37.25,
+  "temperature": {
+    "high": 58.36,
+    "mid": 47.805,
+    "low": 37.25
+  },
   "dew_point": 38.55,
   "humidity": 0.72,
   "cloud_cover": 0.05,

@@ -11,9 +11,11 @@
   "longitude": -81.22853,
   "location": "-81.22853,41.5621",
   "location_details": "If you were headed down Wilson Mills from Chardon you would take a right onto Woodiebrook. The sighting happened in the woods about 4-5 acres behind the houses on the right side of the road.",
-  "temperature_high": 81.1,
-  "temperature_mid": 71.33,
-  "temperature_low": 61.56,
+  "temperature": {
+    "high": 81.1,
+    "mid": 71.33,
+    "low": 61.56
+  },
   "dew_point": 58.7,
   "humidity": 0.64,
   "cloud_cover": 0.15,

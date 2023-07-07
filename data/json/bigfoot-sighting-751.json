@@ -11,9 +11,11 @@
   "longitude": -101.3166,
   "location": "-101.3166,48.25422",
   "location_details": "Ward County, Just outside of a the Minuteman Trailer Park,outside of Minot, North Dakota.",
-  "temperature_high": 79.1,
-  "temperature_mid": 59.085,
-  "temperature_low": 39.07,
+  "temperature": {
+    "high": 79.1,
+    "mid": 59.085,
+    "low": 39.07
+  },
   "dew_point": 30.46,
   "humidity": 0.31,
   "cloud_cover": 0.3,

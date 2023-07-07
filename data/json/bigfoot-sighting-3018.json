@@ -11,9 +11,11 @@
   "longitude": -88.3461,
   "location": "-88.3461,37.5",
   "location_details": "approx. 2 miles east of Rt.34 in the Shawnee National Forest.",
-  "temperature_high": 81.05,
-  "temperature_mid": 70.005,
-  "temperature_low": 58.96,
+  "temperature": {
+    "high": 81.05,
+    "mid": 70.005,
+    "low": 58.96
+  },
   "dew_point": 65.73,
   "humidity": 0.75,
   "cloud_cover": 0.48,

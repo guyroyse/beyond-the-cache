@@ -11,9 +11,11 @@
   "longitude": -120.2782,
   "location": "-120.2782,44.0639",
   "location_details": "This occurence took place in the Ochoco National Forest in the Maury Mountains.  The incident was below the Tower Point fire lookout, near the intersection of F.S. 16 and F.S. 1750",
-  "temperature_high": 57.16,
-  "temperature_mid": 42.065,
-  "temperature_low": 26.97,
+  "temperature": {
+    "high": 57.16,
+    "mid": 42.065,
+    "low": 26.97
+  },
   "dew_point": 34.94,
   "humidity": 0.62,
   "cloud_cover": 0.4,

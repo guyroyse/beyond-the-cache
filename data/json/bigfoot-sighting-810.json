@@ -11,9 +11,11 @@
   "longitude": -84.58583,
   "location": "-84.58583,43.74",
   "location_details": "Midland county on Coleman Road approx 6 miles north of  M 20.",
-  "temperature_high": 30.26,
-  "temperature_mid": 24.38,
-  "temperature_low": 18.5,
+  "temperature": {
+    "high": 30.26,
+    "mid": 24.38,
+    "low": 18.5
+  },
   "dew_point": 23.87,
   "humidity": 0.86,
   "cloud_cover": 0.97,

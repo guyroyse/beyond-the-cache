@@ -11,9 +11,11 @@
   "longitude": -81.436,
   "location": "-81.436,32.0391",
   "location_details": "North east part of Fort Stewart in a training area. Surrounded by Highway 119, 144 and I-95 This area is relatively swampy with thick vegeation in most parts. Occured on a dirt road. Would have to look at a map of Ft. Stewart to show close to exact area.",
-  "temperature_high": 70.44,
-  "temperature_mid": 60.27,
-  "temperature_low": 50.1,
+  "temperature": {
+    "high": 70.44,
+    "mid": 60.27,
+    "low": 50.1
+  },
   "dew_point": 52.18,
   "humidity": 0.79,
   "cloud_cover": 0.34,

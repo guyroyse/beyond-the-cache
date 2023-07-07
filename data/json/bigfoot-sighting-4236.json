@@ -11,9 +11,11 @@
   "longitude": -82.13665,
   "location": "-82.13665,33.4119",
   "location_details": "The wooded area adjacent to the new NCO military Housing and next to the Officers housing just down a slope area. This was inside the Ft. Gordon Military Base in 1965.",
-  "temperature_high": 76,
-  "temperature_mid": 69,
-  "temperature_low": 62,
+  "temperature": {
+    "high": 76,
+    "mid": 69,
+    "low": 62
+  },
   "dew_point": 67.48,
   "humidity": 0.89,
   "cloud_cover": 0.99,

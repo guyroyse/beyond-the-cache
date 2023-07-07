@@ -1,0 +1,35 @@
+{
+  "reportId": "24141",
+  "title": "Large creature mistaken for roadkill stands up and runs on two legs near Salt Fork Lake State Park",
+  "date": "2003-05-15",
+  "timestamp": 1052956800,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Guernsey",
+  "state": "Ohio",
+  "latitude": 40.10801,
+  "longitude": -81.56232,
+  "location": {
+    "longitude": -81.56232,
+    "latitude": 40.10801
+  },
+  "location_details": "Not quite to Cambridge, on rt 77 south,the part of the highway i was on did have highway lights.",
+  "temperature": {
+    "high": 69.66,
+    "mid": 62.07,
+    "low": 54.48
+  },
+  "dew_point": 53.21,
+  "humidity": 0.79,
+  "cloud_cover": 0.69,
+  "moon_phase": 0.48,
+  "precip_intensity": 0.0262,
+  "precip_probability": 0.9,
+  "precip_type": "rain",
+  "pressure": 1012.61,
+  "summary": "Rain in the morning and evening.",
+  "uv_index": 7,
+  "visibility": 8.99,
+  "wind_bearing": 153,
+  "wind_speed": 4.52
+}

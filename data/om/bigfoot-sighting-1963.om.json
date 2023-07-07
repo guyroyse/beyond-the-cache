@@ -1,0 +1,35 @@
+{
+  "reportId": "1963",
+  "title": "Hiker has strange late night experience in Emigrant Wilderness",
+  "date": "1999-08-27",
+  "timestamp": 935712000,
+  "observed": "During the last week of August, 1999, myself and a friend left the Kennedy trailhead about an hour before dark.  After about 1.5-2 hours of hiking, we decided to camp.  We had just crossed the first major bridge over the Kennedy Soda Can Creek, and we doubled back a ways to a flat spot to camp for the night.  We were about 15 yards from the creek itself.  Around midnight to 1:00 a.m., I was drifting off to sleep when I heard a large, heavy, two-legged creature walking across the creek.  Since the creek was deep, I could clearly hear it splashing.  It would walk a little while, stop, then continue.  This went on for about a minute.  Although we did see another camper about 200-300 feet away, I can't imagine why someone would be walking across the creek at that time of night.",
+  "classification": "Class B",
+  "county": "Tuolumne",
+  "state": "California",
+  "latitude": 38.31722,
+  "longitude": -119.7489,
+  "location": {
+    "longitude": -119.7489,
+    "latitude": 38.31722
+  },
+  "location_details": "This occurred in the Emigrant Wilderness, just outside of Kennedy Meadow.  Take the trail to Relief Reservoir.  This happened near the first major bridge that crosses the Kennedy Soda Can Creek, at a flat that is good for camping.",
+  "temperature": {
+    "high": 89.14,
+    "mid": 72.76,
+    "low": 56.38
+  },
+  "dew_point": 55.46,
+  "humidity": 0.53,
+  "cloud_cover": 0.19,
+  "moon_phase": 0.52,
+  "precip_intensity": 0.0011,
+  "precip_probability": 0.22,
+  "precip_type": "rain",
+  "pressure": 1009.99,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 9,
+  "visibility": 9.27,
+  "wind_bearing": 301,
+  "wind_speed": 3.38
+}

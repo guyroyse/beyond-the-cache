@@ -11,9 +11,11 @@
   "longitude": -72.33093,
   "location": "-72.33093,43.41549",
   "location_details": "Close to Claremont down 120 not far from Kingston road.",
-  "temperature_high": 75.83,
-  "temperature_mid": 65.75,
-  "temperature_low": 55.67,
+  "temperature": {
+    "high": 75.83,
+    "mid": 65.75,
+    "low": 55.67
+  },
   "dew_point": 54.25,
   "humidity": 0.73,
   "cloud_cover": 0.22,

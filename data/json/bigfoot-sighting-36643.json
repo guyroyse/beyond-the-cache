@@ -11,9 +11,11 @@
   "longitude": -94.66875,
   "location": "-94.66875,34.8146",
   "location_details": "Cedar Lake equestrian park",
-  "temperature_high": 73.57,
-  "temperature_mid": 70.07,
-  "temperature_low": 66.57,
+  "temperature": {
+    "high": 73.57,
+    "mid": 70.07,
+    "low": 66.57
+  },
   "dew_point": 66.95,
   "humidity": 0.92,
   "cloud_cover": 0.91,

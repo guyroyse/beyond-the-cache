@@ -11,9 +11,11 @@
   "longitude": -96.30222,
   "location": "-96.30222,34.29861",
   "location_details": "Atoka area. The largest river in the area is the boggy river or boggy depot. The animal is called the boggy river or boggy depot monster by people living there. The animal supposedly is seen fairly often along the riverbanks and creeks in the Atoka area.",
-  "temperature_high": 91.36,
-  "temperature_mid": 84.035,
-  "temperature_low": 76.71,
+  "temperature": {
+    "high": 91.36,
+    "mid": 84.035,
+    "low": 76.71
+  },
   "dew_point": 71.04,
   "humidity": 0.67,
   "cloud_cover": 0.42,

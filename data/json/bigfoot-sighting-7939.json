@@ -11,9 +11,11 @@
   "longitude": -78.1946,
   "location": "-78.1946,43.2265",
   "location_details": "The incident took place right in town, but being so early in the morning it was dead quiet; no traffic noise, no wind, nothing.",
-  "temperature_high": 77.3,
-  "temperature_mid": 69.98,
-  "temperature_low": 62.66,
+  "temperature": {
+    "high": 77.3,
+    "mid": 69.98,
+    "low": 62.66
+  },
   "dew_point": 66.47,
   "humidity": 0.86,
   "cloud_cover": 0.7,

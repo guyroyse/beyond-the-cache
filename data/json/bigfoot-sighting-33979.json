@@ -11,9 +11,11 @@
   "longitude": -84.04518,
   "location": "-84.04518,40.04342",
   "location_details": "Heavily wooded area of approximately 50 acres adjacent to rural corn field s and numerous gentleman farms.",
-  "temperature_high": 47.81,
-  "temperature_mid": 42.285,
-  "temperature_low": 36.76,
+  "temperature": {
+    "high": 47.81,
+    "mid": 42.285,
+    "low": 36.76
+  },
   "dew_point": 17.82,
   "humidity": 0.61,
   "cloud_cover": 0.08,

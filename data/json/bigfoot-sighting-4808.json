@@ -11,9 +11,11 @@
   "longitude": -121.745,
   "location": "-121.745,48.53944",
   "location_details": "About 10-15Miles into North Cascade National Park. Route from Bellingham to Spokane. Near a bigger river.",
-  "temperature_high": 63,
-  "temperature_mid": 58.605,
-  "temperature_low": 54.21,
+  "temperature": {
+    "high": 63,
+    "mid": 58.605,
+    "low": 54.21
+  },
   "dew_point": 51.89,
   "humidity": 0.79,
   "cloud_cover": 0.8,

@@ -11,9 +11,11 @@
   "longitude": -104.9917,
   "location": "-104.9917,38.9006",
   "location_details": "first visitor parking lot on the Pike's Peak Highway, right turn (going uphill)",
-  "temperature_high": 89.02,
-  "temperature_mid": 74.6,
-  "temperature_low": 60.18,
+  "temperature": {
+    "high": 89.02,
+    "mid": 74.6,
+    "low": 60.18
+  },
   "dew_point": 47.47,
   "humidity": 0.41,
   "cloud_cover": 0.45,

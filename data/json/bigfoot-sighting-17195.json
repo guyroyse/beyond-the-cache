@@ -11,9 +11,11 @@
   "longitude": -109.725,
   "location": "-109.725,40.915",
   "location_details": "[GPS coordinates were provided, but edited out of public version]  The general zone: Spirit Lake.",
-  "temperature_high": 66.2,
-  "temperature_mid": 53.06,
-  "temperature_low": 39.92,
+  "temperature": {
+    "high": 66.2,
+    "mid": 53.06,
+    "low": 39.92
+  },
   "dew_point": 33.06,
   "humidity": 0.53,
   "cloud_cover": 0.48,

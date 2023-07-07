@@ -11,9 +11,11 @@
   "longitude": -82.88309,
   "location": "-82.88309,37.94235",
   "location_details": "Flat Gap, its past a church and the Flat Gap school. Keep going and on the right a sign says Tolver Branch go on the right side and its the last house.",
-  "temperature_high": 74.76,
-  "temperature_mid": 64.87,
-  "temperature_low": 54.98,
+  "temperature": {
+    "high": 74.76,
+    "mid": 64.87,
+    "low": 54.98
+  },
   "dew_point": 45.56,
   "humidity": 0.54,
   "cloud_cover": 0.13,

@@ -11,9 +11,11 @@
   "longitude": -119.6564,
   "location": "-119.6564,39.29056",
   "location_details": "take hwy.50 east out of Carson . turn left onto 431 through Silver City just before you get to Gold Hill there is a drive to the left across from New York mine. siting was at old mill site at American flats in ravine just south of ruins of old mill.",
-  "temperature_high": 75.5,
-  "temperature_mid": 59.755,
-  "temperature_low": 44.01,
+  "temperature": {
+    "high": 75.5,
+    "mid": 59.755,
+    "low": 44.01
+  },
   "dew_point": 39.15,
   "humidity": 0.48,
   "cloud_cover": 0.57,

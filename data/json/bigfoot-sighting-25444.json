@@ -11,9 +11,11 @@
   "longitude": -119.9254,
   "location": "-119.9254,34.73389",
   "location_details": "we were near the confluence of the sisquac and manzanita rivers in the wilderness area where access is only made by horseback or on foot; we were on foot.",
-  "temperature_high": 62.01,
-  "temperature_mid": 52.175,
-  "temperature_low": 42.34,
+  "temperature": {
+    "high": 62.01,
+    "mid": 52.175,
+    "low": 42.34
+  },
   "dew_point": 42.68,
   "humidity": 0.66,
   "cloud_cover": 0.2,

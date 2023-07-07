@@ -11,9 +11,11 @@
   "longitude": -124.1736,
   "location": "-124.1736,46.92694",
   "location_details": "On beach in front of Mariner Village (condos) about 1/4 to 1/3 mile north of the north jetty",
-  "temperature_high": 54.32,
-  "temperature_mid": 49.965,
-  "temperature_low": 45.61,
+  "temperature": {
+    "high": 54.32,
+    "mid": 49.965,
+    "low": 45.61
+  },
   "dew_point": 46.27,
   "humidity": 0.87,
   "cloud_cover": 0.59,

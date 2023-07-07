@@ -11,9 +11,11 @@
   "longitude": -111.9744,
   "location": "-111.9744,47.17833",
   "location_details": "The \"event\" took place appx. 40 miles south of Great Falls, MT. in the Dearborn River area, about 12 miles back in the woods, on upper Saw Mill creek.",
-  "temperature_high": 49.55,
-  "temperature_mid": 41.1,
-  "temperature_low": 32.65,
+  "temperature": {
+    "high": 49.55,
+    "mid": 41.1,
+    "low": 32.65
+  },
   "dew_point": 28.9,
   "humidity": 0.65,
   "cloud_cover": 0.92,

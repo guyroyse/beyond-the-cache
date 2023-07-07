@@ -11,9 +11,11 @@
   "longitude": -86.4565,
   "location": "-86.4565,43.674",
   "location_details": "It is nearby valdu lakes campground and concert grounds. The grounds just began doing outdoor concerts this summer and is very loud throughout the area.(could this bother a Sasquatch and make it move?)",
-  "temperature_high": 77.48,
-  "temperature_mid": 70.665,
-  "temperature_low": 63.85,
+  "temperature": {
+    "high": 77.48,
+    "mid": 70.665,
+    "low": 63.85
+  },
   "dew_point": 57.4,
   "humidity": 0.63,
   "cloud_cover": 0.3,

@@ -11,9 +11,11 @@
   "longitude": -84.50999,
   "location": "-84.50999,44.12",
   "location_details": "Heavy Cedar Pines, off trail snowmobiling on state lands near father's cabin.",
-  "temperature_high": 43.74,
-  "temperature_mid": 42.68,
-  "temperature_low": 41.62,
+  "temperature": {
+    "high": 43.74,
+    "mid": 42.68,
+    "low": 41.62
+  },
   "dew_point": 22.87,
   "humidity": 0.61,
   "cloud_cover": 0.81,

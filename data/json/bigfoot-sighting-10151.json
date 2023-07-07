@@ -11,9 +11,11 @@
   "longitude": -85.05965,
   "location": "-85.05965,42.323",
   "location_details": "This happened 30 years ago. I haven't lived in Michigan since 1979.  Details on location, time might be a little fuzzy. What I saw is burned into my mind.",
-  "temperature_high": 70.48,
-  "temperature_mid": 61.055,
-  "temperature_low": 51.63,
+  "temperature": {
+    "high": 70.48,
+    "mid": 61.055,
+    "low": 51.63
+  },
   "dew_point": 45.93,
   "humidity": 0.71,
   "cloud_cover": 0.16,

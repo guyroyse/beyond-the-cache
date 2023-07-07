@@ -11,9 +11,11 @@
   "longitude": -122.7063,
   "location": "-122.7063,47.7613",
   "location_details": "N. of Naval Submarine Base Bangor.",
-  "temperature_high": 70.63,
-  "temperature_mid": 63.385,
-  "temperature_low": 56.14,
+  "temperature": {
+    "high": 70.63,
+    "mid": 63.385,
+    "low": 56.14
+  },
   "dew_point": 50.79,
   "humidity": 0.65,
   "cloud_cover": 0.69,

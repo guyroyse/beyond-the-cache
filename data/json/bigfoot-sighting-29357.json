@@ -11,9 +11,11 @@
   "longitude": -115.8714,
   "location": "-115.8714,44.28265",
   "location_details": "Approx. 3 or 4 miles north of the Silver Creek Plunge turnoff on the forest road.",
-  "temperature_high": 62.76,
-  "temperature_mid": 57.3,
-  "temperature_low": 51.84,
+  "temperature": {
+    "high": 62.76,
+    "mid": 57.3,
+    "low": 51.84
+  },
   "dew_point": 47.39,
   "humidity": 0.74,
   "cloud_cover": 0.59,

@@ -11,9 +11,11 @@
   "longitude": -91.30804,
   "location": "-91.30804,37.2306",
   "location_details": "The campsite its 7 miles into the Mark Twain Nat. Forest from HWY 19. The spot its a gravel bar near the shore of the river.",
-  "temperature_high": 86.58,
-  "temperature_mid": 76.475,
-  "temperature_low": 66.37,
+  "temperature": {
+    "high": 86.58,
+    "mid": 76.475,
+    "low": 66.37
+  },
   "dew_point": 67.65,
   "humidity": 0.78,
   "cloud_cover": 0.53,

@@ -11,9 +11,11 @@
   "longitude": -87.45876,
   "location": "-87.45876,33.97575",
   "location_details": "1 1/2miles southeast of Nauvoo Alabama.",
-  "temperature_high": 89.85,
-  "temperature_mid": 75.46,
-  "temperature_low": 61.07,
+  "temperature": {
+    "high": 89.85,
+    "mid": 75.46,
+    "low": 61.07
+  },
   "dew_point": 66.84,
   "humidity": 0.7,
   "cloud_cover": 0.24,

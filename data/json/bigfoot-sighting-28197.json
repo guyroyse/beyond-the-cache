@@ -11,9 +11,11 @@
   "longitude": -122.6997,
   "location": "-122.6997,46.98578",
   "location_details": "Somewhere in the backwoods of Ft Lewis. This are is full of deadfall, creeks, ridges, thickets, swampy areas, small caves, and is very inhospitable, and can be dangerous if you get lost.",
-  "temperature_high": 59.88,
-  "temperature_mid": 49.305,
-  "temperature_low": 38.73,
+  "temperature": {
+    "high": 59.88,
+    "mid": 49.305,
+    "low": 38.73
+  },
   "dew_point": 46.14,
   "humidity": 0.8,
   "cloud_cover": 0.64,

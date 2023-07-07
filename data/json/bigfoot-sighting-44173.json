@@ -11,9 +11,11 @@
   "longitude": -83.02551,
   "location": "-83.02551,38.9506",
   "location_details": "North end of State Rest area, NW qaudrant",
-  "temperature_high": 33.16,
-  "temperature_mid": 27.06,
-  "temperature_low": 20.96,
+  "temperature": {
+    "high": 33.16,
+    "mid": 27.06,
+    "low": 20.96
+  },
   "dew_point": 22.17,
   "humidity": 0.71,
   "cloud_cover": 0.16,

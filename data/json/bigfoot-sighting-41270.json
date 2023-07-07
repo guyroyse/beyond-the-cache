@@ -11,9 +11,11 @@
   "longitude": -82.14194,
   "location": "-82.14194,40.59307",
   "location_details": "Take SR514 from Buckeye Deli in Nashville, right on TR211. Sighting was just before TR466.  The squatch call-back occurred near the intersection of TR211 and CR22 toward Nashville.",
-  "temperature_high": 63,
-  "temperature_mid": 59.915,
-  "temperature_low": 56.83,
+  "temperature": {
+    "high": 63,
+    "mid": 59.915,
+    "low": 56.83
+  },
   "dew_point": 42.89,
   "humidity": 0.65,
   "cloud_cover": 0.24,

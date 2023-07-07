@@ -11,9 +11,11 @@
   "longitude": -90.50072,
   "location": "-90.50072,38.21719",
   "location_details": "The area is pretty rural.  I haven't been back in several years due to being in the military. I can give exact address if needed.",
-  "temperature_high": 34.75,
-  "temperature_mid": 32.855,
-  "temperature_low": 30.96,
+  "temperature": {
+    "high": 34.75,
+    "mid": 32.855,
+    "low": 30.96
+  },
   "dew_point": 27.86,
   "humidity": 0.84,
   "cloud_cover": 0.97,

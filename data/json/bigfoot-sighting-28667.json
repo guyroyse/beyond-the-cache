@@ -11,9 +11,11 @@
   "longitude": -72.82665,
   "location": "-72.82665,42.08179",
   "location_details": "Calls came from south west of Westwood Dr.",
-  "temperature_high": 70.01,
-  "temperature_mid": 67.26,
-  "temperature_low": 64.51,
+  "temperature": {
+    "high": 70.01,
+    "mid": 67.26,
+    "low": 64.51
+  },
   "dew_point": 64.4,
   "humidity": 0.9,
   "cloud_cover": 0.93,

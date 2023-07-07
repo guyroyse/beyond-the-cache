@@ -11,9 +11,11 @@
   "longitude": -79.75537,
   "location": "-79.75537,35.56577",
   "location_details": "I was coming from Seagrove city limits on Ridge Rd. It was about a mile from city limits in a patch were there are woods on both sides of the road, right as you round a curve.",
-  "temperature_high": 87.4,
-  "temperature_mid": 76.57,
-  "temperature_low": 65.74,
+  "temperature": {
+    "high": 87.4,
+    "mid": 76.57,
+    "low": 65.74
+  },
   "dew_point": 65.62,
   "humidity": 0.79,
   "cloud_cover": 0.14,

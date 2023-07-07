@@ -11,9 +11,11 @@
   "longitude": -86.1084,
   "location": "-86.1084,40.0403",
   "location_details": "Just outside Westfield on Carey Road.",
-  "temperature_high": 87.83,
-  "temperature_mid": 75.845,
-  "temperature_low": 63.86,
+  "temperature": {
+    "high": 87.83,
+    "mid": 75.845,
+    "low": 63.86
+  },
   "dew_point": 69.09,
   "humidity": 0.73,
   "cloud_cover": 0.65,

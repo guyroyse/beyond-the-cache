@@ -11,9 +11,11 @@
   "longitude": -86.5153,
   "location": "-86.5153,42.0288",
   "location_details": "The area where this occured was bordered on the north by I-94/Exit 23, on the south by Lincoln Towship Public Cemetery (right behind our house), on the east by north-south running railroad tracks with a factory and woods beyond... and on the west by St. Joseph Ave. which leads from the highway into downtown Stevensville about a mile south from there. About half a mile west from the house you find very hilly and wooded dunes area that follows along the Lake Michigan shoreline. Lake Michigan is maybe 1 mile due west from the house.",
-  "temperature_high": 39.75,
-  "temperature_mid": 37.675,
-  "temperature_low": 35.6,
+  "temperature": {
+    "high": 39.75,
+    "mid": 37.675,
+    "low": 35.6
+  },
   "dew_point": 34.99,
   "humidity": 0.87,
   "cloud_cover": 0.99,

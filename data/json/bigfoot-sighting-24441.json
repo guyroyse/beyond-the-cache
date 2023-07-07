@@ -11,9 +11,11 @@
   "longitude": -86.68372,
   "location": "-86.68372,30.90529",
   "location_details": "30.905288, -86.683717 It has been so long I do not remember exactly where I was, but I'm pretty sure the coordinates I've given will put you in a 2-3sq mile area of where it happened. Nearest town is Blackman, nearest large town is Crestview",
-  "temperature_high": 76.8,
-  "temperature_mid": 73.345,
-  "temperature_low": 69.89,
+  "temperature": {
+    "high": 76.8,
+    "mid": 73.345,
+    "low": 69.89
+  },
   "dew_point": 67.85,
   "humidity": 0.85,
   "cloud_cover": 0.9,

@@ -11,9 +11,11 @@
   "longitude": -120.5764,
   "location": "-120.5764,38.91185",
   "location_details": "Down one of the many cow trails that lead away from Stumpy Meadows Lake.",
-  "temperature_high": 77.63,
-  "temperature_mid": 60.525,
-  "temperature_low": 43.42,
+  "temperature": {
+    "high": 77.63,
+    "mid": 60.525,
+    "low": 43.42
+  },
   "dew_point": 39.24,
   "humidity": 0.54,
   "cloud_cover": 0.04,

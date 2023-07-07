@@ -11,9 +11,11 @@
   "longitude": -111.5,
   "location": "-111.5,34.4",
   "location_details": "One quarter mile off of highway 87 at a point one half mile south of Strawberry, Arizona and one and one half mile north of Pine, Arizona. This is a dirt lane heading southwest off of 87.",
-  "temperature_high": 57.96,
-  "temperature_mid": 45.565,
-  "temperature_low": 33.17,
+  "temperature": {
+    "high": 57.96,
+    "mid": 45.565,
+    "low": 33.17
+  },
   "dew_point": 27.63,
   "humidity": 0.62,
   "cloud_cover": 0.35,

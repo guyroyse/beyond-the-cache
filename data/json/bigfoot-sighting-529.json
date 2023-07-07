@@ -11,9 +11,11 @@
   "longitude": -106.1143,
   "location": "-106.1143,39.2026",
   "location_details": "8.8 miles west of Hwy 285, south side of Park County Road 18 (4-Mile Creek/Horseshoe Basin)",
-  "temperature_high": 61.28,
-  "temperature_mid": 51.01,
-  "temperature_low": 40.74,
+  "temperature": {
+    "high": 61.28,
+    "mid": 51.01,
+    "low": 40.74
+  },
   "dew_point": 36.4,
   "humidity": 0.67,
   "cloud_cover": 0.57,

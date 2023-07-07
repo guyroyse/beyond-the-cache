@@ -11,9 +11,11 @@
   "longitude": -81.79669,
   "location": "-81.79669,41.06019",
   "location_details": "It was north of the I-76 and Rt. 57 interchange approximately 1/4 to 1/2 mile. It was west of Rt. 57 at a distance of 200 yards give or take. It was between River Styx Rd and Rt. 57.",
-  "temperature_high": 72.18,
-  "temperature_mid": 63.665,
-  "temperature_low": 55.15,
+  "temperature": {
+    "high": 72.18,
+    "mid": 63.665,
+    "low": 55.15
+  },
   "dew_point": 52.31,
   "humidity": 0.72,
   "cloud_cover": 0.35,

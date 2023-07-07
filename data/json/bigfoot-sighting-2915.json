@@ -11,9 +11,11 @@
   "longitude": -81.3142,
   "location": "-81.3142,25.84875",
   "location_details": "The national park service will give you information to the watson place.",
-  "temperature_high": 81.41,
-  "temperature_mid": 71.63,
-  "temperature_low": 61.85,
+  "temperature": {
+    "high": 81.41,
+    "mid": 71.63,
+    "low": 61.85
+  },
   "dew_point": 63.36,
   "humidity": 0.78,
   "cloud_cover": 0.2,

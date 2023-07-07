@@ -11,9 +11,11 @@
   "longitude": -94.59565,
   "location": "-94.59565,39.30745",
   "location_details": "Carter Buschardt knows how to get there",
-  "temperature_high": 55.17,
-  "temperature_mid": 48.27,
-  "temperature_low": 41.37,
+  "temperature": {
+    "high": 55.17,
+    "mid": 48.27,
+    "low": 41.37
+  },
   "dew_point": 46.65,
   "humidity": 0.86,
   "cloud_cover": 0.93,

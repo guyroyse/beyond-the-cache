@@ -1,0 +1,34 @@
+{
+  "reportId": "1565",
+  "title": "Tracks found near a mountainside clear cut",
+  "date": "1980-11-12",
+  "timestamp": 342835200,
+  "observed": "Tracks, 13-14 inches long, 6-7 inches wide, 5 toes.",
+  "classification": "Class B",
+  "county": "Lewis",
+  "state": "Washington",
+  "latitude": 46.55139,
+  "longitude": -121.4625,
+  "location": {
+    "longitude": -121.4625,
+    "latitude": 46.55139
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 42.56,
+    "mid": 37.99,
+    "low": 33.42
+  },
+  "dew_point": 31.39,
+  "humidity": 0.86,
+  "cloud_cover": 0.47,
+  "moon_phase": 0.15,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1027.6,
+  "summary": "Foggy overnight.",
+  "uv_index": 1,
+  "visibility": 4.71,
+  "wind_bearing": 89,
+  "wind_speed": 2.29
+}

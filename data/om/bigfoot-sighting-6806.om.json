@@ -1,0 +1,34 @@
+{
+  "reportId": "6806",
+  "title": "Man approached by Sasquatch, south of Yacolt, WA",
+  "date": "2003-11-05",
+  "timestamp": 1067990400,
+  "observed": "I have often thought I saw someone run  across the road while I deliver the paper. I often stopped to use the restroom in the same spot. I heard funny noises, but thought it was a bear or some other animal grunting and what not. Last night (about 4:30 AM actually, so this morning) I was stopped along the road looking over my route sheet, when out of the corner of my eye I saw someone walking. I slowly reached up and turned off the light. I put the car in gear, and looked over. What I saw made the hair stand on the back of my neck, and got tears in my eyes. It wasn't 7 feet tall, more like 6 feet or so -  I'm guessing, because it didn't seem to be bending over too far to look at me. It was maybe 5 or 6 feet away from my car. I was so frightened that I drove off as fast as I could. I called 911 and they thought I was a nut, and said it was most likely a vagrant, or homeless guy. I don't think so.",
+  "classification": "Class A",
+  "county": "Clark",
+  "state": "Washington",
+  "latitude": 45.8331,
+  "longitude": -122.3985,
+  "location": {
+    "longitude": -122.3985,
+    "latitude": 45.8331
+  },
+  "location_details": "Within a mile of Moulton Falls. I can show you.",
+  "temperature": {
+    "high": 49.35,
+    "mid": 39.775,
+    "low": 30.2
+  },
+  "dew_point": 24.76,
+  "humidity": 0.61,
+  "cloud_cover": 0.31,
+  "moon_phase": 0.4,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1022.33,
+  "summary": "Partly cloudy starting in the afternoon.",
+  "uv_index": 2,
+  "visibility": 9.76,
+  "wind_bearing": 81,
+  "wind_speed": 5.92
+}

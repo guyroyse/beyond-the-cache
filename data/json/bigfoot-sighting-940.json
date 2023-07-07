@@ -11,9 +11,11 @@
   "longitude": -123.1175,
   "location": "-123.1175,46.1903",
   "location_details": "On State Rt. 4, approx. 5 miles west of Longview WA.",
-  "temperature_high": 79.8,
-  "temperature_mid": 65.23,
-  "temperature_low": 50.66,
+  "temperature": {
+    "high": 79.8,
+    "mid": 65.23,
+    "low": 50.66
+  },
   "dew_point": 51.7,
   "humidity": 0.64,
   "cloud_cover": 0.05,

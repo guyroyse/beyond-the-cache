@@ -11,9 +11,11 @@
   "longitude": -110.1835,
   "location": "-110.1835,31.99003",
   "location_details": "About 10 to 15 min. northeast of the town of Benson, on Highway 10.  Accross from a white ranch house, with a road leading down to the highway.",
-  "temperature_high": 68.64,
-  "temperature_mid": 64.23,
-  "temperature_low": 59.82,
+  "temperature": {
+    "high": 68.64,
+    "mid": 64.23,
+    "low": 59.82
+  },
   "dew_point": 51.12,
   "humidity": 0.73,
   "cloud_cover": 0.67,

@@ -11,9 +11,11 @@
   "longitude": -80.82856,
   "location": "-80.82856,37.29854",
   "location_details": "On Old Hollow Road near Pearisburg, Virginia in Giles County",
-  "temperature_high": 62.98,
-  "temperature_mid": 52.995,
-  "temperature_low": 43.01,
+  "temperature": {
+    "high": 62.98,
+    "mid": 52.995,
+    "low": 43.01
+  },
   "dew_point": 46.63,
   "humidity": 0.7,
   "cloud_cover": 0.42,

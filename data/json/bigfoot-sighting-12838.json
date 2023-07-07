@@ -11,9 +11,11 @@
   "longitude": -123.8161,
   "location": "-123.8161,46.98621",
   "location_details": "The location was on 'B' street in Aberdeen.  Coming from Whishkah towards Aberdeen, he would have been on the right hand side of the street.  Like he had just crossed from being at the river, maybe.",
-  "temperature_high": 38.14,
-  "temperature_mid": 36.515,
-  "temperature_low": 34.89,
+  "temperature": {
+    "high": 38.14,
+    "mid": 36.515,
+    "low": 34.89
+  },
   "dew_point": 32.66,
   "humidity": 0.87,
   "cloud_cover": 0.76,

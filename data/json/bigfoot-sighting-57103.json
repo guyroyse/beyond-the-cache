@@ -11,9 +11,11 @@
   "longitude": -95.38226,
   "location": "-95.38226,31.55668",
   "location_details": "NE of Grapleand toward REDTOWN on county RD ..I cant remember the number 140 maybe...it was behind the Vulcraft Plant.",
-  "temperature_high": 63.47,
-  "temperature_mid": 56.415,
-  "temperature_low": 49.36,
+  "temperature": {
+    "high": 63.47,
+    "mid": 56.415,
+    "low": 49.36
+  },
   "dew_point": 41.31,
   "humidity": 0.66,
   "cloud_cover": 0.05,

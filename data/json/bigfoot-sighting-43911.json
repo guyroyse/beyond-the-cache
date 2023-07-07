@@ -11,9 +11,11 @@
   "longitude": -121.7363,
   "location": "-121.7363,48.07834",
   "location_details": "It was about 5 miles toward Monte Cristo on the Mount Loop Highway at a campground called Gold Basin.  Mount Pilchuch was the nearest mountain in the range.",
-  "temperature_high": 71.92,
-  "temperature_mid": 60.71,
-  "temperature_low": 49.5,
+  "temperature": {
+    "high": 71.92,
+    "mid": 60.71,
+    "low": 49.5
+  },
   "dew_point": 49.83,
   "humidity": 0.68,
   "cloud_cover": 0.42,

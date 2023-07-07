@@ -11,9 +11,11 @@
   "longitude": -90.8022,
   "location": "-90.8022,33.56555",
   "location_details": "The directions were in the southern part of Bolivar County, going north towards Shaw.",
-  "temperature_high": 44.69,
-  "temperature_mid": 41.88,
-  "temperature_low": 39.07,
+  "temperature": {
+    "high": 44.69,
+    "mid": 41.88,
+    "low": 39.07
+  },
   "dew_point": 37.64,
   "humidity": 0.83,
   "cloud_cover": 1,

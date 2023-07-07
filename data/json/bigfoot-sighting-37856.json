@@ -11,9 +11,11 @@
   "longitude": -87.79079,
   "location": "-87.79079,38.37945",
   "location_details": "It was off of old E 1020 N about half a mile.",
-  "temperature_high": 67.09,
-  "temperature_mid": 51.965,
-  "temperature_low": 36.84,
+  "temperature": {
+    "high": 67.09,
+    "mid": 51.965,
+    "low": 36.84
+  },
   "dew_point": 35.98,
   "humidity": 0.52,
   "cloud_cover": 0.15,

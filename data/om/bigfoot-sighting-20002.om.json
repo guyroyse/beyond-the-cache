@@ -1,0 +1,19 @@
+{
+  "reportId": "20002",
+  "title": "Afternoon highway crossing near Felch",
+  "date": "1965-07-01",
+  "timestamp": -142128000,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Dickinson",
+  "state": "Michigan",
+  "latitude": 46.01398,
+  "longitude": -87.98718,
+  "location": {
+    "longitude": -87.98718,
+    "latitude": 46.01398
+  },
+  "location_details": "",
+  "temperature": {},
+  "summary": ""
+}

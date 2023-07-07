@@ -11,9 +11,11 @@
   "longitude": -121.6606,
   "location": "-121.6606,46.7225",
   "location_details": "North of packwood on Tatoosh ridge.",
-  "temperature_high": 50.92,
-  "temperature_mid": 36.985,
-  "temperature_low": 23.05,
+  "temperature": {
+    "high": 50.92,
+    "mid": 36.985,
+    "low": 23.05
+  },
   "dew_point": 22.63,
   "humidity": 0.64,
   "cloud_cover": 0.02,

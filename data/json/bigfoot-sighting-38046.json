@@ -11,9 +11,11 @@
   "longitude": -121.3552,
   "location": "-121.3552,48.02073",
   "location_details": "Goat Lake off Mt. Loop highway, far end of lake where trail becomes brushy.",
-  "temperature_high": 69.93,
-  "temperature_mid": 60.08,
-  "temperature_low": 50.23,
+  "temperature": {
+    "high": 69.93,
+    "mid": 60.08,
+    "low": 50.23
+  },
   "dew_point": 49.24,
   "humidity": 0.71,
   "cloud_cover": 0.1,

@@ -11,9 +11,11 @@
   "longitude": -81.3726,
   "location": "-81.3726,41.47349",
   "location_details": "The area is about 6 miles east of I-271 in Geauga County.",
-  "temperature_high": 75.21,
-  "temperature_mid": 66.47,
-  "temperature_low": 57.73,
+  "temperature": {
+    "high": 75.21,
+    "mid": 66.47,
+    "low": 57.73
+  },
   "dew_point": 63.41,
   "humidity": 0.76,
   "cloud_cover": 0.82,

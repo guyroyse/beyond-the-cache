@@ -11,9 +11,11 @@
   "longitude": -87.08955,
   "location": "-87.08955,39.9347",
   "location_details": "Interstate 74 runs from Indianapolis head west to the Crawfordsville exit and head south. Take highway 47 to 234 and head west about 5 miles and you will see the Shades sign.",
-  "temperature_high": 67.94,
-  "temperature_mid": 64.84,
-  "temperature_low": 61.74,
+  "temperature": {
+    "high": 67.94,
+    "mid": 64.84,
+    "low": 61.74
+  },
   "dew_point": 55.42,
   "humidity": 0.71,
   "cloud_cover": 0.94,

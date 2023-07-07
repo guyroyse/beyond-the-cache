@@ -11,9 +11,11 @@
   "longitude": -91.75641,
   "location": "-91.75641,45.8618",
   "location_details": "The area lies just east of State Highway 150 and about five miles south of U.S. Highway 18. The Volga River Recreation Area is in Fayette County. Cedar Rapids is 70 miles south, Dubuque is 90 miles southeast, and Waterloo is 55 miles southwest of the area. (Iowa DNR)",
-  "temperature_high": 74.7,
-  "temperature_mid": 64.78,
-  "temperature_low": 54.86,
+  "temperature": {
+    "high": 74.7,
+    "mid": 64.78,
+    "low": 54.86
+  },
   "dew_point": 40.57,
   "humidity": 0.46,
   "cloud_cover": 0.11,

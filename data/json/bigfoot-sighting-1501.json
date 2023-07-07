@@ -11,9 +11,11 @@
   "longitude": -92.40895,
   "location": "-92.40895,32.8057",
   "location_details": "Approximately 7 miles north of Farmerville just off Hwy 15 on an old logging road",
-  "temperature_high": 72.39,
-  "temperature_mid": 67.46,
-  "temperature_low": 62.53,
+  "temperature": {
+    "high": 72.39,
+    "mid": 67.46,
+    "low": 62.53
+  },
   "dew_point": 52.37,
   "humidity": 0.75,
   "cloud_cover": 0.62,

@@ -11,9 +11,11 @@
   "longitude": -77.10508,
   "location": "-77.10508,34.79914",
   "location_details": "It was a long time ago, I really don't remember",
-  "temperature_high": 80.3,
-  "temperature_mid": 73.55,
-  "temperature_low": 66.8,
+  "temperature": {
+    "high": 80.3,
+    "mid": 73.55,
+    "low": 66.8
+  },
   "dew_point": 63.64,
   "humidity": 0.76,
   "cloud_cover": 0.69,

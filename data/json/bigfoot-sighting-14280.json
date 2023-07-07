@@ -11,9 +11,11 @@
   "longitude": -79.5375,
   "location": "-79.5375,39.6995",
   "location_details": "We live near Bruceton Mills in Preston County, WV",
-  "temperature_high": 80.3,
-  "temperature_mid": 69.86,
-  "temperature_low": 59.42,
+  "temperature": {
+    "high": 80.3,
+    "mid": 69.86,
+    "low": 59.42
+  },
   "dew_point": 55.76,
   "humidity": 0.67,
   "cloud_cover": 0.19,

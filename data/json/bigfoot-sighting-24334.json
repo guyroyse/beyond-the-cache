@@ -11,9 +11,11 @@
   "longitude": -77.23759,
   "location": "-77.23759,34.40434",
   "location_details": "Camp Lejeune military base",
-  "temperature_high": 57.07,
-  "temperature_mid": 44.555,
-  "temperature_low": 32.04,
+  "temperature": {
+    "high": 57.07,
+    "mid": 44.555,
+    "low": 32.04
+  },
   "dew_point": 37.9,
   "humidity": 0.62,
   "cloud_cover": 0.66,

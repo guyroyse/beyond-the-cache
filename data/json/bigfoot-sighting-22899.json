@@ -11,9 +11,11 @@
   "longitude": -85.7075,
   "location": "-85.7075,31.35",
   "location_details": "I have looked at some satellite images of the area and cannot pinpoint the exact spot just the area within a few hundred yards. Lot of rural homes within a few miles of the area",
-  "temperature_high": 41.94,
-  "temperature_mid": 34.28,
-  "temperature_low": 26.62,
+  "temperature": {
+    "high": 41.94,
+    "mid": 34.28,
+    "low": 26.62
+  },
   "dew_point": 37.15,
   "humidity": 0.89,
   "cloud_cover": 0.84,

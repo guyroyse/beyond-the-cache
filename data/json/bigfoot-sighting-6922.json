@@ -11,9 +11,11 @@
   "longitude": -118.6092,
   "location": "-118.6092,36.4525",
   "location_details": "This was in the Sequoia National Park.  All I can say for now is that on the way there, we passed a lake, then turned off onto a road into the woods. It took us a long time, we crossed a very old bridge, and the parking area we left our car at had marmot warnings. Apparently they eat into hoses or belts on the car. People had chicken wire and such to keep them out.",
-  "temperature_high": 98.94,
-  "temperature_mid": 79.22,
-  "temperature_low": 59.5,
+  "temperature": {
+    "high": 98.94,
+    "mid": 79.22,
+    "low": 59.5
+  },
   "dew_point": 49.81,
   "humidity": 0.33,
   "cloud_cover": 0.05,

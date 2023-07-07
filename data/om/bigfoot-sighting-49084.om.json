@@ -1,0 +1,35 @@
+{
+  "reportId": "49084",
+  "title": "Memory told of a 'Hairy Man' crossing Hwy. 27 north of Homestead",
+  "date": "1975-06-20",
+  "timestamp": 172454400,
+  "observed": "As told to the Investigator by the witness: \"I was driving south on Hwy 27 in Dade county. It was after 10:00pm, but before midnight. I saw a \"hairy man\" crawl from the water, stand up and walk across the road. He looked very human, in a distorted way, and was very large.\"",
+  "classification": "Class A",
+  "county": "Dade",
+  "state": "Florida",
+  "latitude": 25.54494,
+  "longitude": -80.47805,
+  "location": {
+    "longitude": -80.47805,
+    "latitude": 25.54494
+  },
+  "location_details": "Highway 27 (Krome Ave) south of Tamiami Trail, but before Homestead.",
+  "temperature": {
+    "high": 81.55,
+    "mid": 77.13,
+    "low": 72.71
+  },
+  "dew_point": 72.9,
+  "humidity": 0.85,
+  "cloud_cover": 0.7,
+  "moon_phase": 0.4,
+  "precip_intensity": 0.0042,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1017.88,
+  "summary": "Humid and mostly cloudy throughout the day.",
+  "uv_index": 8,
+  "visibility": 7.62,
+  "wind_bearing": 114,
+  "wind_speed": 2.13
+}

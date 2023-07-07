@@ -11,9 +11,11 @@
   "longitude": -85.92196,
   "location": "-85.92196,44.0559",
   "location_details": "w 5 mile rd off brooks rd peacock michigan",
-  "temperature_high": 83.25,
-  "temperature_mid": 74.86,
-  "temperature_low": 66.47,
+  "temperature": {
+    "high": 83.25,
+    "mid": 74.86,
+    "low": 66.47
+  },
   "dew_point": 66.67,
   "humidity": 0.73,
   "cloud_cover": 0.27,

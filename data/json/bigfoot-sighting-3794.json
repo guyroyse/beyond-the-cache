@@ -11,9 +11,11 @@
   "longitude": -120.0914,
   "location": "-120.0914,38.9575",
   "location_details": "At the Sugar Pine Campground next to Lake Tahoe.",
-  "temperature_high": 83.92,
-  "temperature_mid": 65.56,
-  "temperature_low": 47.2,
+  "temperature": {
+    "high": 83.92,
+    "mid": 65.56,
+    "low": 47.2
+  },
   "dew_point": 44.04,
   "humidity": 0.49,
   "cloud_cover": 0.07,

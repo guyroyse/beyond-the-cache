@@ -11,9 +11,11 @@
   "longitude": -115.2088,
   "location": "-115.2088,46.2404",
   "location_details": "Oswold campground on highway US 12 at Boulder Creek along the Lochsa River. Approx 30 miles up Boulder creek drainage to Stanley Butte. We were on the side of the butte looking into Old Man Canyon.",
-  "temperature_high": 78.29,
-  "temperature_mid": 59.29,
-  "temperature_low": 40.29,
+  "temperature": {
+    "high": 78.29,
+    "mid": 59.29,
+    "low": 40.29
+  },
   "dew_point": 37.12,
   "humidity": 0.58,
   "cloud_cover": 0,

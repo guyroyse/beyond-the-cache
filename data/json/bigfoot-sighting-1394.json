@@ -11,9 +11,11 @@
   "longitude": -120.8908,
   "location": "-120.8908,47.25722",
   "location_details": "On the border of Wenatche National Forest.  Free Campsite right. Right next to a river, timber and logging roads.",
-  "temperature_high": 72.37,
-  "temperature_mid": 65.665,
-  "temperature_low": 58.96,
+  "temperature": {
+    "high": 72.37,
+    "mid": 65.665,
+    "low": 58.96
+  },
   "dew_point": 53.28,
   "humidity": 0.62,
   "cloud_cover": 0.48,

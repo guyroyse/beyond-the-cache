@@ -11,9 +11,11 @@
   "longitude": -86.4559,
   "location": "-86.4559,34.95605",
   "location_details": "Winchester Rd. out of Huntsville AL. to Buddy Williamson Rd.  North of Newmarket to Old Limestone Rd.",
-  "temperature_high": 55.7,
-  "temperature_mid": 48.99,
-  "temperature_low": 42.28,
+  "temperature": {
+    "high": 55.7,
+    "mid": 48.99,
+    "low": 42.28
+  },
   "dew_point": 44.3,
   "humidity": 0.75,
   "cloud_cover": 0.96,

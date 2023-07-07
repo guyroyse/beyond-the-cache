@@ -11,9 +11,11 @@
   "longitude": -94.6837,
   "location": "-94.6837,38.6234",
   "location_details": "Paola, Kansas",
-  "temperature_high": 79.14,
-  "temperature_mid": 70.875,
-  "temperature_low": 62.61,
+  "temperature": {
+    "high": 79.14,
+    "mid": 70.875,
+    "low": 62.61
+  },
   "dew_point": 59.79,
   "humidity": 0.74,
   "cloud_cover": 0.18,

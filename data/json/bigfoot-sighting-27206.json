@@ -11,9 +11,11 @@
   "longitude": -98.61497,
   "location": "-98.61497,34.76134",
   "location_details": "its by meers",
-  "temperature_high": 55.04,
-  "temperature_mid": 41.65,
-  "temperature_low": 28.26,
+  "temperature": {
+    "high": 55.04,
+    "mid": 41.65,
+    "low": 28.26
+  },
   "dew_point": 23.31,
   "humidity": 0.51,
   "cloud_cover": 0.03,

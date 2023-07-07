@@ -11,9 +11,11 @@
   "longitude": -81.1273,
   "location": "-81.1273,29.47035",
   "location_details": "20 miles north of Daytona Beach on the east coast of Florida",
-  "temperature_high": 91.37,
-  "temperature_mid": 83.045,
-  "temperature_low": 74.72,
+  "temperature": {
+    "high": 91.37,
+    "mid": 83.045,
+    "low": 74.72
+  },
   "dew_point": 72.09,
   "humidity": 0.75,
   "cloud_cover": 0.4,

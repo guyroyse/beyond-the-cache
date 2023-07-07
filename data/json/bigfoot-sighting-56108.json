@@ -11,9 +11,11 @@
   "longitude": -94.1125,
   "location": "-94.1125,34.4125",
   "location_details": "Heavy forest in the Ouachita National Forest, 8 miles north of Acorn, Arkansas.",
-  "temperature_high": 62.36,
-  "temperature_mid": 54.095,
-  "temperature_low": 45.83,
+  "temperature": {
+    "high": 62.36,
+    "mid": 54.095,
+    "low": 45.83
+  },
   "dew_point": 33.21,
   "humidity": 0.62,
   "cloud_cover": 0.03,

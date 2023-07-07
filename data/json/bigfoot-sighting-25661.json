@@ -11,9 +11,11 @@
   "longitude": -75.58825,
   "location": "-75.58825,44.62185",
   "location_details": "It is across the road from my house",
-  "temperature_high": 52.17,
-  "temperature_mid": 42.425,
-  "temperature_low": 32.68,
+  "temperature": {
+    "high": 52.17,
+    "mid": 42.425,
+    "low": 32.68
+  },
   "dew_point": 34.46,
   "humidity": 0.65,
   "cloud_cover": 0.61,

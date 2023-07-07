@@ -11,9 +11,11 @@
   "longitude": -72.46315,
   "location": "-72.46315,41.51105",
   "location_details": "Middlesex county",
-  "temperature_high": 39.75,
-  "temperature_mid": 38.25,
-  "temperature_low": 36.75,
+  "temperature": {
+    "high": 39.75,
+    "mid": 38.25,
+    "low": 36.75
+  },
   "dew_point": 16.78,
   "humidity": 0.6,
   "cloud_cover": 0.34,

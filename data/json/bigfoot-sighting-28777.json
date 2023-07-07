@@ -11,9 +11,11 @@
   "longitude": -76.2074,
   "location": "-76.2074,39.72785",
   "location_details": "The area lies very close to the river hills of the Susquehanna where there is alot of cover and not alot of people.",
-  "temperature_high": 89.59,
-  "temperature_mid": 83.375,
-  "temperature_low": 77.16,
+  "temperature": {
+    "high": 89.59,
+    "mid": 83.375,
+    "low": 77.16
+  },
   "dew_point": 72.8,
   "humidity": 0.78,
   "cloud_cover": 0.1,

@@ -11,9 +11,11 @@
   "longitude": -87.24547,
   "location": "-87.24547,32.30673",
   "location_details": "1 and a half miles West on County RD. 21",
-  "temperature_high": 88.37,
-  "temperature_mid": 78.955,
-  "temperature_low": 69.54,
+  "temperature": {
+    "high": 88.37,
+    "mid": 78.955,
+    "low": 69.54
+  },
   "dew_point": 66.25,
   "humidity": 0.72,
   "cloud_cover": 0.25,

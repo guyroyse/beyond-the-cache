@@ -11,9 +11,11 @@
   "longitude": -90.8493,
   "location": "-90.8493,30.1878",
   "location_details": "From Sorrento, La. heading East 2 miles on Hwy 61",
-  "temperature_high": 81.91,
-  "temperature_mid": 72.36,
-  "temperature_low": 62.81,
+  "temperature": {
+    "high": 81.91,
+    "mid": 72.36,
+    "low": 62.81
+  },
   "dew_point": 63.36,
   "humidity": 0.72,
   "cloud_cover": 0.22,

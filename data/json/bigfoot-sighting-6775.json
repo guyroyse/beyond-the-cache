@@ -11,9 +11,11 @@
   "longitude": -91.1569,
   "location": "-91.1569,38.11203",
   "location_details": "Can't remember the exact directions to get there,  my brother in law would know as he grew up in the area and has family there, but it's about mid way, on the river, between Meramec Springs and Onondaga Cave.",
-  "temperature_high": 52.93,
-  "temperature_mid": 49.625,
-  "temperature_low": 46.32,
+  "temperature": {
+    "high": 52.93,
+    "mid": 49.625,
+    "low": 46.32
+  },
   "dew_point": 38.11,
   "humidity": 0.88,
   "cloud_cover": 0.5,

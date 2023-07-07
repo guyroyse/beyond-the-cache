@@ -11,9 +11,11 @@
   "longitude": -81.25768,
   "location": "-81.25768,40.77789",
   "location_details": "just off us state route 30 south out of E. Canton.",
-  "temperature_high": 47.03,
-  "temperature_mid": 44.01,
-  "temperature_low": 40.99,
+  "temperature": {
+    "high": 47.03,
+    "mid": 44.01,
+    "low": 40.99
+  },
   "dew_point": 21.53,
   "humidity": 0.64,
   "cloud_cover": 0.68,

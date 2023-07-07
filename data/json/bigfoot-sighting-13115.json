@@ -11,9 +11,11 @@
   "longitude": -122.2339,
   "location": "-122.2339,45.74715",
   "location_details": "Top of Silver Star Mountain.",
-  "temperature_high": 53.7,
-  "temperature_mid": 45.61,
-  "temperature_low": 37.52,
+  "temperature": {
+    "high": 53.7,
+    "mid": 45.61,
+    "low": 37.52
+  },
   "dew_point": 39.98,
   "humidity": 0.84,
   "cloud_cover": 0.36,

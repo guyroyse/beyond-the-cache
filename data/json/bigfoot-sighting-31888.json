@@ -11,9 +11,11 @@
   "longitude": -83.90588,
   "location": "-83.90588,33.34677",
   "location_details": "Halls Bridge road runs parallel to Jackson Lake. They are many cow pastures in the area that people rarely go in.",
-  "temperature_high": 71.79,
-  "temperature_mid": 63.575,
-  "temperature_low": 55.36,
+  "temperature": {
+    "high": 71.79,
+    "mid": 63.575,
+    "low": 55.36
+  },
   "dew_point": 60.9,
   "humidity": 0.87,
   "cloud_cover": 0.73,

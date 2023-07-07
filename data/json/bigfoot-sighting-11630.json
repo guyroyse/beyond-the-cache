@@ -11,9 +11,11 @@
   "longitude": -73.66616,
   "location": "-73.66616,41.97341",
   "location_details": "Lake Rd is off of Rt 82 north and also from Rt 199 from the east/west. Stissing Mt has the highest elevation between the Berkshires and the Catskills. It still has a fire tower on it. There is a large lake at its base and there is a fish and game preserve attached on the eastside. Stissing means Sleeping Indian. There was a report of a family living at the south end (the foot of the sleeping indian)which actually ran in the Register Herald, who stated they had seen \"bigfoot\" watching them when they were outside in their yard. I tend to believe your theory about them using the Appalacian Trail routes. I live in Rensselaer Co. - straight as the crow flies up from Dutchess.",
-  "temperature_high": 74.09,
-  "temperature_mid": 60.765,
-  "temperature_low": 47.44,
+  "temperature": {
+    "high": 74.09,
+    "mid": 60.765,
+    "low": 47.44
+  },
   "dew_point": 41.47,
   "humidity": 0.43,
   "cloud_cover": 0.81,

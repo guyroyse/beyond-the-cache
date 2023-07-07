@@ -11,9 +11,11 @@
   "longitude": -81.83705,
   "location": "-81.83705,30.2809",
   "location_details": "Unfortunately, this area has homes built on it now. We were at ____  Creek near Normandy Blvd. It was on the east side of the creek when I saw it and retreated South.",
-  "temperature_high": 74.15,
-  "temperature_mid": 68.935,
-  "temperature_low": 63.72,
+  "temperature": {
+    "high": 74.15,
+    "mid": 68.935,
+    "low": 63.72
+  },
   "dew_point": 58.08,
   "humidity": 0.78,
   "cloud_cover": 0.42,

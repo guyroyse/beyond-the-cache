@@ -11,9 +11,11 @@
   "longitude": -95.44415,
   "location": "-95.44415,39.2305",
   "location_details": "I live on the Prairie Band Potawatomi Nation Reservation, it is 20 minutes north of Topeka KS on 75 Hwy.",
-  "temperature_high": 76.72,
-  "temperature_mid": 67.82,
-  "temperature_low": 58.92,
+  "temperature": {
+    "high": 76.72,
+    "mid": 67.82,
+    "low": 58.92
+  },
   "dew_point": 46.33,
   "humidity": 0.66,
   "cloud_cover": 0.06,

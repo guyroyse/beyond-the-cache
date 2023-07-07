@@ -11,9 +11,11 @@
   "longitude": -123.7481,
   "location": "-123.7481,41.37861",
   "location_details": "Depending where you are coming from - Take highway 96 to the Fish Lake Road (13N01), follow the road till you see a sign saying Onion Lake.  For better directions call Orleans Ranger District (530) 627-3291.",
-  "temperature_high": 57.44,
-  "temperature_mid": 50.75,
-  "temperature_low": 44.06,
+  "temperature": {
+    "high": 57.44,
+    "mid": 50.75,
+    "low": 44.06
+  },
   "dew_point": 46.93,
   "humidity": 0.85,
   "cloud_cover": 0.5,

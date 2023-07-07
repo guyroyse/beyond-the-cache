@@ -11,9 +11,11 @@
   "longitude": -88.1033,
   "location": "-88.1033,40.26916",
   "location_details": "Creature came out of ditch low to ground then stood up on two legs disappeared out of headlights into the dark.",
-  "temperature_high": 74.55,
-  "temperature_mid": 61.545,
-  "temperature_low": 48.54,
+  "temperature": {
+    "high": 74.55,
+    "mid": 61.545,
+    "low": 48.54
+  },
   "dew_point": 47.53,
   "humidity": 0.68,
   "cloud_cover": 0.16,

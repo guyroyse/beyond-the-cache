@@ -11,9 +11,11 @@
   "longitude": -80.9835,
   "location": "-80.9835,41.1174",
   "location_details": "Mahoning County, Lake Milton reservoir",
-  "temperature_high": 80.14,
-  "temperature_mid": 73.37,
-  "temperature_low": 66.6,
+  "temperature": {
+    "high": 80.14,
+    "mid": 73.37,
+    "low": 66.6
+  },
   "dew_point": 62.91,
   "humidity": 0.77,
   "cloud_cover": 0.7,

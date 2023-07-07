@@ -11,9 +11,11 @@
   "longitude": -81.00677,
   "location": "-81.00677,28.13136",
   "location_details": "(from I95) 192 heading NW in deserted area just before Crabgrass Rd.",
-  "temperature_high": 91.72,
-  "temperature_mid": 85.54,
-  "temperature_low": 79.36,
+  "temperature": {
+    "high": 91.72,
+    "mid": 85.54,
+    "low": 79.36
+  },
   "dew_point": 73.24,
   "humidity": 0.74,
   "cloud_cover": 0.27,

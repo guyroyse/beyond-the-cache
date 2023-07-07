@@ -11,9 +11,11 @@
   "longitude": -86.98705,
   "location": "-86.98705,37.05575",
   "location_details": "Lewisburg, Kentucky, Logan County. In the northern most part of the county, in an area called Hollow Bill, along U.S. 431, one mile from the Muhlenberg County line.",
-  "temperature_high": 94.23,
-  "temperature_mid": 84.99,
-  "temperature_low": 75.75,
+  "temperature": {
+    "high": 94.23,
+    "mid": 84.99,
+    "low": 75.75
+  },
   "dew_point": 72.41,
   "humidity": 0.67,
   "cloud_cover": 0.44,

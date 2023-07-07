@@ -11,9 +11,11 @@
   "longitude": -123.5894,
   "location": "-123.5894,47.33694",
   "location_details": "Wynoochee Dam area. Weather Wax Ridge Approx. 3,500 ft. elev.",
-  "temperature_high": 63.04,
-  "temperature_mid": 53.055,
-  "temperature_low": 43.07,
+  "temperature": {
+    "high": 63.04,
+    "mid": 53.055,
+    "low": 43.07
+  },
   "dew_point": 52.31,
   "humidity": 0.8,
   "cloud_cover": 0.62,

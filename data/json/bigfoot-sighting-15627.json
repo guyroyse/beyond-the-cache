@@ -11,9 +11,11 @@
   "longitude": -95.20691,
   "location": "-95.20691,31.50773",
   "location_details": "I didn't get the road information, but will be willing to go there again.",
-  "temperature_high": 93.79,
-  "temperature_mid": 85.04,
-  "temperature_low": 76.29,
+  "temperature": {
+    "high": 93.79,
+    "mid": 85.04,
+    "low": 76.29
+  },
   "dew_point": 73.98,
   "humidity": 0.74,
   "cloud_cover": 0.31,

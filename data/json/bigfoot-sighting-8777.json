@@ -11,9 +11,11 @@
   "longitude": -122.2356,
   "location": "-122.2356,47.0958",
   "location_details": "From the town of Orting take the Orting-Kapowsin Hwy. Take the first R after the bridge. Follow it to the end.",
-  "temperature_high": 77.92,
-  "temperature_mid": 65.46,
-  "temperature_low": 53,
+  "temperature": {
+    "high": 77.92,
+    "mid": 65.46,
+    "low": 53
+  },
   "dew_point": 51.42,
   "humidity": 0.68,
   "cloud_cover": 0.19,

@@ -11,9 +11,11 @@
   "longitude": -83.92841,
   "location": "-83.92841,36.4583",
   "location_details": "Travel from Knoxville TN north on I-75, take exit 134, go right continue east on highway 63 approximately 15 miles on the left side of the highway at the large bend in the mountain",
-  "temperature_high": 81.12,
-  "temperature_mid": 72.745,
-  "temperature_low": 64.37,
+  "temperature": {
+    "high": 81.12,
+    "mid": 72.745,
+    "low": 64.37
+  },
   "dew_point": 64.52,
   "humidity": 0.79,
   "cloud_cover": 0.64,

@@ -11,9 +11,11 @@
   "longitude": -90.9525,
   "location": "-90.9525,36.66708",
   "location_details": "37 mileseast of Riverton Mo turn on V highway go five or so miles turn on the government road When you see the sign fo Fouche Lake go three to five miles down there to the lake.",
-  "temperature_high": 77.07,
-  "temperature_mid": 69.05,
-  "temperature_low": 61.03,
+  "temperature": {
+    "high": 77.07,
+    "mid": 69.05,
+    "low": 61.03
+  },
   "dew_point": 51.07,
   "humidity": 0.58,
   "cloud_cover": 0.13,

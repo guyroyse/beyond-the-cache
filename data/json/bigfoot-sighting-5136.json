@@ -11,9 +11,11 @@
   "longitude": -121.1008,
   "location": "-121.1008,47.3991",
   "location_details": "From Cle Elum take highway 903 through Roslyn.  Highway 903 turns into Salmon La Sac Road.  We camped several miles down the road between the road and the resevoir.",
-  "temperature_high": 39.98,
-  "temperature_mid": 38.72,
-  "temperature_low": 37.46,
+  "temperature": {
+    "high": 39.98,
+    "mid": 38.72,
+    "low": 37.46
+  },
   "dew_point": 33.99,
   "humidity": 0.89,
   "cloud_cover": 0.95,

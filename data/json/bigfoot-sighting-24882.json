@@ -11,9 +11,11 @@
   "longitude": -122.2347,
   "location": "-122.2347,44.95023",
   "location_details": "I am a little fuzzy as to the exact details but i do know that we took 224 through Estacada and continued east for at least another hour then ended up on I believe FR 43. Although after that we took the bagby hot springs road and several logging roads later found our first campsite at the end of one of these logging roads.",
-  "temperature_high": 82.99,
-  "temperature_mid": 70.135,
-  "temperature_low": 57.28,
+  "temperature": {
+    "high": 82.99,
+    "mid": 70.135,
+    "low": 57.28
+  },
   "dew_point": 50.68,
   "humidity": 0.63,
   "cloud_cover": 0.59,

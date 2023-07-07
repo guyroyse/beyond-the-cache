@@ -11,9 +11,11 @@
   "longitude": -81.94118,
   "location": "-81.94118,30.11584",
   "location_details": "Middleburg",
-  "temperature_high": 89.94,
-  "temperature_mid": 83.22,
-  "temperature_low": 76.5,
+  "temperature": {
+    "high": 89.94,
+    "mid": 83.22,
+    "low": 76.5
+  },
   "dew_point": 73.75,
   "humidity": 0.77,
   "cloud_cover": 0.45,

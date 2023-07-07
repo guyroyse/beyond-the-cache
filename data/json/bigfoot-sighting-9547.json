@@ -11,9 +11,11 @@
   "longitude": -123.5417,
   "location": "-123.5417,45.93701",
   "location_details": "This area is the extended roam of one of the largest herds of Elk.  There is a large Elk Preserve a few miles away, along the Nehalem.",
-  "temperature_high": 75.4,
-  "temperature_mid": 65.9,
-  "temperature_low": 56.4,
+  "temperature": {
+    "high": 75.4,
+    "mid": 65.9,
+    "low": 56.4
+  },
   "dew_point": 50.9,
   "humidity": 0.68,
   "cloud_cover": 0.19,

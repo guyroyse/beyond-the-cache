@@ -11,9 +11,11 @@
   "longitude": -81.07385,
   "location": "-81.07385,25.782",
   "location_details": "Take US 41 (Tamiami Trail,...is known as S.W. 8th St.) out of Miami forty miles.  Take a left onto Loop Road at the Forty Mile Bend,...proceed 12 miles west on Loop Road.  The remains of Everglades Institute are on your right over the other side Of a cattle gate.  Opposite side is an ancient gas station (pumps are still standing I believe),...The pond is located 500 feet into the property (13 acres) which now is owned by the park service.  Talk to Larry Muldoon, he lives in the area and sometimes camps mear the pond.  Tell him John sent you.  He isn't real \"keen\" on people,...but he probably will let you look around the pond if you tell him about the story you read and your interest in the creature.  He has some personal experiences of his own.",
-  "temperature_high": 80.16,
-  "temperature_mid": 70.845,
-  "temperature_low": 61.53,
+  "temperature": {
+    "high": 80.16,
+    "mid": 70.845,
+    "low": 61.53
+  },
   "dew_point": 63.26,
   "humidity": 0.73,
   "cloud_cover": 0.35,

@@ -11,9 +11,11 @@
   "longitude": -77.4608,
   "location": "-77.4608,39.21564",
   "location_details": "Land is owned by the Monocacy Hunting Club.",
-  "temperature_high": 77.48,
-  "temperature_mid": 70.735,
-  "temperature_low": 63.99,
+  "temperature": {
+    "high": 77.48,
+    "mid": 70.735,
+    "low": 63.99
+  },
   "dew_point": 58.26,
   "humidity": 0.68,
   "cloud_cover": 0.72,

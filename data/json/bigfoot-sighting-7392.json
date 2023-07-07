@@ -11,9 +11,11 @@
   "longitude": -78.55758,
   "location": "-78.55758,36.63931",
   "location_details": "From Clarksville, take US 15 North across the lake, turn left just after crossing and continue on US 15. Go app 5 mi and turn right on VA 49,  go app 9 mi and turn left on County rd 640. I don't remember the exact distance, but I think it was about 3 miles to Buggs farm on the left, a farm house about 1/4 mile off the paved road. The campsite we had that night was about 200yds from the end of the finger of water we camped  near. I was just looking at a map of that area.",
-  "temperature_high": 73,
-  "temperature_mid": 66.54,
-  "temperature_low": 60.08,
+  "temperature": {
+    "high": 73,
+    "mid": 66.54,
+    "low": 60.08
+  },
   "dew_point": 62.48,
   "humidity": 0.91,
   "cloud_cover": 0.96,

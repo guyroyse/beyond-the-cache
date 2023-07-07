@@ -11,9 +11,11 @@
   "longitude": -90.53249,
   "location": "-90.53249,38.73802",
   "location_details": "Missouri river bottoms above river from the 370 hwy bridge",
-  "temperature_high": 46.12,
-  "temperature_mid": 39.585,
-  "temperature_low": 33.05,
+  "temperature": {
+    "high": 46.12,
+    "mid": 39.585,
+    "low": 33.05
+  },
   "dew_point": 34.87,
   "humidity": 0.79,
   "cloud_cover": 0.66,

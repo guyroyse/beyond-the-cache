@@ -11,9 +11,11 @@
   "longitude": -84.53352,
   "location": "-84.53352,33.70037",
   "location_details": "Near the intersection of Campbellton Rd. and County Line Rd.",
-  "temperature_high": 86.68,
-  "temperature_mid": 77.645,
-  "temperature_low": 68.61,
+  "temperature": {
+    "high": 86.68,
+    "mid": 77.645,
+    "low": 68.61
+  },
   "dew_point": 70.24,
   "humidity": 0.82,
   "cloud_cover": 0.83,

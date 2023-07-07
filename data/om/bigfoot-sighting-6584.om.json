@@ -1,0 +1,34 @@
+{
+  "reportId": "6584",
+  "title": "Vocalization heard in Call Meadow area",
+  "date": "2003-07-02",
+  "timestamp": 1057104000,
+  "observed": "At about 7:00 pm I was taking a walk along the eastern edge of Call Meadow.  I had parked before the cattle gate on the southern end.  Cattle were grazing toward the south end of the meadow, and also in the woods to the east, but they were fenced out of the meadow, where I was walking on an old road.  I'd gone maybe about 500 ft. and heard, off to the southwest, near the E-W fenceline, in the woods on the other side of the meadow, a really horrible noise.  I've worked in the woods on the coast for almost 20 yrs., and have been camping over in the Malheur for about as long, and I have never heard anything like it.  It was very loud, like a cow bellowing but it wasn't a cow.  It's hard to describe, or even remember exactly, but it was almost like a scream, but not a scream, it almost sounded like something may have been in a lot of pain, or maybe just really mad.  It went on for at least a minute or more.  I was listening, and a first thought coyote, but it didn't sound like a coyote.  I have heard that cougars can scream like a woman, but it didn't sound like that.  I was most impressed by how loud it was.  It was probably about 1000 ft. away from me.  I could see across the meadow, and kept watching while I headed back for the rig.  It was pretty scary, so I cut my walk short.",
+  "classification": "Class B",
+  "county": "Harney",
+  "state": "Oregon",
+  "latitude": 43.85975,
+  "longitude": -118.8215,
+  "location": {
+    "longitude": -118.8215,
+    "latitude": 43.85975
+  },
+  "location_details": "South end of Call Meadow, north of Junction of FS road 28 and 2850.  Pavement ends on 28, gravel begins, it's another 1/4 mile or so.",
+  "temperature": {
+    "high": 81.83,
+    "mid": 64.235,
+    "low": 46.64
+  },
+  "dew_point": 37.07,
+  "humidity": 0.39,
+  "cloud_cover": 0.05,
+  "moon_phase": 0.1,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1014.06,
+  "summary": "Clear throughout the day.",
+  "uv_index": 11,
+  "visibility": 9.98,
+  "wind_bearing": 296,
+  "wind_speed": 5.16
+}

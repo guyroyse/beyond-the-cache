@@ -11,9 +11,11 @@
   "longitude": -121.8134,
   "location": "-121.8134,47.8895",
   "location_details": "Near sultan basin road.",
-  "temperature_high": 77.19,
-  "temperature_mid": 65.785,
-  "temperature_low": 54.38,
+  "temperature": {
+    "high": 77.19,
+    "mid": 65.785,
+    "low": 54.38
+  },
   "dew_point": 51.86,
   "humidity": 0.65,
   "cloud_cover": 0.08,

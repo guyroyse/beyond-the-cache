@@ -11,9 +11,11 @@
   "longitude": -74.6854,
   "location": "-74.6854,41.30566",
   "location_details": "I don't remember how to get there.  After 20 years, they might be out of business.",
-  "temperature_high": 81.33,
-  "temperature_mid": 72.46,
-  "temperature_low": 63.59,
+  "temperature": {
+    "high": 81.33,
+    "mid": 72.46,
+    "low": 63.59
+  },
   "dew_point": 51.37,
   "humidity": 0.54,
   "cloud_cover": 0.41,

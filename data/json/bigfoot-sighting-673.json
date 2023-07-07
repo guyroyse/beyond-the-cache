@@ -11,9 +11,11 @@
   "longitude": -121.9524,
   "location": "-121.9524,44.27795",
   "location_details": "Go up the McKenzie Hwy 126 from Springfield past McKenzie Bridge to Boulder Creek Road turn right and go to the top.  Hike over the ridge into the Mount Washington Wilderness. About a half mile in on the left was this upright dark haired creature.",
-  "temperature_high": 84.49,
-  "temperature_mid": 67.64,
-  "temperature_low": 50.79,
+  "temperature": {
+    "high": 84.49,
+    "mid": 67.64,
+    "low": 50.79
+  },
   "dew_point": 45.73,
   "humidity": 0.54,
   "cloud_cover": 0.02,

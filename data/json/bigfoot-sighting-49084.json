@@ -11,9 +11,11 @@
   "longitude": -80.47805,
   "location": "-80.47805,25.54494",
   "location_details": "Highway 27 (Krome Ave) south of Tamiami Trail, but before Homestead.",
-  "temperature_high": 81.55,
-  "temperature_mid": 77.13,
-  "temperature_low": 72.71,
+  "temperature": {
+    "high": 81.55,
+    "mid": 77.13,
+    "low": 72.71
+  },
   "dew_point": 72.9,
   "humidity": 0.85,
   "cloud_cover": 0.7,

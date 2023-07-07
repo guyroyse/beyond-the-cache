@@ -11,9 +11,11 @@
   "longitude": -81.4936,
   "location": "-81.4936,40.11682",
   "location_details": "Salt Fork Marina",
-  "temperature_high": 86.57,
-  "temperature_mid": 77.965,
-  "temperature_low": 69.36,
+  "temperature": {
+    "high": 86.57,
+    "mid": 77.965,
+    "low": 69.36
+  },
   "dew_point": 67.32,
   "humidity": 0.74,
   "cloud_cover": 0.32,

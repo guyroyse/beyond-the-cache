@@ -11,9 +11,11 @@
   "longitude": -106.8803,
   "location": "-106.8803,35.98475",
   "location_details": "Out of the town of Cuba, about 7 miles into the Santa Fe National Forest.",
-  "temperature_high": 68.64,
-  "temperature_mid": 54.245,
-  "temperature_low": 39.85,
+  "temperature": {
+    "high": 68.64,
+    "mid": 54.245,
+    "low": 39.85
+  },
   "dew_point": 19.8,
   "humidity": 0.32,
   "cloud_cover": 0.07,

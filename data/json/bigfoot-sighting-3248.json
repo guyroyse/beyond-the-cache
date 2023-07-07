@@ -11,9 +11,11 @@
   "longitude": -81.33974,
   "location": "-81.33974,41.39803",
   "location_details": "Take Rt.422 east from Cleveland,Ohio to Chagrin Falls, Ohio. South Franklin to Woodland to Loraine St. There is a forest south of me where this unusual wildlife seems to come from. I live in a low income area that where people are considerate of each other and keep to themselves. Most of the people here are African American and are very decent folks. ",
-  "temperature_high": 40.26,
-  "temperature_mid": 38.035,
-  "temperature_low": 35.81,
+  "temperature": {
+    "high": 40.26,
+    "mid": 38.035,
+    "low": 35.81
+  },
   "dew_point": 30.56,
   "humidity": 0.7,
   "cloud_cover": 0.99,

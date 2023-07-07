@@ -1,0 +1,34 @@
+{
+  "reportId": "45976",
+  "title": "Trucker recounts possible early morning experience while making a delivery outside Spring Arbor",
+  "date": "2000-09-01",
+  "timestamp": 967766400,
+  "observed": "I was delivering grain to a farm on Hwy 60, but to get to the farm, had to turn south off 60 onto Emerson Rd. to get to unload in the area. Right after turning off 60, I usually stop and turn on trailer backup lights and remove tailgate turnbuckles so I can see to back up at farm. On this morning, as I was walking to the back of the trailer, I heard a lot of noise, snapping limbs, sounds like something was pacing back and forth, in the patch of woods on the east side of road. As I got to the back of the trailer, I suddenly had the smell of a dead animal, strong, coming from the deep ditch on the west (field) side of the road. This road had one little property light up by the intersection, otherwise it was dark except for the small amount of light from the tractor and trailer backup flood lights. Suddenly I'm struck with fear. Now, I'm six foot 230lbs and don't scare easily, and cant explain the feeling that came on me. The noise in the woods was intensifying, getting louder, almost impatient, while the smell got more intense and I felt like there was something in the ditch staring at me. I was overwhelmed by the feeling of fear and ran back to the cab, took off into the farm and unloaded. I got out after unloading, this is just on the south side of the patch of woods and couldn't hear or smell anything and the feeling was gone.",
+  "classification": "Class B",
+  "county": "Jackson",
+  "state": "Michigan",
+  "latitude": 42.20901,
+  "longitude": -84.53098,
+  "location": {
+    "longitude": -84.53098,
+    "latitude": 42.20901
+  },
+  "location_details": "Just south of the intersection of HWY 60 and Emerson Rd.",
+  "temperature": {
+    "high": 87.8,
+    "mid": 78.615,
+    "low": 69.43
+  },
+  "dew_point": 69.82,
+  "humidity": 0.82,
+  "cloud_cover": 0.13,
+  "moon_phase": 0.12,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1016.8,
+  "summary": "Foggy in the morning and humid throughout the day.",
+  "uv_index": 6,
+  "visibility": 6.71,
+  "wind_bearing": 125,
+  "wind_speed": 2.13
+}

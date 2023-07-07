@@ -11,9 +11,11 @@
   "longitude": -93.9467,
   "location": "-93.9467,32.7817",
   "location_details": "Caddo Parish, Oil City, Louisiana, adjacent to Black Bayou",
-  "temperature_high": 72.24,
-  "temperature_mid": 66.98,
-  "temperature_low": 61.72,
+  "temperature": {
+    "high": 72.24,
+    "mid": 66.98,
+    "low": 61.72
+  },
   "dew_point": 62.21,
   "humidity": 0.85,
   "cloud_cover": 0.96,

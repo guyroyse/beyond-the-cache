@@ -11,9 +11,11 @@
   "longitude": -83.61285,
   "location": "-83.61285,33.46372",
   "location_details": "The closest reference point I can give is Pennington Road and Hughes Road. I would have to ride back out that way and locate the property, but I'm sure that I could. There was some logging going on back then, so there were lots of logging roads for us to play around on.",
-  "temperature_high": 88.52,
-  "temperature_mid": 78.935,
-  "temperature_low": 69.35,
+  "temperature": {
+    "high": 88.52,
+    "mid": 78.935,
+    "low": 69.35
+  },
   "dew_point": 65.83,
   "humidity": 0.67,
   "cloud_cover": 0.26,

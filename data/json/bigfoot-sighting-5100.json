@@ -11,9 +11,11 @@
   "longitude": -121.8735,
   "location": "-121.8735,45.63923",
   "location_details": "On the Ruckel Creek trail, near Cascade Locks Oregon at a point somewhere between the Mark Hatfield Wilderness boundary and the first switchback going down the hill, at about 3,300 feet elevation. Approimately 45 38' 21\" N, 121 52' 24\" W",
-  "temperature_high": 82,
-  "temperature_mid": 65.04,
-  "temperature_low": 48.08,
+  "temperature": {
+    "high": 82,
+    "mid": 65.04,
+    "low": 48.08
+  },
   "dew_point": 49.47,
   "humidity": 0.6,
   "cloud_cover": 0.06,

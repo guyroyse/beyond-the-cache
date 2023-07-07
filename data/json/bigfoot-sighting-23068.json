@@ -11,9 +11,11 @@
   "longitude": -122.9539,
   "location": "-122.9539,48.03632",
   "location_details": "Chicken Coop Road and Highway 1, Opposite of Chicken Coop Road is Diamond Point and it turns into Craig Road South.",
-  "temperature_high": 56.1,
-  "temperature_mid": 52.62,
-  "temperature_low": 49.14,
+  "temperature": {
+    "high": 56.1,
+    "mid": 52.62,
+    "low": 49.14
+  },
   "dew_point": 43.46,
   "humidity": 0.72,
   "cloud_cover": 0.89,

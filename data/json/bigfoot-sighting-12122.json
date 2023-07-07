@@ -11,9 +11,11 @@
   "longitude": -91.08505,
   "location": "-91.08505,31.39275",
   "location_details": "OFF OF HWY 33 TURN ON BUNKLY RD.GO ABOUT 5 MILES AND TURN ON #101.THIS IS A GOV.RD IN THE HOMMOCHITTO NATIONAL FORREST.",
-  "temperature_high": 56.73,
-  "temperature_mid": 43.985,
-  "temperature_low": 31.24,
+  "temperature": {
+    "high": 56.73,
+    "mid": 43.985,
+    "low": 31.24
+  },
   "dew_point": 36.5,
   "humidity": 0.58,
   "cloud_cover": 0.21,

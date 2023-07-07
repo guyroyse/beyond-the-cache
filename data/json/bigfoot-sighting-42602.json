@@ -11,9 +11,11 @@
   "longitude": -106.3023,
   "location": "-106.3023,39.80777",
   "location_details": "Campsite at Surprise Lake in the Eagle Nest Wilderness. We followed the directions out of the guide book.",
-  "temperature_high": 79,
-  "temperature_mid": 61.79,
-  "temperature_low": 44.58,
+  "temperature": {
+    "high": 79,
+    "mid": 61.79,
+    "low": 44.58
+  },
   "dew_point": 13.71,
   "humidity": 0.19,
   "cloud_cover": 0.04,

@@ -11,9 +11,11 @@
   "longitude": -123.8647,
   "location": "-123.8647,46.988",
   "location_details": "In dense lowland forest, the ravine behind my property, which is semi-wilderness about a mile from the city limits where the real wilderness begins.",
-  "temperature_high": 56.53,
-  "temperature_mid": 50.79,
-  "temperature_low": 45.05,
+  "temperature": {
+    "high": 56.53,
+    "mid": 50.79,
+    "low": 45.05
+  },
   "dew_point": 44.68,
   "humidity": 0.88,
   "cloud_cover": 0.46,

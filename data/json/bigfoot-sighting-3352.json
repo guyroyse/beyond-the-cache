@@ -11,9 +11,11 @@
   "longitude": -83.40573,
   "location": "-83.40573,38.89665",
   "location_details": "Private Land near Peebles OH - Adams County - off Rte 41 - near Peach Mountain.  I think the nearest road is Steam Furance Rd., but this inicident was a long time ago.",
-  "temperature_high": 38.8,
-  "temperature_mid": 34.605,
-  "temperature_low": 30.41,
+  "temperature": {
+    "high": 38.8,
+    "mid": 34.605,
+    "low": 30.41
+  },
   "dew_point": 11.67,
   "humidity": 0.59,
   "cloud_cover": 0.27,

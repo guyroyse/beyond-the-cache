@@ -11,9 +11,11 @@
   "longitude": -87.2932,
   "location": "-87.2932,35.3218",
   "location_details": "This was 53 years ago it was in Ethridge Tennessee i don't remember how to get back to the old farm place but even if i did it is not the same anymore so much land has been cleared",
-  "temperature_high": 56.35,
-  "temperature_mid": 46.485,
-  "temperature_low": 36.62,
+  "temperature": {
+    "high": 56.35,
+    "mid": 46.485,
+    "low": 36.62
+  },
   "dew_point": 47.38,
   "humidity": 0.88,
   "cloud_cover": 0.82,

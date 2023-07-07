@@ -1,0 +1,35 @@
+{
+  "reportId": "4692",
+  "title": "Noon sighting by family of four near Mount Washburn, Yellowstone National Park",
+  "date": "2002-07-19",
+  "timestamp": 1027036800,
+  "observed": "I was in my parent's car on the northwest side of  Mt. Washburn in Yellowstone National Park,Wyoming when my mom,dad,brother,and I saw a humanoid figure,too tall to be human walking upright along a ridge around 300 yards off. It looked hairy, and between 8 and 10 feet tall. It was around noon and it was partly cloudy and my family was scanning the ridge for bighorn sheep when we saw it.",
+  "classification": "Class A",
+  "county": "Park",
+  "state": "Wyoming",
+  "latitude": 46.79165,
+  "longitude": -110.4165,
+  "location": {
+    "longitude": -110.4165,
+    "latitude": 46.79165
+  },
+  "location_details": "It was on a ridge on a road in Mt. Washburn, Wyoming.",
+  "temperature": {
+    "high": 82.44,
+    "mid": 70.845,
+    "low": 59.25
+  },
+  "dew_point": 54.56,
+  "humidity": 0.53,
+  "cloud_cover": 0.27,
+  "moon_phase": 0.34,
+  "precip_intensity": 0.0058,
+  "precip_probability": 0.48,
+  "precip_type": "rain",
+  "pressure": 1011.3,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 9,
+  "visibility": 9.87,
+  "wind_bearing": 253,
+  "wind_speed": 4.26
+}

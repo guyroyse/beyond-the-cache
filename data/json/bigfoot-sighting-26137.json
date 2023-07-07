@@ -11,9 +11,11 @@
   "longitude": -123.5524,
   "location": "-123.5524,44.50455",
   "location_details": "Mary's Peak. We parked in the large parking area and walked the inner trails through the forest.",
-  "temperature_high": 65.27,
-  "temperature_mid": 59.81,
-  "temperature_low": 54.35,
+  "temperature": {
+    "high": 65.27,
+    "mid": 59.81,
+    "low": 54.35
+  },
   "dew_point": 53.95,
   "humidity": 0.84,
   "cloud_cover": 0.85,

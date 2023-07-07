@@ -11,9 +11,11 @@
   "longitude": -123.875,
   "location": "-123.875,43.54165",
   "location_details": "Near Headwaters ridge(8800 road) in Elliot State Forest.  The headwaters drainage basin into the Millicoma river.  Area is accessible from the 9500 road, which is the way we got there that day, via the 1000 line to the 9000 line.",
-  "temperature_high": 61.16,
-  "temperature_mid": 57.85,
-  "temperature_low": 54.54,
+  "temperature": {
+    "high": 61.16,
+    "mid": 57.85,
+    "low": 54.54
+  },
   "dew_point": 52.91,
   "humidity": 0.89,
   "cloud_cover": 0.83,

@@ -11,9 +11,11 @@
   "longitude": -119.8208,
   "location": "-119.8208,38.77778",
   "location_details": "Hwy 88 to Blue Lakes Rd. You go back to the PGE Campgrounds. Go the the Upper Blue Lakes campground and continue up the dirt road to Lost Lakes. If you continue on the road it takes you to Red Lake. Eldorado National Forest.",
-  "temperature_high": 85.65,
-  "temperature_mid": 70.36,
-  "temperature_low": 55.07,
+  "temperature": {
+    "high": 85.65,
+    "mid": 70.36,
+    "low": 55.07
+  },
   "dew_point": 47.14,
   "humidity": 0.45,
   "cloud_cover": 0.16,

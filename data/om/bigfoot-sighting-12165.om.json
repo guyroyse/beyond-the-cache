@@ -1,0 +1,35 @@
+{
+  "reportId": "12165",
+  "title": "Camper hears nightime vocalizations near Florence Lake.",
+  "date": "2005-07-24",
+  "timestamp": 1122163200,
+  "observed": "Camped at Jackass Meadow just below Florence Lake.  I was tired from a long day of fishing and driving to Lake Edison, so I ate and fished a little more and retired for the evening.  It was a full moon out and everything was really calm for a campground.  I went to bed in my tent fairly early and woke up several times during the evening.  Every thing was quiet and I got up to store my food in the bearboxes around camp.  I didn't hear anything or see any thing when I was awake.  I went back to bed and nodded off.  I awoke again from my sleep to a noise that I had never heard in the mountains.  It was late, and everyone to my knowledge was asleep.  The noise was coming from the east of the campground i'd say approx. 1/2 a mile to a mile.  I would say that it sounded the same as someone blowing through a conch shell mixed with and large mammal of some sorts.  I heard the noise two times after I awoke in five second intervals, right after one another, and then silence.  It was fairly loud and I knew that it was off in the distance because there was no other noise in the woods.  I have been camping/hiking/and mountaineering all over the West Coast and I have never heard anything like that sound.",
+  "classification": "Class B",
+  "county": "Fresno",
+  "state": "California",
+  "latitude": 37.2804,
+  "longitude": -118.9614,
+  "location": {
+    "longitude": -118.9614,
+    "latitude": 37.2804
+  },
+  "location_details": "Jackass Meadow campground, on the outskirts of camp.",
+  "temperature": {
+    "high": 101.5,
+    "mid": 83.785,
+    "low": 66.07
+  },
+  "dew_point": 56.23,
+  "humidity": 0.4,
+  "cloud_cover": 0.05,
+  "moon_phase": 0.63,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.1,
+  "precip_type": "rain",
+  "pressure": 1010.96,
+  "summary": "Clear throughout the day.",
+  "uv_index": 13,
+  "visibility": 9.89,
+  "wind_bearing": 244,
+  "wind_speed": 2.15
+}

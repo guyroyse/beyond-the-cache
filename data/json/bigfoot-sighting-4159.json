@@ -11,9 +11,11 @@
   "longitude": -94.96611,
   "location": "-94.96611,31.22333",
   "location_details": "About 5 miles east of Apple Springs in the Davy Crockett National Forest.",
-  "temperature_high": 74.3,
-  "temperature_mid": 59.345,
-  "temperature_low": 44.39,
+  "temperature": {
+    "high": 74.3,
+    "mid": 59.345,
+    "low": 44.39
+  },
   "dew_point": 44.15,
   "humidity": 0.7,
   "cloud_cover": 0.01,

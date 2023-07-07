@@ -11,9 +11,11 @@
   "longitude": -82.63696,
   "location": "-82.63696,28.55359",
   "location_details": "Approximately 50-75yds on the south side of Cortez Blvd just before the intersection at Pine Island Dr heading west on Cortez blvd.",
-  "temperature_high": 72.27,
-  "temperature_mid": 65.455,
-  "temperature_low": 58.64,
+  "temperature": {
+    "high": 72.27,
+    "mid": 65.455,
+    "low": 58.64
+  },
   "dew_point": 48.02,
   "humidity": 0.7,
   "cloud_cover": 0.02,

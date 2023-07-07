@@ -11,9 +11,11 @@
   "longitude": -91.16042,
   "location": "-91.16042,38.2081",
   "location_details": "The park is right off the second Sullivan exit. Is called the City Lake Park, and it is near heavy forested areas like the Meramec State park, and Mark Twain National Forrest.",
-  "temperature_high": 48.44,
-  "temperature_mid": 46.195,
-  "temperature_low": 43.95,
+  "temperature": {
+    "high": 48.44,
+    "mid": 46.195,
+    "low": 43.95
+  },
   "dew_point": 43.87,
   "humidity": 0.91,
   "cloud_cover": 1,

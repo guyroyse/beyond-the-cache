@@ -11,9 +11,11 @@
   "longitude": -81.52609,
   "location": "-81.52609,29.28971",
   "location_details": "From the town of Peirson, go north on County HWY 3. Turn left on 9 Mile Point Road. Turn right on Willow Cove Road. The hunters entered the woods at the end of the road.",
-  "temperature_high": 72.1,
-  "temperature_mid": 61.775,
-  "temperature_low": 51.45,
+  "temperature": {
+    "high": 72.1,
+    "mid": 61.775,
+    "low": 51.45
+  },
   "dew_point": 47.48,
   "humidity": 0.64,
   "cloud_cover": 0.08,

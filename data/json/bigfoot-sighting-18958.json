@@ -11,9 +11,11 @@
   "longitude": -111.4418,
   "location": "-111.4418,43.61015",
   "location_details": "To get to the location of the encounter, you would drive east of Ririe turning North to cross the river West of Heise Hot Springs. Go east of the hot springs to the intersection in the road where you go left to Kelly Canyon or right to the River Road 206, follow the road east up the north side of the South Fork of the Snake River To the Trail Head at Big Burns Creek. Go up the trail up Big Burns Creek until you come to the first Large canyon with a creek flowing down it from the East. That will be Little Burns Creek. ??about 4-4 1/2 miles from the trailhead.?? I don't care if you post the area because there is already alot of people that go into this area in the summer time, horses riding, hiking, Motorcycle riders, etc. Not too many during the hunting season. I'll leave it up to BFRO to decide what is best on the posting.",
-  "temperature_high": 52.32,
-  "temperature_mid": 37.805,
-  "temperature_low": 23.29,
+  "temperature": {
+    "high": 52.32,
+    "mid": 37.805,
+    "low": 23.29
+  },
   "dew_point": 19.26,
   "humidity": 0.58,
   "cloud_cover": 0.04,

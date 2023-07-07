@@ -11,9 +11,11 @@
   "longitude": -112.4554,
   "location": "-112.4554,45.9754",
   "location_details": "On the East Ridge, south of The Lady of the Rockies. About in the middle of the hill.",
-  "temperature_high": 87.61,
-  "temperature_mid": 69.43,
-  "temperature_low": 51.25,
+  "temperature": {
+    "high": 87.61,
+    "mid": 69.43,
+    "low": 51.25
+  },
   "dew_point": 29.09,
   "humidity": 0.32,
   "cloud_cover": 0.09,

@@ -11,9 +11,11 @@
   "longitude": -122.2963,
   "location": "-122.2963,46.5672",
   "location_details": "On Hwy 508 west of Morton.",
-  "temperature_high": 60.3,
-  "temperature_mid": 53.535,
-  "temperature_low": 46.77,
+  "temperature": {
+    "high": 60.3,
+    "mid": 53.535,
+    "low": 46.77
+  },
   "dew_point": 48.71,
   "humidity": 0.86,
   "cloud_cover": 0.66,

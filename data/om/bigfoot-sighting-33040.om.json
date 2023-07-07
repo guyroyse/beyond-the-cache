@@ -1,0 +1,35 @@
+{
+  "reportId": "33040",
+  "title": "Possible sighting by a deer hunter west of Rushville",
+  "date": "2010-11-18",
+  "timestamp": 1290038400,
+  "observed": "I was out deer hunting down in a valley on my Dad's property and right as the sun was beginning to break I heard a loud scream. I looked over in the direction of that scream and saw something black as far as I could see and then it just disappeared. I don't know if this has anything to do with it either but our deer population has dramatically decreased over the years.",
+  "classification": "Class B",
+  "county": "Schuyler",
+  "state": "Illinois",
+  "latitude": 40.1348,
+  "longitude": -90.6757,
+  "location": {
+    "longitude": -90.6757,
+    "latitude": 40.1348
+  },
+  "location_details": "From Rushville drive 2 miles north on U.S. 67 and then west about 4 1/2 miles.",
+  "temperature": {
+    "high": 46.2,
+    "mid": 38.295,
+    "low": 30.39
+  },
+  "dew_point": 29.63,
+  "humidity": 0.75,
+  "cloud_cover": 0.66,
+  "moon_phase": 0.4,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.38,
+  "precip_type": "rain",
+  "pressure": 1026.5,
+  "summary": "Mostly cloudy until evening.",
+  "uv_index": 1,
+  "visibility": 8.73,
+  "wind_bearing": 318,
+  "wind_speed": 3.39
+}

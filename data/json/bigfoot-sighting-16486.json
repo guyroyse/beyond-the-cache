@@ -11,9 +11,11 @@
   "longitude": -74.45995,
   "location": "-74.45995,40.9575",
   "location_details": "The location was near the Split Rock Reservoir Dam",
-  "temperature_high": 34.52,
-  "temperature_mid": 32.045,
-  "temperature_low": 29.57,
+  "temperature": {
+    "high": 34.52,
+    "mid": 32.045,
+    "low": 29.57
+  },
   "dew_point": 17.32,
   "humidity": 0.62,
   "cloud_cover": 0.66,

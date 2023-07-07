@@ -11,9 +11,11 @@
   "longitude": -85.8175,
   "location": "-85.8175,33.48665",
   "location_details": "Salt creek falls close to Cheaha State Park",
-  "temperature_high": 96.56,
-  "temperature_mid": 82.605,
-  "temperature_low": 68.65,
+  "temperature": {
+    "high": 96.56,
+    "mid": 82.605,
+    "low": 68.65
+  },
   "dew_point": 64.04,
   "humidity": 0.56,
   "cloud_cover": 0.08,

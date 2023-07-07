@@ -11,9 +11,11 @@
   "longitude": -81.27132,
   "location": "-81.27132,39.88653",
   "location_details": "Calais is actually in Monroe County but the sighting took place just north of the Noble County line.",
-  "temperature_high": 17.98,
-  "temperature_mid": 10.845,
-  "temperature_low": 3.71,
+  "temperature": {
+    "high": 17.98,
+    "mid": 10.845,
+    "low": 3.71
+  },
   "dew_point": 4.01,
   "humidity": 0.67,
   "cloud_cover": 0.73,

@@ -11,9 +11,11 @@
   "longitude": -87.00665,
   "location": "-87.00665,34.6802",
   "location_details": "swan creek management area",
-  "temperature_high": 73.06,
-  "temperature_mid": 59.715,
-  "temperature_low": 46.37,
+  "temperature": {
+    "high": 73.06,
+    "mid": 59.715,
+    "low": 46.37
+  },
   "dew_point": 47,
   "humidity": 0.7,
   "cloud_cover": 0,

@@ -11,9 +11,11 @@
   "longitude": -81.37181,
   "location": "-81.37181,41.16187",
   "location_details": "In the woods behind the Kent Village apartments, Route 59, Kent, Ohio.",
-  "temperature_high": 70.79,
-  "temperature_mid": 66.725,
-  "temperature_low": 62.66,
+  "temperature": {
+    "high": 70.79,
+    "mid": 66.725,
+    "low": 62.66
+  },
   "dew_point": 62.89,
   "humidity": 0.93,
   "cloud_cover": 0.93,

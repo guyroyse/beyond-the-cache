@@ -11,9 +11,11 @@
   "longitude": -72.60887,
   "location": "-72.60887,42.86222",
   "location_details": "We were heading east on Route 9 heading into Brattleboro this happened just after the Dollar General. There is a large swampy area there. This area is very close to Green Mountain National Forest",
-  "temperature_high": 33.51,
-  "temperature_mid": 23.735,
-  "temperature_low": 13.96,
+  "temperature": {
+    "high": 33.51,
+    "mid": 23.735,
+    "low": 13.96
+  },
   "dew_point": 6.87,
   "humidity": 0.52,
   "cloud_cover": 0.03,

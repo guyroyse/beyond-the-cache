@@ -1,0 +1,35 @@
+{
+  "reportId": "1586",
+  "title": "Loud vocalizations sounds heard",
+  "date": "1999-08-18",
+  "timestamp": 934934400,
+  "observed": "During the lighting storms, two of my friends heard loud grunts and screams. The noise was like a pig. The animal also made quite a racket moving in the brush. They were able to see red eyes reflected in the lighting and porch light. The animal was large but unknown how big due to very steep hill sloping away from house. The area is dense brush and briars. Eyes were about 3 to 4 inches apart. No tracks or hair were found by myself or my friends. There have been reports of other sightings in the area, but I'm not sure how far from his house they were.",
+  "classification": "Class B",
+  "county": "Pierce",
+  "state": "Washington",
+  "latitude": 47.32944,
+  "longitude": -122.5789,
+  "location": {
+    "longitude": -122.5789,
+    "latitude": 47.32944
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 71.51,
+    "mid": 64.46,
+    "low": 57.41
+  },
+  "dew_point": 56.96,
+  "humidity": 0.84,
+  "cloud_cover": 0.68,
+  "moon_phase": 0.24,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.14,
+  "precip_type": "rain",
+  "pressure": 1015.52,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 7.08,
+  "wind_bearing": 228,
+  "wind_speed": 4.41
+}

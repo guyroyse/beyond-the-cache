@@ -11,9 +11,11 @@
   "longitude": -94.86958,
   "location": "-94.86958,32.58125",
   "location_details": "Go to Gladewater and take Gimer Hwy, turn right on union Grove road about 2 miles past city limit signs.go about 5 miles and take a dirt road to the left only, go about 1 mile to old bridge and they were in the meadow to the right.",
-  "temperature_high": 86.64,
-  "temperature_mid": 73.11,
-  "temperature_low": 59.58,
+  "temperature": {
+    "high": 86.64,
+    "mid": 73.11,
+    "low": 59.58
+  },
   "dew_point": 57.94,
   "humidity": 0.71,
   "cloud_cover": 0.01,

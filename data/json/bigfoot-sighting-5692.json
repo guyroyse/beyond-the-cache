@@ -11,9 +11,11 @@
   "longitude": -119.975,
   "location": "-119.975,39.592",
   "location_details": "The Western face of Peavine Mountain, Northwest of Reno Nevada.",
-  "temperature_high": 88.56,
-  "temperature_mid": 70.22,
-  "temperature_low": 51.88,
+  "temperature": {
+    "high": 88.56,
+    "mid": 70.22,
+    "low": 51.88
+  },
   "dew_point": 43.89,
   "humidity": 0.42,
   "cloud_cover": 0,

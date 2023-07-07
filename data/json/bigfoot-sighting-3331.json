@@ -11,9 +11,11 @@
   "longitude": -81.7418,
   "location": "-81.7418,35.94585",
   "location_details": "Wilson Creek Gorge area , north west of Lenoir , N.C. in Caldwell county. Brown Mountain beach road.",
-  "temperature_high": 70.12,
-  "temperature_mid": 58.05,
-  "temperature_low": 45.98,
+  "temperature": {
+    "high": 70.12,
+    "mid": 58.05,
+    "low": 45.98
+  },
   "dew_point": 42.76,
   "humidity": 0.56,
   "cloud_cover": 0.07,

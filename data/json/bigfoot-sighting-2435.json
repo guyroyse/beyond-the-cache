@@ -11,9 +11,11 @@
   "longitude": -82.69576,
   "location": "-82.69576,37.26532",
   "location_details": "Near Virgie Kentucky, nearest road is 1469,  on an old auger mining road less than 10 miles North east of the Jefferson National Forest",
-  "temperature_high": 70.12,
-  "temperature_mid": 57.875,
-  "temperature_low": 45.63,
+  "temperature": {
+    "high": 70.12,
+    "mid": 57.875,
+    "low": 45.63
+  },
   "dew_point": 46.17,
   "humidity": 0.67,
   "cloud_cover": 0.38,

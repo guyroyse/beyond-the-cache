@@ -11,9 +11,11 @@
   "longitude": -73.35194,
   "location": "-73.35194,41.68669",
   "location_details": "location: Hillside above Lake Waramog looking from east to west angle New Preston/Washington line in CT.",
-  "temperature_high": 92.3,
-  "temperature_mid": 83.215,
-  "temperature_low": 74.13,
+  "temperature": {
+    "high": 92.3,
+    "mid": 83.215,
+    "low": 74.13
+  },
   "dew_point": 73.86,
   "humidity": 0.75,
   "cloud_cover": 0.16,

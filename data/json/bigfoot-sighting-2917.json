@@ -11,9 +11,11 @@
   "longitude": -132.7982,
   "location": "-132.7982,55.1872",
   "location_details": "Between the sort yard and the garbage dump, on Saltery Road.",
-  "temperature_high": 52.98,
-  "temperature_mid": 49.09,
-  "temperature_low": 45.2,
+  "temperature": {
+    "high": 52.98,
+    "mid": 49.09,
+    "low": 45.2
+  },
   "dew_point": 42.87,
   "humidity": 0.78,
   "cloud_cover": 0.93,

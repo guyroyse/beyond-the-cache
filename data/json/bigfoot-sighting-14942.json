@@ -11,9 +11,11 @@
   "longitude": -94.1211,
   "location": "-94.1211,47.3304",
   "location_details": "right off hwy 2 in Bena. take a right onto six mile lake rd.",
-  "temperature_high": 76.1,
-  "temperature_mid": 65.68,
-  "temperature_low": 55.26,
+  "temperature": {
+    "high": 76.1,
+    "mid": 65.68,
+    "low": 55.26
+  },
   "dew_point": 58.91,
   "humidity": 0.75,
   "cloud_cover": 0.39,

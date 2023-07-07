@@ -11,9 +11,11 @@
   "longitude": -94.89986,
   "location": "-94.89986,31.87791",
   "location_details": "6 miles East of Recklaw off Highway 84 in the Angelina River bottom",
-  "temperature_high": 99.92,
-  "temperature_mid": 86.86,
-  "temperature_low": 73.8,
+  "temperature": {
+    "high": 99.92,
+    "mid": 86.86,
+    "low": 73.8
+  },
   "dew_point": 66.04,
   "humidity": 0.57,
   "cloud_cover": 0.15,

@@ -1,0 +1,35 @@
+{
+  "reportId": "1721",
+  "title": "Children find 19\" tracks in snow",
+  "date": "1975-04-16",
+  "timestamp": 166838400,
+  "observed": "Two boys came home to their mother and were crying because their feet were cold and wet from walking barefoot in snow. When asked why they did that they replied that all the other boys were doing it also because they saw footprints in the snow first. The mother went to see for her self and found 19\" human like tracks in two feet of snow. Photographs were taken of the impressions.",
+  "classification": "Class B",
+  "county": "Snohomish",
+  "state": "Washington",
+  "latitude": 48.2688,
+  "longitude": -121.705,
+  "location": {
+    "longitude": -121.705,
+    "latitude": 48.2688
+  },
+  "location_details": "Near White Horse Mt.",
+  "temperature": {
+    "high": 47.64,
+    "mid": 45.55,
+    "low": 43.46
+  },
+  "dew_point": 38.42,
+  "humidity": 0.78,
+  "cloud_cover": 0.91,
+  "moon_phase": 0.17,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.47,
+  "precip_type": "rain",
+  "pressure": 1015.71,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 3,
+  "visibility": 7.97,
+  "wind_bearing": 191,
+  "wind_speed": 6.76
+}

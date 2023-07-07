@@ -11,9 +11,11 @@
   "longitude": -121.9139,
   "location": "-121.9139,45.33175",
   "location_details": "Go East on #26 to Rhododendron, turn left before the Mt. Hood Foods store. Road immediatly continues left and parellels the highway for 100 yaards, then right. Sighting was about forty feet from the small outhouse looking building on the left another 50 yards up the raod.",
-  "temperature_high": 45.12,
-  "temperature_mid": 42.82,
-  "temperature_low": 40.52,
+  "temperature": {
+    "high": 45.12,
+    "mid": 42.82,
+    "low": 40.52
+  },
   "dew_point": 38.31,
   "humidity": 0.82,
   "cloud_cover": 0.8,

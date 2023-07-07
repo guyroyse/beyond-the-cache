@@ -17,11 +17,6 @@ sightingsRouter.get('/:id', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
-/* update a specific sighting by ID with the provided fields */
-sightingsRouter.patch('/:id', (req, res) => {
-  res.send(`"NOT IMPLEMENTED"`)
-})
-
 /* create or replace a specific sighting with the provided ID */
 sightingsRouter.put('/:id', (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)

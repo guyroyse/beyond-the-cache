@@ -11,9 +11,11 @@
   "longitude": -118.0603,
   "location": "-118.0603,45.80374",
   "location_details": "Upon further discussion with the witness' husband, it was determined that the incident occurred east of Pendleton, OR in Union County.  Witness could not pinpoint location off existing maps due to the many years since the incident.",
-  "temperature_high": 62.95,
-  "temperature_mid": 53.35,
-  "temperature_low": 43.75,
+  "temperature": {
+    "high": 62.95,
+    "mid": 53.35,
+    "low": 43.75
+  },
   "dew_point": 33.37,
   "humidity": 0.5,
   "cloud_cover": 0.74,

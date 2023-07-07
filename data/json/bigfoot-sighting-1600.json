@@ -11,9 +11,11 @@
   "longitude": -122.1767,
   "location": "-122.1767,46.71833",
   "location_details": "Mineral lake near the town of Elbe and Mt. Rainier.",
-  "temperature_high": 65.82,
-  "temperature_mid": 56.205,
-  "temperature_low": 46.59,
+  "temperature": {
+    "high": 65.82,
+    "mid": 56.205,
+    "low": 46.59
+  },
   "dew_point": 49.08,
   "humidity": 0.75,
   "cloud_cover": 0.73,

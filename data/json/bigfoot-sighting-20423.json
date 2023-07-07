@@ -11,9 +11,11 @@
   "longitude": -84.7378,
   "location": "-84.7378,42.3125",
   "location_details": "albion north of I-94 29 mile rd just N. of h dr. Behind school house on right.Behind swamp in apple orchard",
-  "temperature_high": 63.74,
-  "temperature_mid": 58.84,
-  "temperature_low": 53.94,
+  "temperature": {
+    "high": 63.74,
+    "mid": 58.84,
+    "low": 53.94
+  },
   "dew_point": 53.47,
   "humidity": 0.89,
   "cloud_cover": 0.95,

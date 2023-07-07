@@ -11,9 +11,11 @@
   "longitude": -121.9563,
   "location": "-121.9563,47.00008",
   "location_details": "old baldy mountain",
-  "temperature_high": 72.2,
-  "temperature_mid": 63.19,
-  "temperature_low": 54.18,
+  "temperature": {
+    "high": 72.2,
+    "mid": 63.19,
+    "low": 54.18
+  },
   "dew_point": 55.64,
   "humidity": 0.78,
   "cloud_cover": 0.52,

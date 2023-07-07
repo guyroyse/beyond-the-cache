@@ -11,9 +11,11 @@
   "longitude": -79.88049,
   "location": "-79.88049,35.0554",
   "location_details": "Take highway 74 west to cartledge creek road turn left on grassy island road go across mountain creek bridge and the  1st place is before the 2nd bridge to the right hand side just follow the creek,the 2nd place is up to the curve on the hill and there is a huge yellow gate back off the roads you can se where people park walk to gate and follow road around to the right,I can show you the places if you need me to .Please don't post on website directions",
-  "temperature_high": 60.3,
-  "temperature_mid": 52.275,
-  "temperature_low": 44.25,
+  "temperature": {
+    "high": 60.3,
+    "mid": 52.275,
+    "low": 44.25
+  },
   "dew_point": 48.05,
   "humidity": 0.8,
   "cloud_cover": 0.8,

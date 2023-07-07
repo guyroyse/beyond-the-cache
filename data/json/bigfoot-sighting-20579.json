@@ -11,9 +11,11 @@
   "longitude": -88.7751,
   "location": "-88.7751,46.2803",
   "location_details": "Ottawa National Forest between the north branch of the paint river and the borski creek.",
-  "temperature_high": 45.73,
-  "temperature_mid": 33.145,
-  "temperature_low": 20.56,
+  "temperature": {
+    "high": 45.73,
+    "mid": 33.145,
+    "low": 20.56
+  },
   "dew_point": 30.78,
   "humidity": 0.76,
   "cloud_cover": 0.8,

@@ -11,9 +11,11 @@
   "longitude": -93.07654,
   "location": "-93.07654,34.44652",
   "location_details": "Lake Hamilton, access road to the lake for fishing.",
-  "temperature_high": 92.03,
-  "temperature_mid": 78.11,
-  "temperature_low": 64.19,
+  "temperature": {
+    "high": 92.03,
+    "mid": 78.11,
+    "low": 64.19
+  },
   "dew_point": 67.74,
   "humidity": 0.79,
   "cloud_cover": 0.47,

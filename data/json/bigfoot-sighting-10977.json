@@ -11,9 +11,11 @@
   "longitude": -124.1214,
   "location": "-124.1214,43.9311",
   "location_details": "At the edge of the Oregon Dunes National Recreation Area, close to Cleawox Lake just west of Highway 101, across from the Jessie M. Honeyman Memorial State Park.",
-  "temperature_high": 43.46,
-  "temperature_mid": 35.06,
-  "temperature_low": 26.66,
+  "temperature": {
+    "high": 43.46,
+    "mid": 35.06,
+    "low": 26.66
+  },
   "dew_point": 30.46,
   "humidity": 0.89,
   "cloud_cover": 0.54,

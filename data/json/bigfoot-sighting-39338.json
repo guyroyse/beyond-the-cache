@@ -11,9 +11,11 @@
   "longitude": -81.35342,
   "location": "-81.35342,28.11468",
   "location_details": "Call me I'll tell you everything",
-  "temperature_high": 64.69,
-  "temperature_mid": 55.545,
-  "temperature_low": 46.4,
+  "temperature": {
+    "high": 64.69,
+    "mid": 55.545,
+    "low": 46.4
+  },
   "dew_point": 42.98,
   "humidity": 0.57,
   "cloud_cover": 0.25,

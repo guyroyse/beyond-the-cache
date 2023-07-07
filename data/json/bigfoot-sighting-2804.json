@@ -11,9 +11,11 @@
   "longitude": -88.16359,
   "location": "-88.16359,45.33418",
   "location_details": "Marinette County, Wisconsin - about ten miles NW of town in a large cedar swamp (several hundred acres, maybe larger).  ",
-  "temperature_high": 36.53,
-  "temperature_mid": 35.305,
-  "temperature_low": 34.08,
+  "temperature": {
+    "high": 36.53,
+    "mid": 35.305,
+    "low": 34.08
+  },
   "dew_point": 24.64,
   "humidity": 0.77,
   "cloud_cover": 0.82,

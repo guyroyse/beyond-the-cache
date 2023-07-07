@@ -11,9 +11,11 @@
   "longitude": -121,
   "location": "-121,38.25",
   "location_details": "It's pretty simple to get to. If you know the California area around here that is. Drive into Sacramento and drive down freeway 99. Find Peltier road and drive about 8-10 miles down until you find a bridge that is connected to Mackville road. Drive on it until you find highway 88. It takes you right to it. If you are coming from the south drive through stockton on freeway 99 until you find the off ramp for highway 88.",
-  "temperature_high": 63.93,
-  "temperature_mid": 53.725,
-  "temperature_low": 43.52,
+  "temperature": {
+    "high": 63.93,
+    "mid": 53.725,
+    "low": 43.52
+  },
   "dew_point": 46.48,
   "humidity": 0.73,
   "cloud_cover": 0.15,

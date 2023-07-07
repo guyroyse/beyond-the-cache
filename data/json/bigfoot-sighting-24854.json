@@ -11,9 +11,11 @@
   "longitude": -84.425,
   "location": "-84.425,45.1475",
   "location_details": "its green timbers",
-  "temperature_high": 50.66,
-  "temperature_mid": 41.1,
-  "temperature_low": 31.54,
+  "temperature": {
+    "high": 50.66,
+    "mid": 41.1,
+    "low": 31.54
+  },
   "dew_point": 36.69,
   "humidity": 0.68,
   "cloud_cover": 0.57,

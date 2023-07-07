@@ -11,9 +11,11 @@
   "longitude": -81.49033,
   "location": "-81.49033,40.14003",
   "location_details": "Salt Fork State Park, Rd 1, back entrance off of Freedom Rd. Right before the road to Hosak's Cave.",
-  "temperature_high": 52.18,
-  "temperature_mid": 41.195,
-  "temperature_low": 30.21,
+  "temperature": {
+    "high": 52.18,
+    "mid": 41.195,
+    "low": 30.21
+  },
   "dew_point": 40.6,
   "humidity": 0.79,
   "cloud_cover": 0.51,

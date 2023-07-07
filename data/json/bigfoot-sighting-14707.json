@@ -11,9 +11,11 @@
   "longitude": -80.0107,
   "location": "-80.0107,40.6166",
   "location_details": "There is a gas (I think) pipeline between Bryant Road and Sample Road. This should not be hard to locate since Bryant Road is not very long. The Sample Road end Starts at a point not far from the intersection of Sample Rd. and Hemlock Drive. The Bryant Rd. end starts about 1/3 of the way down Bryant Rd. coming from Duncan Avenue. The sighting occurred about halfway up the pipeline. This location is, I believe, completely within the boundaries of Hampton Township.",
-  "temperature_high": 36.13,
-  "temperature_mid": 27.625,
-  "temperature_low": 19.12,
+  "temperature": {
+    "high": 36.13,
+    "mid": 27.625,
+    "low": 19.12
+  },
   "dew_point": 24.59,
   "humidity": 0.86,
   "cloud_cover": 0.96,

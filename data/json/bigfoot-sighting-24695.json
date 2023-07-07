@@ -11,9 +11,11 @@
   "longitude": -85.6667,
   "location": "-85.6667,44.45835",
   "location_details": "about three miles west of the intersection of 7 and 8 road north of eight road between eight and four road in wexford county",
-  "temperature_high": 72.33,
-  "temperature_mid": 60.865,
-  "temperature_low": 49.4,
+  "temperature": {
+    "high": 72.33,
+    "mid": 60.865,
+    "low": 49.4
+  },
   "dew_point": 53.41,
   "humidity": 0.8,
   "cloud_cover": 0.42,

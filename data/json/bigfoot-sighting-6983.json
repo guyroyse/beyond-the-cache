@@ -11,9 +11,11 @@
   "longitude": -114.7503,
   "location": "-114.7503,44.25028",
   "location_details": "Just north of Challis, Idaho and south of the Salmon River Wilderness.",
-  "temperature_high": 77.59,
-  "temperature_mid": 61.005,
-  "temperature_low": 44.42,
+  "temperature": {
+    "high": 77.59,
+    "mid": 61.005,
+    "low": 44.42
+  },
   "dew_point": 31.79,
   "humidity": 0.36,
   "cloud_cover": 0,

@@ -11,9 +11,11 @@
   "longitude": -106.0417,
   "location": "-106.0417,39.20834",
   "location_details": "Outside of Fairplay, in dense forestry at a clearing often used by caravans and campers.",
-  "temperature_high": 67.98,
-  "temperature_mid": 53.435,
-  "temperature_low": 38.89,
+  "temperature": {
+    "high": 67.98,
+    "mid": 53.435,
+    "low": 38.89
+  },
   "dew_point": 33.15,
   "humidity": 0.49,
   "cloud_cover": 0.29,

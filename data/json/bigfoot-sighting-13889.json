@@ -11,9 +11,11 @@
   "longitude": -81.71505,
   "location": "-81.71505,26.09729",
   "location_details": "E MAIL ME ILL TALK TO YOU",
-  "temperature_high": 91,
-  "temperature_mid": 83.62,
-  "temperature_low": 76.24,
+  "temperature": {
+    "high": 91,
+    "mid": 83.62,
+    "low": 76.24
+  },
   "dew_point": 72.04,
   "humidity": 0.7,
   "cloud_cover": 0.19,

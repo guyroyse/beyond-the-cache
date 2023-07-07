@@ -11,9 +11,11 @@
   "longitude": -122.3219,
   "location": "-122.3219,47.45411",
   "location_details": "Center Street is the only road that runs along through all of Suquamish. The sightings ocurred west at the very top of the hill. At that time the forest was owned by the Suquamish Indian tribe, but this may have changed I don't know.",
-  "temperature_high": 37.38,
-  "temperature_mid": 36.285,
-  "temperature_low": 35.19,
+  "temperature": {
+    "high": 37.38,
+    "mid": 36.285,
+    "low": 35.19
+  },
   "dew_point": 31,
   "humidity": 0.86,
   "cloud_cover": 0.93,

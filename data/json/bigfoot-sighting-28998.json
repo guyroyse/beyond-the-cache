@@ -11,9 +11,11 @@
   "longitude": -81.26729,
   "location": "-81.26729,40.90177",
   "location_details": "Once you get out of Green, it its before you get to Malboro on the backside of the airport before you get to 44.",
-  "temperature_high": 54.55,
-  "temperature_mid": 48.565,
-  "temperature_low": 42.58,
+  "temperature": {
+    "high": 54.55,
+    "mid": 48.565,
+    "low": 42.58
+  },
   "dew_point": 32.17,
   "humidity": 0.61,
   "cloud_cover": 0.33,

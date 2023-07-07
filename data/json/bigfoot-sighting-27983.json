@@ -11,9 +11,11 @@
   "longitude": -120.55,
   "location": "-120.55,35.665",
   "location_details": "This area has since been built up and is now part of the City of Paso Robles. I believe vineyards are now about where the farm house was.",
-  "temperature_high": 97.36,
-  "temperature_mid": 78.755,
-  "temperature_low": 60.15,
+  "temperature": {
+    "high": 97.36,
+    "mid": 78.755,
+    "low": 60.15
+  },
   "dew_point": 55.84,
   "humidity": 0.56,
   "cloud_cover": 0.06,

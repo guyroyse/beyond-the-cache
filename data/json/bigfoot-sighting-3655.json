@@ -11,9 +11,11 @@
   "longitude": -81.16211,
   "location": "-81.16211,39.21833",
   "location_details": "24 miles east of Parkersburg",
-  "temperature_high": 51.15,
-  "temperature_mid": 38.61,
-  "temperature_low": 26.07,
+  "temperature": {
+    "high": 51.15,
+    "mid": 38.61,
+    "low": 26.07
+  },
   "dew_point": 27.4,
   "humidity": 0.73,
   "cloud_cover": 0.02,

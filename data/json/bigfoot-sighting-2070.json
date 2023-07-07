@@ -11,9 +11,11 @@
   "longitude": -120.2955,
   "location": "-120.2955,47.35305",
   "location_details": "Will need to talk to Dan to get the details, he can give them to you.",
-  "temperature_high": 52.86,
-  "temperature_mid": 48.735,
-  "temperature_low": 44.61,
+  "temperature": {
+    "high": 52.86,
+    "mid": 48.735,
+    "low": 44.61
+  },
   "dew_point": 46.21,
   "humidity": 0.87,
   "cloud_cover": 0.87,

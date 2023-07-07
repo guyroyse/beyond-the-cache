@@ -11,9 +11,11 @@
   "longitude": -81.19895,
   "location": "-81.19895,40.75872",
   "location_details": "Near the line between Stark and Carrol counties",
-  "temperature_high": 22.68,
-  "temperature_mid": 14.635,
-  "temperature_low": 6.59,
+  "temperature": {
+    "high": 22.68,
+    "mid": 14.635,
+    "low": 6.59
+  },
   "dew_point": 11.46,
   "humidity": 0.76,
   "cloud_cover": 0.73,

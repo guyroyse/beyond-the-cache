@@ -11,9 +11,11 @@
   "longitude": -120.5122,
   "location": "-120.5122,48.59694",
   "location_details": "The campground is about 5 miles west of Mazama on Highway 20.",
-  "temperature_high": 61.07,
-  "temperature_mid": 48.82,
-  "temperature_low": 36.57,
+  "temperature": {
+    "high": 61.07,
+    "mid": 48.82,
+    "low": 36.57
+  },
   "dew_point": 30.08,
   "humidity": 0.54,
   "cloud_cover": 0.12,

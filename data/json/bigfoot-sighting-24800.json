@@ -11,9 +11,11 @@
   "longitude": -84.67017,
   "location": "-84.67017,38.90649",
   "location_details": "It was Arbor Glen Estates.  Towards the back of the subdivision.  I can't remember the exact house number.  It is a ranch style house, and it used to have an above ground pool.  There was a small creek that ran along the fence line.",
-  "temperature_high": 79.12,
-  "temperature_mid": 72.015,
-  "temperature_low": 64.91,
+  "temperature": {
+    "high": 79.12,
+    "mid": 72.015,
+    "low": 64.91
+  },
   "dew_point": 71.04,
   "humidity": 0.89,
   "cloud_cover": 0.73,

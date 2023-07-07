@@ -11,9 +11,11 @@
   "longitude": -120.125,
   "location": "-120.125,38.375",
   "location_details": "Big Preather Meadows, a private preserve and association.  At grandpa's request, we wish to keep the actual number to ourselves, however, I am happy to take you there if you want.  Scratch that.  My braver husband can take you there.",
-  "temperature_high": 87.92,
-  "temperature_mid": 75.15,
-  "temperature_low": 62.38,
+  "temperature": {
+    "high": 87.92,
+    "mid": 75.15,
+    "low": 62.38
+  },
   "dew_point": 43.11,
   "humidity": 0.36,
   "cloud_cover": 0.22,

@@ -11,9 +11,11 @@
   "longitude": -85.7037,
   "location": "-85.7037,41.3382",
   "location_details": "This is a private residence on a small lake about 1+ miles north of town. Just to our east by a mile is a 4000 acre state wildlife fish and game area.",
-  "temperature_high": 77.29,
-  "temperature_mid": 64.02,
-  "temperature_low": 50.75,
+  "temperature": {
+    "high": 77.29,
+    "mid": 64.02,
+    "low": 50.75
+  },
   "dew_point": 55.14,
   "humidity": 0.73,
   "cloud_cover": 0.16,

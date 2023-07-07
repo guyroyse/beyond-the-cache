@@ -11,9 +11,11 @@
   "longitude": -118.5834,
   "location": "-118.5834,34.76666",
   "location_details": "Area located between Highway 14 and Highway 5 on Highway 138 at the northwest end of the Antelope Valley in Los Angeles, County.",
-  "temperature_high": 50.47,
-  "temperature_mid": 41.985,
-  "temperature_low": 33.5,
+  "temperature": {
+    "high": 50.47,
+    "mid": 41.985,
+    "low": 33.5
+  },
   "dew_point": 36.36,
   "humidity": 0.89,
   "cloud_cover": 0.68,

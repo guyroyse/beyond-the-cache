@@ -11,9 +11,11 @@
   "longitude": -123.2718,
   "location": "-123.2718,40.7485",
   "location_details": "In the Shasta/Trinity Forest",
-  "temperature_high": 74.2,
-  "temperature_mid": 62.855,
-  "temperature_low": 51.51,
+  "temperature": {
+    "high": 74.2,
+    "mid": 62.855,
+    "low": 51.51
+  },
   "dew_point": 48.18,
   "humidity": 0.59,
   "cloud_cover": 0.1,

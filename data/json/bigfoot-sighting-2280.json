@@ -11,9 +11,11 @@
   "longitude": -77.34879,
   "location": "-77.34879,38.80319",
   "location_details": "Fairfax St. Va, a lake facing a small creek across from a large hill. This was a part of Occaquan Resevior",
-  "temperature_high": 89.95,
-  "temperature_mid": 81.145,
-  "temperature_low": 72.34,
+  "temperature": {
+    "high": 89.95,
+    "mid": 81.145,
+    "low": 72.34
+  },
   "dew_point": 72.06,
   "humidity": 0.74,
   "cloud_cover": 0.41,

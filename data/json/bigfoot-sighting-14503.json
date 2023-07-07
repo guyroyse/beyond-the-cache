@@ -11,9 +11,11 @@
   "longitude": -107.9514,
   "location": "-107.9514,39.16305",
   "location_details": "I know it was in Grand Junction.",
-  "temperature_high": 67.11,
-  "temperature_mid": 52.385,
-  "temperature_low": 37.66,
+  "temperature": {
+    "high": 67.11,
+    "mid": 52.385,
+    "low": 37.66
+  },
   "dew_point": 27.13,
   "humidity": 0.41,
   "cloud_cover": 0.19,

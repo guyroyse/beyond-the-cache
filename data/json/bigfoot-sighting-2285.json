@@ -11,9 +11,11 @@
   "longitude": -81.09017,
   "location": "-81.09017,37.22647",
   "location_details": "Wythe county Virginia near Wytheville, looking at the map I guess this sighting was in  the Jefferson National Forest area. I remember after crossing over the W. Virginia border about 2 or 3 hours going by before the sighting occured off of I-77. So it would of occured around the border of Virginia and West Virginia.",
-  "temperature_high": 58.84,
-  "temperature_mid": 51.745,
-  "temperature_low": 44.65,
+  "temperature": {
+    "high": 58.84,
+    "mid": 51.745,
+    "low": 44.65
+  },
   "dew_point": 28.75,
   "humidity": 0.49,
   "cloud_cover": 0.74,

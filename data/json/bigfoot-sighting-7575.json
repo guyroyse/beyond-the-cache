@@ -11,9 +11,11 @@
   "longitude": -82.2464,
   "location": "-82.2464,32.34705",
   "location_details": "Our river place is on the Ohoopee River next to the Griffin Ferry Bridge. It is about five miles east of Oak Park, Ga.",
-  "temperature_high": 78.84,
-  "temperature_mid": 69.285,
-  "temperature_low": 59.73,
+  "temperature": {
+    "high": 78.84,
+    "mid": 69.285,
+    "low": 59.73
+  },
   "dew_point": 56.62,
   "humidity": 0.78,
   "cloud_cover": 0.29,

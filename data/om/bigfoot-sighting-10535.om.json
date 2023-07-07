@@ -1,0 +1,35 @@
+{
+  "reportId": "10535",
+  "title": "Two teens have daylight sighting near Alton.",
+  "date": "2004-07-08",
+  "timestamp": 1089244800,
+  "observed": "It happened like this. Myself and a friend were out on the edge of the woods. We had decided that we would build a blind for hunting squirrels. On the way in we spotted a dead tree. We both tried to push it over, even worked together, but couldn't so we went back to work. Awhile later we heard the tree start to crack then it was smashed to the ground. We didn't get a good look at it but what we saw I would estimate between 7 - 8 ft tall. There other things that have happened back there as well. I have been howled at and had rocks thrown at me.",
+  "classification": "Class A",
+  "county": "Madison",
+  "state": "Illinois",
+  "latitude": 38.92241,
+  "longitude": -90.16171,
+  "location": {
+    "longitude": -90.16171,
+    "latitude": 38.92241
+  },
+  "location_details": "If you would like info on location give me a call.",
+  "temperature": {
+    "high": 86.84,
+    "mid": 79.78,
+    "low": 72.72
+  },
+  "dew_point": 69.56,
+  "humidity": 0.85,
+  "cloud_cover": 0.5,
+  "moon_phase": 0.73,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.1,
+  "precip_type": "rain",
+  "pressure": 1012.53,
+  "summary": "Humid and partly cloudy throughout the day.",
+  "uv_index": 9,
+  "visibility": 9.61,
+  "wind_bearing": 136,
+  "wind_speed": 4.53
+}

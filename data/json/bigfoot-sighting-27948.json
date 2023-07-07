@@ -11,9 +11,11 @@
   "longitude": -92.63179,
   "location": "-92.63179,36.29871",
   "location_details": "Take Arkansas Highway 178 going north from Flippin towards Bull Shoals Lake. In one and half miles turn left (west) on Quarry Mountain Road (County Rd 8060). Go to the top of the mountain and around the first corner. That's where I seen it.",
-  "temperature_high": 62.24,
-  "temperature_mid": 45.64,
-  "temperature_low": 29.04,
+  "temperature": {
+    "high": 62.24,
+    "mid": 45.64,
+    "low": 29.04
+  },
   "dew_point": 36.82,
   "humidity": 0.69,
   "cloud_cover": 0.4,

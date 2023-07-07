@@ -11,9 +11,11 @@
   "longitude": -89.03049,
   "location": "-89.03049,41.26155",
   "location_details": "Northwest of Vermilionville.",
-  "temperature_high": 82.77,
-  "temperature_mid": 73.2,
-  "temperature_low": 63.63,
+  "temperature": {
+    "high": 82.77,
+    "mid": 73.2,
+    "low": 63.63
+  },
   "dew_point": 60.96,
   "humidity": 0.71,
   "cloud_cover": 0.31,

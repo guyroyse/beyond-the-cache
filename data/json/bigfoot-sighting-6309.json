@@ -11,9 +11,11 @@
   "longitude": -122.7919,
   "location": "-122.7919,47.94056",
   "location_details": "Hwy 104 mile markers 3-4.",
-  "temperature_high": 59.05,
-  "temperature_mid": 52.245,
-  "temperature_low": 45.44,
+  "temperature": {
+    "high": 59.05,
+    "mid": 52.245,
+    "low": 45.44
+  },
   "dew_point": 42.26,
   "humidity": 0.74,
   "cloud_cover": 0.53,

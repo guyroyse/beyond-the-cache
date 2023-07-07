@@ -11,9 +11,11 @@
   "longitude": -87.9604,
   "location": "-87.9604,45.3865",
   "location_details": "Wooded area. North of Cataline road and Rte \"O\",, Northwest of town of Pembine, in Marinette county, Wisconsin.",
-  "temperature_high": 66.67,
-  "temperature_mid": 62.115,
-  "temperature_low": 57.56,
+  "temperature": {
+    "high": 66.67,
+    "mid": 62.115,
+    "low": 57.56
+  },
   "dew_point": 56.85,
   "humidity": 0.87,
   "cloud_cover": 0.88,

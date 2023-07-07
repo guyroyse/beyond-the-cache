@@ -11,9 +11,11 @@
   "longitude": -122.0375,
   "location": "-122.0375,47.40667",
   "location_details": "The Riley family owned the Aqua Barn Ranch on the south side of the Cedar River in Maple Valley and another large property, just a little ways east of the Aqua Barn, but on the north side of the Cedar River",
-  "temperature_high": 71,
-  "temperature_mid": 62.275,
-  "temperature_low": 53.55,
+  "temperature": {
+    "high": 71,
+    "mid": 62.275,
+    "low": 53.55
+  },
   "dew_point": 49.52,
   "humidity": 0.7,
   "cloud_cover": 0.33,

@@ -11,9 +11,11 @@
   "longitude": -118.0519,
   "location": "-118.0519,46.0675",
   "location_details": "mill creek road to blue creek follow to five points and head up blacksnake",
-  "temperature_high": 46.5,
-  "temperature_mid": 37.67,
-  "temperature_low": 28.84,
+  "temperature": {
+    "high": 46.5,
+    "mid": 37.67,
+    "low": 28.84
+  },
   "dew_point": 32.29,
   "humidity": 0.83,
   "cloud_cover": 0.89,

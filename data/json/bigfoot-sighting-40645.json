@@ -11,9 +11,11 @@
   "longitude": -77.354,
   "location": "-77.354,37.248",
   "location_details": "If you are going toward Hopewell from Petersburg on 36 there is a circular \"subdivision\" across from the gates on the left.  At the time, the basketball courts are on the northwest side and the trail into the woods runs northeast kind of parallel to 36.  The stream starts at the subdivision and runs through the woods below the earthen walls toward the northwest.  I could provide you GPS coordinates if that helped.  I can still see the area on google maps though I now live in Florida",
-  "temperature_high": 69.14,
-  "temperature_mid": 61.305,
-  "temperature_low": 53.47,
+  "temperature": {
+    "high": 69.14,
+    "mid": 61.305,
+    "low": 53.47
+  },
   "dew_point": 48.7,
   "humidity": 0.66,
   "cloud_cover": 0.39,

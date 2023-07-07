@@ -1,0 +1,35 @@
+{
+  "reportId": "1907",
+  "title": "Motorist sees Bigfoot like creature, hears scream",
+  "date": "1996-12-05",
+  "timestamp": 849744000,
+  "observed": "A large creature, about 6.5 feet tall and covered with hair, crossed the road in front of me in broad daylight at about 3 PM. The creature crossed the road just below the top of the hill and moved in a sideways fashion. I had the window down in my car and I clearly heard a scream unlike any I have heard before in my life.",
+  "classification": "Class A",
+  "county": "Clarke",
+  "state": "Alabama",
+  "latitude": 31.58255,
+  "longitude": -87.96095,
+  "location": {
+    "longitude": -87.96095,
+    "latitude": 31.58255
+  },
+  "location_details": "ON HWY. 69 Between Salitpa and Jackson. near the historic marker where the dirt road from Mcvay meets HWY. 69.",
+  "temperature": {
+    "high": 66.9,
+    "mid": 55.87,
+    "low": 44.84
+  },
+  "dew_point": 47.91,
+  "humidity": 0.81,
+  "cloud_cover": 0.52,
+  "moon_phase": 0.83,
+  "precip_intensity": 0.0004,
+  "precip_probability": 0.68,
+  "precip_type": "rain",
+  "pressure": 1015.83,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 8.02,
+  "wind_bearing": 194,
+  "wind_speed": 2.73
+}

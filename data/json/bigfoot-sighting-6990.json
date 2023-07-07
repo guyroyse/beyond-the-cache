@@ -11,9 +11,11 @@
   "longitude": -121.5497,
   "location": "-121.5497,47.0228",
   "location_details": "The vocalization sounded at least a mile away due west from my location on Mt. Baker Snoqualmie National Forest Route 7160 approximately .6 miles from Washington Highway 410",
-  "temperature_high": 39.17,
-  "temperature_mid": 37.17,
-  "temperature_low": 35.17,
+  "temperature": {
+    "high": 39.17,
+    "mid": 37.17,
+    "low": 35.17
+  },
   "dew_point": 31.56,
   "humidity": 0.84,
   "cloud_cover": 0.85,

@@ -1,0 +1,35 @@
+{
+  "reportId": "1117",
+  "title": "Daytime sighting by two witnesses, near Geneva, at the end of Timberwoods Rd",
+  "date": "2000-12-28",
+  "timestamp": 977961600,
+  "observed": "Me and a friend were shoveling snow in our driveway when we noticed two sets of strange barefooted footprints with about a three foot separation between each step. We both thought it was a little strange that someone would walk in the snow barefooted. We started to follow the tracks into the woods. We walked about thirty yards from the drive on the tracks and started to hear a faint banging. As we got closer we could see two greyish figures. We couldn't tell what they were until we got closer. They were about eight feet in height and muscular. One was banging on a tree and the other was digging in the snow. We could smell them  - it was very foul. When they noticed us the one banging on the tree let out a high pitch squeal like a train or a chainsaw. They both ran off into the woods.We thought it was a prank so we tried to follow them further but after a while we gave up. We don't know if it was real or not, but we reported anyway.",
+  "classification": "Class A",
+  "county": "Ashtabula",
+  "state": "Ohio",
+  "latitude": 41.72134,
+  "longitude": -80.88494,
+  "location": {
+    "longitude": -80.88494,
+    "latitude": 41.72134
+  },
+  "location_details": "Directions: Off of Interstate 90 head south on Rt. 534 to Cork Cold Springs Rd. Once on Cork Cold Springs head east to Windsor Mechanicsville. On Windsor Mechanicsville head north to Country View ln. On Country View head east to Timberwoods. Once on Timberwoods go to the end of the road, it dead ends. Past the dead end is large patch of woods. That is where the sighting occured.",
+  "temperature": {
+    "high": 20.64,
+    "mid": 16.96,
+    "low": 13.28
+  },
+  "dew_point": 8.5,
+  "humidity": 0.79,
+  "cloud_cover": 0.76,
+  "moon_phase": 0.09,
+  "precip_intensity": 0.0007,
+  "precip_probability": 0.25,
+  "precip_type": "snow",
+  "pressure": 1021.95,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 7.06,
+  "wind_bearing": 304,
+  "wind_speed": 6.65
+}

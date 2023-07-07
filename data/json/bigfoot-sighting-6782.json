@@ -11,9 +11,11 @@
   "longitude": -106.6417,
   "location": "-106.6417,38.59998",
   "location_details": "The south side of Fossil Ridge near the base of it in a dry creek bed that runs east and west and has a game trail running along the north side of it.  It's within Hunting Area 55.  From Gunnison go east on Hwy 50 about 11 miles to Parlin.  Go about one mile on the road to Pitkin (3101?) and turn left on Road 3103.  This road goes about 8 miles north and becomes Forest Rd 583.  From there hike about 2 miles northeast along the base of Fossil Ridge.",
-  "temperature_high": 75.39,
-  "temperature_mid": 61.505,
-  "temperature_low": 47.62,
+  "temperature": {
+    "high": 75.39,
+    "mid": 61.505,
+    "low": 47.62
+  },
   "dew_point": 39.44,
   "humidity": 0.53,
   "cloud_cover": 0.22,

@@ -11,9 +11,11 @@
   "longitude": -80.01653,
   "location": "-80.01653,35.35636",
   "location_details": "Where the Dutchman and Uwharrie recreational trails cross take the North section.  On a Topo map it is the first campsite at the creek to the right at the bottom of the hill.  There are timbers around a fire pit.  You can see it as you come down the large hill.",
-  "temperature_high": 58.3,
-  "temperature_mid": 49.14,
-  "temperature_low": 39.98,
+  "temperature": {
+    "high": 58.3,
+    "mid": 49.14,
+    "low": 39.98
+  },
   "dew_point": 35.18,
   "humidity": 0.72,
   "cloud_cover": 0.01,

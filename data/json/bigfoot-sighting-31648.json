@@ -11,9 +11,11 @@
   "longitude": -77.90815,
   "location": "-77.90815,37.047",
   "location_details": "In a Fort Pickett southern training area.",
-  "temperature_high": 45.7,
-  "temperature_mid": 44.23,
-  "temperature_low": 42.76,
+  "temperature": {
+    "high": 45.7,
+    "mid": 44.23,
+    "low": 42.76
+  },
   "dew_point": 20.28,
   "humidity": 0.61,
   "cloud_cover": 0.22,

@@ -11,9 +11,11 @@
   "longitude": -71.6568,
   "location": "-71.6568,41.98067",
   "location_details": "From route 102 N or S. Take Spring Lake Road. Follow there are multiple points of entry in to the reserve and a general parking lot at the end of Spring Lake Road.",
-  "temperature_high": 58.13,
-  "temperature_mid": 50.815,
-  "temperature_low": 43.5,
+  "temperature": {
+    "high": 58.13,
+    "mid": 50.815,
+    "low": 43.5
+  },
   "dew_point": 45.34,
   "humidity": 0.79,
   "cloud_cover": 0.58,

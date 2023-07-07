@@ -11,9 +11,11 @@
   "longitude": -111.1367,
   "location": "-111.1367,34.28939",
   "location_details": "after Payson, in the Little Green Valley area, where the divided highway merges together, just before you start heading up the rim.",
-  "temperature_high": 75.35,
-  "temperature_mid": 58.38,
-  "temperature_low": 41.41,
+  "temperature": {
+    "high": 75.35,
+    "mid": 58.38,
+    "low": 41.41
+  },
   "dew_point": 17.79,
   "humidity": 0.25,
   "cloud_cover": 0.01,

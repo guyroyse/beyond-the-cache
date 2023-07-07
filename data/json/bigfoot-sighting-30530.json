@@ -11,9 +11,11 @@
   "longitude": -90.76557,
   "location": "-90.76557,42.55997",
   "location_details": "Heading north out of Dubuque on hwy 52 north. stay on hwy going past BP gas station and is roughly 15 min beyond that point on the left.",
-  "temperature_high": 84.78,
-  "temperature_mid": 77,
-  "temperature_low": 69.22,
+  "temperature": {
+    "high": 84.78,
+    "mid": 77,
+    "low": 69.22
+  },
   "dew_point": 65.42,
   "humidity": 0.8,
   "cloud_cover": 0.34,

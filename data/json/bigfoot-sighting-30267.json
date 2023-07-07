@@ -11,9 +11,11 @@
   "longitude": -82.53305,
   "location": "-82.53305,28.78806",
   "location_details": "head n.on highway 441 from Orlando,then go east on st.rt.46, finally head back s on mt. plymouth rd.",
-  "temperature_high": 88.83,
-  "temperature_mid": 82.8,
-  "temperature_low": 76.77,
+  "temperature": {
+    "high": 88.83,
+    "mid": 82.8,
+    "low": 76.77
+  },
   "dew_point": 76.05,
   "humidity": 0.8,
   "cloud_cover": 0.23,

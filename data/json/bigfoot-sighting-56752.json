@@ -11,9 +11,11 @@
   "longitude": -83.16122,
   "location": "-83.16122,32.30676",
   "location_details": "We have 80 acres you could investigate and a Swamp on the backside",
-  "temperature_high": 92.54,
-  "temperature_mid": 83.68,
-  "temperature_low": 74.82,
+  "temperature": {
+    "high": 92.54,
+    "mid": 83.68,
+    "low": 74.82
+  },
   "dew_point": 71.84,
   "humidity": 0.76,
   "cloud_cover": 0.52,

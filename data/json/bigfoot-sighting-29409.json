@@ -11,9 +11,11 @@
   "longitude": -83.85985,
   "location": "-83.85985,45.40985",
   "location_details": "It has been many years since this happened.. I was eleven years old...Sis was thirteen...I guess Larke Avenue was off of main street at that time.  It ran parallel to a road that made the main highway and I don't remember the number of that.",
-  "temperature_high": 57.54,
-  "temperature_mid": 48.38,
-  "temperature_low": 39.22,
+  "temperature": {
+    "high": 57.54,
+    "mid": 48.38,
+    "low": 39.22
+  },
   "dew_point": 26.88,
   "humidity": 0.47,
   "cloud_cover": 0.62,

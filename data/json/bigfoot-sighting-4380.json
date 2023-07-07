@@ -11,9 +11,11 @@
   "longitude": -122.1983,
   "location": "-122.1983,46.7002",
   "location_details": "State highway 7, 5 miles toward Morton from Elbe.",
-  "temperature_high": 76.14,
-  "temperature_mid": 65.305,
-  "temperature_low": 54.47,
+  "temperature": {
+    "high": 76.14,
+    "mid": 65.305,
+    "low": 54.47
+  },
   "dew_point": 53.59,
   "humidity": 0.72,
   "cloud_cover": 0.65,

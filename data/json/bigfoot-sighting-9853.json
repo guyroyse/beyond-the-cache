@@ -11,9 +11,11 @@
   "longitude": -94.685,
   "location": "-94.685,34.695",
   "location_details": "Billy Creek campground",
-  "temperature_high": 57.45,
-  "temperature_mid": 44.76,
-  "temperature_low": 32.07,
+  "temperature": {
+    "high": 57.45,
+    "mid": 44.76,
+    "low": 32.07
+  },
   "dew_point": 41.07,
   "humidity": 0.67,
   "cloud_cover": 0.48,

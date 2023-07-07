@@ -11,9 +11,11 @@
   "longitude": -86.7513,
   "location": "-86.7513,30.6966",
   "location_details": "Milepost 45 eastbound I-10 around 10:30am",
-  "temperature_high": 56.43,
-  "temperature_mid": 44.355,
-  "temperature_low": 32.28,
+  "temperature": {
+    "high": 56.43,
+    "mid": 44.355,
+    "low": 32.28
+  },
   "dew_point": 31.69,
   "humidity": 0.68,
   "cloud_cover": 0.12,

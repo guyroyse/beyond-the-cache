@@ -11,9 +11,11 @@
   "longitude": -80.6937,
   "location": "-80.6937,40.39103",
   "location_details": "Jefferson Co., Ohio near Wintersville and1/4 mile from US Route 22.  In wooded area near our home.",
-  "temperature_high": 61.69,
-  "temperature_mid": 55.9,
-  "temperature_low": 50.11,
+  "temperature": {
+    "high": 61.69,
+    "mid": 55.9,
+    "low": 50.11
+  },
   "dew_point": 48.81,
   "humidity": 0.68,
   "cloud_cover": 0.79,

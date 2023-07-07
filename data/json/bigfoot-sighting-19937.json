@@ -11,9 +11,11 @@
   "longitude": -121.8221,
   "location": "-121.8221,46.74551",
   "location_details": "All I can say it was at the pull off area to get to the Maiden in The Woods, maybe someone from that area might know where that was. Like I said I was 13 and not from the area, so I have no idea.",
-  "temperature_high": 58.35,
-  "temperature_mid": 53.925,
-  "temperature_low": 49.5,
+  "temperature": {
+    "high": 58.35,
+    "mid": 53.925,
+    "low": 49.5
+  },
   "dew_point": 46.77,
   "humidity": 0.79,
   "cloud_cover": 0.84,

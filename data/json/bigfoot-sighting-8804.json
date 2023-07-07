@@ -11,9 +11,11 @@
   "longitude": -79.03025,
   "location": "-79.03025,36.31625",
   "location_details": "south of roxboro near hurdle mills",
-  "temperature_high": 53.08,
-  "temperature_mid": 42.575,
-  "temperature_low": 32.07,
+  "temperature": {
+    "high": 53.08,
+    "mid": 42.575,
+    "low": 32.07
+  },
   "dew_point": 34.77,
   "humidity": 0.68,
   "cloud_cover": 0.39,

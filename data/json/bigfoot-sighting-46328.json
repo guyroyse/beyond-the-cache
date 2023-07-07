@@ -11,9 +11,11 @@
   "longitude": -83.71705,
   "location": "-83.71705,34.66467",
   "location_details": "About .2 miles north of Duncan Bridge (Hwy 384)",
-  "temperature_high": 65.23,
-  "temperature_mid": 54.645,
-  "temperature_low": 44.06,
+  "temperature": {
+    "high": 65.23,
+    "mid": 54.645,
+    "low": 44.06
+  },
   "dew_point": 32.56,
   "humidity": 0.57,
   "cloud_cover": 0.1,

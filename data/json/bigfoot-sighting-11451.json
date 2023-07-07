@@ -11,9 +11,11 @@
   "longitude": -94.58,
   "location": "-94.58,30.71139",
   "location_details": "between Big Sandy Creek and Bear Creek",
-  "temperature_high": 78.23,
-  "temperature_mid": 64.665,
-  "temperature_low": 51.1,
+  "temperature": {
+    "high": 78.23,
+    "mid": 64.665,
+    "low": 51.1
+  },
   "dew_point": 54.67,
   "humidity": 0.67,
   "cloud_cover": 0.41,

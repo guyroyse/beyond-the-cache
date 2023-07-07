@@ -11,9 +11,11 @@
   "longitude": -80.57164,
   "location": "-80.57164,40.6807",
   "location_details": "Columbiana County, Ohio...in Calcutta ( four miles north of East Liverpool, Ohio)",
-  "temperature_high": 85.74,
-  "temperature_mid": 77.98,
-  "temperature_low": 70.22,
+  "temperature": {
+    "high": 85.74,
+    "mid": 77.98,
+    "low": 70.22
+  },
   "dew_point": 65.22,
   "humidity": 0.64,
   "cloud_cover": 0.64,

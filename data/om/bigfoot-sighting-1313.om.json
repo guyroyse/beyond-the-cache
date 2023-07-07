@@ -1,0 +1,35 @@
+{
+  "reportId": "1313",
+  "title": " creature walked directly towards witness.",
+  "date": "1987-11-15",
+  "timestamp": 563932800,
+  "observed": "I had stopped my boat along Black Bayou to go look at pond that usually contained ducks on the other side of the levee. As I was approaching the Levee I caught a glimpse of something to my left it was about 200 yards away. I stopped behind a tree and peeked out to have a good look. On the edge of the levee was a creature that appeared to be about 6ft tall. It had shaggy dark brown hair and was walking upright. The creature was walking directly towards me. I was still watching the creature when it was about a 100 yards away. I wasnt scared at all because My shotgun was fully loaded. The Creature stopped about 100 yards away and looked directly in the direction that I was hiding. From the way it acted I think he smelled me or something because I didnt make a sound or move. The thing paused for about 3 or 4 seconds then bolted directly over the levee headed for the big woods. I immediately ran to the top of the levee to get another look at the thing. When I got to the top of the levee the thing was entering the edge of the woods which was about 200 yards away. This thing covered 200 yards to my 50 yards and I was at a dead run. I was trying to sneek up on this pond that was on the other side of the levee and possibly kill some ducks when I seen this thing walking the edge of the woods along the bottom of the levee",
+  "classification": "Class A",
+  "county": "Caddo Parish",
+  "state": "Louisiana",
+  "latitude": 32.7817,
+  "longitude": -93.9467,
+  "location": {
+    "longitude": -93.9467,
+    "latitude": 32.7817
+  },
+  "location_details": "Caddo Parish, Oil City, Louisiana, adjacent to Black Bayou",
+  "temperature": {
+    "high": 72.24,
+    "mid": 66.98,
+    "low": 61.72
+  },
+  "dew_point": 62.21,
+  "humidity": 0.85,
+  "cloud_cover": 0.96,
+  "moon_phase": 0.81,
+  "precip_intensity": 0.1183,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1011.92,
+  "summary": "Breezy until afternoon and heavy rain in the evening and overnight.",
+  "uv_index": 2,
+  "visibility": 6.93,
+  "wind_bearing": 140,
+  "wind_speed": 9.81
+}

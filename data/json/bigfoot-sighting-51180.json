@@ -11,9 +11,11 @@
   "longitude": -97.75,
   "location": "-97.75,32.75",
   "location_details": "At the time, Mr. J owned the property. It was at the end of the street across a cattle guard. It was creek bottom and woods, very secluded back then.",
-  "temperature_high": 57.24,
-  "temperature_mid": 43.77,
-  "temperature_low": 30.3,
+  "temperature": {
+    "high": 57.24,
+    "mid": 43.77,
+    "low": 30.3
+  },
   "dew_point": 18.08,
   "humidity": 0.43,
   "cloud_cover": 0,

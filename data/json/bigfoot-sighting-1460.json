@@ -11,9 +11,11 @@
   "longitude": -92.4976,
   "location": "-92.4976,31.1375",
   "location_details": "Near the Indian Creek camping area near the town of Woodworth about 15 mins south of Alexandria",
-  "temperature_high": 92.93,
-  "temperature_mid": 83.005,
-  "temperature_low": 73.08,
+  "temperature": {
+    "high": 92.93,
+    "mid": 83.005,
+    "low": 73.08
+  },
   "dew_point": 71.15,
   "humidity": 0.69,
   "cloud_cover": 0.54,

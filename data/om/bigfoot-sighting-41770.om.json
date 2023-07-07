@@ -1,0 +1,35 @@
+{
+  "reportId": "41770",
+  "title": "Huge rocks thrown at night fishermen on Jewell Lake",
+  "date": "2013-07-31",
+  "timestamp": 1375228800,
+  "observed": "Me and my girlfriend's son are up at Barton City, Jewel Lake. At 2 am night fishing on the boat close to shore. Rocks were being thrown at us..... I have been up here for 37 yrs plus, never had that happen.  These were big rocks. Big kerplunks and splashes. And only when we got to a certain part of the lake. Never have had this happen in all my years coming here. This happened less than an hour ago and we are freaked out contact me. My name is Mike.",
+  "classification": "Class B",
+  "county": "Alcona",
+  "state": "Michigan",
+  "latitude": 44.68047,
+  "longitude": -83.61314,
+  "location": {
+    "longitude": -83.61314,
+    "latitude": 44.68047
+  },
+  "location_details": "On Jewel Lake near Barton City",
+  "temperature": {
+    "high": 70.87,
+    "mid": 64.36,
+    "low": 57.85
+  },
+  "dew_point": 59.79,
+  "humidity": 0.83,
+  "cloud_cover": 0.3,
+  "moon_phase": 0.81,
+  "precip_intensity": 0.0032,
+  "precip_probability": 0.32,
+  "precip_type": "rain",
+  "pressure": 1017.15,
+  "summary": "Light rain overnight.",
+  "uv_index": 7,
+  "visibility": 9.78,
+  "wind_bearing": 191,
+  "wind_speed": 4.96
+}

@@ -11,9 +11,11 @@
   "longitude": -120.2603,
   "location": "-120.2603,38.31944",
   "location_details": "Take Highway 4 to Dorrington, then to the Liberty Hill area from there.  Event was in one of the small meadows in the Liberty Hill area.",
-  "temperature_high": 91.83,
-  "temperature_mid": 76.115,
-  "temperature_low": 60.4,
+  "temperature": {
+    "high": 91.83,
+    "mid": 76.115,
+    "low": 60.4
+  },
   "dew_point": 53.52,
   "humidity": 0.51,
   "cloud_cover": 0.07,

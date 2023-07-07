@@ -11,9 +11,11 @@
   "longitude": -119.9833,
   "location": "-119.9833,38.93333",
   "location_details": "We where traveling back from the Washoe Indian Reservation, turned on to hwy 50, in dense forest",
-  "temperature_high": 55.57,
-  "temperature_mid": 44.51,
-  "temperature_low": 33.45,
+  "temperature": {
+    "high": 55.57,
+    "mid": 44.51,
+    "low": 33.45
+  },
   "dew_point": 34.88,
   "humidity": 0.68,
   "cloud_cover": 0.39,

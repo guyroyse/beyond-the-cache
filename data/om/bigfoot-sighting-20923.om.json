@@ -1,0 +1,35 @@
+{
+  "reportId": "20923",
+  "title": "Group of climbers hear possible vocalizations near Cougar",
+  "date": "2007-08-07",
+  "timestamp": 1186444800,
+  "observed": "Four of my friends and I were camped out below the Climbers Bivoac Area of St Helens National Monument.We pulled the motorhome over onto a short logging road (FS #83) off the side road to Lava Canyon,about 2mi past the jct with the Climbers Bivoac Road.We had arrangements to climb St Helens on Monday but arrived early Sat and did some hiking/mtn biking for a couple days beforehand.In the early morning hours of Monday Aug6th 2007,half of us awoke to a strange distant howling which none of us had ever heard before.We speculated that it was possibly a bear that got caught in a trap. It definately wasnt a cougar scream as I've heard them before a few times.It wasnt an elk either.All we could think of at the time was that it was possibly a bear.But yet it seemed way too loud for a bear especially with it seeming to be coming from a distance.This noise went on for about 15 minutes before it faded away.I have listened to some of the audio recordings on your website and they sound quite similar to what we heard.We camped in the same spot the day before and the day after our successful climb up St Helens (awesome weather the day we went)for 3 nights total but we heard the noise only one night.",
+  "classification": "Class B",
+  "county": "Cowlitz",
+  "state": "Washington",
+  "latitude": 46.11887,
+  "longitude": -122.1931,
+  "location": {
+    "longitude": -122.1931,
+    "latitude": 46.11887
+  },
+  "location_details": "State Route #503 past town of Cougar approx 5mi to Jct with FS#81. FS#81 to Jct with FS#83. FS#83 one to two miles to un-numbered logging road pull off on right.We pulled off onto this road approx 50 yards and made camp.",
+  "temperature": {
+    "high": 71.85,
+    "mid": 66.35,
+    "low": 60.85
+  },
+  "dew_point": 54.54,
+  "humidity": 0.72,
+  "cloud_cover": 0.91,
+  "moon_phase": 0.82,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.15,
+  "precip_type": "rain",
+  "pressure": 1015.79,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.6,
+  "wind_bearing": 248,
+  "wind_speed": 2.88
+}

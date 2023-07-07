@@ -11,9 +11,11 @@
   "longitude": -84.0458,
   "location": "-84.0458,35.3538",
   "location_details": "If you want to go their I will show you. I am not going to post directions.",
-  "temperature_high": 61.64,
-  "temperature_mid": 48.18,
-  "temperature_low": 34.72,
+  "temperature": {
+    "high": 61.64,
+    "mid": 48.18,
+    "low": 34.72
+  },
   "dew_point": 29.78,
   "humidity": 0.62,
   "cloud_cover": 0.29,

@@ -11,9 +11,11 @@
   "longitude": -111.63,
   "location": "-111.63,40.42",
   "location_details": "North (I am bad at directions but I think it was north) of the trail to the falls.  Same direction would go from family camp to the state park.",
-  "temperature_high": 86.2,
-  "temperature_mid": 70.02,
-  "temperature_low": 53.84,
+  "temperature": {
+    "high": 86.2,
+    "mid": 70.02,
+    "low": 53.84
+  },
   "dew_point": 42.29,
   "humidity": 0.39,
   "cloud_cover": 0.1,

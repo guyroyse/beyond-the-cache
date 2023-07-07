@@ -11,9 +11,11 @@
   "longitude": -86.5,
   "location": "-86.5,33.59",
   "location_details": "there is a boys home about a half a mile on the right from were we saw this creature.",
-  "temperature_high": 87.01,
-  "temperature_mid": 79.155,
-  "temperature_low": 71.3,
+  "temperature": {
+    "high": 87.01,
+    "mid": 79.155,
+    "low": 71.3
+  },
   "dew_point": 69.15,
   "humidity": 0.75,
   "cloud_cover": 0.27,

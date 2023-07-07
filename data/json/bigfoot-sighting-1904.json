@@ -11,9 +11,11 @@
   "longitude": -122.1283,
   "location": "-122.1283,46.10861",
   "location_details": "The Swift Creek climbing route on Mt. St. Helens from Marble Mountain Sno-Park at approximately 4,000 ft. elevation.",
-  "temperature_high": 57.93,
-  "temperature_mid": 49.125,
-  "temperature_low": 40.32,
+  "temperature": {
+    "high": 57.93,
+    "mid": 49.125,
+    "low": 40.32
+  },
   "dew_point": 34.41,
   "humidity": 0.76,
   "cloud_cover": 0.58,

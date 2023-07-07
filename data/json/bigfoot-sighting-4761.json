@@ -11,9 +11,11 @@
   "longitude": -90.1687,
   "location": "-90.1687,43.06171",
   "location_details": "This was on Wisconsin Highway 130 west of Wisconsin Highway 23 out of Dodgeville.",
-  "temperature_high": 66.33,
-  "temperature_mid": 61.895,
-  "temperature_low": 57.46,
+  "temperature": {
+    "high": 66.33,
+    "mid": 61.895,
+    "low": 57.46
+  },
   "dew_point": 51.74,
   "humidity": 0.77,
   "cloud_cover": 0.93,

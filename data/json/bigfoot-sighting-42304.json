@@ -11,9 +11,11 @@
   "longitude": -123.1592,
   "location": "-123.1592,47.61922",
   "location_details": "Lena Lake, Buckhorn wilderness.",
-  "temperature_high": 63.68,
-  "temperature_mid": 59.36,
-  "temperature_low": 55.04,
+  "temperature": {
+    "high": 63.68,
+    "mid": 59.36,
+    "low": 55.04
+  },
   "dew_point": 52,
   "humidity": 0.79,
   "cloud_cover": 0.12,

@@ -11,9 +11,11 @@
   "longitude": -83.28128,
   "location": "-83.28128,38.83859",
   "location_details": "Off S.R. 348; Jefferson Township; Adams County",
-  "temperature_high": 66.26,
-  "temperature_mid": 58.955,
-  "temperature_low": 51.65,
+  "temperature": {
+    "high": 66.26,
+    "mid": 58.955,
+    "low": 51.65
+  },
   "dew_point": 43.06,
   "humidity": 0.65,
   "cloud_cover": 0.47,

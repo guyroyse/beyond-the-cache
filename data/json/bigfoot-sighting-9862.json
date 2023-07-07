@@ -11,9 +11,11 @@
   "longitude": -94.86667,
   "location": "-94.86667,30.41667",
   "location_details": "Coming from Cleveland, travel East on FM 787 for 12 miles until you pass a green sign saying RAYBURN and the Rayburn Baptists Church.  Looking to the right there will be a pipline trail.  If you come to a steep hill and another sign that says DOLEN, you went too far.",
-  "temperature_high": 71.7,
-  "temperature_mid": 67.42,
-  "temperature_low": 63.14,
+  "temperature": {
+    "high": 71.7,
+    "mid": 67.42,
+    "low": 63.14
+  },
   "dew_point": 55.63,
   "humidity": 0.79,
   "cloud_cover": 0.58,

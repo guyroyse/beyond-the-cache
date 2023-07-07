@@ -11,9 +11,11 @@
   "longitude": -123.1976,
   "location": "-123.1976,47.396",
   "location_details": "It was off of 119 near the foot hills park wilderness area. 4 miles west of foot hills park.",
-  "temperature_high": 58.17,
-  "temperature_mid": 56.41,
-  "temperature_low": 54.65,
+  "temperature": {
+    "high": 58.17,
+    "mid": 56.41,
+    "low": 54.65
+  },
   "dew_point": 52.84,
   "humidity": 0.91,
   "cloud_cover": 0.97,

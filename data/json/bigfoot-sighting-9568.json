@@ -11,9 +11,11 @@
   "longitude": -85.27652,
   "location": "-85.27652,43.60667",
   "location_details": "If I had a map of the area I could show you exactly.  However, the area has changed dramatically since this happened and looks very little like the terrain I grew up around at the time.",
-  "temperature_high": 61.18,
-  "temperature_mid": 55.865,
-  "temperature_low": 50.55,
+  "temperature": {
+    "high": 61.18,
+    "mid": 55.865,
+    "low": 50.55
+  },
   "dew_point": 55.33,
   "humidity": 0.91,
   "cloud_cover": 0.96,

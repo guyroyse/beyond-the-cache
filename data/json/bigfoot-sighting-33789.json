@@ -11,9 +11,11 @@
   "longitude": -80.83882,
   "location": "-80.83882,28.20954",
   "location_details": "The Oak's Upper St.Johns River",
-  "temperature_high": 76.49,
-  "temperature_mid": 69.82,
-  "temperature_low": 63.15,
+  "temperature": {
+    "high": 76.49,
+    "mid": 69.82,
+    "low": 63.15
+  },
   "dew_point": 62.37,
   "humidity": 0.79,
   "cloud_cover": 0.9,

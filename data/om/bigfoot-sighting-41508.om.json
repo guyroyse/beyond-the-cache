@@ -1,0 +1,35 @@
+{
+  "reportId": "41508",
+  "title": "Motorist observes large hairy biped in the late afternoon near Taylorsville",
+  "date": "2013-06-12",
+  "timestamp": 1370995200,
+  "observed": "Driving with family on Damascus Church Road in Alexander County I saw what appeared to be a Sasquatch.  I glanced over while driving at the top of a fenced-in cow pasture and I saw it.  It appeared tall over 7 foot and had long arms walking upright.  It had long hair all over that appeared all over the body and the hair must have been 6 plus inches.  It walked down a powerline clearing and veered off into the woods .  I was kind of in disbelief and told my family what I think I saw, turned around and it was gone into the woods.  I'm 38 years-old and first time I've seen anything like it.  This I saw about two weeks ago and only told family.",
+  "classification": "Class A",
+  "county": "Alexander",
+  "state": "North Carolina",
+  "latitude": 35.94647,
+  "longitude": -81.03185,
+  "location": {
+    "longitude": -81.03185,
+    "latitude": 35.94647
+  },
+  "location_details": "It was in Alexander County on Damascus Church Road pretty close to Iredell county line",
+  "temperature": {
+    "high": 88.44,
+    "mid": 80.22,
+    "low": 72
+  },
+  "dew_point": 66.52,
+  "humidity": 0.73,
+  "cloud_cover": 0.02,
+  "moon_phase": 0.12,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.06,
+  "precip_type": "rain",
+  "pressure": 1013.86,
+  "summary": "Clear throughout the day.",
+  "uv_index": 12,
+  "visibility": 9.43,
+  "wind_bearing": 257,
+  "wind_speed": 4.91
+}

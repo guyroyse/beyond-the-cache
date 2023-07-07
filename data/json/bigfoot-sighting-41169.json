@@ -11,9 +11,11 @@
   "longitude": -85.35133,
   "location": "-85.35133,33.95003",
   "location_details": "Coming from Piedmont, AL. eastward, When you cross the Georgia state line on HWY 278. It is approximately 2 1/2 miles to The Shilo Baptist church sign on the right side of the highway. You drive approximately 1/4 mile to a stop sign. You have two choices, right or straight. Go straight across the road, field is on the left side of the road. Sighting was approximately 60 yards down the fence. Just past the gate to the property.",
-  "temperature_high": 74.04,
-  "temperature_mid": 66.855,
-  "temperature_low": 59.67,
+  "temperature": {
+    "high": 74.04,
+    "mid": 66.855,
+    "low": 59.67
+  },
   "dew_point": 56.95,
   "humidity": 0.74,
   "cloud_cover": 0.19,

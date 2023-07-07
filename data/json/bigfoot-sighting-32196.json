@@ -11,9 +11,11 @@
   "longitude": -90.14547,
   "location": "-90.14547,38.74784",
   "location_details": "1214 Old Rock Road, Granite City, Illinois",
-  "temperature_high": 71,
-  "temperature_mid": 62.32,
-  "temperature_low": 53.64,
+  "temperature": {
+    "high": 71,
+    "mid": 62.32,
+    "low": 53.64
+  },
   "dew_point": 55.22,
   "humidity": 0.76,
   "cloud_cover": 0.53,

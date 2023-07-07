@@ -11,9 +11,11 @@
   "longitude": -116.6079,
   "location": "-116.6079,47.85001",
   "location_details": "Buckles Mountain east of Garwood, Idaho",
-  "temperature_high": 56.93,
-  "temperature_mid": 52.175,
-  "temperature_low": 47.42,
+  "temperature": {
+    "high": 56.93,
+    "mid": 52.175,
+    "low": 47.42
+  },
   "dew_point": 40.15,
   "humidity": 0.73,
   "cloud_cover": 0.66,

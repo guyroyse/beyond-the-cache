@@ -1,0 +1,35 @@
+{
+  "reportId": "14841",
+  "title": "Possible approach to a property on the edge of the Salmon Huckleberry Wilderness",
+  "date": "2003-02-15",
+  "timestamp": 1045267200,
+  "observed": "I lived in Welches, Oregon.  I am 42 yr old now.  This was 2 1/2 years ago, in November 2003.  I was living in an apartment over a garage overlooking the Salmon River. At around 6pm there was a large bang on my front door. The door was locked, thank goodness.  I called 911 and told them that something banged on my door, and I was alone and scared.  I lived right next to the Mt. Hood National Forest.  No families lived there in the winter time.  If something happened to me no one would hear me scream.  I heard grunting.  I looked out onto my deck, through the windows and I saw those eyes.  It had to be huge animal. It was there watching me and I was watching it.  It blinked its eyes, but it was like the animal was frozen with its eyes set on me.  It had a furry head. It took 3 hours for the police to show up.  They came in on foot, from down the road, but did not see anything when they looked around.",
+  "classification": "Class B",
+  "county": "Clackamas",
+  "state": "Oregon",
+  "latitude": 45.3207,
+  "longitude": -121.9547,
+  "location": {
+    "longitude": -121.9547,
+    "latitude": 45.3207
+  },
+  "location_details": "Elk Park Road, Welches, Or 97067.",
+  "temperature": {
+    "high": 51,
+    "mid": 47.665,
+    "low": 44.33
+  },
+  "dew_point": 42.77,
+  "humidity": 0.87,
+  "cloud_cover": 0.82,
+  "moon_phase": 0.45,
+  "precip_intensity": 0.0232,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1008.83,
+  "summary": "Rain until afternoon, starting again in the evening.",
+  "uv_index": 1,
+  "visibility": 8.05,
+  "wind_bearing": 120,
+  "wind_speed": 6.88
+}

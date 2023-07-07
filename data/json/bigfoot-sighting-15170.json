@@ -11,9 +11,11 @@
   "longitude": -80.926,
   "location": "-80.926,25.141",
   "location_details": "On the roadway to Flamingo (Everglades National Park). Outside the park near a boat-ramp and docks.",
-  "temperature_high": 75.29,
-  "temperature_mid": 71.195,
-  "temperature_low": 67.1,
+  "temperature": {
+    "high": 75.29,
+    "mid": 71.195,
+    "low": 67.1
+  },
   "dew_point": 59.77,
   "humidity": 0.69,
   "cloud_cover": 0.17,

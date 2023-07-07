@@ -11,9 +11,11 @@
   "longitude": -122.4988,
   "location": "-122.4988,46.3261",
   "location_details": "Approximately 1 to 2 miles east of Hoffstead Bluffs.  Looking down into the Mt. St. Helens wash it was viewed from the highway.",
-  "temperature_high": 60.55,
-  "temperature_mid": 50.315,
-  "temperature_low": 40.08,
+  "temperature": {
+    "high": 60.55,
+    "mid": 50.315,
+    "low": 40.08
+  },
   "dew_point": 37.98,
   "humidity": 0.69,
   "cloud_cover": 0.7,

@@ -11,9 +11,11 @@
   "longitude": -84.73555,
   "location": "-84.73555,33.2706",
   "location_details": "it was close to a pond, the creature was crossing the road right to left, toward the pond.also along a power line cleared out trail, but densley wooded area along the clearing also.",
-  "temperature_high": 73.6,
-  "temperature_mid": 59.07,
-  "temperature_low": 44.54,
+  "temperature": {
+    "high": 73.6,
+    "mid": 59.07,
+    "low": 44.54
+  },
   "dew_point": 46.11,
   "humidity": 0.73,
   "cloud_cover": 0,

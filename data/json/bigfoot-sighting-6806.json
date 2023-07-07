@@ -11,9 +11,11 @@
   "longitude": -122.3985,
   "location": "-122.3985,45.8331",
   "location_details": "Within a mile of Moulton Falls. I can show you.",
-  "temperature_high": 49.35,
-  "temperature_mid": 39.775,
-  "temperature_low": 30.2,
+  "temperature": {
+    "high": 49.35,
+    "mid": 39.775,
+    "low": 30.2
+  },
   "dew_point": 24.76,
   "humidity": 0.61,
   "cloud_cover": 0.31,

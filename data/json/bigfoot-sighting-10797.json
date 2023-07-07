@@ -11,9 +11,11 @@
   "longitude": -95.488,
   "location": "-95.488,39.1441",
   "location_details": "Perry State Park.  Hike/bike trail, after you cross over Lake Perry, it's up the hill and you take the first right for about a mile to the parking area; we were on the Mad Mile extension of the Skyline trail.",
-  "temperature_high": 58.22,
-  "temperature_mid": 50.915,
-  "temperature_low": 43.61,
+  "temperature": {
+    "high": 58.22,
+    "mid": 50.915,
+    "low": 43.61
+  },
   "dew_point": 31.26,
   "humidity": 0.63,
   "cloud_cover": 0.3,

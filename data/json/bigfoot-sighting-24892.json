@@ -11,9 +11,11 @@
   "longitude": -123.2916,
   "location": "-123.2916,42.125",
   "location_details": "Take hwy 238 out of Medford and head towards Jacksonville, follow Hwy238 out towards Ruch. Turn left on upper Applegate Rd. follow to Carberry Creek Rd, that is also called county 777 Rd. Follow to the junction of FR 10 (Thompson Creek rd.) and FR 1005 and FR 1020. Follow road 1005 all the way to end of the road, which ends at Obrien Creek. Trail # 900 Trail head.  Follow Trail # 900 to trail junction #1207, here is a sign that tells you how to get to the Greyback Snow Shelter at the fork of 900 and 1207. Follow foot path to shelter and you will see the other trail/path that will take you to the meadow where the Krause cabin used to stand. My son and I would be honored to take an investigator to the spot before the winter weather hits, if you would like.",
-  "temperature_high": 52.15,
-  "temperature_mid": 46.285,
-  "temperature_low": 40.42,
+  "temperature": {
+    "high": 52.15,
+    "mid": 46.285,
+    "low": 40.42
+  },
   "dew_point": 42.33,
   "humidity": 0.81,
   "cloud_cover": 0.79,

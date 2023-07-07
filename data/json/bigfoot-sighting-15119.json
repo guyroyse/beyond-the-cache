@@ -11,9 +11,11 @@
   "longitude": -86.05825,
   "location": "-86.05825,39.2152",
   "location_details": "I live out on 500W in a wooded forest area,and farm land. About 10 miles from Columbus.",
-  "temperature_high": 78.87,
-  "temperature_mid": 67.6,
-  "temperature_low": 56.33,
+  "temperature": {
+    "high": 78.87,
+    "mid": 67.6,
+    "low": 56.33
+  },
   "dew_point": 51.22,
   "humidity": 0.59,
   "cloud_cover": 0.12,

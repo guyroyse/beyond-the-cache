@@ -11,9 +11,11 @@
   "longitude": -93.2952,
   "location": "-93.2952,31.14195",
   "location_details": "The location of the woods off the Texas Highway is directly behind the Fair Grounds in Leesville. About a 45 minute walk into the woods.",
-  "temperature_high": 94.7,
-  "temperature_mid": 85.855,
-  "temperature_low": 77.01,
+  "temperature": {
+    "high": 94.7,
+    "mid": 85.855,
+    "low": 77.01
+  },
   "dew_point": 73.01,
   "humidity": 0.68,
   "cloud_cover": 0.18,

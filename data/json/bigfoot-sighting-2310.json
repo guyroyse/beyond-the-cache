@@ -11,9 +11,11 @@
   "longitude": -120.0522,
   "location": "-120.0522,38.1625",
   "location_details": "Take Highway 108 to Cold Springs.",
-  "temperature_high": 42.79,
-  "temperature_mid": 39.565,
-  "temperature_low": 36.34,
+  "temperature": {
+    "high": 42.79,
+    "mid": 39.565,
+    "low": 36.34
+  },
   "dew_point": 32.29,
   "humidity": 0.82,
   "cloud_cover": 0.97,

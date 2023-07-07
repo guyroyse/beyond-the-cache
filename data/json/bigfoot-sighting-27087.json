@@ -11,9 +11,11 @@
   "longitude": -121.3866,
   "location": "-121.3866,42.36945",
   "location_details": "From bonanza follow hwy 70 to bly mtn. cutoff. go through stop sign and get onto 140 east follow through s curves to mile marker 29. It is well forested area on both sides of the road not populated.",
-  "temperature_high": 31.7,
-  "temperature_mid": 22.825,
-  "temperature_low": 13.95,
+  "temperature": {
+    "high": 31.7,
+    "mid": 22.825,
+    "low": 13.95
+  },
   "dew_point": 5.95,
   "humidity": 0.7,
   "cloud_cover": 0.13,

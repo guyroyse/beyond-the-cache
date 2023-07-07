@@ -1,0 +1,35 @@
+{
+  "reportId": "3008",
+  "title": "Gold dredgers have afternoon encounter in Cherokee National Forest",
+  "date": "2000-08-03",
+  "timestamp": 965260800,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Monroe",
+  "state": "Tennessee",
+  "latitude": 35.2597,
+  "longitude": -84.28315,
+  "location": {
+    "longitude": -84.28315,
+    "latitude": 35.2597
+  },
+  "location_details": "Location is in Cherokee National Forrest.",
+  "temperature": {
+    "high": 83.57,
+    "mid": 75.55,
+    "low": 67.53
+  },
+  "dew_point": 69.18,
+  "humidity": 0.82,
+  "cloud_cover": 0.56,
+  "moon_phase": 0.13,
+  "precip_intensity": 0.0008,
+  "precip_probability": 0.24,
+  "precip_type": "rain",
+  "pressure": 1017.31,
+  "summary": "Rain overnight.",
+  "uv_index": 9,
+  "visibility": 7.66,
+  "wind_bearing": 233,
+  "wind_speed": 2.08
+}

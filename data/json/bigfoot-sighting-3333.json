@@ -11,9 +11,11 @@
   "longitude": -83.28265,
   "location": "-83.28265,35.2483",
   "location_details": "Western N.C. Between Cullowee and Franklin.  The area is now known as Panthertown valley.  The area was a very remote dirt road in the mountains. We had traveled down several and even been turned away from one, by a man with a shotgun.",
-  "temperature_high": 65.11,
-  "temperature_mid": 63.85,
-  "temperature_low": 62.59,
+  "temperature": {
+    "high": 65.11,
+    "mid": 63.85,
+    "low": 62.59
+  },
   "dew_point": 62.87,
   "humidity": 0.95,
   "cloud_cover": 1,

@@ -11,9 +11,11 @@
   "longitude": -87.344,
   "location": "-87.344,37.6095",
   "location_details": "about midway between calhoun, Ky and Beech Grove, Ky. On HWY 136, 3 miles SE of Beech Grove",
-  "temperature_high": 83.05,
-  "temperature_mid": 77.935,
-  "temperature_low": 72.82,
+  "temperature": {
+    "high": 83.05,
+    "mid": 77.935,
+    "low": 72.82
+  },
   "dew_point": 72.77,
   "humidity": 0.89,
   "cloud_cover": 0.65,

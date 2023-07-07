@@ -11,9 +11,11 @@
   "longitude": -118.875,
   "location": "-118.875,45.46571",
   "location_details": "It was here at the house.",
-  "temperature_high": 41.87,
-  "temperature_mid": 34.595,
-  "temperature_low": 27.32,
+  "temperature": {
+    "high": 41.87,
+    "mid": 34.595,
+    "low": 27.32
+  },
   "dew_point": 28.54,
   "humidity": 0.8,
   "cloud_cover": 0.23,

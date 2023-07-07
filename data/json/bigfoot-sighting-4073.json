@@ -11,9 +11,11 @@
   "longitude": -81.54855,
   "location": "-81.54855,39.46019",
   "location_details": "A few miles off State Route 676 on a township road.",
-  "temperature_high": 76.01,
-  "temperature_mid": 72.325,
-  "temperature_low": 68.64,
+  "temperature": {
+    "high": 76.01,
+    "mid": 72.325,
+    "low": 68.64
+  },
   "dew_point": 63.92,
   "humidity": 0.75,
   "cloud_cover": 0.88,

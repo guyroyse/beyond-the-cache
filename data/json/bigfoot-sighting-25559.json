@@ -11,9 +11,11 @@
   "longitude": -86.6575,
   "location": "-86.6575,34.71139",
   "location_details": "I was on 6th floor of Marriott Hotel facing the Rocket Center--(room 614)--creature was 30-35 yards from parking spaces where the loading docks and dumpster area is if you are facing hotel it will be the area to  the left where there is a walking trail",
-  "temperature_high": 55.93,
-  "temperature_mid": 49.485,
-  "temperature_low": 43.04,
+  "temperature": {
+    "high": 55.93,
+    "mid": 49.485,
+    "low": 43.04
+  },
   "dew_point": 24.35,
   "humidity": 0.55,
   "cloud_cover": 0.47,

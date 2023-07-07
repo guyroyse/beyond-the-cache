@@ -11,9 +11,11 @@
   "longitude": -80.45451,
   "location": "-80.45451,33.04536",
   "location_details": "Hwy 61 about half way between Canady and Givehans, near Edisto River.",
-  "temperature_high": 83.11,
-  "temperature_mid": 75.565,
-  "temperature_low": 68.02,
+  "temperature": {
+    "high": 83.11,
+    "mid": 75.565,
+    "low": 68.02
+  },
   "dew_point": 63.18,
   "humidity": 0.7,
   "cloud_cover": 0.19,

@@ -11,9 +11,11 @@
   "longitude": -89.09732,
   "location": "-89.09732,38.68707",
   "location_details": "Aprox. one mile northeast of the old Fairman meat processing plant on the east side of Illinois 51 North.",
-  "temperature_high": 85.96,
-  "temperature_mid": 72.55,
-  "temperature_low": 59.14,
+  "temperature": {
+    "high": 85.96,
+    "mid": 72.55,
+    "low": 59.14
+  },
   "dew_point": 54.63,
   "humidity": 0.59,
   "cloud_cover": 0.25,

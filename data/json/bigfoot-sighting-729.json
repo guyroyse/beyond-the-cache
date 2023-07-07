@@ -11,9 +11,11 @@
   "longitude": -81.9233,
   "location": "-81.9233,29.19395",
   "location_details": "Florida, U.S The nearest town was Lynne, in Ocala National Forest. The nearest road was Highway 40 I was at Half Moon Lake camping area in Ocala National Forest",
-  "temperature_high": 90.48,
-  "temperature_mid": 82.765,
-  "temperature_low": 75.05,
+  "temperature": {
+    "high": 90.48,
+    "mid": 82.765,
+    "low": 75.05
+  },
   "dew_point": 73.03,
   "humidity": 0.76,
   "cloud_cover": 0.26,

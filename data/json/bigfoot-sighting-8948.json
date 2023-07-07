@@ -11,9 +11,11 @@
   "longitude": -123.5834,
   "location": "-123.5834,44.8458",
   "location_details": "Rugged canyons and thick cover at the time.",
-  "temperature_high": 74.21,
-  "temperature_mid": 65.16,
-  "temperature_low": 56.11,
+  "temperature": {
+    "high": 74.21,
+    "mid": 65.16,
+    "low": 56.11
+  },
   "dew_point": 43.21,
   "humidity": 0.62,
   "cloud_cover": 0.02,

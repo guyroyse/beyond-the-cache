@@ -11,9 +11,11 @@
   "longitude": -84.7802,
   "location": "-84.7802,41.9773",
   "location_details": "Largely wooded, farming community, this property is at western end of long wooded, swampy like area close to Indiana and Ohio borders, around 30 miles to each.",
-  "temperature_high": 72.41,
-  "temperature_mid": 63.985,
-  "temperature_low": 55.56,
+  "temperature": {
+    "high": 72.41,
+    "mid": 63.985,
+    "low": 55.56
+  },
   "dew_point": 36.7,
   "humidity": 0.47,
   "cloud_cover": 0.08,

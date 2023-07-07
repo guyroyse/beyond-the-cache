@@ -11,9 +11,11 @@
   "longitude": -121.2802,
   "location": "-121.2802,47.3178",
   "location_details": "Take the FR 4828 exit off I-90 and head north about 2 miles.  It was spotted BEFORE reaching the cabins and after passing some snowmobile turn-offs.",
-  "temperature_high": 61.72,
-  "temperature_mid": 55.09,
-  "temperature_low": 48.46,
+  "temperature": {
+    "high": 61.72,
+    "mid": 55.09,
+    "low": 48.46
+  },
   "dew_point": 38.68,
   "humidity": 0.59,
   "cloud_cover": 0.24,

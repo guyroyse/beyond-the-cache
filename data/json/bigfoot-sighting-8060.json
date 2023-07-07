@@ -11,9 +11,11 @@
   "longitude": -89.48666,
   "location": "-89.48666,36.09583",
   "location_details": "near the cross on lanes ferry hwy of of 51 hwy",
-  "temperature_high": 63.36,
-  "temperature_mid": 60.185,
-  "temperature_low": 57.01,
+  "temperature": {
+    "high": 63.36,
+    "mid": 60.185,
+    "low": 57.01
+  },
   "dew_point": 48.8,
   "humidity": 0.88,
   "cloud_cover": 0.86,

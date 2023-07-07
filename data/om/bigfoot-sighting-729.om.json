@@ -1,0 +1,35 @@
+{
+  "reportId": "729",
+  "title": "a daylight sighting by a family on a camping trip",
+  "date": "1997-07-25",
+  "timestamp": 869788800,
+  "observed": "My family and I were hiking on a nature walk in the forest. When we walked across a small bridge over a stream. We stopped to rest and i allowed my two sons to go explore. A few minutes later they returned panicing and told me there was a gorilla so i went to go check it out. When we got to where they lead us there was bigfoot nealing next to the stream drinking. It notest us standing there and ran off into the forest.",
+  "classification": "Class A",
+  "county": "Marion",
+  "state": "Florida",
+  "latitude": 29.19395,
+  "longitude": -81.9233,
+  "location": {
+    "longitude": -81.9233,
+    "latitude": 29.19395
+  },
+  "location_details": "Florida, U.S The nearest town was Lynne, in Ocala National Forest. The nearest road was Highway 40 I was at Half Moon Lake camping area in Ocala National Forest",
+  "temperature": {
+    "high": 90.48,
+    "mid": 82.765,
+    "low": 75.05
+  },
+  "dew_point": 73.03,
+  "humidity": 0.76,
+  "cloud_cover": 0.26,
+  "moon_phase": 0.7,
+  "precip_intensity": 0.0062,
+  "precip_probability": 0.71,
+  "precip_type": "rain",
+  "pressure": 1017.85,
+  "summary": "Humid and partly cloudy throughout the day.",
+  "uv_index": 10,
+  "visibility": 9.25,
+  "wind_bearing": 192,
+  "wind_speed": 4.32
+}

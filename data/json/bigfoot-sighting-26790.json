@@ -11,9 +11,11 @@
   "longitude": -95.70296,
   "location": "-95.70296,38.76635",
   "location_details": "The town of Scrantons old water supply. It used to be called Scranton Lake. East of the City of Scranton. I believe the Lake is now privately owned.",
-  "temperature_high": 94.64,
-  "temperature_mid": 81.235,
-  "temperature_low": 67.83,
+  "temperature": {
+    "high": 94.64,
+    "mid": 81.235,
+    "low": 67.83
+  },
   "dew_point": 60.64,
   "humidity": 0.51,
   "cloud_cover": 0.08,

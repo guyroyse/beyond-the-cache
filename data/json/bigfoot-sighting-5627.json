@@ -11,9 +11,11 @@
   "longitude": -112.702,
   "location": "-112.702,46.83285",
   "location_details": "COMING FROM AVON (SPELLING MAY NOT BE CORRECT. TURN AT DIRT ROAD TO DALTON MOUNTIAN. ALMOST AT THE TOP OF THE MOUNTIAN IS A DIRT ROAD TO THE RIGHT, WITH A METAL GATE. GO THROUGH THE GATE UNTIL YOU COME WHERE THE ROAD FORKS OVER A CREEK.ALMOST IN FORNT OF YOU WILL BE AN THE REMAINS OF AN OLD CABIN.TURN RIGHT. WE WERE CAMPED UP ABOUT 150 FT. ON THE LEFT. WE WERE IN A PICKUP WITH CAMPER.",
-  "temperature_high": 77.08,
-  "temperature_mid": 61.39,
-  "temperature_low": 45.7,
+  "temperature": {
+    "high": 77.08,
+    "mid": 61.39,
+    "low": 45.7
+  },
   "dew_point": 42.82,
   "humidity": 0.51,
   "cloud_cover": 0.56,

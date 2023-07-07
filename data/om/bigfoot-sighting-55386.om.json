@@ -1,0 +1,35 @@
+{
+  "reportId": "55386",
+  "title": "Witness recalls possible nighttime sighting near Sparland",
+  "date": "2016-08-16",
+  "timestamp": 1471305600,
+  "observed": "My mother and I had a possible sighting back in about 1974. We used to watch for my step dad to come back from deer hunting. Depending on the moon light, we could see him coming down from the woods. One night my mom said that he was coming. We went outside and we both thought we seen him walking to the house. Mom walked out to meet him. I stayed on the back porch and watched. It was probably 9pm or so. What ever it was just stopped and stood there. Then it went back into the woods fast. Mom ran back inside the house with me by the wrist. She locked the doors and loaded a shotgun. My step dad eventually got home. Whatever that was walked on 2 legs. It was not my step dad. We live just outside Sparland, Illinois.",
+  "classification": "Class B",
+  "county": "Marshall",
+  "state": "Illinois",
+  "latitude": 41.02524,
+  "longitude": -89.45454,
+  "location": {
+    "longitude": -89.45454,
+    "latitude": 41.02524
+  },
+  "location_details": "Family still lives on farm near Sparland",
+  "temperature": {
+    "high": 83.93,
+    "mid": 75.675,
+    "low": 67.42
+  },
+  "dew_point": 67.63,
+  "humidity": 0.79,
+  "cloud_cover": 0.17,
+  "moon_phase": 0.44,
+  "precip_intensity": 0.0009,
+  "precip_probability": 0.59,
+  "precip_type": "rain",
+  "pressure": 1017.79,
+  "summary": "Partly cloudy in the afternoon.",
+  "uv_index": 7,
+  "visibility": 8.6,
+  "wind_bearing": 284,
+  "wind_speed": 2.64
+}

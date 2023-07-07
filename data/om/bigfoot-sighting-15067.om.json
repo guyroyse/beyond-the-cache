@@ -1,0 +1,35 @@
+{
+  "reportId": "15067",
+  "title": "Brief daylight sighting by hunter near Silver Creek Falls State Park",
+  "date": "1995-10-15",
+  "timestamp": 813715200,
+  "observed": "Hunting in the woods, I saw what I at first thought was a deer but it turned out to be an elk (rare to spot in the area). Out of nowhere, it took off running ... that's when I saw a large animal take off and run about 50 feet beyond the elk. It was about 300 feet from me and I pulled my rifle up on it to see it with the scope and was able to follow it just long enough to see that it looked to be dark brownish with what looked to be possible moss on it. I headed over to where it was and saw what spooked both it and the elk ... a group of 3 hunters were walking about. I asked them if they saw anything and they said no. I told them I think I just saw a bigfoot - they laughed. I chatted with them a couple minutes, then walked over the area that the bigfoot ran. Other than just some bent grass there was nothing until I came to the base of an old growth tree. There looked to be a single part of a foot print ... It was just the front half of the foot and it looked to have just the  ball under the big toe and the big toe and the next two. It was about 3 inches deep and the big toe looked to be about 4 times bigger than mine.",
+  "classification": "Class A",
+  "county": "Marion",
+  "state": "Oregon",
+  "latitude": 44.915,
+  "longitude": -122.585,
+  "location": {
+    "longitude": -122.585,
+    "latitude": 44.915
+  },
+  "location_details": "About 10 miles up above Silver Falls State Park, way back in logging area. There are many roads with a lot of overgrown forest land along with many old growth trees.",
+  "temperature": {
+    "high": 69.01,
+    "mid": 62.475,
+    "low": 55.94
+  },
+  "dew_point": 49.09,
+  "humidity": 0.77,
+  "cloud_cover": 0.61,
+  "moon_phase": 0.72,
+  "precip_intensity": 0.0003,
+  "precip_probability": 0.57,
+  "precip_type": "rain",
+  "pressure": 1014.17,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 7.53,
+  "wind_bearing": 195,
+  "wind_speed": 5.44
+}

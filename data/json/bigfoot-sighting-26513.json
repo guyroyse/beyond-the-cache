@@ -11,9 +11,11 @@
   "longitude": -87.91833,
   "location": "-87.91833,30.7113",
   "location_details": "traveling south on hwy 138 from bayminette cross over hwy 225 at the cross roads now your on hurricane rd., stay right at the fork and you will run right into the landing. The little white house where the sighting occurred was torn down and a new house was built. it stands on the right hand side of the road just before you go around the curve and down the hill to the landing.",
-  "temperature_high": 86.5,
-  "temperature_mid": 76.375,
-  "temperature_low": 66.25,
+  "temperature": {
+    "high": 86.5,
+    "mid": 76.375,
+    "low": 66.25
+  },
   "dew_point": 67.59,
   "humidity": 0.73,
   "cloud_cover": 0.46,

@@ -1,0 +1,35 @@
+{
+  "reportId": "16248",
+  "title": "Possible vocalization heard by fisherman at Monksville Reservoir",
+  "date": "2007-01-15",
+  "timestamp": 1168819200,
+  "observed": "I was fishing from the south boat ramp at Monksville Reservoir in Ringwood, New Jersey in August 2000.  It was about 2:00 AM - 2:30 AM.  I was fishing from shore when I heard a scream-wail from behind me, on the far side of the gravel parking lot. It sounded kind of like an elk bugle, but not really.  When I found this website, listened to the Washington state recordings, it was almost exactly as I remember it. I ran to my truck, threw my pole in the bed and bolted. When I spoke about what happened the next day to one of the road foremen, who is a 'Ramapough Indian', he immediately said it was probably Old Red Eye.",
+  "classification": "Class B",
+  "county": "Passaic",
+  "state": "New Jersey",
+  "latitude": 41.1445,
+  "longitude": -74.29085,
+  "location": {
+    "longitude": -74.29085,
+    "latitude": 41.1445
+  },
+  "location_details": "Ringwood Ave, south boat ramp to Monksville Reservior, just norht of the dam.  Easy to locate on Google Earth.",
+  "temperature": {
+    "high": 42.75,
+    "mid": 36.96,
+    "low": 31.17
+  },
+  "dew_point": 37.9,
+  "humidity": 0.91,
+  "cloud_cover": 0.94,
+  "moon_phase": 0.88,
+  "precip_intensity": 0.003,
+  "precip_probability": 0.72,
+  "precip_type": "rain",
+  "pressure": 1015.36,
+  "summary": "Foggy until evening.",
+  "uv_index": 1,
+  "visibility": 3.18,
+  "wind_bearing": 55,
+  "wind_speed": 2.89
+}

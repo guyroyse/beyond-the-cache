@@ -11,9 +11,11 @@
   "longitude": -118.1806,
   "location": "-118.1806,40.52737",
   "location_details": "You can see the mountain from on the outskirt's of town. You can basicaly see the peak of the mountain that the sighting occured.",
-  "temperature_high": 39.48,
-  "temperature_mid": 34.73,
-  "temperature_low": 29.98,
+  "temperature": {
+    "high": 39.48,
+    "mid": 34.73,
+    "low": 29.98
+  },
   "dew_point": 24.11,
   "humidity": 0.65,
   "cloud_cover": 0.8,

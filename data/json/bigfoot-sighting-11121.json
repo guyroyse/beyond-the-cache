@@ -11,9 +11,11 @@
   "longitude": -89.34285,
   "location": "-89.34285,41.86395",
   "location_details": "Creek, lot of forest and hills. lot of kind of mushrooms, berries and plants.",
-  "temperature_high": 79.86,
-  "temperature_mid": 68.88,
-  "temperature_low": 57.9,
+  "temperature": {
+    "high": 79.86,
+    "mid": 68.88,
+    "low": 57.9
+  },
   "dew_point": 58.66,
   "humidity": 0.71,
   "cloud_cover": 0.23,

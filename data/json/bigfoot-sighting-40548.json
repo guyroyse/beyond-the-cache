@@ -11,9 +11,11 @@
   "longitude": -94.32079,
   "location": "-94.32079,37.91544",
   "location_details": "About ten miles North east of Nevada, Missouri.",
-  "temperature_high": 81.75,
-  "temperature_mid": 66.51,
-  "temperature_low": 51.27,
+  "temperature": {
+    "high": 81.75,
+    "mid": 66.51,
+    "low": 51.27
+  },
   "dew_point": 48.18,
   "humidity": 0.52,
   "cloud_cover": 0.08,

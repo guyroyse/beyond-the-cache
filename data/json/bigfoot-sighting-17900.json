@@ -11,9 +11,11 @@
   "longitude": -92.83521,
   "location": "-92.83521,46.3725",
   "location_details": "South of Sturgeon Lake",
-  "temperature_high": 26.38,
-  "temperature_mid": 24.285,
-  "temperature_low": 22.19,
+  "temperature": {
+    "high": 26.38,
+    "mid": 24.285,
+    "low": 22.19
+  },
   "dew_point": 15.93,
   "humidity": 0.75,
   "cloud_cover": 0.84,

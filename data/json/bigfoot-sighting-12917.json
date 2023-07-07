@@ -11,9 +11,11 @@
   "longitude": -123.85,
   "location": "-123.85,41.65",
   "location_details": "There  is a small concrete bridge just off Hwy 199 at Hiouchi which is between the Oregon Tunnel and Crescent City,CA. If you are travelling north on 199 going towards Oregon the bridge and road would be to your right.This paved road goes for many miles south of the Hwy. I heard some people refer to this road as the road which was supposed to have been made into a super highway.I think they were just putting me on about that.",
-  "temperature_high": 60.66,
-  "temperature_mid": 49.69,
-  "temperature_low": 38.72,
+  "temperature": {
+    "high": 60.66,
+    "mid": 49.69,
+    "low": 38.72
+  },
   "dew_point": 47.93,
   "humidity": 0.81,
   "cloud_cover": 0.58,

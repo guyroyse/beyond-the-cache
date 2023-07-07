@@ -11,9 +11,11 @@
   "longitude": -112.19,
   "location": "-112.19,36.74",
   "location_details": "montain road wall to wall plenty of tall ever green pine",
-  "temperature_high": 66.19,
-  "temperature_mid": 49.31,
-  "temperature_low": 32.43,
+  "temperature": {
+    "high": 66.19,
+    "mid": 49.31,
+    "low": 32.43
+  },
   "dew_point": 15.7,
   "humidity": 0.3,
   "cloud_cover": 0.02,

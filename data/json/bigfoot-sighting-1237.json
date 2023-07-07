@@ -11,9 +11,11 @@
   "longitude": -105.4917,
   "location": "-105.4917,38.93333",
   "location_details": "One mile North of Eleven Mile Reservoir on Park County Rd #92",
-  "temperature_high": 76.25,
-  "temperature_mid": 66.44,
-  "temperature_low": 56.63,
+  "temperature": {
+    "high": 76.25,
+    "mid": 66.44,
+    "low": 56.63
+  },
   "dew_point": 49.75,
   "humidity": 0.65,
   "cloud_cover": 0.49,

@@ -11,9 +11,11 @@
   "longitude": -118.4333,
   "location": "-118.4333,34.6167",
   "location_details": "Going North from Santa Clarita, get onto the San Francisquito Canyon Rd. for approximately fifteen miles, then take the dirt road on the left which would be the South Portal Canyon Rd. which is just a couple miles before you get to the Green Valley turn off. Take the dirt road (it’s a fire road that leads to Grass Mountain) for about 3/4 of a mile. You will pass an old church camp on the right...keep going. Start looking for two old mine shafts...one on the right and the other on the left. You are now in the right area.",
-  "temperature_high": 71.68,
-  "temperature_mid": 60.41,
-  "temperature_low": 49.14,
+  "temperature": {
+    "high": 71.68,
+    "mid": 60.41,
+    "low": 49.14
+  },
   "dew_point": 38.8,
   "humidity": 0.46,
   "cloud_cover": 0.03,

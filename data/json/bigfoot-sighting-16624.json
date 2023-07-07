@@ -11,9 +11,11 @@
   "longitude": -122.7875,
   "location": "-122.7875,45.11259",
   "location_details": "We are a quiet, rural neighborhood located south of Aurora, OR. Our neighborhood is rural/semi-rural surrounded by a lot of orchards and farms that stretch all the way down to Silver Falls to the south, the Cascades to the east and to the Coast Range to the west. We live on a small lake.  The scream was coming from an area just on the north shore of the lake.",
-  "temperature_high": 51.72,
-  "temperature_mid": 44.845,
-  "temperature_low": 37.97,
+  "temperature": {
+    "high": 51.72,
+    "mid": 44.845,
+    "low": 37.97
+  },
   "dew_point": 43.72,
   "humidity": 0.82,
   "cloud_cover": 0.77,

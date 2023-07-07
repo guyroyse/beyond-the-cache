@@ -1,0 +1,35 @@
+{
+  "reportId": "11986",
+  "title": "Daylight sighting by guide and two tourists at Lake Shasta Caverns",
+  "date": "2001-03-15",
+  "timestamp": 984614400,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Shasta",
+  "state": "California",
+  "latitude": 40.7974,
+  "longitude": -122.278,
+  "location": {
+    "longitude": -122.278,
+    "latitude": 40.7974
+  },
+  "location_details": "At Lake Shasta Caverns, take tour/boat across lake then up mountain to Cavern entrance, look off to the ravine in front of you and look for skid trail of large proportion",
+  "temperature": {
+    "high": 54.95,
+    "mid": 45.84,
+    "low": 36.73
+  },
+  "dew_point": 35.12,
+  "humidity": 0.66,
+  "cloud_cover": 0.48,
+  "moon_phase": 0.72,
+  "precip_intensity": 0.0003,
+  "precip_probability": 0.2,
+  "precip_type": "rain",
+  "pressure": 1019.1,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 3,
+  "visibility": 9.7,
+  "wind_bearing": 292,
+  "wind_speed": 2.09
+}

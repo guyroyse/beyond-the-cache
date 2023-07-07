@@ -11,9 +11,11 @@
   "longitude": -84.10373,
   "location": "-84.10373,42.17291",
   "location_details": "It was off Sharron Valley Road where the river is at on the north side of the road about a good mile back into the area.",
-  "temperature_high": 47.47,
-  "temperature_mid": 44.425,
-  "temperature_low": 41.38,
+  "temperature": {
+    "high": 47.47,
+    "mid": 44.425,
+    "low": 41.38
+  },
   "dew_point": 31.67,
   "humidity": 0.6,
   "cloud_cover": 0.74,

@@ -11,9 +11,11 @@
   "longitude": -116.8415,
   "location": "-116.8415,48.74915",
   "location_details": "Above Lionhead Park boundary, left side bridge, left side road just below the rocks",
-  "temperature_high": 42.97,
-  "temperature_mid": 38.635,
-  "temperature_low": 34.3,
+  "temperature": {
+    "high": 42.97,
+    "mid": 38.635,
+    "low": 34.3
+  },
   "dew_point": 36.6,
   "humidity": 0.87,
   "cloud_cover": 0.57,

@@ -11,9 +11,11 @@
   "longitude": -92.3104,
   "location": "-92.3104,31.6825",
   "location_details": "on a pipeline and on a gravel road near Georgetown",
-  "temperature_high": 73.33,
-  "temperature_mid": 62.425,
-  "temperature_low": 51.52,
+  "temperature": {
+    "high": 73.33,
+    "mid": 62.425,
+    "low": 51.52
+  },
   "dew_point": 43.46,
   "humidity": 0.63,
   "cloud_cover": 0.02,

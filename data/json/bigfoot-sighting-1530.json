@@ -11,9 +11,11 @@
   "longitude": -111.8861,
   "location": "-111.8861,46.76472",
   "location_details": "along the eastern shore of the Missouri River about 3/4 mile below Hauser Dam, northeast of Helena",
-  "temperature_high": 79.47,
-  "temperature_mid": 63.815,
-  "temperature_low": 48.16,
+  "temperature": {
+    "high": 79.47,
+    "mid": 63.815,
+    "low": 48.16
+  },
   "dew_point": 45.51,
   "humidity": 0.57,
   "cloud_cover": 0.22,

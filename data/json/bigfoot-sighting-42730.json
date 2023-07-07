@@ -11,9 +11,11 @@
   "longitude": -90.53175,
   "location": "-90.53175,38.92993",
   "location_details": "It was on the Calhoun side of the Mississippi River heading towards Brussels. From the ferry you would come to a curve that has an exit to go either back towards the river or towards Golden Eagle, you head back towards Golden Eagle about 1/4-1/2 of a mile.",
-  "temperature_high": 75.06,
-  "temperature_mid": 57.78,
-  "temperature_low": 40.5,
+  "temperature": {
+    "high": 75.06,
+    "mid": 57.78,
+    "low": 40.5
+  },
   "dew_point": 35.46,
   "humidity": 0.42,
   "cloud_cover": 0.09,

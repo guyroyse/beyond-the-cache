@@ -11,9 +11,11 @@
   "longitude": -122.4076,
   "location": "-122.4076,45.8911",
   "location_details": "It's the first drive way on the right on Rotschy road; it's a long drive way, you can park at the gate and walk NW about 1/2 mile.",
-  "temperature_high": 42.62,
-  "temperature_mid": 33.95,
-  "temperature_low": 25.28,
+  "temperature": {
+    "high": 42.62,
+    "mid": 33.95,
+    "low": 25.28
+  },
   "dew_point": 17.34,
   "humidity": 0.48,
   "cloud_cover": 0.24,

@@ -11,9 +11,11 @@
   "longitude": -77.98756,
   "location": "-77.98756,42.24542",
   "location_details": "Going out of Belmont, towards Alfred, after the hill just after the left turn to go down Baker Valley Rd.",
-  "temperature_high": 38.48,
-  "temperature_mid": 31.48,
-  "temperature_low": 24.48,
+  "temperature": {
+    "high": 38.48,
+    "mid": 31.48,
+    "low": 24.48
+  },
   "dew_point": 22.17,
   "humidity": 0.79,
   "cloud_cover": 0.71,

@@ -11,9 +11,11 @@
   "longitude": -121.3815,
   "location": "-121.3815,43.94225",
   "location_details": "Just north of lava butte there are a few forest roads that turn west off Hy.97, The area is crisscrossed with logging roads, however this is not a large piece of forest, as it is bourderd by the Hy. on the east, the lava flow on the south and west and Deschutes River woods on the north. This was on the west side of green Butte. This is A small hill easy to find on the maps.",
-  "temperature_high": 82.51,
-  "temperature_mid": 67.395,
-  "temperature_low": 52.28,
+  "temperature": {
+    "high": 82.51,
+    "mid": 67.395,
+    "low": 52.28
+  },
   "dew_point": 48.71,
   "humidity": 0.55,
   "cloud_cover": 0.7,

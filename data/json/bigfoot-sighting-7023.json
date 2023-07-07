@@ -11,9 +11,11 @@
   "longitude": -82.83425,
   "location": "-82.83425,38.02825",
   "location_details": "About four miles from Blaine. I can't remember the road number, but I could take someone back to the exact spot.",
-  "temperature_high": 51.25,
-  "temperature_mid": 39.085,
-  "temperature_low": 26.92,
+  "temperature": {
+    "high": 51.25,
+    "mid": 39.085,
+    "low": 26.92
+  },
   "dew_point": 43.12,
   "humidity": 0.89,
   "cloud_cover": 0.88,

@@ -11,9 +11,11 @@
   "longitude": -120.718,
   "location": "-120.718,47.8323",
   "location_details": "the camp sight sits in the forest about 3-4 miles from the main highway",
-  "temperature_high": 45.94,
-  "temperature_mid": 43.27,
-  "temperature_low": 40.6,
+  "temperature": {
+    "high": 45.94,
+    "mid": 43.27,
+    "low": 40.6
+  },
   "dew_point": 40.53,
   "humidity": 0.88,
   "cloud_cover": 0.43,

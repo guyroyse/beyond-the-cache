@@ -11,9 +11,11 @@
   "longitude": -80.915,
   "location": "-80.915,39.355",
   "location_details": "At Pennsboro, WV follow 74 North for approximately 4 miles.",
-  "temperature_high": 91.09,
-  "temperature_mid": 79.335,
-  "temperature_low": 67.58,
+  "temperature": {
+    "high": 91.09,
+    "mid": 79.335,
+    "low": 67.58
+  },
   "dew_point": 65.26,
   "humidity": 0.72,
   "cloud_cover": 0.21,

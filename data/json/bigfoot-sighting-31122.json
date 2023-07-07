@@ -11,9 +11,11 @@
   "longitude": -81.7624,
   "location": "-81.7624,30.0809",
   "location_details": "250 yards west of the train tressel on the north bank.  Only access is by boat or to walk the tracks, which is highly illegal.",
-  "temperature_high": 78.22,
-  "temperature_mid": 68.07,
-  "temperature_low": 57.92,
+  "temperature": {
+    "high": 78.22,
+    "mid": 68.07,
+    "low": 57.92
+  },
   "dew_point": 62.11,
   "humidity": 0.83,
   "cloud_cover": 0.22,

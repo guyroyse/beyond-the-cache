@@ -11,9 +11,11 @@
   "longitude": -118.4102,
   "location": "-118.4102,48.95876",
   "location_details": "Just south of Canadian Border",
-  "temperature_high": 88.94,
-  "temperature_mid": 77.215,
-  "temperature_low": 65.49,
+  "temperature": {
+    "high": 88.94,
+    "mid": 77.215,
+    "low": 65.49
+  },
   "dew_point": 48.76,
   "humidity": 0.46,
   "cloud_cover": 0.59,

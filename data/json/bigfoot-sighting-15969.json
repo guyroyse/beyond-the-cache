@@ -11,9 +11,11 @@
   "longitude": -80.616,
   "location": "-80.616,40.725",
   "location_details": "I'm sorry, but it's been a rather fruitless search online for the bridletrail map. I know they have a pamphlet with the trails but I haven't found it online. So I'll try to describe how to get to the point. You follow orange trail until you come to large opening that leads to a section of the creek. across from the opening you can see high cliffs. Cross it and you come to a large island, which you go right off of into a small trickle of the creek and onto a rather stony bed. Which you cross another creek to a forested area full of hemlocks. There is (or was, I haven't gotten down there this year) an old tree with a phone set in the middle. If you see that, you're on the trail. You just follow the trail until you come to a fork. In front of you is a straight path, usually mowed, stating no tresspassing. The right is a trail I've never really been on, and the left is the trail to the pines. Naturally you want to go left. Go through the white pines, and when you come out of them there should be an old log lying on its side right in your line of sight. That would be the place.",
-  "temperature_high": 39.15,
-  "temperature_mid": 29.265,
-  "temperature_low": 19.38,
+  "temperature": {
+    "high": 39.15,
+    "mid": 29.265,
+    "low": 19.38
+  },
   "dew_point": 15.03,
   "humidity": 0.67,
   "cloud_cover": 0.68,

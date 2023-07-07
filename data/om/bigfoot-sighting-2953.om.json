@@ -1,0 +1,35 @@
+{
+  "reportId": "2953",
+  "title": "2 witnesses see a BF at night in the headlights",
+  "date": "2001-08-07",
+  "timestamp": 997142400,
+  "observed": "While driving home with my mother at 01:12 hours, on Tuesday, August 07, 2001, in Washtenaw County, Michigan.  My Mother and I observed a large hairy creature kneeling on the north side of Geddes Road, (edited). The creature was not a bear and closely resembled an ape like human form, covered with dark brown hair, but lighter in the facial area, with broad shoulders.  The head seemed to be part of the shoulder area with no neck.  The area around the head had longer hair in the back. After passing the creature, my Mom turned the car around and headed back westbound on Geddes Road, but the creature had fled north into the wooded area.",
+  "classification": "Class A",
+  "county": "Washtenaw",
+  "state": "Michigan",
+  "latitude": 42.30472,
+  "longitude": -83.60472,
+  "location": {
+    "longitude": -83.60472,
+    "latitude": 42.30472
+  },
+  "location_details": "(edited)",
+  "temperature": {
+    "high": 93.99,
+    "mid": 83.135,
+    "low": 72.28
+  },
+  "dew_point": 70.49,
+  "humidity": 0.67,
+  "cloud_cover": 0.16,
+  "moon_phase": 0.6,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.62,
+  "precip_type": "rain",
+  "pressure": 1018.38,
+  "summary": "Humid throughout the day and partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 7,
+  "visibility": 9.45,
+  "wind_bearing": 267,
+  "wind_speed": 8.04
+}

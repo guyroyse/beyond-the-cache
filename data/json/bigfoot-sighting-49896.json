@@ -11,9 +11,11 @@
   "longitude": -119.2654,
   "location": "-119.2654,38.04679",
   "location_details": "Virginia Lakes Rd.",
-  "temperature_high": 71.41,
-  "temperature_mid": 57.545,
-  "temperature_low": 43.68,
+  "temperature": {
+    "high": 71.41,
+    "mid": 57.545,
+    "low": 43.68
+  },
   "dew_point": 40.97,
   "humidity": 0.59,
   "cloud_cover": 0.04,

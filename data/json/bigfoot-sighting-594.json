@@ -11,9 +11,11 @@
   "longitude": -80.21025,
   "location": "-80.21025,26.08285",
   "location_details": "Davie, Broward County, 1 mile north of Orange Drive, and about 1 mile east of Hiatus Road. Sighting occured from a cow pasture, viewed \"something\" from across canal, near pumping house at the edge of an orange grove.",
-  "temperature_high": 92.73,
-  "temperature_mid": 83.985,
-  "temperature_low": 75.24,
+  "temperature": {
+    "high": 92.73,
+    "mid": 83.985,
+    "low": 75.24
+  },
   "dew_point": 74.89,
   "humidity": 0.81,
   "cloud_cover": 0.81,

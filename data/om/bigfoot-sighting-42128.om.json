@@ -1,0 +1,34 @@
+{
+  "reportId": "42128",
+  "title": "Residents hear possible activity near Linden",
+  "date": "2013-09-15",
+  "timestamp": 1379203200,
+  "observed": "Tonight, while on the porch, my better half and myself heard an odd vocal sound.  Then there was a tree crash.  I used a spotlight and checked out the surrounding area and found nothing.  So, just figured a tree fell, no big deal.  Approximately 10 minutes later a LARGE crash from, what I assume to be, a tree was heard further down the road.  I again used  my spotlight and saw nothing.  We sat on the porch for a bit longer and heard rustling off in the woods.  We decided to go inside.",
+  "classification": "Class B",
+  "county": "Warren",
+  "state": "Virginia",
+  "latitude": 38.89625,
+  "longitude": -78.1268,
+  "location": {
+    "longitude": -78.1268,
+    "latitude": 38.89625
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 77.34,
+    "mid": 68.565,
+    "low": 59.79
+  },
+  "dew_point": 52.22,
+  "humidity": 0.76,
+  "cloud_cover": 0,
+  "moon_phase": 0.36,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1021.72,
+  "summary": "Clear throughout the day.",
+  "uv_index": 7,
+  "visibility": 9.05,
+  "wind_bearing": 214,
+  "wind_speed": 3.34
+}

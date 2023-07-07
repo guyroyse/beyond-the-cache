@@ -11,9 +11,11 @@
   "longitude": -80.98849,
   "location": "-80.98849,26.1699",
   "location_details": "It was in a clearing just south of the highway. It was behind a canal and a fence that lines the highway so access would probably tricky.",
-  "temperature_high": 85.48,
-  "temperature_mid": 78.725,
-  "temperature_low": 71.97,
+  "temperature": {
+    "high": 85.48,
+    "mid": 78.725,
+    "low": 71.97
+  },
   "dew_point": 67.6,
   "humidity": 0.7,
   "cloud_cover": 0.46,

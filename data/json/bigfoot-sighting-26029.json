@@ -11,9 +11,11 @@
   "longitude": -82.56786,
   "location": "-82.56786,34.45025",
   "location_details": "Flooded valley duke power nuclear power plant Very sparse population, heavy forest.",
-  "temperature_high": 87,
-  "temperature_mid": 77.72,
-  "temperature_low": 68.44,
+  "temperature": {
+    "high": 87,
+    "mid": 77.72,
+    "low": 68.44
+  },
   "dew_point": 66.68,
   "humidity": 0.68,
   "cloud_cover": 0.55,

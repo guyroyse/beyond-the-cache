@@ -1,0 +1,35 @@
+{
+  "reportId": "20940",
+  "title": "Security guards have nighttime sightings outside Jacksonville",
+  "date": "2000-08-01",
+  "timestamp": 965088000,
+  "observed": "about 8 or 9 years ago, when i was working as a patrol offficer for a company here in jacksonville florida, a friend of mine was in a building that was backed up next to a large area of woods.  he said that he saw something standing next to a pine tree. i told him that i would be there in about 10 or 15 minutes. i told him that i was in the woods chasing some poachers out. he said to come to the back side of the building and i did. i told him on the radio that i was back there and he told me to put on my spotlight and when i did , i heard a noise that i will never forget. i saw something running past the trees, it was tall brown and hairy and was running fast. i then got the hell out of there and went to see my friend in that building. he asked me if i heard that noise and i said oh hell yes. we then went to where it was standing and about 9 feet up was a broken branch from that pine tree. the branch was at least 5 or 6 inches in diameter and it was clearly pulled out. last night on the radio i heard that same scream. i tried to call but the line was always busy on coast to coast.",
+  "classification": "Class A",
+  "county": "Duval",
+  "state": "Florida",
+  "latitude": 30.23693,
+  "longitude": -81.54172,
+  "location": {
+    "longitude": -81.54172,
+    "latitude": 30.23693
+  },
+  "location_details": "Off I-95. The area sits between Southside Blvd. to the west. J.Turner Butler Blvd. to the north. Gate Parkway to the east and 9-A St. Johns Bluff Road to south.",
+  "temperature": {
+    "high": 87.9,
+    "mid": 80.82,
+    "low": 73.74
+  },
+  "dew_point": 73.68,
+  "humidity": 0.79,
+  "cloud_cover": 0.28,
+  "moon_phase": 0.06,
+  "precip_intensity": 0.0028,
+  "precip_probability": 0.58,
+  "precip_type": "rain",
+  "pressure": 1018.85,
+  "summary": "Humid and partly cloudy throughout the day.",
+  "uv_index": 9,
+  "visibility": 8.69,
+  "wind_bearing": 140,
+  "wind_speed": 7.15
+}

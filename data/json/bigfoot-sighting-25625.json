@@ -11,9 +11,11 @@
   "longitude": -110.4829,
   "location": "-110.4829,34.0425",
   "location_details": "Following BIA 12 up past the high school football field pavement comes to an end, about 50 yards from the pavement there is a small rarely traveled road off to the right. Near the \"mouth\" of that road is where I found the \"tracks.\"",
-  "temperature_high": 66.57,
-  "temperature_mid": 49.7,
-  "temperature_low": 32.83,
+  "temperature": {
+    "high": 66.57,
+    "mid": 49.7,
+    "low": 32.83
+  },
   "dew_point": 18.75,
   "humidity": 0.37,
   "cloud_cover": 0.08,

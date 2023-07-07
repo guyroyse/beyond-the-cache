@@ -11,9 +11,11 @@
   "longitude": -85.16238,
   "location": "-85.16238,34.05198",
   "location_details": "Old Rockmart Rd between Rome and Cedartown Ga off of Hwy 101 and Hwy 278.",
-  "temperature_high": 84.23,
-  "temperature_mid": 77.675,
-  "temperature_low": 71.12,
+  "temperature": {
+    "high": 84.23,
+    "mid": 77.675,
+    "low": 71.12
+  },
   "dew_point": 71.73,
   "humidity": 0.82,
   "cloud_cover": 0.3,

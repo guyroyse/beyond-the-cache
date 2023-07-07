@@ -11,9 +11,11 @@
   "longitude": -90.21339,
   "location": "-90.21339,36.57869",
   "location_details": "if you look at the location of chaonia landing you'll note it sits in the middle of three points of land surrounded by the waters of lake wappapello. these two creatures were across the water from each other trying to find a path back together. eventually they went off in the direction they came continueing to call to each other.",
-  "temperature_high": 64.8,
-  "temperature_mid": 61.935,
-  "temperature_low": 59.07,
+  "temperature": {
+    "high": 64.8,
+    "mid": 61.935,
+    "low": 59.07
+  },
   "dew_point": 45.96,
   "humidity": 0.79,
   "cloud_cover": 0.45,

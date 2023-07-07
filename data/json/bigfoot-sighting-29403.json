@@ -11,9 +11,11 @@
   "longitude": -86.9803,
   "location": "-86.9803,36.0917",
   "location_details": "Take Charlotte Pike/HWY 70 westbound out of Nashville toward Memphis. Drive approximately 10 or 15 miles. The location of the sighting will be on your right, about a mile before HWY 70 intersects HWY 70 South.",
-  "temperature_high": 67.75,
-  "temperature_mid": 54.905,
-  "temperature_low": 42.06,
+  "temperature": {
+    "high": 67.75,
+    "mid": 54.905,
+    "low": 42.06
+  },
   "dew_point": 36.74,
   "humidity": 0.64,
   "cloud_cover": 0.32,

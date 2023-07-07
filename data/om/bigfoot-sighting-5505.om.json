@@ -1,0 +1,35 @@
+{
+  "reportId": "5505",
+  "title": "Rural Oregon resident sees a bigfoot look into the window",
+  "date": "2002-12-17",
+  "timestamp": 1040083200,
+  "observed": "I heard something funny while running my computer. Out the back window --- I saw a bigfoot looking at me!! --- I said hello (to him?) but he just turned away and went out toward the field. An update from John (12/20/02)--I went around the place and did find a footprint on the bank behind the house. It was pointing toword the house and I took a tape and it was 16\" long with it being 6/7\" wide and on the heel. I could see dermal ridges. (John was encouraged to cast the track. -tp) I also asked the neighbors if thay heard/seen anything. One said they had heard the same weird voices, like a talking, but not making any sense.",
+  "classification": "Class A",
+  "county": "Umatilla",
+  "state": "Oregon",
+  "latitude": 45.46571,
+  "longitude": -118.875,
+  "location": {
+    "longitude": -118.875,
+    "latitude": 45.46571
+  },
+  "location_details": "It was here at the house.",
+  "temperature": {
+    "high": 41.87,
+    "mid": 34.595,
+    "low": 27.32
+  },
+  "dew_point": 28.54,
+  "humidity": 0.8,
+  "cloud_cover": 0.23,
+  "moon_phase": 0.43,
+  "precip_intensity": 0.0008,
+  "precip_probability": 0.32,
+  "precip_type": "rain",
+  "pressure": 1004.55,
+  "summary": "Partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 1,
+  "visibility": 9.8,
+  "wind_bearing": 175,
+  "wind_speed": 3.25
+}

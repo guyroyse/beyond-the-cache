@@ -11,9 +11,11 @@
   "longitude": -83.69085,
   "location": "-83.69085,34.68319",
   "location_details": "my backyard",
-  "temperature_high": 84.36,
-  "temperature_mid": 77.88,
-  "temperature_low": 71.4,
+  "temperature": {
+    "high": 84.36,
+    "mid": 77.88,
+    "low": 71.4
+  },
   "dew_point": 70.31,
   "humidity": 0.83,
   "cloud_cover": 0.63,

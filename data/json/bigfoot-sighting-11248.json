@@ -11,9 +11,11 @@
   "longitude": -82.41861,
   "location": "-82.41861,41.0672",
   "location_details": "South of New London  close to SR 60.",
-  "temperature_high": 82.54,
-  "temperature_mid": 73.115,
-  "temperature_low": 63.69,
+  "temperature": {
+    "high": 82.54,
+    "mid": 73.115,
+    "low": 63.69
+  },
   "dew_point": 65.78,
   "humidity": 0.72,
   "cloud_cover": 0.43,

@@ -11,9 +11,11 @@
   "longitude": -90.24295,
   "location": "-90.24295,42.82445",
   "location_details": "Around mile marker 36 on Hwy 151 southbound.",
-  "temperature_high": 35.08,
-  "temperature_mid": 30.455,
-  "temperature_low": 25.83,
+  "temperature": {
+    "high": 35.08,
+    "mid": 30.455,
+    "low": 25.83
+  },
   "dew_point": 21.35,
   "humidity": 0.83,
   "cloud_cover": 0.04,

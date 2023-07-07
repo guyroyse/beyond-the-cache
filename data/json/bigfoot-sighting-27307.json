@@ -11,9 +11,11 @@
   "longitude": -96.76199,
   "location": "-96.76199,33.81435",
   "location_details": "West on FM987 10 miles outside Pottsboro Texas, near Mill Creek Marina",
-  "temperature_high": 88.49,
-  "temperature_mid": 81.1,
-  "temperature_low": 73.71,
+  "temperature": {
+    "high": 88.49,
+    "mid": 81.1,
+    "low": 73.71
+  },
   "dew_point": 70.05,
   "humidity": 0.72,
   "cloud_cover": 0.35,

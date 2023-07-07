@@ -11,9 +11,11 @@
   "longitude": -92.61493,
   "location": "-92.61493,33.14663",
   "location_details": "South of El Dorado, AR on Hwy 167 there is an oil well location about 300 yards off the highway to the east.  I parked at this location and continued into the bottom/swamp for another 1/2 mile or so.",
-  "temperature_high": 53.9,
-  "temperature_mid": 48.11,
-  "temperature_low": 42.32,
+  "temperature": {
+    "high": 53.9,
+    "mid": 48.11,
+    "low": 42.32
+  },
   "dew_point": 48.45,
   "humidity": 0.9,
   "cloud_cover": 0.91,

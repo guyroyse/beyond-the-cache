@@ -11,9 +11,11 @@
   "longitude": -89.95824,
   "location": "-89.95824,40.5634",
   "location_details": "Drive east of Canton Lake on E Middle Lake Rd. Turn right onto Wilson Rd and then left onto N. Martin Rd.",
-  "temperature_high": 58.28,
-  "temperature_mid": 42.78,
-  "temperature_low": 27.28,
+  "temperature": {
+    "high": 58.28,
+    "mid": 42.78,
+    "low": 27.28
+  },
   "dew_point": 47.56,
   "humidity": 0.92,
   "cloud_cover": 0.9,

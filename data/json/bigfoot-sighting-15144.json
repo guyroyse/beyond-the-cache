@@ -11,9 +11,11 @@
   "longitude": -73.91649,
   "location": "-73.91649,41.38084",
   "location_details": "Rt 9 to snake hill road, 3rd private road 200 yard in.",
-  "temperature_high": 68.88,
-  "temperature_mid": 60.77,
-  "temperature_low": 52.66,
+  "temperature": {
+    "high": 68.88,
+    "mid": 60.77,
+    "low": 52.66
+  },
   "dew_point": 46.01,
   "humidity": 0.71,
   "cloud_cover": 0.09,

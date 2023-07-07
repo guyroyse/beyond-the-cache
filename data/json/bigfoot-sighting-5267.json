@@ -11,9 +11,11 @@
   "longitude": -81.62379,
   "location": "-81.62379,41.23638",
   "location_details": "South of State Route 303 and east of I-77.",
-  "temperature_high": 57.98,
-  "temperature_mid": 50.165,
-  "temperature_low": 42.35,
+  "temperature": {
+    "high": 57.98,
+    "mid": 50.165,
+    "low": 42.35
+  },
   "dew_point": 42.38,
   "humidity": 0.6,
   "cloud_cover": 0.55,

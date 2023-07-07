@@ -11,9 +11,11 @@
   "longitude": -121.6692,
   "location": "-121.6692,47.90079",
   "location_details": "Wallace Falls State Park.  Approximately 3 miles northeast of Highway 2.",
-  "temperature_high": 53.28,
-  "temperature_mid": 48.54,
-  "temperature_low": 43.8,
+  "temperature": {
+    "high": 53.28,
+    "mid": 48.54,
+    "low": 43.8
+  },
   "dew_point": 39.47,
   "humidity": 0.77,
   "cloud_cover": 0.8,

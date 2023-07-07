@@ -1,0 +1,35 @@
+{
+  "reportId": "1755",
+  "title": "Driver sees a tall (about 7-8ft), fur covered biped along roadside",
+  "date": "2000-10-15",
+  "timestamp": 971568000,
+  "observed": "Late Oct 2000, fall weather but jacket needed, about 1030-1100 pm, my wife and I were driving back home from her sister's house north of Donnelsville, driving south on Snider Rd.  Just as I came over the small bridge over the drainage ditch headed south toward the RR tracks, I saw a tall (about 7-8ft), large fur covered biped, standing about 15 ft east of the roadway near the tree line as if waiting to cross the street after we passed.  The fields are slightly lower than the roadway, and it's head was higher than mine in my old pickup that rides 6 ft high.  It was dark in color, broad shoulders, no neck, fur covered head to toe.  I didn't tell my wife until we were home because I did't want to scare her.  It sent shivers up and down my neck, and actually I felt sort of funny like something was strange before I actually got to the bridge, you know like something is going to happen or someone is watching you when you are alone in the woods.  I tried to look back through my mirrors but couldn't make out anything in the dark, even though there was a little moon-light.",
+  "classification": "Class A",
+  "county": "Clark",
+  "state": "Ohio",
+  "latitude": 39.86096,
+  "longitude": -83.96562,
+  "location": {
+    "longitude": -83.96562,
+    "latitude": 39.86096
+  },
+  "location_details": "(edited)",
+  "temperature": {
+    "high": 72.76,
+    "mid": 62.415,
+    "low": 52.07
+  },
+  "dew_point": 52.23,
+  "humidity": 0.69,
+  "cloud_cover": 0.76,
+  "moon_phase": 0.58,
+  "precip_intensity": 0.0045,
+  "precip_probability": 0.51,
+  "precip_type": "rain",
+  "pressure": 1019.02,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 8.05,
+  "wind_bearing": 205,
+  "wind_speed": 2.92
+}

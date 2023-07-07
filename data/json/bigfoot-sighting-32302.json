@@ -11,9 +11,11 @@
   "longitude": -83.48494,
   "location": "-83.48494,30.55044",
   "location_details": "private huting camp situated off Little Cat rd approximately twelve miles from Greenville",
-  "temperature_high": 64.1,
-  "temperature_mid": 50.925,
-  "temperature_low": 37.75,
+  "temperature": {
+    "high": 64.1,
+    "mid": 50.925,
+    "low": 37.75
+  },
   "dew_point": 36.98,
   "humidity": 0.69,
   "cloud_cover": 0.49,

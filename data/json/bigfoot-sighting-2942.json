@@ -11,9 +11,11 @@
   "longitude": -118.9592,
   "location": "-118.9592,37.65028",
   "location_details": "As you get off highway 395 to go to Mammoth Lakes, you will come to a stop light. Right before the stoplight, there is a campground on the right called Shady Rest Campground. We were in the group campground area.",
-  "temperature_high": 82.25,
-  "temperature_mid": 65.75,
-  "temperature_low": 49.25,
+  "temperature": {
+    "high": 82.25,
+    "mid": 65.75,
+    "low": 49.25
+  },
   "dew_point": 36.34,
   "humidity": 0.37,
   "cloud_cover": 0.05,

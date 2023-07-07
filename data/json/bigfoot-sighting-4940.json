@@ -11,9 +11,11 @@
   "longitude": -122.4275,
   "location": "-122.4275,46.5347",
   "location_details": "There was actually a highway closer than SR 12 but I don't know what it is called.  We put in on Riffe Lake @ Mossyrock State Park and ran all the way up the lake to Kosmos.  We were at a point in view of what is called the \"fishing bridge\" and there is a highway there.",
-  "temperature_high": 75.24,
-  "temperature_mid": 66.025,
-  "temperature_low": 56.81,
+  "temperature": {
+    "high": 75.24,
+    "mid": 66.025,
+    "low": 56.81
+  },
   "dew_point": 54.96,
   "humidity": 0.76,
   "cloud_cover": 0.35,

@@ -11,9 +11,11 @@
   "longitude": -83.5556,
   "location": "-83.5556,40.04792",
   "location_details": "Southwest of Mechanicsburg off of State Route 187",
-  "temperature_high": 64.15,
-  "temperature_mid": 60.935,
-  "temperature_low": 57.72,
+  "temperature": {
+    "high": 64.15,
+    "mid": 60.935,
+    "low": 57.72
+  },
   "dew_point": 57.55,
   "humidity": 0.89,
   "cloud_cover": 0.98,

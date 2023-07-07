@@ -11,9 +11,11 @@
   "longitude": -121.07,
   "location": "-121.07,37.475",
   "location_details": "It was on Apricot ave. about half mile from the San Joaquin river.",
-  "temperature_high": 79.35,
-  "temperature_mid": 68.695,
-  "temperature_low": 58.04,
+  "temperature": {
+    "high": 79.35,
+    "mid": 68.695,
+    "low": 58.04
+  },
   "dew_point": 50.18,
   "humidity": 0.5,
   "cloud_cover": 0.2,

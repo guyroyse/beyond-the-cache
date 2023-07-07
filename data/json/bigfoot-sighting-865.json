@@ -11,9 +11,11 @@
   "longitude": -119.2119,
   "location": "-119.2119,37.23389",
   "location_details": "Occurred on Forest Road 80, on the road to Lake Florence, about 10 miles north of Huntington Lake.",
-  "temperature_high": 47.81,
-  "temperature_mid": 43.28,
-  "temperature_low": 38.75,
+  "temperature": {
+    "high": 47.81,
+    "mid": 43.28,
+    "low": 38.75
+  },
   "dew_point": 37.39,
   "humidity": 0.8,
   "cloud_cover": 0.76,

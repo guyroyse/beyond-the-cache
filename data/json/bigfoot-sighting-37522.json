@@ -11,9 +11,11 @@
   "longitude": -88.9813,
   "location": "-88.9813,39.8732",
   "location_details": "1403 Highland Place, Decatur, IL. Our property backed up to an undeveloped part of Garmen Park.  Behind our property was a large field, and there was a creek running through the wooded area S. of the field.  That thicker woods led west along the creek, as we were barely inside the city limits where we lived.",
-  "temperature_high": 63.23,
-  "temperature_mid": 55.81,
-  "temperature_low": 48.39,
+  "temperature": {
+    "high": 63.23,
+    "mid": 55.81,
+    "low": 48.39
+  },
   "dew_point": 44.18,
   "humidity": 0.77,
   "cloud_cover": 0.73,

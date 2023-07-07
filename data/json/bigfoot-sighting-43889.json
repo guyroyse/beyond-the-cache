@@ -11,9 +11,11 @@
   "longitude": -84.21035,
   "location": "-84.21035,45.22039",
   "location_details": "Bear Den Lake Road and M 33.",
-  "temperature_high": 57.81,
-  "temperature_mid": 45.32,
-  "temperature_low": 32.83,
+  "temperature": {
+    "high": 57.81,
+    "mid": 45.32,
+    "low": 32.83
+  },
   "dew_point": 40.93,
   "humidity": 0.76,
   "cloud_cover": 0.24,

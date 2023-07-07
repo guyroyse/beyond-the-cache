@@ -11,9 +11,11 @@
   "longitude": -85.0409,
   "location": "-85.0409,32.0538",
   "location_details": "Rood Creek Park just south of Florence Marina.",
-  "temperature_high": 90.27,
-  "temperature_mid": 81.09,
-  "temperature_low": 71.91,
+  "temperature": {
+    "high": 90.27,
+    "mid": 81.09,
+    "low": 71.91
+  },
   "dew_point": 65.12,
   "humidity": 0.62,
   "cloud_cover": 0.29,

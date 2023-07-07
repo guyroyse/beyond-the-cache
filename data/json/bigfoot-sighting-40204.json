@@ -11,9 +11,11 @@
   "longitude": -83.89001,
   "location": "-83.89001,44.2725",
   "location_details": "location was: Whittemore Area off of W. M-55",
-  "temperature_high": 32.83,
-  "temperature_mid": 32.22,
-  "temperature_low": 31.61,
+  "temperature": {
+    "high": 32.83,
+    "mid": 32.22,
+    "low": 31.61
+  },
   "dew_point": 29.15,
   "humidity": 0.86,
   "cloud_cover": 0.89,

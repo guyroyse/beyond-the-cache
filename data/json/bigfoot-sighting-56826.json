@@ -11,9 +11,11 @@
   "longitude": -100.6767,
   "location": "-100.6767,35.93985",
   "location_details": "Directions will be given to investigator.",
-  "temperature_high": 88.83,
-  "temperature_mid": 76.81,
-  "temperature_low": 64.79,
+  "temperature": {
+    "high": 88.83,
+    "mid": 76.81,
+    "low": 64.79
+  },
   "dew_point": 65.31,
   "humidity": 0.7,
   "cloud_cover": 0.1,

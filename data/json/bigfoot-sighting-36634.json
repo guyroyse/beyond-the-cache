@@ -11,9 +11,11 @@
   "longitude": -82.71979,
   "location": "-82.71979,29.4694",
   "location_details": "From I 75 exit at SR 27 exit. Proceed to the west thru Williston, thru Bronson, to junction of 339",
-  "temperature_high": 87.37,
-  "temperature_mid": 80.105,
-  "temperature_low": 72.84,
+  "temperature": {
+    "high": 87.37,
+    "mid": 80.105,
+    "low": 72.84
+  },
   "dew_point": 69.94,
   "humidity": 0.78,
   "cloud_cover": 0.32,

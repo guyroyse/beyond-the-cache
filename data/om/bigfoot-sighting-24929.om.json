@@ -1,0 +1,35 @@
+{
+  "reportId": "24929",
+  "title": "Husband and wife have a possible encounter in a KOA campground north of Crescent City",
+  "date": "2009-01-28",
+  "timestamp": 1233100800,
+  "observed": "We were on our long vacation from Missouri, in Crescent City, California, staying at the KOA campground. This was our second night at this campground. We were camped at site 401, way back in the isolated section of the campground, far from anyone. I had just finished cooking our supper on the portable propane barbeque pit, which was located on the picnic table. We both went inside to eat. During the time I was cooking, I set up a camp fire, but didn't light it yet. After we finished eating, I started the campfire. After the fire was burning for about 15 minutes, I kicked it into the fire pit from the grate. At that time my wife got a very strong feeling that we were being watched from behind our camper. She said it seemed to move (the feeling) from behind the trailer, from one end to the other. There were trees, and dense foliage behind the trailer. I started to look around with a flash light to see what it was, and after not finding anything, I started the car and plugged in the 12v spot light. Looking around for about 5 minutes, I thought I saw something move in the distance, behind a tree. This was in the opposite area from the trailer, where no one was camped at all. We both were shaken up, and went inside the trailer for the night. After 10 minutes my wife heard 2 whoops, coming from the area that I thought I saw something move at. She was in bed lying next to the window. I didn't hear the sound. One more thing to add, is that the night before we heard dogs bark in the distance, this night it was all quiet no dogs at all. The closet camper was about 100 feet away towards the main office. There was no smell.",
+  "classification": "Class B",
+  "county": "Del Norte",
+  "state": "California",
+  "latitude": 41.84998,
+  "longitude": -124.1417,
+  "location": {
+    "longitude": -124.1417,
+    "latitude": 41.84998
+  },
+  "location_details": "KOA campground located just off of Highway 101, 5 miles north of town.",
+  "temperature": {
+    "high": 52.95,
+    "mid": 47.485,
+    "low": 42.02
+  },
+  "dew_point": 42.41,
+  "humidity": 0.87,
+  "cloud_cover": 0.56,
+  "moon_phase": 0.08,
+  "precip_intensity": 0.0056,
+  "precip_probability": 0.89,
+  "precip_type": "rain",
+  "pressure": 1034.93,
+  "summary": "Mostly cloudy until afternoon.",
+  "uv_index": 2,
+  "visibility": 6.57,
+  "wind_bearing": 346,
+  "wind_speed": 3.58
+}

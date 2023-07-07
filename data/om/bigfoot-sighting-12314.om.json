@@ -1,0 +1,35 @@
+{
+  "reportId": "12314",
+  "title": "Evening worker hears vocalizations, smells strong odor in Big Thicket",
+  "date": "2005-08-14",
+  "timestamp": 1123977600,
+  "observed": "I [work] in Jasper County, Texas. On Thursday August 4, 2005, [in the early evening] I was walking [outdoors on company property surrounded by the Big Thicket]. There was some rustling in the underbrush about thirty yards off to the left side of the dirt road which I was travelling down. Shortly after hearing the rustling I began to smell what seemed like a mixture of a skunk and strong coffee mixed with kind of like a dead fish smell. At first I thought that it might have been some wild hogs bedding down for the evening, so I stopped to listen for anything that might have indicated piglets since wild sows are dangerous if they are protecting their young. After about thirty to forty-five seconds, the rustling around stopped. I couldn't see into the brush, but I felt like whatever was in there was watching me.  Not wanting to be the focus of a hog charge, I hollered in hopes that I would scare off whatever it was in the brush.  After not getting any response, I figured that whatever it was had left, so I resumed [what I was doing]. I had to go down to a gate and turn around. When I passed the spot where I had my encounter, I heard a whoo--whoo--whooping sound coming from behind me. It was quiet at first then it got louder as I got farther away. I was puzzled as to what could make that sound. I am an experienced deerhunter, and I have never heard that sound before. It sounded kind of like a howler monkey. In fact that's what I would have thought that it was if I didn't know any better. About two and a half hours later [at a different location] I smelled the same smell. I have smelled that smell there several times after dark. I would like for my specifics to be kept confidential, as well as my job title.",
+  "classification": "Class B",
+  "county": "Jasper",
+  "state": "Texas",
+  "latitude": 30.33778,
+  "longitude": -93.97194,
+  "location": {
+    "longitude": -93.97194,
+    "latitude": 30.33778
+  },
+  "location_details": "Edited at request of witness.",
+  "temperature": {
+    "high": 90.99,
+    "mid": 83.265,
+    "low": 75.54
+  },
+  "dew_point": 73.98,
+  "humidity": 0.78,
+  "cloud_cover": 0.21,
+  "moon_phase": 0.31,
+  "precip_intensity": 0.0214,
+  "precip_probability": 0.73,
+  "precip_type": "rain",
+  "pressure": 1016.16,
+  "summary": "Rain starting in the afternoon, continuing until evening.",
+  "uv_index": 9,
+  "visibility": 8.5,
+  "wind_bearing": 162,
+  "wind_speed": 5.72
+}

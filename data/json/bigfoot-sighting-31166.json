@@ -11,9 +11,11 @@
   "longitude": -93,
   "location": "-93,47.5",
   "location_details": "call me if you wish",
-  "temperature_high": 74.25,
-  "temperature_mid": 63.24,
-  "temperature_low": 52.23,
+  "temperature": {
+    "high": 74.25,
+    "mid": 63.24,
+    "low": 52.23
+  },
   "dew_point": 62.68,
   "humidity": 0.87,
   "cloud_cover": 0.79,

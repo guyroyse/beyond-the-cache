@@ -11,9 +11,11 @@
   "longitude": -80.58182,
   "location": "-80.58182,25.76119",
   "location_details": "about 20 miles west of Broward County",
-  "temperature_high": 79.64,
-  "temperature_mid": 73.78,
-  "temperature_low": 67.92,
+  "temperature": {
+    "high": 79.64,
+    "mid": 73.78,
+    "low": 67.92
+  },
   "dew_point": 61.42,
   "humidity": 0.72,
   "cloud_cover": 0.13,

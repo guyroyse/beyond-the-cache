@@ -11,9 +11,11 @@
   "longitude": -121.51,
   "location": "-121.51,47.0466",
   "location_details": "Staying in a campground 3 to 4 miles up from Twentyeight Mile creek, on the next creek, 3/4 miles up it at the end of the road. The roads have change since then and there is a detour in the area. Divide ridge, possibly Burns creek.",
-  "temperature_high": 75.19,
-  "temperature_mid": 62.125,
-  "temperature_low": 49.06,
+  "temperature": {
+    "high": 75.19,
+    "mid": 62.125,
+    "low": 49.06
+  },
   "dew_point": 47.15,
   "humidity": 0.63,
   "cloud_cover": 0.41,

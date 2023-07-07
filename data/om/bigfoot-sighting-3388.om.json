@@ -1,0 +1,33 @@
+{
+  "reportId": "3388",
+  "title": "Father and sons hear screams while deerhunting near Gay",
+  "date": "2001-11-15",
+  "timestamp": 1005782400,
+  "observed": "It was opening morning of firearm deer season, November 15. Approximately 8:30 a.m. It was unusually warm for this time of year. I was sitting in my deer stand roughly a mile to a mile and a half away from my dad who was also in his deer stand. It was really quiet and still that morning. There was a really musty-damp smell that rose in the air. Shortly after that there was a scream that resembled a womans scream, but not quite. That happened twice within a few minutes. Made the hair on the back of my neck stand up. Shortly after that the musty smell had left. Never seeing anything out of the ordinary, I stayed in my stand and finished out the morning hunt. Upon picking my dad up for lunch that day, he had asked me if I had heard the screams also. He described them to me the same way. NO other sounds were heard that day. The very next morning, my brother about 3 miles away said he had hear the same noise. Never did find out what it was exactly. It was however, like nothing I've ever heard before.",
+  "classification": "Class B",
+  "county": "Keweenaw",
+  "state": "Michigan",
+  "latitude": 47.232,
+  "longitude": -88.16361,
+  "location": {
+    "longitude": -88.16361,
+    "latitude": 47.232
+  },
+  "location_details": "near  Gay, Michigan",
+  "temperature": {
+    "high": 57.95,
+    "mid": 46.55,
+    "low": 35.15
+  },
+  "dew_point": 46.32,
+  "humidity": 0.8,
+  "cloud_cover": 0.36,
+  "moon_phase": 0.02,
+  "precip_type": "rain",
+  "pressure": 1011.17,
+  "summary": "Mostly cloudy in the morning.",
+  "uv_index": 1,
+  "visibility": 6.69,
+  "wind_bearing": 274,
+  "wind_speed": 8.42
+}

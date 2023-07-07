@@ -11,9 +11,11 @@
   "longitude": -80.71875,
   "location": "-80.71875,37.9208",
   "location_details": "Located near Sam Black exit, Jones Road Meadow Bluff.",
-  "temperature_high": 76.83,
-  "temperature_mid": 69.25,
-  "temperature_low": 61.67,
+  "temperature": {
+    "high": 76.83,
+    "mid": 69.25,
+    "low": 61.67
+  },
   "dew_point": 60.73,
   "humidity": 0.82,
   "cloud_cover": 0.58,

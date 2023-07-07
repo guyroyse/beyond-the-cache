@@ -11,9 +11,11 @@
   "longitude": -94.11218,
   "location": "-94.11218,37.85524",
   "location_details": "Rt 54 eastbound just before right hand turn off toward mo rt 32",
-  "temperature_high": 47.87,
-  "temperature_mid": 43.19,
-  "temperature_low": 38.51,
+  "temperature": {
+    "high": 47.87,
+    "mid": 43.19,
+    "low": 38.51
+  },
   "dew_point": 42.23,
   "humidity": 0.92,
   "cloud_cover": 0.95,

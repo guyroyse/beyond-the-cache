@@ -11,9 +11,11 @@
   "longitude": -123.2182,
   "location": "-123.2182,47.49865",
   "location_details": "A logging road in Mason county.",
-  "temperature_high": 51.68,
-  "temperature_mid": 48.025,
-  "temperature_low": 44.37,
+  "temperature": {
+    "high": 51.68,
+    "mid": 48.025,
+    "low": 44.37
+  },
   "dew_point": 45.2,
   "humidity": 0.85,
   "cloud_cover": 0.9,

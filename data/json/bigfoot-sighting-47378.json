@@ -11,9 +11,11 @@
   "longitude": -82.74918,
   "location": "-82.74918,28.09538",
   "location_details": "3030 County Road 70, Palm Harbor.",
-  "temperature_high": 81.25,
-  "temperature_mid": 75.13,
-  "temperature_low": 69.01,
+  "temperature": {
+    "high": 81.25,
+    "mid": 75.13,
+    "low": 69.01
+  },
   "dew_point": 59.02,
   "humidity": 0.63,
   "cloud_cover": 0.81,

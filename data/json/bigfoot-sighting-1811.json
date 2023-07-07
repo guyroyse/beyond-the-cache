@@ -11,9 +11,11 @@
   "longitude": -84.42722,
   "location": "-84.42722,43.59611",
   "location_details": "Midland County.  Lee Township. South of M-20.",
-  "temperature_high": 62.78,
-  "temperature_mid": 59.315,
-  "temperature_low": 55.85,
+  "temperature": {
+    "high": 62.78,
+    "mid": 59.315,
+    "low": 55.85
+  },
   "dew_point": 50.43,
   "humidity": 0.84,
   "cloud_cover": 0.77,

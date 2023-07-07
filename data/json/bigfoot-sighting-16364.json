@@ -11,9 +11,11 @@
   "longitude": -122.0282,
   "location": "-122.0282,47.01562",
   "location_details": "If you google Wilkeson, Washington.follow SR165 to the right, and follow Carbon river road split untill you see the wide spot of the Carbon river just before Fairfax. There is a yellow gate that is locked most of the time. on the left hand side of road . just enough room to park with out blocking gate. This old logging dirt road takes off at 30 degrees split off of Carbon river road,looks like a doglegg really, if the gate was not in place. walk down this dirt road about an 1/8 of a mile down round the corner to a view spot where you get your first clear view of the river below.",
-  "temperature_high": 56.42,
-  "temperature_mid": 47.835,
-  "temperature_low": 39.25,
+  "temperature": {
+    "high": 56.42,
+    "mid": 47.835,
+    "low": 39.25
+  },
   "dew_point": 38.38,
   "humidity": 0.75,
   "cloud_cover": 0.63,

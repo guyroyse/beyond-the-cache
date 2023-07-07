@@ -11,9 +11,11 @@
   "longitude": -85.01929,
   "location": "-85.01929,33.91604",
   "location_details": "Directly behind our home in the woods",
-  "temperature_high": 48.87,
-  "temperature_mid": 39.17,
-  "temperature_low": 29.47,
+  "temperature": {
+    "high": 48.87,
+    "mid": 39.17,
+    "low": 29.47
+  },
   "dew_point": 27.4,
   "humidity": 0.55,
   "cloud_cover": 0.13,

@@ -11,9 +11,11 @@
   "longitude": -84.0415,
   "location": "-84.0415,44.59665",
   "location_details": "camp 2 mi east 33 3 mi s mio",
-  "temperature_high": 61.81,
-  "temperature_mid": 51.725,
-  "temperature_low": 41.64,
+  "temperature": {
+    "high": 61.81,
+    "mid": 51.725,
+    "low": 41.64
+  },
   "dew_point": 43.82,
   "humidity": 0.7,
   "cloud_cover": 0,

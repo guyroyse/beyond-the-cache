@@ -11,9 +11,11 @@
   "longitude": -79.16817,
   "location": "-79.16817,40.32247",
   "location_details": "camp fairfield",
-  "temperature_high": 77.26,
-  "temperature_mid": 63.425,
-  "temperature_low": 49.59,
+  "temperature": {
+    "high": 77.26,
+    "mid": 63.425,
+    "low": 49.59
+  },
   "dew_point": 46.36,
   "humidity": 0.6,
   "cloud_cover": 0.53,

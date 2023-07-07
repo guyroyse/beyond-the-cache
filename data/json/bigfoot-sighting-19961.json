@@ -11,9 +11,11 @@
   "longitude": -86.5367,
   "location": "-86.5367,46.4722",
   "location_details": "The sighting was approximately a third of the way down the trail as we walked in to Miner's Falls.  It was on the north side of the trail just up an incline behind a stand of four or five trees, maybe more.",
-  "temperature_high": 78.14,
-  "temperature_mid": 69.435,
-  "temperature_low": 60.73,
+  "temperature": {
+    "high": 78.14,
+    "mid": 69.435,
+    "low": 60.73
+  },
   "dew_point": 53.53,
   "humidity": 0.63,
   "cloud_cover": 0.03,

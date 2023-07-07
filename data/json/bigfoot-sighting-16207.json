@@ -11,9 +11,11 @@
   "longitude": -105.5596,
   "location": "-105.5596,36.19625",
   "location_details": "about 5 miles up forest rd 442 at the Gallegos peak area.",
-  "temperature_high": 74.57,
-  "temperature_mid": 60.215,
-  "temperature_low": 45.86,
+  "temperature": {
+    "high": 74.57,
+    "mid": 60.215,
+    "low": 45.86
+  },
   "dew_point": 26.49,
   "humidity": 0.31,
   "cloud_cover": 0.04,

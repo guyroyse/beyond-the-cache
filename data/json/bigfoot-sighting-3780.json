@@ -11,9 +11,11 @@
   "longitude": -123.3322,
   "location": "-123.3322,42.56805",
   "location_details": "Jump Off Joe Creek Road",
-  "temperature_high": 61.01,
-  "temperature_mid": 54.415,
-  "temperature_low": 47.82,
+  "temperature": {
+    "high": 61.01,
+    "mid": 54.415,
+    "low": 47.82
+  },
   "dew_point": 44.05,
   "humidity": 0.75,
   "cloud_cover": 0.39,

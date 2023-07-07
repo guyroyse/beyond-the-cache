@@ -11,9 +11,11 @@
   "longitude": -73.55858,
   "location": "-73.55858,41.87219",
   "location_details": "Cascade Mountain Rd, Amenia, NY",
-  "temperature_high": 45.95,
-  "temperature_mid": 44.38,
-  "temperature_low": 42.81,
+  "temperature": {
+    "high": 45.95,
+    "mid": 44.38,
+    "low": 42.81
+  },
   "dew_point": 26.34,
   "humidity": 0.58,
   "cloud_cover": 0.03,

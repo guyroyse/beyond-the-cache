@@ -1,0 +1,35 @@
+{
+  "reportId": "865",
+  "title": "Two 4-wheelers have night sighting above Huntington Lake",
+  "date": "1997-12-18",
+  "timestamp": 882403200,
+  "observed": "I was sitting here listening to you on coast to coast and thought I'd tell you about an insident that happened in dec of 97.  the location was in the sierra navada mountains about ten miles above huntington lake which is about 60 miles above fresno in central CA.  Myself and a frind were fourwheeling on light, snow covered roads at about two am. we came around a corner and we both saw something run across the road.  it had very long, shagy red hair and it was running on all fours.  something like a gorilla would when charging.  we only observed it cross the road when we apperently spooked it.  we are both outdoorsman and have seen bears and the like befor.  when it happened, we both simultaneously looked at each other said \"what the hell was that?\" and then said \"we better not tell anyone or they'll think were crazy!\"  I can't swear to what it was, but I'll swear it wasn't a bear.  this thing was the wrong color to be any kind of cat and it was to thin through the torso as compared to its overall size to be a bear and i suspect bears would have already been in hybernation.  the hair looked like it could have been 18 inches long, very shagy.  its body shape was like a giant human, not a cat or bear.  unfortunately the animal never turned its face toward us at all.",
+  "classification": "Class A",
+  "county": "Fresno",
+  "state": "California",
+  "latitude": 37.23389,
+  "longitude": -119.2119,
+  "location": {
+    "longitude": -119.2119,
+    "latitude": 37.23389
+  },
+  "location_details": "Occurred on Forest Road 80, on the road to Lake Florence, about 10 miles north of Huntington Lake.",
+  "temperature": {
+    "high": 47.81,
+    "mid": 43.28,
+    "low": 38.75
+  },
+  "dew_point": 37.39,
+  "humidity": 0.8,
+  "cloud_cover": 0.76,
+  "moon_phase": 0.66,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.53,
+  "precip_type": "rain",
+  "pressure": 1014.82,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 6.43,
+  "wind_bearing": 346,
+  "wind_speed": 3.82
+}

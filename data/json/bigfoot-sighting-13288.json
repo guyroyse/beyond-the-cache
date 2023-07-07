@@ -11,9 +11,11 @@
   "longitude": -78.82683,
   "location": "-78.82683,42.15947",
   "location_details": "New York State Land on Bucktooth Rd. & Sawmill Run Rd. in Napoli, NY.",
-  "temperature_high": 55.94,
-  "temperature_mid": 49.665,
-  "temperature_low": 43.39,
+  "temperature": {
+    "high": 55.94,
+    "mid": 49.665,
+    "low": 43.39
+  },
   "dew_point": 47.96,
   "humidity": 0.86,
   "cloud_cover": 0.89,

@@ -1,0 +1,35 @@
+{
+  "reportId": "21969",
+  "title": "Possible vocalization heard at dusk by bowhunter near Glennie",
+  "date": "2006-10-01",
+  "timestamp": 1159660800,
+  "observed": "This happened last year during bow season in michigan. I had walked a large loup on my friends property and came up to the swamp part of the small lake. I sat down then heard the most eerie scream i have ever heard and i am positive it was not a deer or bobcat. It was almost human like but i could feel the anger in the scream. i was probally 50 yards from the lake with heavy vegitation and trees between the lake and me and the scream came from inside the 50 yards. After the scream i stood up and heard what sounded like huge rocks being thrown into the lake. I got out of that area as quick as i could.",
+  "classification": "Class B",
+  "county": "Alcona",
+  "state": "Michigan",
+  "latitude": 44.56215,
+  "longitude": -83.78585,
+  "location": {
+    "longitude": -83.78585,
+    "latitude": 44.56215
+  },
+  "location_details": "55 to f30 then turn on bamfield",
+  "temperature": {
+    "high": 59.06,
+    "mid": 52,
+    "low": 44.94
+  },
+  "dew_point": 44.96,
+  "humidity": 0.8,
+  "cloud_cover": 0.49,
+  "moon_phase": 0.3,
+  "precip_intensity": 0.0004,
+  "precip_probability": 0.17,
+  "precip_type": "rain",
+  "pressure": 1015.09,
+  "summary": "Mostly cloudy until afternoon.",
+  "uv_index": 2,
+  "visibility": 8.2,
+  "wind_bearing": 277,
+  "wind_speed": 5.41
+}

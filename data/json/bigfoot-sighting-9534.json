@@ -11,9 +11,11 @@
   "longitude": -122.5541,
   "location": "-122.5541,43.296",
   "location_details": "Eagle Rock Campground. Plainly marked on AAA map of Douglas County.",
-  "temperature_high": 73.42,
-  "temperature_mid": 63.335,
-  "temperature_low": 53.25,
+  "temperature": {
+    "high": 73.42,
+    "mid": 63.335,
+    "low": 53.25
+  },
   "dew_point": 51.35,
   "humidity": 0.72,
   "cloud_cover": 0.25,

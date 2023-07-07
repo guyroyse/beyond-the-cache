@@ -11,9 +11,11 @@
   "longitude": -123.449,
   "location": "-123.449,42.39031",
   "location_details": "Redwood Hwy to Helms Road",
-  "temperature_high": 54.59,
-  "temperature_mid": 48.375,
-  "temperature_low": 42.16,
+  "temperature": {
+    "high": 54.59,
+    "mid": 48.375,
+    "low": 42.16
+  },
   "dew_point": 36.62,
   "humidity": 0.69,
   "cloud_cover": 0.48,

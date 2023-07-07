@@ -1,0 +1,35 @@
+{
+  "reportId": "1595",
+  "title": "Family sees an upright figure covered with black hair that walks across the road in front of their car",
+  "date": "1979-12-07",
+  "timestamp": 313372800,
+  "observed": "Upright figure covered in black hair walking across road 20 to 50 ft. in front of our car as we drove home. I did not see much, as I wasn't looking forward until my mother screamed. My mother claims the creature was like a hideous ape with arms dragging. Size: \"taller than your father\"; Note: My father is 6'9\".",
+  "classification": "Class A",
+  "county": "Pierce",
+  "state": "Washington",
+  "latitude": 47.3704,
+  "longitude": -122.782,
+  "location": {
+    "longitude": -122.782,
+    "latitude": 47.3704
+  },
+  "location_details": "West of Vaughn, south bound on Rocky Bay Point Road. Approx. .5 mile south of our house.",
+  "temperature": {
+    "high": 49.74,
+    "mid": 44.43,
+    "low": 39.12
+  },
+  "dew_point": 44.18,
+  "humidity": 0.89,
+  "cloud_cover": 0.92,
+  "moon_phase": 0.64,
+  "precip_intensity": 0.0009,
+  "precip_probability": 0.56,
+  "precip_type": "rain",
+  "pressure": 1021.47,
+  "summary": "Foggy overnight.",
+  "uv_index": 1,
+  "visibility": 6.62,
+  "wind_bearing": 82,
+  "wind_speed": 0.78
+}

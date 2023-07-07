@@ -11,9 +11,11 @@
   "longitude": -81.9107,
   "location": "-81.9107,36.76377",
   "location_details": "26485 Old Saltworks Rd. Meadowview, VA 24361 We are northeast of the intersection of Northridge and Old Saltworks Rd.",
-  "temperature_high": 54.74,
-  "temperature_mid": 42.745,
-  "temperature_low": 30.75,
+  "temperature": {
+    "high": 54.74,
+    "mid": 42.745,
+    "low": 30.75
+  },
   "dew_point": 28.04,
   "humidity": 0.67,
   "cloud_cover": 0.01,

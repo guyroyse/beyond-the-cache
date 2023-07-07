@@ -11,9 +11,11 @@
   "longitude": -82.3948,
   "location": "-82.3948,28.14162",
   "location_details": "Cypress Creek nature preserve between interstates 275 and 75 near the apex where they meet.  The sighting was about a mile due west of Freedom High School.",
-  "temperature_high": 69.22,
-  "temperature_mid": 63.49,
-  "temperature_low": 57.76,
+  "temperature": {
+    "high": 69.22,
+    "mid": 63.49,
+    "low": 57.76
+  },
   "dew_point": 57.53,
   "humidity": 0.79,
   "cloud_cover": 0.2,

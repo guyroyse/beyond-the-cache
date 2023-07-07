@@ -11,9 +11,11 @@
   "longitude": -85.84489,
   "location": "-85.84489,38.73725",
   "location_details": "take I-65 to Austin IN go west on 256 turn left on Boatman Rd turn right on York street, fallow the road till it turns into gravel and then dead ends at the river in the middle of a field. It is the deep in the woods on the right",
-  "temperature_high": 54.19,
-  "temperature_mid": 50.55,
-  "temperature_low": 46.91,
+  "temperature": {
+    "high": 54.19,
+    "mid": 50.55,
+    "low": 46.91
+  },
   "dew_point": 34.87,
   "humidity": 0.7,
   "cloud_cover": 0.78,

@@ -1,0 +1,35 @@
+{
+  "reportId": "30006",
+  "title": "Hikers startled by encounter at remote cabin near Woodstock",
+  "date": "2002-02-16",
+  "timestamp": 1013817600,
+  "observed": "Two friends and I were backpacking on great north mountain in the winter of 2002. It was our second night and we reserved a stone cabin from the PATC, named sugar knob cabin, we had not seen anyone all day. There was an ice storm coming and we attributed it to that. We made a fire outside the cabin just before dusk while it was still nice out. We began to hear slow moving, very heavy footsteps walking around the perimeter of the location we were at. We thought it was a bear or a deer but it was clearly on two feet by the sounds it was making. We called out to see if it was a poacher or just someone walking around but no response was given. This is a pretty remote spot and definitely not very visited in the winter months. The walking sounds continued but because the sun was down by now we could not see too far into the woods. We all heard the walking sounds for quite a while and it really freaked us out so much so we abandoned the fire and pretty much locked ourselves into the cabin. All of us had a lot of outdoor experience and had backpacked a lot as well. We had never heard or experienced anything like this before. The sounds got closer once inside the cabin. It is a stone cabin so it is fairly well Insulated from noise. So whatever it was, was large. The footsteps seemed to stop and continue for maybe an hour or so. We made dinner inside and after we ate the footsteps were right next to the cabin, there was a window opposite the door with wood shutters on the blinds that were closed so I opened them expecting to see a person but we all witnessed a dark, very hairy large face looking at us about a foot outside the window. We were terrified, shaking and speechless. The creature took off after a few seconds of seeing us and vise versa. We never heard anymore sounds after that either. We stayed up all night, though just kind of standing guard. The next morning we awoke to ice everywhere and could not find any tracks or evidence of what we saw and heard. We hiked down the stony creek trail to the cars as fast as we could without getting hurt with the ice on the ground. There was a cabin journal at that time and we read it over that night after the incident and read several accounts that were similar to ours. We never stayed there again and this is the first time I have ever told this because I did not want people to think I was nuts or something.",
+  "classification": "Class A",
+  "county": "Shenandoah",
+  "state": "Virginia",
+  "latitude": 38.9766,
+  "longitude": -78.6205,
+  "location": {
+    "longitude": -78.6205,
+    "latitude": 38.9766
+  },
+  "location_details": "Sugar knob patc cabin on great north mountain on the boarder of va and wva",
+  "temperature": {
+    "high": 57.2,
+    "mid": 46.21,
+    "low": 35.22
+  },
+  "dew_point": 27.39,
+  "humidity": 0.46,
+  "cloud_cover": 0.38,
+  "moon_phase": 0.13,
+  "precip_intensity": 0.0021,
+  "precip_probability": 0.48,
+  "precip_type": "rain",
+  "pressure": 1011.49,
+  "summary": "Partly cloudy starting in the evening.",
+  "uv_index": 4,
+  "visibility": 9.78,
+  "wind_bearing": 264,
+  "wind_speed": 7.2
+}

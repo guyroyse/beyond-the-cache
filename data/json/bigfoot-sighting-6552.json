@@ -11,9 +11,11 @@
   "longitude": -109.4276,
   "location": "-109.4276,36.09081",
   "location_details": "on the Navajo Indian Reservation on the western edge of the Chuska mountains",
-  "temperature_high": 90.22,
-  "temperature_mid": 71.365,
-  "temperature_low": 52.51,
+  "temperature": {
+    "high": 90.22,
+    "mid": 71.365,
+    "low": 52.51
+  },
   "dew_point": 22.42,
   "humidity": 0.18,
   "cloud_cover": 0,

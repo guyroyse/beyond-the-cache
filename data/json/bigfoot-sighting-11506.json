@@ -11,9 +11,11 @@
   "longitude": -80.54177,
   "location": "-80.54177,41.91826",
   "location_details": "I-20 west from Erie, PA to West Springfield, PA. Goto Crayton Road.  Head north less than 1/4 mile on the west side of the road.",
-  "temperature_high": 58.74,
-  "temperature_mid": 48.075,
-  "temperature_low": 37.41,
+  "temperature": {
+    "high": 58.74,
+    "mid": 48.075,
+    "low": 37.41
+  },
   "dew_point": 39.6,
   "humidity": 0.79,
   "cloud_cover": 0.55,

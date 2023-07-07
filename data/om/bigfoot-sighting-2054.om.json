@@ -1,0 +1,35 @@
+{
+  "reportId": "2054",
+  "title": "Tracks found before Christmas, near Hendersonville",
+  "date": "2000-12-19",
+  "timestamp": 977184000,
+  "observed": "I submitted a report earlier on in the year and have already discussed this incident with a researcher (while we were talking about my first report), but I will submit this second report regardless. I was in my apartment one evening in December, 2000, around 7:30 in the evening.  We were having a snow storm and it was raging outside.  Suddenly my dog, who is normally pretty laid-back unless there is something weird going on, went absolutely NUTS and tried to break through my sliding glass door, barking, clawing and growling.  She is very gentle with people and loves just about everybody, so this clued me into the fact that there was probably an animal outside, which stuck me as unusual since she has never reacted like THAT to any animal; usually she woofs a little or gives curious little whines.  My brother looked at me and said, \"What is THAT all about?\"  I told him that I thought that there was probably an animal outside and not to worry about it. At about 10:00 in the evening I took my dog out to do her business.  As soon as we got to the yard I noticed very unusual tracks in the snow.  Unfortunately, it was pretty late and the snow had been blowing for 2 1/2 hours, so I could not decifer any particular features, toes nor boot sole patterns.  All I could see were footprint indents.  They were unusual because they were so huge, deep and spread apart.  Initially I thought that my neighbor's boyfriend was probably outside earlier in the evening, but then I realized that that would be ridiculous.  For one thing, his feet aren't that large, and the prints could have been from a size 14 or 15 shoe, and why in the world would he be walking around at night in the middle of a snowstorm?  For another thing, he is not THAT tall; I put my heavy hiking boot, woman's size 9, up next to the prints and they could have swallowed my boots 2 1/2 times.  I also mimicked the gait to see if I could guess-timate about how tall the individual was.  My legs had to spread 4-5 feet apart just to keep in step with the prints.  I also noticed that there was only one set of tracks going in one direction---from a deep part of the woods, across the lawn, and over a bank and into the woods again.  I deduced from the drifts that the prints had been made within two to three hours, exactly the same time my dog went nuts earlier in the evening.  I could have kicked myself for not checking it out when it happened.",
+  "classification": "Class B",
+  "county": "Henderson",
+  "state": "North Carolina",
+  "latitude": 35.36,
+  "longitude": -82.4831,
+  "location": {
+    "longitude": -82.4831,
+    "latitude": 35.36
+  },
+  "location_details": "My apartment complex is located on the side of a small mountain in Henderson county, on the outskirts of Hendersonville.  There are a lot of woods in the area and some houses and other apartment buildings.  My building is small (six units)and situated by itself.  There is a steep hill directly behind my building and directly in front of it. The building itself sits on a \"lip\" on the side of the mountain.",
+  "temperature": {
+    "high": 32.65,
+    "mid": 22.615,
+    "low": 12.58
+  },
+  "dew_point": 21.91,
+  "humidity": 0.75,
+  "cloud_cover": 0.89,
+  "moon_phase": 0.81,
+  "precip_intensity": 0.0049,
+  "precip_probability": 0.86,
+  "precip_type": "snow",
+  "pressure": 1011.97,
+  "summary": "Snow (< 1 in.) in the morning.",
+  "uv_index": 1,
+  "visibility": 6.77,
+  "wind_bearing": 325,
+  "wind_speed": 4.46
+}

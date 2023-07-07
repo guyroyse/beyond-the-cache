@@ -11,9 +11,11 @@
   "longitude": -119.4275,
   "location": "-119.4275,37.69639",
   "location_details": "It was a while ago, and I was running about 20 miles a day in the mountains, so \"western Clark Range\" is about as specific as I can be without a lot of conjecture.",
-  "temperature_high": 95.19,
-  "temperature_mid": 79.475,
-  "temperature_low": 63.76,
+  "temperature": {
+    "high": 95.19,
+    "mid": 79.475,
+    "low": 63.76
+  },
   "dew_point": 50.74,
   "humidity": 0.42,
   "cloud_cover": 0.06,

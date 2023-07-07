@@ -11,9 +11,11 @@
   "longitude": -123.1583,
   "location": "-123.1583,47.2641",
   "location_details": "Please do not contact the people at this location, or post very specific directions.  I asked their permission to monitor at their house, but I do not know their names.  I can tell you that I was situated just off SR 102.  The prison is to the west and Highway 101 is to the east.  The noises were coming from the direction of Highway 101.  Looking at a topo map there are several lakes north of SR102, west of Hwy 101.  I believe almost all the land is Simpson timber land with clear cuts/trees of several different heights.",
-  "temperature_high": 81.97,
-  "temperature_mid": 68.165,
-  "temperature_low": 54.36,
+  "temperature": {
+    "high": 81.97,
+    "mid": 68.165,
+    "low": 54.36
+  },
   "dew_point": 53.02,
   "humidity": 0.64,
   "cloud_cover": 0.07,

@@ -11,9 +11,11 @@
   "longitude": -122.7746,
   "location": "-122.7746,46.63477",
   "location_details": "Off Lucas Creek road. If you google map it as Senn Road, Chehalis, Washington it takes you to the road.",
-  "temperature_high": 77.81,
-  "temperature_mid": 65.005,
-  "temperature_low": 52.2,
+  "temperature": {
+    "high": 77.81,
+    "mid": 65.005,
+    "low": 52.2
+  },
   "dew_point": 50.9,
   "humidity": 0.62,
   "cloud_cover": 0.11,

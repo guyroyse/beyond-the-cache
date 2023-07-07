@@ -11,9 +11,11 @@
   "longitude": -73.34347,
   "location": "-73.34347,43.35086",
   "location_details": "Along the eastern shore of Lake George, north of the Narrows and south of Fox Island.  The object we saw was located at approximately 43 degrees 35.086 minutes north and 073 degrees 34.347 minutes west per a Google Earth view obtained on 5-5-2015.",
-  "temperature_high": 72.85,
-  "temperature_mid": 63.755,
-  "temperature_low": 54.66,
+  "temperature": {
+    "high": 72.85,
+    "mid": 63.755,
+    "low": 54.66
+  },
   "dew_point": 50.48,
   "humidity": 0.63,
   "cloud_cover": 0.04,

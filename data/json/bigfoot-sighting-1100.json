@@ -11,9 +11,11 @@
   "longitude": -94.2633,
   "location": "-94.2633,38.7437",
   "location_details": "Cass County, Missouri. Approx. 1 mile east of 7 Highway, 3 miles south of Pleasant Hill. Unknown distance south of gravel road.",
-  "temperature_high": 62.35,
-  "temperature_mid": 53.42,
-  "temperature_low": 44.49,
+  "temperature": {
+    "high": 62.35,
+    "mid": 53.42,
+    "low": 44.49
+  },
   "dew_point": 40.62,
   "humidity": 0.64,
   "cloud_cover": 0.58,

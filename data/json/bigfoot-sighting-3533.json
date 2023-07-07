@@ -11,9 +11,11 @@
   "longitude": -82.24155,
   "location": "-82.24155,39.47642",
   "location_details": "I am not at liberty to give details of the location as the incident occurred on my in-laws property. I don't have his permission  to use his name, nor do I have permission to allow people on his property, should they so desire. Additionally, my in-law is a high-ranking public official in a nearby town, and I am sure he wouldn't like the possible extra attention this story could bring.",
-  "temperature_high": 60.81,
-  "temperature_mid": 50.78,
-  "temperature_low": 40.75,
+  "temperature": {
+    "high": 60.81,
+    "mid": 50.78,
+    "low": 40.75
+  },
   "dew_point": 44.62,
   "humidity": 0.72,
   "cloud_cover": 0.52,

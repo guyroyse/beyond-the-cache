@@ -11,9 +11,11 @@
   "longitude": -118.6131,
   "location": "-118.6131,45.58982",
   "location_details": "Left lane of westbound lanes, near milemarker 222, before roadway goes through cut in rock and then crosses Patawa Creek, guardrail on left (downhill) side of left lane.  The area is known as Cabbage Hill - steep, winding roadway south of Pendleton, OR on Interstate-84.",
-  "temperature_high": 79.33,
-  "temperature_mid": 64.55,
-  "temperature_low": 49.77,
+  "temperature": {
+    "high": 79.33,
+    "mid": 64.55,
+    "low": 49.77
+  },
   "dew_point": 35.9,
   "humidity": 0.51,
   "cloud_cover": 0.04,

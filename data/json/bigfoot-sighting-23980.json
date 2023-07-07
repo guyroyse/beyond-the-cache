@@ -11,9 +11,11 @@
   "longitude": -81.3654,
   "location": "-81.3654,41.05931",
   "location_details": "It happened at the camp grounds that are closed. It used to be a swimming spot as well but the YMCA was taking care of it and they left so its closed.",
-  "temperature_high": 82.44,
-  "temperature_mid": 73.885,
-  "temperature_low": 65.33,
+  "temperature": {
+    "high": 82.44,
+    "mid": 73.885,
+    "low": 65.33
+  },
   "dew_point": 57.32,
   "humidity": 0.62,
   "cloud_cover": 0.14,

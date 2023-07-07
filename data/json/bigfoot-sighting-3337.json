@@ -11,9 +11,11 @@
   "longitude": -80.26915,
   "location": "-80.26915,35.2256",
   "location_details": "United States, state of North Carolina in Stanly County between the towns of Oakboro and Aquadale.  On Old School Road off Hwy 138",
-  "temperature_high": 57.12,
-  "temperature_mid": 46.495,
-  "temperature_low": 35.87,
+  "temperature": {
+    "high": 57.12,
+    "mid": 46.495,
+    "low": 35.87
+  },
   "dew_point": 35.05,
   "humidity": 0.68,
   "cloud_cover": 0.56,

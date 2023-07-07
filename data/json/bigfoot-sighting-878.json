@@ -11,9 +11,11 @@
   "longitude": -83.02854,
   "location": "-83.02854,40.15002",
   "location_details": "US RT. 23 about 2 mi. North of Franklin Co. and about 5 mi North of 270 outer belt for Columbus Highbanks Metro Park",
-  "temperature_high": 84.6,
-  "temperature_mid": 74.33,
-  "temperature_low": 64.06,
+  "temperature": {
+    "high": 84.6,
+    "mid": 74.33,
+    "low": 64.06
+  },
   "dew_point": 62.98,
   "humidity": 0.72,
   "cloud_cover": 0.51,

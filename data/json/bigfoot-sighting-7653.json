@@ -11,9 +11,11 @@
   "longitude": -102.3881,
   "location": "-102.3881,31.06278",
   "location_details": "West Texas Plain's there are some mountain's but no forest,about one hour drive from the nearest town.Pecos River is S\\W of the small town.",
-  "temperature_high": 40.93,
-  "temperature_mid": 36.83,
-  "temperature_low": 32.73,
+  "temperature": {
+    "high": 40.93,
+    "mid": 36.83,
+    "low": 32.73
+  },
   "dew_point": 32.07,
   "humidity": 0.86,
   "cloud_cover": 0.95,

@@ -11,9 +11,11 @@
   "longitude": -85.63835,
   "location": "-85.63835,44.16985",
   "location_details": "South of 46rd. Between 17rd and 21rd.",
-  "temperature_high": 76.12,
-  "temperature_mid": 69.005,
-  "temperature_low": 61.89,
+  "temperature": {
+    "high": 76.12,
+    "mid": 69.005,
+    "low": 61.89
+  },
   "dew_point": 51.25,
   "humidity": 0.59,
   "cloud_cover": 0.15,

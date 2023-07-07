@@ -11,9 +11,11 @@
   "longitude": -122.1301,
   "location": "-122.1301,46.3751",
   "location_details": "Goat mountain trail #217, 6 miles (I don't think it was that far) to Deadman's Lake. Southeast end of lake.",
-  "temperature_high": 64.23,
-  "temperature_mid": 59.08,
-  "temperature_low": 53.93,
+  "temperature": {
+    "high": 64.23,
+    "mid": 59.08,
+    "low": 53.93
+  },
   "dew_point": 53.75,
   "humidity": 0.84,
   "cloud_cover": 0.85,

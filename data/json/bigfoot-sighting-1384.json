@@ -11,9 +11,11 @@
   "longitude": -121.7569,
   "location": "-121.7569,47.5225",
   "location_details": "30 miles east of Seattle. A couple miles from town up the coalmine road, on what was called the Gates road.",
-  "temperature_high": 60.17,
-  "temperature_mid": 51.565,
-  "temperature_low": 42.96,
+  "temperature": {
+    "high": 60.17,
+    "mid": 51.565,
+    "low": 42.96
+  },
   "dew_point": 38.39,
   "humidity": 0.67,
   "cloud_cover": 0.59,

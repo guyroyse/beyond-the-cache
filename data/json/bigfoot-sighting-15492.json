@@ -11,9 +11,11 @@
   "longitude": -79.75644,
   "location": "-79.75644,35.30773",
   "location_details": "220south north of Candor,NC",
-  "temperature_high": 96.81,
-  "temperature_mid": 87.445,
-  "temperature_low": 78.08,
+  "temperature": {
+    "high": 96.81,
+    "mid": 87.445,
+    "low": 78.08
+  },
   "dew_point": 66.2,
   "humidity": 0.55,
   "cloud_cover": 0.54,

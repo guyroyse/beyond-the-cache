@@ -11,9 +11,11 @@
   "longitude": -120.2339,
   "location": "-120.2339,38.03898",
   "location_details": "Specific location available to BFRO researchers.",
-  "temperature_high": 78.8,
-  "temperature_mid": 62.905,
-  "temperature_low": 47.01,
+  "temperature": {
+    "high": 78.8,
+    "mid": 62.905,
+    "low": 47.01
+  },
   "dew_point": 46.41,
   "humidity": 0.57,
   "cloud_cover": 0.01,

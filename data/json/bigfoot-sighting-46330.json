@@ -11,9 +11,11 @@
   "longitude": -117.3395,
   "location": "-117.3395,34.28665",
   "location_details": "When we got there there was only two people...but when it started sprinkling they left ....my wife me and two daughters had a beach umbrella so we stayed and were the only people there",
-  "temperature_high": 83.22,
-  "temperature_mid": 75.275,
-  "temperature_low": 67.33,
+  "temperature": {
+    "high": 83.22,
+    "mid": 75.275,
+    "low": 67.33
+  },
   "dew_point": 55.18,
   "humidity": 0.54,
   "cloud_cover": 0,

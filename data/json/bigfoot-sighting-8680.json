@@ -11,9 +11,11 @@
   "longitude": -121.6444,
   "location": "-121.6444,45.5775",
   "location_details": "The event occurred at my grandparents' former orchard residence in the small town of Dee, Oregon.  My mom was born and raised in Dee, later moving to California as an adult.  My grandparents have been gone for over ten years now, and the orchard is now in possession of another owner (not known).  There is still someone living in this location, although the actual home has been replaced by a new structure.  The orchard still looks about the same.  The property is about an acre in area.",
-  "temperature_high": 94.18,
-  "temperature_mid": 75.95,
-  "temperature_low": 57.72,
+  "temperature": {
+    "high": 94.18,
+    "mid": 75.95,
+    "low": 57.72
+  },
   "dew_point": 54.27,
   "humidity": 0.49,
   "cloud_cover": 0,

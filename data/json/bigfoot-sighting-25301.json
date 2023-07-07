@@ -11,9 +11,11 @@
   "longitude": -79.4593,
   "location": "-79.4593,39.10023",
   "location_details": "I do not know the name of the road that leads to this area of the refuge, though it is easy to find. Simply turn left off of US Route 32 in front of the small shopping center clearly visible as you start to exit Davis, upon turning left continue on a straight path until you cross a small wooden bridge. After crossing the bridge stay on this road and it will lead directly to the Camp 70 parking area.",
-  "temperature_high": 58.46,
-  "temperature_mid": 44.145,
-  "temperature_low": 29.83,
+  "temperature": {
+    "high": 58.46,
+    "mid": 44.145,
+    "low": 29.83
+  },
   "dew_point": 35.53,
   "humidity": 0.59,
   "cloud_cover": 0.23,

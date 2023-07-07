@@ -11,9 +11,11 @@
   "longitude": -122.1694,
   "location": "-122.1694,46.9974",
   "location_details": "Flying Mt. Rainer.",
-  "temperature_high": 69.26,
-  "temperature_mid": 60.915,
-  "temperature_low": 52.57,
+  "temperature": {
+    "high": 69.26,
+    "mid": 60.915,
+    "low": 52.57
+  },
   "dew_point": 52.64,
   "humidity": 0.73,
   "cloud_cover": 0.63,

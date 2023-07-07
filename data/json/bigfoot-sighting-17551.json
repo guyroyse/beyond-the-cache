@@ -11,9 +11,11 @@
   "longitude": -93.06226,
   "location": "-93.06226,45.1836",
   "location_details": "A small lake north of the Twin Cities Metro Area. This lake contains a large wooded island, and a large track of marsh/swamp land near-by.  A nature park is located on the Western shore of the lake.",
-  "temperature_high": 41.46,
-  "temperature_mid": 34.705,
-  "temperature_low": 27.95,
+  "temperature": {
+    "high": 41.46,
+    "mid": 34.705,
+    "low": 27.95
+  },
   "dew_point": 26.07,
   "humidity": 0.83,
   "cloud_cover": 0.11,

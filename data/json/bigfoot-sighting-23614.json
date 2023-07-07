@@ -11,9 +11,11 @@
   "longitude": -122.1183,
   "location": "-122.1183,46.75468",
   "location_details": "I am not willing to give the exact location... but have returned there several times by myself and with a nephew... I return occasionally in July to look for prints along the river, as I believe that it could be a migratory route.  I keep the site private to prevent someone from \"planting tracks\" in case I find some (as where I look is a little remote).",
-  "temperature_high": 62.98,
-  "temperature_mid": 56.645,
-  "temperature_low": 50.31,
+  "temperature": {
+    "high": 62.98,
+    "mid": 56.645,
+    "low": 50.31
+  },
   "dew_point": 48.67,
   "humidity": 0.75,
   "cloud_cover": 0.83,

@@ -11,9 +11,11 @@
   "longitude": -81.303,
   "location": "-81.303,25.901",
   "location_details": "[Editor's note: The location details have been removed from this public posting because a BFRO expedition headed to this area in Feb. 2008.  The tracks shown below were found not far from where a End > Editor's note.]",
-  "temperature_high": 81.72,
-  "temperature_mid": 73.67,
-  "temperature_low": 65.62,
+  "temperature": {
+    "high": 81.72,
+    "mid": 73.67,
+    "low": 65.62
+  },
   "dew_point": 63.1,
   "humidity": 0.72,
   "cloud_cover": 0.24,

@@ -11,9 +11,11 @@
   "longitude": -94.44694,
   "location": "-94.44694,36.18333",
   "location_details": "Fairmount bridge",
-  "temperature_high": 63.69,
-  "temperature_mid": 52.21,
-  "temperature_low": 40.73,
+  "temperature": {
+    "high": 63.69,
+    "mid": 52.21,
+    "low": 40.73
+  },
   "dew_point": 30.41,
   "humidity": 0.45,
   "cloud_cover": 0.03,

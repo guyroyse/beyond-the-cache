@@ -11,9 +11,11 @@
   "longitude": -89.65926,
   "location": "-89.65926,39.83627",
   "location_details": "On Illinois Rt 4, between J David Jones and 8th Street exits on Veterans Parkway.",
-  "temperature_high": 89.06,
-  "temperature_mid": 80,
-  "temperature_low": 70.94,
+  "temperature": {
+    "high": 89.06,
+    "mid": 80,
+    "low": 70.94
+  },
   "dew_point": 67.48,
   "humidity": 0.68,
   "cloud_cover": 0.01,

@@ -111,82 +111,6 @@ sightingsRouter.put('/:id', async (req, res) => {
 
 Much tidier.
 
-## Fixing Update ##
-
-Unfortunately, we have also broken some code. Broken in the it-still-works-but-not-in-the-way-we-wanted way. Take a look at what we have wrought:
-
-```javascript
-sightingsRouter.patch('/:id', async (req, res) => {
-  const { id } = req.params
-  const key = sightingKey(id)
-
-  redis.json.set(key, '$', req.body)
-
-  res.send({
-    status: "OK",
-    message: `Sighting ${id} updated.`
-  })
-})
-```
-
-If we use this to update an existing property or to add a new property to the document, it will replace the entire document with just our new and updated properties while removing all the other properties. Probably not what we want.
-
-This is actually a somewhat hard problem if we have a complex document with lots of heirarchy and nesting. But, we have a flat JSON document so we can solve it pretty easily. We just need to loop over the properties sent in and call `.json.set()` on each one.
-
-Easy enough. Take a look at this code:
-
-```javascript
-  const { id } = req.params
-  const key = sightingKey(id)
-
-  Object.entries(req.body).forEach(([prop, value]) => {
-    redis.json.set(key, `$.${prop}`, value)
-  })
-
-  res.send({
-    status: "OK",
-    message: `Sighting ${id} updated.`
-  })
-```
-
-Here, we are iterating over each incoming property change, and using `.json.set()` to set that exact property by building a JSONPath *to* that property. Not so bad.
-
-But, we've just introduced a new problem. Our change is no longer atomic. Which means transactions. So, we need to take all that code we just removed and move it here. I won't make you type it again. Here's the completed route handler:
-
-```javascript
-sightingsRouter.patch('/:id', async (req, res) => {
-  const { id } = req.params
-  const key = sightingKey(id)
-
-  try {
-    await redis.watch(key)
-
-    const multi = redis.multi()
-
-    Object.entries(req.body).forEach(([prop, value]) => {
-      multi.json.set(key, `$.${prop}`, value)
-    })
-
-    await multi.exec()
-
-    res.send({
-      status: "OK",
-      message: `Sighting ${id} update.`
-    })
-  } catch (err) {
-    if (err instanceof WatchError) {
-      res.send({
-        status: "ERROR",
-        message: `Sighting ${id} was not updated.`
-      })
-    }
-  }
-})
-```
-
-Note that unlike in the previous transaction, we're actually assigning the call to `.multi()` to a constant and then using it in a loop. Later, when the loop is finished, we can call `.exec()` to run the queued commands.
-
-
 ## Testing the Changes ##
 
 So that was a lot of changes without a lot of testing. Let's fix that. We had several `curl` commands back when we where writing all this code to work with Hashes. Run them again and see if they work. As you run them, look in RedisInsight and see what they change:
@@ -205,16 +129,6 @@ curl \
 
 ```bash
 curl -X GET localhost:8080/sightings/<your ulid>
-```
-
-### Update Properties on a Bigfoot Sighting ###
-
-```bash
-curl \
-  -X PATCH \
-  -H "Content-Type: application/json" \
-  -d '{ "state": "West Virginia", "comments": "For sure they said hollow as holler." }' \
-  localhost:8080/sightings/<your ulid>
 ```
 
 ### Replace a Bigfoot Sighting ###

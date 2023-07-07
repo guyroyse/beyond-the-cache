@@ -11,9 +11,11 @@
   "longitude": -82.12263,
   "location": "-82.12263,41.38274",
   "location_details": "West side of Elyria off State Route 113.",
-  "temperature_high": 87.2,
-  "temperature_mid": 76.86,
-  "temperature_low": 66.52,
+  "temperature": {
+    "high": 87.2,
+    "mid": 76.86,
+    "low": 66.52
+  },
   "dew_point": 62.87,
   "humidity": 0.64,
   "cloud_cover": 0.29,

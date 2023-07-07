@@ -11,9 +11,11 @@
   "longitude": -83.39134,
   "location": "-83.39134,38.73687",
   "location_details": "The nearest town that shows on a map is West Union, we actually live some 8-10 miles easterly from there off State Road 125 in the Brush Creek Township in the community known as Lynx.",
-  "temperature_high": 71.32,
-  "temperature_mid": 63.45,
-  "temperature_low": 55.58,
+  "temperature": {
+    "high": 71.32,
+    "mid": 63.45,
+    "low": 55.58
+  },
   "dew_point": 54.16,
   "humidity": 0.78,
   "cloud_cover": 0.49,

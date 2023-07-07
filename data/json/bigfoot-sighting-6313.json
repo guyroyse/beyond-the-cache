@@ -11,9 +11,11 @@
   "longitude": -82.1013,
   "location": "-82.1013,39.64193",
   "location_details": "about four miles south of Moxahala on Route 13 on a pull off next to the road....the edge of Wayne National Forest",
-  "temperature_high": 71.6,
-  "temperature_mid": 61.325,
-  "temperature_low": 51.05,
+  "temperature": {
+    "high": 71.6,
+    "mid": 61.325,
+    "low": 51.05
+  },
   "dew_point": 56.51,
   "humidity": 0.72,
   "cloud_cover": 0.64,

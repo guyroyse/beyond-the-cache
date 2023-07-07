@@ -11,9 +11,11 @@
   "longitude": -149.7667,
   "location": "-149.7667,61.09085",
   "location_details": "Few houses on the way, a power relay station. To get to it our way, go down Dowling Road(left off of Lake Otis), where you will walk a trail. Follow it all the way down, but there are multiple entrances and trails.",
-  "temperature_high": 26.42,
-  "temperature_mid": 23.02,
-  "temperature_low": 19.62,
+  "temperature": {
+    "high": 26.42,
+    "mid": 23.02,
+    "low": 19.62
+  },
   "dew_point": 19.6,
   "humidity": 0.84,
   "cloud_cover": 0.64,

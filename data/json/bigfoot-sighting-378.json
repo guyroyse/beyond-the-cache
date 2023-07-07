@@ -11,9 +11,11 @@
   "longitude": -82.36887,
   "location": "-82.36887,39.58157",
   "location_details": "Take State Route 93 north out of Logan, turn left onto Bear Run Road and follow until you pass Rowland Derr Road.  Then turn left on the first dirt road (no outlet) you see.",
-  "temperature_high": 80.02,
-  "temperature_mid": 70.88,
-  "temperature_low": 61.74,
+  "temperature": {
+    "high": 80.02,
+    "mid": 70.88,
+    "low": 61.74
+  },
   "dew_point": 66.91,
   "humidity": 0.82,
   "cloud_cover": 0.66,

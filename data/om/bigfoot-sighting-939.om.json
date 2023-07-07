@@ -1,0 +1,35 @@
+{
+  "reportId": "939",
+  "title": "Large, bipedal creature looking in the cabin window",
+  "date": "2000-01-24",
+  "timestamp": 948672000,
+  "observed": "A young man, age 35, walked out of his rural home near the Snake River at approximately 0330 hrs., to retrieve some firewood from a firewood pile just outside his home, and located under a fir tree. He had no more than walked out onto his porch, when his attention was immediately drawn to the \"thing,\" which allegedly was standing next to his house, staring into his dining room through a plate glass window. The young man instantly propelled himself back through his door, slammed it shut, and locked not only that door, but all other doors and accesses to his house. My understanding is that he remained awake until sunrise, and he walked to a nearby town to contact our Center by telephone. The party who allowed the witness to use his telephone reported to us the following day that the witness was visibly shaken on Monday afternoon, when he walked into their residence to use the phone. The witness appeared on the Art Bell radio talk show, \"Coast to Coast,\" on the following night, 25 JAN 00, together with both me and Mr. Matthew Moneymaker, founder and curator of the BFRO.",
+  "classification": "Class A",
+  "county": "Columbia",
+  "state": "Washington",
+  "latitude": 46.48917,
+  "longitude": -117.9592,
+  "location": {
+    "longitude": -117.9592,
+    "latitude": 46.48917
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 35.02,
+    "mid": 33.465,
+    "low": 31.91
+  },
+  "dew_point": 29.47,
+  "humidity": 0.89,
+  "cloud_cover": 0.88,
+  "moon_phase": 0.63,
+  "precip_intensity": 0.0024,
+  "precip_probability": 0.54,
+  "precip_type": "snow",
+  "pressure": 1019.8,
+  "summary": "Snow (< 1 in.) overnight.",
+  "uv_index": 1,
+  "visibility": 7.27,
+  "wind_bearing": 45,
+  "wind_speed": 3.47
+}

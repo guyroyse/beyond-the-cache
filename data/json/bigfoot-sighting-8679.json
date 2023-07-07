@@ -11,9 +11,11 @@
   "longitude": -86.4664,
   "location": "-86.4664,33.6205",
   "location_details": "Around Moody, Alabama.",
-  "temperature_high": 76.7,
-  "temperature_mid": 64.84,
-  "temperature_low": 52.98,
+  "temperature": {
+    "high": 76.7,
+    "mid": 64.84,
+    "low": 52.98
+  },
   "dew_point": 52.35,
   "humidity": 0.72,
   "cloud_cover": 0.05,

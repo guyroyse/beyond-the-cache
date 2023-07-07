@@ -11,9 +11,11 @@
   "longitude": -96.12164,
   "location": "-96.12164,36.62116",
   "location_details": "about 1 mile south of wooloroc on highway 123",
-  "temperature_high": 97.63,
-  "temperature_mid": 87.98,
-  "temperature_low": 78.33,
+  "temperature": {
+    "high": 97.63,
+    "mid": 87.98,
+    "low": 78.33
+  },
   "dew_point": 70.84,
   "humidity": 0.65,
   "cloud_cover": 0.05,

@@ -11,9 +11,11 @@
   "longitude": -121.851,
   "location": "-121.851,48.13025",
   "location_details": "Get on to green mountain follow straight for about 1 or 2 miles. there will be a fork in the road to left up the hill. Follow this for about 2 miles, there will be dense trees, and all of a sudden there will be a big clearing on a right turn. With area to pull off and camp or whatever. There will be a deep ditch on right, The rocks came from above the ditch",
-  "temperature_high": 80.67,
-  "temperature_mid": 69.535,
-  "temperature_low": 58.4,
+  "temperature": {
+    "high": 80.67,
+    "mid": 69.535,
+    "low": 58.4
+  },
   "dew_point": 58.26,
   "humidity": 0.69,
   "cloud_cover": 0.12,

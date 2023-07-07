@@ -1,0 +1,35 @@
+{
+  "reportId": "8117",
+  "title": "Deer hunter has encounter with bigfoot carrying deer hind quarter",
+  "date": "2004-02-28",
+  "timestamp": 1077926400,
+  "observed": "A 7-foot upright stooped ape like figure, dark brown in color. It had a deer hindquarter in its left hand.",
+  "classification": "Class A",
+  "county": "Harrison",
+  "state": "Texas",
+  "latitude": 32.58333,
+  "longitude": -94.15,
+  "location": {
+    "longitude": -94.15,
+    "latitude": 32.58333
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 60.3,
+    "mid": 56.615,
+    "low": 52.93
+  },
+  "dew_point": 40.77,
+  "humidity": 0.72,
+  "cloud_cover": 0.4,
+  "moon_phase": 0.27,
+  "precip_intensity": 0.0017,
+  "precip_probability": 0.81,
+  "precip_type": "rain",
+  "pressure": 1023.44,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 4,
+  "visibility": 9.19,
+  "wind_bearing": 131,
+  "wind_speed": 7.93
+}

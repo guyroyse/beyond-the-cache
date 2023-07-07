@@ -1,0 +1,35 @@
+{
+  "reportId": "25722",
+  "title": "Possible reoccurring activity at a hunting spot near Republic",
+  "date": "2006-10-14",
+  "timestamp": 1160784000,
+  "observed": "My cousin and I were hunting up a dead end road, and were sitting outside our truck waiting for a buck to show up. We had gotten out of the truck originally because we had seen two does on the right side of the vehicle in a empty pond. On the our left side we were hearing branches break and bushes move, hoping it was a big buck. After waiting 20 minutes or so, we changed our position to in order to hopefully get a better angle as to what was making noise in the brush, when doing so the two does went north of our position trotting away, less than 15 seconds after that we both heard a sound like a deep roar tailing off to a squealing sound at the same time, an undescribable sound, not a bear, wolf, coyote or cat. Literally seconds after that the same two deer sprinted past us within just 5 to 7 feet as if we werent there and the least of the their concern. After they ran a few seconds after that we heard heavy footed running along the ridgeline above the empty pond, and at this point we ran in the vehicle and took off. The running on the ridgline was not a trot, or four legged run, these were distinctly two legs running weighing alot because we could hear the ground smashing.",
+  "classification": "Class B",
+  "county": "Ferry",
+  "state": "Washington",
+  "latitude": 48.51673,
+  "longitude": -118.5905,
+  "location": {
+    "longitude": -118.5905,
+    "latitude": 48.51673
+  },
+  "location_details": "Its a hunting location very close to canada on the far north east corner of washington",
+  "temperature": {
+    "high": 65.94,
+    "mid": 57.305,
+    "low": 48.67
+  },
+  "dew_point": 39.58,
+  "humidity": 0.67,
+  "cloud_cover": 0.22,
+  "moon_phase": 0.77,
+  "precip_intensity": 0.0008,
+  "precip_probability": 0.6,
+  "precip_type": "rain",
+  "pressure": 1008.98,
+  "summary": "Partly cloudy starting in the afternoon.",
+  "uv_index": 2,
+  "visibility": 9.43,
+  "wind_bearing": 107,
+  "wind_speed": 0.3
+}

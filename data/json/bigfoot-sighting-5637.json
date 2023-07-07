@@ -11,9 +11,11 @@
   "longitude": -123.1778,
   "location": "-123.1778,41.31917",
   "location_details": "Hike up the trail from Little North Fork Campground.",
-  "temperature_high": 73.66,
-  "temperature_mid": 63.175,
-  "temperature_low": 52.69,
+  "temperature": {
+    "high": 73.66,
+    "mid": 63.175,
+    "low": 52.69
+  },
   "dew_point": 55.31,
   "humidity": 0.69,
   "cloud_cover": 0.8,

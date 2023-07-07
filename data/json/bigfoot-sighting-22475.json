@@ -11,9 +11,11 @@
   "longitude": -122.3045,
   "location": "-122.3045,46.52352",
   "location_details": "Between the town of Morton and Riffe Lake.",
-  "temperature_high": 73.8,
-  "temperature_mid": 66.61,
-  "temperature_low": 59.42,
+  "temperature": {
+    "high": 73.8,
+    "mid": 66.61,
+    "low": 59.42
+  },
   "dew_point": 56.02,
   "humidity": 0.69,
   "cloud_cover": 0.59,

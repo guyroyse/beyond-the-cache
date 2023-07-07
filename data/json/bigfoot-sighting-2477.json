@@ -11,9 +11,11 @@
   "longitude": -95.70861,
   "location": "-95.70861,31.40444",
   "location_details": "Leon County Texas, 1930's along the Trinity river about 120 miles from Houston",
-  "temperature_high": 83.09,
-  "temperature_mid": 74.485,
-  "temperature_low": 65.88,
+  "temperature": {
+    "high": 83.09,
+    "mid": 74.485,
+    "low": 65.88
+  },
   "dew_point": 61.85,
   "humidity": 0.69,
   "cloud_cover": 0.24,

@@ -11,9 +11,11 @@
   "longitude": -84.30746,
   "location": "-84.30746,45.31915",
   "location_details": "It was up a sand hill and in a snow covered field going from one end of the field to the other.",
-  "temperature_high": 38.37,
-  "temperature_mid": 35.12,
-  "temperature_low": 31.87,
+  "temperature": {
+    "high": 38.37,
+    "mid": 35.12,
+    "low": 31.87
+  },
   "dew_point": 28.17,
   "humidity": 0.79,
   "cloud_cover": 0.12,

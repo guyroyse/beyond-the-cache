@@ -1,0 +1,35 @@
+{
+  "reportId": "40075",
+  "title": "Daylight sighting along levee in East Peoria",
+  "date": "2013-02-26",
+  "timestamp": 1361836800,
+  "observed": "I saw a creature running on top of a levee just on the east Peoria side of the river.It was all tan from head to feet. It had to be running at least 30 mph. While running its knees were bent.It did not look like a man running in a race, like a sprinter. The levee was just on the river side of cat building ss (Caterpillar Heavy Equipment Company). I saw the tan man for maybe 5 or 6 seconds. The speed at which it had was awesome. I could see the hair moving on its body but its head did not move. I just can not get over the speed tan man had, unreal.",
+  "classification": "Class A",
+  "county": "Tazewell",
+  "state": "Illinois",
+  "latitude": 40.67577,
+  "longitude": -89.60034,
+  "location": {
+    "longitude": -89.60034,
+    "latitude": 40.67577
+  },
+  "location_details": "The levee just past building ss cat plant",
+  "temperature": {
+    "high": 33.34,
+    "mid": 31.935,
+    "low": 30.53
+  },
+  "dew_point": 30.35,
+  "humidity": 0.89,
+  "cloud_cover": 0.95,
+  "moon_phase": 0.53,
+  "precip_intensity": 0.0126,
+  "precip_probability": 0.88,
+  "precip_type": "snow",
+  "pressure": 1001.91,
+  "summary": "Breezy in the morning and snow (1–2 in.) in the morning and afternoon.",
+  "uv_index": 2,
+  "visibility": 4.3,
+  "wind_bearing": 48,
+  "wind_speed": 14.85
+}

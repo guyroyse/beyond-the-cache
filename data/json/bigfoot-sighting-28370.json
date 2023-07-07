@@ -11,9 +11,11 @@
   "longitude": -89.56981,
   "location": "-89.56981,39.65749",
   "location_details": "Coming from Pawnee. Go North on Pawnee Rd. Turn east onto Delay Rd and follow until it ends. Go north 1/10 of a mile and turn right/east onto Lost 40 Road. Follow about a 1/2 mile and just before a bridge across \"Horse Creek\". There should be a driveway just to the west of the bridge and on the north side of Lost 40 Rd. This driveway leads back onto the old Lost 40 property which was some years ago bought out by the city of Springfield for the Lake 2 project. As such, this may be public land now.  The area of the sighting occured about 100 -150 yards up the driveway/north of Lost 40 Road just to the east of the driveway and west of the creek.",
-  "temperature_high": 78.58,
-  "temperature_mid": 74.45,
-  "temperature_low": 70.32,
+  "temperature": {
+    "high": 78.58,
+    "mid": 74.45,
+    "low": 70.32
+  },
   "dew_point": 65.75,
   "humidity": 0.79,
   "cloud_cover": 0.81,

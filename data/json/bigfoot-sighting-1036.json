@@ -11,9 +11,11 @@
   "longitude": -118.4244,
   "location": "-118.4244,35.75472",
   "location_details": "It was a public campground right outside a small town with large boulders right on the Kern River.  Little rapids all along the river at this point. Tent was under a bunch of scraggly trees.",
-  "temperature_high": 96.57,
-  "temperature_mid": 80.18,
-  "temperature_low": 63.79,
+  "temperature": {
+    "high": 96.57,
+    "mid": 80.18,
+    "low": 63.79
+  },
   "dew_point": 50.45,
   "humidity": 0.37,
   "cloud_cover": 0.03,

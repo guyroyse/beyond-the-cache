@@ -11,9 +11,11 @@
   "longitude": -91.0863,
   "location": "-91.0863,40.8139",
   "location_details": "I've been back over there several times and can't find it. But my friend said she was over there recently and want's to take me back there.",
-  "temperature_high": 47.04,
-  "temperature_mid": 46.085,
-  "temperature_low": 45.13,
+  "temperature": {
+    "high": 47.04,
+    "mid": 46.085,
+    "low": 45.13
+  },
   "dew_point": 34.38,
   "humidity": 0.78,
   "cloud_cover": 0.55,

@@ -11,9 +11,11 @@
   "longitude": -120.7744,
   "location": "-120.7744,48.19984",
   "location_details": "I am not too sure which county Lake Chelan falls in.",
-  "temperature_high": 65.76,
-  "temperature_mid": 58.905,
-  "temperature_low": 52.05,
+  "temperature": {
+    "high": 65.76,
+    "mid": 58.905,
+    "low": 52.05
+  },
   "dew_point": 52.8,
   "humidity": 0.78,
   "cloud_cover": 0.79,

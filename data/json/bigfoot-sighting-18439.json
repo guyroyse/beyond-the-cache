@@ -11,9 +11,11 @@
   "longitude": -81.47213,
   "location": "-81.47213,31.55762",
   "location_details": "Near the post boundry on 144.  Cannot determine from map recon if it was in Tatnall or Liberty Counties.",
-  "temperature_high": 88.33,
-  "temperature_mid": 80.6,
-  "temperature_low": 72.87,
+  "temperature": {
+    "high": 88.33,
+    "mid": 80.6,
+    "low": 72.87
+  },
   "dew_point": 72.54,
   "humidity": 0.8,
   "cloud_cover": 0.57,

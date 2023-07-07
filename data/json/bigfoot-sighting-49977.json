@@ -11,9 +11,11 @@
   "longitude": -79.26708,
   "location": "-79.26708,34.5287",
   "location_details": "I'm not sure if it was just prior to exit 3 or 2.  I was kind of in a state of shock and was not really concerned with that at the moment.",
-  "temperature_high": 78.49,
-  "temperature_mid": 68.005,
-  "temperature_low": 57.52,
+  "temperature": {
+    "high": 78.49,
+    "mid": 68.005,
+    "low": 57.52
+  },
   "dew_point": 60.41,
   "humidity": 0.77,
   "cloud_cover": 0.09,

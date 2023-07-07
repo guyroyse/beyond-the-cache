@@ -11,9 +11,11 @@
   "longitude": -90.1498,
   "location": "-90.1498,40.04505",
   "location_details": "Near the Illinois River",
-  "temperature_high": 51.37,
-  "temperature_mid": 44.11,
-  "temperature_low": 36.85,
+  "temperature": {
+    "high": 51.37,
+    "mid": 44.11,
+    "low": 36.85
+  },
   "dew_point": 31.2,
   "humidity": 0.72,
   "cloud_cover": 0.13,

@@ -11,9 +11,11 @@
   "longitude": -86.23506,
   "location": "-86.23506,38.4191",
   "location_details": "South of Hwy 150, on Blue River a few miles west of Fredricksburg, IN off of S. Sheppard road. I can drive there but I don't think I could give you adequate directions.",
-  "temperature_high": 78.34,
-  "temperature_mid": 72.935,
-  "temperature_low": 67.53,
+  "temperature": {
+    "high": 78.34,
+    "mid": 72.935,
+    "low": 67.53
+  },
   "dew_point": 71.16,
   "humidity": 0.89,
   "cloud_cover": 0.44,

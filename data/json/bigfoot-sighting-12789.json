@@ -11,9 +11,11 @@
   "longitude": -84.36754,
   "location": "-84.36754,39.61205",
   "location_details": "if you are traveling from dayton heading towards middletown you will pass the intersection that leads to germantown. if you keep heading on route 4, you will pass a gravel pit. the next road you come to on the right hand side is Eby road. that is tha Eby road/ route 4 intersection. next to the right hand turn onto Eby is a private gravel lane. down that lane is where i lived.",
-  "temperature_high": 76.48,
-  "temperature_mid": 65.47,
-  "temperature_low": 54.46,
+  "temperature": {
+    "high": 76.48,
+    "mid": 65.47,
+    "low": 54.46
+  },
   "dew_point": 52.67,
   "humidity": 0.67,
   "cloud_cover": 0.06,

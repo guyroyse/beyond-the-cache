@@ -11,9 +11,11 @@
   "longitude": -88.38197,
   "location": "-88.38197,37.60075",
   "location_details": "Shawnee National Forest",
-  "temperature_high": 68.46,
-  "temperature_mid": 57.35,
-  "temperature_low": 46.24,
+  "temperature": {
+    "high": 68.46,
+    "mid": 57.35,
+    "low": 46.24
+  },
   "dew_point": 48.68,
   "humidity": 0.66,
   "cloud_cover": 0.58,

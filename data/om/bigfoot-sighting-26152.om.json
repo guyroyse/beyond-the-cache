@@ -1,0 +1,35 @@
+{
+  "reportId": "26152",
+  "title": "Backpackers hear whoops and tree push over SE of Round Valley in the Mt. San Jacinto Wilderness Area",
+  "date": "2004-06-05",
+  "timestamp": 1086393600,
+  "observed": "I was camping with my 7 year old son on top of Mt. San Jacinto, specifically Round Valley. This was the third year we had done this and the plan was to spent the night at 9200 feet and do the peak the next day. Spend another night in Round Valley and go back down the mountain the third day. The place we set camp was on the south east side of Round Valley with some large granite boulders to give us some shelter if the wind picked up. Surrounding our camp were ponderosa and jeffrey pines and not too far away was a small stream. This was early June and there were still some snow drifts in the shaded places. My son and I had eaten dinner and were getting ready for bed. At about 10:00 p.m. we were in our sleeping bags, but still talking and planning the trip to the peak in the morning. Suddenly without warning we heard a loud, low pitched whooping call in the boulders just above us. The hair on the back of my neck stood up and my son asked me if that was a monkey and I, not wanting to deal with a panicked 7 year old, told him it was just an owl. We did not smell anything or hear footsteps. Everything calmed down and we finally fell asleep. About an hour later I heard a load boom that sounded close to the tent. I looked out the window in the tent and saw a few clouds in the moonlight so I pulled our boots into the tent in case we got a thunderstorm in the night. The next morning we got up and had breakfast, then headed for the peak. We made the peak but by the time we got back to camp my knees were swollen and sore so I put some snow in a sandwich bag for a cold pack that evening to reduce the swelling for the trip out the next morning. That night was uneventful and we slept well in the high altitude air. The next morning we got up and began to pack up for our trip off the mountain. I went up on top of the boulders to make sure none of our trash had blown away from camp and make sure everything was picked up. I then saw what had made that load boom the night before last. 30 yards from our tent on top of those boulders was an 8 inch diameter ponderosa pine snapped off at the base. The tree was still green and fresh and had no rot in it and there was no wind to speak of either night. The only explanation I can come up with is that the animal that made that whooping sound had pushed the tree over. The tree was not aimed in the direction of our tent but rather parallel the direction our tent was pitched. I don't think the animal was trying to do any harm but may have just been expressing it's dominance over us.",
+  "classification": "Class B",
+  "county": "Riverside",
+  "state": "California",
+  "latitude": 33.81678,
+  "longitude": -116.6329,
+  "location": {
+    "longitude": -116.6329,
+    "latitude": 33.81678
+  },
+  "location_details": "S.E. area of Round Valley in the Mt. San Jacinto Wilderness Area.",
+  "temperature": {
+    "high": 95.62,
+    "mid": 81.005,
+    "low": 66.39
+  },
+  "dew_point": 61.43,
+  "humidity": 0.51,
+  "cloud_cover": 0.1,
+  "moon_phase": 0.6,
+  "precip_intensity": 0.0017,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1007.62,
+  "summary": "Clear throughout the day.",
+  "uv_index": 15,
+  "visibility": 7.83,
+  "wind_bearing": 290,
+  "wind_speed": 4.63
+}

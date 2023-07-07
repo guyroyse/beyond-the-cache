@@ -11,9 +11,11 @@
   "longitude": -119,
   "location": "-119,37.5999",
   "location_details": "Lake Mary Rd. that goes to Lake Mary",
-  "temperature_high": 85.06,
-  "temperature_mid": 67.2,
-  "temperature_low": 49.34,
+  "temperature": {
+    "high": 85.06,
+    "mid": 67.2,
+    "low": 49.34
+  },
   "dew_point": 40.07,
   "humidity": 0.46,
   "cloud_cover": 0.01,

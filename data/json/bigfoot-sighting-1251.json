@@ -11,9 +11,11 @@
   "longitude": -106.6035,
   "location": "-106.6035,39.4627",
   "location_details": "From Eagle, CO, take Brush Creek Road south to East Brush Creek Road(415)to the Fulford Cave/Lake Charles Trailhead.  Incident took place in Holy Cross Wildnerness.",
-  "temperature_high": 72.18,
-  "temperature_mid": 58.065,
-  "temperature_low": 43.95,
+  "temperature": {
+    "high": 72.18,
+    "mid": 58.065,
+    "low": 43.95
+  },
   "dew_point": 37.69,
   "humidity": 0.53,
   "cloud_cover": 0.26,

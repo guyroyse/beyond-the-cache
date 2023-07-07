@@ -11,9 +11,11 @@
   "longitude": -121.4469,
   "location": "-121.4469,48.04725",
   "location_details": "MT loop is right outside of darrington washington, very easy to find, follow the signs all the way up till you hit dirt road. and fort lewis, you would have to contact me about that incident",
-  "temperature_high": 70.53,
-  "temperature_mid": 61.7,
-  "temperature_low": 52.87,
+  "temperature": {
+    "high": 70.53,
+    "mid": 61.7,
+    "low": 52.87
+  },
   "dew_point": 48.95,
   "humidity": 0.67,
   "cloud_cover": 0.06,

@@ -11,9 +11,11 @@
   "longitude": -122.6361,
   "location": "-122.6361,41.72944",
   "location_details": "The property is about 3/4 of a mile to 1 mile west of town proper. just on the city limit line.",
-  "temperature_high": 91.29,
-  "temperature_mid": 73.88,
-  "temperature_low": 56.47,
+  "temperature": {
+    "high": 91.29,
+    "mid": 73.88,
+    "low": 56.47
+  },
   "dew_point": 46.26,
   "humidity": 0.41,
   "cloud_cover": 0.13,

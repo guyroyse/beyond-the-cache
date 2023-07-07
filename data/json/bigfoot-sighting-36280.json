@@ -11,9 +11,11 @@
   "longitude": -123.3973,
   "location": "-123.3973,45.61308",
   "location_details": "Oregon Hwy 6 West.",
-  "temperature_high": 71.6,
-  "temperature_mid": 64.985,
-  "temperature_low": 58.37,
+  "temperature": {
+    "high": 71.6,
+    "mid": 64.985,
+    "low": 58.37
+  },
   "dew_point": 57.22,
   "humidity": 0.8,
   "cloud_cover": 0.37,

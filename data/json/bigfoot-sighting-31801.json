@@ -11,9 +11,11 @@
   "longitude": -85.20786,
   "location": "-85.20786,30.71362",
   "location_details": "In the woods within a mile of the Chipola river",
-  "temperature_high": 83.92,
-  "temperature_mid": 75.445,
-  "temperature_low": 66.97,
+  "temperature": {
+    "high": 83.92,
+    "mid": 75.445,
+    "low": 66.97
+  },
   "dew_point": 63.11,
   "humidity": 0.68,
   "cloud_cover": 0.33,

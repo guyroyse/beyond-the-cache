@@ -1,0 +1,35 @@
+{
+  "reportId": "57182",
+  "title": "Hunter hears chimp-like sounds north of the North Pass ski resort",
+  "date": "2010-09-15",
+  "timestamp": 1284508800,
+  "observed": "Hiked in several miles north from the white Pass ski area. It began to snow. I was hunting elk with a muzzleloader. I jumped what I thought was a group of elk from a dense cedar seep thicket. Continuing north up a small canyon as it began to snow more  heavily. I heard what sounded like chimpanzees huffing. I've been a hunter in these mountains my whole life and have never heard anything like this in the woods. It became clear to me that there were 3 separate individuals communicating with each othe back and forth. Two on the left side of the canyon, which was my side and another on the right side. I tried to catch a glimpse of whatever was making the chimp huffing and chattering but was unable to see anything. The storm became worse and it was getting later in the day. I would say I was a little afraid and decided to return to my camp. The next year I returned to this exact spot and had a rock the size of a grape fruit come down thru the tops of the trees. It landed about8 feet from me. I beat a haste retreat.",
+  "classification": "Class B",
+  "county": "Lewis",
+  "state": "Washington",
+  "latitude": 46.6979,
+  "longitude": -121.5094,
+  "location": {
+    "longitude": -121.5094,
+    "latitude": 46.6979
+  },
+  "location_details": "North of White Pass ski area",
+  "temperature": {
+    "high": 67.88,
+    "mid": 63.11,
+    "low": 58.34
+  },
+  "dew_point": 54.64,
+  "humidity": 0.82,
+  "cloud_cover": 0.48,
+  "moon_phase": 0.27,
+  "precip_intensity": 0.0048,
+  "precip_probability": 0.8,
+  "precip_type": "rain",
+  "pressure": 1013.73,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 4,
+  "visibility": 8.5,
+  "wind_bearing": 228,
+  "wind_speed": 2.17
+}

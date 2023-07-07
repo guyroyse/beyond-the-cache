@@ -1,0 +1,35 @@
+{
+  "reportId": "16744",
+  "title": "Possible vocalizations heard near East Canyon Reservoir",
+  "date": "2006-10-15",
+  "timestamp": 1160870400,
+  "observed": "For several years we have visited my in-laws that live in a small town in northern Utah that borders national forest near East Canyon Reservoir. My mother in law would continually tell me about loud screaming sounds she would hear echoing through the canyons and draws above her home. I never thought too much of it until I spent a night camping near their home with my son. I heard this scream several times throughout the night. I have since heard it many times during the past few years. The scream is so incredibly loud, I can't imagine it could possibly come from a man. It's a fierce scream with a powerful low frequency growl. Loud \"hoot\" sounds can be heard echoing also. It can be quite an intimidating sound to hear at night.",
+  "classification": "Class B",
+  "county": "Morgan",
+  "state": "Utah",
+  "latitude": 40.9,
+  "longitude": -111.625,
+  "location": {
+    "longitude": -111.625,
+    "latitude": 40.9
+  },
+  "location_details": "Location is private property, directions are being witheld.",
+  "temperature": {
+    "high": 63.1,
+    "mid": 54.95,
+    "low": 46.8
+  },
+  "dew_point": 38.02,
+  "humidity": 0.62,
+  "cloud_cover": 0.3,
+  "moon_phase": 0.8,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.06,
+  "precip_type": "rain",
+  "pressure": 1003.81,
+  "summary": "Partly cloudy starting in the afternoon.",
+  "uv_index": 4,
+  "visibility": 9.38,
+  "wind_bearing": 159,
+  "wind_speed": 5.9
+}

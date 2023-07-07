@@ -11,9 +11,11 @@
   "longitude": -91.60007,
   "location": "-91.60007,35.34737",
   "location_details": "Going north on 67/167 take the second Bald Knob exit, turn left and go under over pass, then turn left onto Hwy 258, about two miles down in the curve.",
-  "temperature_high": 52.36,
-  "temperature_mid": 44.785,
-  "temperature_low": 37.21,
+  "temperature": {
+    "high": 52.36,
+    "mid": 44.785,
+    "low": 37.21
+  },
   "dew_point": 41.74,
   "humidity": 0.84,
   "cloud_cover": 0.31,

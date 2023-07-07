@@ -11,9 +11,11 @@
   "longitude": -107.0671,
   "location": "-107.0671,39.3375",
   "location_details": "Trail access was off a BLM access road, about 2 miles up West Sopris Creek Road, on the left.",
-  "temperature_high": 44.34,
-  "temperature_mid": 36.625,
-  "temperature_low": 28.91,
+  "temperature": {
+    "high": 44.34,
+    "mid": 36.625,
+    "low": 28.91
+  },
   "dew_point": 18.8,
   "humidity": 0.59,
   "cloud_cover": 0.31,

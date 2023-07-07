@@ -11,9 +11,11 @@
   "longitude": -121.9008,
   "location": "-121.9008,47.6068",
   "location_details": "It was somewhere near Carnation and Fall City. There was a water treatment plant or reservoir.",
-  "temperature_high": 66.1,
-  "temperature_mid": 60.28,
-  "temperature_low": 54.46,
+  "temperature": {
+    "high": 66.1,
+    "mid": 60.28,
+    "low": 54.46
+  },
   "dew_point": 53.95,
   "humidity": 0.8,
   "cloud_cover": 0.64,

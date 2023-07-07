@@ -11,9 +11,11 @@
   "longitude": -83.67,
   "location": "-83.67,42.2375",
   "location_details": "From Google Earth: 42°14'20.36\"N 83°40'10.55\"W",
-  "temperature_high": 78.64,
-  "temperature_mid": 67.7,
-  "temperature_low": 56.76,
+  "temperature": {
+    "high": 78.64,
+    "mid": 67.7,
+    "low": 56.76
+  },
   "dew_point": 53.09,
   "humidity": 0.59,
   "cloud_cover": 0.48,

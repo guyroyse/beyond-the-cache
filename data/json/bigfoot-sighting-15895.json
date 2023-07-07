@@ -11,9 +11,11 @@
   "longitude": -88.9487,
   "location": "-88.9487,37.72735",
   "location_details": "NW corner of 511 S. Second St in Marion, IL.  A neighborhood of homes built in the mid-50s.",
-  "temperature_high": 41.15,
-  "temperature_mid": 36.97,
-  "temperature_low": 32.79,
+  "temperature": {
+    "high": 41.15,
+    "mid": 36.97,
+    "low": 32.79
+  },
   "dew_point": 36.09,
   "humidity": 0.92,
   "cloud_cover": 0.98,

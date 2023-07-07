@@ -1,0 +1,35 @@
+{
+  "reportId": "6330",
+  "title": "A man standing on his back porch watches a large hair covered creature run down the railroad tracks and jump down into the brush",
+  "date": "2003-05-01",
+  "timestamp": 1051747200,
+  "observed": "I saw a large hunched over creature about 8 feet tall. It was walking on the elevated tracks behind my house and then preceded to sprint down the tracks and jump down into the brush on the other side of the tracks. It was very fast and it had black hair all over.  Looked like a monkey and man mix.",
+  "classification": "Class A",
+  "county": "Medina",
+  "state": "Ohio",
+  "latitude": 41.03,
+  "longitude": -82.0101,
+  "location": {
+    "longitude": -82.0101,
+    "latitude": 41.03
+  },
+  "location_details": "Just south of Lodi, Ohio.",
+  "temperature": {
+    "high": 75.41,
+    "mid": 63.37,
+    "low": 51.33
+  },
+  "dew_point": 57.19,
+  "humidity": 0.77,
+  "cloud_cover": 0.47,
+  "moon_phase": 0.01,
+  "precip_intensity": 0.0098,
+  "precip_probability": 0.84,
+  "precip_type": "rain",
+  "pressure": 1010.29,
+  "summary": "Rain starting in the evening.",
+  "uv_index": 8,
+  "visibility": 7.23,
+  "wind_bearing": 208,
+  "wind_speed": 6.03
+}

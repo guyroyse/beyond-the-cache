@@ -11,9 +11,11 @@
   "longitude": -120.1039,
   "location": "-120.1039,38.07584",
   "location_details": "Take Highway 108 to Long Barn, and take the Long Barn road toward Fahey Cabin.",
-  "temperature_high": 70.53,
-  "temperature_mid": 56.5,
-  "temperature_low": 42.47,
+  "temperature": {
+    "high": 70.53,
+    "mid": 56.5,
+    "low": 42.47
+  },
   "dew_point": 40.97,
   "humidity": 0.69,
   "cloud_cover": 0.15,

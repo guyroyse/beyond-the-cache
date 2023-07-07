@@ -11,9 +11,11 @@
   "longitude": -122.4607,
   "location": "-122.4607,46.64191",
   "location_details": "The area was north of Rooster Rock, Google earth gave the coordinates as: (edited-out to protect the exact location)",
-  "temperature_high": 67.35,
-  "temperature_mid": 57.42,
-  "temperature_low": 47.49,
+  "temperature": {
+    "high": 67.35,
+    "mid": 57.42,
+    "low": 47.49
+  },
   "dew_point": 49.14,
   "humidity": 0.69,
   "cloud_cover": 0.66,

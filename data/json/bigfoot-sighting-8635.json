@@ -11,9 +11,11 @@
   "longitude": -86.255,
   "location": "-86.255,31.29",
   "location_details": "the small commuity isn't big it's just one road (dirtroad). our house sits in front of some woods. theres a creek close to our house that runs all the way around and crosses the road. there is also a bridge , and many mini springs.",
-  "temperature_high": 89.36,
-  "temperature_mid": 80.785,
-  "temperature_low": 72.21,
+  "temperature": {
+    "high": 89.36,
+    "mid": 80.785,
+    "low": 72.21
+  },
   "dew_point": 72.35,
   "humidity": 0.82,
   "cloud_cover": 0.48,

@@ -11,9 +11,11 @@
   "longitude": -122.6667,
   "location": "-122.6667,40.7333",
   "location_details": "From the City of Redding take the Hwy. to Whiskeytown Lake until you get to the turnoff to French Gulch on the North side heading west. Then take a right turn for the old town of French Gulch. Pass French Gulch still heading North on winding paved road. Then paved road ends to a dirt road. Keep following this road till you get to the signs saying keep out unless you have a permit to cut fire wood. Follow this road and the roads are many from their, then go North By North West several miles into the wilderness.",
-  "temperature_high": 54.64,
-  "temperature_mid": 46.66,
-  "temperature_low": 38.68,
+  "temperature": {
+    "high": 54.64,
+    "mid": 46.66,
+    "low": 38.68
+  },
   "dew_point": 31.3,
   "humidity": 0.59,
   "cloud_cover": 0.36,

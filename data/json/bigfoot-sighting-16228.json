@@ -11,9 +11,11 @@
   "longitude": -82.0029,
   "location": "-82.0029,37.75415",
   "location_details": "An area with thick brushy mountains in the summer. Located in the middle of the Appalachain mountains. Mining and logging area. Some regions of this area are very sparsley populated and travelled.",
-  "temperature_high": 75.22,
-  "temperature_mid": 65.61,
-  "temperature_low": 56,
+  "temperature": {
+    "high": 75.22,
+    "mid": 65.61,
+    "low": 56
+  },
   "dew_point": 58.97,
   "humidity": 0.71,
   "cloud_cover": 0.56,

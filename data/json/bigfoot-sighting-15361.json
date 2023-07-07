@@ -11,9 +11,11 @@
   "longitude": -82.44749,
   "location": "-82.44749,28.252",
   "location_details": "about 2 miles before pine view middle school facing ehren cutoff",
-  "temperature_high": 90.21,
-  "temperature_mid": 82.57,
-  "temperature_low": 74.93,
+  "temperature": {
+    "high": 90.21,
+    "mid": 82.57,
+    "low": 74.93
+  },
   "dew_point": 73.6,
   "humidity": 0.78,
   "cloud_cover": 0.35,

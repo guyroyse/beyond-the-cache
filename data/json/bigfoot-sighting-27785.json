@@ -11,9 +11,11 @@
   "longitude": -94.52888,
   "location": "-94.52888,37.03575",
   "location_details": "This was out in an area close to Shoal Creek in Joplin, MO.",
-  "temperature_high": 94.01,
-  "temperature_mid": 84.29,
-  "temperature_low": 74.57,
+  "temperature": {
+    "high": 94.01,
+    "mid": 84.29,
+    "low": 74.57
+  },
   "dew_point": 72.47,
   "humidity": 0.67,
   "cloud_cover": 0.08,

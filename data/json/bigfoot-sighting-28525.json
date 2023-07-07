@@ -11,9 +11,11 @@
   "longitude": -87.76622,
   "location": "-87.76622,41.63243",
   "location_details": "Bachelors Grove Cemetery which is near the intersection of 143rd Street and Ridgeland Avenue.",
-  "temperature_high": 51.69,
-  "temperature_mid": 42.315,
-  "temperature_low": 32.94,
+  "temperature": {
+    "high": 51.69,
+    "mid": 42.315,
+    "low": 32.94
+  },
   "dew_point": 29.68,
   "humidity": 0.62,
   "cloud_cover": 0.06,

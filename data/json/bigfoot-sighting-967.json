@@ -11,9 +11,11 @@
   "longitude": -121.6406,
   "location": "-121.6406,48.02611",
   "location_details": "Right after Red Bridge is a road going to Black Chief Silver Mine. This road passes through some residential property and then ends with a burm. We went past the burm about 5- 10 miles.",
-  "temperature_high": 65.55,
-  "temperature_mid": 58.925,
-  "temperature_low": 52.3,
+  "temperature": {
+    "high": 65.55,
+    "mid": 58.925,
+    "low": 52.3
+  },
   "dew_point": 46.82,
   "humidity": 0.71,
   "cloud_cover": 0.55,

@@ -1,0 +1,35 @@
+{
+  "reportId": "8171",
+  "title": "Nighttime Sighting on County Road",
+  "date": "2004-05-09",
+  "timestamp": 1084060800,
+  "observed": "I was coming home from work, turning off a major 4 lane hiway.  After aproximately 1/4 mile, near a new subdivision, I saw something moving very fast, as it ran across the hiway in front of my car. It appeared to be 8 to 10 feet tall, with reddish-brown looking hair. It didn't look at me, but I noticed long hair from its arms, legs and also shoulders. It moved across the road, it appeared, in 4 to 5 strides running.",
+  "classification": "Class A",
+  "county": "Shelby",
+  "state": "Alabama",
+  "latitude": 33.3674,
+  "longitude": -86.64066,
+  "location": {
+    "longitude": -86.64066,
+    "latitude": 33.3674
+  },
+  "location_details": "Shelby Co. Road 43 north, off State Hwy 280. After approximately 1/4 mile, there is a man made lake on right, with houses on left and up behind lake.",
+  "temperature": {
+    "high": 88.07,
+    "mid": 78.225,
+    "low": 68.38
+  },
+  "dew_point": 60.03,
+  "humidity": 0.63,
+  "cloud_cover": 0.17,
+  "moon_phase": 0.68,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.19,
+  "precip_type": "rain",
+  "pressure": 1019.55,
+  "summary": "Partly cloudy starting in the evening.",
+  "uv_index": 10,
+  "visibility": 9.06,
+  "wind_bearing": 77,
+  "wind_speed": 2.71
+}

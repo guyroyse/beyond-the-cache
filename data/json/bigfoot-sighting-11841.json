@@ -11,9 +11,11 @@
   "longitude": -73.7171,
   "location": "-73.7171,41.5036",
   "location_details": "BIG BUCK MTN STATE PARK",
-  "temperature_high": 70.87,
-  "temperature_mid": 67.315,
-  "temperature_low": 63.76,
+  "temperature": {
+    "high": 70.87,
+    "mid": 67.315,
+    "low": 63.76
+  },
   "dew_point": 58.75,
   "humidity": 0.76,
   "cloud_cover": 0.9,

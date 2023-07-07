@@ -11,9 +11,11 @@
   "longitude": -80.67828,
   "location": "-80.67828,40.3725",
   "location_details": "South of State Route just off of Sunset Blvd.",
-  "temperature_high": 71.27,
-  "temperature_mid": 62.185,
-  "temperature_low": 53.1,
+  "temperature": {
+    "high": 71.27,
+    "mid": 62.185,
+    "low": 53.1
+  },
   "dew_point": 52.6,
   "humidity": 0.78,
   "cloud_cover": 0.74,

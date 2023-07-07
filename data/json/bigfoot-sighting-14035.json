@@ -11,9 +11,11 @@
   "longitude": -73.73606,
   "location": "-73.73606,44.66399",
   "location_details": "Take Route 374 from Dannemora heading west towards Lyon Mountain. Turn Left on to the Chazy Lake Road heading towards Saranac. Approximately 2-3 down the road.",
-  "temperature_high": 40.55,
-  "temperature_mid": 37.66,
-  "temperature_low": 34.77,
+  "temperature": {
+    "high": 40.55,
+    "mid": 37.66,
+    "low": 34.77
+  },
   "dew_point": 32.55,
   "humidity": 0.82,
   "cloud_cover": 0.9,

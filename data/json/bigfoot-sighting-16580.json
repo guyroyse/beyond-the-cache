@@ -11,9 +11,11 @@
   "longitude": -109.64,
   "location": "-109.64,34.325",
   "location_details": "Coming down off a slight rise.  The sides of the road were low, you would have to climb up onto the highway.  There were lots of junipers about 10 to 15 tall on both sides of the road.  I failed to get a road marker.  It happened so fast and I was so unprepared.",
-  "temperature_high": 55.25,
-  "temperature_mid": 42.445,
-  "temperature_low": 29.64,
+  "temperature": {
+    "high": 55.25,
+    "mid": 42.445,
+    "low": 29.64
+  },
   "dew_point": 26.74,
   "humidity": 0.58,
   "cloud_cover": 0.07,

@@ -11,9 +11,11 @@
   "longitude": -86.7891,
   "location": "-86.7891,33.8132",
   "location_details": "Just off Hwy 31, Warrior Exit",
-  "temperature_high": 77.41,
-  "temperature_mid": 68.56,
-  "temperature_low": 59.71,
+  "temperature": {
+    "high": 77.41,
+    "mid": 68.56,
+    "low": 59.71
+  },
   "dew_point": 57.26,
   "humidity": 0.75,
   "cloud_cover": 0.16,

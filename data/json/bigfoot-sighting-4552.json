@@ -11,9 +11,11 @@
   "longitude": -91.0955,
   "location": "-91.0955,30.96745",
   "location_details": "State Line road runs between East Feliciana Parrish Louisiana and Wilkensin county Mississippi State Line Road is a gravel road",
-  "temperature_high": 70.15,
-  "temperature_mid": 66.91,
-  "temperature_low": 63.67,
+  "temperature": {
+    "high": 70.15,
+    "mid": 66.91,
+    "low": 63.67
+  },
   "dew_point": 54.89,
   "humidity": 0.82,
   "cloud_cover": 0.6,

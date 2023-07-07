@@ -11,9 +11,11 @@
   "longitude": -91.59415,
   "location": "-91.59415,41.76292",
   "location_details": "The farm was located at the bend in the road (N. Front St) leading away from North Libery.",
-  "temperature_high": 88.21,
-  "temperature_mid": 78.21,
-  "temperature_low": 68.21,
+  "temperature": {
+    "high": 88.21,
+    "mid": 78.21,
+    "low": 68.21
+  },
   "dew_point": 66.05,
   "humidity": 0.71,
   "cloud_cover": 0.69,

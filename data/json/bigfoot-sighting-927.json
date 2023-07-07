@@ -11,9 +11,11 @@
   "longitude": -120.9591,
   "location": "-120.9591,47.8498",
   "location_details": "Washington State, south side of Little Wenatchee River on the lower slope of Mount Howard; on a logging road in a newly replanted clear-cut, just east of the Rainy Creek bridge.",
-  "temperature_high": 71.48,
-  "temperature_mid": 62.855,
-  "temperature_low": 54.23,
+  "temperature": {
+    "high": 71.48,
+    "mid": 62.855,
+    "low": 54.23
+  },
   "dew_point": 49.6,
   "humidity": 0.63,
   "cloud_cover": 0.41,

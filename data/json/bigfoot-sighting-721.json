@@ -11,9 +11,11 @@
   "longitude": -81.29691,
   "location": "-81.29691,25.91695",
   "location_details": ": (#1)Ochopee, Florida... Collier County... east side of Turner Road..  1 & 1/2 to 2 miles north of  highway U. S. 41... at a burned out wooden bridge located on the east side of Turner Road... two miles west of Burns Road... three miles east of junction highway 29...east of the Turner River (#2)Ochopee, Florida.. Collier county... Burns Road... 1 & 1/2 mile north of U.S. highway 41... two miles east of Turner Road... five miles east of US. highway 29 (#3) Ochopee, Florida.. Collier county... Burns Road... 1 & 1/2 mile north of U.S. highway 41... two miles east of Turner Road... five miles east of State highway 29 (#4) Ochopee, Florida... Collier County... west side of Turner Road...1 to 1 & 1/2 miles north of  highway U. S. 41... south of burned out wooden bridge located on the east side of Turner Road... two miles west of  Burns Road... three miles east of junction highway 29...east of the Turner River (#5) Ochopee, Florida... Collier County... west side of Turner Road...1 to 1 & 1/2 miles north of  highway U. S. 41... south of burned out wooden bridge located on the east side of Turner Road... two miles west of  Burns Road... three miles east of junction highway 29...east of the Turner River (#6) Ochopee, Florida... Collier County... Turner road..... 3 to 4 miles north of Highway U. S 41",
-  "temperature_high": 90.47,
-  "temperature_mid": 83.975,
-  "temperature_low": 77.48,
+  "temperature": {
+    "high": 90.47,
+    "mid": 83.975,
+    "low": 77.48
+  },
   "dew_point": 74.14,
   "humidity": 0.78,
   "cloud_cover": 0.45,

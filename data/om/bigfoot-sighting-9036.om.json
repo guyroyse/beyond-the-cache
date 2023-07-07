@@ -1,0 +1,35 @@
+{
+  "reportId": "9036",
+  "title": "Three motorists have night time road encounter near Kenefick.",
+  "date": "2004-07-22",
+  "timestamp": 1090454400,
+  "observed": "My mother and I and one of my friends were traveling north on FM 1008 between Dayton and Kenefick TX. I believe it was late evening or early night. All three of us watched a very tall creature completely covered with hair from head to toe stand at the side of the road and disappear into the woods. All three of us saw the same thing. I will talk to my mom and get her to recall the incident.",
+  "classification": "Class A",
+  "county": "Liberty",
+  "state": "Texas",
+  "latitude": 30.08333,
+  "longitude": -94.86667,
+  "location": {
+    "longitude": -94.86667,
+    "latitude": 30.08333
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 87.25,
+    "mid": 81.195,
+    "low": 75.14
+  },
+  "dew_point": 74.56,
+  "humidity": 0.81,
+  "cloud_cover": 0.24,
+  "moon_phase": 0.17,
+  "precip_intensity": 0.0063,
+  "precip_probability": 0.41,
+  "precip_type": "rain",
+  "pressure": 1014.72,
+  "summary": "Humid throughout the day and partly cloudy until evening.",
+  "uv_index": 9,
+  "visibility": 9.53,
+  "wind_bearing": 158,
+  "wind_speed": 5.1
+}

@@ -11,9 +11,11 @@
   "longitude": -111.05,
   "location": "-111.05,41.25",
   "location_details": "It was in the Uinta mountains about 20 miles southeast as a helicopter flies. I do not know the placename of where  we were.",
-  "temperature_high": 17.28,
-  "temperature_mid": 8.375,
-  "temperature_low": -0.53,
+  "temperature": {
+    "high": 17.28,
+    "mid": 8.375,
+    "low": -0.53
+  },
   "dew_point": 4.49,
   "humidity": 0.73,
   "cloud_cover": 0.71,

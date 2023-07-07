@@ -11,9 +11,11 @@
   "longitude": -123.6619,
   "location": "-123.6619,47.01139",
   "location_details": "Woods near Wynoochee road close to Montesano",
-  "temperature_high": 52.21,
-  "temperature_mid": 46.15,
-  "temperature_low": 40.09,
+  "temperature": {
+    "high": 52.21,
+    "mid": 46.15,
+    "low": 40.09
+  },
   "dew_point": 41.03,
   "humidity": 0.8,
   "cloud_cover": 0.86,

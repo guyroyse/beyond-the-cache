@@ -1,0 +1,35 @@
+{
+  "reportId": "10797",
+  "title": "Hikers find footprint in Perry State Park.",
+  "date": "2005-02-26",
+  "timestamp": 1109376000,
+  "observed": "I teach botany/ecology at a local college.  My wife and I were out hiking on the skyline trail (hike/bike trail) to see if any early wildflowers were out yet.  We decided to take the Mad Mile extension, since it runs parallel to the lake and is visually quite nice (as well as exhausting).  I was taking photos of mosses, so I was paying attention to the ground quite a bit.  My wife walked ahead a bit, and I was kneeling down to take some more moss photos when I saw this print (attached Word document).  I was very excited, as I had just started reading again about bigfoot, so I took a couple of photos (attached to the document).  The first photo is just a overhead pic, the second photo has my size 12 shoe lined up at the base to show how long the footprint was.  This was the only footprint noted, with good reason--the leaf litter on the trails was extensive.  I did see raccoon tracks, and my wife saw a turkey trot away; later we saw a cottontail scurry off.  This may be nothing, but as there was a sighting of BF some 20 miles away at the Baker Wetlands, I thought this might be interesting.",
+  "classification": "Class B",
+  "county": "Jefferson",
+  "state": "Kansas",
+  "latitude": 39.1441,
+  "longitude": -95.488,
+  "location": {
+    "longitude": -95.488,
+    "latitude": 39.1441
+  },
+  "location_details": "Perry State Park.  Hike/bike trail, after you cross over Lake Perry, it's up the hill and you take the first right for about a mile to the parking area; we were on the Mad Mile extension of the Skyline trail.",
+  "temperature": {
+    "high": 58.22,
+    "mid": 50.915,
+    "low": 43.61
+  },
+  "dew_point": 31.26,
+  "humidity": 0.63,
+  "cloud_cover": 0.3,
+  "moon_phase": 0.58,
+  "precip_intensity": 0.0004,
+  "precip_probability": 0.46,
+  "precip_type": "rain",
+  "pressure": 1019.11,
+  "summary": "Mostly cloudy starting in the afternoon.",
+  "uv_index": 4,
+  "visibility": 9.56,
+  "wind_bearing": 108,
+  "wind_speed": 5.31
+}

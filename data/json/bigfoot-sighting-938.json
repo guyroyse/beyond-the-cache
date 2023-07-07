@@ -11,9 +11,11 @@
   "longitude": -117.9458,
   "location": "-117.9458,46.37944",
   "location_details": "From the town of Dayton in the Blue Mts. Up skyline dr to Maloney Mtn. road, down maloney about 2mi there is a clearcut there on the right. the tracks crossed the main road and walked the edge of the clearcut fire break to the timber, where i lost them in the toucanon wilderness.",
-  "temperature_high": 77.46,
-  "temperature_mid": 62.305,
-  "temperature_low": 47.15,
+  "temperature": {
+    "high": 77.46,
+    "mid": 62.305,
+    "low": 47.15
+  },
   "dew_point": 36.29,
   "humidity": 0.46,
   "cloud_cover": 0.09,

@@ -11,9 +11,11 @@
   "longitude": -88.61966,
   "location": "-88.61966,39.2372",
   "location_details": "It was on a straight piece of highway with nothing but fields and flatland to the east and Lake Shelbyville around 10 to 15 miles to the west. It was heading west.",
-  "temperature_high": 83.04,
-  "temperature_mid": 70.855,
-  "temperature_low": 58.67,
+  "temperature": {
+    "high": 83.04,
+    "mid": 70.855,
+    "low": 58.67
+  },
   "dew_point": 59.32,
   "humidity": 0.69,
   "cloud_cover": 0.17,

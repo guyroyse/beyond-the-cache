@@ -11,9 +11,11 @@
   "longitude": -88.706,
   "location": "-88.706,41.4209",
   "location_details": "South of Route 71 on Marseilles Blacktop (County Hwy 15) just past the second curve heading south.",
-  "temperature_high": 47.99,
-  "temperature_mid": 40.23,
-  "temperature_low": 32.47,
+  "temperature": {
+    "high": 47.99,
+    "mid": 40.23,
+    "low": 32.47
+  },
   "dew_point": 35.31,
   "humidity": 0.7,
   "cloud_cover": 0.89,

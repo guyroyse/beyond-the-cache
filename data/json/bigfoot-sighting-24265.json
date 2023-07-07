@@ -11,9 +11,11 @@
   "longitude": -90.42001,
   "location": "-90.42001,45.73271",
   "location_details": "[The location is outside Phillips, Wisconsin, not far from the target area of the 2006 expedition.]",
-  "temperature_high": 73.61,
-  "temperature_mid": 65.195,
-  "temperature_low": 56.78,
+  "temperature": {
+    "high": 73.61,
+    "mid": 65.195,
+    "low": 56.78
+  },
   "dew_point": 52.91,
   "humidity": 0.64,
   "cloud_cover": 0.33,

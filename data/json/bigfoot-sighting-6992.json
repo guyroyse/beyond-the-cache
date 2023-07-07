@@ -11,9 +11,11 @@
   "longitude": -81.8768,
   "location": "-81.8768,26.6685",
   "location_details": "I don't have directions to that area but I did a search and found Estate Drive in North Fort Myers, so it's not difficult to find.",
-  "temperature_high": 62.66,
-  "temperature_mid": 53.98,
-  "temperature_low": 45.3,
+  "temperature": {
+    "high": 62.66,
+    "mid": 53.98,
+    "low": 45.3
+  },
   "dew_point": 50.12,
   "humidity": 0.76,
   "cloud_cover": 0.42,

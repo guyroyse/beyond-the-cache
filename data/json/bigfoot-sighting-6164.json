@@ -11,9 +11,11 @@
   "longitude": -105.0138,
   "location": "-105.0138,39.0621",
   "location_details": "Between balanced rock rd and Mt Herman rd aprox 1/4 mile east of rampart range rd.",
-  "temperature_high": 67.92,
-  "temperature_mid": 55.815,
-  "temperature_low": 43.71,
+  "temperature": {
+    "high": 67.92,
+    "mid": 55.815,
+    "low": 43.71
+  },
   "dew_point": 40.37,
   "humidity": 0.66,
   "cloud_cover": 0.35,

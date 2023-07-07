@@ -1,0 +1,34 @@
+{
+  "reportId": "19666",
+  "title": "Hunter hears very loud scream at short range near Brazos River",
+  "date": "2008-01-10",
+  "timestamp": 1199923200,
+  "observed": "I was recently discussing your web site with a friend and was directed to the sounds that were recorded and placed on your web site.  Initially I laughed it off.  At least until I heard the Ohio Howl.  I have heard that particular sound before.  The only difference was a slightly higher pitch.  When I heard the sound on your site I got the same goose bumps and the same sick feeling I had the first time I heard it. I was on an evening deer hunt in mid to late December.  It was cold and clear with a light wind.  I was sitting on the ground backed into a cedar tree.  At one point I could hear something walking up behind me.  I could tell it wasn't a hooved animal by the sound the feet made when it walked.  I waited about 10 minutes looking for it to step out of the brush.  That's when I heard that sound.  It couldn't have been more than 20 ft away, because it was so loud I had to put my hands over my ears.  I immediately clicked the safety off on my rifle and could hear it moving back deeper into the brush.  When I couldn't hear it any more I got up and went to the truck without finishing my hunt.  I told my grandad about it and he shrugged it off and said it was probably just a big coyote. I have hunted my whole life.  I have been calling and trapping predators for close to 20 years.  My degree is in Animal Science.  I know what coyotes, dogs, and wolves sound like and that isn't it.",
+  "classification": "Class B",
+  "county": "Palo Pinto",
+  "state": "Texas",
+  "latitude": 32.817,
+  "longitude": -98.34489,
+  "location": {
+    "longitude": -98.34489,
+    "latitude": 32.817
+  },
+  "location_details": "Chick Bend on the Brazos River.",
+  "temperature": {
+    "high": 59.73,
+    "mid": 45.72,
+    "low": 31.71
+  },
+  "dew_point": 27.54,
+  "humidity": 0.43,
+  "cloud_cover": 0.02,
+  "moon_phase": 0.07,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1012.05,
+  "summary": "Breezy in the morning.",
+  "uv_index": 3,
+  "visibility": 9.99,
+  "wind_bearing": 296,
+  "wind_speed": 7.9
+}

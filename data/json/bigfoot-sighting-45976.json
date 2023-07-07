@@ -11,9 +11,11 @@
   "longitude": -84.53098,
   "location": "-84.53098,42.20901",
   "location_details": "Just south of the intersection of HWY 60 and Emerson Rd.",
-  "temperature_high": 87.8,
-  "temperature_mid": 78.615,
-  "temperature_low": 69.43,
+  "temperature": {
+    "high": 87.8,
+    "mid": 78.615,
+    "low": 69.43
+  },
   "dew_point": 69.82,
   "humidity": 0.82,
   "cloud_cover": 0.13,

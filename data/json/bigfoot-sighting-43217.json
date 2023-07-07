@@ -11,9 +11,11 @@
   "longitude": -87.3775,
   "location": "-87.3775,33.89236",
   "location_details": "Wooden area. Just past the intersection of Trotter Rd. and Nichols Rd. On the right about 40 yards past intersection going north away from Jasper.",
-  "temperature_high": 94.41,
-  "temperature_mid": 84.77,
-  "temperature_low": 75.13,
+  "temperature": {
+    "high": 94.41,
+    "mid": 84.77,
+    "low": 75.13
+  },
   "dew_point": 73.97,
   "humidity": 0.73,
   "cloud_cover": 0.34,

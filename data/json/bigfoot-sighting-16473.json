@@ -11,9 +11,11 @@
   "longitude": -82.879,
   "location": "-82.879,30.3125",
   "location_details": "I had been on I-10 for about 10 minutes after switching from I-75",
-  "temperature_high": 80.4,
-  "temperature_mid": 69.795,
-  "temperature_low": 59.19,
+  "temperature": {
+    "high": 80.4,
+    "mid": 69.795,
+    "low": 59.19
+  },
   "dew_point": 58.67,
   "humidity": 0.74,
   "cloud_cover": 0.33,

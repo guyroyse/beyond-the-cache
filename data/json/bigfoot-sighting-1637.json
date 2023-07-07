@@ -11,9 +11,11 @@
   "longitude": -92.385,
   "location": "-92.385,36.33528",
   "location_details": "Go down highway 5 north to Connie dr just at the outskirts of town.",
-  "temperature_high": 81.32,
-  "temperature_mid": 74.31,
-  "temperature_low": 67.3,
+  "temperature": {
+    "high": 81.32,
+    "mid": 74.31,
+    "low": 67.3
+  },
   "dew_point": 60.15,
   "humidity": 0.67,
   "cloud_cover": 0.66,

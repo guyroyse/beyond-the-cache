@@ -11,9 +11,11 @@
   "longitude": -92.30753,
   "location": "-92.30753,34.92684",
   "location_details": "East of West Boundry Road between Clifton Mountain Rd and Demolition Road on Camp Robinson Military base.",
-  "temperature_high": 72,
-  "temperature_mid": 55.83,
-  "temperature_low": 39.66,
+  "temperature": {
+    "high": 72,
+    "mid": 55.83,
+    "low": 39.66
+  },
   "dew_point": 33.66,
   "humidity": 0.6,
   "cloud_cover": 0.03,

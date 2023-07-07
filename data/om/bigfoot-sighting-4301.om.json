@@ -1,0 +1,35 @@
+{
+  "reportId": "4301",
+  "title": "Elk hunter sees large, black animal walking upright along the Toutle River",
+  "date": "2002-05-09",
+  "timestamp": 1020902400,
+  "observed": "On May 9th, 2002 at approximately 3p.m. my buddy and I were headed towards Mt. St. Helens.  We had just passed Hoffstead Bluffs heading east and I was looking down into the wash.  The Toutle splits in this area and there was a section that went between a heavily wooded area and the hillside leading to the road.  It is approximately 300 yards to the bottom.  I noticed something walking thru the creek at an angle and heading northeast.  It happened quickly and I yelled instantly to stop.  I saw it for maybe 5 seconds.  I could see the space between its strides and I knew it had to be much bigger than a man from that distance.  The arms were long and it was dark colored.  We didn't get stopped quick enough for both of us to see it.  We scanned the entire area for at least 10 to 15 minutes but saw no other movement.  I could see the area where I assume it left the woods and the ground did appear to have been disturbed.  I could not see the bottom of the hillside where I was standing.",
+  "classification": "Class A",
+  "county": "Cowlitz",
+  "state": "Washington",
+  "latitude": 46.3261,
+  "longitude": -122.4988,
+  "location": {
+    "longitude": -122.4988,
+    "latitude": 46.3261
+  },
+  "location_details": "Approximately 1 to 2 miles east of Hoffstead Bluffs.  Looking down into the Mt. St. Helens wash it was viewed from the highway.",
+  "temperature": {
+    "high": 60.55,
+    "mid": 50.315,
+    "low": 40.08
+  },
+  "dew_point": 37.98,
+  "humidity": 0.69,
+  "cloud_cover": 0.7,
+  "moon_phase": 0.91,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.22,
+  "precip_type": "rain",
+  "pressure": 1021.85,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.69,
+  "wind_bearing": 274,
+  "wind_speed": 3.14
+}

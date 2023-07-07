@@ -11,9 +11,11 @@
   "longitude": -90.3832,
   "location": "-90.3832,40.625",
   "location_details": "4 Miles west of Ellisville on County Highway 17.",
-  "temperature_high": 90.78,
-  "temperature_mid": 78.445,
-  "temperature_low": 66.11,
+  "temperature": {
+    "high": 90.78,
+    "mid": 78.445,
+    "low": 66.11
+  },
   "dew_point": 66.83,
   "humidity": 0.69,
   "cloud_cover": 0.03,

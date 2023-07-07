@@ -11,9 +11,11 @@
   "longitude": -98.24586,
   "location": "-98.24586,35.08344",
   "location_details": "Just behind our home in Prairie Village. The housing addition is just off of First Street and our home backs up to the Washita River and we live on the culdasac Tonemah Parkway.",
-  "temperature_high": 82.54,
-  "temperature_mid": 75.2,
-  "temperature_low": 67.86,
+  "temperature": {
+    "high": 82.54,
+    "mid": 75.2,
+    "low": 67.86
+  },
   "dew_point": 66.7,
   "humidity": 0.79,
   "cloud_cover": 0.19,

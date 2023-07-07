@@ -11,9 +11,11 @@
   "longitude": -86.38894,
   "location": "-86.38894,39.04744",
   "location_details": "I'm estimating we were about 4-5 miles deep on the grub ridge loop trail (if you enter from the grub ridge trail head). We were relatively close to the south bank of Lake Monroe (about a half a mile away). We had hiked for about 3-4 hours.",
-  "temperature_high": 78.41,
-  "temperature_mid": 66.52,
-  "temperature_low": 54.63,
+  "temperature": {
+    "high": 78.41,
+    "mid": 66.52,
+    "low": 54.63
+  },
   "dew_point": 51.31,
   "humidity": 0.7,
   "cloud_cover": 0.1,

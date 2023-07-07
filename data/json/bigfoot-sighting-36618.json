@@ -11,9 +11,11 @@
   "longitude": -121.4234,
   "location": "-121.4234,47.04433",
   "location_details": "Echo Lake northern area at the lake edge 200-300 feet to the left from the trail.",
-  "temperature_high": 69.29,
-  "temperature_mid": 56.155,
-  "temperature_low": 43.02,
+  "temperature": {
+    "high": 69.29,
+    "mid": 56.155,
+    "low": 43.02
+  },
   "dew_point": 30.77,
   "humidity": 0.46,
   "cloud_cover": 0,

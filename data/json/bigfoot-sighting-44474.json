@@ -11,9 +11,11 @@
   "longitude": -121.9557,
   "location": "-121.9557,46.77641",
   "location_details": "Just past Ashford there will be a left turn onto a dirt road.",
-  "temperature_high": 43.71,
-  "temperature_mid": 41.685,
-  "temperature_low": 39.66,
+  "temperature": {
+    "high": 43.71,
+    "mid": 41.685,
+    "low": 39.66
+  },
   "dew_point": 33.86,
   "humidity": 0.73,
   "moon_phase": 0.02,

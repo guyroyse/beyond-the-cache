@@ -11,9 +11,11 @@
   "longitude": -79.4123,
   "location": "-79.4123,38.9706",
   "location_details": "The actual encounter was at the base of Mount Port Crayon in a temperate deciduous forest. Pine forests dominate the highlands above the encounter area. And I believe these animals use a specific stream that feeds into Red Creek. All of our encounters have happened in the summer.",
-  "temperature_high": 76,
-  "temperature_mid": 67.98,
-  "temperature_low": 59.96,
+  "temperature": {
+    "high": 76,
+    "mid": 67.98,
+    "low": 59.96
+  },
   "dew_point": 60.85,
   "humidity": 0.82,
   "cloud_cover": 0.66,

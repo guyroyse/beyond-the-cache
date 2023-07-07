@@ -1,0 +1,35 @@
+{
+  "reportId": "28532",
+  "title": "Hunter near Raymond hears what sounds like a sasquatch chasing and killing a deer",
+  "date": "2010-11-17",
+  "timestamp": 1289952000,
+  "observed": "Deer hunting, south 101 out of Aberdeen, mile post 69, turn left on m-line -- logging road, turn left onto m-2800 stay left, #4 were I found a 20ft tree upside down stuck into the ground, about three feet in-- root side up... took a picture and drove to end.  I parked and set up for some good hunting. Time 0845am. Sun out things a warming up. facing north with a lot of open clear cut area, glassing it all. The hill in front across the valley is 150 yards across, heavily treed. At 10:45 half way up the center of this hill, comes a loud crashing running straight down the hill in front of me. He makes a (my left- his right) turn and jumps on this deer killing it. The deer cries out three times and stops. All is now quiet again. I try making my way down my hill up the hill in front of me, nothing doing.. started to rain again, could not cross the river or creek, so I moved back to my spot to hunt.. nothing happening, so I went home at 1:30 pm.",
+  "classification": "Class B",
+  "county": "Grays Harbor",
+  "state": "Washington",
+  "latitude": 46.82742,
+  "longitude": -123.7095,
+  "location": {
+    "longitude": -123.7095,
+    "latitude": 46.82742
+  },
+  "location_details": "101 so, logging road m-line to m-2800 #4",
+  "temperature": {
+    "high": 48.75,
+    "mid": 44.685,
+    "low": 40.62
+  },
+  "dew_point": 42.67,
+  "humidity": 0.88,
+  "cloud_cover": 0.93,
+  "moon_phase": 0.37,
+  "precip_intensity": 0.0296,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1009.52,
+  "summary": "Breezy in the morning and rain until afternoon, starting again overnight.",
+  "uv_index": 1,
+  "visibility": 7.54,
+  "wind_bearing": 197,
+  "wind_speed": 8.51
+}

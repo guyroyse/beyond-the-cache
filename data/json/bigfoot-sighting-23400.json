@@ -11,9 +11,11 @@
   "longitude": -77.23238,
   "location": "-77.23238,38.741",
   "location_details": "Pohick Road at Newington Forrest just east of Magic Leaf Road, near Fort Belvoir.",
-  "temperature_high": 88.23,
-  "temperature_mid": 76.42,
-  "temperature_low": 64.61,
+  "temperature": {
+    "high": 88.23,
+    "mid": 76.42,
+    "low": 64.61
+  },
   "dew_point": 68.73,
   "humidity": 0.7,
   "cloud_cover": 0.79,

@@ -11,9 +11,11 @@
   "longitude": -120.7413,
   "location": "-120.7413,40.43298",
   "location_details": "I live near Susanville California in a small community just off Eagle Lake Road (which branches off Highway 36 about four miles west of Susanville proper) surrounded by the Lassen National Forest.  It is a mountainous pine forest, above 5000 feet in the northern Sierras. My community is about a 2 - 3 mile drive through Lassen forest up Eagle Lake Road from Hwy 36.",
-  "temperature_high": 96.41,
-  "temperature_mid": 79.91,
-  "temperature_low": 63.41,
+  "temperature": {
+    "high": 96.41,
+    "mid": 79.91,
+    "low": 63.41
+  },
   "dew_point": 52.06,
   "humidity": 0.44,
   "cloud_cover": 0.02,

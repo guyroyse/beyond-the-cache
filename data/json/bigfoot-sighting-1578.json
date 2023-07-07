@@ -11,9 +11,11 @@
   "longitude": -123.793,
   "location": "-123.793,41.8607",
   "location_details": "3.6 miles south on Little Jones Creek Rd. off us highway 199 about 13 miles east of Gasquet California in Del Norte County",
-  "temperature_high": 63.64,
-  "temperature_mid": 54.875,
-  "temperature_low": 46.11,
+  "temperature": {
+    "high": 63.64,
+    "mid": 54.875,
+    "low": 46.11
+  },
   "dew_point": 42.96,
   "humidity": 0.66,
   "cloud_cover": 0.18,

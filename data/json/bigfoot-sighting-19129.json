@@ -11,9 +11,11 @@
   "longitude": -84.6216,
   "location": "-84.6216,34.8983",
   "location_details": "I have to dig out my old GA topo maps! They still have the lat long on them for the campsite. I just have to find them again! But will email them to you when I do find em!",
-  "temperature_high": 73.37,
-  "temperature_mid": 65.145,
-  "temperature_low": 56.92,
+  "temperature": {
+    "high": 73.37,
+    "mid": 65.145,
+    "low": 56.92
+  },
   "dew_point": 52.93,
   "humidity": 0.7,
   "cloud_cover": 0.29,

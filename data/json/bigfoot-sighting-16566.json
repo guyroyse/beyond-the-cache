@@ -11,9 +11,11 @@
   "longitude": -92.53,
   "location": "-92.53,47.5754",
   "location_details": "one mile north of Virginia,MN, and 1 mile east of highway 53  It is land owned by the mining company.",
-  "temperature_high": 28.2,
-  "temperature_mid": 24.465,
-  "temperature_low": 20.73,
+  "temperature": {
+    "high": 28.2,
+    "mid": 24.465,
+    "low": 20.73
+  },
   "dew_point": 17.35,
   "humidity": 0.67,
   "cloud_cover": 0.81,

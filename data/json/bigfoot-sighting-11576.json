@@ -11,9 +11,11 @@
   "longitude": -123.55,
   "location": "-123.55,40.85",
   "location_details": "I was on the east side of Hoopa heading southwest. I was coming from Redding Ca heading to Eureka,Ca.",
-  "temperature_high": 75.76,
-  "temperature_mid": 65.365,
-  "temperature_low": 54.97,
+  "temperature": {
+    "high": 75.76,
+    "mid": 65.365,
+    "low": 54.97
+  },
   "dew_point": 49.17,
   "humidity": 0.69,
   "cloud_cover": 0.24,

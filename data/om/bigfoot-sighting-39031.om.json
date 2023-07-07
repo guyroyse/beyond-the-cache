@@ -1,0 +1,35 @@
+{
+  "reportId": "39031",
+  "title": "Home owner reports strange howls and possible ongoing activity near Kiel",
+  "date": "2009-10-15",
+  "timestamp": 1255564800,
+  "observed": "A couple years ago I sent you a report that my daughter and I heard a very loud series of calls that I thought could have been made by a bigfoot. After listening to the recordings of calls from central MI I am more convinced. In my report I had trouble putting into words what it sounded like, but the recordings are nearly exact as some of the recordings. Then this fall I was in the hospital and my wife started smoking and sitting on the porch at night for her nightly puff. She told me the coyotes were howling a lot. When I played the recording of what I heard she came from the next room and said (that's what I heard). My sister works with my neighbor's wife, she said they have her husband and I are long time hunters, I have hunted in Canada, Alaska, Idaho, and WI where I live. Now a wolf in our area would be almost unheard of. I don't think they live here but they may migrate through.",
+  "classification": "Class B",
+  "county": "Manitowoc",
+  "state": "Wisconsin",
+  "latitude": 43.89418,
+  "longitude": -87.94178,
+  "location": {
+    "longitude": -87.94178,
+    "latitude": 43.89418
+  },
+  "location_details": "North of Sheboygan/Manitowoc Co line.",
+  "temperature": {
+    "high": 42.05,
+    "mid": 38.52,
+    "low": 34.99
+  },
+  "dew_point": 34.05,
+  "humidity": 0.76,
+  "cloud_cover": 0.95,
+  "moon_phase": 0.91,
+  "precip_intensity": 0.0054,
+  "precip_probability": 0.89,
+  "precip_type": "rain",
+  "pressure": 1018.3,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 2,
+  "visibility": 9.43,
+  "wind_bearing": 71,
+  "wind_speed": 9.39
+}

@@ -11,9 +11,11 @@
   "longitude": -93.41,
   "location": "-93.41,37.54661",
   "location_details": "4893, S. 136th Rd. Bolivar, MO. 65613.  The forests and hills of Karlin, between Bolivar and Morrisville.",
-  "temperature_high": 92.19,
-  "temperature_mid": 83.16,
-  "temperature_low": 74.13,
+  "temperature": {
+    "high": 92.19,
+    "mid": 83.16,
+    "low": 74.13
+  },
   "dew_point": 72.33,
   "humidity": 0.73,
   "cloud_cover": 0.09,

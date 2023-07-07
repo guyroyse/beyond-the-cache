@@ -1,0 +1,35 @@
+{
+  "reportId": "3777",
+  "title": "Logger has two encounters over three day period",
+  "date": "2000-08-22",
+  "timestamp": 966902400,
+  "observed": "Encounters told to me by Logger Earl Whitstine. Sighting one occurred on Tuesday August 22, 2000 around 1300hrs.  Mr. Whitstine stated he was operating his cutter, which resembles a skidder in that the only difference basically is one has huge shear type cutters and the other has a holder.  Whitstine was approaching some fallen trees when he saw what appeared at the time to be the rear end of a horse.  Thinking this was a nearby resident's horse, he rattled the cutters in an attempt to scare it away, but as he rattled the cutters the object turned and stood up.  It was at this time he realized that he was not looking at a horse but a large bipedal creature.  He noticed that it was covered from head to toe in thick, long, jet black hair.  The hair around the face was also long and he couldn't make out any facial features.  The creature turned and began to head for a nearby logging road that ran parallel to Flaggon creek.  Whitstine then began to follow in the cutter, and as he got nearer to the creature it turned and jumped into the creek (bayou) and began to try to swim to the other side.  Whitstine stated it looked like it couldn't swim very well as it \"kept bobbing up and down trying to keep its head out of the water, but would occasionally go underwater.\"  After reaching the other side, the creature stopped and looked back then fled into the adjoining woods.  Whitstine called his boss who thought he was joking and brushed it off.  Whitstine also told fellow loggers who also poked fun at him.  Whitstine stated that he got as close as maybe twenty feet. Encounter number two occurred on Thursday August 24, 2000 around 0700-0730hrs while surveying a property line with another logger.  As they walked the line they came upon the creature again alongside a drying bayou (Boggy Bayou).  They came within eighty feet (measured during the investigation) of the creature as it stood looking at them from beside a large bush.  He yelled out to it \"Hey, what are you doing?\"  The creature then fled north away from Whitstine and the other logger.  Whitstine then called his boss and the property owner.  The land owner notified Wildlife and Fisheries, the Rapides Parish Sheriffs Office, along with the local paper and tv station.  The paper had the owner contact the BFRO.",
+  "classification": "Class A",
+  "county": "Rapides Parish",
+  "state": "Louisiana",
+  "latitude": 31.4676,
+  "longitude": -92.2508,
+  "location": {
+    "longitude": -92.2508,
+    "latitude": 31.4676
+  },
+  "location_details": "On file with BFRO",
+  "temperature": {
+    "high": 95.7,
+    "mid": 82.835,
+    "low": 69.97
+  },
+  "dew_point": 72.37,
+  "humidity": 0.77,
+  "cloud_cover": 0.17,
+  "moon_phase": 0.75,
+  "precip_intensity": 0.0108,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1019.73,
+  "summary": "Humid throughout the day and partly cloudy in the afternoon.",
+  "uv_index": 9,
+  "visibility": 7.69,
+  "wind_bearing": 131,
+  "wind_speed": 4.09
+}

@@ -11,9 +11,11 @@
   "longitude": -121.7713,
   "location": "-121.7713,47.1826",
   "location_details": "Grass Mtn. Apparently Near Cyclone Creek.",
-  "temperature_high": 68.98,
-  "temperature_mid": 60.51,
-  "temperature_low": 52.04,
+  "temperature": {
+    "high": 68.98,
+    "mid": 60.51,
+    "low": 52.04
+  },
   "dew_point": 50.35,
   "humidity": 0.76,
   "cloud_cover": 0.53,

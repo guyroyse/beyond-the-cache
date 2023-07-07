@@ -11,9 +11,11 @@
   "longitude": -80.8368,
   "location": "-80.8368,26.06885",
   "location_details": "South Florida, Everglades, near the area of the Dade County and Collier County line, between Big Cypress and Alligator Alley",
-  "temperature_high": 82.76,
-  "temperature_mid": 75.325,
-  "temperature_low": 67.89,
+  "temperature": {
+    "high": 82.76,
+    "mid": 75.325,
+    "low": 67.89
+  },
   "dew_point": 66.18,
   "humidity": 0.75,
   "cloud_cover": 0.27,

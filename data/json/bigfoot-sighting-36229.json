@@ -11,9 +11,11 @@
   "longitude": -85.03827,
   "location": "-85.03827,38.25861",
   "location_details": "Jacksonville, KY, just outside of Bagdad in north Shelby county.",
-  "temperature_high": 81.58,
-  "temperature_mid": 71.6,
-  "temperature_low": 61.62,
+  "temperature": {
+    "high": 81.58,
+    "mid": 71.6,
+    "low": 61.62
+  },
   "dew_point": 53.68,
   "humidity": 0.63,
   "cloud_cover": 0.11,

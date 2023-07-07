@@ -11,9 +11,11 @@
   "longitude": -83.53575,
   "location": "-83.53575,35.68449",
   "location_details": "From Gatlinburg,take Hwy 441(Newfound Gap Rd) towards Cherokee,NC.Just past the park entrance sign is where the sighting occurred.",
-  "temperature_high": 60.78,
-  "temperature_mid": 57.975,
-  "temperature_low": 55.17,
+  "temperature": {
+    "high": 60.78,
+    "mid": 57.975,
+    "low": 55.17
+  },
   "dew_point": 45.61,
   "humidity": 0.76,
   "cloud_cover": 0.94,

@@ -11,9 +11,11 @@
   "longitude": -80.7582,
   "location": "-80.7582,37.6541",
   "location_details": "route 3 from Hinton to Talcott.",
-  "temperature_high": 79.86,
-  "temperature_mid": 70.19,
-  "temperature_low": 60.52,
+  "temperature": {
+    "high": 79.86,
+    "mid": 70.19,
+    "low": 60.52
+  },
   "dew_point": 60.81,
   "humidity": 0.77,
   "cloud_cover": 0.23,

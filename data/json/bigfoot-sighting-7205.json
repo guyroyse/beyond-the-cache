@@ -11,9 +11,11 @@
   "longitude": -81.3065,
   "location": "-81.3065,25.8972",
   "location_details": "This house stood alone at the time. I don't recall any other homes near by. There would be nothing left now but the basement foundation, unless someone else built there later.",
-  "temperature_high": 90.76,
-  "temperature_mid": 84.345,
-  "temperature_low": 77.93,
+  "temperature": {
+    "high": 90.76,
+    "mid": 84.345,
+    "low": 77.93
+  },
   "dew_point": 72.49,
   "humidity": 0.69,
   "cloud_cover": 0.38,

@@ -11,9 +11,11 @@
   "longitude": -81.95285,
   "location": "-81.95285,27.9664",
   "location_details": "North of 540 up the Saddlecreek about 1/2 mile up the creek on the right side in the swamp close to the Dump.",
-  "temperature_high": 79.54,
-  "temperature_mid": 70.31,
-  "temperature_low": 61.08,
+  "temperature": {
+    "high": 79.54,
+    "mid": 70.31,
+    "low": 61.08
+  },
   "dew_point": 67.21,
   "humidity": 0.84,
   "cloud_cover": 0.98,

@@ -11,9 +11,11 @@
   "longitude": -123.4043,
   "location": "-123.4043,42.09224",
   "location_details": "The location is the switch-back portion of the Big Tree Trail from the Cave at the Oregon Caves National Monument park. I certainly couldn't be more specific after three years.",
-  "temperature_high": 80.57,
-  "temperature_mid": 70.92,
-  "temperature_low": 61.27,
+  "temperature": {
+    "high": 80.57,
+    "mid": 70.92,
+    "low": 61.27
+  },
   "dew_point": 55.84,
   "humidity": 0.62,
   "cloud_cover": 0.29,

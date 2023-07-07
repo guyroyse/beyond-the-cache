@@ -11,9 +11,11 @@
   "longitude": -111.23,
   "location": "-111.23,39.48",
   "location_details": "We were camped in the Lake Fork Campground just below Huntington Reservoir.  The dam was in sight of our campground and the ridge that we felt the sounds were coming from were due East of our location and as far as I know there aren't any roads accessing that area.",
-  "temperature_high": 83.8,
-  "temperature_mid": 71.26,
-  "temperature_low": 58.72,
+  "temperature": {
+    "high": 83.8,
+    "mid": 71.26,
+    "low": 58.72
+  },
   "dew_point": 47.46,
   "humidity": 0.47,
   "cloud_cover": 0.28,

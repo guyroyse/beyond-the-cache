@@ -11,9 +11,11 @@
   "longitude": -121.6384,
   "location": "-121.6384,44.56625",
   "location_details": "on the border of deshutes and jefferson counties",
-  "temperature_high": 70.42,
-  "temperature_mid": 63.805,
-  "temperature_low": 57.19,
+  "temperature": {
+    "high": 70.42,
+    "mid": 63.805,
+    "low": 57.19
+  },
   "dew_point": 52.84,
   "humidity": 0.73,
   "cloud_cover": 0.78,

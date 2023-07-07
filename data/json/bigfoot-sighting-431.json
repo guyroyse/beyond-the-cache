@@ -11,9 +11,11 @@
   "longitude": -119.7111,
   "location": "-119.7111,38.14167",
   "location_details": "Sound report occurred at a campsite located up stream from the Board Crossing Bridge, near Frog Lake (up above the lake on a ridgeline).  Frog Lake is in Carson-Iceberg Wilderness on the Stanislaus National Forest.  The footprint was seen near Mt. Reba/Bear Valley, near Beartrap Cabin.",
-  "temperature_high": 86.97,
-  "temperature_mid": 71.85,
-  "temperature_low": 56.73,
+  "temperature": {
+    "high": 86.97,
+    "mid": 71.85,
+    "low": 56.73
+  },
   "dew_point": 36.4,
   "humidity": 0.31,
   "cloud_cover": 0.1,

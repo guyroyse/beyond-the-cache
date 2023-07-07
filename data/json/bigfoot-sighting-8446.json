@@ -11,9 +11,11 @@
   "longitude": -83.9374,
   "location": "-83.9374,40.6559",
   "location_details": "Hardin/ Allen County line, near Rt.117/235",
-  "temperature_high": 65.99,
-  "temperature_mid": 61.955,
-  "temperature_low": 57.92,
+  "temperature": {
+    "high": 65.99,
+    "mid": 61.955,
+    "low": 57.92
+  },
   "dew_point": 46.69,
   "humidity": 0.65,
   "cloud_cover": 0.86,

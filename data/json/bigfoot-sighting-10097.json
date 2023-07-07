@@ -11,9 +11,11 @@
   "longitude": -123.9513,
   "location": "-123.9513,46.19945",
   "location_details": "Somewhere on the hike/bike trails between the KOA campground (Warrenton) and  Fort Stevens. It was on the more heavily wooded inland trails, not the one that goes to the beach (which is pretty grassy.)",
-  "temperature_high": 65.59,
-  "temperature_mid": 54.81,
-  "temperature_low": 44.03,
+  "temperature": {
+    "high": 65.59,
+    "mid": 54.81,
+    "low": 44.03
+  },
   "dew_point": 50.69,
   "humidity": 0.77,
   "cloud_cover": 0.58,

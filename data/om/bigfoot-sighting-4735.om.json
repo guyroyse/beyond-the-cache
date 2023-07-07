@@ -1,0 +1,35 @@
+{
+  "reportId": "4735",
+  "title": "Noon sighting by family of four near Mount Washburn, Yellowstone National Park",
+  "date": "2002-07-19",
+  "timestamp": 1027036800,
+  "observed": "In Yellowstone park on road on Mt Washburn.  My Wife, myself, and my two boys observed from our car a large, big chested, very tall (8 foot), dark colored humanoid figure walk up a ridge line some 300 meters away from us.  Can not explain what we saw and for sure it was not a bear.  It strided up the hill on two legs just like any human, it leaned slightly forward as it walked.  July, 2002",
+  "classification": "Class A",
+  "county": "Park",
+  "state": "Wyoming",
+  "latitude": 46.79165,
+  "longitude": -110.4165,
+  "location": {
+    "longitude": -110.4165,
+    "latitude": 46.79165
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 82.44,
+    "mid": 70.845,
+    "low": 59.25
+  },
+  "dew_point": 54.56,
+  "humidity": 0.53,
+  "cloud_cover": 0.27,
+  "moon_phase": 0.34,
+  "precip_intensity": 0.0058,
+  "precip_probability": 0.48,
+  "precip_type": "rain",
+  "pressure": 1011.3,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 9,
+  "visibility": 9.87,
+  "wind_bearing": 253,
+  "wind_speed": 4.26
+}

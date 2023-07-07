@@ -11,9 +11,11 @@
   "longitude": -122.941,
   "location": "-122.941,47.67304",
   "location_details": "At the end of the road on the Madrona Ridge road off the Mt Jupiter road",
-  "temperature_high": 65.39,
-  "temperature_mid": 60.705,
-  "temperature_low": 56.02,
+  "temperature": {
+    "high": 65.39,
+    "mid": 60.705,
+    "low": 56.02
+  },
   "dew_point": 54.25,
   "humidity": 0.82,
   "cloud_cover": 0.22,

@@ -11,9 +11,11 @@
   "longitude": -121.2981,
   "location": "-121.2981,46.87139",
   "location_details": "Unmarked campsite on right side just past the turn for state campsites and boat launch.",
-  "temperature_high": 65.51,
-  "temperature_mid": 60.815,
-  "temperature_low": 56.12,
+  "temperature": {
+    "high": 65.51,
+    "mid": 60.815,
+    "low": 56.12
+  },
   "dew_point": 49.58,
   "humidity": 0.74,
   "cloud_cover": 0.64,

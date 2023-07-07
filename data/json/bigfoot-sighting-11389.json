@@ -11,9 +11,11 @@
   "longitude": -94.32139,
   "location": "-94.32139,33.09625",
   "location_details": "About 3-4 miles from hwy 59 on a dirt road back then, now slightly paved. Minimum Traffic flow on the dirt road.",
-  "temperature_high": 80.12,
-  "temperature_mid": 73.2,
-  "temperature_low": 66.28,
+  "temperature": {
+    "high": 80.12,
+    "mid": 73.2,
+    "low": 66.28
+  },
   "dew_point": 63.75,
   "humidity": 0.78,
   "cloud_cover": 0.49,

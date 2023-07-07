@@ -1,0 +1,35 @@
+{
+  "reportId": "2037",
+  "title": "Man has interesting experiences outside of La Porte",
+  "date": "1997-07-01",
+  "timestamp": 867715200,
+  "observed": "Various things observed during 2 summer field seasons working on my Master's degree thesis in the Northern Sierra ( 14 months total). 1) I stopped to look at a topographic map about 20 miles west of Quincy,Ca on the Quincy-LaPorte Rd-heard a modulated guttural scream-did not see anything-area is open Douglas Fir forest. 2) 3 different instances smelled a strong human feces smell while hiking -mostly in trailless manzanita/Douglas Fir/Talus slope areas-Slate Creek area. This area has great topographic relief. 3) Set of footprints and 3 pieces of feces -Upper Slate Creek. Footprints were found in soft fine silt overbank deposits on a meander of the creek and were approximately 11 inches long. I could very easily see the dermal ridges of the 5 toes, ball and heal. No discernable ball of foot was observed. Footprints were \"square\"-almost all toes were of equal length,ie: flat across the top. The 3 pieces of feces were approx. 3 inches long and 2 inches wide -light and dark brown mottled. A very faint human feces smell was observed.",
+  "classification": "Class B",
+  "county": "Plumas",
+  "state": "California",
+  "latitude": 39.94278,
+  "longitude": -121.0158,
+  "location": {
+    "longitude": -121.0158,
+    "latitude": 39.94278
+  },
+  "location_details": "The different locations were around Slate Creek, Plumas National Forest, Plumas Co, Ca., approximately 12 east of La Porte, Ca.",
+  "temperature": {
+    "high": 81.44,
+    "mid": 66.58,
+    "low": 51.72
+  },
+  "dew_point": 42.86,
+  "humidity": 0.5,
+  "cloud_cover": 0.2,
+  "moon_phase": 0.9,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.22,
+  "precip_type": "rain",
+  "pressure": 1016.6,
+  "summary": "Partly cloudy starting in the evening.",
+  "uv_index": 11,
+  "visibility": 9.8,
+  "wind_bearing": 300,
+  "wind_speed": 2.3
+}

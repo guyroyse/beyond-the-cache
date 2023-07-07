@@ -11,9 +11,11 @@
   "longitude": -121.6009,
   "location": "-121.6009,43.74251",
   "location_details": "Highway 29, North to Baker Lake Rd. Follow to Shannon Creek Campground Rd.",
-  "temperature_high": 79.75,
-  "temperature_mid": 62.23,
-  "temperature_low": 44.71,
+  "temperature": {
+    "high": 79.75,
+    "mid": 62.23,
+    "low": 44.71
+  },
   "dew_point": 41.45,
   "humidity": 0.55,
   "cloud_cover": 0.04,

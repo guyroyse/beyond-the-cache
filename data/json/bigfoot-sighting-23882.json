@@ -11,9 +11,11 @@
   "longitude": -93.36627,
   "location": "-93.36627,32.45763",
   "location_details": "THIS HAPPENED ON LAKE BISTINUE NEAR STATE PARK NUMBER 2.",
-  "temperature_high": 87.97,
-  "temperature_mid": 80.725,
-  "temperature_low": 73.48,
+  "temperature": {
+    "high": 87.97,
+    "mid": 80.725,
+    "low": 73.48
+  },
   "dew_point": 71.4,
   "humidity": 0.77,
   "cloud_cover": 0.7,

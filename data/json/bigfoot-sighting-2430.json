@@ -11,9 +11,11 @@
   "longitude": -83.25562,
   "location": "-83.25562,37.37814",
   "location_details": "It is in the mountains of Eastern KY,about 10 miles north of Hazard. If you travel south out of Jackson towards Hazard hwy. 15 is about 20 miles down on the right,you take a right and go about 4 miles to the holler my family lives in. Very dense area almost cant walk around because it is so overgrown",
-  "temperature_high": 82.48,
-  "temperature_mid": 72.545,
-  "temperature_low": 62.61,
+  "temperature": {
+    "high": 82.48,
+    "mid": 72.545,
+    "low": 62.61
+  },
   "dew_point": 66.48,
   "humidity": 0.78,
   "cloud_cover": 0.81,

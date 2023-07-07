@@ -11,9 +11,11 @@
   "longitude": -80.11329,
   "location": "-80.11329,39.54114",
   "location_details": "Marion County West Virginia. (near the border of Monongalia County, along the Monongalia River) Near the small towns of Rivesville and Jordan.  The nearest road would be Rt. 19. (Exact location is being kept confidential per witnesses' request.)",
-  "temperature_high": 52.52,
-  "temperature_mid": 46.06,
-  "temperature_low": 39.6,
+  "temperature": {
+    "high": 52.52,
+    "mid": 46.06,
+    "low": 39.6
+  },
   "dew_point": 38.86,
   "humidity": 0.75,
   "cloud_cover": 0.78,

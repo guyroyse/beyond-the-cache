@@ -11,9 +11,11 @@
   "longitude": -84.1317,
   "location": "-84.1317,39.03501",
   "location_details": "we were fishing on a sandy clearing just to the right of the floating dock at the Northshore boatramp,EastFork Lake State Park",
-  "temperature_high": 78.09,
-  "temperature_mid": 72.605,
-  "temperature_low": 67.12,
+  "temperature": {
+    "high": 78.09,
+    "mid": 72.605,
+    "low": 67.12
+  },
   "dew_point": 61.99,
   "humidity": 0.72,
   "cloud_cover": 0.45,

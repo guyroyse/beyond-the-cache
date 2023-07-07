@@ -11,9 +11,11 @@
   "longitude": -79.43762,
   "location": "-79.43762,39.0417",
   "location_details": "The siting was in the Canaan Valley area  .I have more information that could be very helpful to you. I will be more specific with a phone call to me.",
-  "temperature_high": 81.29,
-  "temperature_mid": 72.79,
-  "temperature_low": 64.29,
+  "temperature": {
+    "high": 81.29,
+    "mid": 72.79,
+    "low": 64.29
+  },
   "dew_point": 66.39,
   "humidity": 0.8,
   "cloud_cover": 0.84,

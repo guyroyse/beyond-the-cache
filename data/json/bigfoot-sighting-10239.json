@@ -11,9 +11,11 @@
   "longitude": -100.4104,
   "location": "-100.4104,29.24665",
   "location_details": "was on the highway 131 about 35 miles outside brackettville",
-  "temperature_high": 95.48,
-  "temperature_mid": 84.34,
-  "temperature_low": 73.2,
+  "temperature": {
+    "high": 95.48,
+    "mid": 84.34,
+    "low": 73.2
+  },
   "dew_point": 64.53,
   "humidity": 0.55,
   "cloud_cover": 0.32,

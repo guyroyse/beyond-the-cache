@@ -11,9 +11,11 @@
   "longitude": -81.3456,
   "location": "-81.3456,29.85375",
   "location_details": "Take SR 207 East from I-95 to the Florida East Coast Railroad tracks. Sighting was south bound of the the RR tracks on right-of-way. Between SR 207 and Kings Estate Rd. (next crossing south of SR 207)",
-  "temperature_high": 83.96,
-  "temperature_mid": 75.45,
-  "temperature_low": 66.94,
+  "temperature": {
+    "high": 83.96,
+    "mid": 75.45,
+    "low": 66.94
+  },
   "dew_point": 65.08,
   "humidity": 0.76,
   "cloud_cover": 0.62,

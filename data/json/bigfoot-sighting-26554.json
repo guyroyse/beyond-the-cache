@@ -11,9 +11,11 @@
   "longitude": -96.36707,
   "location": "-96.36707,36.03501",
   "location_details": "Off highway 51 that heads out of Tulsa okla., You head west through Mannford and turn south onto highway 48 and go about 6 miles to 87th.",
-  "temperature_high": 89.63,
-  "temperature_mid": 80.505,
-  "temperature_low": 71.38,
+  "temperature": {
+    "high": 89.63,
+    "mid": 80.505,
+    "low": 71.38
+  },
   "dew_point": 67.52,
   "humidity": 0.72,
   "cloud_cover": 0.21,

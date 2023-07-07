@@ -11,9 +11,11 @@
   "longitude": -114.0906,
   "location": "-114.0906,47.03222",
   "location_details": "It was in Montana on the Flathead Indian Reservation,near an area known as Evaro. This is about 20 miles northwest of Missoula, MT. It occured near our residence, which was located about 4 miles deep into the woods from the nearest main roadway (Highway 93). The only way to get to our residence was by following an old dirt road that winds its way through the forest.",
-  "temperature_high": 79.88,
-  "temperature_mid": 67.82,
-  "temperature_low": 55.76,
+  "temperature": {
+    "high": 79.88,
+    "mid": 67.82,
+    "low": 55.76
+  },
   "dew_point": 58.99,
   "humidity": 0.74,
   "cloud_cover": 0.63,

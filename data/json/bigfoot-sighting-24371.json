@@ -11,9 +11,11 @@
   "longitude": -117.925,
   "location": "-117.925,45.91665",
   "location_details": "I set up camp at Skyline Campground (formerly Squaw Springs Campground)It is along Kendall Skyline Road. Take Mill Creek Road to Tiger Creek Rd and it is 2 or 3 miles south of where Tiger Creek Rd intersects Kendall Skyline Rd. I hiked approximately 2 miles into the Wenaha-Tucannon Wilderness. I also brought along a Garmin GPS and kept a log of my hike if someone wants to investigate the area further.",
-  "temperature_high": 36.42,
-  "temperature_mid": 31.055,
-  "temperature_low": 25.69,
+  "temperature": {
+    "high": 36.42,
+    "mid": 31.055,
+    "low": 25.69
+  },
   "dew_point": 26.04,
   "humidity": 0.83,
   "cloud_cover": 0.81,

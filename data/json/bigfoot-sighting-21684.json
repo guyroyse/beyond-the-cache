@@ -11,9 +11,11 @@
   "longitude": -118.3743,
   "location": "-118.3743,37.15889",
   "location_details": "From Big Pine, go west on Glacier Rd. The trailhead is almost at the end of the road (before Glacier Lodge). The trail goes up to the seven lakes, located in Palisades Glacier. This incident occured at the west end of sixth lake, with seven lake a short distance away.",
-  "temperature_high": 82.61,
-  "temperature_mid": 66.3,
-  "temperature_low": 49.99,
+  "temperature": {
+    "high": 82.61,
+    "mid": 66.3,
+    "low": 49.99
+  },
   "dew_point": 37.73,
   "humidity": 0.41,
   "cloud_cover": 0.28,

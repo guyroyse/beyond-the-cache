@@ -1,0 +1,35 @@
+{
+  "reportId": "47021",
+  "title": "Bigfoot crosses SR-72 directly in front a vehicle west of Arcadia and just outside Myakka River State Park",
+  "date": "2014-09-09",
+  "timestamp": 1410220800,
+  "observed": "The witness does not have a computer, so I asked the witness to fill out our report form by hand. This following is what she wrote: I was driving home toward Arcadia on HWY 72 around 8:30 pm. I thought I first saw a deer to my right, but then I realized it wasn't a deer. It was a bigfoot and it was huge! I had to hit the brakes, it was so close to the car. It ran across the street and looked at me! It crossed in two steps. It had long dark brown hair. The hair was not shaggy, but smooth like a dog. It ran so close to my car, at my car, it seemed as if it was trying to purposely cross before me. Once I passed by it, I stopped the car and got out. I didn't see anything, but smelled a musky smell. I called my kids while I stood there on the road.",
+  "classification": "Class A",
+  "county": "Sarasota",
+  "state": "Florida",
+  "latitude": 27.19995,
+  "longitude": -81.98468,
+  "location": {
+    "longitude": -81.98468,
+    "latitude": 27.19995
+  },
+  "location_details": "Just over the bridge",
+  "temperature": {
+    "high": 87.83,
+    "mid": 81.275,
+    "low": 74.72
+  },
+  "dew_point": 72.51,
+  "humidity": 0.8,
+  "cloud_cover": 0.1,
+  "moon_phase": 0.52,
+  "precip_intensity": 0.0143,
+  "precip_probability": 0.33,
+  "precip_type": "rain",
+  "pressure": 1016.84,
+  "summary": "Heavy rain in the evening.",
+  "uv_index": 9,
+  "visibility": 9.74,
+  "wind_bearing": 109,
+  "wind_speed": 3.11
+}

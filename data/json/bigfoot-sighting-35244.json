@@ -11,9 +11,11 @@
   "longitude": -79.7773,
   "location": "-79.7773,38.712",
   "location_details": "26th across the road parrelling the West Fork of the Greenbrier River. On the other side of the road the woods just go up the mountain. 27th down by the stream which was about 500 yards away from camp.",
-  "temperature_high": 57.45,
-  "temperature_mid": 48.285,
-  "temperature_low": 39.12,
+  "temperature": {
+    "high": 57.45,
+    "mid": 48.285,
+    "low": 39.12
+  },
   "dew_point": 32.14,
   "humidity": 0.54,
   "cloud_cover": 0.32,

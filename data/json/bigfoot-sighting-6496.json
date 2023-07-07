@@ -11,9 +11,11 @@
   "longitude": -71.5,
   "location": "-71.5,41.45",
   "location_details": "Great swamp area, Narragansett Indians",
-  "temperature_high": 78,
-  "temperature_mid": 73,
-  "temperature_low": 68,
+  "temperature": {
+    "high": 78,
+    "mid": 73,
+    "low": 68
+  },
   "dew_point": 66.41,
   "humidity": 0.87,
   "cloud_cover": 0.9,

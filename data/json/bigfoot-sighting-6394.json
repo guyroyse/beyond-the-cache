@@ -11,9 +11,11 @@
   "longitude": -92.73979,
   "location": "-92.73979,41.02174",
   "location_details": "Go East on Benton Ave. East to before it turns into old highway 34.  Take a left on the Country Club Road (you'll be heading North).  Go approximately 3/4 of a mile where you'll see an entrance to a field.  You'll have to walk in from there.",
-  "temperature_high": 32.03,
-  "temperature_mid": 25.445,
-  "temperature_low": 18.86,
+  "temperature": {
+    "high": 32.03,
+    "mid": 25.445,
+    "low": 18.86
+  },
   "dew_point": 11.81,
   "humidity": 0.7,
   "cloud_cover": 0.02,

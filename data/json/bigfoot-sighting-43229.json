@@ -11,9 +11,11 @@
   "longitude": -98.15556,
   "location": "-98.15556,29.79893",
   "location_details": "RR 32 Devil's Backbone Texas Hill Country.  John Knox Mail Route Road area.",
-  "temperature_high": 79.22,
-  "temperature_mid": 72.845,
-  "temperature_low": 66.47,
+  "temperature": {
+    "high": 79.22,
+    "mid": 72.845,
+    "low": 66.47
+  },
   "dew_point": 63.02,
   "humidity": 0.76,
   "cloud_cover": 0.83,

@@ -11,9 +11,11 @@
   "longitude": -124.0556,
   "location": "-124.0556,47.0562",
   "location_details": "a quarter mile past the iron bridge heading toward Ocean Shores.",
-  "temperature_high": 56.65,
-  "temperature_mid": 52.66,
-  "temperature_low": 48.67,
+  "temperature": {
+    "high": 56.65,
+    "mid": 52.66,
+    "low": 48.67
+  },
   "dew_point": 48.64,
   "humidity": 0.81,
   "cloud_cover": 0.28,

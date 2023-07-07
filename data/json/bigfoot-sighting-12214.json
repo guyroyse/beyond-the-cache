@@ -11,9 +11,11 @@
   "longitude": -109.155,
   "location": "-109.155,35.97",
   "location_details": "This incident took place about 7 miles north of Sawmill,  Arizona, on the White Clay Road after passing the power lines. Then its about 1 mile east off the road.",
-  "temperature_high": 85.09,
-  "temperature_mid": 64.29,
-  "temperature_low": 43.49,
+  "temperature": {
+    "high": 85.09,
+    "mid": 64.29,
+    "low": 43.49
+  },
   "dew_point": 27.66,
   "humidity": 0.29,
   "cloud_cover": 0,

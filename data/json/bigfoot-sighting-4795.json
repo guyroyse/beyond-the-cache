@@ -11,9 +11,11 @@
   "longitude": -81.68295,
   "location": "-81.68295,29.77295",
   "location_details": "The open pine woods of north Florida.",
-  "temperature_high": 85.98,
-  "temperature_mid": 77.5,
-  "temperature_low": 69.02,
+  "temperature": {
+    "high": 85.98,
+    "mid": 77.5,
+    "low": 69.02
+  },
   "dew_point": 72.16,
   "humidity": 0.84,
   "cloud_cover": 0.93,

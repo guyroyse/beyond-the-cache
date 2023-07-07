@@ -11,9 +11,11 @@
   "longitude": -121.5287,
   "location": "-121.5287,47.485",
   "location_details": "Hannon Lake is SE of Monroe. From Hgy 203 turn onto High Rock Rd, then onto Lake Fontel Road. The road is presently gated about 1 mile from Hannon Lake, Lake Fontel is about 1/4 mile beyond.",
-  "temperature_high": 62.43,
-  "temperature_mid": 54.675,
-  "temperature_low": 46.92,
+  "temperature": {
+    "high": 62.43,
+    "mid": 54.675,
+    "low": 46.92
+  },
   "dew_point": 41.55,
   "humidity": 0.71,
   "cloud_cover": 0.16,

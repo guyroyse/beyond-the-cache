@@ -11,9 +11,11 @@
   "longitude": -86.81714,
   "location": "-86.81714,39.74356",
   "location_details": "One hour west of Indianapolis on US 36, before US 231. Farmland, fields, and dense woods.",
-  "temperature_high": 33.3,
-  "temperature_mid": 28.875,
-  "temperature_low": 24.45,
+  "temperature": {
+    "high": 33.3,
+    "mid": 28.875,
+    "low": 24.45
+  },
   "dew_point": 26.62,
   "humidity": 0.84,
   "cloud_cover": 0.94,

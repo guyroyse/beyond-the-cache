@@ -11,9 +11,11 @@
   "longitude": -105.047,
   "location": "-105.047,38.68775",
   "location_details": "Standing on the west side of the lake looking east over the water. More to southeast looking past the east end of the dam.",
-  "temperature_high": 79.98,
-  "temperature_mid": 69.39,
-  "temperature_low": 58.8,
+  "temperature": {
+    "high": 79.98,
+    "mid": 69.39,
+    "low": 58.8
+  },
   "dew_point": 47.14,
   "humidity": 0.51,
   "cloud_cover": 0.05,

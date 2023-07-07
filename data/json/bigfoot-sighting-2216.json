@@ -11,9 +11,11 @@
   "longitude": -109.6429,
   "location": "-109.6429,44.49817",
   "location_details": "Maybe 20-30 minutes east of the Park",
-  "temperature_high": 81.5,
-  "temperature_mid": 65.82,
-  "temperature_low": 50.14,
+  "temperature": {
+    "high": 81.5,
+    "mid": 65.82,
+    "low": 50.14
+  },
   "dew_point": 45.11,
   "humidity": 0.5,
   "cloud_cover": 0.19,

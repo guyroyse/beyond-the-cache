@@ -1,0 +1,35 @@
+{
+  "reportId": "49883",
+  "title": "Recollection of a possible late night stalking on Waterloo Road in Allamuchy",
+  "date": "2015-10-02",
+  "timestamp": 1443744000,
+  "observed": "It was August of 1977 and I had missed my ride home from Hacketstown NJ to Byram NJ. The road to get back to Byram is Waterloo Rd. It was about 9:30-10:00 PM so I decided to hitch hike it on Waterloo hoping that someone would give me a lift back to HWY-206. It was very dark and as I was walking past Stephens State Park and then the old Saxton Falls area, I could hear something that sounded like it was on 2 feet stalking me in the woods on the ridge side of Waterloo Rd. It got very interesting when I started sprinting, it also started sprinting keeping up with me for what seemed like at least a mile. When I would walk, it would walk. It was loud as it went thru the woods as I stayed on the road hoping for a car to pick me up. Eventually I did get a ride near a few houses after passing an old Tavern on the river side of Waterloo Rd.",
+  "classification": "Class B",
+  "county": "Warren",
+  "state": "New Jersey",
+  "latitude": 40.89452,
+  "longitude": -74.79077,
+  "location": {
+    "longitude": -74.79077,
+    "latitude": 40.89452
+  },
+  "location_details": "Waterloo Road, near the Sussex - Warren County border.",
+  "temperature": {
+    "high": 51.18,
+    "mid": 49.13,
+    "low": 47.08
+  },
+  "dew_point": 44.65,
+  "humidity": 0.81,
+  "cloud_cover": 0.36,
+  "moon_phase": 0.67,
+  "precip_intensity": 0.0164,
+  "precip_probability": 0.82,
+  "precip_type": "rain",
+  "pressure": 1022.25,
+  "summary": "Light rain starting in the afternoon and breezy in the evening.",
+  "uv_index": 2,
+  "visibility": 8.63,
+  "wind_bearing": 42,
+  "wind_speed": 12.24
+}

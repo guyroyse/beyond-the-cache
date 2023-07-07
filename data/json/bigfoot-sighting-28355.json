@@ -11,9 +11,11 @@
   "longitude": -81.91354,
   "location": "-81.91354,29.94011",
   "location_details": "Hwy 21 south to Dade Road in Camp Blanding,right on Cemetary Rd to Wilson Rd,approx, 300  yards on the right,then approx.500 yards into the woods.",
-  "temperature_high": 80.9,
-  "temperature_mid": 70.98,
-  "temperature_low": 61.06,
+  "temperature": {
+    "high": 80.9,
+    "mid": 70.98,
+    "low": 61.06
+  },
   "dew_point": 64.49,
   "humidity": 0.85,
   "cloud_cover": 0.49,

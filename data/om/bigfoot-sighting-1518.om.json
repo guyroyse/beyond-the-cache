@@ -1,0 +1,34 @@
+{
+  "reportId": "1518",
+  "title": "Campers hear something \"running\" through camp & find very large footprints",
+  "date": "1994-09-30",
+  "timestamp": 780883200,
+  "observed": "We were in a hunting camp and something spooked the horses late at night. This is not uncommon here but something was different. Something came running through camp and made the strangest yell I've ever heard. We thought it was probably a bear or what have you, but the next morning we found some parcel tracks that appeared to be man shaped but larger. We all wondered if it could be what we thought but needed the meat we were after worse. We just kind of left it at that and use it to scare visiting relatives.",
+  "classification": "Class B",
+  "county": "Granite",
+  "state": "Montana",
+  "latitude": 46.18694,
+  "longitude": -113.6925,
+  "location": {
+    "longitude": -113.6925,
+    "latitude": 46.18694
+  },
+  "location_details": "Sand Basin area",
+  "temperature": {
+    "high": 72.27,
+    "mid": 55.205,
+    "low": 38.14
+  },
+  "dew_point": 44.18,
+  "humidity": 0.64,
+  "cloud_cover": 0.45,
+  "moon_phase": 0.84,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1013.26,
+  "summary": "Partly cloudy until evening.",
+  "uv_index": 4,
+  "visibility": 9.77,
+  "wind_bearing": 266,
+  "wind_speed": 0.4
+}

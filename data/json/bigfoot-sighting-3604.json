@@ -11,9 +11,11 @@
   "longitude": -106.3625,
   "location": "-106.3625,39.225",
   "location_details": "Witness requests anonymity.  But the location is generally south of Leadville, east of the National Fish Hatchery, North of Highway 300 and west of Highway U.S. 24.",
-  "temperature_high": 76.47,
-  "temperature_mid": 63.635,
-  "temperature_low": 50.8,
+  "temperature": {
+    "high": 76.47,
+    "mid": 63.635,
+    "low": 50.8
+  },
   "dew_point": 36.7,
   "humidity": 0.42,
   "cloud_cover": 0.29,

@@ -1,0 +1,35 @@
+{
+  "reportId": "27028",
+  "title": "A man is woken by a whoop near his home and a few months later sees an upright creature run past his barn",
+  "date": "2004-06-01",
+  "timestamp": 1086048000,
+  "observed": "Early Summer 2004: One morning at 3 am I heard a vocalization at what I thought was quite a ways off. Now, looking back at the situation, I was in the house and heard it clearly. I have no idea of the distance. But it was definately the whoop howl that is recorded here on your website. November 2004: I saw something big on two legs run through my yard one night. The ground was frozen, so no tracks. It was big is all I can say. (Original report edited by the investigator to add the date notations.)",
+  "classification": "Class B",
+  "county": "Pine",
+  "state": "Minnesota",
+  "latitude": 46.02361,
+  "longitude": -92.88618,
+  "location": {
+    "longitude": -92.88618,
+    "latitude": 46.02361
+  },
+  "location_details": "North of what is now the airport.",
+  "temperature": {
+    "high": 65.71,
+    "mid": 56.39,
+    "low": 47.07
+  },
+  "dew_point": 47.95,
+  "humidity": 0.89,
+  "cloud_cover": 0.86,
+  "moon_phase": 0.44,
+  "precip_intensity": 0.009,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1001.7,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 7.87,
+  "wind_bearing": 36,
+  "wind_speed": 6.26
+}

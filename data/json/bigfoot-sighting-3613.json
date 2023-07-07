@@ -11,9 +11,11 @@
   "longitude": -122.8241,
   "location": "-122.8241,48.09725",
   "location_details": "Traveling into Port Townsend on State Route 20, you pass a sign that says \"P.T. 4 miles\".  A mile or so later you come to a left turn onto Jacob Miller Rd.  You follow that for a few miles, passing the county landfill, and you come to Hastings Rd.  You turn right, and less than a mile later, you turn left on Cook Av.  perhaps half a mile later you round a curve and find Elmira Rd.  On the left.  This is the general vacinity from which the bellowing came from.  The location of the friend's occurance would be the same turn onto Jacob Miller, but then a quick left onto Old Discovery Rd. and taking, I believe, the second right onto Arcadia Rd - then a quick left down this dirt road which I think is unmarked except for red fire markers.  That dirt road goes for a few miles into the woods.  His Tree loft was next to a small cabin and Gazebo at least a mile back in there.",
-  "temperature_high": 59.64,
-  "temperature_mid": 55.86,
-  "temperature_low": 52.08,
+  "temperature": {
+    "high": 59.64,
+    "mid": 55.86,
+    "low": 52.08
+  },
   "dew_point": 52.33,
   "humidity": 0.9,
   "cloud_cover": 0.81,

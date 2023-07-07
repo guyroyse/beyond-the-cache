@@ -11,9 +11,11 @@
   "longitude": -82.8436,
   "location": "-82.8436,30.31709",
   "location_details": "get off I-75 @ 136 Live Oak/ White Springs, that general vacinity...",
-  "temperature_high": 72.68,
-  "temperature_mid": 58.6,
-  "temperature_low": 44.52,
+  "temperature": {
+    "high": 72.68,
+    "mid": 58.6,
+    "low": 44.52
+  },
   "dew_point": 45.62,
   "humidity": 0.69,
   "cloud_cover": 0.06,

@@ -11,9 +11,11 @@
   "longitude": -86.46065,
   "location": "-86.46065,39.32117",
   "location_details": "Hindustan is the nearest village (only a few homes and small church) perhaps 3-4 miles away on Old 37. The town of Martinsville is about 5 miles to the north and the town of Bloomington is about 15 miles to the south. This incident took place in the Morgan-Monroe State Forest on the Main Forest Road about 1 or 1.5 miles east of the forest entrance that is off of the State Road Old 37.",
-  "temperature_high": 36.98,
-  "temperature_mid": 30.505,
-  "temperature_low": 24.03,
+  "temperature": {
+    "high": 36.98,
+    "mid": 30.505,
+    "low": 24.03
+  },
   "dew_point": 29.26,
   "humidity": 0.74,
   "cloud_cover": 0.83,

@@ -11,9 +11,11 @@
   "longitude": -119.7519,
   "location": "-119.7519,38.32417",
   "location_details": "lat. 38 14' 34\" long. 119 36' 49\" intersection of Kennedy canyon trail and what I call \"Leavitt lake trail\".  Elev. approx. 3000 mtrs.  This trail intersection is several uphill miles above Leavitt lake, which is not really a trailhead but rather the furthest point you can drive south of hwy 108.  The location is easily found using the MAPTECH website.",
-  "temperature_high": 85.62,
-  "temperature_mid": 71.455,
-  "temperature_low": 57.29,
+  "temperature": {
+    "high": 85.62,
+    "mid": 71.455,
+    "low": 57.29
+  },
   "dew_point": 50.23,
   "humidity": 0.48,
   "cloud_cover": 0.16,

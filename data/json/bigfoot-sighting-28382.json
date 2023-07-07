@@ -11,9 +11,11 @@
   "longitude": -82.4438,
   "location": "-82.4438,38.3248",
   "location_details": "3 mi. from Lavalette, WV an unincorporated area.",
-  "temperature_high": 81.26,
-  "temperature_mid": 68.79,
-  "temperature_low": 56.32,
+  "temperature": {
+    "high": 81.26,
+    "mid": 68.79,
+    "low": 56.32
+  },
   "dew_point": 57.77,
   "humidity": 0.74,
   "cloud_cover": 0.22,

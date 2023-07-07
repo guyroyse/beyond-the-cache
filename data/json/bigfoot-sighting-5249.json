@@ -11,9 +11,11 @@
   "longitude": -118.9505,
   "location": "-118.9505,47.9093",
   "location_details": "174 E from Grand Coulee There is a road that goes down to Lake Roosevelt, ie. the Spring Canyon Road by Lake View Terrace Mobile Park.  Turn on this road going uphill (south from 174).  The road is blocked by two gates.  The gate on the left is the one you want.  The road is disguised at first.  Walking up the road, there is a 1920's/1930's vintage water pipe going with the road.  At the top, as the road curves to the left at a high point, there is a small mesa on your right.  Spring Canyon winds around this Mesa.  Climb on top for a view.  To the SouthEast, there is a beautiful dry waterfall with dense vegatation behind it.  That is the lair.  The best way up is to go directly East/up and walk around a wheat field.",
-  "temperature_high": 70.72,
-  "temperature_mid": 56.905,
-  "temperature_low": 43.09,
+  "temperature": {
+    "high": 70.72,
+    "mid": 56.905,
+    "low": 43.09
+  },
   "dew_point": 43.52,
   "humidity": 0.68,
   "cloud_cover": 0.09,

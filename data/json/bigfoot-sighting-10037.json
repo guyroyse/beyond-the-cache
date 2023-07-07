@@ -11,9 +11,11 @@
   "longitude": -89.689,
   "location": "-89.689,41.7798",
   "location_details": "First lot on the rightside of Woodside Dr. directly behind house about 60 yards.",
-  "temperature_high": 10.37,
-  "temperature_mid": 6.08,
-  "temperature_low": 1.79,
+  "temperature": {
+    "high": 10.37,
+    "mid": 6.08,
+    "low": 1.79
+  },
   "dew_point": -2.62,
   "humidity": 0.62,
   "cloud_cover": 0.04,

@@ -11,9 +11,11 @@
   "longitude": -87.02025,
   "location": "-87.02025,34.9263",
   "location_details": "5 MILES WEST OF ELKMONT ON MORRIS RD INTO VAUGHN HOLLOW",
-  "temperature_high": 93.65,
-  "temperature_mid": 82.74,
-  "temperature_low": 71.83,
+  "temperature": {
+    "high": 93.65,
+    "mid": 82.74,
+    "low": 71.83
+  },
   "dew_point": 73.5,
   "humidity": 0.78,
   "cloud_cover": 0.48,

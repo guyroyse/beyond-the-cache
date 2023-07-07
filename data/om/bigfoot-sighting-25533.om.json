@@ -1,0 +1,35 @@
+{
+  "reportId": "25533",
+  "title": "Two men mushroom picking find large footprint and snapped tree near Elkton",
+  "date": "2006-11-15",
+  "timestamp": 1163548800,
+  "observed": "While collecting mushrooms i came across a huge footprint. The area was thick with brush', and knowing i didn't believe i saw what i saw.   my hair still stands with the thought ...my friend and i will never forget. the print was indented and around 18 inches long and 8 inches wide",
+  "classification": "Class B",
+  "county": "Douglas",
+  "state": "Oregon",
+  "latitude": 43.61538,
+  "longitude": -123.5036,
+  "location": {
+    "longitude": -123.5036,
+    "latitude": 43.61538
+  },
+  "location_details": "off hwy 138 w half mile south of elkton turnwest across umpqua river proceed a mile turn right on camp cr road up in the hills",
+  "temperature": {
+    "high": 55.9,
+    "mid": 50.39,
+    "low": 44.88
+  },
+  "dew_point": 43.89,
+  "humidity": 0.77,
+  "cloud_cover": 0.68,
+  "moon_phase": 0.84,
+  "precip_intensity": 0.0128,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1010.56,
+  "summary": "Breezy until evening and rain starting in the evening.",
+  "uv_index": 1,
+  "visibility": 7.71,
+  "wind_bearing": 186,
+  "wind_speed": 16.44
+}

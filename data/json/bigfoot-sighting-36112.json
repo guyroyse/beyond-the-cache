@@ -11,9 +11,11 @@
   "longitude": -81.23386,
   "location": "-81.23386,28.97672",
   "location_details": "Down by a post office is a sign saying left to cassadaga but there is a way to just keep going straight and we missed the cassadaga turn so we ended up going straight to the location.",
-  "temperature_high": 92.91,
-  "temperature_mid": 84.615,
-  "temperature_low": 76.32,
+  "temperature": {
+    "high": 92.91,
+    "mid": 84.615,
+    "low": 76.32
+  },
   "dew_point": 73.02,
   "humidity": 0.72,
   "cloud_cover": 0.19,

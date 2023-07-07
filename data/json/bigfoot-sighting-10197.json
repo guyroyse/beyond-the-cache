@@ -11,9 +11,11 @@
   "longitude": -89.558,
   "location": "-89.558,39.06",
   "location_details": "About a mile southwest of McPherson bridge.",
-  "temperature_high": 87.58,
-  "temperature_mid": 78.02,
-  "temperature_low": 68.46,
+  "temperature": {
+    "high": 87.58,
+    "mid": 78.02,
+    "low": 68.46
+  },
   "dew_point": 61.51,
   "humidity": 0.68,
   "cloud_cover": 0.18,

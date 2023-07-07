@@ -11,9 +11,11 @@
   "longitude": -109.5601,
   "location": "-109.5601,32.42445",
   "location_details": "I don't remember, nor was I paying attention. We had turned off on a dirt trail and hiked back a bit. We were not at the Riggs Lake yet and we were past the first major cabin area.",
-  "temperature_high": 98.29,
-  "temperature_mid": 84.21,
-  "temperature_low": 70.13,
+  "temperature": {
+    "high": 98.29,
+    "mid": 84.21,
+    "low": 70.13
+  },
   "dew_point": 43.12,
   "humidity": 0.25,
   "cloud_cover": 0.29,

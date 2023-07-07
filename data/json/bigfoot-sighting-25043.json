@@ -11,9 +11,11 @@
   "longitude": -84.58501,
   "location": "-84.58501,34.8155",
   "location_details": "near Cohutta Wilderness",
-  "temperature_high": 71.9,
-  "temperature_mid": 60.315,
-  "temperature_low": 48.73,
+  "temperature": {
+    "high": 71.9,
+    "mid": 60.315,
+    "low": 48.73
+  },
   "dew_point": 43.87,
   "humidity": 0.64,
   "cloud_cover": 0.02,

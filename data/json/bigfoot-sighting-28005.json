@@ -11,9 +11,11 @@
   "longitude": -86.15759,
   "location": "-86.15759,36.25466",
   "location_details": "Rural Wilson County Tennessee",
-  "temperature_high": 91.45,
-  "temperature_mid": 82.19,
-  "temperature_low": 72.93,
+  "temperature": {
+    "high": 91.45,
+    "mid": 82.19,
+    "low": 72.93
+  },
   "dew_point": 72.08,
   "humidity": 0.75,
   "cloud_cover": 0.27,

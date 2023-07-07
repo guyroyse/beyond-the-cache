@@ -11,9 +11,11 @@
   "longitude": -92.75093,
   "location": "-92.75093,34.73147",
   "location_details": "Winona wildlife area",
-  "temperature_high": 51.09,
-  "temperature_mid": 45.295,
-  "temperature_low": 39.5,
+  "temperature": {
+    "high": 51.09,
+    "mid": 45.295,
+    "low": 39.5
+  },
   "dew_point": 43.14,
   "humidity": 0.83,
   "cloud_cover": 0.82,

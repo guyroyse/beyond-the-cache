@@ -11,9 +11,11 @@
   "longitude": -86.65,
   "location": "-86.65,30.75",
   "location_details": "on the yellow river bout 10 miles down past hwy 2 bridge",
-  "temperature_high": 71.51,
-  "temperature_mid": 61.625,
-  "temperature_low": 51.74,
+  "temperature": {
+    "high": 71.51,
+    "mid": 61.625,
+    "low": 51.74
+  },
   "dew_point": 43.94,
   "humidity": 0.64,
   "cloud_cover": 0.1,

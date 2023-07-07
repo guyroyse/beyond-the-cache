@@ -11,9 +11,11 @@
   "longitude": -123.1668,
   "location": "-123.1668,41.8333",
   "location_details": "The Seiad Valley area of Highway 96!",
-  "temperature_high": 78.45,
-  "temperature_mid": 66.765,
-  "temperature_low": 55.08,
+  "temperature": {
+    "high": 78.45,
+    "mid": 66.765,
+    "low": 55.08
+  },
   "dew_point": 43.91,
   "humidity": 0.49,
   "cloud_cover": 0.25,

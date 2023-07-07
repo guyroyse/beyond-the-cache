@@ -11,9 +11,11 @@
   "longitude": -81.69245,
   "location": "-81.69245,26.1875",
   "location_details": "Picayune Strand- From Naples,Fl: Travel East down Immokalee Rd. turn right onto Randall Blvd follow road approx. 5 miles then turn right onto Everglades Blvd. Follow road approx. another 5 miles go over I-75 via a bridge into the strand turn left down the first street you see then follow road for about 1 mile and turn right down unknown dirt road and you will be at the sighting location. Turner River Rd.- From Naples: Follow Rt.41 south bound for 20-25 miles just past the small town of Ochopee you will Turner River Rd. on you left hand side.",
-  "temperature_high": 89.71,
-  "temperature_mid": 83.175,
-  "temperature_low": 76.64,
+  "temperature": {
+    "high": 89.71,
+    "mid": 83.175,
+    "low": 76.64
+  },
   "dew_point": 73.9,
   "humidity": 0.83,
   "cloud_cover": 0.18,

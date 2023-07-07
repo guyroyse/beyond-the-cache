@@ -11,9 +11,11 @@
   "longitude": -84.165,
   "location": "-84.165,44.94835",
   "location_details": "About 5 miles south of the town of Atlanta on County Road 480. The corner of 489 and Shoreline Drive (road that goes down to Avery Lake).",
-  "temperature_high": 81.57,
-  "temperature_mid": 70.615,
-  "temperature_low": 59.66,
+  "temperature": {
+    "high": 81.57,
+    "mid": 70.615,
+    "low": 59.66
+  },
   "dew_point": 58.69,
   "humidity": 0.71,
   "cloud_cover": 0.08,

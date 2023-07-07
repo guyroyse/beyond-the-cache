@@ -1,0 +1,34 @@
+{
+  "reportId": "514",
+  "title": "Early evening sighting by motorist near Sorrento",
+  "date": "2000-10-23",
+  "timestamp": 972259200,
+  "observed": "I was driving home from work and it was about 7 o'clock in the evening. I had my headlights on. I live in Sorrento, La. off of Hwy. 61 (Airline Hwy)  About two miles from home (driving west) on 61 I saw a creature. I always look at this time for deer, armadillo, possum, dogs, etc.. While I was looking off the passenger side of the road, this creature sprung up from the ditch. My headlights shined right on the front of it. It was somewhat like a sloth. Hairy all over, but a light gray color. It had a small round head with a brown nose. The eyes did not glow, but were white around them. It had extra long arms and a very thin body. It was at least 6-7 feet tall. I couldn't believe what I had seen. I wanted to turn around, but there was no turn crossing. Alone, I just kept driving. It stood upright and seemed to be leaping up out of the ditch. Its hair was not long and bushy, but sleak and close to the body. I seemed smart. Unlike the sloth, it was man-like.",
+  "classification": "Class A",
+  "county": "Ascension Parish",
+  "state": "Louisiana",
+  "latitude": 30.1878,
+  "longitude": -90.8493,
+  "location": {
+    "longitude": -90.8493,
+    "latitude": 30.1878
+  },
+  "location_details": "From Sorrento, La. heading East 2 miles on Hwy 61",
+  "temperature": {
+    "high": 81.91,
+    "mid": 72.36,
+    "low": 62.81
+  },
+  "dew_point": 63.36,
+  "humidity": 0.72,
+  "cloud_cover": 0.22,
+  "moon_phase": 0.87,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1026.38,
+  "summary": "Partly cloudy until evening.",
+  "uv_index": 4,
+  "visibility": 7.2,
+  "wind_bearing": 89,
+  "wind_speed": 7.77
+}

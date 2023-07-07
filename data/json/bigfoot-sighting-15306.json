@@ -11,9 +11,11 @@
   "longitude": -79.7668,
   "location": "-79.7668,40.5278",
   "location_details": "right off of route 909 onto kerr road",
-  "temperature_high": 56.07,
-  "temperature_mid": 45.685,
-  "temperature_low": 35.3,
+  "temperature": {
+    "high": 56.07,
+    "mid": 45.685,
+    "low": 35.3
+  },
   "dew_point": 28.86,
   "humidity": 0.62,
   "cloud_cover": 0.19,

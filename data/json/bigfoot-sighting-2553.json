@@ -11,9 +11,11 @@
   "longitude": -107.575,
   "location": "-107.575,38.90833",
   "location_details": "Near Longs Lake, about a quarter mile west of the lake.",
-  "temperature_high": 80.74,
-  "temperature_mid": 67.09,
-  "temperature_low": 53.44,
+  "temperature": {
+    "high": 80.74,
+    "mid": 67.09,
+    "low": 53.44
+  },
   "dew_point": 30.79,
   "humidity": 0.33,
   "cloud_cover": 0.26,

@@ -11,9 +11,11 @@
   "longitude": -96.44296,
   "location": "-96.44296,38.62563",
   "location_details": "the road is called Dunlap road and the creek is called Big John I am not sure who the corn field belongs to.",
-  "temperature_high": 85.47,
-  "temperature_mid": 74.62,
-  "temperature_low": 63.77,
+  "temperature": {
+    "high": 85.47,
+    "mid": 74.62,
+    "low": 63.77
+  },
   "dew_point": 67.19,
   "humidity": 0.75,
   "cloud_cover": 0.23,

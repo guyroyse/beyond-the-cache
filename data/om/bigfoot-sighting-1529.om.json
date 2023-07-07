@@ -1,0 +1,35 @@
+{
+  "reportId": "1529",
+  "title": "Footprint found, scream heard in family corn field",
+  "date": "2000-09-20",
+  "timestamp": 969408000,
+  "observed": "At 10PM, sounds were heard from large animal in back yard in a corn garden. Next day a large 16-17\" footprint was found. Several ears of corn were missing from the top of some of the 9' tall corn plants, husks were found on the ground. Picture was taken of the track.",
+  "classification": "Class A",
+  "county": "Snohomish",
+  "state": "Washington",
+  "latitude": 48.0028,
+  "longitude": -121.9572,
+  "location": {
+    "longitude": -121.9572,
+    "latitude": 48.0028
+  },
+  "location_details": "3/4 of a mile out of town, along a creek that runs into the Pilchuck River.",
+  "temperature": {
+    "high": 60.86,
+    "mid": 57.31,
+    "low": 53.76
+  },
+  "dew_point": 53.48,
+  "humidity": 0.93,
+  "cloud_cover": 0.76,
+  "moon_phase": 0.74,
+  "precip_intensity": 0.0043,
+  "precip_probability": 0.83,
+  "precip_type": "rain",
+  "pressure": 1015.45,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 6.19,
+  "wind_bearing": 265,
+  "wind_speed": 0.72
+}

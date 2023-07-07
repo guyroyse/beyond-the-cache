@@ -11,9 +11,11 @@
   "longitude": -120.0491,
   "location": "-120.0491,38.45799",
   "location_details": "1 mile south of Hwy 4 along Spicer Reservoir Road.",
-  "temperature_high": 53.71,
-  "temperature_mid": 42.28,
-  "temperature_low": 30.85,
+  "temperature": {
+    "high": 53.71,
+    "mid": 42.28,
+    "low": 30.85
+  },
   "dew_point": 30.63,
   "humidity": 0.71,
   "cloud_cover": 0.06,

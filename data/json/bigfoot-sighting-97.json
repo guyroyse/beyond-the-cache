@@ -11,9 +11,11 @@
   "longitude": -120.3292,
   "location": "-120.3292,41.72278",
   "location_details": "Go east from Alturas on 395,turn right at Davis Creek, turn left when the dirt roads cross, about five miles north on that road start walking east till you reach the top and can see the feilds of Nevada.",
-  "temperature_high": 75.19,
-  "temperature_mid": 60.455,
-  "temperature_low": 45.72,
+  "temperature": {
+    "high": 75.19,
+    "mid": 60.455,
+    "low": 45.72
+  },
   "dew_point": 38.08,
   "humidity": 0.5,
   "cloud_cover": 0.28,

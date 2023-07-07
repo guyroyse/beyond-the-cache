@@ -11,9 +11,11 @@
   "longitude": -79.8765,
   "location": "-79.8765,40.357",
   "location_details": "Curry hollow is a steep sided valley the leads from the Monongahela river and Route 837 in Dravosburg to Lebanon Church Road and the Allegheny County Airport in West Mifflin. It passes below the Irwin Works steel processing plant. At the time of the sighting it was a medium to densely wooded area with a gravel road running parralel to a small stream that fed into the river. The sighting accured on the downhill side of the large train bridge that crosses the hollow and leads to the steel processing plant.",
-  "temperature_high": 69.56,
-  "temperature_mid": 63.905,
-  "temperature_low": 58.25,
+  "temperature": {
+    "high": 69.56,
+    "mid": 63.905,
+    "low": 58.25
+  },
   "dew_point": 49.35,
   "humidity": 0.63,
   "cloud_cover": 0.82,

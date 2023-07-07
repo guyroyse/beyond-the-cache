@@ -11,9 +11,11 @@
   "longitude": -85.07263,
   "location": "-85.07263,35.30146",
   "location_details": "Off of Hwy 27 north on Lee Pike going north where you get to fields on either side of the road.",
-  "temperature_high": 74.72,
-  "temperature_mid": 63.625,
-  "temperature_low": 52.53,
+  "temperature": {
+    "high": 74.72,
+    "mid": 63.625,
+    "low": 52.53
+  },
   "dew_point": 55.66,
   "humidity": 0.75,
   "cloud_cover": 0.49,

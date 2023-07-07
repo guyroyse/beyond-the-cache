@@ -11,9 +11,11 @@
   "longitude": -121.1537,
   "location": "-121.1537,44.8464",
   "location_details": "My father's home was very isolated at that time, near Wolf Point.  Now it is a neighborhood and many homes have been added there.  It is wide and open, with juniper trees and sage brush.",
-  "temperature_high": 70.11,
-  "temperature_mid": 56.785,
-  "temperature_low": 43.46,
+  "temperature": {
+    "high": 70.11,
+    "mid": 56.785,
+    "low": 43.46
+  },
   "dew_point": 45.87,
   "humidity": 0.61,
   "cloud_cover": 0.56,

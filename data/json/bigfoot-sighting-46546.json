@@ -11,9 +11,11 @@
   "longitude": -121.3201,
   "location": "-121.3201,46.73581",
   "location_details": "Trail head at Deep Creek Campground to Twin Sisters Lakes",
-  "temperature_high": 82.08,
-  "temperature_mid": 70.035,
-  "temperature_low": 57.99,
+  "temperature": {
+    "high": 82.08,
+    "mid": 70.035,
+    "low": 57.99
+  },
   "dew_point": 41.27,
   "humidity": 0.45,
   "cloud_cover": 0.02,

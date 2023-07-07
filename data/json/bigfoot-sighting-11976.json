@@ -11,9 +11,11 @@
   "longitude": -106.9958,
   "location": "-106.9958,36.91475",
   "location_details": "Around the navajo river.",
-  "temperature_high": 79.2,
-  "temperature_mid": 64.85,
-  "temperature_low": 50.5,
+  "temperature": {
+    "high": 79.2,
+    "mid": 64.85,
+    "low": 50.5
+  },
   "dew_point": 37.96,
   "humidity": 0.36,
   "cloud_cover": 0.11,

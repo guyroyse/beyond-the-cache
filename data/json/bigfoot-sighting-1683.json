@@ -11,9 +11,11 @@
   "longitude": -122.7669,
   "location": "-122.7669,46.985",
   "location_details": "It is now developed into what is called Lakepoint by Patison Lake where I was fishing before the encounter. The dirt road is still there because of power lines that run over it. The woods are mostly gone because of development and the two tree farms are non existent. The nearest intersecting streets at the time where Ruddle road and Yelm Hwy.",
-  "temperature_high": 59,
-  "temperature_mid": 51.25,
-  "temperature_low": 43.5,
+  "temperature": {
+    "high": 59,
+    "mid": 51.25,
+    "low": 43.5
+  },
   "dew_point": 40.86,
   "humidity": 0.7,
   "cloud_cover": 0.59,

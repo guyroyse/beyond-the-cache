@@ -11,9 +11,11 @@
   "longitude": -94.14306,
   "location": "-94.14306,32.01083",
   "location_details": "On my hunting lease off County Road 430 in Panola County.",
-  "temperature_high": 54.26,
-  "temperature_mid": 45.59,
-  "temperature_low": 36.92,
+  "temperature": {
+    "high": 54.26,
+    "mid": 45.59,
+    "low": 36.92
+  },
   "dew_point": 22.53,
   "humidity": 0.58,
   "cloud_cover": 0.19,

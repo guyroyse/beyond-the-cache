@@ -11,9 +11,11 @@
   "longitude": -83.55718,
   "location": "-83.55718,42.15965",
   "location_details": "North of Willis Rd between McKean and Bunton roads",
-  "temperature_high": 72.37,
-  "temperature_mid": 64.395,
-  "temperature_low": 56.42,
+  "temperature": {
+    "high": 72.37,
+    "mid": 64.395,
+    "low": 56.42
+  },
   "dew_point": 49.53,
   "humidity": 0.61,
   "cloud_cover": 0.22,

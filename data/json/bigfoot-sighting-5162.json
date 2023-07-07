@@ -11,9 +11,11 @@
   "longitude": -120.319,
   "location": "-120.319,47.4822",
   "location_details": "North on Hwy 97 Alt to the Entiat turn off, NW on this road for about 30 miles, past the small gas station, post office, cafe and church with the sign of Ardenvoir on it. Just about half way up the 5900 road to Shady Pass is the turn off for the 5901 road. Silver creek intersects this road mid way to a junction with the 5902 road.",
-  "temperature_high": 66.25,
-  "temperature_mid": 52.39,
-  "temperature_low": 38.53,
+  "temperature": {
+    "high": 66.25,
+    "mid": 52.39,
+    "low": 38.53
+  },
   "dew_point": 38.55,
   "humidity": 0.65,
   "cloud_cover": 0.04,

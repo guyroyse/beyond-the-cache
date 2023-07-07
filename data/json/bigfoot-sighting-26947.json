@@ -11,9 +11,11 @@
   "longitude": -87.265,
   "location": "-87.265,30.9725",
   "location_details": "Take U.S. 29 north from Cantonment, Fl. approximately 15 miles. Take first right upon seeing the town of Bogia sign (that's pronounced Bo Jee, but there really is no town there any longer). Go to end of road where camp site and boat ramps are. Hike north along the river following two track that beomes a game trail.",
-  "temperature_high": 66.51,
-  "temperature_mid": 61.945,
-  "temperature_low": 57.38,
+  "temperature": {
+    "high": 66.51,
+    "mid": 61.945,
+    "low": 57.38
+  },
   "dew_point": 50.72,
   "humidity": 0.75,
   "cloud_cover": 0.7,

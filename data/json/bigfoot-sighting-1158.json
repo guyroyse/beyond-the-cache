@@ -11,9 +11,11 @@
   "longitude": -90.7517,
   "location": "-90.7517,38.039",
   "location_details": "Between DeSoto & Potosi on old Missouri Highway 21.",
-  "temperature_high": 81.64,
-  "temperature_mid": 70.22,
-  "temperature_low": 58.8,
+  "temperature": {
+    "high": 81.64,
+    "mid": 70.22,
+    "low": 58.8
+  },
   "dew_point": 52.63,
   "humidity": 0.57,
   "cloud_cover": 0.65,

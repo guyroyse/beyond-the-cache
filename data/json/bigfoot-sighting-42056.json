@@ -11,9 +11,11 @@
   "longitude": -85.72845,
   "location": "-85.72845,44.83369",
   "location_details": "East Fouch Road, Traverse City, MI",
-  "temperature_high": 59.71,
-  "temperature_mid": 57.275,
-  "temperature_low": 54.84,
+  "temperature": {
+    "high": 59.71,
+    "mid": 57.275,
+    "low": 54.84
+  },
   "dew_point": 52.73,
   "humidity": 0.81,
   "moon_phase": 0.91,

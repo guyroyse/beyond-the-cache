@@ -11,9 +11,11 @@
   "longitude": -92.09264,
   "location": "-92.09264,36.97061",
   "location_details": "Near Noblett Lake",
-  "temperature_high": 89.07,
-  "temperature_mid": 80.215,
-  "temperature_low": 71.36,
+  "temperature": {
+    "high": 89.07,
+    "mid": 80.215,
+    "low": 71.36
+  },
   "dew_point": 67.19,
   "humidity": 0.69,
   "cloud_cover": 0.19,

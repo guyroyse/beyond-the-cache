@@ -11,9 +11,11 @@
   "longitude": -81.22285,
   "location": "-81.22285,26.0079",
   "location_details": "Off Turner Road, east side.",
-  "temperature_high": 84.48,
-  "temperature_mid": 79.865,
-  "temperature_low": 75.25,
+  "temperature": {
+    "high": 84.48,
+    "mid": 79.865,
+    "low": 75.25
+  },
   "dew_point": 74.21,
   "humidity": 0.84,
   "cloud_cover": 0.49,

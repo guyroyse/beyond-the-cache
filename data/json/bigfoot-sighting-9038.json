@@ -11,9 +11,11 @@
   "longitude": -94.9,
   "location": "-94.9,32.51667",
   "location_details": "Gladewater. Hwy 80 east to Lockerplant Rd. Follow into river bottoms approx.1.5 miles.",
-  "temperature_high": 88.2,
-  "temperature_mid": 76.72,
-  "temperature_low": 65.24,
+  "temperature": {
+    "high": 88.2,
+    "mid": 76.72,
+    "low": 65.24
+  },
   "dew_point": 59.47,
   "humidity": 0.58,
   "cloud_cover": 0.19,

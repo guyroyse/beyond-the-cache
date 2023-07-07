@@ -11,9 +11,11 @@
   "longitude": -105.1598,
   "location": "-105.1598,38.753",
   "location_details": "Cripple Creek, Colorado; Teller County off of Hwy 67 North of Cripple Creek",
-  "temperature_high": 41.8,
-  "temperature_mid": 30.66,
-  "temperature_low": 19.52,
+  "temperature": {
+    "high": 41.8,
+    "mid": 30.66,
+    "low": 19.52
+  },
   "dew_point": 11.67,
   "humidity": 0.46,
   "cloud_cover": 0.71,

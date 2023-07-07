@@ -11,9 +11,11 @@
   "longitude": -97.97573,
   "location": "-97.97573,42.76609",
   "location_details": "Bazile Creek State Wildlife Management Area. Along Missouri River",
-  "temperature_high": 79.1,
-  "temperature_mid": 65.75,
-  "temperature_low": 52.4,
+  "temperature": {
+    "high": 79.1,
+    "mid": 65.75,
+    "low": 52.4
+  },
   "dew_point": 42.95,
   "humidity": 0.57,
   "cloud_cover": 0,

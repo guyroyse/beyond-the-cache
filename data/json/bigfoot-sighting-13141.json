@@ -11,9 +11,11 @@
   "longitude": -79.98335,
   "location": "-79.98335,39.05",
   "location_details": "Rt. 250 north between Belington and Philippi, Two miles from US 250",
-  "temperature_high": 66.9,
-  "temperature_mid": 57.485,
-  "temperature_low": 48.07,
+  "temperature": {
+    "high": 66.9,
+    "mid": 57.485,
+    "low": 48.07
+  },
   "dew_point": 48.79,
   "humidity": 0.75,
   "cloud_cover": 0.36,

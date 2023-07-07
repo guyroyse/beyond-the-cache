@@ -11,9 +11,11 @@
   "longitude": -81.20422,
   "location": "-81.20422,39.86019",
   "location_details": "I do not want the location posted (you can use the county and town of Malaga only)",
-  "temperature_high": 60.45,
-  "temperature_mid": 53.84,
-  "temperature_low": 47.23,
+  "temperature": {
+    "high": 60.45,
+    "mid": 53.84,
+    "low": 47.23
+  },
   "dew_point": 42.01,
   "humidity": 0.79,
   "cloud_cover": 0.44,

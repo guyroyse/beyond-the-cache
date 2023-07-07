@@ -11,9 +11,11 @@
   "longitude": -81.26559,
   "location": "-81.26559,40.33345",
   "location_details": "Its about 5 mi. from Tappan Lake and about the same from Dennison and Leesville. Its a rural rd. that has only been inhabited for 18 years or so.",
-  "temperature_high": 81.93,
-  "temperature_mid": 75.71,
-  "temperature_low": 69.49,
+  "temperature": {
+    "high": 81.93,
+    "mid": 75.71,
+    "low": 69.49
+  },
   "dew_point": 62.38,
   "humidity": 0.74,
   "cloud_cover": 0.5,

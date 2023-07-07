@@ -11,9 +11,11 @@
   "longitude": -87.79683,
   "location": "-87.79683,41.63289",
   "location_details": "The road is abandoned now but at that time in 1974 was Bachelor Grove Road west of Ridgeland Road and north of 143rd Street. This is three and half miles west of Midlothian. It was about one half mile north of 143rd Street.",
-  "temperature_high": 53.88,
-  "temperature_mid": 48.06,
-  "temperature_low": 42.24,
+  "temperature": {
+    "high": 53.88,
+    "mid": 48.06,
+    "low": 42.24
+  },
   "dew_point": 41.23,
   "humidity": 0.68,
   "cloud_cover": 0.34,

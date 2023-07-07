@@ -11,9 +11,11 @@
   "longitude": -79.11095,
   "location": "-79.11095,38.57716",
   "location_details": "Right off mountain on Rt. 33 West into Rawley Springs.",
-  "temperature_high": 82.68,
-  "temperature_mid": 73.875,
-  "temperature_low": 65.07,
+  "temperature": {
+    "high": 82.68,
+    "mid": 73.875,
+    "low": 65.07
+  },
   "dew_point": 68.34,
   "humidity": 0.84,
   "cloud_cover": 0.01,

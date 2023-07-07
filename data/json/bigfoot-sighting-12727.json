@@ -11,9 +11,11 @@
   "longitude": -82.4179,
   "location": "-82.4179,36.8778",
   "location_details": "scott co. va near dungannon",
-  "temperature_high": 54.85,
-  "temperature_mid": 46.08,
-  "temperature_low": 37.31,
+  "temperature": {
+    "high": 54.85,
+    "mid": 46.08,
+    "low": 37.31
+  },
   "dew_point": 34.99,
   "humidity": 0.65,
   "cloud_cover": 0.51,

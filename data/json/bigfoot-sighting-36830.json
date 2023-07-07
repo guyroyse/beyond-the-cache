@@ -11,9 +11,11 @@
   "longitude": -82.17295,
   "location": "-82.17295,40.61286",
   "location_details": "About a half mile west of State Route 179 on the south side of the road near the edge of the xxxxxx Farm.",
-  "temperature_high": 95.69,
-  "temperature_mid": 86.37,
-  "temperature_low": 77.05,
+  "temperature": {
+    "high": 95.69,
+    "mid": 86.37,
+    "low": 77.05
+  },
   "dew_point": 59.92,
   "humidity": 0.52,
   "cloud_cover": 0.11,

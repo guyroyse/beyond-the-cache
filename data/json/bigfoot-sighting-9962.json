@@ -11,9 +11,11 @@
   "longitude": -111.75,
   "location": "-111.75,41.5",
   "location_details": "All I remember was it was off from hiway 89...going toward the ski resorts.",
-  "temperature_high": 63.97,
-  "temperature_mid": 53.28,
-  "temperature_low": 42.59,
+  "temperature": {
+    "high": 63.97,
+    "mid": 53.28,
+    "low": 42.59
+  },
   "dew_point": 23.81,
   "humidity": 0.35,
   "cloud_cover": 0.59,

@@ -11,9 +11,11 @@
   "longitude": -92.914,
   "location": "-92.914,32.0199",
   "location_details": "Kisatchie National Forest",
-  "temperature_high": 54.71,
-  "temperature_mid": 42.88,
-  "temperature_low": 31.05,
+  "temperature": {
+    "high": 54.71,
+    "mid": 42.88,
+    "low": 31.05
+  },
   "dew_point": 34.47,
   "humidity": 0.76,
   "cloud_cover": 0.33,

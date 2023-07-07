@@ -11,9 +11,11 @@
   "longitude": -101.3903,
   "location": "-101.3903,32.24083",
   "location_details": "My home is about 150 yds off the north service road to Interstate 20, and is about 5 miles east of the nearest town.  This area has a lot of undeveloped land and several stocktanks for water, as well as a diversified animal base (I am a hunter and fisherman and can fish in two small lakes within 9 miles of my house as well as lots of areas for hunting that holds more wildlife than thought to be in West Texas).",
-  "temperature_high": 70.86,
-  "temperature_mid": 66.705,
-  "temperature_low": 62.55,
+  "temperature": {
+    "high": 70.86,
+    "mid": 66.705,
+    "low": 62.55
+  },
   "dew_point": 58.1,
   "humidity": 0.86,
   "cloud_cover": 0.63,

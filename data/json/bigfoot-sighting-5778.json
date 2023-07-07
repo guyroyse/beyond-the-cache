@@ -11,9 +11,11 @@
   "longitude": -80.89606,
   "location": "-80.89606,40.54269",
   "location_details": "The location was just off State Route 164 on Brushcreek Township Road 289 between Monroeville and Bergholz, Ohio.",
-  "temperature_high": 84.73,
-  "temperature_mid": 74.13,
-  "temperature_low": 63.53,
+  "temperature": {
+    "high": 84.73,
+    "mid": 74.13,
+    "low": 63.53
+  },
   "dew_point": 60.2,
   "humidity": 0.68,
   "cloud_cover": 0.3,

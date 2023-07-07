@@ -11,9 +11,11 @@
   "longitude": -80.429,
   "location": "-80.429,38.312",
   "location_details": "located in the Monongahela National Forest above the Cranberry River and near the Cranberry Back country and Wilderness Area.",
-  "temperature_high": 81.94,
-  "temperature_mid": 74.045,
-  "temperature_low": 66.15,
+  "temperature": {
+    "high": 81.94,
+    "mid": 74.045,
+    "low": 66.15
+  },
   "dew_point": 64.67,
   "humidity": 0.75,
   "cloud_cover": 0.65,

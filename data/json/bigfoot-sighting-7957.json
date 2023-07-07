@@ -11,9 +11,11 @@
   "longitude": -123.296,
   "location": "-123.296,45.82565",
   "location_details": "Vernonia Rd. to Clear Crk. Rd. to Columbia River Mainline. North to Rocky Pt. Rd. and West approx. 3/4 mile. R5W- T4N This is approx 3.5 miles north of Four Corners on Hwy 26.",
-  "temperature_high": 57.14,
-  "temperature_mid": 51.055,
-  "temperature_low": 44.97,
+  "temperature": {
+    "high": 57.14,
+    "mid": 51.055,
+    "low": 44.97
+  },
   "dew_point": 40.51,
   "humidity": 0.75,
   "cloud_cover": 0.5,

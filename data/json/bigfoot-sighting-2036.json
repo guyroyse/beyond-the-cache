@@ -11,9 +11,11 @@
   "longitude": -93.13545,
   "location": "-93.13545,37.07354",
   "location_details": "Wooded area near Lake Sprinfield, which is connected with James River",
-  "temperature_high": 82.93,
-  "temperature_mid": 70.575,
-  "temperature_low": 58.22,
+  "temperature": {
+    "high": 82.93,
+    "mid": 70.575,
+    "low": 58.22
+  },
   "dew_point": 61.2,
   "humidity": 0.71,
   "cloud_cover": 0.77,

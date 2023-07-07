@@ -11,9 +11,11 @@
   "longitude": -92.36771,
   "location": "-92.36771,38.9099",
   "location_details": "there was a golf course there and it was walking same direction i was on the other side of a row of trees.",
-  "temperature_high": 33.75,
-  "temperature_mid": 25.415,
-  "temperature_low": 17.08,
+  "temperature": {
+    "high": 33.75,
+    "mid": 25.415,
+    "low": 17.08
+  },
   "dew_point": 0.37,
   "humidity": 0.56,
   "cloud_cover": 0.32,

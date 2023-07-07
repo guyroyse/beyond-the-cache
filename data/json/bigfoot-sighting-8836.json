@@ -11,9 +11,11 @@
   "longitude": -81.20629,
   "location": "-81.20629,41.44442",
   "location_details": "Aproximately 1/4 mile up Pond Road just off of State Route 44 in Newbury, Ohio. We spotted him in our backyard at that time. We no longer live at that place now.",
-  "temperature_high": 20.14,
-  "temperature_mid": 11.75,
-  "temperature_low": 3.36,
+  "temperature": {
+    "high": 20.14,
+    "mid": 11.75,
+    "low": 3.36
+  },
   "dew_point": 9.48,
   "humidity": 0.81,
   "cloud_cover": 0.93,

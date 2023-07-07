@@ -11,9 +11,11 @@
   "longitude": -84.1735,
   "location": "-84.1735,39.9784",
   "location_details": "You go to the center of the town of Tipp City. Turn left onto 3rd St. coming from I-75. Go down past a large Park, swimming pool, and highschool football stadium. go another mile or so down the road and to your right is a little nature reserve sign and gravel drive way. Turn right and go back the drive way to the gravel parking area.",
-  "temperature_high": 84.95,
-  "temperature_mid": 77.31,
-  "temperature_low": 69.67,
+  "temperature": {
+    "high": 84.95,
+    "mid": 77.31,
+    "low": 69.67
+  },
   "dew_point": 70.7,
   "humidity": 0.82,
   "cloud_cover": 0.34,

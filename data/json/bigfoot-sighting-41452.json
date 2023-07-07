@@ -11,9 +11,11 @@
   "longitude": -81.50403,
   "location": "-81.50403,40.12719",
   "location_details": "Site 3/4 in the primitive camp site on Bigfoot ridge",
-  "temperature_high": 79.97,
-  "temperature_mid": 71.895,
-  "temperature_low": 63.82,
+  "temperature": {
+    "high": 79.97,
+    "mid": 71.895,
+    "low": 63.82
+  },
   "dew_point": 63.15,
   "humidity": 0.77,
   "cloud_cover": 0.25,

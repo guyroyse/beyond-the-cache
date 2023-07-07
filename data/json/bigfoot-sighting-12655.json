@@ -11,9 +11,11 @@
   "longitude": -122.0297,
   "location": "-122.0297,46.75861",
   "location_details": "Hwy 7 past Ashford, take a right before you see a sign for the national park. This road turns into Skate Creek Rd. It's a dirt road on the left.  Go right at an over pass between mile marker 12 and 14. Drive all the way up. Take a right at the first fork then stay to the left. You will need a 4x4 vehicle. 4x4 vans will not make it.",
-  "temperature_high": 51.88,
-  "temperature_mid": 48.385,
-  "temperature_low": 44.89,
+  "temperature": {
+    "high": 51.88,
+    "mid": 48.385,
+    "low": 44.89
+  },
   "dew_point": 42.28,
   "humidity": 0.87,
   "cloud_cover": 0.86,

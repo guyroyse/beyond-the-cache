@@ -11,9 +11,11 @@
   "longitude": -108.1098,
   "location": "-108.1098,38.9969",
   "location_details": "At Carson Lake. The lake sits on the edge of what is called Lands End on the Grand Mesa.",
-  "temperature_high": 59.62,
-  "temperature_mid": 47.595,
-  "temperature_low": 35.57,
+  "temperature": {
+    "high": 59.62,
+    "mid": 47.595,
+    "low": 35.57
+  },
   "dew_point": 39.7,
   "humidity": 0.7,
   "cloud_cover": 0.66,

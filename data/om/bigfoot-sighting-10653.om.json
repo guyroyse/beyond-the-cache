@@ -1,0 +1,35 @@
+{
+  "reportId": "10653",
+  "title": "Young bike riders see large animal cross road",
+  "date": "1974-06-27",
+  "timestamp": 141523200,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Pierce",
+  "state": "Washington",
+  "latitude": 47.18556,
+  "longitude": -122.2917,
+  "location": {
+    "longitude": -122.2917,
+    "latitude": 47.18556
+  },
+  "location_details": "IT WAS ON A OLD PIPE LINE RD BY A GRAVEL PIT THAT EXISTED IN THE 70'S. UP ON SOUTH HILL IN PUYALLUP.",
+  "temperature": {
+    "high": 62.7,
+    "mid": 54.8,
+    "low": 46.9
+  },
+  "dew_point": 48.32,
+  "humidity": 0.73,
+  "cloud_cover": 0.89,
+  "moon_phase": 0.28,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.36,
+  "precip_type": "rain",
+  "pressure": 1019.19,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 8.69,
+  "wind_bearing": 220,
+  "wind_speed": 7.35
+}

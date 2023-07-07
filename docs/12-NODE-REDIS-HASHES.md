@@ -14,7 +14,6 @@ Here's the various endpoints for this section. We'll add more endpoints to it in
 |:-------|:---------------|:------------------------------------------------------------
 | POST   | /sightings     | Add a new Bigfoot sighting and assign it an ID
 | GET    | /sightings/:id | Get an existing Bigfoot sighting for the given ID
-| PATCH  | /sightings/:id | Update an existing Bigfoot sighting for the given ID
 | PUT    | /sightings/:id | Create or replace a Bigfoot sighting with the given ID
 | DELETE | /sightings/:id | Remove a Bigfoot sighting for the given ID
 | GET    | /sightings     | Get all of the Bigfoot sighting
@@ -52,7 +51,7 @@ Now that we have a route to create Bigfoot sightings, let's use it:
 curl \
   -X POST \
   -H "Content-Type: application/json" \
-  -d @../data/json/bigfoot-sighting-8086.json \
+  -d @../data/hash/bigfoot-sighting-8086.json \
   localhost:8080/sightings
 ```
 
@@ -91,33 +90,15 @@ You should get back all the data that was loaded:
 
 ```json
 {
-  "cloud_cover": "1",
   "location": "-81.40079,39.63382",
   "reportId": "8086",
-  "humidity": "0.93",
-  "precip_type": "snow",
-  "moon_phase": "0.86",
-  "dew_point": "31.17",
-  "precip_probability": "1",
   "county": "Noble",
   "id": "01G95AVST5A9Q6ABCK9T9T1ZK7",
-  "latitude": "39.63382",
-  "wind_bearing": "344",
-  "precip_intensity": "0.0067",
   "title": "A series of large, human-like footprints are found on a farm near Wayne National Forest",
-  "temperature_high": "34",
   "summary": "Light snow (< 1 in.) starting in the afternoon.",
-  "uv_index": "1",
-  "visibility": "2.62",
   "date": "1958-01-15",
-  "timestamp": "-377481600",
   "location_details": "Closest town was Harriettsville. Closest main road is State Route 145. Right on the border of Noble and Washington Counties.",
-  "pressure": "1011.09",
-  "temperature_mid": "29.995",
-  "wind_speed": "10.12",
   "observed": "While during some yard chores, we noticed a series of tracks going into the hollow on our property. Upon examination, we realized these were very large barefoot human like tracks. They were close to 13 inches long and over 6 inches wide at the toes. They were leading into some thickets so we decided not to follow. What impressed us more than anything was the stride between the tracks. The stride was at least 4 1/2 to 5 feet long. Being very familiar with bears, we knew these were not bear tracks because of the enormous size, lack of claws, and human like shape. The game warden came out the next day to view the tracks. He had no idea what could have made the tracks. Especially anything native to Ohio. To this day, we have no clue what could have made those tracks!",
-  "longitude": "-81.40079",
-  "temperature_low": "25.99",
   "state": "Ohio",
   "classification": "Class B"
 }
@@ -125,78 +106,10 @@ You should get back all the data that was loaded:
 
 If it doesn't, make sure you are using the correct ULID.
 
-## Update a Sighting by ID ##
-
-Let's add the code to update a sighting:
-
-```javascript
-  const { id } = req.params
-  const key = sightingKey(id)
-
-  redis.hSet(key, req.body)
-
-  res.send({
-    status: "OK",
-    message: `Sighting ${id} updated.`
-  })
-```
-
-Note that this will replace the provided field without removing existing fields. Let's change `state` field to 'West Virginia' and add a field called `comments` and provide some comments:
-
-```bash
-curl \
-  -X PATCH \
-  -H "Content-Type: application/json" \
-  -d '{ "state": "West Virginia", "comments": "For sure they said hollow as holler." }' \
-  localhost:8080/sightings/<your ulid>
-```
-
-You should get back a message stating the sighting was updated. But let's be sure. Trust, but verify:
-
-```bash
-curl -X GET localhost:8080/sightings/<your ulid>
-```
-
-I see comments and West Virginia. Looks like it worked:
-
-```json
-{
-  "cloud_cover": "1",
-  "comments": "For sure they said hollow as holler.",
-  "location": "-81.40079,39.63382",
-  "reportId": "8086",
-  "humidity": "0.93",
-  "precip_type": "snow",
-  "moon_phase": "0.86",
-  "dew_point": "31.17",
-  "precip_probability": "1",
-  "county": "Noble",
-  "id": "01G95AVST5A9Q6ABCK9T9T1ZK7",
-  "latitude": "39.63382",
-  "wind_bearing": "344",
-  "precip_intensity": "0.0067",
-  "title": "A series of large, human-like footprints are found on a farm near Wayne National Forest",
-  "temperature_high": "34",
-  "summary": "Light snow (< 1 in.) starting in the afternoon.",
-  "uv_index": "1",
-  "visibility": "2.62",
-  "date": "1958-01-15",
-  "timestamp": "-377481600",
-  "location_details": "Closest town was Harriettsville. Closest main road is State Route 145. Right on the border of Noble and Washington Counties.",
-  "pressure": "1011.09",
-  "temperature_mid": "29.995",
-  "wind_speed": "10.12",
-  "observed": "While during some yard chores, we noticed a series of tracks going into the hollow on our property. Upon examination, we realized these were very large barefoot human like tracks. They were close to 13 inches long and over 6 inches wide at the toes. They were leading into some thickets so we decided not to follow. What impressed us more than anything was the stride between the tracks. The stride was at least 4 1/2 to 5 feet long. Being very familiar with bears, we knew these were not bear tracks because of the enormous size, lack of claws, and human like shape. The game warden came out the next day to view the tracks. He had no idea what could have made the tracks. Especially anything native to Ohio. To this day, we have no clue what could have made those tracks!",
-  "longitude": "-81.40079",
-  "temperature_low": "25.99",
-  "state": "West Virginia",
-  "classification": "Class B"
-}
-```
 
 ## Replace a Sighting ##
 
-Let's keep going and *replace* an existing sighting instead of just updating it. Add the following code:
+Let's keep going and *replace* an existing sighting. Add the following code:
 
 ```javascript
   const { id } = req.params
@@ -219,7 +132,7 @@ Let's try it out and replace the sighting at the old ULID with a different Bigfo
 curl \
   -X PUT \
   -H "Content-Type: application/json" \
-  -d @../data/json/bigfoot-sighting-1024.json \
+  -d @../data/hash/bigfoot-sighting-1024.json \
   localhost:8080/sightings/<your ulid>
 ```
 
@@ -233,32 +146,15 @@ And we see that it did work. The state's now Kentucky and the comments are gone:
 
 ```json
 {
-  "cloud_cover": "0.01",
   "location": "-84.92358,37.3181",
   "reportId": "1024",
-  "humidity": "0.51",
-  "moon_phase": "0.8",
-  "dew_point": "51.43",
-  "precip_probability": "0",
   "county": "Casey",
   "id": "01G95AVST5A9Q6ABCK9T9T1ZK7",
-  "latitude": "37.3181",
-  "wind_bearing": "48",
-  "precip_intensity": "0",
   "title": "An account of bigfoot tool use",
-  "temperature_high": "87.66",
   "summary": "Clear throughout the day.",
-  "uv_index": "5",
-  "visibility": "9.32",
   "date": "1953-10-01",
-  "timestamp": "-512870400",
   "location_details": "",
-  "pressure": "1022.67",
-  "temperature_mid": "73.115",
-  "wind_speed": "7.25",
   "observed": "When I was young,six years old, Ronnie Joe a friend of mine and myself was playing behind Ronnie's house.  We heard a thumbing sound and moved closer to see what was making the sound.  Just behind a neighbor's house we saw a big foot digging in the ground with a stick of fire wood, at times taking one stick of fire wood and pounding a second stick into the ground. Then he would turn the dirt over, using the stick like a spade. He may have been looking for food, but we never knew for sure. Then the bigfoot stood up and walked our way.  We were only 25ft. to 30ft. from the animal. It was showing its teeth but didn't make a sound.  This was a open field, bright sunshine lit day, nothing between us and the animal, so we got a good look but not a very long look at bigfoot. The animal had a dark brown coat with a lighter, almost grey vest.  He had large teeth and long \"dirty\" finger and toe nails. The nails looked very thick.",
-  "longitude": "-84.92358",
-  "temperature_low": "58.57",
   "state": "Kentucky",
   "classification": "Class A"
 }
@@ -332,19 +228,19 @@ Before we can try this out in a meaningful way, we should probably have more tha
 curl \
   -X POST \
   -H "Content-Type: application/json" \
-  -d @../data/json/bigfoot-sighting-8086.json \
+  -d @../data/hash/bigfoot-sighting-8086.json \
   localhost:8080/sightings
 
 curl \
   -X POST \
   -H "Content-Type: application/json" \
-  -d @../data/json/bigfoot-sighting-43211.json \
+  -d @../data/hash/bigfoot-sighting-43211.json \
   localhost:8080/sightings
 
 curl \
   -X POST \
   -H "Content-Type: application/json" \
-  -d @../data/json/bigfoot-sighting-26695.json \
+  -d @../data/hash/bigfoot-sighting-26695.json \
   localhost:8080/sightings
 ```
 

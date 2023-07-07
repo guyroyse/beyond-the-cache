@@ -11,9 +11,11 @@
   "longitude": -82.89059,
   "location": "-82.89059,38.33885",
   "location_details": "Six miles east of Greyson, Kentucky and about twenty miles west of Ashland Kentucky. ",
-  "temperature_high": 31.42,
-  "temperature_mid": 25.11,
-  "temperature_low": 18.8,
+  "temperature": {
+    "high": 31.42,
+    "mid": 25.11,
+    "low": 18.8
+  },
   "dew_point": 23.36,
   "humidity": 0.76,
   "cloud_cover": 0.99,

@@ -9,74 +9,74 @@ NUMERIC fields, unsurprisingly, contain numbers. This can be integers of floatin
 Searching NUMERIC fields in RediSearch is pretty easy. Just provide the upper and lower bounds for the number range you want for a particular field. For example, to find all the temperatures between 75° and 90° inclusive, we would issue the following query:
 
 ```bash
-127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index "@temperature_mid:[75 90]" RETURN 1 $.temperature_mid
+127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index "@temperature_mid:[75 90]" RETURN 1 $.temperature.mid
  1) (integer) 639
  2) "bigfoot:sighting:01G9HSRFRAAS9W8MWBXNQ87C2F"
- 3) 1) "$.temperature_mid"
+ 3) 1) "$.temperature.mid"
     2) "80.17"
  4) "bigfoot:sighting:01G9HSRDT6CZZVTDN5KRWXY19N"
- 5) 1) "$.temperature_mid"
+ 5) 1) "$.temperature.mid"
     2) "79.465"
  6) "bigfoot:sighting:01G9HSS7R7R040KJCHJKQ9AP66"
- 7) 1) "$.temperature_mid"
+ 7) 1) "$.temperature.mid"
     2) "78.935"
  8) "bigfoot:sighting:01G9HSS53ZGTWWVF2QSEKT53D6"
- 9) 1) "$.temperature_mid"
+ 9) 1) "$.temperature.mid"
     2) "75.55"
 10) "bigfoot:sighting:01G9HSSRGGKH7SYV3K2GACKMJD"
-11) 1) "$.temperature_mid"
+11) 1) "$.temperature.mid"
     2) "75.91"
 12) "bigfoot:sighting:01G9HSSFNZQCSJ9ZWXD0XF0287"
-13) 1) "$.temperature_mid"
+13) 1) "$.temperature.mid"
     2) "79.77"
 14) "bigfoot:sighting:01G9HSSN1GAPCGQMAHYP0R0CA3"
-15) 1) "$.temperature_mid"
+15) 1) "$.temperature.mid"
     2) "77.13"
 16) "bigfoot:sighting:01G9HSSP4PEGYBRV6E2SAH3Z5C"
-17) 1) "$.temperature_mid"
+17) 1) "$.temperature.mid"
     2) "78.59"
 18) "bigfoot:sighting:01G9HSRHWMA35BJGGW3CWEDS1K"
-19) 1) "$.temperature_mid"
+19) 1) "$.temperature.mid"
     2) "83.545"
 20) "bigfoot:sighting:01G9HSS5H0WC7DZ7WFRJ5RBK56"
-21) 1) "$.temperature_mid"
+21) 1) "$.temperature.mid"
     2) "83.36"
 ```
 
 To make it *exclusive* instead of inclusive:
 
 ```bash
-127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index "@temperature_mid:[(75 (90]" RETURN 1 $.temperature_mid
+127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index "@temperature_mid:[(75 (90]" RETURN 1 $.temperature.mid
  1) (integer) 639
  2) "bigfoot:sighting:01G9HSRFRAAS9W8MWBXNQ87C2F"
- 3) 1) "$.temperature_mid"
+ 3) 1) "$.temperature.mid"
     2) "80.17"
  4) "bigfoot:sighting:01G9HSRDT6CZZVTDN5KRWXY19N"
- 5) 1) "$.temperature_mid"
+ 5) 1) "$.temperature.mid"
     2) "79.465"
  6) "bigfoot:sighting:01G9HSS7R7R040KJCHJKQ9AP66"
- 7) 1) "$.temperature_mid"
+ 7) 1) "$.temperature.mid"
     2) "78.935"
  8) "bigfoot:sighting:01G9HSS53ZGTWWVF2QSEKT53D6"
- 9) 1) "$.temperature_mid"
+ 9) 1) "$.temperature.mid"
     2) "75.55"
 10) "bigfoot:sighting:01G9HSSRGGKH7SYV3K2GACKMJD"
-11) 1) "$.temperature_mid"
+11) 1) "$.temperature.mid"
     2) "75.91"
 12) "bigfoot:sighting:01G9HSSFNZQCSJ9ZWXD0XF0287"
-13) 1) "$.temperature_mid"
+13) 1) "$.temperature.mid"
     2) "79.77"
 14) "bigfoot:sighting:01G9HSSN1GAPCGQMAHYP0R0CA3"
-15) 1) "$.temperature_mid"
+15) 1) "$.temperature.mid"
     2) "77.13"
 16) "bigfoot:sighting:01G9HSSP4PEGYBRV6E2SAH3Z5C"
-17) 1) "$.temperature_mid"
+17) 1) "$.temperature.mid"
     2) "78.59"
 18) "bigfoot:sighting:01G9HSRHWMA35BJGGW3CWEDS1K"
-19) 1) "$.temperature_mid"
+19) 1) "$.temperature.mid"
     2) "83.545"
 20) "bigfoot:sighting:01G9HSS5H0WC7DZ7WFRJ5RBK56"
-21) 1) "$.temperature_mid"
+21) 1) "$.temperature.mid"
     2) "83.36"
 ```
 
@@ -85,59 +85,59 @@ Not much of a change. In fact, looks identical. Try poking around with the query
 If you want to remove the upper limit, you can use `+inf` instead of a number:
 
 ```bash
-127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index "@temperature_mid:[90 +inf]" RETURN 1 $.temperature_mid
+127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index "@temperature_mid:[90 +inf]" RETURN 1 $.temperature.mid
  1) (integer) 5
  2) "bigfoot:sighting:01G9HSS5J8B1Z2Q1C8VM0PN07V"
- 3) 1) "$.temperature_mid"
+ 3) 1) "$.temperature.mid"
     2) "94.69"
  4) "bigfoot:sighting:01G9HSRS1A0AVCFB62K4NQVYG1"
- 5) 1) "$.temperature_mid"
+ 5) 1) "$.temperature.mid"
     2) "93.175"
  6) "bigfoot:sighting:01G9HSSRKEDZ5WM0ZXFMSR60KF"
- 7) 1) "$.temperature_mid"
+ 7) 1) "$.temperature.mid"
     2) "90.285"
  8) "bigfoot:sighting:01G9HSS810YT674CHQ9A09D9AS"
- 9) 1) "$.temperature_mid"
+ 9) 1) "$.temperature.mid"
     2) "90.55"
 10) "bigfoot:sighting:01G9HSSFVBX0FFCAK4RG61MK42"
-11) 1) "$.temperature_mid"
+11) 1) "$.temperature.mid"
     2) "93.98"
 ```
 
 Not a lot of Bigfoot sightings at or above 90°. Guess he does have a lot of fur. If you want to remove the lower limit, you can use `-inf` in a similar way:
 
 ```bash
-127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index "@temperature_mid:[-inf 32]" RETURN 1 $.temperature_mid
+127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index "@temperature_mid:[-inf 32]" RETURN 1 $.temperature.mid
  1) (integer) 186
  2) "bigfoot:sighting:01G9HSSDJ4JKDDK9H0YFYWPYJ1"
- 3) 1) "$.temperature_mid"
+ 3) 1) "$.temperature.mid"
     2) "24.725"
  4) "bigfoot:sighting:01G9HSSZGB9NFTC1NGXM9VVCZH"
- 5) 1) "$.temperature_mid"
+ 5) 1) "$.temperature.mid"
     2) "26.02"
  6) "bigfoot:sighting:01G9HSSP8WHJRCZQ4Z270CS36V"
- 7) 1) "$.temperature_mid"
+ 7) 1) "$.temperature.mid"
     2) "14.635"
  8) "bigfoot:sighting:01G9HSS260VJAE3BHGJ7E5T25V"
- 9) 1) "$.temperature_mid"
+ 9) 1) "$.temperature.mid"
     2) "23.7"
 10) "bigfoot:sighting:01G9HSSDPHYCVQR0X9CJBSXK7W"
-11) 1) "$.temperature_mid"
+11) 1) "$.temperature.mid"
     2) "25.655"
 12) "bigfoot:sighting:01G9HSSZAVMMXN2XFECA4HE1CQ"
-13) 1) "$.temperature_mid"
+13) 1) "$.temperature.mid"
     2) "24.38"
 14) "bigfoot:sighting:01G9HSRD8W8E3PXVTNBG741022"
-15) 1) "$.temperature_mid"
+15) 1) "$.temperature.mid"
     2) "28.735"
 16) "bigfoot:sighting:01G9HSS7TQZ0Y2W1YE5MEWD9MC"
-17) 1) "$.temperature_mid"
+17) 1) "$.temperature.mid"
     2) "30.42"
 18) "bigfoot:sighting:01G9HSSJD1GHYYMTMDFJEWW0AD"
-19) 1) "$.temperature_mid"
+19) 1) "$.temperature.mid"
     2) "10.495"
 20) "bigfoot:sighting:01G9HSRBEE27TEGEAFS0N50E4D"
-21) 1) "$.temperature_mid"
+21) 1) "$.temperature.mid"
     2) "23.865"
 ```
 

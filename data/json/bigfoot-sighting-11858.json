@@ -11,9 +11,11 @@
   "longitude": -109.355,
   "location": "-109.355,33.9",
   "location_details": "South of Big Lake on Road 273.",
-  "temperature_high": 90.07,
-  "temperature_mid": 79.735,
-  "temperature_low": 69.4,
+  "temperature": {
+    "high": 90.07,
+    "mid": 79.735,
+    "low": 69.4
+  },
   "dew_point": 45.38,
   "humidity": 0.4,
   "cloud_cover": 0.19,

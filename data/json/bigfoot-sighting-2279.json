@@ -11,9 +11,11 @@
   "longitude": -81.88475,
   "location": "-81.88475,31.8792",
   "location_details": "This occured in the countryside of Glennville, Georgia.  The name of the road was Beards Creek Road. The sighting was near Beards Creek Church.",
-  "temperature_high": 88.34,
-  "temperature_mid": 81.16,
-  "temperature_low": 73.98,
+  "temperature": {
+    "high": 88.34,
+    "mid": 81.16,
+    "low": 73.98
+  },
   "dew_point": 73.1,
   "humidity": 0.79,
   "cloud_cover": 0.37,

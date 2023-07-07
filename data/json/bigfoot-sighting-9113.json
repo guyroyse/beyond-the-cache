@@ -11,9 +11,11 @@
   "longitude": -86.6913,
   "location": "-86.6913,30.56775",
   "location_details": "go down 85 south turn right on dirt road it goes straight to 87 thru eglin res.",
-  "temperature_high": 86.16,
-  "temperature_mid": 77.41,
-  "temperature_low": 68.66,
+  "temperature": {
+    "high": 86.16,
+    "mid": 77.41,
+    "low": 68.66
+  },
   "dew_point": 66.52,
   "humidity": 0.71,
   "cloud_cover": 0.21,

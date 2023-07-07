@@ -11,9 +11,11 @@
   "longitude": -84.60745,
   "location": "-84.60745,30.6645",
   "location_details": "Hwy 97",
-  "temperature_high": 61.76,
-  "temperature_mid": 49.29,
-  "temperature_low": 36.82,
+  "temperature": {
+    "high": 61.76,
+    "mid": 49.29,
+    "low": 36.82
+  },
   "dew_point": 46.95,
   "humidity": 0.75,
   "cloud_cover": 0.7,

@@ -11,9 +11,11 @@
   "longitude": -86.21193,
   "location": "-86.21193,46.19183",
   "location_details": "28 miles north of Manistique off Hwy 94",
-  "temperature_high": 73.47,
-  "temperature_mid": 65.685,
-  "temperature_low": 57.9,
+  "temperature": {
+    "high": 73.47,
+    "mid": 65.685,
+    "low": 57.9
+  },
   "dew_point": 60.78,
   "humidity": 0.7,
   "cloud_cover": 0.43,

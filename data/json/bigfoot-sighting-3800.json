@@ -11,9 +11,11 @@
   "longitude": -121.7944,
   "location": "-121.7944,46.1036",
   "location_details": "Take FR 88 north from Trout Lake, WA, about 18 miles, and then take the 8851 over to FR 30.",
-  "temperature_high": 73.93,
-  "temperature_mid": 58.27,
-  "temperature_low": 42.61,
+  "temperature": {
+    "high": 73.93,
+    "mid": 58.27,
+    "low": 42.61
+  },
   "dew_point": 46.9,
   "humidity": 0.62,
   "cloud_cover": 0.5,

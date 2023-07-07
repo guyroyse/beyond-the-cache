@@ -11,9 +11,11 @@
   "longitude": -82.59822,
   "location": "-82.59822,38.12764",
   "location_details": "This incident occured just north of the town of Fort Gay, on top of a wooded hill approximatly 1/4 mile north on Hewlett Branch Rd. from where it connects with the Big Sandy River Rd. about 4 miles west of Rt. 152 ( better known as the Tolsia Hiway). There is a clearing just above an old cemetary that lies at the top of the first hill on Hewlett Branch Rd.  Both Hewlett Branch and Big Sandy River Rd. are dirt roads. The area is very rural.",
-  "temperature_high": 81.81,
-  "temperature_mid": 73.175,
-  "temperature_low": 64.54,
+  "temperature": {
+    "high": 81.81,
+    "mid": 73.175,
+    "low": 64.54
+  },
   "dew_point": 63.13,
   "humidity": 0.78,
   "cloud_cover": 0.55,

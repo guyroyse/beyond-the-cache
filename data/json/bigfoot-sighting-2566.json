@@ -11,9 +11,11 @@
   "longitude": -82.3657,
   "location": "-82.3657,29.77535",
   "location_details": "Near county road 237 and NW 156th Steet(or Ave? everything has been re-numbered for 911 addresses",
-  "temperature_high": 82.98,
-  "temperature_mid": 77.22,
-  "temperature_low": 71.46,
+  "temperature": {
+    "high": 82.98,
+    "mid": 77.22,
+    "low": 71.46
+  },
   "dew_point": 67.59,
   "humidity": 0.8,
   "cloud_cover": 0.41,

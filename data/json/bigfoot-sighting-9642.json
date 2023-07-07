@@ -11,9 +11,11 @@
   "longitude": -85.61,
   "location": "-85.61,39.3579",
   "location_details": "300 feet east of the intersection of county roads 1100 north and 300 east. This is east of Waubee Lake in Milford, IN.",
-  "temperature_high": 23.93,
-  "temperature_mid": 20.48,
-  "temperature_low": 17.03,
+  "temperature": {
+    "high": 23.93,
+    "mid": 20.48,
+    "low": 17.03
+  },
   "dew_point": 11.85,
   "humidity": 0.7,
   "cloud_cover": 0.43,

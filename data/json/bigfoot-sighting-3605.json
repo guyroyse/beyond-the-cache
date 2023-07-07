@@ -11,9 +11,11 @@
   "longitude": -119.0139,
   "location": "-119.0139,37.33694",
   "location_details": "Doris Lake is located about 1.5 miles from the Mono Hot Springs Resort",
-  "temperature_high": 91.52,
-  "temperature_mid": 75.44,
-  "temperature_low": 59.36,
+  "temperature": {
+    "high": 91.52,
+    "mid": 75.44,
+    "low": 59.36
+  },
   "dew_point": 49.82,
   "humidity": 0.4,
   "cloud_cover": 0.1,

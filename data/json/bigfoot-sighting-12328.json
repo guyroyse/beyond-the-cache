@@ -11,9 +11,11 @@
   "longitude": -118.1729,
   "location": "-118.1729,36.1894",
   "location_details": "MONACHE  MEADOWS----SOUTH  FORK  KERN  RIVER",
-  "temperature_high": 89.83,
-  "temperature_mid": 74.38,
-  "temperature_low": 58.93,
+  "temperature": {
+    "high": 89.83,
+    "mid": 74.38,
+    "low": 58.93
+  },
   "dew_point": 48.16,
   "humidity": 0.42,
   "cloud_cover": 0.26,

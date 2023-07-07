@@ -11,9 +11,11 @@
   "longitude": -87.96095,
   "location": "-87.96095,31.58255",
   "location_details": "ON HWY. 69 Between Salitpa and Jackson. near the historic marker where the dirt road from Mcvay meets HWY. 69.",
-  "temperature_high": 66.9,
-  "temperature_mid": 55.87,
-  "temperature_low": 44.84,
+  "temperature": {
+    "high": 66.9,
+    "mid": 55.87,
+    "low": 44.84
+  },
   "dew_point": 47.91,
   "humidity": 0.81,
   "cloud_cover": 0.52,

@@ -11,9 +11,11 @@
   "longitude": -81.51075,
   "location": "-81.51075,40.67979",
   "location_details": "State Route 21 south out of Navarre to Hensel Road. Make a left and follow about 100 yards to Shelter Road and turn right. We lived the right hand side about two houses before Redmont Drive. The strip mines and woods were right behind the houses in the area.",
-  "temperature_high": 71.54,
-  "temperature_mid": 66.11,
-  "temperature_low": 60.68,
+  "temperature": {
+    "high": 71.54,
+    "mid": 66.11,
+    "low": 60.68
+  },
   "dew_point": 54.84,
   "humidity": 0.67,
   "cloud_cover": 0.88,

@@ -11,9 +11,11 @@
   "longitude": -82.14285,
   "location": "-82.14285,38.9264",
   "location_details": "It is about 2 miles out Little Kyger road off of Ohio state route 7 in the cheshire ohio area, over a dip in the road just past the old high school (River Valley )..",
-  "temperature_high": 35.18,
-  "temperature_mid": 32.01,
-  "temperature_low": 28.84,
+  "temperature": {
+    "high": 35.18,
+    "mid": 32.01,
+    "low": 28.84
+  },
   "dew_point": 29.32,
   "humidity": 0.92,
   "cloud_cover": 0.96,

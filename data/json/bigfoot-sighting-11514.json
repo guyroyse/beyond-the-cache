@@ -11,9 +11,11 @@
   "longitude": -111.938,
   "location": "-111.938,35.656",
   "location_details": "On a curvy stretch of two lane highway. I think it is Highway 180. Maybe 15 miles from the Grand Canyon.",
-  "temperature_high": 93.27,
-  "temperature_mid": 79.24,
-  "temperature_low": 65.21,
+  "temperature": {
+    "high": 93.27,
+    "mid": 79.24,
+    "low": 65.21
+  },
   "dew_point": 46.37,
   "humidity": 0.31,
   "cloud_cover": 0.31,

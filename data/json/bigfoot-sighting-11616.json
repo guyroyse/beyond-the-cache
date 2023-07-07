@@ -11,9 +11,11 @@
   "longitude": -155.981,
   "location": "-155.981,57.7566",
   "location_details": "Approximately 95 miles east of Egegik, Alaska. Up the Egegik River thirty-five miles, and sixty miles accross Becharoff Lake to the far south/east corner of the lake on the mouth of the Bear Creek spit.",
-  "temperature_high": 61.52,
-  "temperature_mid": 57.335,
-  "temperature_low": 53.15,
+  "temperature": {
+    "high": 61.52,
+    "mid": 57.335,
+    "low": 53.15
+  },
   "dew_point": 54.9,
   "humidity": 0.94,
   "cloud_cover": 0.86,

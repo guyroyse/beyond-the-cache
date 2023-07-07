@@ -11,9 +11,11 @@
   "longitude": -81.1455,
   "location": "-81.1455,41.2599",
   "location_details": "Four miles south of Hiram right on State Route 700.",
-  "temperature_high": 77.42,
-  "temperature_mid": 66.75,
-  "temperature_low": 56.08,
+  "temperature": {
+    "high": 77.42,
+    "mid": 66.75,
+    "low": 56.08
+  },
   "dew_point": 55.01,
   "humidity": 0.71,
   "cloud_cover": 0.23,

@@ -11,9 +11,11 @@
   "longitude": -111.7099,
   "location": "-111.7099,34.67245",
   "location_details": "Take I-17 south toward Flagstaff. Turn onto exit 179, travel 3 miles to Beaver creek. Hike 2 miles north into canyon at creek level.",
-  "temperature_high": 95.91,
-  "temperature_mid": 82.075,
-  "temperature_low": 68.24,
+  "temperature": {
+    "high": 95.91,
+    "mid": 82.075,
+    "low": 68.24
+  },
   "dew_point": 41.48,
   "humidity": 0.24,
   "cloud_cover": 0,

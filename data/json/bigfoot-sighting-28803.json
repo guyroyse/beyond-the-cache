@@ -11,9 +11,11 @@
   "longitude": -85.3532,
   "location": "-85.3532,40.8179",
   "location_details": "i was at a huntington reservoir state park east of i 69",
-  "temperature_high": 53.86,
-  "temperature_mid": 47.07,
-  "temperature_low": 40.28,
+  "temperature": {
+    "high": 53.86,
+    "mid": 47.07,
+    "low": 40.28
+  },
   "dew_point": 48.04,
   "humidity": 0.89,
   "cloud_cover": 0.98,

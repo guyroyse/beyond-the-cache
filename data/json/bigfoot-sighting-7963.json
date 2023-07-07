@@ -11,9 +11,11 @@
   "longitude": -132.8202,
   "location": "-132.8202,55.2035",
   "location_details": "At the edge of town.",
-  "temperature_high": 45.8,
-  "temperature_mid": 44.385,
-  "temperature_low": 42.97,
+  "temperature": {
+    "high": 45.8,
+    "mid": 44.385,
+    "low": 42.97
+  },
   "dew_point": 41.51,
   "humidity": 0.9,
   "cloud_cover": 0.94,

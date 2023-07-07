@@ -11,9 +11,11 @@
   "longitude": -85.925,
   "location": "-85.925,31.85",
   "location_details": "The place of the sighting is in North/Northwestern Pike County at a place known by the name \"Lookout Mountain\". It is not a mountain at all, just a big hill. It is supposed to be the highest point in Pike County, at approx. 100 feet high. Go north on Hwy. 231 out of Troy. Turn left (west/northwest) onto Co. Rd. 17. The \"mountain\" is a few miles back. Somewhere down Co. Rd. 17 the pavement ends and it becomes a dirt road (if that dirt section has not since been paved) from what I recall. There are other dirt roads going off Co. Rd. 17. Lookout Mountain is just off one of those dirt roads on the left. I may have actually made a right turn somewhere off Co. Rd. 17 to get to Lookout Mountain. I don't really remember. Besides it was only the second, and last time I had gone out to this place.",
-  "temperature_high": 90.72,
-  "temperature_mid": 81.88,
-  "temperature_low": 73.04,
+  "temperature": {
+    "high": 90.72,
+    "mid": 81.88,
+    "low": 73.04
+  },
   "dew_point": 71.51,
   "humidity": 0.8,
   "cloud_cover": 0.2,

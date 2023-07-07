@@ -11,9 +11,11 @@
   "longitude": -88.60814,
   "location": "-88.60814,41.29663",
   "location_details": "Intersection of Dupont Rd (County Highway 36) and Illinois Rt 170 just south of the new bridge at Seneca.",
-  "temperature_high": 36.58,
-  "temperature_mid": 32.775,
-  "temperature_low": 28.97,
+  "temperature": {
+    "high": 36.58,
+    "mid": 32.775,
+    "low": 28.97
+  },
   "dew_point": 29.55,
   "humidity": 0.83,
   "cloud_cover": 0.92,

@@ -11,9 +11,11 @@
   "longitude": -84.72352,
   "location": "-84.72352,34.8243",
   "location_details": "IT WAS REMOTLY CLOSE TO THE WOODS.",
-  "temperature_high": 35.9,
-  "temperature_mid": 27.425,
-  "temperature_low": 18.95,
+  "temperature": {
+    "high": 35.9,
+    "mid": 27.425,
+    "low": 18.95
+  },
   "dew_point": 20.85,
   "humidity": 0.65,
   "cloud_cover": 0.51,

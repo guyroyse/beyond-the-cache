@@ -11,9 +11,11 @@
   "longitude": -121.1057,
   "location": "-121.1057,47.82636",
   "location_details": "Lake Janus off the PCT north of highway 2 at lake campsite",
-  "temperature_high": 59.86,
-  "temperature_mid": 56.86,
-  "temperature_low": 53.86,
+  "temperature": {
+    "high": 59.86,
+    "mid": 56.86,
+    "low": 53.86
+  },
   "dew_point": 47.9,
   "humidity": 0.75,
   "cloud_cover": 0.22,

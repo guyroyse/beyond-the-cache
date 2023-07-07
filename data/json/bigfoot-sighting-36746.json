@@ -11,9 +11,11 @@
   "longitude": -96.35309,
   "location": "-96.35309,39.14519",
   "location_details": "Its right up Tuttle Creek Road in Manhattan KS. Head north on Barnes Rd and you go right over the river. That's where you park and go down to fish.",
-  "temperature_high": 100.47,
-  "temperature_mid": 89.7,
-  "temperature_low": 78.93,
+  "temperature": {
+    "high": 100.47,
+    "mid": 89.7,
+    "low": 78.93
+  },
   "dew_point": 72.81,
   "humidity": 0.62,
   "cloud_cover": 0.04,

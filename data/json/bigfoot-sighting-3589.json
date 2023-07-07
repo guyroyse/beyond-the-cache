@@ -11,9 +11,11 @@
   "longitude": -81.96845,
   "location": "-81.96845,40.2287",
   "location_details": "Woodbury wildlife area.off of County Road 6",
-  "temperature_high": 35.43,
-  "temperature_mid": 29.885,
-  "temperature_low": 24.34,
+  "temperature": {
+    "high": 35.43,
+    "mid": 29.885,
+    "low": 24.34
+  },
   "dew_point": 19.27,
   "humidity": 0.68,
   "cloud_cover": 0.59,

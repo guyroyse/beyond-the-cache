@@ -11,9 +11,11 @@
   "longitude": -83.66153,
   "location": "-83.66153,31.18562",
   "location_details": "Exact location details withheld per request of the witness, but the sighting took place about six miles east of Moultrie, GA, off of GA Hwy. 37.",
-  "temperature_high": 84.52,
-  "temperature_mid": 79.655,
-  "temperature_low": 74.79,
+  "temperature": {
+    "high": 84.52,
+    "mid": 79.655,
+    "low": 74.79
+  },
   "dew_point": 72.1,
   "humidity": 0.85,
   "cloud_cover": 0.41,

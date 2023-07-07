@@ -11,9 +11,11 @@
   "longitude": -99.1903,
   "location": "-99.1903,43.37663",
   "location_details": "200 to 300 feet to the east of the 1806 hwy 44 junction.",
-  "temperature_high": 46.34,
-  "temperature_mid": 35.225,
-  "temperature_low": 24.11,
+  "temperature": {
+    "high": 46.34,
+    "mid": 35.225,
+    "low": 24.11
+  },
   "dew_point": 29.26,
   "humidity": 0.72,
   "cloud_cover": 0.39,

@@ -1,0 +1,34 @@
+{
+  "reportId": "1953",
+  "title": "Deputy Sheriff sees strange footprints above Strawberry",
+  "date": "1963-12-01",
+  "timestamp": -192067200,
+  "observed": "The Deputy Sheriff from Pinecrest reported hundreds of 15 inch tracks with a 5 foot stride in Leland Meadow, a popluar recreation area.  No casts were made, but news of the tracks made the local paper, the Union Democrat.",
+  "classification": "Class B",
+  "county": "Tuolumne",
+  "state": "California",
+  "latitude": 38.23243,
+  "longitude": -119.984,
+  "location": {
+    "longitude": -119.984,
+    "latitude": 38.23243
+  },
+  "location_details": "Take Highway 108 to Strawberry, California. The location is about 2 miles northwest of Strawberry in Leland Meadow.",
+  "temperature": {
+    "high": 45.27,
+    "mid": 40.635,
+    "low": 36
+  },
+  "dew_point": 36.25,
+  "humidity": 0.87,
+  "cloud_cover": 0.76,
+  "moon_phase": 0.53,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1025.93,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 3.95,
+  "wind_bearing": 126,
+  "wind_speed": 2.03
+}

@@ -11,9 +11,11 @@
   "longitude": -122.3055,
   "location": "-122.3055,47.14385",
   "location_details": "At the end of 119th St E. There is a logging road that leads to a gravel pit. This is also next to some power lines. Also there use to be a horse farm at the start of the old logging road.",
-  "temperature_high": 63.46,
-  "temperature_mid": 52.68,
-  "temperature_low": 41.9,
+  "temperature": {
+    "high": 63.46,
+    "mid": 52.68,
+    "low": 41.9
+  },
   "dew_point": 42.24,
   "humidity": 0.72,
   "cloud_cover": 0.42,

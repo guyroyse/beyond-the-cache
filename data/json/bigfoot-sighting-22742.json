@@ -11,9 +11,11 @@
   "longitude": -121.5134,
   "location": "-121.5134,45.38736",
   "location_details": "Was right inside the lower park south of the ranger station and fish hatchery at the Community Kitchen.",
-  "temperature_high": 72.57,
-  "temperature_mid": 60.625,
-  "temperature_low": 48.68,
+  "temperature": {
+    "high": 72.57,
+    "mid": 60.625,
+    "low": 48.68
+  },
   "dew_point": 46.32,
   "humidity": 0.8,
   "cloud_cover": 0.92,

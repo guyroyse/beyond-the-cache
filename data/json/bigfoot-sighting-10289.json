@@ -11,9 +11,11 @@
   "longitude": -74.14589,
   "location": "-74.14589,44.26646",
   "location_details": "Pine Pond  -area can be accessed by an old snowmobile/bike path that enters from Rt 86 in Ray Brook. This area is also one mile south of Oseetah Lake -site of the 2002 ESPN outdoor games. It is located at the base of Mt. Ampersand.",
-  "temperature_high": 83.22,
-  "temperature_mid": 73.645,
-  "temperature_low": 64.07,
+  "temperature": {
+    "high": 83.22,
+    "mid": 73.645,
+    "low": 64.07
+  },
   "dew_point": 58.6,
   "humidity": 0.73,
   "cloud_cover": 0.3,

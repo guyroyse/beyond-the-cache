@@ -1,0 +1,35 @@
+{
+  "reportId": "10678",
+  "title": "Youth has daylight sighting near New Pekin.",
+  "date": "1999-06-12",
+  "timestamp": 929145600,
+  "observed": "My sighting of what I believe to have been a sasquatch was quite brief, though I did get a decent look.  My mother and I were visiting my aunt and I was asked to go out to the car to get my mother's cigarettes.  I went outside and walked over to the car and grabbed the cigarettes.  When I got back out of the car and went to close the door, I noticed something moving in the field next to my aunt's property.  A very large and definitely bipedal animal was walking down the field towards the woods.  It walked with a long and sort of slouched gait.  It was either covered with really dark brown or black fur and had rather long arms that swung loosely as it moved.  It crossed the distance of at least 200 feet in less than 20 seconds.  As soon as it reached the woods, I walked into the house and must have sat  for at least half an hour trying to process what I'd seen.  I was only 13 at the time.",
+  "classification": "Class A",
+  "county": "Washington",
+  "state": "Indiana",
+  "latitude": 39.4862,
+  "longitude": -86.161,
+  "location": {
+    "longitude": -86.161,
+    "latitude": 39.4862
+  },
+  "location_details": "From SR 135, go to Dutch Creek Rd and from there, turn on to Falling Creek Rd.",
+  "temperature": {
+    "high": 86.92,
+    "mid": 77.775,
+    "low": 68.63
+  },
+  "dew_point": 68.55,
+  "humidity": 0.75,
+  "cloud_cover": 0.38,
+  "moon_phase": 0.96,
+  "precip_intensity": 0.0046,
+  "precip_probability": 0.52,
+  "precip_type": "rain",
+  "pressure": 1018.54,
+  "summary": "Light rain in the afternoon.",
+  "uv_index": 8,
+  "visibility": 6.09,
+  "wind_bearing": 36,
+  "wind_speed": 0.17
+}

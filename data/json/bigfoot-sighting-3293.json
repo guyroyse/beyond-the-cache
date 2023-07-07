@@ -11,9 +11,11 @@
   "longitude": -82.80257,
   "location": "-82.80257,40.4764",
   "location_details": "This incident took place two miles east of Fulton, Ohio about 200 yards north of County Road 25.",
-  "temperature_high": 35.36,
-  "temperature_mid": 24.995,
-  "temperature_low": 14.63,
+  "temperature": {
+    "high": 35.36,
+    "mid": 24.995,
+    "low": 14.63
+  },
   "dew_point": 26.03,
   "humidity": 0.82,
   "cloud_cover": 0.95,

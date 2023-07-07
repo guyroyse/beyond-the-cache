@@ -11,9 +11,11 @@
   "longitude": -119.7275,
   "location": "-119.7275,38.29116",
   "location_details": "Located above Strawberry, in Tuolumne County.",
-  "temperature_high": 92.57,
-  "temperature_mid": 77.655,
-  "temperature_low": 62.74,
+  "temperature": {
+    "high": 92.57,
+    "mid": 77.655,
+    "low": 62.74
+  },
   "dew_point": 52.44,
   "humidity": 0.46,
   "cloud_cover": 0.3,

@@ -1,0 +1,35 @@
+{
+  "reportId": "44989",
+  "title": "Campers hear possible vocalization just outside their tent in Mt. Hood National Forest",
+  "date": "2013-09-24",
+  "timestamp": 1379980800,
+  "observed": "We heard three unbelievably low-toned grunts outside of our tent at dawn (around 5 am) on Tueday, September 24th, 2013.  Our tent is about 7 feet high when set up and the grunts sounded about a foot or two higher than the tent and about 6 feet away. The grunts sounded like \"huuhhh-huuhhh-huuhhh,\"  very low pitched.",
+  "classification": "Class B",
+  "county": "Clackamas",
+  "state": "Oregon",
+  "latitude": 45.1518,
+  "longitude": -122.1032,
+  "location": {
+    "longitude": -122.1032,
+    "latitude": 45.1518
+  },
+  "location_details": "Campsite about 15 miles south of the town of Estacada.",
+  "temperature": {
+    "high": 58.31,
+    "mid": 53.855,
+    "low": 49.4
+  },
+  "dew_point": 50.55,
+  "humidity": 0.88,
+  "cloud_cover": 0.37,
+  "moon_phase": 0.68,
+  "precip_intensity": 0.0117,
+  "precip_probability": 0.78,
+  "precip_type": "rain",
+  "pressure": 1013.25,
+  "summary": "Light rain in the afternoon and evening.",
+  "uv_index": 4,
+  "visibility": 9.54,
+  "wind_bearing": 211,
+  "wind_speed": 1.68
+}

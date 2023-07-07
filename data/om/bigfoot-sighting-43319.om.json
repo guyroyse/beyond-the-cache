@@ -1,0 +1,35 @@
+{
+  "reportId": "43319",
+  "title": "Possible sighting by a motorist near Hettick",
+  "date": "2014-05-14",
+  "timestamp": 1400025600,
+  "observed": "On 12/16/13 I was driving down Hettick Road in Hettick Illinois around 6:20 pm. I was coming up a hill and a shadow along side of the road caught my eye. This dark colored, large hairy animal on all 4 legs that resembled a bear. It kicked its back leg, turned to where it was looking at me and just stood there in the field on the passenger side of my car. It stood there and looked at me and was approximately 5 feet in height on all four feet. I went to my sister's house approximately 1/4 mile up the road and got her camera and we went back and took pictures of the footprints in the snow. About a week ago my mom and sister were talking about a loud hollering noise they heard in the timber behind their house.",
+  "classification": "Class B",
+  "county": "Macoupin",
+  "state": "Illinois",
+  "latitude": 39.34657,
+  "longitude": -90.1173,
+  "location": {
+    "longitude": -90.1173,
+    "latitude": 39.34657
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 53.24,
+    "mid": 49.88,
+    "low": 46.52
+  },
+  "dew_point": 45.06,
+  "humidity": 0.82,
+  "cloud_cover": 0.16,
+  "moon_phase": 0.49,
+  "precip_intensity": 0.0094,
+  "precip_probability": 0.87,
+  "precip_type": "rain",
+  "pressure": 1020.25,
+  "summary": "Light rain in the evening.",
+  "uv_index": 8,
+  "visibility": 9.05,
+  "wind_bearing": 347,
+  "wind_speed": 8.89
+}

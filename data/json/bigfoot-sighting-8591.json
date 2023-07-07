@@ -11,9 +11,11 @@
   "longitude": -95.60667,
   "location": "-95.60667,35.7575",
   "location_details": "A creek where the creature crossed the road and a Federal WPA water impoundment a 1/4 mile to the West.",
-  "temperature_high": 79.82,
-  "temperature_mid": 65.11,
-  "temperature_low": 50.4,
+  "temperature": {
+    "high": 79.82,
+    "mid": 65.11,
+    "low": 50.4
+  },
   "dew_point": 39.27,
   "humidity": 0.6,
   "cloud_cover": 0.04,

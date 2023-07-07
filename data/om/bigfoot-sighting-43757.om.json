@@ -1,0 +1,34 @@
+{
+  "reportId": "43757",
+  "title": "Rocks and growls spook carpenters working at a home with ongoing activity near Stanwood",
+  "date": "2013-11-20",
+  "timestamp": 1384905600,
+  "observed": "THIS INCIDENT HAPPENED THE THIRD WEEK OF NOVEMBER 2013, RIGHT AROUND THANKSGIVING. WE WERE AWAY IN EASTERN WASHINGTON DEER HUNTING.  WE WERE HAVING OUR HOME BEING RE-SIDED WHILE WE WERE AWAY.  UPON OUR RETURN THE CONTRACTOR TOLD US THEY HAD ROCKS THROWN AT THEM THURSDAY AND FRIDAY OF THE 1ST WEEK, WHICH HIT ONE OF HIS WORKER'S.  WE HAVE MOSTLY RETIRED PEOPLE IN OUR DEVELOPMENT. THE FEW KIDS THAT DO LIVE HERE, WERE STILL IN SCHOOL BEFORE THANKSGIVING. THE SECOND WEEK THEY WERE FINISHING SIDING THE GARAGE, THEY THEN HEARD A DEEP BASED GROWL. THEY THREW THEIR TOOLS IN THEIR TRUCK AND GOT OUT OF HERE PRONTO. THE NEXT NIGHT THEY HEARD THE GARBLED SIERRA GROWL, AND AGAIN THEY DROPPED THEIR TOOLS AND RAN FOR THEIR TRUCK. THE WOODS WERE ONLY 5 TO 8 YARDS BEHIND THEM AS THEY WORKED. EACH NIGHT OF THE GROWLS IT WAS ABOUT 7 PM AND DARK.",
+  "classification": "Class B",
+  "county": "Snohomish",
+  "state": "Washington",
+  "latitude": 48.27656,
+  "longitude": -122.2138,
+  "location": {
+    "longitude": -122.2138,
+    "latitude": 48.27656
+  },
+  "location_details": "WE LIVE NEAR A TREE FARM NEAR STANWOOD, WA.  (Additional directions removed as requested.)",
+  "temperature": {
+    "high": 40.23,
+    "mid": 34.185,
+    "low": 28.14
+  },
+  "dew_point": 27.42,
+  "humidity": 0.75,
+  "cloud_cover": 0,
+  "moon_phase": 0.6,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1027.19,
+  "summary": "Clear throughout the day.",
+  "uv_index": 1,
+  "visibility": 9.84,
+  "wind_bearing": 0,
+  "wind_speed": 4.81
+}

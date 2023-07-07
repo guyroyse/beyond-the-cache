@@ -11,9 +11,11 @@
   "longitude": -92.30519,
   "location": "-92.30519,34.92336",
   "location_details": "It was just North of the All-American Drop Zone inside Camp Robinson.",
-  "temperature_high": 86.13,
-  "temperature_mid": 73.815,
-  "temperature_low": 61.5,
+  "temperature": {
+    "high": 86.13,
+    "mid": 73.815,
+    "low": 61.5
+  },
   "dew_point": 62.21,
   "humidity": 0.72,
   "cloud_cover": 0.29,

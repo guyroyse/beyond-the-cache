@@ -11,9 +11,11 @@
   "longitude": -81.61756,
   "location": "-81.61756,31.9853",
   "location_details": "we were just south of the di-ped",
-  "temperature_high": 88.68,
-  "temperature_mid": 79.285,
-  "temperature_low": 69.89,
+  "temperature": {
+    "high": 88.68,
+    "mid": 79.285,
+    "low": 69.89
+  },
   "dew_point": 74.54,
   "humidity": 0.83,
   "cloud_cover": 0.41,

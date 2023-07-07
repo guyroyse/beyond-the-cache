@@ -11,9 +11,11 @@
   "longitude": -84.1989,
   "location": "-84.1989,37.89508",
   "location_details": "Clark County Kentucky between Winchester and Richmond near the Booneboro River on Elkon Station Road near a railroad track.",
-  "temperature_high": 77.34,
-  "temperature_mid": 68.795,
-  "temperature_low": 60.25,
+  "temperature": {
+    "high": 77.34,
+    "mid": 68.795,
+    "low": 60.25
+  },
   "dew_point": 59.42,
   "humidity": 0.69,
   "cloud_cover": 0.46,

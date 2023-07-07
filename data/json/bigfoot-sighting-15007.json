@@ -11,9 +11,11 @@
   "longitude": -90.459,
   "location": "-90.459,40.316",
   "location_details": "Pastures and a lake to the south. Pastures and fields to the north. A road, field and a forest to the east. A forest to the west.",
-  "temperature_high": 83.05,
-  "temperature_mid": 69.235,
-  "temperature_low": 55.42,
+  "temperature": {
+    "high": 83.05,
+    "mid": 69.235,
+    "low": 55.42
+  },
   "dew_point": 57.66,
   "humidity": 0.7,
   "cloud_cover": 0.02,

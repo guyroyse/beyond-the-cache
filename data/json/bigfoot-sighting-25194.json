@@ -11,9 +11,11 @@
   "longitude": -121.718,
   "location": "-121.718,45.9216",
   "location_details": "Fire road 66 in the south prairie",
-  "temperature_high": 50.11,
-  "temperature_mid": 42.37,
-  "temperature_low": 34.63,
+  "temperature": {
+    "high": 50.11,
+    "mid": 42.37,
+    "low": 34.63
+  },
   "dew_point": 35.51,
   "humidity": 0.82,
   "cloud_cover": 0.5,

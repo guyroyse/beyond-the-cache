@@ -11,9 +11,11 @@
   "longitude": -79.1345,
   "location": "-79.1345,36.589",
   "location_details": "Location was about 1/2 way between Staunton River State Park and Danville, VA. on Rt 58 at a fairly sharp left-hand bend in the road",
-  "temperature_high": 53.5,
-  "temperature_mid": 51.085,
-  "temperature_low": 48.67,
+  "temperature": {
+    "high": 53.5,
+    "mid": 51.085,
+    "low": 48.67
+  },
   "dew_point": 47.99,
   "humidity": 0.95,
   "cloud_cover": 0.94,

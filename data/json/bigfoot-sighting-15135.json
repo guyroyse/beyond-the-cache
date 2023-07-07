@@ -11,9 +11,11 @@
   "longitude": -119.187,
   "location": "-119.187,48.32956",
   "location_details": "Hwy 155 from Omak and off on side roads.",
-  "temperature_high": 80.38,
-  "temperature_mid": 63.635,
-  "temperature_low": 46.89,
+  "temperature": {
+    "high": 80.38,
+    "mid": 63.635,
+    "low": 46.89
+  },
   "dew_point": 46.52,
   "humidity": 0.59,
   "cloud_cover": 0.08,

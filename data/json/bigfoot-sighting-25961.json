@@ -11,9 +11,11 @@
   "longitude": -83.80582,
   "location": "-83.80582,38.81772",
   "location_details": "the road this happened on has no name its about 3 miles off rt 68 headed to ripley Ohio.",
-  "temperature_high": 87.26,
-  "temperature_mid": 77.67,
-  "temperature_low": 68.08,
+  "temperature": {
+    "high": 87.26,
+    "mid": 77.67,
+    "low": 68.08
+  },
   "dew_point": 68.16,
   "humidity": 0.72,
   "cloud_cover": 0.52,

@@ -11,9 +11,11 @@
   "longitude": -83.27139,
   "location": "-83.27139,43.94111",
   "location_details": "in the sand dunes above the shore of lake huron, I believe we were east of town. There is swamp land immediately inland in areas of Caseville, and the mouth of the pidgeon river is in caseville also",
-  "temperature_high": 72,
-  "temperature_mid": 64,
-  "temperature_low": 56,
+  "temperature": {
+    "high": 72,
+    "mid": 64,
+    "low": 56
+  },
   "dew_point": 52.34,
   "humidity": 0.68,
   "cloud_cover": 0.35,

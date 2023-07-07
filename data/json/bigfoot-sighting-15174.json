@@ -11,9 +11,11 @@
   "longitude": -120.914,
   "location": "-120.914,39.374",
   "location_details": "Chute Hill campsite # 29... saw the creature to the west of the site",
-  "temperature_high": 91.01,
-  "temperature_mid": 78.72,
-  "temperature_low": 66.43,
+  "temperature": {
+    "high": 91.01,
+    "mid": 78.72,
+    "low": 66.43
+  },
   "dew_point": 47.92,
   "humidity": 0.37,
   "cloud_cover": 0.07,

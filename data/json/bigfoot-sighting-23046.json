@@ -11,9 +11,11 @@
   "longitude": -103.0044,
   "location": "-103.0044,42.69657",
   "location_details": "From Chadron, you head south on US hwy 385. You begin to climb from Chadron's level on the plain up onto the Ridge, first crossing Chadron Creek, passing Chadron State Park (on the right).  Red Cloud Campground is the first turnoff on the right just after Chadron State Park.  The elevation is around 3500 ft at this point.",
-  "temperature_high": 81.97,
-  "temperature_mid": 64.895,
-  "temperature_low": 47.82,
+  "temperature": {
+    "high": 81.97,
+    "mid": 64.895,
+    "low": 47.82
+  },
   "dew_point": 34.22,
   "humidity": 0.44,
   "cloud_cover": 0.01,

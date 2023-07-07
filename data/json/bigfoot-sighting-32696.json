@@ -11,9 +11,11 @@
   "longitude": -122.5308,
   "location": "-122.5308,46.59632",
   "location_details": "Rural. National Forest very close.",
-  "temperature_high": 42.95,
-  "temperature_mid": 37.89,
-  "temperature_low": 32.83,
+  "temperature": {
+    "high": 42.95,
+    "mid": 37.89,
+    "low": 32.83
+  },
   "dew_point": 35.9,
   "humidity": 0.86,
   "cloud_cover": 0.85,

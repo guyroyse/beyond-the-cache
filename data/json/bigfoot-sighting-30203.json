@@ -11,9 +11,11 @@
   "longitude": -89.41959,
   "location": "-89.41959,40.14471",
   "location_details": "I could return to the area or close to it, but the only thing I can add was that it was on a stretch of I-55 where the northbound lanes were a little closer to our side.",
-  "temperature_high": 62.69,
-  "temperature_mid": 51.47,
-  "temperature_low": 40.25,
+  "temperature": {
+    "high": 62.69,
+    "mid": 51.47,
+    "low": 40.25
+  },
   "dew_point": 46.98,
   "humidity": 0.63,
   "cloud_cover": 0.24,

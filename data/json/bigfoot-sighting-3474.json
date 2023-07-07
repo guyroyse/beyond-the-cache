@@ -11,9 +11,11 @@
   "longitude": -88.71672,
   "location": "-88.71672,37.34339",
   "location_details": "This happened in the woods near Reevesville, IL about 10 miles north of Metropolis, IL",
-  "temperature_high": 83.19,
-  "temperature_mid": 73.425,
-  "temperature_low": 63.66,
+  "temperature": {
+    "high": 83.19,
+    "mid": 73.425,
+    "low": 63.66
+  },
   "dew_point": 57.14,
   "humidity": 0.71,
   "cloud_cover": 0.3,

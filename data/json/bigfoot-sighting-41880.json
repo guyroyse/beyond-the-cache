@@ -11,9 +11,11 @@
   "longitude": -79.68047,
   "location": "-79.68047,38.93027",
   "location_details": "Bear Heaven camp site 7. On Bickel's knob.",
-  "temperature_high": 64.12,
-  "temperature_mid": 55.61,
-  "temperature_low": 47.1,
+  "temperature": {
+    "high": 64.12,
+    "mid": 55.61,
+    "low": 47.1
+  },
   "dew_point": 48.08,
   "humidity": 0.71,
   "cloud_cover": 0.06,

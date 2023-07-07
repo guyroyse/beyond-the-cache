@@ -11,9 +11,11 @@
   "longitude": -82.56715,
   "location": "-82.56715,35.41939",
   "location_details": "it is not far from the Asheville airport, about three miles",
-  "temperature_high": 76.03,
-  "temperature_mid": 68.665,
-  "temperature_low": 61.3,
+  "temperature": {
+    "high": 76.03,
+    "mid": 68.665,
+    "low": 61.3
+  },
   "dew_point": 55.09,
   "humidity": 0.69,
   "cloud_cover": 0.45,

@@ -11,9 +11,11 @@
   "longitude": -80.48021,
   "location": "-80.48021,25.73951",
   "location_details": "Its about mile marker 22 south",
-  "temperature_high": 80.01,
-  "temperature_mid": 72.105,
-  "temperature_low": 64.2,
+  "temperature": {
+    "high": 80.01,
+    "mid": 72.105,
+    "low": 64.2
+  },
   "dew_point": 55.85,
   "humidity": 0.66,
   "cloud_cover": 0.07,

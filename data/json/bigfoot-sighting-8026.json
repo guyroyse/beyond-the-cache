@@ -11,9 +11,11 @@
   "longitude": -120.8983,
   "location": "-120.8983,39.21667",
   "location_details": "The sighting was near Grass Valley.",
-  "temperature_high": 55.56,
-  "temperature_mid": 48.395,
-  "temperature_low": 41.23,
+  "temperature": {
+    "high": 55.56,
+    "mid": 48.395,
+    "low": 41.23
+  },
   "dew_point": 43.94,
   "humidity": 0.89,
   "cloud_cover": 0.49,

@@ -1,0 +1,34 @@
+{
+  "reportId": "1036",
+  "title": "Camper experiences unusual early morning scream near Kernville",
+  "date": "1994-08-01",
+  "timestamp": 775699200,
+  "observed": "In the summer of 1994 I was camping with my son on the Kern River in a public campground.  Huge boulders on the bank of the river and more boulders inside the rushing river.  After we barbequed we found it difficult to move about the campsite because of the huge rocks everywhere. I actually slipped and banged my knee on one of those boulders. I was in a small tent and my son Ron slept in the Ford Tempo.  He is a sound sleeper.  I am not.  During the night he awoke me and said something was moving around in the blackness outside his car.  I told him to go back to sleep and it was cold so I bundled up and tried to sleep despite the pain from my banged knee.  Right as the sun came up I heard the loudest scream right outside my tent.   It was inhuman - much louder than a man's voice and of an alarming intensity and pitch.  I unflapped one of the tent windows and looked out, expecting to see I knew not what.  Everything was sunny and looked normal. A frightening experience.",
+  "classification": "Class B",
+  "county": "Kern",
+  "state": "California",
+  "latitude": 35.75472,
+  "longitude": -118.4244,
+  "location": {
+    "longitude": -118.4244,
+    "latitude": 35.75472
+  },
+  "location_details": "It was a public campground right outside a small town with large boulders right on the Kern River.  Little rapids all along the river at this point. Tent was under a bunch of scraggly trees.",
+  "temperature": {
+    "high": 96.57,
+    "mid": 80.18,
+    "low": 63.79
+  },
+  "dew_point": 50.45,
+  "humidity": 0.37,
+  "cloud_cover": 0.03,
+  "moon_phase": 0.82,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1013.11,
+  "summary": "Clear throughout the day.",
+  "uv_index": 11,
+  "visibility": 9.45,
+  "wind_bearing": 252,
+  "wind_speed": 5.27
+}

@@ -11,9 +11,11 @@
   "longitude": -80.18501,
   "location": "-80.18501,26.83656",
   "location_details": "It was around where the turnpike meets PGA Blvd",
-  "temperature_high": 88.89,
-  "temperature_mid": 82.255,
-  "temperature_low": 75.62,
+  "temperature": {
+    "high": 88.89,
+    "mid": 82.255,
+    "low": 75.62
+  },
   "dew_point": 73.14,
   "humidity": 0.72,
   "cloud_cover": 0.42,

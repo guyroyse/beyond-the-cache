@@ -11,9 +11,11 @@
   "longitude": -122.1954,
   "location": "-122.1954,43.31815",
   "location_details": "It was near a logging camp (we dont know if it is still there or not) There were a few cabins around that the loggers stayed in. It was at Lemolo Lake, north of Diamond Lake.",
-  "temperature_high": 83.19,
-  "temperature_mid": 68.17,
-  "temperature_low": 53.15,
+  "temperature": {
+    "high": 83.19,
+    "mid": 68.17,
+    "low": 53.15
+  },
   "dew_point": 49.08,
   "humidity": 0.56,
   "cloud_cover": 0.15,

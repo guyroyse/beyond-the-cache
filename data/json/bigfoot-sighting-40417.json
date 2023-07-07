@@ -11,9 +11,11 @@
   "longitude": -86.56954,
   "location": "-86.56954,34.47091",
   "location_details": "About 30 yrds away near edge of woods walking along a path",
-  "temperature_high": 74.01,
-  "temperature_mid": 62.63,
-  "temperature_low": 51.25,
+  "temperature": {
+    "high": 74.01,
+    "mid": 62.63,
+    "low": 51.25
+  },
   "dew_point": 41.98,
   "humidity": 0.47,
   "cloud_cover": 0.11,

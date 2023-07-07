@@ -11,9 +11,11 @@
   "longitude": -89.30435,
   "location": "-89.30435,38.04813",
   "location_details": "About six miles southeast of Pinckneyville.",
-  "temperature_high": 46.21,
-  "temperature_mid": 40.435,
-  "temperature_low": 34.66,
+  "temperature": {
+    "high": 46.21,
+    "mid": 40.435,
+    "low": 34.66
+  },
   "dew_point": 40.6,
   "humidity": 0.86,
   "cloud_cover": 0.92,

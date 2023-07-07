@@ -11,9 +11,11 @@
   "longitude": -92.4054,
   "location": "-92.4054,31.3058",
   "location_details": "This sighting occured in a community in Central Louisiana. Outside the city limits of Pineville near a swamp area. Between Hwy 107 and Hwy 167.",
-  "temperature_high": 86.92,
-  "temperature_mid": 79.055,
-  "temperature_low": 71.19,
+  "temperature": {
+    "high": 86.92,
+    "mid": 79.055,
+    "low": 71.19
+  },
   "dew_point": 68.57,
   "humidity": 0.77,
   "cloud_cover": 0.53,

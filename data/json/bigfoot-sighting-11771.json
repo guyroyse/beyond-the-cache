@@ -11,9 +11,11 @@
   "longitude": -81.18352,
   "location": "-81.18352,40.71737",
   "location_details": "North of Malvern, near the Pride Valley Trailer Park.",
-  "temperature_high": 65.83,
-  "temperature_mid": 56.255,
-  "temperature_low": 46.68,
+  "temperature": {
+    "high": 65.83,
+    "mid": 56.255,
+    "low": 46.68
+  },
   "dew_point": 50.48,
   "humidity": 0.76,
   "cloud_cover": 0.58,

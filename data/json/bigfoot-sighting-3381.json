@@ -11,9 +11,11 @@
   "longitude": -82.23988,
   "location": "-82.23988,40.59935",
   "location_details": "Along a branch of the Mohican river while canoeing outside the town of Loudonville. Nearest major road is State Route 3.",
-  "temperature_high": 77.61,
-  "temperature_mid": 70.275,
-  "temperature_low": 62.94,
+  "temperature": {
+    "high": 77.61,
+    "mid": 70.275,
+    "low": 62.94
+  },
   "dew_point": 62.02,
   "humidity": 0.72,
   "cloud_cover": 0.38,

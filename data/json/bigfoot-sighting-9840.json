@@ -11,9 +11,11 @@
   "longitude": -93.8232,
   "location": "-93.8232,36.8133",
   "location_details": "I can show you the place where I saw it.",
-  "temperature_high": 59.39,
-  "temperature_mid": 50.81,
-  "temperature_low": 42.23,
+  "temperature": {
+    "high": 59.39,
+    "mid": 50.81,
+    "low": 42.23
+  },
   "dew_point": 50.68,
   "humidity": 0.91,
   "cloud_cover": 0.42,

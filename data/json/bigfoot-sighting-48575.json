@@ -11,9 +11,11 @@
   "longitude": -80.07443,
   "location": "-80.07443,40.94997",
   "location_details": "I was actually on my boat on the lake at the time. If needed I can give almost exact locations using Google Earth or another map.",
-  "temperature_high": 65.23,
-  "temperature_mid": 53.745,
-  "temperature_low": 42.26,
+  "temperature": {
+    "high": 65.23,
+    "mid": 53.745,
+    "low": 42.26
+  },
   "dew_point": 41.18,
   "humidity": 0.65,
   "cloud_cover": 0.22,

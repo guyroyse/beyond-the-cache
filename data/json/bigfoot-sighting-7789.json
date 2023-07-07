@@ -11,9 +11,11 @@
   "longitude": -122.3352,
   "location": "-122.3352,45.5145",
   "location_details": "From I-84 take the Troutdale exit and go up the Sandy River to the Job Corps camp. On the left side of the road there is a large sculpture of a dragon made by a student at the gate.",
-  "temperature_high": 67.38,
-  "temperature_mid": 58.515,
-  "temperature_low": 49.65,
+  "temperature": {
+    "high": 67.38,
+    "mid": 58.515,
+    "low": 49.65
+  },
   "dew_point": 52.95,
   "humidity": 0.84,
   "cloud_cover": 0.88,

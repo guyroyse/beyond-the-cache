@@ -11,9 +11,11 @@
   "longitude": -110.0042,
   "location": "-110.0042,44.50132",
   "location_details": "Yellowstone Park on the East entrance into the park coming from Cody Wyoming direction.",
-  "temperature_high": 81.65,
-  "temperature_mid": 70.43,
-  "temperature_low": 59.21,
+  "temperature": {
+    "high": 81.65,
+    "mid": 70.43,
+    "low": 59.21
+  },
   "dew_point": 54.54,
   "humidity": 0.63,
   "cloud_cover": 0.4,

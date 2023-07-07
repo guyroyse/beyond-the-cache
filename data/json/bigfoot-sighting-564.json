@@ -11,9 +11,11 @@
   "longitude": -94.72448,
   "location": "-94.72448,37.81005",
   "location_details": "This was on the outer edge of Fort Scott on the country club golf course. I have researched the area thoroughly and have found no more evidence of the creature and can conclude it has been gone for a while.",
-  "temperature_high": 67.49,
-  "temperature_mid": 58.685,
-  "temperature_low": 49.88,
+  "temperature": {
+    "high": 67.49,
+    "mid": 58.685,
+    "low": 49.88
+  },
   "dew_point": 39.98,
   "humidity": 0.54,
   "cloud_cover": 0.65,

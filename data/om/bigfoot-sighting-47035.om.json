@@ -1,0 +1,35 @@
+{
+  "reportId": "47035",
+  "title": "Resident outside for a smoke in the early morning hours hears strange vocalizations near Spanaway",
+  "date": "2014-11-07",
+  "timestamp": 1415318400,
+  "observed": "Stepped out back for a smoke while I was on the phone. Heard a whooping sound. I stopped talking to my friend and continued to listen. I thought it might have been an elk but after hearing elk sounds definitely not it. The whoop did not tail off . It was a medium, not high pitched whoop. Very loud. Only way I can describe it is like a football punt. Whooooooooop. But stops at the high point. There was 3 or 4 of them and lasted around 3 seconds each. Continued to hear and you could hear the rustle in the thickets. Ran inside to get my roommate to hear it. When we got back out all the dogs in the neighborhood were barking. Have had odd instances at the house such as someone knocking on bedroom windows, sometimes slapping the windows.. got a security alarm for we thought someone was trying to break in. Who knows.. will continue to keep an eye out.",
+  "classification": "Class B",
+  "county": "Pierce",
+  "state": "Washington",
+  "latitude": 47.03189,
+  "longitude": -122.3677,
+  "location": {
+    "longitude": -122.3677,
+    "latitude": 47.03189
+  },
+  "location_details": "Power lines behind my house.",
+  "temperature": {
+    "high": 55.71,
+    "mid": 47.005,
+    "low": 38.3
+  },
+  "dew_point": 44.09,
+  "humidity": 0.87,
+  "cloud_cover": 0.1,
+  "moon_phase": 0.54,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.22,
+  "precip_type": "rain",
+  "pressure": 1030.03,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 1,
+  "visibility": 8.2,
+  "wind_bearing": 186,
+  "wind_speed": 0.46
+}

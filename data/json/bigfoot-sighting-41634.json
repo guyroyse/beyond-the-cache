@@ -11,9 +11,11 @@
   "longitude": -117.7273,
   "location": "-117.7273,45.44986",
   "location_details": "I was lost somewhere in the mountains and do not know the location.  See report.",
-  "temperature_high": 75.87,
-  "temperature_mid": 61.195,
-  "temperature_low": 46.52,
+  "temperature": {
+    "high": 75.87,
+    "mid": 61.195,
+    "low": 46.52
+  },
   "dew_point": 33.18,
   "humidity": 0.33,
   "cloud_cover": 0,

@@ -11,9 +11,11 @@
   "longitude": -122.0447,
   "location": "-122.0447,47.9817",
   "location_details": "Near Newberg Road",
-  "temperature_high": 64.17,
-  "temperature_mid": 58.745,
-  "temperature_low": 53.32,
+  "temperature": {
+    "high": 64.17,
+    "mid": 58.745,
+    "low": 53.32
+  },
   "dew_point": 52.52,
   "humidity": 0.8,
   "cloud_cover": 0.89,

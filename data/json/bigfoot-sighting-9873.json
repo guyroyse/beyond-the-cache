@@ -11,9 +11,11 @@
   "longitude": -114.0717,
   "location": "-114.0717,47.06032",
   "location_details": "We live just inside the Flathead Indian Reservation near Evaro.",
-  "temperature_high": 80.05,
-  "temperature_mid": 66.12,
-  "temperature_low": 52.19,
+  "temperature": {
+    "high": 80.05,
+    "mid": 66.12,
+    "low": 52.19
+  },
   "dew_point": 53.51,
   "humidity": 0.64,
   "cloud_cover": 0.39,

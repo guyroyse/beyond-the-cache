@@ -11,9 +11,11 @@
   "longitude": -94.6028,
   "location": "-94.6028,37.84203",
   "location_details": "It was on the main highway east of Fort Scott, Kansas heading into Missouri. It is south of Kansas City near the Arkansas border.(Sighting happened on Missouri side of border.)",
-  "temperature_high": 69.6,
-  "temperature_mid": 60.92,
-  "temperature_low": 52.24,
+  "temperature": {
+    "high": 69.6,
+    "mid": 60.92,
+    "low": 52.24
+  },
   "dew_point": 45.98,
   "humidity": 0.65,
   "cloud_cover": 0.07,

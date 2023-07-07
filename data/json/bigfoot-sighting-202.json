@@ -11,9 +11,11 @@
   "longitude": -90.608,
   "location": "-90.608,39.2949",
   "location_details": "I don't drive out of town. My husband was driving.  We were going to our friends house in Hardin Illinois.  I am terrible with directions. I am going to have to ask my husband the name of the road.  I know it was right next to the \"chicken house\"  A farm family that always has a bunch of chickens in the yard.",
-  "temperature_high": 83.61,
-  "temperature_mid": 72.57,
-  "temperature_low": 61.53,
+  "temperature": {
+    "high": 83.61,
+    "mid": 72.57,
+    "low": 61.53
+  },
   "dew_point": 68.39,
   "humidity": 0.75,
   "cloud_cover": 0.55,

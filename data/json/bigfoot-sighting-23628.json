@@ -11,9 +11,11 @@
   "longitude": -94.98001,
   "location": "-94.98001,35.56637",
   "location_details": "On personal property north of Vian, OK",
-  "temperature_high": 71.15,
-  "temperature_mid": 56.185,
-  "temperature_low": 41.22,
+  "temperature": {
+    "high": 71.15,
+    "mid": 56.185,
+    "low": 41.22
+  },
   "dew_point": 42.49,
   "humidity": 0.71,
   "cloud_cover": 0.7,

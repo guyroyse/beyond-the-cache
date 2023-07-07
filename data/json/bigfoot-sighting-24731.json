@@ -11,9 +11,11 @@
   "longitude": -78.5826,
   "location": "-78.5826,41.12782",
   "location_details": "Westbound lanes of I-80 approximately 15 miles west of the town of Clearfield.",
-  "temperature_high": 72.33,
-  "temperature_mid": 70.325,
-  "temperature_low": 68.32,
+  "temperature": {
+    "high": 72.33,
+    "mid": 70.325,
+    "low": 68.32
+  },
   "dew_point": 66.26,
   "humidity": 0.91,
   "cloud_cover": 0.83,

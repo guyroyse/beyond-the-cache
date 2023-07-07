@@ -11,9 +11,11 @@
   "longitude": -92.27071,
   "location": "-92.27071,36.37399",
   "location_details": "On State highway #101 near its junction with U.S. highway #62 about 1.5 miles west of Norfork Lake.",
-  "temperature_high": 55.79,
-  "temperature_mid": 45.71,
-  "temperature_low": 35.63,
+  "temperature": {
+    "high": 55.79,
+    "mid": 45.71,
+    "low": 35.63
+  },
   "dew_point": 38.2,
   "humidity": 0.75,
   "cloud_cover": 0.36,

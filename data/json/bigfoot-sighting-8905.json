@@ -11,9 +11,11 @@
   "longitude": -77.664,
   "location": "-77.664,43.2696",
   "location_details": "location ny interstate 390 north too the ny state pkwy going west at or over iland cottage rd there is a little pond in the middle of entrance and exit from 390 to pkwy and iland cottage rd is on the norteast side",
-  "temperature_high": 67.98,
-  "temperature_mid": 62.485,
-  "temperature_low": 56.99,
+  "temperature": {
+    "high": 67.98,
+    "mid": 62.485,
+    "low": 56.99
+  },
   "dew_point": 63.16,
   "humidity": 0.88,
   "cloud_cover": 0.82,

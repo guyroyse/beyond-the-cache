@@ -11,9 +11,11 @@
   "longitude": -122.1647,
   "location": "-122.1647,44.99745",
   "location_details": "In U.S. Forest Service issued MT. Hood Natl. Forest Map grid C-6 Forest Service road 350(I think) North of Bagby Hot Springs, and east of Table Rock Wilderness. My map is issued in 1993.",
-  "temperature_high": 79.83,
-  "temperature_mid": 65.715,
-  "temperature_low": 51.6,
+  "temperature": {
+    "high": 79.83,
+    "mid": 65.715,
+    "low": 51.6
+  },
   "dew_point": 49.48,
   "humidity": 0.57,
   "cloud_cover": 0.07,

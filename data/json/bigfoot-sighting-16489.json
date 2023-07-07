@@ -11,9 +11,11 @@
   "longitude": -82.79665,
   "location": "-82.79665,39.10495",
   "location_details": "Near and around Lake Jackson. Also several howls in the area around Hay Hollow. The SCARRY HOLLOW (my name for it) is located on top of Hay Hollow. EXACTLY located across from (NW Line Of Sight) from old white church.",
-  "temperature_high": 93.19,
-  "temperature_mid": 77.855,
-  "temperature_low": 62.52,
+  "temperature": {
+    "high": 93.19,
+    "mid": 77.855,
+    "low": 62.52
+  },
   "dew_point": 58.88,
   "humidity": 0.58,
   "cloud_cover": 0.06,

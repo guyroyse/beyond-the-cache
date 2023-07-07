@@ -11,9 +11,11 @@
   "longitude": -81.30896,
   "location": "-81.30896,41.30265",
   "location_details": "Audobon Sanctuary Near Pioneer Trail & Page rd.",
-  "temperature_high": 72.92,
-  "temperature_mid": 61.07,
-  "temperature_low": 49.22,
+  "temperature": {
+    "high": 72.92,
+    "mid": 61.07,
+    "low": 49.22
+  },
   "dew_point": 56.29,
   "humidity": 0.76,
   "cloud_cover": 0.51,

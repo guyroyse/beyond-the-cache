@@ -11,9 +11,11 @@
   "longitude": -89.66375,
   "location": "-89.66375,42.9633",
   "location_details": "Between Springdale Center Road and Town Hall Road.",
-  "temperature_high": 73.42,
-  "temperature_mid": 60.08,
-  "temperature_low": 46.74,
+  "temperature": {
+    "high": 73.42,
+    "mid": 60.08,
+    "low": 46.74
+  },
   "dew_point": 42.79,
   "humidity": 0.65,
   "cloud_cover": 0.02,

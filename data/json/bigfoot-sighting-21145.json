@@ -11,9 +11,11 @@
   "longitude": -82.4975,
   "location": "-82.4975,33.89761",
   "location_details": "I guess things have changes in the last 27+ years, It would take sometime for me to find the dirt road but I think I could",
-  "temperature_high": 67.88,
-  "temperature_mid": 55.115,
-  "temperature_low": 42.35,
+  "temperature": {
+    "high": 67.88,
+    "mid": 55.115,
+    "low": 42.35
+  },
   "dew_point": 39.24,
   "humidity": 0.68,
   "cloud_cover": 0.16,

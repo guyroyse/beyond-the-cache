@@ -11,9 +11,11 @@
   "longitude": -82.66616,
   "location": "-82.66616,38.54852",
   "location_details": "County Road 22 (Lawrence Street Road) right near Private Drive 2050.",
-  "temperature_high": 84.27,
-  "temperature_mid": 73.935,
-  "temperature_low": 63.6,
+  "temperature": {
+    "high": 84.27,
+    "mid": 73.935,
+    "low": 63.6
+  },
   "dew_point": 65.5,
   "humidity": 0.79,
   "cloud_cover": 0.32,

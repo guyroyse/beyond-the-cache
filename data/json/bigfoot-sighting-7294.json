@@ -11,9 +11,11 @@
   "longitude": -77.97089,
   "location": "-77.97089,38.02516",
   "location_details": "I don't live in the area anymore, but it's the only road from Louisa to Mineral VA. My friend who saw it with me, still lives in the area, and I'll try to get in touch with her.",
-  "temperature_high": 51.36,
-  "temperature_mid": 43.175,
-  "temperature_low": 34.99,
+  "temperature": {
+    "high": 51.36,
+    "mid": 43.175,
+    "low": 34.99
+  },
   "dew_point": 23.21,
   "humidity": 0.65,
   "cloud_cover": 0.05,

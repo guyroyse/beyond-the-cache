@@ -11,9 +11,11 @@
   "longitude": -82.21939,
   "location": "-82.21939,41.27939",
   "location_details": "West Hamilton St. and Route 20 area.",
-  "temperature_high": 64.16,
-  "temperature_mid": 56.23,
-  "temperature_low": 48.3,
+  "temperature": {
+    "high": 64.16,
+    "mid": 56.23,
+    "low": 48.3
+  },
   "dew_point": 36.4,
   "humidity": 0.55,
   "cloud_cover": 0.3,

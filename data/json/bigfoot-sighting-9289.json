@@ -11,9 +11,11 @@
   "longitude": -121.9683,
   "location": "-121.9683,44.4625",
   "location_details": "The tracks were off the Maxwell Butte trail, I had been cutting cross country and would have to draw a map or show someone the exact location; my campsite was just up the road from the blacktop area, second camp site on left - sits across from large reprod.",
-  "temperature_high": 85.2,
-  "temperature_mid": 73.055,
-  "temperature_low": 60.91,
+  "temperature": {
+    "high": 85.2,
+    "mid": 73.055,
+    "low": 60.91
+  },
   "dew_point": 56.84,
   "humidity": 0.66,
   "cloud_cover": 0.09,

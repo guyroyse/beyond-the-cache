@@ -1,0 +1,35 @@
+{
+  "reportId": "17903",
+  "title": "Possible sighting by motorist on perimeter of Deception State Park",
+  "date": "2007-10-20",
+  "timestamp": 1192838400,
+  "observed": "while driving northbound on hwy 20  approx 2 miles south of the deception pass bridge   I was looking out the passenger side window at the passing scenery   something xaught my eye and when I looked up into the treeline, I could clearly make out the outline of what appeared to be a humanlike form, sitting on a branch leaning out to the side   holding on with one arm   I say human-like because it did not appear to be someone just sitting in a tree   it had a low slope0like set to its head and I did not see any clothes   it reminded me of how you see large primates sitting on branches, watching what is passing by beneath them we were not in a position to turn around  and I have not seen anything since",
+  "classification": "Class A",
+  "county": "Island",
+  "state": "Washington",
+  "latitude": 48.39936,
+  "longitude": -122.645,
+  "location": {
+    "longitude": -122.645,
+    "latitude": 48.39936
+  },
+  "location_details": "One half mile South of Deception pass bridge in Deception state park",
+  "temperature": {
+    "high": 51.65,
+    "mid": 49.975,
+    "low": 48.3
+  },
+  "dew_point": 43.31,
+  "humidity": 0.83,
+  "cloud_cover": 0.91,
+  "moon_phase": 0.3,
+  "precip_intensity": 0.0019,
+  "precip_probability": 0.86,
+  "precip_type": "rain",
+  "pressure": 1012.56,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 9.67,
+  "wind_bearing": 139,
+  "wind_speed": 9.72
+}

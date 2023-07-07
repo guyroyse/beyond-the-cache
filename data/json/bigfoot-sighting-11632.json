@@ -11,9 +11,11 @@
   "longitude": -92.64066,
   "location": "-92.64066,33.26462",
   "location_details": "A quarter mile before reaching 167 North, on Calion Road, turn right onto Victory Dumas and drive 500 yds to the dead end.",
-  "temperature_high": 83.03,
-  "temperature_mid": 72.18,
-  "temperature_low": 61.33,
+  "temperature": {
+    "high": 83.03,
+    "mid": 72.18,
+    "low": 61.33
+  },
   "dew_point": 51.52,
   "humidity": 0.6,
   "cloud_cover": 0.07,

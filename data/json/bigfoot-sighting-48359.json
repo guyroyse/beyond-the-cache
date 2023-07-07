@@ -11,9 +11,11 @@
   "longitude": -90.86665,
   "location": "-90.86665,46.67915",
   "location_details": "Longitude 90 55' 49.13 Latitude 46 42' 37.53 US Hwy 13N into Washburn, NW onto Hwy C, Rt at Big Rock Rd to the Sioux River.",
-  "temperature_high": 50.95,
-  "temperature_mid": 44.395,
-  "temperature_low": 37.84,
+  "temperature": {
+    "high": 50.95,
+    "mid": 44.395,
+    "low": 37.84
+  },
   "dew_point": 31.21,
   "humidity": 0.65,
   "cloud_cover": 0.42,

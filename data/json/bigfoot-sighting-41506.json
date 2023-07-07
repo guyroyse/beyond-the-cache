@@ -11,9 +11,11 @@
   "longitude": -81.77603,
   "location": "-81.77603,35.78043",
   "location_details": "Close to Lake James where I have seen some other strange happenings and limbs being broken",
-  "temperature_high": 84.45,
-  "temperature_mid": 75.905,
-  "temperature_low": 67.36,
+  "temperature": {
+    "high": 84.45,
+    "mid": 75.905,
+    "low": 67.36
+  },
   "dew_point": 67.19,
   "humidity": 0.83,
   "cloud_cover": 0.14,

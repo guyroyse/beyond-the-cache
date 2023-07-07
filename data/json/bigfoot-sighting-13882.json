@@ -11,9 +11,11 @@
   "longitude": -81.56152,
   "location": "-81.56152,41.31609",
   "location_details": "route 82 or Brecksville Rd in Sagamore Hills by Marcs. It is located close to Route 8 which is off of 480, the Ohio turnpike or 77N.",
-  "temperature_high": 58.77,
-  "temperature_mid": 48.24,
-  "temperature_low": 37.71,
+  "temperature": {
+    "high": 58.77,
+    "mid": 48.24,
+    "low": 37.71
+  },
   "dew_point": 30.14,
   "humidity": 0.58,
   "cloud_cover": 0.14,

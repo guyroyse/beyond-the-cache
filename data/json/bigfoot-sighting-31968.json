@@ -11,9 +11,11 @@
   "longitude": -89.88347,
   "location": "-89.88347,40.59904",
   "location_details": "i really dont know how to give you directions to it it is pretty much in the woods and would really have to show you. and we would have to find out who owns it now and get permission noone nos we seen this back there",
-  "temperature_high": 14.49,
-  "temperature_mid": 11.845,
-  "temperature_low": 9.2,
+  "temperature": {
+    "high": 14.49,
+    "mid": 11.845,
+    "low": 9.2
+  },
   "dew_point": -0.03,
   "humidity": 0.71,
   "cloud_cover": 0.01,

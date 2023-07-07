@@ -11,9 +11,11 @@
   "longitude": -80.98022,
   "location": "-80.98022,41.76702",
   "location_details": "I was on route I-90 east bound half way between the Ashtabula/Lake county border and the Geneva exit.",
-  "temperature_high": 32.04,
-  "temperature_mid": 30.615,
-  "temperature_low": 29.19,
+  "temperature": {
+    "high": 32.04,
+    "mid": 30.615,
+    "low": 29.19
+  },
   "dew_point": 16.71,
   "humidity": 0.6,
   "cloud_cover": 0.56,

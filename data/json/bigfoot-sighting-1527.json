@@ -11,9 +11,11 @@
   "longitude": -97.5,
   "location": "-97.5,32.15",
   "location_details": "Bosque County near the Brazos River",
-  "temperature_high": 88.13,
-  "temperature_mid": 79.91,
-  "temperature_low": 71.69,
+  "temperature": {
+    "high": 88.13,
+    "mid": 79.91,
+    "low": 71.69
+  },
   "dew_point": 65.8,
   "humidity": 0.67,
   "cloud_cover": 0.44,

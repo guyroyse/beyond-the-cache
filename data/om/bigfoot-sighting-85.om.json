@@ -1,0 +1,35 @@
+{
+  "reportId": "85",
+  "title": "16 year old has strange experience walking home",
+  "date": "2000-06-08",
+  "timestamp": 960422400,
+  "observed": "Right off the bat, I'll tell you I'm a 16 year old kid telling absolutely the truth, so god strike me dead. I hope you don't take my report as bogus because of that. Let me explain my situation to you: I live, and have lived, on the Molalla river for most of my life and never thought twice about walking around at night or anywhere period. About 2 months ago, I was alone in my Grandmas house using the computer, when I decided to go home (my house is only about 50 yards away). As I was stepping outside the most hideous feeling of being alone and fear thumped my heart. I kept walking in terror, when all of the sudden about 30 feet off to my right, I heard a loud thumping sound crash out. From there on, being distorted by my act of running faster than I've ever moved before, I could swear I heard the distinctive two-legged footsteps veering toward me from off the trail between houses. I raced in my house, slammed the door, locked it and sat in the living room to calm down from my strange experience.The oddest feelings flushed through me then, and now. Now, before you dismiss my story as a frightened child running from noises, I'll have to tell you of the strange past our 45 acres of land at the end of the Dickey Prairie road has had: Around three years ago, when we had cattle and cows fenced on our property, I noticed casually how they would always stay together and go near the barns at night. Then one day we discovered two of them killed up in the woods by the drinking creek. The killings weren't average killings either. The cows didn't have a scratch on them, both had broken necks and their eyeballs sucked cleanly out. Since those experiences, I'm now scared to go hiking and travel at night. Yes, average signs of fear, but I have the weird feeling of being an 'Intruder'. Thank you for your time sincerely, Shawn Murray p.s. I'm a believer.",
+  "classification": "Class B",
+  "county": "Clackamas",
+  "state": "Oregon",
+  "latitude": 45.03255,
+  "longitude": -122.4808,
+  "location": {
+    "longitude": -122.4808,
+    "latitude": 45.03255
+  },
+  "location_details": "It occured between two houses on our property, fairly wooded area.",
+  "temperature": {
+    "high": 61.82,
+    "mid": 55.68,
+    "low": 49.54
+  },
+  "dew_point": 48.96,
+  "humidity": 0.75,
+  "cloud_cover": 0.88,
+  "moon_phase": 0.23,
+  "precip_intensity": 0.0011,
+  "precip_probability": 0.5,
+  "precip_type": "rain",
+  "pressure": 1012.1,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.93,
+  "wind_bearing": 290,
+  "wind_speed": 6.46
+}

@@ -1,0 +1,35 @@
+{
+  "reportId": "4116",
+  "title": "Woman hears nighttime screams near Polk.",
+  "date": "2000-04-21",
+  "timestamp": 956275200,
+  "observed": "I didn't actually see it.  But I heard it on 2-3 occasions in the middle of the night while I was wake in bed.  It was a very loud high pitched scream, loud enough to wake me up one time in the middle of the night.",
+  "classification": "Class B",
+  "county": "Polk",
+  "state": "Missouri",
+  "latitude": 37.7664,
+  "longitude": -93.5395,
+  "location": {
+    "longitude": -93.5395,
+    "latitude": 37.7664
+  },
+  "location_details": "The area is open fields along with heavy wooded areas.  Mostly for cattle grazing.  We lived on a 200 acres farm at the time.  We lived on a gravel road about 3 miles outside of town.  It was road 157.",
+  "temperature": {
+    "high": 67.55,
+    "mid": 53.485,
+    "low": 39.42
+  },
+  "dew_point": 34.92,
+  "humidity": 0.54,
+  "cloud_cover": 0.25,
+  "moon_phase": 0.6,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.21,
+  "precip_type": "rain",
+  "pressure": 1017.81,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 10,
+  "visibility": 9.59,
+  "wind_bearing": 319,
+  "wind_speed": 10.91
+}

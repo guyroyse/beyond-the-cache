@@ -11,9 +11,11 @@
   "longitude": -124.0598,
   "location": "-124.0598,43.2547",
   "location_details": "About 20 miles from Coquille,near and above the North Fork of the Coquille River. The sound seemed to this child of 10 that it came from across the North Fork in a wooded mountainous area near and behind a ranch that was located there.",
-  "temperature_high": 71.89,
-  "temperature_mid": 64.97,
-  "temperature_low": 58.05,
+  "temperature": {
+    "high": 71.89,
+    "mid": 64.97,
+    "low": 58.05
+  },
   "dew_point": 52.75,
   "humidity": 0.73,
   "cloud_cover": 0.36,

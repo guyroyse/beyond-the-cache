@@ -1,0 +1,35 @@
+{
+  "reportId": "28964",
+  "title": "Motorist has close-range encounter with large, hairy biped south of Thoreau",
+  "date": "2011-03-07",
+  "timestamp": 1299456000,
+  "observed": "I was traveling home from work in Gallup to Bluewater, South Side.  The time was about 8 p.m.  As I was traveling on hiway 612, right when I was exiting the sharp curves, I noticed a figure moving by the road on the right side.  I thought it was a very tall person at first but when I looked I noticed that it wasn't human.  As I got closer it started to cross the road and almost hit my truck.  It stopped and I did not want to stop because the road was ice packed and I didn't want to get stuck or run off the road.  I seen the creature a few feet thru my trucks passenger front window.  The creature's face looked ape and humanistic.  He was probably 7 feet tall because when he got real close to the vehicle I couldn't see his face.  He stood way over the truck. I was overwhelmed with fear at this point and just kept going home.",
+  "classification": "Class A",
+  "county": "McKinley",
+  "state": "New Mexico",
+  "latitude": 35.37201,
+  "longitude": -108.2034,
+  "location": {
+    "longitude": -108.2034,
+    "latitude": 35.37201
+  },
+  "location_details": "Just entering the Canyon, just past where the guard rails end.",
+  "temperature": {
+    "high": 50.97,
+    "mid": 38.64,
+    "low": 26.31
+  },
+  "dew_point": 23.58,
+  "humidity": 0.48,
+  "cloud_cover": 0.69,
+  "moon_phase": 0.09,
+  "precip_intensity": 0.003,
+  "precip_probability": 0.37,
+  "precip_type": "rain",
+  "pressure": 1001.96,
+  "summary": "Snow (< 1 in.) overnight.",
+  "uv_index": 5,
+  "visibility": 8.81,
+  "wind_bearing": 244,
+  "wind_speed": 10.58
+}

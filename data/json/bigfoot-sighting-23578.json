@@ -11,9 +11,11 @@
   "longitude": -97.03784,
   "location": "-97.03784,33.27303",
   "location_details": "it was about 2 miles up river on the greenbelt not too far after you go under the railroad track off of 380.",
-  "temperature_high": 76.29,
-  "temperature_mid": 64.59,
-  "temperature_low": 52.89,
+  "temperature": {
+    "high": 76.29,
+    "mid": 64.59,
+    "low": 52.89
+  },
   "dew_point": 58.94,
   "humidity": 0.68,
   "cloud_cover": 0.67,

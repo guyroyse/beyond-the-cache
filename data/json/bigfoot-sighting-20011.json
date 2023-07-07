@@ -11,9 +11,11 @@
   "longitude": -107.1612,
   "location": "-107.1612,36.4178",
   "location_details": "Game unit 5A, would have to draw map to give directions (see report above)",
-  "temperature_high": 33.95,
-  "temperature_mid": 28.235,
-  "temperature_low": 22.52,
+  "temperature": {
+    "high": 33.95,
+    "mid": 28.235,
+    "low": 22.52
+  },
   "dew_point": 17.43,
   "humidity": 0.78,
   "cloud_cover": 0.74,

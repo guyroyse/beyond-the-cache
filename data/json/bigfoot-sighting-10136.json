@@ -11,9 +11,11 @@
   "longitude": -75.64853,
   "location": "-75.64853,42.1174",
   "location_details": "Go out Day hollow Rd from Endicott NY about 10 to 15 minutes and foster valley is a right hand turn off of day hollow. the sighting occured about 1/4 mile from day hollow.",
-  "temperature_high": 57.13,
-  "temperature_mid": 51.53,
-  "temperature_low": 45.93,
+  "temperature": {
+    "high": 57.13,
+    "mid": 51.53,
+    "low": 45.93
+  },
   "dew_point": 46.57,
   "humidity": 0.79,
   "cloud_cover": 0.64,

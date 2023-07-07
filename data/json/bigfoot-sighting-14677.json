@@ -11,9 +11,11 @@
   "longitude": -79.6575,
   "location": "-79.6575,40.5258",
   "location_details": "route 780 from new kensington  towards apollo turn left at alcoa research go about 1 to 2miles to intersection see sign oak lake golf course your there",
-  "temperature_high": 56.68,
-  "temperature_mid": 55.21,
-  "temperature_low": 53.74,
+  "temperature": {
+    "high": 56.68,
+    "mid": 55.21,
+    "low": 53.74
+  },
   "dew_point": 52.4,
   "humidity": 0.9,
   "cloud_cover": 0.98,

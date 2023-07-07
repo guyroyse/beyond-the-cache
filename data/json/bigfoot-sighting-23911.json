@@ -11,9 +11,11 @@
   "longitude": -84.383,
   "location": "-84.383,34.39965",
   "location_details": "NORTH OF CANTON GA ABOUT 9 MILES  SOUTH OF JASPER",
-  "temperature_high": 80.4,
-  "temperature_mid": 72.46,
-  "temperature_low": 64.52,
+  "temperature": {
+    "high": 80.4,
+    "mid": 72.46,
+    "low": 64.52
+  },
   "dew_point": 50.36,
   "humidity": 0.6,
   "cloud_cover": 0.16,

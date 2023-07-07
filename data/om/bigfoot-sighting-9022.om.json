@@ -1,0 +1,35 @@
+{
+  "reportId": "9022",
+  "title": "While staying in cabins, sleepers awakened in early morning by strange sounds and notice unusual smell in Appalachian foothills",
+  "date": "2004-07-18",
+  "timestamp": 1090108800,
+  "observed": "We have had sporadic, maybe a couple times a year, activity (sightings, tracks, screams, wood-on-wood, deer kills, bent and snapped trees) on our property in Harrison Co. for the last 25 years. We have had several reports filed with BFRO. The investigators think this may be a migratory route between two remote areas. We have not heard or seen anything much for about the last year and wondered if the activity had ended. We were there for the weekend last week and had some 10 overnight guests staying in our cabins. It had rained nearly all day on Saturday or up until about 2 to 3 PM. We retired around 1 AM. At about 3 to 4 AM Sunday morning, many of us were awakened by wood-on-wood. It hammered on and off for about 5 min. in series of 5 or 6 hits and all was again quiet. We could not really tell the direction nor the distance. All spoke of the noise the next morning and why someone would be making the racket. We explained what we thought that it was and all agreed that it made sense. What fool would be beating on a tree or log or cutting wood with an ax at that time of the morning since no one really is out in the wet woods on steep inclines. The neighbors don't burn wood. It was too warm for a fire anyway and who cuts wood with an ax anymore. Also, my large dog saw something after dark across the hollow the night before and went ballistic with his hair standing on end. Some of the people noted a foul odor before retiring for the night.",
+  "classification": "Class B",
+  "county": "Harrison",
+  "state": "Ohio",
+  "latitude": 40.42687,
+  "longitude": -81.2558,
+  "location": {
+    "longitude": -81.2558,
+    "latitude": 40.42687
+  },
+  "location_details": "In the Northwest Corner of Harrison County. The road is about 3 to 4 miles north from State Route 250 (in the corner of Harrison, Tuscarawas, and Carroll Counties).",
+  "temperature": {
+    "high": 73.95,
+    "mid": 68.21,
+    "low": 62.47
+  },
+  "dew_point": 61.9,
+  "humidity": 0.83,
+  "cloud_cover": 0.6,
+  "moon_phase": 0.04,
+  "precip_intensity": 0.0033,
+  "precip_probability": 0.56,
+  "precip_type": "rain",
+  "pressure": 1011.86,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 8,
+  "visibility": 6.71,
+  "wind_bearing": 23,
+  "wind_speed": 5.38
+}

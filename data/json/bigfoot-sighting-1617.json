@@ -11,9 +11,11 @@
   "longitude": -122.2778,
   "location": "-122.2778,48.36861",
   "location_details": "At Lake 10, two miles south of town.",
-  "temperature_high": 75.15,
-  "temperature_mid": 65.77,
-  "temperature_low": 56.39,
+  "temperature": {
+    "high": 75.15,
+    "mid": 65.77,
+    "low": 56.39
+  },
   "dew_point": 58.03,
   "humidity": 0.81,
   "cloud_cover": 0.17,

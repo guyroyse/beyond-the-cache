@@ -11,9 +11,11 @@
   "longitude": -82.25949,
   "location": "-82.25949,38.5464",
   "location_details": "Turn off RT. 2 onto Clutts Hill Rd.  Go about 3 miles to 2nd church.  Incident occurred in hollow to the left.",
-  "temperature_high": 75.26,
-  "temperature_mid": 66.955,
-  "temperature_low": 58.65,
+  "temperature": {
+    "high": 75.26,
+    "mid": 66.955,
+    "low": 58.65
+  },
   "dew_point": 42.54,
   "humidity": 0.54,
   "cloud_cover": 0.67,

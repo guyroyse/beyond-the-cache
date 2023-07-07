@@ -11,9 +11,11 @@
   "longitude": -90.0594,
   "location": "-90.0594,40.5332",
   "location_details": "Go towards Youth Acres at Canton Lake - come to split in road. Go north to bottom of road. (hill).",
-  "temperature_high": 47.62,
-  "temperature_mid": 40.345,
-  "temperature_low": 33.07,
+  "temperature": {
+    "high": 47.62,
+    "mid": 40.345,
+    "low": 33.07
+  },
   "dew_point": 30.3,
   "humidity": 0.68,
   "cloud_cover": 0.51,

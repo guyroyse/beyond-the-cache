@@ -11,9 +11,11 @@
   "longitude": -90.66615,
   "location": "-90.66615,42.4104",
   "location_details": "South of the city of Dubuque in Northeast Iowa, very near the Mississippi River.",
-  "temperature_high": 40.32,
-  "temperature_mid": 34.89,
-  "temperature_low": 29.46,
+  "temperature": {
+    "high": 40.32,
+    "mid": 34.89,
+    "low": 29.46
+  },
   "dew_point": 20.95,
   "humidity": 0.64,
   "cloud_cover": 0.27,

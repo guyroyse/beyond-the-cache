@@ -11,9 +11,11 @@
   "longitude": -108.2034,
   "location": "-108.2034,35.37201",
   "location_details": "Just entering the Canyon, just past where the guard rails end.",
-  "temperature_high": 50.97,
-  "temperature_mid": 38.64,
-  "temperature_low": 26.31,
+  "temperature": {
+    "high": 50.97,
+    "mid": 38.64,
+    "low": 26.31
+  },
   "dew_point": 23.58,
   "humidity": 0.48,
   "cloud_cover": 0.69,

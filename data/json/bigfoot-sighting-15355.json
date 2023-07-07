@@ -11,9 +11,11 @@
   "longitude": -81.70641,
   "location": "-81.70641,38.2128",
   "location_details": "[location details edited: a surface mine in Boone County]",
-  "temperature_high": 77.03,
-  "temperature_mid": 72.705,
-  "temperature_low": 68.38,
+  "temperature": {
+    "high": 77.03,
+    "mid": 72.705,
+    "low": 68.38
+  },
   "dew_point": 66.92,
   "humidity": 0.82,
   "cloud_cover": 0.72,

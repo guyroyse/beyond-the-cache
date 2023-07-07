@@ -1,0 +1,35 @@
+{
+  "reportId": "46025",
+  "title": "Motorist has afternoon sighting on Sherman Creek Pass",
+  "date": "2013-09-15",
+  "timestamp": 1379203200,
+  "observed": "As I was driving over Sherman pass in September 2013, I noticed a big man-like creature walk across both lanes with just three steps. I stopped and looked for tracks but I found nothing. ",
+  "classification": "Class A",
+  "county": "Ferry",
+  "state": "Washington",
+  "latitude": 48.6254,
+  "longitude": -118.4262,
+  "location": {
+    "longitude": -118.4262,
+    "latitude": 48.6254
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 83.6,
+    "mid": 71.22,
+    "low": 58.84
+  },
+  "dew_point": 53.48,
+  "humidity": 0.54,
+  "cloud_cover": 0.05,
+  "moon_phase": 0.37,
+  "precip_intensity": 0.0017,
+  "precip_probability": 0.55,
+  "precip_type": "rain",
+  "pressure": 1008.04,
+  "summary": "Light rain overnight.",
+  "uv_index": 4,
+  "visibility": 9.66,
+  "wind_bearing": 10,
+  "wind_speed": 3
+}

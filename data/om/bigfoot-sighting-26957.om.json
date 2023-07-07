@@ -1,0 +1,35 @@
+{
+  "reportId": "26957",
+  "title": "Pre-dawn whoops and movement heard near Prince Galitzin State Park",
+  "date": "2009-11-30",
+  "timestamp": 1259539200,
+  "observed": "I am a police officer and I have worked for the US Forest Service.  I have been in almost all states.  I have been an avid hunter all my life and have never heard anything like this. November 30, 2009 at approx. 05:15 Hrs. - I was deer hunting on state game lands just North of Glendale Lake (Prince Galitzin State Park)  It was raining during the night and the leaves were saturated which made it easy to walk in the wooded area to my deer stand with little or no noise.  The skies were overcast and the moon was not noticeable.  The wind at the time was sporatic and sound could easily distinguishable. I was sitting in my stand and could smell a musky odor which I intrepreted as a mink or a fisher.  The prior day when I was checking my spot I could also smell the same.  It was extremely dark and I could not see my hand in front of my face.  I could detect movement around me but I dismissed it as possibly deer.  At the time listed I could hear a whooping noise approx. 50 - 100 yards in front of me.  I could hear what I can only describe as slow walking noises and large branches or trees being broke.  The whooping sound was heard two (2) times and the footsteps gradually faded.  I know these woods and am familiar with all wildlife that inhabit this area.  I am familiar with how a bear and deer move through the brush and this was not either. The sun rose at approx. 07:18 hrs. and I noticed that the musky odor had gone.  It did start to rain again and no other incident was noted.",
+  "classification": "Class B",
+  "county": "Cambria",
+  "state": "Pennsylvania",
+  "latitude": 40.65083,
+  "longitude": -78.52589,
+  "location": {
+    "longitude": -78.52589,
+    "latitude": 40.65083
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 44.41,
+    "mid": 37.675,
+    "low": 30.94
+  },
+  "dew_point": 34.3,
+  "humidity": 0.76,
+  "cloud_cover": 0.91,
+  "moon_phase": 0.44,
+  "precip_intensity": 0.0044,
+  "precip_probability": 0.81,
+  "precip_type": "rain",
+  "pressure": 1007.98,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 9.21,
+  "wind_bearing": 280,
+  "wind_speed": 8.11
+}

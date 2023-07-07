@@ -11,9 +11,11 @@
   "longitude": -82.22121,
   "location": "-82.22121,35.75278",
   "location_details": "Pisgah National Forest, Black Mountain Campground",
-  "temperature_high": 84.9,
-  "temperature_mid": 76.275,
-  "temperature_low": 67.65,
+  "temperature": {
+    "high": 84.9,
+    "mid": 76.275,
+    "low": 67.65
+  },
   "dew_point": 67.54,
   "humidity": 0.81,
   "cloud_cover": 0.32,

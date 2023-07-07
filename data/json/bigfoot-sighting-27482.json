@@ -11,9 +11,11 @@
   "longitude": -94.229,
   "location": "-94.229,35.36335",
   "location_details": "Location was 4 miles from home near a old forest watch-tower",
-  "temperature_high": 72.21,
-  "temperature_mid": 61.1,
-  "temperature_low": 49.99,
+  "temperature": {
+    "high": 72.21,
+    "mid": 61.1,
+    "low": 49.99
+  },
   "dew_point": 36.99,
   "humidity": 0.63,
   "cloud_cover": 0.05,

@@ -11,9 +11,11 @@
   "longitude": -89.918,
   "location": "-89.918,38.809",
   "location_details": "Madison County, Illinois.  Woods at the eastern edge of Edwardsville, Illinois.",
-  "temperature_high": 78.79,
-  "temperature_mid": 68.9,
-  "temperature_low": 59.01,
+  "temperature": {
+    "high": 78.79,
+    "mid": 68.9,
+    "low": 59.01
+  },
   "dew_point": 57.38,
   "humidity": 0.69,
   "cloud_cover": 0.27,

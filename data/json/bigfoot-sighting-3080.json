@@ -11,9 +11,11 @@
   "longitude": -81.51749,
   "location": "-81.51749,40.27488",
   "location_details": "State Route 258 to Gravel Lick Road.",
-  "temperature_high": 55.94,
-  "temperature_mid": 45.38,
-  "temperature_low": 34.82,
+  "temperature": {
+    "high": 55.94,
+    "mid": 45.38,
+    "low": 34.82
+  },
   "dew_point": 43.79,
   "humidity": 0.71,
   "cloud_cover": 0.8,

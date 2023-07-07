@@ -11,9 +11,11 @@
   "longitude": -119.984,
   "location": "-119.984,38.23243",
   "location_details": "Take Highway 108 to Strawberry, California. The location is about 2 miles northwest of Strawberry in Leland Meadow.",
-  "temperature_high": 45.27,
-  "temperature_mid": 40.635,
-  "temperature_low": 36,
+  "temperature": {
+    "high": 45.27,
+    "mid": 40.635,
+    "low": 36
+  },
   "dew_point": 36.25,
   "humidity": 0.87,
   "cloud_cover": 0.76,

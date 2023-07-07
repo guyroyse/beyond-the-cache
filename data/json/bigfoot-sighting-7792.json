@@ -11,9 +11,11 @@
   "longitude": -85.0681,
   "location": "-85.0681,29.8398",
   "location_details": "Off of Doc Whitfield Road, turn right onto Sauls Creek Road.  Go about 2 miles and there is a dirt road on the left that goes into what is called the \"bean field road\".  All the locals know where this road is, but unless you've been there it's hard to find.",
-  "temperature_high": 63,
-  "temperature_mid": 51.74,
-  "temperature_low": 40.48,
+  "temperature": {
+    "high": 63,
+    "mid": 51.74,
+    "low": 40.48
+  },
   "dew_point": 31.43,
   "humidity": 0.58,
   "cloud_cover": 0.04,

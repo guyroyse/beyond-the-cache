@@ -11,9 +11,11 @@
   "longitude": -79.3999,
   "location": "-79.3999,38.8554",
   "location_details": "It was located in a portion of the Monongahela National Forest, east of the highway.",
-  "temperature_high": 59.55,
-  "temperature_mid": 51.12,
-  "temperature_low": 42.69,
+  "temperature": {
+    "high": 59.55,
+    "mid": 51.12,
+    "low": 42.69
+  },
   "dew_point": 41.07,
   "humidity": 0.79,
   "cloud_cover": 0.39,

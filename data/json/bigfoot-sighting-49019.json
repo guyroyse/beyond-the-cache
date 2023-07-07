@@ -11,9 +11,11 @@
   "longitude": -91.59938,
   "location": "-91.59938,45.58858",
   "location_details": "Location is near Shady Elms Resort.",
-  "temperature_high": 89.5,
-  "temperature_mid": 79.915,
-  "temperature_low": 70.33,
+  "temperature": {
+    "high": 89.5,
+    "mid": 79.915,
+    "low": 70.33
+  },
   "dew_point": 63.08,
   "humidity": 0.66,
   "cloud_cover": 0.13,

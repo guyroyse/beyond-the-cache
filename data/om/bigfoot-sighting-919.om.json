@@ -1,0 +1,35 @@
+{
+  "reportId": "919",
+  "title": "Car passenger has nighttime sighting near Lake Tahoe",
+  "date": "1996-04-10",
+  "timestamp": 829094400,
+  "observed": "",
+  "classification": "Class A",
+  "county": "El Dorado",
+  "state": "California",
+  "latitude": 38.93333,
+  "longitude": -119.9833,
+  "location": {
+    "longitude": -119.9833,
+    "latitude": 38.93333
+  },
+  "location_details": "We where traveling back from the Washoe Indian Reservation, turned on to hwy 50, in dense forest",
+  "temperature": {
+    "high": 55.57,
+    "mid": 44.51,
+    "low": 33.45
+  },
+  "dew_point": 34.88,
+  "humidity": 0.68,
+  "cloud_cover": 0.39,
+  "moon_phase": 0.74,
+  "precip_intensity": 0.0016,
+  "precip_probability": 0.38,
+  "precip_type": "rain",
+  "pressure": 1016.37,
+  "summary": "Mostly cloudy starting in the afternoon.",
+  "uv_index": 8,
+  "visibility": 9.38,
+  "wind_bearing": 236,
+  "wind_speed": 3.93
+}

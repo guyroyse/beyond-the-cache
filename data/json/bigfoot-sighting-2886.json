@@ -11,9 +11,11 @@
   "longitude": -119.8633,
   "location": "-119.8633,38.26661",
   "location_details": "Upstream from Bloomer Lake.",
-  "temperature_high": 82.19,
-  "temperature_mid": 70.64,
-  "temperature_low": 59.09,
+  "temperature": {
+    "high": 82.19,
+    "mid": 70.64,
+    "low": 59.09
+  },
   "dew_point": 46.33,
   "humidity": 0.45,
   "cloud_cover": 0.04,

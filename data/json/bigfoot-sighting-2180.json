@@ -11,9 +11,11 @@
   "longitude": -93.71506,
   "location": "-93.71506,37.11433",
   "location_details": "The one I saw was right at Hwy. 174 and Hwy. N outside Mt. Vernon, MO.  Coming from I-44 you go towards Chesapeak and Republic on 174 about maybe a little less than 2 miles to N Hwy. and there is a convenient store on the corner that didn't use to be there.",
-  "temperature_high": 88.62,
-  "temperature_mid": 78.965,
-  "temperature_low": 69.31,
+  "temperature": {
+    "high": 88.62,
+    "mid": 78.965,
+    "low": 69.31
+  },
   "dew_point": 69.21,
   "humidity": 0.74,
   "cloud_cover": 0.61,

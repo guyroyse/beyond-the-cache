@@ -11,9 +11,11 @@
   "longitude": -80.13215,
   "location": "-80.13215,27.0099",
   "location_details": "The entrance to the park is off US 1. The observation tower is along the road to the campground. Note: It's been 24 yrs. and a lot has changed in the area. I'm not even sure the park is the same.",
-  "temperature_high": 86.35,
-  "temperature_mid": 80.91,
-  "temperature_low": 75.47,
+  "temperature": {
+    "high": 86.35,
+    "mid": 80.91,
+    "low": 75.47
+  },
   "dew_point": 73.75,
   "humidity": 0.85,
   "cloud_cover": 0.53,

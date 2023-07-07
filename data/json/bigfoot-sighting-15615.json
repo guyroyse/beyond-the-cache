@@ -11,9 +11,11 @@
   "longitude": -98.22576,
   "location": "-98.22576,41.55099",
   "location_details": "1 mile west of Hwy 281 on Hwy 58 and .5 south on gravel road.",
-  "temperature_high": 80.28,
-  "temperature_mid": 68.24,
-  "temperature_low": 56.2,
+  "temperature": {
+    "high": 80.28,
+    "mid": 68.24,
+    "low": 56.2
+  },
   "dew_point": 60.42,
   "humidity": 0.72,
   "cloud_cover": 0.19,

@@ -11,9 +11,11 @@
   "longitude": -119.8345,
   "location": "-119.8345,48.57028",
   "location_details": "Main forest road, approx. 12 mile from town NW on forest land. top of mountainside with fresh clear cuts.",
-  "temperature_high": 86.35,
-  "temperature_mid": 70.13,
-  "temperature_low": 53.91,
+  "temperature": {
+    "high": 86.35,
+    "mid": 70.13,
+    "low": 53.91
+  },
   "dew_point": 47.01,
   "humidity": 0.46,
   "cloud_cover": 0.07,

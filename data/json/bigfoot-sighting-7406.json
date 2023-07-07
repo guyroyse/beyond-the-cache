@@ -11,9 +11,11 @@
   "longitude": -117.9793,
   "location": "-117.9793,46.0573",
   "location_details": "Walla Walla Mill Creek Watershed. On the intake trail between Green Peak and Lewis Peak. Sighting occurred on an open, rocky face, within 1/4 mile of Lewis Peak, just before leaving the National Forest boundary.",
-  "temperature_high": 57.34,
-  "temperature_mid": 43.99,
-  "temperature_low": 30.64,
+  "temperature": {
+    "high": 57.34,
+    "mid": 43.99,
+    "low": 30.64
+  },
   "dew_point": 33.74,
   "humidity": 0.65,
   "cloud_cover": 0.47,

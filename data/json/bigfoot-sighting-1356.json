@@ -11,9 +11,11 @@
   "longitude": -90.675,
   "location": "-90.675,38.655",
   "location_details": "St. Charles side of the Missouri River above the St. Louis Water Department",
-  "temperature_high": 79.26,
-  "temperature_mid": 71.545,
-  "temperature_low": 63.83,
+  "temperature": {
+    "high": 79.26,
+    "mid": 71.545,
+    "low": 63.83
+  },
   "dew_point": 54.09,
   "humidity": 0.62,
   "cloud_cover": 0.33,

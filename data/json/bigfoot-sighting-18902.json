@@ -11,9 +11,11 @@
   "longitude": -78.3829,
   "location": "-78.3829,33.5155",
   "location_details": "Highway 17 S from Little River, SC  to  junction of Eagle's Nest Road & Hwy 17S",
-  "temperature_high": 68.08,
-  "temperature_mid": 63.53,
-  "temperature_low": 58.98,
+  "temperature": {
+    "high": 68.08,
+    "mid": 63.53,
+    "low": 58.98
+  },
   "dew_point": 50.5,
   "humidity": 0.71,
   "cloud_cover": 0.14,

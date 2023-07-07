@@ -11,9 +11,11 @@
   "longitude": -86.54527,
   "location": "-86.54527,31.34781",
   "location_details": "Caution light at the junction of Hwy 55 and Hwy 84 in River Falls was the nearest landmark. River Falls is a few miles Northwest of Andalusia.",
-  "temperature_high": 81.96,
-  "temperature_mid": 71.37,
-  "temperature_low": 60.78,
+  "temperature": {
+    "high": 81.96,
+    "mid": 71.37,
+    "low": 60.78
+  },
   "dew_point": 57.33,
   "humidity": 0.65,
   "cloud_cover": 0.3,

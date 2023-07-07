@@ -11,9 +11,11 @@
   "longitude": -119.2167,
   "location": "-119.2167,38.04165",
   "location_details": "Lundy Lake area",
-  "temperature_high": 84.14,
-  "temperature_mid": 67.14,
-  "temperature_low": 50.14,
+  "temperature": {
+    "high": 84.14,
+    "mid": 67.14,
+    "low": 50.14
+  },
   "dew_point": 33.94,
   "humidity": 0.37,
   "cloud_cover": 0.03,

@@ -11,9 +11,11 @@
   "longitude": -74.321,
   "location": "-74.321,41.08335",
   "location_details": "Little mountaininess very rocky",
-  "temperature_high": 32.94,
-  "temperature_mid": 26.31,
-  "temperature_low": 19.68,
+  "temperature": {
+    "high": 32.94,
+    "mid": 26.31,
+    "low": 19.68
+  },
   "dew_point": 19.71,
   "humidity": 0.72,
   "cloud_cover": 0.17,

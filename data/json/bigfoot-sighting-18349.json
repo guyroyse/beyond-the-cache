@@ -11,9 +11,11 @@
   "longitude": -81.89438,
   "location": "-81.89438,30.10534",
   "location_details": "Nearest paved road is  in Middleburg.",
-  "temperature_high": 77.31,
-  "temperature_mid": 66.425,
-  "temperature_low": 55.54,
+  "temperature": {
+    "high": 77.31,
+    "mid": 66.425,
+    "low": 55.54
+  },
   "dew_point": 60.48,
   "humidity": 0.78,
   "cloud_cover": 0.16,

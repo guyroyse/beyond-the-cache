@@ -11,9 +11,11 @@
   "longitude": -83.18179,
   "location": "-83.18179,38.77727",
   "location_details": "Camp Oyo Boy Scout Camp on Rt. 125",
-  "temperature_high": 65.25,
-  "temperature_mid": 59.28,
-  "temperature_low": 53.31,
+  "temperature": {
+    "high": 65.25,
+    "mid": 59.28,
+    "low": 53.31
+  },
   "dew_point": 42.99,
   "humidity": 0.59,
   "cloud_cover": 0.77,

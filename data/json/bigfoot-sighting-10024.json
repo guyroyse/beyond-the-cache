@@ -11,9 +11,11 @@
   "longitude": -111.6068,
   "location": "-111.6068,40.25622",
   "location_details": "You can get to the location by hiking to the Y on the mountain above Provo. Then hike up the ravine just to the South (the trail head is at the Y on the mountain. The way I went, was up Rock Canyon and then I turned South up the first ravine (3 miles up the canyon). Then hike up the ravine to the top and then turn East and hike about a half  mile and then you turn South and go up to the top of the mountain (you eventually are at the location where you look down into Rock Canyon from the top). It is very very remote and the most difficult access area. This is where I saw the signs and foot prints.",
-  "temperature_high": 46.89,
-  "temperature_mid": 41.13,
-  "temperature_low": 35.37,
+  "temperature": {
+    "high": 46.89,
+    "mid": 41.13,
+    "low": 35.37
+  },
   "dew_point": 36.86,
   "humidity": 0.82,
   "cloud_cover": 0.85,

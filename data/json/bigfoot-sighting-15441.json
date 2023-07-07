@@ -11,9 +11,11 @@
   "longitude": -111.375,
   "location": "-111.375,34.425",
   "location_details": "from payson you take Hwy 260 to the rim lakes turn off FR 300 take road to FR 84 then FR 9018 take that road to the end we camped at the clearing maybe 1/8 mile  befor the end of the road on the north side.",
-  "temperature_high": 95.83,
-  "temperature_mid": 84.635,
-  "temperature_low": 73.44,
+  "temperature": {
+    "high": 95.83,
+    "mid": 84.635,
+    "low": 73.44
+  },
   "dew_point": 52.7,
   "humidity": 0.37,
   "cloud_cover": 0.22,

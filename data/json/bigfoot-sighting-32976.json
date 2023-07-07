@@ -11,9 +11,11 @@
   "longitude": -85.433,
   "location": "-85.433,44.685",
   "location_details": "First encounter was at a rented cabin. The second encounter was at my fathers house which he has since sold. My mother still lives next door.",
-  "temperature_high": 33.68,
-  "temperature_mid": 27.22,
-  "temperature_low": 20.76,
+  "temperature": {
+    "high": 33.68,
+    "mid": 27.22,
+    "low": 20.76
+  },
   "dew_point": 28.46,
   "humidity": 0.88,
   "cloud_cover": 0.98,

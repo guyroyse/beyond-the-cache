@@ -11,9 +11,11 @@
   "longitude": -123.0966,
   "location": "-123.0966,47.1305",
   "location_details": "Four or five miles out of Shelton going toward Olympia on a series of curves with a steep rock wall on the west side of the highway. Near Skookum Creek.",
-  "temperature_high": 83.61,
-  "temperature_mid": 67.98,
-  "temperature_low": 52.35,
+  "temperature": {
+    "high": 83.61,
+    "mid": 67.98,
+    "low": 52.35
+  },
   "dew_point": 54.77,
   "humidity": 0.63,
   "cloud_cover": 0.06,

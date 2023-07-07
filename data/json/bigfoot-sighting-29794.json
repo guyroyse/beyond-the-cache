@@ -11,9 +11,11 @@
   "longitude": -87.0886,
   "location": "-87.0886,36.1874",
   "location_details": "Very end of the main road leading thru the WMA property This is the only WMA property in the county.",
-  "temperature_high": 51.17,
-  "temperature_mid": 47.66,
-  "temperature_low": 44.15,
+  "temperature": {
+    "high": 51.17,
+    "mid": 47.66,
+    "low": 44.15
+  },
   "dew_point": 34.89,
   "humidity": 0.67,
   "cloud_cover": 0.86,

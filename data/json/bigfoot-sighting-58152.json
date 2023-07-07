@@ -11,9 +11,11 @@
   "longitude": -96.42506,
   "location": "-96.42506,30.55738",
   "location_details": "200-300yds west of Brazos River, just into Burleson County TX",
-  "temperature_high": 90.85,
-  "temperature_mid": 81.655,
-  "temperature_low": 72.46,
+  "temperature": {
+    "high": 90.85,
+    "mid": 81.655,
+    "low": 72.46
+  },
   "dew_point": 69.08,
   "humidity": 0.71,
   "cloud_cover": 0.06,

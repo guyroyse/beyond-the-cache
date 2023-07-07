@@ -11,9 +11,11 @@
   "longitude": -88.26291,
   "location": "-88.26291,31.25385",
   "location_details": "South on Hwy. 45",
-  "temperature_high": 65.72,
-  "temperature_mid": 57.57,
-  "temperature_low": 49.42,
+  "temperature": {
+    "high": 65.72,
+    "mid": 57.57,
+    "low": 49.42
+  },
   "dew_point": 46.71,
   "humidity": 0.77,
   "cloud_cover": 0.43,

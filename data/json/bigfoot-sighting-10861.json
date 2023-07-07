@@ -11,9 +11,11 @@
   "longitude": -83.0556,
   "location": "-83.0556,40.26494",
   "location_details": "About 2 miles north of US 23, on the Olentangy River, near what used to be Eckles Lake.",
-  "temperature_high": 92.22,
-  "temperature_mid": 80.15,
-  "temperature_low": 68.08,
+  "temperature": {
+    "high": 92.22,
+    "mid": 80.15,
+    "low": 68.08
+  },
   "dew_point": 68.56,
   "humidity": 0.68,
   "cloud_cover": 0.42,

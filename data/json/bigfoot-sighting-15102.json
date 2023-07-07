@@ -11,9 +11,11 @@
   "longitude": -86.99782,
   "location": "-86.99782,31.00002",
   "location_details": "Northwest Alabama on Mississippi state line.",
-  "temperature_high": 83.5,
-  "temperature_mid": 78.725,
-  "temperature_low": 73.95,
+  "temperature": {
+    "high": 83.5,
+    "mid": 78.725,
+    "low": 73.95
+  },
   "dew_point": 72.24,
   "humidity": 0.79,
   "cloud_cover": 0.5,

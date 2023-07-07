@@ -11,9 +11,11 @@
   "longitude": -122.1781,
   "location": "-122.1781,39.92778",
   "location_details": "Get off I-5 @ South Ave, go south 1 mi to Tehama Ave, turn right, go over the over pass take first left, Barham Ave, go 1/4 mi and you're there.",
-  "temperature_high": 81.86,
-  "temperature_mid": 67.775,
-  "temperature_low": 53.69,
+  "temperature": {
+    "high": 81.86,
+    "mid": 67.775,
+    "low": 53.69
+  },
   "dew_point": 50.27,
   "humidity": 0.61,
   "cloud_cover": 0.28,

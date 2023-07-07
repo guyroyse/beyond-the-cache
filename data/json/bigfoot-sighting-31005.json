@@ -11,9 +11,11 @@
   "longitude": -84.88466,
   "location": "-84.88466,35.97231",
   "location_details": "It was within a few miles of the community stables and Dorcester Golf Course, roughly between Fairfield Glade (Peavine Rd), I-40, and the village of Crab Orchard, but beyond the FFG subdivisions.",
-  "temperature_high": 71.33,
-  "temperature_mid": 65.505,
-  "temperature_low": 59.68,
+  "temperature": {
+    "high": 71.33,
+    "mid": 65.505,
+    "low": 59.68
+  },
   "dew_point": 58.55,
   "humidity": 0.8,
   "cloud_cover": 0.75,

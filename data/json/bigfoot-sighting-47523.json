@@ -11,9 +11,11 @@
   "longitude": -83.69681,
   "location": "-83.69681,33.09184",
   "location_details": "Piedmont nwma",
-  "temperature_high": 65.33,
-  "temperature_mid": 59.315,
-  "temperature_low": 53.3,
+  "temperature": {
+    "high": 65.33,
+    "mid": 59.315,
+    "low": 53.3
+  },
   "dew_point": 36.85,
   "humidity": 0.55,
   "cloud_cover": 0.05,

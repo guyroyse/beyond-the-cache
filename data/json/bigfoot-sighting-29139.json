@@ -11,9 +11,11 @@
   "longitude": -74.57013,
   "location": "-74.57013,41.01941",
   "location_details": "Mahlon Dickerson Reservation",
-  "temperature_high": 52.58,
-  "temperature_mid": 42.92,
-  "temperature_low": 33.26,
+  "temperature": {
+    "high": 52.58,
+    "mid": 42.92,
+    "low": 33.26
+  },
   "dew_point": 29.18,
   "humidity": 0.65,
   "cloud_cover": 0.38,

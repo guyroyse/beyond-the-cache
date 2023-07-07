@@ -11,9 +11,11 @@
   "longitude": -84.38103,
   "location": "-84.38103,41.2625",
   "location_details": "It's the first small island west of the State Route 66 bridge.",
-  "temperature_high": 68.23,
-  "temperature_mid": 61.815,
-  "temperature_low": 55.4,
+  "temperature": {
+    "high": 68.23,
+    "mid": 61.815,
+    "low": 55.4
+  },
   "dew_point": 52.5,
   "humidity": 0.76,
   "cloud_cover": 0.7,

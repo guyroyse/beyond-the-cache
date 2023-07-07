@@ -1,0 +1,35 @@
+{
+  "reportId": "49614",
+  "title": "Strange game camera photo leads to finding possible footprints outside of New London",
+  "date": "2015-08-24",
+  "timestamp": 1440374400,
+  "observed": "Our trail cam took a picture of something with long hair. Whatever it was stood right up in front of the lens, so you can't see a body shot, but the picture shows brownish-reddish hair hanging down in front of the camera. There were a few large tracks - barefoot - the toes were clearly visible. We took pictures of the tracks with a tape measure alongside them.",
+  "classification": "Class B",
+  "county": "Huron",
+  "state": "Ohio",
+  "latitude": 41.06939,
+  "longitude": -82.36591,
+  "location": {
+    "longitude": -82.36591,
+    "latitude": 41.06939
+  },
+  "location_details": "We have 39 acres just east of State Route 60 in New London, Ohio. This occurred toward the back of our property.",
+  "temperature": {
+    "high": 73,
+    "mid": 65.185,
+    "low": 57.37
+  },
+  "dew_point": 54.86,
+  "humidity": 0.66,
+  "cloud_cover": 0.22,
+  "moon_phase": 0.31,
+  "precip_intensity": 0.0013,
+  "precip_probability": 0.69,
+  "precip_type": "rain",
+  "pressure": 1012.58,
+  "summary": "Partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 6,
+  "visibility": 9.84,
+  "wind_bearing": 259,
+  "wind_speed": 9
+}

@@ -11,9 +11,11 @@
   "longitude": -120.2667,
   "location": "-120.2667,38.05",
   "location_details": "Location:  a two mile radius around the Regional Learning Center on Big Hill Road and 2N01.",
-  "temperature_high": 55.25,
-  "temperature_mid": 48.66,
-  "temperature_low": 42.07,
+  "temperature": {
+    "high": 55.25,
+    "mid": 48.66,
+    "low": 42.07
+  },
   "dew_point": 33.6,
   "humidity": 0.71,
   "cloud_cover": 0.27,

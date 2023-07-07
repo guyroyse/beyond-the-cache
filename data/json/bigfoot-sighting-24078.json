@@ -11,9 +11,11 @@
   "longitude": -81.89905,
   "location": "-81.89905,30.10851",
   "location_details": "keep going straight of bronco about 30 minutes and turn right at a fork and keep going till you pass a creek",
-  "temperature_high": 65.71,
-  "temperature_mid": 55.415,
-  "temperature_low": 45.12,
+  "temperature": {
+    "high": 65.71,
+    "mid": 55.415,
+    "low": 45.12
+  },
   "dew_point": 44.62,
   "humidity": 0.76,
   "cloud_cover": 0.26,

@@ -11,9 +11,11 @@
   "longitude": -117.2022,
   "location": "-117.2022,45.0018",
   "location_details": "Cornucopia Ghost town, go to Halfway Oregon and go north.",
-  "temperature_high": 59.44,
-  "temperature_mid": 51.995,
-  "temperature_low": 44.55,
+  "temperature": {
+    "high": 59.44,
+    "mid": 51.995,
+    "low": 44.55
+  },
   "dew_point": 37.69,
   "humidity": 0.66,
   "cloud_cover": 0.54,

@@ -11,9 +11,11 @@
   "longitude": -116.7787,
   "location": "-116.7787,47.95614",
   "location_details": "go ahead , use this info as you wish but not in a deflamatory way please .   I believe the being went across the in westerly direction from geographical memory but it felt like a northly direction as well - the sun was kind of in front of us as we were heading on the road and kind of to our left .",
-  "temperature_high": 88.51,
-  "temperature_mid": 72.765,
-  "temperature_low": 57.02,
+  "temperature": {
+    "high": 88.51,
+    "mid": 72.765,
+    "low": 57.02
+  },
   "dew_point": 38.28,
   "humidity": 0.3,
   "cloud_cover": 0.04,

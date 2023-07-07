@@ -11,9 +11,11 @@
   "longitude": -77.7485,
   "location": "-77.7485,34.3924",
   "location_details": "Near Hampstead, Pender County, North Carolina. North of Wilmington, NC, on the south-east part of the state. Nearest major road is Highway 17 (Market Street).",
-  "temperature_high": 78.44,
-  "temperature_mid": 72.55,
-  "temperature_low": 66.66,
+  "temperature": {
+    "high": 78.44,
+    "mid": 72.55,
+    "low": 66.66
+  },
   "dew_point": 61.55,
   "humidity": 0.75,
   "cloud_cover": 0.31,

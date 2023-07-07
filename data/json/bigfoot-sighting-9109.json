@@ -11,9 +11,11 @@
   "longitude": -121.6796,
   "location": "-121.6796,45.274",
   "location_details": "At the intersection of US 26 and OR 35 (marked Hood River / Bend exits), exit right onto OR 35 towards Hood River.  Stay on OR 35 up hill 2.5 miles to Barlow Pass SnoPark exit (FS 3531). Turn right on FS 3531 and proceed to FS 3530. There is a large sign for the Barlow Road.",
-  "temperature_high": 84.98,
-  "temperature_mid": 66.905,
-  "temperature_low": 48.83,
+  "temperature": {
+    "high": 84.98,
+    "mid": 66.905,
+    "low": 48.83
+  },
   "dew_point": 44.52,
   "humidity": 0.51,
   "cloud_cover": 0,

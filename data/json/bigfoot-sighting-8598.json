@@ -11,9 +11,11 @@
   "longitude": -122.585,
   "location": "-122.585,38.415",
   "location_details": "Bennett Peak behind Bennett Valley Golf Course",
-  "temperature_high": 88.2,
-  "temperature_mid": 72.37,
-  "temperature_low": 56.54,
+  "temperature": {
+    "high": 88.2,
+    "mid": 72.37,
+    "low": 56.54
+  },
   "dew_point": 52.33,
   "humidity": 0.55,
   "cloud_cover": 0.07,

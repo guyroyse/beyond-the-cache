@@ -11,9 +11,11 @@
   "longitude": -80.19044,
   "location": "-80.19044,38.10785",
   "location_details": "Along the Greenbrier River",
-  "temperature_high": 65.42,
-  "temperature_mid": 52.915,
-  "temperature_low": 40.41,
+  "temperature": {
+    "high": 65.42,
+    "mid": 52.915,
+    "low": 40.41
+  },
   "dew_point": 38.58,
   "humidity": 0.56,
   "cloud_cover": 0.1,

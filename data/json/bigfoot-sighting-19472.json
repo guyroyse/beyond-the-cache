@@ -11,9 +11,11 @@
   "longitude": -108.9245,
   "location": "-108.9245,42.9919",
   "location_details": "Along the US Hwy 287 on the route to Yellowstone National Park, near the Wind River Mountain Range",
-  "temperature_high": 64.14,
-  "temperature_mid": 54.295,
-  "temperature_low": 44.45,
+  "temperature": {
+    "high": 64.14,
+    "mid": 54.295,
+    "low": 44.45
+  },
   "dew_point": 34.78,
   "humidity": 0.56,
   "cloud_cover": 0.3,

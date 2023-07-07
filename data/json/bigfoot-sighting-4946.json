@@ -11,9 +11,11 @@
   "longitude": -120.2653,
   "location": "-120.2653,39.3225",
   "location_details": "The location was along a powerline dirt road that runs parallel to US80, but is about 1/2 mile to the north of Donner Lake, one ridge over from the lake.",
-  "temperature_high": 77.82,
-  "temperature_mid": 64.985,
-  "temperature_low": 52.15,
+  "temperature": {
+    "high": 77.82,
+    "mid": 64.985,
+    "low": 52.15
+  },
   "dew_point": 39.45,
   "humidity": 0.46,
   "cloud_cover": 0.1,

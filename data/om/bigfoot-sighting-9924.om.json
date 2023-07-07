@@ -1,0 +1,35 @@
+{
+  "reportId": "9924",
+  "title": "Mother and son have night time encounter on county road.",
+  "date": "2004-12-03",
+  "timestamp": 1102032000,
+  "observed": "It was dark and my wife and son saw something crossing the road in front of their van. This is a very heavily wooded road with no lights. My wife actually saw the form of a large animal walking upright and very tall crossing the road. It seemed to be covered totally in hair. By the time my son looked up he saw the creature peering at them from behind a tree. They said that the eyes were approximately 7 to 8 feet high, wide apart and red. The \"head\" was very large and hairy. When the van came alongside of the creature my wife saw it walking toward the lake. She said that it seemed to walk right into the water and disappear. They were on their way to our new house that was under construction to turn the lights on for the night. Neither of them wanted to go out there that night so they went down the road a little further and turned around. They were both very upset with what they had seen.",
+  "classification": "Class A",
+  "county": "Henderson",
+  "state": "Texas",
+  "latitude": 32.16139,
+  "longitude": -95.6,
+  "location": {
+    "longitude": -95.6,
+    "latitude": 32.16139
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 59.25,
+    "mid": 47.95,
+    "low": 36.65
+  },
+  "dew_point": 36.37,
+  "humidity": 0.72,
+  "cloud_cover": 0.08,
+  "moon_phase": 0.71,
+  "precip_intensity": 0.0003,
+  "precip_probability": 0.75,
+  "precip_type": "rain",
+  "pressure": 1021.49,
+  "summary": "Partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 3,
+  "visibility": 9.66,
+  "wind_bearing": 247,
+  "wind_speed": 1.01
+}

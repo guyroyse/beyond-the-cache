@@ -11,9 +11,11 @@
   "longitude": -121.5186,
   "location": "-121.5186,48.10892",
   "location_details": "East on the Mountain Loop Hiway from Granite Falls, then left on Coal Lake Road and approximately 5 miles to road end and the lake.",
-  "temperature_high": 75.62,
-  "temperature_mid": 66.135,
-  "temperature_low": 56.65,
+  "temperature": {
+    "high": 75.62,
+    "mid": 66.135,
+    "low": 56.65
+  },
   "dew_point": 52.88,
   "humidity": 0.69,
   "cloud_cover": 0.01,

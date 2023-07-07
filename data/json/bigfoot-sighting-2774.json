@@ -11,9 +11,11 @@
   "longitude": -90.51056,
   "location": "-90.51056,36.12083",
   "location_details": "From Paragould, take highway 135 north approximately 5 miles and you will come to Oak Grove Heights. Continue north and you will see Oak Grove School on the left, sighting was behind the gymnasium.",
-  "temperature_high": 26.43,
-  "temperature_mid": 16.815,
-  "temperature_low": 7.2,
+  "temperature": {
+    "high": 26.43,
+    "mid": 16.815,
+    "low": 7.2
+  },
   "dew_point": 8.21,
   "humidity": 0.72,
   "cloud_cover": 0.19,

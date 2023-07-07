@@ -11,9 +11,11 @@
   "longitude": -118.9386,
   "location": "-118.9386,37.1303",
   "location_details": "You take Highway 168 east out of Fresno to Shaver Lake.  In Shaver Lake, make a right on Dinkey Creek Road and follow the signs to the Courtright Reservoir.  Go across the dam to the camping area.  That’s where the 4x4 trail begins.  Take the 4x4 trail for like half a mile until you reach the trailhead on the right.  That will lead you to Hobler Lake.",
-  "temperature_high": 100.34,
-  "temperature_mid": 83.42,
-  "temperature_low": 66.5,
+  "temperature": {
+    "high": 100.34,
+    "mid": 83.42,
+    "low": 66.5
+  },
   "dew_point": 51.19,
   "humidity": 0.36,
   "cloud_cover": 0.01,

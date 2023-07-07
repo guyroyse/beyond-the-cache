@@ -11,9 +11,11 @@
   "longitude": -121.0415,
   "location": "-121.0415,47.47745",
   "location_details": "If you follow the road through Cle Elum on through Roslyn and Ronald and then about 15 miles more you will come to a guard station on you right. You take an immediate right up the hill on a dirt road. Follow that road almost exactly 9 miles up and you will come to a camp area on your left with a fairly large open field. That is where we were camped.",
-  "temperature_high": 84.87,
-  "temperature_mid": 73.645,
-  "temperature_low": 62.42,
+  "temperature": {
+    "high": 84.87,
+    "mid": 73.645,
+    "low": 62.42
+  },
   "dew_point": 58.31,
   "humidity": 0.64,
   "cloud_cover": 0.08,

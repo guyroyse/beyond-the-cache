@@ -11,9 +11,11 @@
   "longitude": -94.91928,
   "location": "-94.91928,34.52436",
   "location_details": "Just off of State Highway 144 one mile east of Honobia. The hill we camped on allowed us a picture perfect view of the small town.",
-  "temperature_high": 72.38,
-  "temperature_mid": 57.655,
-  "temperature_low": 42.93,
+  "temperature": {
+    "high": 72.38,
+    "mid": 57.655,
+    "low": 42.93
+  },
   "dew_point": 41.43,
   "humidity": 0.58,
   "cloud_cover": 0.01,

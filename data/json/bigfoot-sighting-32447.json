@@ -11,9 +11,11 @@
   "longitude": -82.87408,
   "location": "-82.87408,35.7695",
   "location_details": "NC Highway 209",
-  "temperature_high": 46.13,
-  "temperature_mid": 43.33,
-  "temperature_low": 40.53,
+  "temperature": {
+    "high": 46.13,
+    "mid": 43.33,
+    "low": 40.53
+  },
   "dew_point": 40.52,
   "humidity": 0.89,
   "cloud_cover": 0.88,

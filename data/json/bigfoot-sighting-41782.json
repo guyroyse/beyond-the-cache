@@ -11,9 +11,11 @@
   "longitude": -110.6268,
   "location": "-110.6268,46.59692",
   "location_details": "Between WSS and Checkerboard, just west of Sutherland Lake.",
-  "temperature_high": 55.01,
-  "temperature_mid": 44.985,
-  "temperature_low": 34.96,
+  "temperature": {
+    "high": 55.01,
+    "mid": 44.985,
+    "low": 34.96
+  },
   "dew_point": 30.47,
   "humidity": 0.59,
   "cloud_cover": 0.5,

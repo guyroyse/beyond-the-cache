@@ -11,9 +11,11 @@
   "longitude": -81.47081,
   "location": "-81.47081,39.64081",
   "location_details": "Location: Crooked Tree, Ohio. It's in the SE part of the state. From Interstate 77, take exit 16, go north on SR821 2 miles to SR339.",
-  "temperature_high": 71.76,
-  "temperature_mid": 61.075,
-  "temperature_low": 50.39,
+  "temperature": {
+    "high": 71.76,
+    "mid": 61.075,
+    "low": 50.39
+  },
   "dew_point": 57.95,
   "humidity": 0.81,
   "cloud_cover": 0.61,

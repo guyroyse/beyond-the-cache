@@ -11,9 +11,11 @@
   "longitude": -81.306,
   "location": "-81.306,28.8555",
   "location_details": "Dark secluded woodsy area bordering a lake.",
-  "temperature_high": 79.21,
-  "temperature_mid": 71.305,
-  "temperature_low": 63.4,
+  "temperature": {
+    "high": 79.21,
+    "mid": 71.305,
+    "low": 63.4
+  },
   "dew_point": 60.06,
   "humidity": 0.72,
   "cloud_cover": 0.28,

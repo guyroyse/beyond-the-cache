@@ -11,9 +11,11 @@
   "longitude": -75.38251,
   "location": "-75.38251,39.70852",
   "location_details": "About 1 mile from Auburn Fire Co.",
-  "temperature_high": 34.68,
-  "temperature_mid": 33.7,
-  "temperature_low": 32.72,
+  "temperature": {
+    "high": 34.68,
+    "mid": 33.7,
+    "low": 32.72
+  },
   "dew_point": 28.63,
   "humidity": 0.83,
   "cloud_cover": 0.77,

@@ -11,9 +11,11 @@
   "longitude": -85.39171,
   "location": "-85.39171,34.66029",
   "location_details": "Pigeon mountain about a mile from the turn of a hwy 193. The area has change a great deal since this incident happened.",
-  "temperature_high": 79.63,
-  "temperature_mid": 67.435,
-  "temperature_low": 55.24,
+  "temperature": {
+    "high": 79.63,
+    "mid": 67.435,
+    "low": 55.24
+  },
   "dew_point": 55.78,
   "humidity": 0.72,
   "cloud_cover": 0.6,

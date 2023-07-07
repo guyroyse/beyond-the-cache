@@ -11,9 +11,11 @@
   "longitude": -80.03149,
   "location": "-80.03149,38.6685",
   "location_details": "Southern Randolph County",
-  "temperature_high": 36.81,
-  "temperature_mid": 29.55,
-  "temperature_low": 22.29,
+  "temperature": {
+    "high": 36.81,
+    "mid": 29.55,
+    "low": 22.29
+  },
   "dew_point": 16.07,
   "humidity": 0.63,
   "cloud_cover": 0.28,

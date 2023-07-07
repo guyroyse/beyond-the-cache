@@ -11,9 +11,11 @@
   "longitude": -80.55217,
   "location": "-80.55217,40.76533",
   "location_details": "USA  - Ohio - Columbiana - Duke Vodrey Rd. above Beaver Creek",
-  "temperature_high": 74.32,
-  "temperature_mid": 69.21,
-  "temperature_low": 64.1,
+  "temperature": {
+    "high": 74.32,
+    "mid": 69.21,
+    "low": 64.1
+  },
   "dew_point": 60.43,
   "humidity": 0.84,
   "cloud_cover": 0.65,

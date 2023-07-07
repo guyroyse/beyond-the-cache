@@ -11,9 +11,11 @@
   "longitude": -122.3906,
   "location": "-122.3906,40.58667",
   "location_details": "off 273 north to El Reno-To Howard-To Frances Dr. to the end.",
-  "temperature_high": 48.76,
-  "temperature_mid": 40.385,
-  "temperature_low": 32.01,
+  "temperature": {
+    "high": 48.76,
+    "mid": 40.385,
+    "low": 32.01
+  },
   "dew_point": 31.31,
   "humidity": 0.79,
   "cloud_cover": 0.49,

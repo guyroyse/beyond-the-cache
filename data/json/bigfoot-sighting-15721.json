@@ -11,9 +11,11 @@
   "longitude": -122.3076,
   "location": "-122.3076,46.84565",
   "location_details": "The site is on the flanks of Mount Rainier.  Location is edited per witness request.",
-  "temperature_high": 70.34,
-  "temperature_mid": 60.655,
-  "temperature_low": 50.97,
+  "temperature": {
+    "high": 70.34,
+    "mid": 60.655,
+    "low": 50.97
+  },
   "dew_point": 48.67,
   "humidity": 0.67,
   "cloud_cover": 0.49,

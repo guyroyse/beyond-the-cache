@@ -11,9 +11,11 @@
   "longitude": -82.81679,
   "location": "-82.81679,37.19822",
   "location_details": "It was so long ago that I cannot even be sure of what town,or hwy was the closest.",
-  "temperature_high": 82.1,
-  "temperature_mid": 74.425,
-  "temperature_low": 66.75,
+  "temperature": {
+    "high": 82.1,
+    "mid": 74.425,
+    "low": 66.75
+  },
   "dew_point": 68.06,
   "humidity": 0.83,
   "cloud_cover": 0.4,

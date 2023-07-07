@@ -11,9 +11,11 @@
   "longitude": -88.30945,
   "location": "-88.30945,35.80762",
   "location_details": "we are off of highway 40 ",
-  "temperature_high": 44.93,
-  "temperature_mid": 36.95,
-  "temperature_low": 28.97,
+  "temperature": {
+    "high": 44.93,
+    "mid": 36.95,
+    "low": 28.97
+  },
   "dew_point": 39.22,
   "humidity": 0.89,
   "cloud_cover": 0.92,

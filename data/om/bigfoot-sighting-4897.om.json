@@ -1,0 +1,33 @@
+{
+  "reportId": "4897",
+  "title": "Family finds and hears compelling evidence near Leadville",
+  "date": "2002-08-31",
+  "timestamp": 1030752000,
+  "observed": "Was hiking around a lake in the Leadville Colorado area. This lake is well above treeline, 13,000 ft area? Found what appears to to be a footprint in some mossy areas between the glacial rocks. Further investigation around this lake found more depressions and tracks.",
+  "classification": "Class B",
+  "county": "Park",
+  "state": "Colorado",
+  "latitude": 39.3045,
+  "longitude": -106.171,
+  "location": {
+    "longitude": -106.171,
+    "latitude": 39.3045
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 75.12,
+    "mid": 60.795,
+    "low": 46.47
+  },
+  "dew_point": 29.48,
+  "humidity": 0.36,
+  "cloud_cover": 0.31,
+  "moon_phase": 0.77,
+  "precip_type": "rain",
+  "pressure": 1017.59,
+  "summary": "Partly cloudy starting in the afternoon.",
+  "uv_index": 9,
+  "visibility": 10,
+  "wind_bearing": 273,
+  "wind_speed": 1.23
+}

@@ -11,9 +11,11 @@
   "longitude": -81.50933,
   "location": "-81.50933,40.10348",
   "location_details": "It was in Salt Fork State Park itself on Shadebush Trail.",
-  "temperature_high": 72.38,
-  "temperature_mid": 62.87,
-  "temperature_low": 53.36,
+  "temperature": {
+    "high": 72.38,
+    "mid": 62.87,
+    "low": 53.36
+  },
   "dew_point": 35.34,
   "humidity": 0.41,
   "cloud_cover": 0.03,

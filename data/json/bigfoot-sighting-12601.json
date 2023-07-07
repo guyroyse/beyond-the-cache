@@ -11,9 +11,11 @@
   "longitude": -76.54514,
   "location": "-76.54514,38.81639",
   "location_details": "Incident occured in Churchton, Maryland on Shady Side Road between Shady Side Road and West River in the West River swamp bottoms.  Hardwood forest with chokecherry and underbrush thickets.  Some old growth trees exist but mainly medium growth scattered with pines and red oak.  Swamp vegitation and gallberry trees are abundant.  Area condusive to wildlife habitation and wildlife is abundant.  Deer, turkey, owls, foxes, woodland game birds like dove have been spotted in the area.  Rails,coots, snipe and waterfowl found closer to West River area along with raccoon tracks and large preditor cat paw prints have been sighted.",
-  "temperature_high": 82.75,
-  "temperature_mid": 79.165,
-  "temperature_low": 75.58,
+  "temperature": {
+    "high": 82.75,
+    "mid": 79.165,
+    "low": 75.58
+  },
   "dew_point": 71.81,
   "humidity": 0.83,
   "cloud_cover": 0.82,

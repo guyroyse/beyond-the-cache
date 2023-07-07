@@ -1,0 +1,35 @@
+{
+  "reportId": "7548",
+  "title": "In Woodville, woman sees bigfoot in back yard.",
+  "date": "2003-12-12",
+  "timestamp": 1071187200,
+  "observed": "I saw a bigfoot in my backyard. He stood about 7-8 foot tall. It weighed 800-1000 lbs. It was black and hairy all over. Smelled worse than a skunk. Had arms like an ape. The creature looked prehistoric. It was very shocking to see and watch a bigfoot. Most recently, a teenage boy saw a bigfoot in the same Woodville, TX area. My son has told me one night something that stunk came close to the house by the bedroom where he was sleeping. Whatever it was moaned and groaned and he could hear it breathing. My son lives in the same house where I saw the bigfoot in Woodville, TX.",
+  "classification": "Class A",
+  "county": "Tyler",
+  "state": "Texas",
+  "latitude": 30.775,
+  "longitude": -94.41528,
+  "location": {
+    "longitude": -94.41528,
+    "latitude": 30.775
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 56.25,
+    "mid": 51.4,
+    "low": 46.55
+  },
+  "dew_point": 43.38,
+  "humidity": 0.76,
+  "cloud_cover": 0.92,
+  "moon_phase": 0.62,
+  "precip_intensity": 0.0184,
+  "precip_probability": 0.91,
+  "precip_type": "rain",
+  "pressure": 1015.75,
+  "summary": "Rain starting in the evening.",
+  "uv_index": 2,
+  "visibility": 8.95,
+  "wind_bearing": 90,
+  "wind_speed": 8.71
+}

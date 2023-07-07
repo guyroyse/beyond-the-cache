@@ -11,9 +11,11 @@
   "longitude": -118.8489,
   "location": "-118.8489,36.10222",
   "location_details": "The area was a large cattle ranch made available to the scouts to camp on.",
-  "temperature_high": 96.32,
-  "temperature_mid": 83.03,
-  "temperature_low": 69.74,
+  "temperature": {
+    "high": 96.32,
+    "mid": 83.03,
+    "low": 69.74
+  },
   "dew_point": 51.69,
   "humidity": 0.37,
   "cloud_cover": 0.25,

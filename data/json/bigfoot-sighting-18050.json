@@ -11,9 +11,11 @@
   "longitude": -114.655,
   "location": "-114.655,44.9625",
   "location_details": "W. of Yellowjacket mine on Forest Service Rd. 112 to the end of the road, small camp site. Turn off Panther Creek to Big Horn Craigs and Yellowjacket mine.",
-  "temperature_high": 92.1,
-  "temperature_mid": 73.21,
-  "temperature_low": 54.32,
+  "temperature": {
+    "high": 92.1,
+    "mid": 73.21,
+    "low": 54.32
+  },
   "dew_point": 48.18,
   "humidity": 0.42,
   "cloud_cover": 0.27,

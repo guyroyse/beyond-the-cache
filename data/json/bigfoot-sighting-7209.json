@@ -11,9 +11,11 @@
   "longitude": -122.8494,
   "location": "-122.8494,44.6616",
   "location_details": "It is located on Hungry Hill off Hwy 226 . Take Hwy 20 from Albany,Ore go east 7 miles and go left on Hwy 226 go another 6.5 miles to Hungry Hill Rd and go left take first driveway to the right go to top and you are there",
-  "temperature_high": 65.93,
-  "temperature_mid": 60.19,
-  "temperature_low": 54.45,
+  "temperature": {
+    "high": 65.93,
+    "mid": 60.19,
+    "low": 54.45
+  },
   "dew_point": 49.01,
   "humidity": 0.71,
   "cloud_cover": 0.78,

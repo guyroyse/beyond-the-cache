@@ -11,9 +11,11 @@
   "longitude": -89.35205,
   "location": "-89.35205,35.52335",
   "location_details": "Lynn Cobb Rd.",
-  "temperature_high": 36.93,
-  "temperature_mid": 34.04,
-  "temperature_low": 31.15,
+  "temperature": {
+    "high": 36.93,
+    "mid": 34.04,
+    "low": 31.15
+  },
   "dew_point": 28.23,
   "humidity": 0.77,
   "cloud_cover": 0.95,

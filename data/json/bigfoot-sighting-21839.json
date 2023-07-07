@@ -11,9 +11,11 @@
   "longitude": -114.0125,
   "location": "-114.0125,45.82285",
   "location_details": "Steep mountain side to our left.  River to our right.",
-  "temperature_high": 78.8,
-  "temperature_mid": 61.155,
-  "temperature_low": 43.51,
+  "temperature": {
+    "high": 78.8,
+    "mid": 61.155,
+    "low": 43.51
+  },
   "dew_point": 32.44,
   "humidity": 0.46,
   "cloud_cover": 0.06,

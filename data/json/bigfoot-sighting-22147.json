@@ -11,9 +11,11 @@
   "longitude": -93.85965,
   "location": "-93.85965,40.8348",
   "location_details": "this is a public hunting area located north of hwy 29. not well maintained. roads rutted with some steap banks. is an old abandoned limestone quarry located inside a huge indian campground aprox 2000yr-5000yr in age.",
-  "temperature_high": 83.78,
-  "temperature_mid": 70.03,
-  "temperature_low": 56.28,
+  "temperature": {
+    "high": 83.78,
+    "mid": 70.03,
+    "low": 56.28
+  },
   "dew_point": 69.51,
   "humidity": 0.84,
   "cloud_cover": 0.88,

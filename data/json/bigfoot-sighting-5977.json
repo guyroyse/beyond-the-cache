@@ -11,9 +11,11 @@
   "longitude": -83.0363,
   "location": "-83.0363,39.10611",
   "location_details": "From Waverly take State Route 220 south and make a left onto State Route 551.",
-  "temperature_high": 73.04,
-  "temperature_mid": 60.4,
-  "temperature_low": 47.76,
+  "temperature": {
+    "high": 73.04,
+    "mid": 60.4,
+    "low": 47.76
+  },
   "dew_point": 47.7,
   "humidity": 0.68,
   "cloud_cover": 0.42,

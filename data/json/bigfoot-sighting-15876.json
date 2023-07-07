@@ -11,9 +11,11 @@
   "longitude": -81.5518,
   "location": "-81.5518,40.1138",
   "location_details": "The first county road off state rt. 21 ( Old 21 Road) to the left just before you go under I 77. Possibly Bell Rd. but I'm not sure of the name. Then approx. 1/8 mi. and on the left is Salt Fork Lake spillway. It drains into Wills Creek about 1/2 mi. down stream.",
-  "temperature_high": 92.54,
-  "temperature_mid": 81.63,
-  "temperature_low": 70.72,
+  "temperature": {
+    "high": 92.54,
+    "mid": 81.63,
+    "low": 70.72
+  },
   "dew_point": 67.37,
   "humidity": 0.68,
   "cloud_cover": 0.14,

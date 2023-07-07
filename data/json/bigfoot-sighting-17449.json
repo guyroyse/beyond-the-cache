@@ -11,9 +11,11 @@
   "longitude": -79.665,
   "location": "-79.665,39.9433",
   "location_details": "Otter Creek Wilderness area around Yellow Creek. I believe the trail was called Yellow Creek Trail. The campsite was in a small stand of pines approx. 75 yds from the creek.",
-  "temperature_high": 34.01,
-  "temperature_mid": 28.65,
-  "temperature_low": 23.29,
+  "temperature": {
+    "high": 34.01,
+    "mid": 28.65,
+    "low": 23.29
+  },
   "dew_point": 21.15,
   "humidity": 0.67,
   "cloud_cover": 0.83,

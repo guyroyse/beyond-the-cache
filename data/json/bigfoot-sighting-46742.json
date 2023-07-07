@@ -11,9 +11,11 @@
   "longitude": -91.2421,
   "location": "-91.2421,46.42085",
   "location_details": "Ok it was years ago since we hunted that area but I know there is a sasquatch there, there are a few reports out there from that area .You have a report on here that was posted in Bayfield county in the moqua barrons north of hwy 2. Well I was hunting an area 1.5 miles from that spot that guy heard those howls and the only reason I was hunting there was cuz I seen those tracks around Drummond couple days before.",
-  "temperature_high": 60.96,
-  "temperature_mid": 52.925,
-  "temperature_low": 44.89,
+  "temperature": {
+    "high": 60.96,
+    "mid": 52.925,
+    "low": 44.89
+  },
   "dew_point": 42.17,
   "humidity": 0.74,
   "cloud_cover": 0.05,

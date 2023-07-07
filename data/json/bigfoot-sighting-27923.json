@@ -11,9 +11,11 @@
   "longitude": -122.0566,
   "location": "-122.0566,46.75225",
   "location_details": "look at report #20591 we in that general area except we didnt make it to the wash out bridge.",
-  "temperature_high": 67.68,
-  "temperature_mid": 60.18,
-  "temperature_low": 52.68,
+  "temperature": {
+    "high": 67.68,
+    "mid": 60.18,
+    "low": 52.68
+  },
   "dew_point": 52.07,
   "humidity": 0.78,
   "cloud_cover": 0.89,

@@ -11,9 +11,11 @@
   "longitude": -123.8886,
   "location": "-123.8886,47.2475",
   "location_details": "Off the East Humptulips Rd., just off Hwy 101, between Hoquiam and Humptulips. This was off an old logging road.",
-  "temperature_high": 67.54,
-  "temperature_mid": 56.955,
-  "temperature_low": 46.37,
+  "temperature": {
+    "high": 67.54,
+    "mid": 56.955,
+    "low": 46.37
+  },
   "dew_point": 50.33,
   "humidity": 0.84,
   "cloud_cover": 0.56,

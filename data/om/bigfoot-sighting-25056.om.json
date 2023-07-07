@@ -1,0 +1,35 @@
+{
+  "reportId": "25056",
+  "title": "Fish & Game employee recalls following possible tracks while hiking near Little Payette Lake",
+  "date": "1979-10-20",
+  "timestamp": 309225600,
+  "observed": "In November of 1979 my wife and I drove out to Little Lake just east of McCall. The lake is very low this time of year and I went for a walk on the mud flat following the stream that feeds the lake. I wanted to cross the stream but it was hip deep and I would have gotten soaked. As I followed the stream I could start to see large tracks on the other side headed my way. I was a little amazed to see that this animal had crossed the stream and climbed a steep mud bank without skipping a beat. There was no indication that it even shook itself off after getting wet (all animals do that!). Now that the tracks were on my side I followed them hoping to find one clear print in the mud. Generally they seemed bipedal and if I took a really long stride (I'm 5'11\") I could walk naturally in the tracks. The tracks dwarfed my size #10 boots however. They were huge! Maybe an inch or two wider and 6 inches or more longer. If somebody told me that Shaquille O'Neal had just taken a walk here the whole thing might have made sense. Short of that I don't have any idea what made those tracks. The sandy mud was just soft enough to round off any details. After following for 100 meters or so the stream took a sharp turn to the right but the tracks continued straight crossing the stream again. Again the water was hip or waist deep and again the animal crossed without changing his stride or pace and never shook off. I find that part, not shaking off, really strange. I've spent my whole life in the woods and work as a wildlife tech for both the US Forest Service and Idaho Dept Fish & Game. I know every animal in this area and to this day have no idea what made those tracks. ",
+  "classification": "Class B",
+  "county": "Valley",
+  "state": "Idaho",
+  "latitude": 44.9166,
+  "longitude": -116.4873,
+  "location": {
+    "longitude": -116.4873,
+    "latitude": 44.9166
+  },
+  "location_details": "Little Lake is a well know fishing spot just east of town on Lick Creek Rd.",
+  "temperature": {
+    "high": 51.96,
+    "mid": 46.165,
+    "low": 40.37
+  },
+  "dew_point": 36.48,
+  "humidity": 0.74,
+  "cloud_cover": 0.89,
+  "moon_phase": 0.98,
+  "precip_intensity": 0.0018,
+  "precip_probability": 0.47,
+  "precip_type": "rain",
+  "pressure": 1001.95,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 9.55,
+  "wind_bearing": 150,
+  "wind_speed": 4.38
+}

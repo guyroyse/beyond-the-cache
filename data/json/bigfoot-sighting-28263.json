@@ -11,9 +11,11 @@
   "longitude": -83.89289,
   "location": "-83.89289,30.11597",
   "location_details": "HWY 98 West to the Econfina River Grade, Left on said road to Snipes Island Grade, Back near the Marshlands.",
-  "temperature_high": 58.16,
-  "temperature_mid": 44.285,
-  "temperature_low": 30.41,
+  "temperature": {
+    "high": 58.16,
+    "mid": 44.285,
+    "low": 30.41
+  },
   "dew_point": 30.09,
   "humidity": 0.62,
   "cloud_cover": 0,

@@ -11,9 +11,11 @@
   "longitude": -82.6505,
   "location": "-82.6505,29.191",
   "location_details": "Private Hunting Grounds.... Intersection of Hwy 19 & CR 326   East on 326 approx 3 miles to dirt road on right...follow in to about the 3rd or 4th dirt road on right   Padlocked & Gated  entrance",
-  "temperature_high": 82.1,
-  "temperature_mid": 72.605,
-  "temperature_low": 63.11,
+  "temperature": {
+    "high": 82.1,
+    "mid": 72.605,
+    "low": 63.11
+  },
   "dew_point": 66.8,
   "humidity": 0.8,
   "cloud_cover": 0.48,

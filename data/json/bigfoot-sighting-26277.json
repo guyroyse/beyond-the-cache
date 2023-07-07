@@ -11,9 +11,11 @@
   "longitude": -70.95906,
   "location": "-70.95906,41.74419",
   "location_details": "Between exits 7 (Braley Rd New Bedford) and 8 (Chase Rd.)",
-  "temperature_high": 94.69,
-  "temperature_mid": 84.455,
-  "temperature_low": 74.22,
+  "temperature": {
+    "high": 94.69,
+    "mid": 84.455,
+    "low": 74.22
+  },
   "dew_point": 69.05,
   "humidity": 0.65,
   "cloud_cover": 0.13,

@@ -1,0 +1,35 @@
+{
+  "reportId": "5186",
+  "title": "Campers hear loud vocalizations at Fish lake.",
+  "date": "2005-01-20",
+  "timestamp": 1106179200,
+  "observed": "It was several years ago and I was camping with my family. We were camping in the Wenacthee national forest. Are camp sight was near fish lake. It was about 9:30-10:00 p.m. we were all sitting by the fire when we all heard this loud whistling screaming type noise. It was really loud when we first heard it. it then started fading of soon after it started.",
+  "classification": "Class B",
+  "county": "Chelan",
+  "state": "Washington",
+  "latitude": 47.8323,
+  "longitude": -120.718,
+  "location": {
+    "longitude": -120.718,
+    "latitude": 47.8323
+  },
+  "location_details": "the camp sight sits in the forest about 3-4 miles from the main highway",
+  "temperature": {
+    "high": 45.94,
+    "mid": 43.27,
+    "low": 40.6
+  },
+  "dew_point": 40.53,
+  "humidity": 0.88,
+  "cloud_cover": 0.43,
+  "moon_phase": 0.36,
+  "precip_intensity": 0.0036,
+  "precip_probability": 0.4,
+  "precip_type": "rain",
+  "pressure": 1016.88,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 7.8,
+  "wind_bearing": 170,
+  "wind_speed": 3.32
+}

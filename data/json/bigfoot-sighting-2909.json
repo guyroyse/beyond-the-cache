@@ -11,9 +11,11 @@
   "longitude": -94.96639,
   "location": "-94.96639,34.72195",
   "location_details": "300 yard from the east end of Green Hill Road, Southeast of Talihaina, Oklahoma in Leflore County",
-  "temperature_high": 79.41,
-  "temperature_mid": 67.205,
-  "temperature_low": 55,
+  "temperature": {
+    "high": 79.41,
+    "mid": 67.205,
+    "low": 55
+  },
   "dew_point": 52.93,
   "humidity": 0.75,
   "cloud_cover": 0.63,

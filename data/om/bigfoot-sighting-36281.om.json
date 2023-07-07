@@ -1,0 +1,35 @@
+{
+  "reportId": "36281",
+  "title": "Close daylight sighting by a fisherman near White Sulphur Springs",
+  "date": "2010-05-29",
+  "timestamp": 1275091200,
+  "observed": "2011 I WAS CAMPING IN THE LITTLE BELT MOUNTAINS; I WAS ALONE FISHING ON SHEEP CREEK NORTH OF JUMPING CREEK CAMP GROUND; I looked across the creek and a reddish brown humanoid was standing and it looked at me and ran off it looked like it was washing berries.",
+  "classification": "Class A",
+  "county": "Meagher",
+  "state": "Montana",
+  "latitude": 46.76389,
+  "longitude": -110.7781,
+  "location": {
+    "longitude": -110.7781,
+    "latitude": 46.76389
+  },
+  "location_details": "it has lots of think pine forest and beaver dams on the creek and lots of water; it is green border line lush",
+  "temperature": {
+    "high": 57.46,
+    "mid": 47.385,
+    "low": 37.31
+  },
+  "dew_point": 35.31,
+  "humidity": 0.73,
+  "cloud_cover": 0.78,
+  "moon_phase": 0.56,
+  "precip_intensity": 0.0039,
+  "precip_probability": 0.74,
+  "precip_type": "rain",
+  "pressure": 1018.13,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 7,
+  "visibility": 9.54,
+  "wind_bearing": 290,
+  "wind_speed": 7.87
+}

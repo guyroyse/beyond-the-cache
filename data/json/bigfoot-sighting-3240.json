@@ -11,9 +11,11 @@
   "longitude": -94.60042,
   "location": "-94.60042,34.45195",
   "location_details": "Coming south on Highway 259 you travel about 5 miles of the junction of 259 & 4 (which heads back to Smitville proper). On the east side of 259 you will see a low water crossing that crosses Mountain Fork river you follow that logging road 2 miles to the east. At the two mile mark the road Y's back south there is a pond on the south side to mark this spot. You take this logging road about 1/2 to 3/4 of a mile further and you will see the steep bank off the road on your right hand side (west). I will include more precise directions here below: Using the Smithville Quadrangle 7.5 minute topo map the UTM coordinates are as follows: Zone 15 347964E 3806266N This area sits between Hee Mountain which is to the south and Mountain Fork River which is north.",
-  "temperature_high": 72.45,
-  "temperature_mid": 64.015,
-  "temperature_low": 55.58,
+  "temperature": {
+    "high": 72.45,
+    "mid": 64.015,
+    "low": 55.58
+  },
   "dew_point": 53.24,
   "humidity": 0.77,
   "cloud_cover": 0.29,

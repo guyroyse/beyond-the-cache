@@ -11,9 +11,11 @@
   "longitude": -123.3749,
   "location": "-123.3749,46.60207",
   "location_details": "it was an area that had been closed to motorist traffic for the last 3 years. not sure of the road numbers but I could find it easy if I had to",
-  "temperature_high": 51.03,
-  "temperature_mid": 49.12,
-  "temperature_low": 47.21,
+  "temperature": {
+    "high": 51.03,
+    "mid": 49.12,
+    "low": 47.21
+  },
   "dew_point": 40.43,
   "humidity": 0.79,
   "cloud_cover": 0.62,

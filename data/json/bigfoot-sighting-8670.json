@@ -11,9 +11,11 @@
   "longitude": -121.4454,
   "location": "-121.4454,47.46312",
   "location_details": "Take I-90 east of Seattle..Alpental Ski Resort..the trailhead starts above the ski zone and travels up to the treeline where it ends at the lake.",
-  "temperature_high": 68.47,
-  "temperature_mid": 60.575,
-  "temperature_low": 52.68,
+  "temperature": {
+    "high": 68.47,
+    "mid": 60.575,
+    "low": 52.68
+  },
   "dew_point": 44.03,
   "humidity": 0.65,
   "cloud_cover": 0.41,

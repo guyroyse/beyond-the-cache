@@ -11,9 +11,11 @@
   "longitude": -120.8681,
   "location": "-120.8681,46.24639",
   "location_details": "It happened in the foothills of Mt. Adams at the Western end of the Yakima valley.  I don't know what the county was but I'm sure it was west of the city of Yakima, Washington on the East side of the mountain.  In 1941 there were very few roads into what was basically wilderness.  Only a few forest service roads went into the timber, unpaved.",
-  "temperature_high": 65.49,
-  "temperature_mid": 57.97,
-  "temperature_low": 50.45,
+  "temperature": {
+    "high": 65.49,
+    "mid": 57.97,
+    "low": 50.45
+  },
   "dew_point": 49.48,
   "humidity": 0.86,
   "moon_phase": 0.82,

@@ -11,9 +11,11 @@
   "longitude": -111.3164,
   "location": "-111.3164,34.43542",
   "location_details": "The sighting was in the Kehl Springs CG at Mile Post #7 (GPS info was taken and is available upon request)",
-  "temperature_high": 94.48,
-  "temperature_mid": 82.54,
-  "temperature_low": 70.6,
+  "temperature": {
+    "high": 94.48,
+    "mid": 82.54,
+    "low": 70.6
+  },
   "dew_point": 44.25,
   "humidity": 0.26,
   "cloud_cover": 0.03,

@@ -11,9 +11,11 @@
   "longitude": -97.60829,
   "location": "-97.60829,37.52947",
   "location_details": "Ninnescaw River",
-  "temperature_high": 85.57,
-  "temperature_mid": 75.165,
-  "temperature_low": 64.76,
+  "temperature": {
+    "high": 85.57,
+    "mid": 75.165,
+    "low": 64.76
+  },
   "dew_point": 65.9,
   "humidity": 0.72,
   "cloud_cover": 0.59,

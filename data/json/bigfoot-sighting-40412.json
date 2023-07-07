@@ -11,9 +11,11 @@
   "longitude": -113.5911,
   "location": "-113.5911,46.5252",
   "location_details": "The Waterworks Trail",
-  "temperature_high": 86.33,
-  "temperature_mid": 71.465,
-  "temperature_low": 56.6,
+  "temperature": {
+    "high": 86.33,
+    "mid": 71.465,
+    "low": 56.6
+  },
   "dew_point": 51.02,
   "humidity": 0.46,
   "cloud_cover": 0.22,

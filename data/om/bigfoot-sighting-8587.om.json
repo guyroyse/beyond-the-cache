@@ -1,0 +1,35 @@
+{
+  "reportId": "8587",
+  "title": "A childhood encounter just outside of Wadsworth, Ohio",
+  "date": "1976-09-01",
+  "timestamp": 210384000,
+  "observed": "I just read of a woman whom now is 39 and her sighting was in 1976. That blew me away, my sighting was the same year. I was 12 years old when my parents built our house right next to my grandparents, and then over a foot bridge to my great grandparents house. I had free run of the properties. They went all the way to I-76, Greenwich Road, and just down the road was Route 57.  I was a child who basically tested the waters. I can remember it was warm out, sunny, the leaves were falling since we were heading into fall, the air smelled of leaves. I was standing on my great grandparents property. With permission, I could basically go all the way back to the highway, usually with a friend. I was told never to go further then great granny's woodline. That day I went further past her woodline into the woods that was on the right hand side of the house. Through the woods was another families home. I started walking through the forbidden path and about half way through is when I saw something brown and hairy in a squatting position. At first, I thought it was a dog. Then it stood up! It was at least seven feet tall or more. I stood there in a frozen position and stared at it. I ran before it could turn around. I was in total fear. The back was covered in hair, the arms hung down, it had very broad shoulders, the body was covered in brown hair. I stumbled across this website, and still felt kinda shy about telling people, but that is my story.",
+  "classification": "Class A",
+  "county": "Medina",
+  "state": "Ohio",
+  "latitude": 41.02572,
+  "longitude": -81.77677,
+  "location": {
+    "longitude": -81.77677,
+    "latitude": 41.02572
+  },
+  "location_details": "From Wadsworth, take College Street west until it turns into Greenwich Road. Our property was on the right hand side. If you hit Mennonite Road, you went to far.",
+  "temperature": {
+    "high": 72.7,
+    "mid": 64.155,
+    "low": 55.61
+  },
+  "dew_point": 57.99,
+  "humidity": 0.76,
+  "cloud_cover": 0.78,
+  "moon_phase": 0.27,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.29,
+  "precip_type": "rain",
+  "pressure": 1018.12,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 4,
+  "visibility": 7.75,
+  "wind_bearing": 234,
+  "wind_speed": 5.17
+}

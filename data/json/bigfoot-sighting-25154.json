@@ -11,9 +11,11 @@
   "longitude": -111.0837,
   "location": "-111.0837,40.92128",
   "location_details": "It's a CWMU known as Thousand Peaks.",
-  "temperature_high": 67.25,
-  "temperature_mid": 54.79,
-  "temperature_low": 42.33,
+  "temperature": {
+    "high": 67.25,
+    "mid": 54.79,
+    "low": 42.33
+  },
   "dew_point": 28.08,
   "humidity": 0.41,
   "cloud_cover": 0.09,

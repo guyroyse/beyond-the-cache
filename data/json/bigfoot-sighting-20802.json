@@ -11,9 +11,11 @@
   "longitude": -116.1475,
   "location": "-116.1475,48.255",
   "location_details": "Drive east on Hwy 200 to Clark Fork, Idaho. Turn up Lightening Creek just before crossing the bridge into the town. Drive approximately 20 miles up into the mountains. I'm not sure which Forest Service Road or old logging road that we followed to get to the clearcut at the top of the mountain.",
-  "temperature_high": 67.84,
-  "temperature_mid": 57.805,
-  "temperature_low": 47.77,
+  "temperature": {
+    "high": 67.84,
+    "mid": 57.805,
+    "low": 47.77
+  },
   "dew_point": 46.07,
   "humidity": 0.57,
   "cloud_cover": 0.68,

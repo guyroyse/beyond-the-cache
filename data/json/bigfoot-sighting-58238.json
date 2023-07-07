@@ -11,9 +11,11 @@
   "longitude": -89.56226,
   "location": "-89.56226,39.75318",
   "location_details": "Several hundred feet east of the South Fork of the Sangamon River on Rochester Road, between East Lake Drive and the village of Rochester.",
-  "temperature_high": 88.54,
-  "temperature_mid": 78.245,
-  "temperature_low": 67.95,
+  "temperature": {
+    "high": 88.54,
+    "mid": 78.245,
+    "low": 67.95
+  },
   "dew_point": 63.54,
   "humidity": 0.69,
   "cloud_cover": 0.08,

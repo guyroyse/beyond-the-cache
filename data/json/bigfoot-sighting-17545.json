@@ -11,9 +11,11 @@
   "longitude": -93.9137,
   "location": "-93.9137,47.323",
   "location_details": "On US Hwy #2, and between County Rd 39 & 18",
-  "temperature_high": 71.5,
-  "temperature_mid": 63.47,
-  "temperature_low": 55.44,
+  "temperature": {
+    "high": 71.5,
+    "mid": 63.47,
+    "low": 55.44
+  },
   "dew_point": 51.83,
   "humidity": 0.72,
   "cloud_cover": 0.15,

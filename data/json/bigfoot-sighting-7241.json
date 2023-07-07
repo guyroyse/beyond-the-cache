@@ -11,9 +11,11 @@
   "longitude": -82.0849,
   "location": "-82.0849,38.8448",
   "location_details": "Off of Rt 2 on Greer Rd.",
-  "temperature_high": 25.76,
-  "temperature_mid": 18.385,
-  "temperature_low": 11.01,
+  "temperature": {
+    "high": 25.76,
+    "mid": 18.385,
+    "low": 11.01
+  },
   "dew_point": 21.2,
   "humidity": 0.87,
   "cloud_cover": 0.96,

@@ -11,9 +11,11 @@
   "longitude": -95.82056,
   "location": "-95.82056,33.26222",
   "location_details": "North off TX hwy 71 on South Sulphur River and East from FM 1531 between Middle Sulphur and South Sulphur River.  Most sightings were seen at the end of County Road 2070 onto the Cooper Lake area.",
-  "temperature_high": 53,
-  "temperature_mid": 40.2,
-  "temperature_low": 27.4,
+  "temperature": {
+    "high": 53,
+    "mid": 40.2,
+    "low": 27.4
+  },
   "dew_point": 25.77,
   "humidity": 0.51,
   "cloud_cover": 0.16,

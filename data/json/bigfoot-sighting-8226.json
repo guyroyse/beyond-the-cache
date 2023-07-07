@@ -11,9 +11,11 @@
   "longitude": -120.3536,
   "location": "-120.3536,38.25472",
   "location_details": "Starting from Big Meadow Campground heading down to the river, we camped about 100 yards from the river.",
-  "temperature_high": 82.73,
-  "temperature_mid": 68.895,
-  "temperature_low": 55.06,
+  "temperature": {
+    "high": 82.73,
+    "mid": 68.895,
+    "low": 55.06
+  },
   "dew_point": 50.45,
   "humidity": 0.58,
   "cloud_cover": 0.01,

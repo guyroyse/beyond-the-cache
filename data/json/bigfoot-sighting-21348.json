@@ -11,9 +11,11 @@
   "longitude": -111.4925,
   "location": "-111.4925,34.375",
   "location_details": "Left Road 3 sights to the left 40 yards from the road",
-  "temperature_high": 98.53,
-  "temperature_mid": 87.13,
-  "temperature_low": 75.73,
+  "temperature": {
+    "high": 98.53,
+    "mid": 87.13,
+    "low": 75.73
+  },
   "dew_point": 57.7,
   "humidity": 0.39,
   "cloud_cover": 0.15,

@@ -11,9 +11,11 @@
   "longitude": -83.81139,
   "location": "-83.81139,37.82708",
   "location_details": "Travel about 1 to 2 miles out of Stanton before you get to the dump.In the elbow of the river. (This is the Red River- T.G.)",
-  "temperature_high": 72.73,
-  "temperature_mid": 66.99,
-  "temperature_low": 61.25,
+  "temperature": {
+    "high": 72.73,
+    "mid": 66.99,
+    "low": 61.25
+  },
   "dew_point": 55.96,
   "humidity": 0.73,
   "cloud_cover": 0.43,

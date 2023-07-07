@@ -11,9 +11,11 @@
   "longitude": -76.77447,
   "location": "-76.77447,37.1694",
   "location_details": "Chippokes State Park, Virginia, just to the southeast of Surry, VA, while camping that evening/early morning.",
-  "temperature_high": 88.34,
-  "temperature_mid": 81.34,
-  "temperature_low": 74.34,
+  "temperature": {
+    "high": 88.34,
+    "mid": 81.34,
+    "low": 74.34
+  },
   "dew_point": 69.9,
   "humidity": 0.71,
   "cloud_cover": 0.57,

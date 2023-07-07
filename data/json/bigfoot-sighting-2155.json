@@ -11,9 +11,11 @@
   "longitude": -82.74628,
   "location": "-82.74628,37.77591",
   "location_details": "I'm sorry I don't remember the name of the road, but it's the main road between the school and a place called Wolfpen Hollow. The house set between a house owned by a family known as XXXXX and a XX XXX XXXXXXX on the other side. There was a rail road track across the street. The XXXXX family I think bought the house where this happened but she passed away about 10 years ago. now I don't know who owns it. I move back to Ky in hopes that I might get it back. but it's only a dream.",
-  "temperature_high": 72.37,
-  "temperature_mid": 64.18,
-  "temperature_low": 55.99,
+  "temperature": {
+    "high": 72.37,
+    "mid": 64.18,
+    "low": 55.99
+  },
   "dew_point": 51.65,
   "humidity": 0.65,
   "cloud_cover": 0.3,

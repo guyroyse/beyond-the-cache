@@ -11,9 +11,11 @@
   "longitude": -97.07361,
   "location": "-97.07361,33.82444",
   "location_details": "We were hunting in the Hog pen area of the WMA.",
-  "temperature_high": 36.42,
-  "temperature_mid": 25.675,
-  "temperature_low": 14.93,
+  "temperature": {
+    "high": 36.42,
+    "mid": 25.675,
+    "low": 14.93
+  },
   "dew_point": 21.07,
   "humidity": 0.67,
   "cloud_cover": 0.73,

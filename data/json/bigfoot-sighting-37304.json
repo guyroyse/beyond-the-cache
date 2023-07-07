@@ -11,9 +11,11 @@
   "longitude": -81.12898,
   "location": "-81.12898,28.62323",
   "location_details": "Hwy 50 to Hwy 419 , approx. 6 miles to Chuluota",
-  "temperature_high": 91.29,
-  "temperature_mid": 83.4,
-  "temperature_low": 75.51,
+  "temperature": {
+    "high": 91.29,
+    "mid": 83.4,
+    "low": 75.51
+  },
   "dew_point": 74.61,
   "humidity": 0.8,
   "cloud_cover": 0.09,

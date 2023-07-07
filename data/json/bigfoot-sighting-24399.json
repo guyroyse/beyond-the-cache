@@ -11,9 +11,11 @@
   "longitude": -123.6956,
   "location": "-123.6956,45.06881",
   "location_details": "About five miles south of Hwy 22 on an old logging dirt road.  We were camping on the western most side of Polk County.",
-  "temperature_high": 58.8,
-  "temperature_mid": 54.65,
-  "temperature_low": 50.5,
+  "temperature": {
+    "high": 58.8,
+    "mid": 54.65,
+    "low": 50.5
+  },
   "dew_point": 40.64,
   "humidity": 0.74,
   "cloud_cover": 0.84,

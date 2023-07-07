@@ -1,0 +1,35 @@
+{
+  "reportId": "24952",
+  "title": "Bird watcher experiences unusual activity while hiking in the Oxbow Lake Nature Preserve",
+  "date": "2008-05-01",
+  "timestamp": 1209600000,
+  "observed": "I am a 44 yr. old woman, I am submitting this in request of my husband & grown son.  As an avid 'birder' (loves bird watching), I was taking an early morning walk (6:45 a.m.) around Oxbow Lake to see what birds were 'out & about'. Almost as soon as I started the short trail around the lake, I noticed that there was no activity.....none, no birds, no deer, no squirrels, nothing. This seemed VERY odd to me, because it was a beautiful spring morning, the sun was shining and there wasn't even the smallest breeze in the air. Then I noticed that the birds weren't even singing, I could not hear one bird song or call, which is very unusual because there is ALWAYS a lot of bird activity here, especially in the early morning. Then, I noticed that not even the frogs, or the peepers were making any sound...it was complete silence. When I reached the part of the trail where I usually see deer, there was nothing. It was just about in this area where I started to smell this terrible odor....hard to explain, a strong musky smell, not like a dog or a skunk but a definite heavy odor of musk, one I have never smelled before and I have spent a lot of time in the woods. While I was standing quietly trying to figure out what/where the odor was coming from, a live tree 30-40 ft. high (unknown species) fell about 100-150 ft. from me, it just fell, and there was not even a small breeze that day! I have spent my childhood in the deep woods of Adirondack Mountains. and this just went against every natural law I could think of.....and believe me I tried to rationalize this! I then had this intense feeling that I was being watched...no more like being stared at, and then I got the sense that perhaps the tree had been pushed, like a warning. I decided I should start making my way back towards my car, still not hearing or seeing ANY wildlife. Just before getting back in my car I went to an overlook and all of a sudden I heard from the opposite side of the lake a loud howling, it echoed thru the marsh area. After 3-4 deep, loud howls, again silence. I walked back to my car and drove home.",
+  "classification": "Class B",
+  "county": "Anne Arundel",
+  "state": "Maryland",
+  "latitude": 39.11378,
+  "longitude": -76.811,
+  "location": {
+    "longitude": -76.811,
+    "latitude": 39.11378
+  },
+  "location_details": "Oxbow Lake Nature Preserve",
+  "temperature": {
+    "high": 65,
+    "mid": 59.295,
+    "low": 53.59
+  },
+  "dew_point": 45.53,
+  "humidity": 0.72,
+  "cloud_cover": 0.39,
+  "moon_phase": 0.86,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.73,
+  "precip_type": "rain",
+  "pressure": 1019.2,
+  "summary": "Mostly cloudy until afternoon.",
+  "uv_index": 6,
+  "visibility": 9.26,
+  "wind_bearing": 147,
+  "wind_speed": 5.18
+}

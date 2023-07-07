@@ -11,9 +11,11 @@
   "longitude": -122.1631,
   "location": "-122.1631,44.9979",
   "location_details": "Near Skookum Lake, near FS road 54",
-  "temperature_high": 91.05,
-  "temperature_mid": 75.3,
-  "temperature_low": 59.55,
+  "temperature": {
+    "high": 91.05,
+    "mid": 75.3,
+    "low": 59.55
+  },
   "dew_point": 53.69,
   "humidity": 0.49,
   "cloud_cover": 0.01,

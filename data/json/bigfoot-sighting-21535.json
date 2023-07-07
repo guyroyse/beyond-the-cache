@@ -11,9 +11,11 @@
   "longitude": -111.4,
   "location": "-111.4,34.575",
   "location_details": "Five miles north of hwy 87 and 3 miles west of Lake Mary Road.",
-  "temperature_high": 83.42,
-  "temperature_mid": 76.28,
-  "temperature_low": 69.14,
+  "temperature": {
+    "high": 83.42,
+    "mid": 76.28,
+    "low": 69.14
+  },
   "dew_point": 62.99,
   "humidity": 0.64,
   "cloud_cover": 0.55,

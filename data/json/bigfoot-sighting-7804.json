@@ -11,9 +11,11 @@
   "longitude": -121.0161,
   "location": "-121.0161,39.26361",
   "location_details": "Nevada County, near Nevada City, Californa.",
-  "temperature_high": 44.31,
-  "temperature_mid": 36.27,
-  "temperature_low": 28.23,
+  "temperature": {
+    "high": 44.31,
+    "mid": 36.27,
+    "low": 28.23
+  },
   "dew_point": 22.1,
   "humidity": 0.77,
   "cloud_cover": 0.12,

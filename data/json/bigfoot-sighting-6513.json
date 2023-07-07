@@ -11,9 +11,11 @@
   "longitude": -98.13028,
   "location": "-98.13028,35.33389",
   "location_details": "Go through Union City.  Get on highway 152, drive about 15 minutes until you get to the Cogar \"quick stop\" and trun left on a road.  Go straight until you get to an intersection.  (I saw it crossing from the right to the left)",
-  "temperature_high": 83.86,
-  "temperature_mid": 75.21,
-  "temperature_low": 66.56,
+  "temperature": {
+    "high": 83.86,
+    "mid": 75.21,
+    "low": 66.56
+  },
   "dew_point": 65.49,
   "humidity": 0.76,
   "cloud_cover": 0.41,

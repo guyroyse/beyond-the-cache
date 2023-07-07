@@ -11,9 +11,11 @@
   "longitude": -102.7291,
   "location": "-102.7291,47.63297",
   "location_details": "The location was about 10 to 15 miles south of Mandaree ND.The landscape was the bad lands,steep clay hills,some brush and trees.",
-  "temperature_high": 38.12,
-  "temperature_mid": 35.03,
-  "temperature_low": 31.94,
+  "temperature": {
+    "high": 38.12,
+    "mid": 35.03,
+    "low": 31.94
+  },
   "dew_point": 26.51,
   "humidity": 0.88,
   "cloud_cover": 0.18,

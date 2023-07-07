@@ -11,9 +11,11 @@
   "longitude": -94.45095,
   "location": "-94.45095,31.2371",
   "location_details": "We were off the roads on all terrain drilling vehicles,doing seismic work 2 or 3 miles from any road at location above in the Angelina National forest.",
-  "temperature_high": 88.61,
-  "temperature_mid": 80.55,
-  "temperature_low": 72.49,
+  "temperature": {
+    "high": 88.61,
+    "mid": 80.55,
+    "low": 72.49
+  },
   "dew_point": 72.98,
   "humidity": 0.82,
   "cloud_cover": 0.44,

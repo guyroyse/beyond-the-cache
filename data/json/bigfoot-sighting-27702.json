@@ -11,9 +11,11 @@
   "longitude": -76.82731,
   "location": "-76.82731,39.08414",
   "location_details": "From Brock Bridge Road follow River Bridge Way west to left on Forest Bridge Court then right on Serene Court. Sighting occurred adjacent to retention pond at end of cul-de-sac.",
-  "temperature_high": 76.65,
-  "temperature_mid": 74.155,
-  "temperature_low": 71.66,
+  "temperature": {
+    "high": 76.65,
+    "mid": 74.155,
+    "low": 71.66
+  },
   "dew_point": 70.62,
   "humidity": 0.89,
   "cloud_cover": 0.92,

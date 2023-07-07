@@ -11,9 +11,11 @@
   "longitude": -86.46987,
   "location": "-86.46987,35.10615",
   "location_details": "Teal hollow Rd. I was going west. It is a short cut road between Flintville and Fayetteville little traffic and not many homes long straights where you could go very fast without traffic or police",
-  "temperature_high": 72.02,
-  "temperature_mid": 60.03,
-  "temperature_low": 48.04,
+  "temperature": {
+    "high": 72.02,
+    "mid": 60.03,
+    "low": 48.04
+  },
   "dew_point": 43.39,
   "humidity": 0.59,
   "cloud_cover": 0.03,

@@ -1,0 +1,35 @@
+{
+  "reportId": "36112",
+  "title": "Possible nighttime sighting brings about ongoing investigation of several Cassadaga incidents and legend of the \"Mole Man\"",
+  "date": "2012-07-27",
+  "timestamp": 1343347200,
+  "observed": "Driving through  Florida and saw two large eyes about 6 feet off the ground. He was hiding behind a tree. We saw it when I turned on my high beams around midnight. We didn't get a good look at it but it was big.",
+  "classification": "Class B",
+  "county": "Volusia",
+  "state": "Florida",
+  "latitude": 28.97672,
+  "longitude": -81.23386,
+  "location": {
+    "longitude": -81.23386,
+    "latitude": 28.97672
+  },
+  "location_details": "Down by a post office is a sign saying left to cassadaga but there is a way to just keep going straight and we missed the cassadaga turn so we ended up going straight to the location.",
+  "temperature": {
+    "high": 92.91,
+    "mid": 84.615,
+    "low": 76.32
+  },
+  "dew_point": 73.02,
+  "humidity": 0.72,
+  "cloud_cover": 0.19,
+  "moon_phase": 0.3,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.32,
+  "precip_type": "rain",
+  "pressure": 1017.24,
+  "summary": "Humid and partly cloudy throughout the day.",
+  "uv_index": 10,
+  "visibility": 9.49,
+  "wind_bearing": 214,
+  "wind_speed": 4.6
+}

@@ -1,0 +1,35 @@
+{
+  "reportId": "27042",
+  "title": "Possible daylight sighting by motorist on Illinois Route 4 outside Hamel.",
+  "date": "2009-12-18",
+  "timestamp": 1261094400,
+  "observed": "I was going North on Illinois Route 4, and while passing through a wooded area on my left, I spotted a large, bulky upright figure. Because I was driving, I was only able to get a second or two view of whatever the figure may have been. It was an orange color, which is why it stood out to me in the first place.",
+  "classification": "Class B",
+  "county": "Madison",
+  "state": "Illinois",
+  "latitude": 38.90123,
+  "longitude": -89.80123,
+  "location": {
+    "longitude": -89.80123,
+    "latitude": 38.90123
+  },
+  "location_details": "A few miles south of the intersection of Interstate 55 and Illinois Route 4. Heavily forested area.",
+  "temperature": {
+    "high": 43.61,
+    "mid": 37.75,
+    "low": 31.89
+  },
+  "dew_point": 27.95,
+  "humidity": 0.72,
+  "cloud_cover": 0.82,
+  "moon_phase": 0.07,
+  "precip_intensity": 0.0008,
+  "precip_probability": 0.66,
+  "precip_type": "rain",
+  "pressure": 1013.16,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 8.8,
+  "wind_bearing": 324,
+  "wind_speed": 2.24
+}

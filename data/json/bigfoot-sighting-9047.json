@@ -11,9 +11,11 @@
   "longitude": -122.6916,
   "location": "-122.6916,48.247",
   "location_details": "Private community about a mile and one half from main road (SR 20).",
-  "temperature_high": 60.48,
-  "temperature_mid": 53.81,
-  "temperature_low": 47.14,
+  "temperature": {
+    "high": 60.48,
+    "mid": 53.81,
+    "low": 47.14
+  },
   "dew_point": 45.93,
   "humidity": 0.82,
   "cloud_cover": 0.17,

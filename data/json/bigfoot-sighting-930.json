@@ -11,9 +11,11 @@
   "longitude": -124.7312,
   "location": "-124.7312,48.1609",
   "location_details": "Using USGS 7.5 minute topographical map titled: Ozette, Wash. Provisional Edition 1984 (I don't know how to use the Minute/Hour of Lat/Long system so this is an Army style grid coordinate of the incident) Grid: Aprox. 717351 on the beach across from Ozette Island",
-  "temperature_high": 66.38,
-  "temperature_mid": 56,
-  "temperature_low": 45.62,
+  "temperature": {
+    "high": 66.38,
+    "mid": 56,
+    "low": 45.62
+  },
   "dew_point": 46.87,
   "humidity": 0.72,
   "cloud_cover": 0.19,

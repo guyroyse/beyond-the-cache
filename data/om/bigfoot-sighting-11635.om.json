@@ -1,0 +1,35 @@
+{
+  "reportId": "11635",
+  "title": "Single car accident in Big Thicket National Preserve.",
+  "date": "2005-05-08",
+  "timestamp": 1115510400,
+  "observed": "In March 2005 at approximately 04:30, as reported by an individual called to the scene as part of the emergency response team, an individual was involved in a single-car accident on a highway through the Big Thicket National Preserve. Upon arriving to the scene, the response team found the individual still in the car; the car apparently rolled and ended up in the woods off the highway. The individual reportedly gained consciousness when the team arrived and then began to tell them what happened. The individual remembered seeing a dark upright figure with long hair standing in the middle of the road. The height of the figure could have been anywhere between five feet and eight feet, and certainly bigger than a child. The individual remembered that the figure was facing the car and was standing erect. The individual honked the horn but the figure did not budge. The individual swerved to miss the figure and came as close as twenty feet before veering off the highway and rolling the car. That is the last thing the individual remembered before crashing.",
+  "classification": "Class B",
+  "county": "Polk",
+  "state": "Texas",
+  "latitude": 30.66986,
+  "longitude": -94.66653,
+  "location": {
+    "longitude": -94.66653,
+    "latitude": 30.66986
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 79.93,
+    "mid": 70.56,
+    "low": 61.19
+  },
+  "dew_point": 64.14,
+  "humidity": 0.86,
+  "cloud_cover": 0.66,
+  "moon_phase": 0.02,
+  "precip_intensity": 0.0292,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1015.12,
+  "summary": "Rain starting in the afternoon.",
+  "uv_index": 8,
+  "visibility": 8.5,
+  "wind_bearing": 127,
+  "wind_speed": 5.98
+}

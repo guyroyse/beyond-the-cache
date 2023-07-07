@@ -11,9 +11,11 @@
   "longitude": -122.3898,
   "location": "-122.3898,45.90052",
   "location_details": "This incident occured on our rural, somewhat wooded lane, within sight of our house.",
-  "temperature_high": 67.93,
-  "temperature_mid": 61.8,
-  "temperature_low": 55.67,
+  "temperature": {
+    "high": 67.93,
+    "mid": 61.8,
+    "low": 55.67
+  },
   "dew_point": 52.03,
   "humidity": 0.68,
   "cloud_cover": 0.87,

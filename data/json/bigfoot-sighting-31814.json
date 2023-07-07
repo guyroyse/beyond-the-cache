@@ -11,9 +11,11 @@
   "longitude": -76.34047,
   "location": "-76.34047,39.67183",
   "location_details": "Rte 543 right on Taylor Rd",
-  "temperature_high": 87.53,
-  "temperature_mid": 75.62,
-  "temperature_low": 63.71,
+  "temperature": {
+    "high": 87.53,
+    "mid": 75.62,
+    "low": 63.71
+  },
   "dew_point": 68.58,
   "humidity": 0.75,
   "cloud_cover": 0.36,

@@ -11,9 +11,11 @@
   "longitude": -80.62124,
   "location": "-80.62124,41.1462",
   "location_details": "Off of State Route 62 on Logangate Road in Liberty Township.",
-  "temperature_high": 55.51,
-  "temperature_mid": 49.75,
-  "temperature_low": 43.99,
+  "temperature": {
+    "high": 55.51,
+    "mid": 49.75,
+    "low": 43.99
+  },
   "dew_point": 47.25,
   "humidity": 0.85,
   "cloud_cover": 0.75,

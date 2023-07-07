@@ -11,9 +11,11 @@
   "longitude": -121.4008,
   "location": "-121.4008,47.97205",
   "location_details": "It took place on the lower part of the Silverlake trail out of Monte Cristo town site. The new trail, not the old one.",
-  "temperature_high": 61.82,
-  "temperature_mid": 50.94,
-  "temperature_low": 40.06,
+  "temperature": {
+    "high": 61.82,
+    "mid": 50.94,
+    "low": 40.06
+  },
   "dew_point": 37.01,
   "humidity": 0.64,
   "cloud_cover": 0.29,

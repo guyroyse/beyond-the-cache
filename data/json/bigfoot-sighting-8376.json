@@ -11,9 +11,11 @@
   "longitude": -95.61056,
   "location": "-95.61056,32.69028",
   "location_details": "Near the Sabine River.",
-  "temperature_high": 76.87,
-  "temperature_mid": 71.255,
-  "temperature_low": 65.64,
+  "temperature": {
+    "high": 76.87,
+    "mid": 71.255,
+    "low": 65.64
+  },
   "dew_point": 62.36,
   "humidity": 0.81,
   "cloud_cover": 0.87,

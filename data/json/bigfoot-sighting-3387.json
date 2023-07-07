@@ -11,9 +11,11 @@
   "longitude": -123.4911,
   "location": "-123.4911,43.16815",
   "location_details": "It is very rural Mountains all around, we were located in the valley that has a creek running through it.   I could give you directions to the general location if given a map of the area.",
-  "temperature_high": 66.1,
-  "temperature_mid": 60,
-  "temperature_low": 53.9,
+  "temperature": {
+    "high": 66.1,
+    "mid": 60,
+    "low": 53.9
+  },
   "dew_point": 47.24,
   "humidity": 0.69,
   "cloud_cover": 0.8,

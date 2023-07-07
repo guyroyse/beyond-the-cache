@@ -11,9 +11,11 @@
   "longitude": -81.07013,
   "location": "-81.07013,40.01983",
   "location_details": "The northern edge of Bethesda off of State Route 147.",
-  "temperature_high": 64.86,
-  "temperature_mid": 56.14,
-  "temperature_low": 47.42,
+  "temperature": {
+    "high": 64.86,
+    "mid": 56.14,
+    "low": 47.42
+  },
   "dew_point": 46.23,
   "humidity": 0.66,
   "cloud_cover": 0.2,

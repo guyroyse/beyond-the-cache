@@ -11,9 +11,11 @@
   "longitude": -86.60155,
   "location": "-86.60155,36.30155",
   "location_details": "This area is totally changed since the 1960. Hendersonville continues to grow in population as families sale off farms held for decades.",
-  "temperature_high": 60.45,
-  "temperature_mid": 51.195,
-  "temperature_low": 41.94,
+  "temperature": {
+    "high": 60.45,
+    "mid": 51.195,
+    "low": 41.94
+  },
   "dew_point": 34.3,
   "humidity": 0.59,
   "cloud_cover": 0.4,

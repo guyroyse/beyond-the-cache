@@ -11,9 +11,11 @@
   "longitude": -121.9446,
   "location": "-121.9446,42.23865",
   "location_details": "Near the long lake area south of hwy 140 w, just before Running Y Resort, on the south side of Hwy. 140",
-  "temperature_high": 38.75,
-  "temperature_mid": 38.29,
-  "temperature_low": 37.83,
+  "temperature": {
+    "high": 38.75,
+    "mid": 38.29,
+    "low": 37.83
+  },
   "dew_point": 31.76,
   "humidity": 0.88,
   "cloud_cover": 0.95,

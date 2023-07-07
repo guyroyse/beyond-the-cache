@@ -1,0 +1,35 @@
+{
+  "reportId": "7023",
+  "title": "Deer hunter has early morning sighting near Blaine",
+  "date": "2005-02-09",
+  "timestamp": 1107907200,
+  "observed": "I was deer hunting, watching a clearing between two thickets. It was between 7:30 and 8:00 in the morning in November, the temperature was below freezing and there was a thin layer of snow on the ground. The thickets were cedar thickets. I was sitting on an old road, in the head of the hollow, about a hundred yards from the trail crossing the clearing. The clearing was about 50 or 60 yards across. I heard, from the top of the thicket to my left, crashing, brush and limbs breaking, very loudly, like large limbs. It lasted maybe ten seconds or so. About five minutes later, I heard the same noise, maybe fifty or seventy five feet down the hill in the direction of the clearing. Brush and limbs thrashing, breaking, hitting together. Then about five minutes later, the same noise closer down the hill. The last time, it happened about 20 yards into the thicket from the clearing. Then, out of the thicket stepped something, walking on two legs, black from head to toe, with it's arms swinging by it's sides it walked across the clearing in probably no more than five or six seconds. I was too scared to move, but I took my gun and eased out of there, too busy watching the clearing to really look for tracks, but the grass was so thick I couldn't have seen any anyway. When I got to the truck, I waited on my hunting partner, worried that something might have happened to him, I walked partway back into the area and met him coming out, he asked if I had seen a large pile of feces in the road through the clearing on my way out. I had walked down that road about 30 minutes earlier and it wasn't there then. He said it was in the area where I saw this thing cross. He described the feces as loose, with grass and long, black hairs in it. I then told him what I saw and he said he was sure it was a bear and my imagination added to it. He never did believe me and no one else has, either. But it's true, I am a minister and have no reason to lie.",
+  "classification": "Class A",
+  "county": "Lawrence",
+  "state": "Kentucky",
+  "latitude": 38.02825,
+  "longitude": -82.83425,
+  "location": {
+    "longitude": -82.83425,
+    "latitude": 38.02825
+  },
+  "location_details": "About four miles from Blaine. I can't remember the road number, but I could take someone back to the exact spot.",
+  "temperature": {
+    "high": 51.25,
+    "mid": 39.085,
+    "low": 26.92
+  },
+  "dew_point": 43.12,
+  "humidity": 0.89,
+  "cloud_cover": 0.88,
+  "moon_phase": 0.03,
+  "precip_intensity": 0.0074,
+  "precip_probability": 0.76,
+  "precip_type": "rain",
+  "pressure": 1013.66,
+  "summary": "Light rain in the evening.",
+  "uv_index": 2,
+  "visibility": 5.77,
+  "wind_bearing": 266,
+  "wind_speed": 4.69
+}

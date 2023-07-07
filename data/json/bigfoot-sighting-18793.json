@@ -11,9 +11,11 @@
   "longitude": -79.95695,
   "location": "-79.95695,38.8762",
   "location_details": "Private property. Edited out at the request of the witness.",
-  "temperature_high": 68.95,
-  "temperature_mid": 61.69,
-  "temperature_low": 54.43,
+  "temperature": {
+    "high": 68.95,
+    "mid": 61.69,
+    "low": 54.43
+  },
   "dew_point": 45.7,
   "humidity": 0.61,
   "cloud_cover": 0.49,

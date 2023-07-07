@@ -11,9 +11,11 @@
   "longitude": -121.58,
   "location": "-121.58,39.205",
   "location_details": "if you are coming from Yuba City go to Live Oak Hwy and as you get to the famous Pasquines restaurant turn off that back road , the first road to the right is it! I dont know the name of it but its very simple. Go all the way to the back up the road ramp on the levee. When you stand on top of the levee look to the left and about 50 yards there used to be cottonwood trees higher than the levee. They may still be there.",
-  "temperature_high": 89.85,
-  "temperature_mid": 76.33,
-  "temperature_low": 62.81,
+  "temperature": {
+    "high": 89.85,
+    "mid": 76.33,
+    "low": 62.81
+  },
   "dew_point": 52.78,
   "humidity": 0.57,
   "cloud_cover": 0.04,

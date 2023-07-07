@@ -11,9 +11,11 @@
   "longitude": -82.34611,
   "location": "-82.34611,28.90854",
   "location_details": "Hernando City Rt 41, turn East on Parsons Point Rd; south on N Lake front Drive to fish camp before the dead end for launch point to Island.",
-  "temperature_high": 83.01,
-  "temperature_mid": 74.395,
-  "temperature_low": 65.78,
+  "temperature": {
+    "high": 83.01,
+    "mid": 74.395,
+    "low": 65.78
+  },
   "dew_point": 64.43,
   "humidity": 0.78,
   "cloud_cover": 0.77,

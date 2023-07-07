@@ -11,9 +11,11 @@
   "longitude": -118.325,
   "location": "-118.325,37.8583",
   "location_details": "It was about 1,000 feet S.E. of the peak to Boundary Peak Mt.",
-  "temperature_high": 81.93,
-  "temperature_mid": 64.09,
-  "temperature_low": 46.25,
+  "temperature": {
+    "high": 81.93,
+    "mid": 64.09,
+    "low": 46.25
+  },
   "dew_point": 29.52,
   "humidity": 0.32,
   "cloud_cover": 0.07,

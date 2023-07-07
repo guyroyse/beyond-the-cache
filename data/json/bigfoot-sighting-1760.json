@@ -11,9 +11,11 @@
   "longitude": -105.9333,
   "location": "-105.9333,40.54167",
   "location_details": "It was a couple of miles north of the first access to the Colorado State forest land as you travel west over Cameron pass. I would rather that you did not post the exact directions as I would rather not have a horde of people going up in that area spooking everything in sight. Though I would be more than happy to help any responsible researcher in finding the loacation.",
-  "temperature_high": 63.73,
-  "temperature_mid": 51.855,
-  "temperature_low": 39.98,
+  "temperature": {
+    "high": 63.73,
+    "mid": 51.855,
+    "low": 39.98
+  },
   "dew_point": 31.72,
   "humidity": 0.51,
   "cloud_cover": 0.56,

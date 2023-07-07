@@ -11,9 +11,11 @@
   "longitude": -81.98335,
   "location": "-81.98335,35.8934",
   "location_details": "BearDen Campground Rt 3 Box 284 SprucePine, NC 28777 Just off the BlueRidge parkway milepost 324.8",
-  "temperature_high": 81.16,
-  "temperature_mid": 71.915,
-  "temperature_low": 62.67,
+  "temperature": {
+    "high": 81.16,
+    "mid": 71.915,
+    "low": 62.67
+  },
   "dew_point": 64.35,
   "humidity": 0.79,
   "cloud_cover": 0.3,

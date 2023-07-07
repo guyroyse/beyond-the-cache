@@ -11,9 +11,11 @@
   "longitude": -96.972,
   "location": "-96.972,34.495",
   "location_details": "The Chickasaw National Recreation Area is quite easy to find as it is the only National Park in Oklahoma.  It is located in the city of Sulphur off of Highway 7.",
-  "temperature_high": 50.72,
-  "temperature_mid": 44.845,
-  "temperature_low": 38.97,
+  "temperature": {
+    "high": 50.72,
+    "mid": 44.845,
+    "low": 38.97
+  },
   "dew_point": 43.33,
   "humidity": 0.87,
   "cloud_cover": 0.81,

@@ -11,9 +11,11 @@
   "longitude": -90.89388,
   "location": "-90.89388,37.05571",
   "location_details": "From U.S. Highway 60 near Van Buren Missouri  Go north on 21 highway cross into Reynolds county the first county road on the right go to the end of the road and it will fork stay to the right through the sawmill you can see the fire tower from highway 21",
-  "temperature_high": 79.04,
-  "temperature_mid": 68.875,
-  "temperature_low": 58.71,
+  "temperature": {
+    "high": 79.04,
+    "mid": 68.875,
+    "low": 58.71
+  },
   "dew_point": 49.25,
   "humidity": 0.68,
   "cloud_cover": 0.01,

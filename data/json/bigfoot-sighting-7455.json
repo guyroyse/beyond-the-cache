@@ -11,9 +11,11 @@
   "longitude": -124.072,
   "location": "-124.072,46.81045",
   "location_details": "From Hwy 105 turn onto Smith Anderson Road. There will be a tidal wave evacuation sign on a dirt road on your right. The road is now gated due to people dumping garbage in the hills.",
-  "temperature_high": 58.58,
-  "temperature_mid": 46.585,
-  "temperature_low": 34.59,
+  "temperature": {
+    "high": 58.58,
+    "mid": 46.585,
+    "low": 34.59
+  },
   "dew_point": 37.86,
   "humidity": 0.78,
   "cloud_cover": 0.33,

@@ -1,0 +1,35 @@
+{
+  "reportId": "14150",
+  "title": "Possible mid-day sighting by motorist on Hwy 465 outside Branson",
+  "date": "2006-03-17",
+  "timestamp": 1142553600,
+  "observed": "This sighting happend Friday march 17 2006 . I was driving down hwy 465(Ozark Mountain High Road) going west bound about 1.5 miles from hwy 65 in taney county missouri  at approxiamtely 1:30 pm When I noticed off the side of the road a large cold black creature standing beside a large tree . It was standing on two legs and was the shape of a extremely large man.I know for sure there was know way this was a bear . What I saw was at least 9 feet tall and looked as if it was 3 foot wide . It was approximately 50 yrds. from the hwyThe following day I drove back buy where I saw the creature and it was not there . That told me for fact that what I saw  had to be real.",
+  "classification": "Class B",
+  "county": "Taney",
+  "state": "Missouri",
+  "latitude": 36.71418,
+  "longitude": -93.25712,
+  "location": {
+    "longitude": -93.25712,
+    "latitude": 36.71418
+  },
+  "location_details": "take hwy 65 from branson missouri to hwy 465 go west about 1.5 miles to the north side of the hwy is where it was seen",
+  "temperature": {
+    "high": 50.76,
+    "mid": 45.58,
+    "low": 40.4
+  },
+  "dew_point": 31.37,
+  "humidity": 0.65,
+  "cloud_cover": 0.46,
+  "moon_phase": 0.58,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.1,
+  "precip_type": "rain",
+  "pressure": 1026.16,
+  "summary": "Mostly cloudy until afternoon.",
+  "uv_index": 5,
+  "visibility": 8.41,
+  "wind_bearing": 28,
+  "wind_speed": 6.1
+}

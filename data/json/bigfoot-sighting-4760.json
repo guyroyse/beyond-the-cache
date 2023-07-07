@@ -11,9 +11,11 @@
   "longitude": -83.6118,
   "location": "-83.6118,40.6445",
   "location_details": "Coming in from Lima on 309 east. When you enter Kenton on 309 east turn right at the second traffic light. After you turn right go down a little ways and you will see the bridge.",
-  "temperature_high": 88.01,
-  "temperature_mid": 79.515,
-  "temperature_low": 71.02,
+  "temperature": {
+    "high": 88.01,
+    "mid": 79.515,
+    "low": 71.02
+  },
   "dew_point": 70.28,
   "humidity": 0.76,
   "cloud_cover": 0.23,

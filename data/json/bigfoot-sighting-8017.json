@@ -11,9 +11,11 @@
   "longitude": -82.41166,
   "location": "-82.41166,39.14299",
   "location_details": "Take State Route 160 out of Hamden and go east for about a 10 minute drive. You'll pass State Route 324 as you are going. Then there will be a gravel road on the left hand side that says Experimental Forest road. You turn left on it. go straight and you'll come to fork in the road,and take the middle road for about three to four minutes and you will be there.",
-  "temperature_high": 63.39,
-  "temperature_mid": 56.81,
-  "temperature_low": 50.23,
+  "temperature": {
+    "high": 63.39,
+    "mid": 56.81,
+    "low": 50.23
+  },
   "dew_point": 38.1,
   "humidity": 0.63,
   "cloud_cover": 0.17,

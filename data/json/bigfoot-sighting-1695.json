@@ -11,9 +11,11 @@
   "longitude": -104.1922,
   "location": "-104.1922,47.70667",
   "location_details": "3 miles west of sidney montana on hiway 200 going towards lambert",
-  "temperature_high": 30.89,
-  "temperature_mid": 22.64,
-  "temperature_low": 14.39,
+  "temperature": {
+    "high": 30.89,
+    "mid": 22.64,
+    "low": 14.39
+  },
   "dew_point": 12.45,
   "humidity": 0.82,
   "cloud_cover": 0.41,

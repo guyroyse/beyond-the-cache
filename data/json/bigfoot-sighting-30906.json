@@ -11,9 +11,11 @@
   "longitude": -71.74425,
   "location": "-71.74425,41.81391",
   "location_details": "Route 6 East going from CT into RI",
-  "temperature_high": 65.59,
-  "temperature_mid": 59.59,
-  "temperature_low": 53.59,
+  "temperature": {
+    "high": 65.59,
+    "mid": 59.59,
+    "low": 53.59
+  },
   "dew_point": 50.97,
   "humidity": 0.72,
   "cloud_cover": 0.66,

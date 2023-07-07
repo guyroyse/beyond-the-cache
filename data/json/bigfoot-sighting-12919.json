@@ -11,9 +11,11 @@
   "longitude": -90.1,
   "location": "-90.1,41.6",
   "location_details": "About four and a half miles outside of Erie following River Road next to Johnson Slough.",
-  "temperature_high": 43.15,
-  "temperature_mid": 33.805,
-  "temperature_low": 24.46,
+  "temperature": {
+    "high": 43.15,
+    "mid": 33.805,
+    "low": 24.46
+  },
   "dew_point": 21.13,
   "humidity": 0.62,
   "cloud_cover": 0.67,

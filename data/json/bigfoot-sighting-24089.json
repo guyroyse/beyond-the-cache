@@ -11,9 +11,11 @@
   "longitude": -94.83755,
   "location": "-94.83755,47.1589",
   "location_details": "We were camping in Gulch Lake Campground in Paul Bunyan State Forest.",
-  "temperature_high": 74.81,
-  "temperature_mid": 63.75,
-  "temperature_low": 52.69,
+  "temperature": {
+    "high": 74.81,
+    "mid": 63.75,
+    "low": 52.69
+  },
   "dew_point": 48.97,
   "humidity": 0.6,
   "cloud_cover": 0.12,

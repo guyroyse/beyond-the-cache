@@ -11,9 +11,11 @@
   "longitude": -81.1438,
   "location": "-81.1438,41.7164",
   "location_details": "Paine Falls Metro Park located at the merge of Taylor Road and Paine Road on the left side of the road.",
-  "temperature_high": 81.79,
-  "temperature_mid": 73.98,
-  "temperature_low": 66.17,
+  "temperature": {
+    "high": 81.79,
+    "mid": 73.98,
+    "low": 66.17
+  },
   "dew_point": 61.93,
   "humidity": 0.67,
   "cloud_cover": 0.63,

@@ -1,0 +1,35 @@
+{
+  "reportId": "38411",
+  "title": "Campers experience strange events in Ramsey's Draft Wilderness Area",
+  "date": "2000-07-15",
+  "timestamp": 963619200,
+  "observed": "In the Summer of 2000 my friends and I were camping in George Washington National Forest. Ramsey's Draft Wilderness area. We experienced knocks and rock throwing. The thing that made us a bit UN-nerved was that that night in spite of our loud talking a deer had decided to wander up to the camp within about 10 feet and stayed next to us the entire night! This area is frequented by large amounts of hunters during the fall which should have made the deer stay very far away. We also had a large campfire. It seems to me that the deer was seeking a safe place to be because there was obviously something bigger to worry about than us humans. There were several more rocks thrown that night.",
+  "classification": "Class B",
+  "county": "Augusta",
+  "state": "Virginia",
+  "latitude": 38.3331,
+  "longitude": -79.35755,
+  "location": {
+    "longitude": -79.35755,
+    "latitude": 38.3331
+  },
+  "location_details": "There are several campsites. The location was about 1 1/2 miles in.",
+  "temperature": {
+    "high": 80.8,
+    "mid": 70.39,
+    "low": 59.98
+  },
+  "dew_point": 62.33,
+  "humidity": 0.78,
+  "cloud_cover": 0.48,
+  "moon_phase": 0.47,
+  "precip_intensity": 0.0028,
+  "precip_probability": 0.44,
+  "precip_type": "rain",
+  "pressure": 1006.69,
+  "summary": "Partly cloudy until afternoon.",
+  "uv_index": 8,
+  "visibility": 8.45,
+  "wind_bearing": 285,
+  "wind_speed": 4.65
+}

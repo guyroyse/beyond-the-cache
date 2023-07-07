@@ -11,9 +11,11 @@
   "longitude": -121.0803,
   "location": "-121.0803,38.90222",
   "location_details": "Take HWY 49 out of Auburn, CA, towards Grass Valley. Turn right at Alta Sierra. (I wish I could give specific directions from here, but it was a long time ago, and I wasn't driving. I remember we made our way to a small beaver pond. There was just beginning to be houses built around here, and I think the area is probably much more developed now than it was 20+ years ago...)",
-  "temperature_high": 55.84,
-  "temperature_mid": 48.56,
-  "temperature_low": 41.28,
+  "temperature": {
+    "high": 55.84,
+    "mid": 48.56,
+    "low": 41.28
+  },
   "dew_point": 44.23,
   "humidity": 0.77,
   "cloud_cover": 0.92,

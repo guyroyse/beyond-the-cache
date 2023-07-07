@@ -11,9 +11,11 @@
   "longitude": -123.7718,
   "location": "-123.7718,44.96651",
   "location_details": "Take highway 22 west from Salem following signs to Lincoln City, you will end up on highway 18, traveling through the Van Duzen Corridor, take a left onto Slick Rock Creek Road, which becomes Boulder Creek. Travel east on Boulder (becomes logging road, so it goes different directions) continue on the main road for about 2-3 miles and the road splits, take the right split, continue on the main road for another 3-4 miles and the road splits again take the left split, continue on the main road 2-3 miles till comes to another road like a 3-way intersection take the right turn, continue till there is a road on the left (aprox. 1/2 mile) that almost doubles back up the hill, take the first right (aprox. 1/32-1/16 mile), continue on the main road (this is a narrow road, there is another road that cuts back to the west just after turning on this one, but continue straight on the main road). The sighting occured about 1/2-1/3 miles in.",
-  "temperature_high": 79.74,
-  "temperature_mid": 65.315,
-  "temperature_low": 50.89,
+  "temperature": {
+    "high": 79.74,
+    "mid": 65.315,
+    "low": 50.89
+  },
   "dew_point": 48.65,
   "humidity": 0.61,
   "cloud_cover": 0.02,

@@ -11,9 +11,11 @@
   "longitude": -84.20835,
   "location": "-84.20835,30.4836",
   "location_details": "East side of Tallahassee. North of Mahan Drive.",
-  "temperature_high": 50.55,
-  "temperature_mid": 41.265,
-  "temperature_low": 31.98,
+  "temperature": {
+    "high": 50.55,
+    "mid": 41.265,
+    "low": 31.98
+  },
   "dew_point": 23.82,
   "humidity": 0.52,
   "cloud_cover": 0.46,

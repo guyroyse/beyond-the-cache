@@ -11,9 +11,11 @@
   "longitude": -121.4317,
   "location": "-121.4317,47.425",
   "location_details": "Franklin Falls trail.",
-  "temperature_high": 76.73,
-  "temperature_mid": 66.745,
-  "temperature_low": 56.76,
+  "temperature": {
+    "high": 76.73,
+    "mid": 66.745,
+    "low": 56.76
+  },
   "dew_point": 47.88,
   "humidity": 0.58,
   "cloud_cover": 0.21,

@@ -11,9 +11,11 @@
   "longitude": -78.23962,
   "location": "-78.23962,43.34806",
   "location_details": "If you live around there you know right where that is",
-  "temperature_high": 21.7,
-  "temperature_mid": 15.625,
-  "temperature_low": 9.55,
+  "temperature": {
+    "high": 21.7,
+    "mid": 15.625,
+    "low": 9.55
+  },
   "dew_point": 7.29,
   "humidity": 0.73,
   "cloud_cover": 0.79,

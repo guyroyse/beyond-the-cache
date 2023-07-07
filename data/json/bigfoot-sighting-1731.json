@@ -11,9 +11,11 @@
   "longitude": -122.0874,
   "location": "-122.0874,47.0945",
   "location_details": "Along Carbon river",
-  "temperature_high": 56.8,
-  "temperature_mid": 50.315,
-  "temperature_low": 43.83,
+  "temperature": {
+    "high": 56.8,
+    "mid": 50.315,
+    "low": 43.83
+  },
   "dew_point": 41.06,
   "humidity": 0.72,
   "cloud_cover": 0.86,

@@ -11,9 +11,11 @@
   "longitude": -75.73906,
   "location": "-75.73906,43.1546",
   "location_details": "This occurred along the shore of eastern Lake Oneida area adjacent to the southern boundary of Verona Beach State Park.",
-  "temperature_high": 58,
-  "temperature_mid": 54.13,
-  "temperature_low": 50.26,
+  "temperature": {
+    "high": 58,
+    "mid": 54.13,
+    "low": 50.26
+  },
   "dew_point": 46.8,
   "humidity": 0.85,
   "cloud_cover": 1,

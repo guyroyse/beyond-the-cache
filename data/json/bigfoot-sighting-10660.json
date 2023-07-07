@@ -11,9 +11,11 @@
   "longitude": -95.6491,
   "location": "-95.6491,38.3908",
   "location_details": "There is a backroad after passing Lebo (as I remember) that turns South for 1/2 to 1 mile then turns back East. There was also a newer backroad but I mistakenly took the old one as it was late and not well marked. It definetly blacktop though in very poor condition.",
-  "temperature_high": 50.29,
-  "temperature_mid": 49.66,
-  "temperature_low": 49.03,
+  "temperature": {
+    "high": 50.29,
+    "mid": 49.66,
+    "low": 49.03
+  },
   "dew_point": 43.89,
   "humidity": 0.89,
   "cloud_cover": 0.83,

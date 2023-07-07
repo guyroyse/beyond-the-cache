@@ -11,9 +11,11 @@
   "longitude": -81.56255,
   "location": "-81.56255,41.2584",
   "location_details": "NORTH SIDE OF INTERSTATE 271 GOING OVER THE NATIONAL PARK BY BOSTON MILLS SKI RESORT",
-  "temperature_high": 80.52,
-  "temperature_mid": 71.8,
-  "temperature_low": 63.08,
+  "temperature": {
+    "high": 80.52,
+    "mid": 71.8,
+    "low": 63.08
+  },
   "dew_point": 61.49,
   "humidity": 0.71,
   "cloud_cover": 0.39,

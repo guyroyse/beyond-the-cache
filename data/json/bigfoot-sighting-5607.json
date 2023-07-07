@@ -11,9 +11,11 @@
   "longitude": -94.45417,
   "location": "-94.45417,34.70694",
   "location_details": "on the highway 59/270 approximately 15 to 20 miles west of mena, arkansas between mena and heavner oklahoma...this area is commonly called page oklahoma although there is no town or community there.",
-  "temperature_high": 95.97,
-  "temperature_mid": 86.96,
-  "temperature_low": 77.95,
+  "temperature": {
+    "high": 95.97,
+    "mid": 86.96,
+    "low": 77.95
+  },
   "dew_point": 71.63,
   "humidity": 0.63,
   "cloud_cover": 0.07,

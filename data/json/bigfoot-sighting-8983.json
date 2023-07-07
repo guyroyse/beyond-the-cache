@@ -11,9 +11,11 @@
   "longitude": -80.0616,
   "location": "-80.0616,35.4449",
   "location_details": "it start a U sounds like you -are -e  national forrest its in stanly county",
-  "temperature_high": 79.81,
-  "temperature_mid": 73.25,
-  "temperature_low": 66.69,
+  "temperature": {
+    "high": 79.81,
+    "mid": 73.25,
+    "low": 66.69
+  },
   "dew_point": 67.66,
   "humidity": 0.79,
   "cloud_cover": 0.61,

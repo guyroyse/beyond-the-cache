@@ -11,9 +11,11 @@
   "longitude": -123.0533,
   "location": "-123.0533,47.71782",
   "location_details": "As described above.  Mount Jupiter.  Mount Jupiter Lake #2",
-  "temperature_high": 69.13,
-  "temperature_mid": 62.835,
-  "temperature_low": 56.54,
+  "temperature": {
+    "high": 69.13,
+    "mid": 62.835,
+    "low": 56.54
+  },
   "dew_point": 51.53,
   "humidity": 0.74,
   "cloud_cover": 0.81,

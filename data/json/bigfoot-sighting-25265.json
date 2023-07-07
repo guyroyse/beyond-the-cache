@@ -11,9 +11,11 @@
   "longitude": -109.5143,
   "location": "-109.5143,40.86765",
   "location_details": "3 miles west of flaming gorge dam in utah",
-  "temperature_high": 46.19,
-  "temperature_mid": 37.235,
-  "temperature_low": 28.28,
+  "temperature": {
+    "high": 46.19,
+    "mid": 37.235,
+    "low": 28.28
+  },
   "dew_point": 19.41,
   "humidity": 0.57,
   "cloud_cover": 0.18,

@@ -11,9 +11,11 @@
   "longitude": -109.9134,
   "location": "-109.9134,32.70631",
   "location_details": "Cunnigham site, in front of restrooms on corner",
-  "temperature_high": 91.49,
-  "temperature_mid": 74.23,
-  "temperature_low": 56.97,
+  "temperature": {
+    "high": 91.49,
+    "mid": 74.23,
+    "low": 56.97
+  },
   "dew_point": 11.44,
   "humidity": 0.1,
   "cloud_cover": 0,

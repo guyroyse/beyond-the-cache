@@ -11,9 +11,11 @@
   "longitude": -81.0651,
   "location": "-81.0651,26.01535",
   "location_details": "I believe Alligator Alley is now called I-75. I haven't been back there since.",
-  "temperature_high": 80.52,
-  "temperature_mid": 70.64,
-  "temperature_low": 60.76,
+  "temperature": {
+    "high": 80.52,
+    "mid": 70.64,
+    "low": 60.76
+  },
   "dew_point": 61.36,
   "humidity": 0.74,
   "cloud_cover": 0.47,

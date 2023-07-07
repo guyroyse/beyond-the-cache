@@ -11,9 +11,11 @@
   "longitude": -83.5214,
   "location": "-83.5214,35.5605",
   "location_details": "On the Appalachian Trail in western North Carolina, approximately four miles north of the Nantahala Outdoor Center (Swain County)",
-  "temperature_high": 60.81,
-  "temperature_mid": 58.095,
-  "temperature_low": 55.38,
+  "temperature": {
+    "high": 60.81,
+    "mid": 58.095,
+    "low": 55.38
+  },
   "dew_point": 49.6,
   "humidity": 0.88,
   "cloud_cover": 0.7,

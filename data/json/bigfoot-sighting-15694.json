@@ -11,9 +11,11 @@
   "longitude": -81.5545,
   "location": "-81.5545,28.5465",
   "location_details": "Feel free to post, but also let me know what you think I may have seen.",
-  "temperature_high": 87.95,
-  "temperature_mid": 80.555,
-  "temperature_low": 73.16,
+  "temperature": {
+    "high": 87.95,
+    "mid": 80.555,
+    "low": 73.16
+  },
   "dew_point": 72.05,
   "humidity": 0.8,
   "cloud_cover": 0.41,

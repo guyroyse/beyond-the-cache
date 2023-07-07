@@ -11,9 +11,11 @@
   "longitude": -84.06493,
   "location": "-84.06493,44.5256",
   "location_details": "m33 north from rose city to hughes lake road (pink store on the corner)east to a trail that turns into deckerville road. unsure of the number. at the edge of a place the older locals call grandview valley.",
-  "temperature_high": 53.94,
-  "temperature_mid": 45.38,
-  "temperature_low": 36.82,
+  "temperature": {
+    "high": 53.94,
+    "mid": 45.38,
+    "low": 36.82
+  },
   "dew_point": 35.1,
   "humidity": 0.74,
   "cloud_cover": 0.22,

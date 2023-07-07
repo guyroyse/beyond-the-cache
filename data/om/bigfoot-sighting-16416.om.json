@@ -1,0 +1,35 @@
+{
+  "reportId": "16416",
+  "title": "Possible vocalizations heard near Lake Cushman",
+  "date": "2006-11-03",
+  "timestamp": 1162512000,
+  "observed": "My brother and I went up to the Lake Cushman   area to look at a house for sale. The house was vacant and it was very quiet. We drove up to the manufactured home got out of the car and was looking into the windows of the house when I heard a high pitched screech yell that seemed to echo from the north side of the hills. I asked my brother if he heard that and he replied no. I said \"listen\", and the same high pitched screech yell occured. It happened again and that is when my brother heard it. It seemed to be far away. There was a small \"A\" cabin next to the property that was vacant and it was very quiet at the time we heard the sounds. No one was around and the sounds seemed to echo. In total there was four of them every 5 seconds or so. Then it suddenly stopped. The time was around 3:15pm and it was overcast. It was very calm and quiet. It was not an elk or a dog. This was a sound we have never heard before. After finding your website it does sound like many of your recordings but from a further distance.",
+  "classification": "Class B",
+  "county": "Mason",
+  "state": "Washington",
+  "latitude": 47.396,
+  "longitude": -123.1976,
+  "location": {
+    "longitude": -123.1976,
+    "latitude": 47.396
+  },
+  "location_details": "It was off of 119 near the foot hills park wilderness area. 4 miles west of foot hills park.",
+  "temperature": {
+    "high": 58.17,
+    "mid": 56.41,
+    "low": 54.65
+  },
+  "dew_point": 52.84,
+  "humidity": 0.91,
+  "cloud_cover": 0.97,
+  "moon_phase": 0.44,
+  "precip_intensity": 0.0501,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1007.29,
+  "summary": "Rain throughout the day and breezy until afternoon.",
+  "uv_index": 1,
+  "visibility": 7.18,
+  "wind_bearing": 175,
+  "wind_speed": 11.51
+}

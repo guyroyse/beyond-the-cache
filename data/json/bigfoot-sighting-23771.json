@@ -11,9 +11,11 @@
   "longitude": -123.2725,
   "location": "-123.2725,42.02106",
   "location_details": "Whiskey Peak",
-  "temperature_high": 50.76,
-  "temperature_mid": 45.595,
-  "temperature_low": 40.43,
+  "temperature": {
+    "high": 50.76,
+    "mid": 45.595,
+    "low": 40.43
+  },
   "dew_point": 43.1,
   "humidity": 0.89,
   "cloud_cover": 0.99,

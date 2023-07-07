@@ -11,9 +11,11 @@
   "longitude": -78.5367,
   "location": "-78.5367,38.36885",
   "location_details": "Directions to Shenandoah National Park can be easily found.",
-  "temperature_high": 45.41,
-  "temperature_mid": 36.835,
-  "temperature_low": 28.26,
+  "temperature": {
+    "high": 45.41,
+    "mid": 36.835,
+    "low": 28.26
+  },
   "dew_point": 25.74,
   "humidity": 0.57,
   "cloud_cover": 0.36,

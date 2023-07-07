@@ -11,9 +11,11 @@
   "longitude": -118.7402,
   "location": "-118.7402,36.0438",
   "location_details": "Tule River Indian Reservation, Porterville CA.",
-  "temperature_high": 87.5,
-  "temperature_mid": 70.65,
-  "temperature_low": 53.8,
+  "temperature": {
+    "high": 87.5,
+    "mid": 70.65,
+    "low": 53.8
+  },
   "dew_point": 42.21,
   "humidity": 0.39,
   "cloud_cover": 0.13,

@@ -1,0 +1,35 @@
+{
+  "reportId": "36072",
+  "title": "Vacationing family observes & photographs a large hair covered figure in Grayson Highlands State Park",
+  "date": "2011-10-14",
+  "timestamp": 1318550400,
+  "observed": "The week of 10/9/2011 my husband, myself, sister-in-law, her husband, plus 4 daughters of theirs, plus another couple saw this dark image that I took a picture of.  The other couple took pictures also, then immediately left the park.  The couple appeared to be scared. This was mid-day, we were in the Grayson-Highlands State park in VA. We were on vacation from FL. We saw the dark image move, like it was sqatting down then stood up and appeared to be walking around a tree.  It was in the 40s and very windy.",
+  "classification": "Class A",
+  "county": "Grayson",
+  "state": "Virginia",
+  "latitude": 36.62492,
+  "longitude": -81.48593,
+  "location": {
+    "longitude": -81.48593,
+    "latitude": 36.62492
+  },
+  "location_details": "It was the first pull over on the right hand side after the registration building on your left.",
+  "temperature": {
+    "high": 63.83,
+    "mid": 55.91,
+    "low": 47.99
+  },
+  "dew_point": 43.81,
+  "humidity": 0.64,
+  "cloud_cover": 0.51,
+  "moon_phase": 0.58,
+  "precip_intensity": 0.007,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1004.97,
+  "summary": "Mostly cloudy until evening and breezy until afternoon.",
+  "uv_index": 4,
+  "visibility": 9.64,
+  "wind_bearing": 280,
+  "wind_speed": 11.38
+}

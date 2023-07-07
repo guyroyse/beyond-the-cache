@@ -11,9 +11,11 @@
   "longitude": -74.85745,
   "location": "-74.85745,40.1316",
   "location_details": "It was on Green Lane just before Mill Creek Rd if you're driving away from Rt 13.",
-  "temperature_high": 32.44,
-  "temperature_mid": 28.99,
-  "temperature_low": 25.54,
+  "temperature": {
+    "high": 32.44,
+    "mid": 28.99,
+    "low": 25.54
+  },
   "dew_point": 13.85,
   "humidity": 0.54,
   "cloud_cover": 0.08,

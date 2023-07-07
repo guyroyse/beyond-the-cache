@@ -11,9 +11,11 @@
   "longitude": -121.4705,
   "location": "-121.4705,43.98136",
   "location_details": "On the way to Mt Bachelor on Cascade Lakes highway.",
-  "temperature_high": 45.01,
-  "temperature_mid": 42.295,
-  "temperature_low": 39.58,
+  "temperature": {
+    "high": 45.01,
+    "mid": 42.295,
+    "low": 39.58
+  },
   "dew_point": 30.82,
   "humidity": 0.76,
   "cloud_cover": 0.07,

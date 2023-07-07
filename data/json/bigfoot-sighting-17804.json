@@ -11,9 +11,11 @@
   "longitude": -109.44,
   "location": "-109.44,34.6",
   "location_details": "Near a place where they are putting a new bridge, and a foresty raod intersects a little past that.",
-  "temperature_high": 33.58,
-  "temperature_mid": 22.395,
-  "temperature_low": 11.21,
+  "temperature": {
+    "high": 33.58,
+    "mid": 22.395,
+    "low": 11.21
+  },
   "dew_point": 23.5,
   "humidity": 0.76,
   "cloud_cover": 0.77,

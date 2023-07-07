@@ -11,9 +11,11 @@
   "longitude": -97.61,
   "location": "-97.61,32.675",
   "location_details": "Hwy 5 south of Aledo",
-  "temperature_high": 99.61,
-  "temperature_mid": 87.715,
-  "temperature_low": 75.82,
+  "temperature": {
+    "high": 99.61,
+    "mid": 87.715,
+    "low": 75.82
+  },
   "dew_point": 63.6,
   "humidity": 0.45,
   "cloud_cover": 0.07,

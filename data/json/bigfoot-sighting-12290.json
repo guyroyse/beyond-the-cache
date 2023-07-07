@@ -11,9 +11,11 @@
   "longitude": -88.864,
   "location": "-88.864,32.1806",
   "location_details": "The location of this incident was on Interstate 59 between Enterprise and Meridian",
-  "temperature_high": 87.07,
-  "temperature_mid": 81.545,
-  "temperature_low": 76.02,
+  "temperature": {
+    "high": 87.07,
+    "mid": 81.545,
+    "low": 76.02
+  },
   "dew_point": 72.92,
   "humidity": 0.83,
   "cloud_cover": 0.67,

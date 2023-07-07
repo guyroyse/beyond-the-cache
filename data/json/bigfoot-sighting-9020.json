@@ -11,9 +11,11 @@
   "longitude": -122.8042,
   "location": "-122.8042,43.6583",
   "location_details": "The campground is about 8 miles SE of Dorena Lake.",
-  "temperature_high": 80.34,
-  "temperature_mid": 68.38,
-  "temperature_low": 56.42,
+  "temperature": {
+    "high": 80.34,
+    "mid": 68.38,
+    "low": 56.42
+  },
   "dew_point": 54.55,
   "humidity": 0.62,
   "cloud_cover": 0.17,

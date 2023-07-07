@@ -11,9 +11,11 @@
   "longitude": -80.64685,
   "location": "-80.64685,37.50965",
   "location_details": "Northeast of Linside, WV off US 219",
-  "temperature_high": 87.26,
-  "temperature_mid": 75.785,
-  "temperature_low": 64.31,
+  "temperature": {
+    "high": 87.26,
+    "mid": 75.785,
+    "low": 64.31
+  },
   "dew_point": 62.33,
   "humidity": 0.65,
   "cloud_cover": 0.27,

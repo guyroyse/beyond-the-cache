@@ -11,9 +11,11 @@
   "longitude": -75.18375,
   "location": "-75.18375,38.676",
   "location_details": "On route 24 near Angola area",
-  "temperature_high": 46.73,
-  "temperature_mid": 38.71,
-  "temperature_low": 30.69,
+  "temperature": {
+    "high": 46.73,
+    "mid": 38.71,
+    "low": 30.69
+  },
   "dew_point": 18.65,
   "humidity": 0.55,
   "cloud_cover": 0.05,

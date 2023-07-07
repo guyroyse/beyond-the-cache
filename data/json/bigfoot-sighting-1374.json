@@ -11,9 +11,11 @@
   "longitude": -107.7667,
   "location": "-107.7667,37.75417",
   "location_details": "My husband myself and my son and nephew were backpacking in the San Juan Mountains in Colorado the days of July 25th and 26th of this year 1998. We were in the area of the Twin Sisters mountain tops, south of Silverton about four miles in on a pack trail following the Lime Creek.",
-  "temperature_high": 74.5,
-  "temperature_mid": 63.98,
-  "temperature_low": 53.46,
+  "temperature": {
+    "high": 74.5,
+    "mid": 63.98,
+    "low": 53.46
+  },
   "dew_point": 54.53,
   "humidity": 0.73,
   "cloud_cover": 0.63,

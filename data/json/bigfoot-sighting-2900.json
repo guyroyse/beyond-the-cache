@@ -11,9 +11,11 @@
   "longitude": -124.3,
   "location": "-124.3,42.08",
   "location_details": "Beach is just off Hwy 101, perhaps 14 miles south of Pistol River.",
-  "temperature_high": 60.15,
-  "temperature_mid": 54.01,
-  "temperature_low": 47.87,
+  "temperature": {
+    "high": 60.15,
+    "mid": 54.01,
+    "low": 47.87
+  },
   "dew_point": 43.53,
   "humidity": 0.77,
   "cloud_cover": 0.41,

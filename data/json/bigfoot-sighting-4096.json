@@ -11,9 +11,11 @@
   "longitude": -92.33472,
   "location": "-92.33472,33.1075",
   "location_details": "Union County, Near Strong, AR",
-  "temperature_high": 56.32,
-  "temperature_mid": 43.605,
-  "temperature_low": 30.89,
+  "temperature": {
+    "high": 56.32,
+    "mid": 43.605,
+    "low": 30.89
+  },
   "dew_point": 30.5,
   "humidity": 0.68,
   "cloud_cover": 0.03,

@@ -11,9 +11,11 @@
   "longitude": -86.64338,
   "location": "-86.64338,38.12318",
   "location_details": "Lake Tipsaw",
-  "temperature_high": 91.27,
-  "temperature_mid": 82.91,
-  "temperature_low": 74.55,
+  "temperature": {
+    "high": 91.27,
+    "mid": 82.91,
+    "low": 74.55
+  },
   "dew_point": 70.29,
   "humidity": 0.67,
   "cloud_cover": 0.16,

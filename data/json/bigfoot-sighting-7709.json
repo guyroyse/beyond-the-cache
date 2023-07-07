@@ -11,9 +11,11 @@
   "longitude": -97.3374,
   "location": "-97.3374,37.0581",
   "location_details": "I-35, Under an overpass wherein the very next (southbound exit) has a convenience store and tow-truck station (east side of I-35)",
-  "temperature_high": 38.69,
-  "temperature_mid": 36.2,
-  "temperature_low": 33.71,
+  "temperature": {
+    "high": 38.69,
+    "mid": 36.2,
+    "low": 33.71
+  },
   "dew_point": 28.78,
   "humidity": 0.78,
   "cloud_cover": 0.69,

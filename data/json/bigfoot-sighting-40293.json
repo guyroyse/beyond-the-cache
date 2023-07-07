@@ -11,9 +11,11 @@
   "longitude": -93.75745,
   "location": "-93.75745,47.65885",
   "location_details": "Fishing resort on lake, very isolated. Grand Rapids MN. go north on HWY 6, turn left on CR.49 2 miles on left.",
-  "temperature_high": 32.89,
-  "temperature_mid": 25.655,
-  "temperature_low": 18.42,
+  "temperature": {
+    "high": 32.89,
+    "mid": 25.655,
+    "low": 18.42
+  },
   "dew_point": 4.67,
   "humidity": 0.47,
   "cloud_cover": 0.71,

@@ -11,9 +11,11 @@
   "longitude": -83.47566,
   "location": "-83.47566,35.64151",
   "location_details": "From my GPS map, I think that we saw this being just before the crossing of Trout Branch",
-  "temperature_high": 88.85,
-  "temperature_mid": 78.66,
-  "temperature_low": 68.47,
+  "temperature": {
+    "high": 88.85,
+    "mid": 78.66,
+    "low": 68.47
+  },
   "dew_point": 68.78,
   "humidity": 0.76,
   "cloud_cover": 0.16,

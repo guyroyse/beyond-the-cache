@@ -11,9 +11,11 @@
   "longitude": -89.5,
   "location": "-89.5,46.25",
   "location_details": "along CR 527, enroute to Langford Lake campground area",
-  "temperature_high": 84.32,
-  "temperature_mid": 74.235,
-  "temperature_low": 64.15,
+  "temperature": {
+    "high": 84.32,
+    "mid": 74.235,
+    "low": 64.15
+  },
   "dew_point": 62.66,
   "humidity": 0.75,
   "cloud_cover": 0.17,

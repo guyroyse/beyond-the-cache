@@ -1,0 +1,35 @@
+{
+  "reportId": "41514",
+  "title": "Friends enjoying a late night together are startled by a eerie howl near Eagle River",
+  "date": "2013-06-26",
+  "timestamp": 1372204800,
+  "observed": "I and two other friends were sitting in their vehicle at Eagle Lake during the evening.  I was sitting in the back seat and our side window was rolled down.  We heard an erie yell, it sounded to me like a bigfoot call.  Only two of us heard it, as I said, our window was down.  We only heard it once, which was enough for me.  I went back the next day with the other friend and found a trail leading to an area with pole-sized trees downed by something, with some going one way, others another and on top of each other.  I don't go on that trail anymore, not even during the day.  That yell was inhuman.",
+  "classification": "Class B",
+  "county": "Vilas",
+  "state": "Wisconsin",
+  "latitude": 45.941,
+  "longitude": -89.21035,
+  "location": {
+    "longitude": -89.21035,
+    "latitude": 45.941
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 82.13,
+    "mid": 73.275,
+    "low": 64.42
+  },
+  "dew_point": 65.37,
+  "humidity": 0.86,
+  "cloud_cover": 0.28,
+  "moon_phase": 0.62,
+  "precip_intensity": 0.0092,
+  "precip_probability": 0.63,
+  "precip_type": "rain",
+  "pressure": 1007.66,
+  "summary": "Rain in the evening.",
+  "uv_index": 8,
+  "visibility": 7.23,
+  "wind_bearing": 185,
+  "wind_speed": 3
+}

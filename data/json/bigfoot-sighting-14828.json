@@ -11,9 +11,11 @@
   "longitude": -84.20835,
   "location": "-84.20835,41.80832",
   "location_details": "This occurred right on M-156 south of Canandaigua at a guardrail that covers a little creek",
-  "temperature_high": 73.12,
-  "temperature_mid": 67.8,
-  "temperature_low": 62.48,
+  "temperature": {
+    "high": 73.12,
+    "mid": 67.8,
+    "low": 62.48
+  },
   "dew_point": 58.2,
   "humidity": 0.77,
   "cloud_cover": 0.83,

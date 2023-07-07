@@ -1,0 +1,35 @@
+{
+  "reportId": "11449",
+  "title": "Beach visitors find large footprints.",
+  "date": "1994-02-25",
+  "timestamp": 762134400,
+  "observed": "It was about 10 years ago when my girlfriend and I and two of our friends went to Gold Beach, Oregon where I was going to propose to her. We got a motel across the highway from the beach. That night we went to the beach and built a campfire and I noticed footprints in the sand. What struck meas  odd was the fact that these were very deep (about 6-8 inches), very long (about 18 inches) and the stride was very long; I had to leap into each one. We followed the prints which went up a five foot embankment and disappeared. None of our group particularly believe in Bigfoot but do not totally rule it out. Just thought I would share our little story.",
+  "classification": "Class B",
+  "county": "Curry",
+  "state": "Oregon",
+  "latitude": 42.4018,
+  "longitude": -124.426,
+  "location": {
+    "longitude": -124.426,
+    "latitude": 42.4018
+  },
+  "location_details": "Directly across the highway from the Gold Beach Inn.",
+  "temperature": {
+    "high": 52.31,
+    "mid": 51.09,
+    "low": 49.87
+  },
+  "dew_point": 47.6,
+  "humidity": 0.88,
+  "cloud_cover": 0.94,
+  "moon_phase": 0.48,
+  "precip_intensity": 0.0031,
+  "precip_probability": 0.58,
+  "precip_type": "rain",
+  "pressure": 1013.36,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 2,
+  "visibility": 7.81,
+  "wind_bearing": 146,
+  "wind_speed": 6.04
+}

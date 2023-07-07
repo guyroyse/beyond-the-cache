@@ -11,9 +11,11 @@
   "longitude": -106.5123,
   "location": "-106.5123,37.32255",
   "location_details": "Conejos County, Colorado...sighted on Lake Fork of the Conejos, on the Lake Fork foottrail, about half way between Big Lake and Rock Lake...sighting was made from the eastern branch of the Saddle Creek logging road...line-of-sight distance approx 2.5 miles SSE of Platoro, Colorado I was on the logging road, about 0.25 miles lateral and 1,000ft or so vertical distance from the Lake Fork trail when I made the sighting...we were standing on a rocky overlook next to the logging road which allowed a good view of the Lake Fork Valley, including Big Lake and Rock Lake",
-  "temperature_high": 87.26,
-  "temperature_mid": 67.47,
-  "temperature_low": 47.68,
+  "temperature": {
+    "high": 87.26,
+    "mid": 67.47,
+    "low": 47.68
+  },
   "dew_point": 34.03,
   "humidity": 0.36,
   "cloud_cover": 0.03,

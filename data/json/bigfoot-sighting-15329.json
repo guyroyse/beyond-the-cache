@@ -11,9 +11,11 @@
   "longitude": -83.07575,
   "location": "-83.07575,31.0614",
   "location_details": "Approx 1.5 miles north on highway 135 out of lakeland ga",
-  "temperature_high": 90.38,
-  "temperature_mid": 82.625,
-  "temperature_low": 74.87,
+  "temperature": {
+    "high": 90.38,
+    "mid": 82.625,
+    "low": 74.87
+  },
   "dew_point": 71.8,
   "humidity": 0.73,
   "cloud_cover": 0.42,

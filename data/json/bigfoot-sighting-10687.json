@@ -11,9 +11,11 @@
   "longitude": -76.53862,
   "location": "-76.53862,39.01142",
   "location_details": "This sighting occurred within 50 yards of a residential street, Epping Forest Road.",
-  "temperature_high": 77.5,
-  "temperature_mid": 67.74,
-  "temperature_low": 57.98,
+  "temperature": {
+    "high": 77.5,
+    "mid": 67.74,
+    "low": 57.98
+  },
   "dew_point": 61.67,
   "humidity": 0.69,
   "cloud_cover": 0.5,

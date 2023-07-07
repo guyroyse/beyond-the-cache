@@ -11,9 +11,11 @@
   "longitude": -121.4813,
   "location": "-121.4813,45.86883",
   "location_details": "This happened while I was traveling South West on the BZ Glenwood Highway 2 miles from the BZ junction on to HWY 141.",
-  "temperature_high": 72.39,
-  "temperature_mid": 66.575,
-  "temperature_low": 60.76,
+  "temperature": {
+    "high": 72.39,
+    "mid": 66.575,
+    "low": 60.76
+  },
   "dew_point": 54.94,
   "humidity": 0.77,
   "cloud_cover": 0.46,

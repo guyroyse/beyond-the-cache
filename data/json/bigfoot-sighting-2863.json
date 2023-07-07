@@ -11,9 +11,11 @@
   "longitude": -90.51659,
   "location": "-90.51659,45.78177",
   "location_details": "western portion of Price County. Lugerville is located on Hwy F which is accessible from either Hwy's 13 or 70. The hunting cabin is on a fire lane off of Hwy F, northwest of Lugervile. This area borders Chequamegon National Forest and the cabin is within walking distance of the Flambeau river. The topography is a mixture of ridges, ravines, swamp, fields and mature forests.",
-  "temperature_high": 34.76,
-  "temperature_mid": 30.435,
-  "temperature_low": 26.11,
+  "temperature": {
+    "high": 34.76,
+    "mid": 30.435,
+    "low": 26.11
+  },
   "dew_point": 27.99,
   "humidity": 0.93,
   "cloud_cover": 0.73,

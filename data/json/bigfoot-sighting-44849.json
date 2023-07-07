@@ -11,9 +11,11 @@
   "longitude": -87.6942,
   "location": "-87.6942,33.37095",
   "location_details": "Take 171 from Northport, and Bone Camp is a right turn about 3 miles up.",
-  "temperature_high": 55.97,
-  "temperature_mid": 54.59,
-  "temperature_low": 53.21,
+  "temperature": {
+    "high": 55.97,
+    "mid": 54.59,
+    "low": 53.21
+  },
   "dew_point": 46.38,
   "humidity": 0.82,
   "cloud_cover": 0.22,

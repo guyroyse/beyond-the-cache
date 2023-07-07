@@ -11,9 +11,11 @@
   "longitude": -106.8331,
   "location": "-106.8331,45.0262",
   "location_details": "The old town of Decker.  It's not there anymore.   They wanted to mine coal under it, so they moved it.   But the sighting was right at the old town of Decker.",
-  "temperature_high": 21.26,
-  "temperature_mid": 14.785,
-  "temperature_low": 8.31,
+  "temperature": {
+    "high": 21.26,
+    "mid": 14.785,
+    "low": 8.31
+  },
   "dew_point": -2.39,
   "humidity": 0.63,
   "cloud_cover": 0.25,

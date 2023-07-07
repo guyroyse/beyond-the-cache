@@ -11,9 +11,11 @@
   "longitude": -93.28008,
   "location": "-93.28008,47.31732",
   "location_details": "Travel on Hwy 169 East heading towards Hibbing MN. Take a right on Buckmaster rd in calumet. At the very end of that road is iron ore hill. That is the hill that we saw him on.",
-  "temperature_high": 70.86,
-  "temperature_mid": 59.71,
-  "temperature_low": 48.56,
+  "temperature": {
+    "high": 70.86,
+    "mid": 59.71,
+    "low": 48.56
+  },
   "dew_point": 44.03,
   "humidity": 0.58,
   "cloud_cover": 0.13,

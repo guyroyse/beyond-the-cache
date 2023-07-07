@@ -11,9 +11,11 @@
   "longitude": -118.972,
   "location": "-118.972,37.5703",
   "location_details": "From Highway 395 south of Mono Lake, take 203 towards Mammoth Mountain, but turn south to the trailhead to Barney Lake, which starts near Lake Mary.",
-  "temperature_high": 91,
-  "temperature_mid": 71.86,
-  "temperature_low": 52.72,
+  "temperature": {
+    "high": 91,
+    "mid": 71.86,
+    "low": 52.72
+  },
   "dew_point": 44.96,
   "humidity": 0.45,
   "cloud_cover": 0.06,

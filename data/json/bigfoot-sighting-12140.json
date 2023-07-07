@@ -11,9 +11,11 @@
   "longitude": -88.55,
   "location": "-88.55,41.33",
   "location_details": "East of Seneca, we were pulled off a side road.",
-  "temperature_high": 81.79,
-  "temperature_mid": 74.195,
-  "temperature_low": 66.6,
+  "temperature": {
+    "high": 81.79,
+    "mid": 74.195,
+    "low": 66.6
+  },
   "dew_point": 66.28,
   "humidity": 0.8,
   "cloud_cover": 0.82,

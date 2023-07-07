@@ -11,9 +11,11 @@
   "longitude": -85.82096,
   "location": "-85.82096,44.51436",
   "location_details": "County Line Road - CR 602 - west of Buckley.",
-  "temperature_high": 81.71,
-  "temperature_mid": 73.195,
-  "temperature_low": 64.68,
+  "temperature": {
+    "high": 81.71,
+    "mid": 73.195,
+    "low": 64.68
+  },
   "dew_point": 63.79,
   "humidity": 0.73,
   "cloud_cover": 0.25,

@@ -11,9 +11,11 @@
   "longitude": -122.1032,
   "location": "-122.1032,45.1518",
   "location_details": "Campsite about 15 miles south of the town of Estacada.",
-  "temperature_high": 58.31,
-  "temperature_mid": 53.855,
-  "temperature_low": 49.4,
+  "temperature": {
+    "high": 58.31,
+    "mid": 53.855,
+    "low": 49.4
+  },
   "dew_point": 50.55,
   "humidity": 0.88,
   "cloud_cover": 0.37,

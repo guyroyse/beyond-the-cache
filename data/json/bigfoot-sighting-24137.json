@@ -11,9 +11,11 @@
   "longitude": -116.7,
   "location": "-116.7,33.66675",
   "location_details": "About a mile down Hemet Lake Road near the picnic area North Shore Hemet Lake.",
-  "temperature_high": 92.62,
-  "temperature_mid": 80.82,
-  "temperature_low": 69.02,
+  "temperature": {
+    "high": 92.62,
+    "mid": 80.82,
+    "low": 69.02
+  },
   "dew_point": 60.02,
   "humidity": 0.51,
   "cloud_cover": 0.17,

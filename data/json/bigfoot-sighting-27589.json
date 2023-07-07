@@ -11,9 +11,11 @@
   "longitude": -82.70393,
   "location": "-82.70393,38.11509",
   "location_details": "West from louisa, in a area called fallsburg.",
-  "temperature_high": 75.51,
-  "temperature_mid": 61.72,
-  "temperature_low": 47.93,
+  "temperature": {
+    "high": 75.51,
+    "mid": 61.72,
+    "low": 47.93
+  },
   "dew_point": 38.34,
   "humidity": 0.44,
   "cloud_cover": 0.03,

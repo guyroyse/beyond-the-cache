@@ -1,0 +1,35 @@
+{
+  "reportId": "18001",
+  "title": "Possible vocalizations near Plunketts Road outside Buford",
+  "date": "1999-08-13",
+  "timestamp": 934502400,
+  "observed": "my wife,sister in law brother in law and myself were sitting in the breakfast nook overlooking the back yard.we were all talking and had just finished dinner. all of the sudden very very loud deep shrieks started coming from just about beyond the tree line. we all jumped up and as the ladies looked out the window,my brother in law and i ran down to the patio out back.on the way i grabbed my rifle that i kept near the back door.anyway,he and i stepped outside and these bloodcurdling shrieks kept happening.he grabbed a flashlight and when he pointed it at the treeline the shrieks stopped and we heard something tear through the woods grunting very deeply as it went.the next day i went into the woods to look for tracks.i found none but there was a huge trail torn through them.i followed it for a very long way by myself.after about 2 hours of following this trail,even though armed i got creeped out and headed back to the house.the tree damage was astonishing.i have been around bears and mountain lions before.whatever that thing was that night was not one of those and i'm not nuts! i never went back into those woods again without my rifle and have never in my life heard anything so scary or seen such damage done to trees by an animal in the deep south ever.i will never forget that night and i will never go hiking or camping unarmed.......or armed for that matter.",
+  "classification": "Class B",
+  "county": "Gwinnett",
+  "state": "Georgia",
+  "latitude": 34.4447,
+  "longitude": -83.59509,
+  "location": {
+    "longitude": -83.59509,
+    "latitude": 34.4447
+  },
+  "location_details": "there is a stream that runs deep into the woods,i dont know how far back it goes",
+  "temperature": {
+    "high": 95.51,
+    "mid": 84.11,
+    "low": 72.71
+  },
+  "dew_point": 71.01,
+  "humidity": 0.69,
+  "cloud_cover": 0.12,
+  "moon_phase": 0.08,
+  "precip_intensity": 0.0009,
+  "precip_probability": 0.51,
+  "precip_type": "rain",
+  "pressure": 1012.22,
+  "summary": "Humid throughout the day and partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 10,
+  "visibility": 7.48,
+  "wind_bearing": 276,
+  "wind_speed": 1.83
+}

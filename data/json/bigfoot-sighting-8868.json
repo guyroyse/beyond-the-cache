@@ -11,9 +11,11 @@
   "longitude": -118.9656,
   "location": "-118.9656,37.2725",
   "location_details": "Kaiser Pass Road forks just above Mono Hot Springs.  One side heads toward Edison Lake the other towards Florence lake.  We were camping right along the road to Florence on a ridge just before the road drops down toward the lake.  Maybe 2 - 3 miles from the lake itself.",
-  "temperature_high": 89.49,
-  "temperature_mid": 71.94,
-  "temperature_low": 54.39,
+  "temperature": {
+    "high": 89.49,
+    "mid": 71.94,
+    "low": 54.39
+  },
   "dew_point": 43.75,
   "humidity": 0.39,
   "cloud_cover": 0,

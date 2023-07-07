@@ -11,9 +11,11 @@
   "longitude": -117.4694,
   "location": "-117.4694,48.66611",
   "location_details": "The name of the county was Pend O'reille( pronounced \"pond o'ray\") and the closest town was Ione (pronounced \"eye-own\") about 10 miles by road or 5 miles by air.",
-  "temperature_high": 91.93,
-  "temperature_mid": 73.375,
-  "temperature_low": 54.82,
+  "temperature": {
+    "high": 91.93,
+    "mid": 73.375,
+    "low": 54.82
+  },
   "dew_point": 44.63,
   "humidity": 0.42,
   "moon_phase": 0.35,

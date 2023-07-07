@@ -11,9 +11,11 @@
   "longitude": -115.586,
   "location": "-115.586,46.94",
   "location_details": "Look on a Topo  Map, at Heart Lake is where we saw them",
-  "temperature_high": 79.76,
-  "temperature_mid": 65.15,
-  "temperature_low": 50.54,
+  "temperature": {
+    "high": 79.76,
+    "mid": 65.15,
+    "low": 50.54
+  },
   "dew_point": 40.74,
   "humidity": 0.44,
   "cloud_cover": 0.08,

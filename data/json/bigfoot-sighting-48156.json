@@ -11,9 +11,11 @@
   "longitude": -93.86594,
   "location": "-93.86594,37.48743",
   "location_details": "About one mile East of Highway 39 as it crosses Son Creek arm South side of the lake",
-  "temperature_high": 40.89,
-  "temperature_mid": 30.89,
-  "temperature_low": 20.89,
+  "temperature": {
+    "high": 40.89,
+    "mid": 30.89,
+    "low": 20.89
+  },
   "dew_point": 23.88,
   "humidity": 0.65,
   "cloud_cover": 0.37,

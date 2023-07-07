@@ -1,0 +1,35 @@
+{
+  "reportId": "35188",
+  "title": "Possible daytime sighting behind a home outside Anadarko",
+  "date": "2012-04-26",
+  "timestamp": 1335398400,
+  "observed": "I saw a Big Foot outside of our bathroom window in Anadarko today 4/26/12 around 12pm. It walked along the tree line and then quickly down into the Washita River. I could only see it from the waist up because of the grass being so tall but it was at least 6 feet tall and around 275 pounds if not more. It was covered in long brownish hair. I only saw the back of it but he said it was NOT a human and was surely a Big Foot.",
+  "classification": "Class B",
+  "county": "Caddo",
+  "state": "Oklahoma",
+  "latitude": 35.08344,
+  "longitude": -98.24586,
+  "location": {
+    "longitude": -98.24586,
+    "latitude": 35.08344
+  },
+  "location_details": "Just behind our home in Prairie Village. The housing addition is just off of First Street and our home backs up to the Washita River and we live on the culdasac Tonemah Parkway.",
+  "temperature": {
+    "high": 82.54,
+    "mid": 75.2,
+    "low": 67.86
+  },
+  "dew_point": 66.7,
+  "humidity": 0.79,
+  "cloud_cover": 0.19,
+  "moon_phase": 0.17,
+  "precip_intensity": 0.0003,
+  "precip_probability": 0.06,
+  "precip_type": "rain",
+  "pressure": 1007.84,
+  "summary": "Partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 10,
+  "visibility": 9.46,
+  "wind_bearing": 95,
+  "wind_speed": 9.18
+}

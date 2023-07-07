@@ -11,9 +11,11 @@
   "longitude": -106.4417,
   "location": "-106.4417,39.0917",
   "location_details": "At 14,433 ft. (4409m) Mt. Elbert is the tallest peak in Colorado. Located in the Collegiate Peaks Range inside the San Isabel National Forest. Mt Elbert is surrounded by designated wilderness on the north, south and west. It is quite close to Mt. Massive and Twin Lakes. This part of Colorado's high country, which lies between Aspen and Leadville, has been one of the most consistent generators of sasquatch reports going back to the mining era of the 1880s. The Black Cloud Trailhead is accessed from CO 82 on Independence Pass.",
-  "temperature_high": 77.01,
-  "temperature_mid": 60.635,
-  "temperature_low": 44.26,
+  "temperature": {
+    "high": 77.01,
+    "mid": 60.635,
+    "low": 44.26
+  },
   "dew_point": 27.09,
   "humidity": 0.33,
   "cloud_cover": 0.23,

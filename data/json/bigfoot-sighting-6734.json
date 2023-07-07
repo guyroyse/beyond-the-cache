@@ -11,9 +11,11 @@
   "longitude": -123.5792,
   "location": "-123.5792,45.0487",
   "location_details": "West of Dallas, Or. off Ellendale rd. Right on Rob Mill Rd. about 10 miles past WeyerHauser Land and west side of the Siuslaw Natl Forest. Off the Mud Puddle/Tree Fort Trail (used by mt. bikers and horses).",
-  "temperature_high": 74.59,
-  "temperature_mid": 63.795,
-  "temperature_low": 53,
+  "temperature": {
+    "high": 74.59,
+    "mid": 63.795,
+    "low": 53
+  },
   "dew_point": 50.87,
   "humidity": 0.64,
   "cloud_cover": 0.1,

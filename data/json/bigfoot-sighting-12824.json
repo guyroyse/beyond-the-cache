@@ -11,9 +11,11 @@
   "longitude": -93.17056,
   "location": "-93.17056,34.31611",
   "location_details": "This area is in the Arlie Moore area of the corp land surrounding Lake DeGray.",
-  "temperature_high": 81.28,
-  "temperature_mid": 67.135,
-  "temperature_low": 52.99,
+  "temperature": {
+    "high": 81.28,
+    "mid": 67.135,
+    "low": 52.99
+  },
   "dew_point": 53.28,
   "humidity": 0.67,
   "cloud_cover": 0.03,

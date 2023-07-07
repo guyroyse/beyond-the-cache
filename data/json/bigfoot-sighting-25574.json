@@ -11,9 +11,11 @@
   "longitude": -83.18237,
   "location": "-83.18237,34.94325",
   "location_details": "You can find it. Its a state run campsite.",
-  "temperature_high": 41.25,
-  "temperature_mid": 31.675,
-  "temperature_low": 22.1,
+  "temperature": {
+    "high": 41.25,
+    "mid": 31.675,
+    "low": 22.1
+  },
   "dew_point": 17.26,
   "humidity": 0.46,
   "cloud_cover": 0.34,

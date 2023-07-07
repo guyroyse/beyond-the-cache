@@ -11,9 +11,11 @@
   "longitude": -89.66525,
   "location": "-89.66525,39.6395",
   "location_details": "The Sugar Creek Covered Bridge area is about a mile northwest of Glenarm.",
-  "temperature_high": 73.3,
-  "temperature_mid": 67.425,
-  "temperature_low": 61.55,
+  "temperature": {
+    "high": 73.3,
+    "mid": 67.425,
+    "low": 61.55
+  },
   "dew_point": 58.65,
   "humidity": 0.73,
   "cloud_cover": 0.85,

@@ -11,9 +11,11 @@
   "longitude": -91.06547,
   "location": "-91.06547,38.11468",
   "location_details": "Do not post this information.  My parents have since sold a portion of this property and we do not want the new owners to be bothered.",
-  "temperature_high": 40.9,
-  "temperature_mid": 36.305,
-  "temperature_low": 31.71,
+  "temperature": {
+    "high": 40.9,
+    "mid": 36.305,
+    "low": 31.71
+  },
   "dew_point": 14.35,
   "humidity": 0.48,
   "cloud_cover": 0.23,

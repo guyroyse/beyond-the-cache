@@ -11,9 +11,11 @@
   "longitude": -86.1425,
   "location": "-86.1425,36.772",
   "location_details": "A few miles outside of Scottsville, Kentucky taking the old Glasgow Road until you turn right onto Durham Springs Road.  About a mile up this road all along this area there have been sightings-even one in 2007.",
-  "temperature_high": 83.36,
-  "temperature_mid": 73.37,
-  "temperature_low": 63.38,
+  "temperature": {
+    "high": 83.36,
+    "mid": 73.37,
+    "low": 63.38
+  },
   "dew_point": 61.5,
   "humidity": 0.7,
   "cloud_cover": 0.2,

@@ -11,9 +11,11 @@
   "longitude": -121.8053,
   "location": "-121.8053,48.64056",
   "location_details": "Up the Baker hwy., about 12 miles north from Hwy 20.",
-  "temperature_high": 57.99,
-  "temperature_mid": 50.77,
-  "temperature_low": 43.55,
+  "temperature": {
+    "high": 57.99,
+    "mid": 50.77,
+    "low": 43.55
+  },
   "dew_point": 44,
   "humidity": 0.72,
   "cloud_cover": 0.83,

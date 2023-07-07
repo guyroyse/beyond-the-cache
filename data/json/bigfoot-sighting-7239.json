@@ -11,9 +11,11 @@
   "longitude": -86.911,
   "location": "-86.911,40.9847",
   "location_details": "It is at the old Oaks Campground, the county line is less than a mile from there where it meets Jasper County.",
-  "temperature_high": 31.95,
-  "temperature_mid": 19.935,
-  "temperature_low": 7.92,
+  "temperature": {
+    "high": 31.95,
+    "mid": 19.935,
+    "low": 7.92
+  },
   "dew_point": 23.48,
   "humidity": 0.78,
   "cloud_cover": 0.74,

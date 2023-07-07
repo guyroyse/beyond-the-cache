@@ -11,9 +11,11 @@
   "longitude": -79.16096,
   "location": "-79.16096,38.54602",
   "location_details": "On google maps, go to 38.546017,-79.160957 and you'll be in the general area.  We rode from Harrisonburg, took 33 West and headed south on Skidmore Fork road.  It was south of Rte 33 towards Reddish Knob.",
-  "temperature_high": 48.84,
-  "temperature_mid": 41.485,
-  "temperature_low": 34.13,
+  "temperature": {
+    "high": 48.84,
+    "mid": 41.485,
+    "low": 34.13
+  },
   "dew_point": 30.78,
   "humidity": 0.67,
   "cloud_cover": 0.82,

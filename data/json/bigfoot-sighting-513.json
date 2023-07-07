@@ -11,9 +11,11 @@
   "longitude": -105.9583,
   "location": "-105.9583,40.79166",
   "location_details": "In the Rawah Wilderness, close to Steamboat, in the Roosevelt National Forest",
-  "temperature_high": 85.85,
-  "temperature_mid": 69.485,
-  "temperature_low": 53.12,
+  "temperature": {
+    "high": 85.85,
+    "mid": 69.485,
+    "low": 53.12
+  },
   "dew_point": 49.69,
   "humidity": 0.53,
   "cloud_cover": 0.28,

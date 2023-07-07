@@ -11,9 +11,11 @@
   "longitude": -83.26097,
   "location": "-83.26097,35.89305",
   "location_details": "It was within Big Creek Campground which is part of the Great Smoky National Park.  Big Creek Campground is not far from exit 451 on I-40 in NC.",
-  "temperature_high": 44.42,
-  "temperature_mid": 36.12,
-  "temperature_low": 27.82,
+  "temperature": {
+    "high": 44.42,
+    "mid": 36.12,
+    "low": 27.82
+  },
   "dew_point": 17.31,
   "humidity": 0.5,
   "cloud_cover": 0.18,

@@ -11,9 +11,11 @@
   "longitude": -87.05026,
   "location": "-87.05026,45.93311",
   "location_details": "Big desolate bog",
-  "temperature_high": 43.65,
-  "temperature_mid": 37.96,
-  "temperature_low": 32.27,
+  "temperature": {
+    "high": 43.65,
+    "mid": 37.96,
+    "low": 32.27
+  },
   "dew_point": 22.35,
   "humidity": 0.6,
   "cloud_cover": 0,

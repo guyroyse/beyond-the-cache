@@ -11,9 +11,11 @@
   "longitude": -110.175,
   "location": "-110.175,32.65",
   "location_details": "191 to 366 up the mt. to Riggs Flat Lake",
-  "temperature_high": 95.23,
-  "temperature_mid": 81.085,
-  "temperature_low": 66.94,
+  "temperature": {
+    "high": 95.23,
+    "mid": 81.085,
+    "low": 66.94
+  },
   "dew_point": 36.43,
   "humidity": 0.2,
   "cloud_cover": 0.07,

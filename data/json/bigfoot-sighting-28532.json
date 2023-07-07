@@ -11,9 +11,11 @@
   "longitude": -123.7095,
   "location": "-123.7095,46.82742",
   "location_details": "101 so, logging road m-line to m-2800 #4",
-  "temperature_high": 48.75,
-  "temperature_mid": 44.685,
-  "temperature_low": 40.62,
+  "temperature": {
+    "high": 48.75,
+    "mid": 44.685,
+    "low": 40.62
+  },
   "dew_point": 42.67,
   "humidity": 0.88,
   "cloud_cover": 0.93,

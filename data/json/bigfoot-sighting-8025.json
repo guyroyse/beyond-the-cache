@@ -11,9 +11,11 @@
   "longitude": -122.1629,
   "location": "-122.1629,42.8673",
   "location_details": "just south of Crater Lake",
-  "temperature_high": 61.21,
-  "temperature_mid": 53.87,
-  "temperature_low": 46.53,
+  "temperature": {
+    "high": 61.21,
+    "mid": 53.87,
+    "low": 46.53
+  },
   "dew_point": 50.94,
   "humidity": 0.85,
   "cloud_cover": 0.94,

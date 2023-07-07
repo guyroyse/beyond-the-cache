@@ -11,9 +11,11 @@
   "longitude": -92.88618,
   "location": "-92.88618,46.02361",
   "location_details": "North of what is now the airport.",
-  "temperature_high": 65.71,
-  "temperature_mid": 56.39,
-  "temperature_low": 47.07,
+  "temperature": {
+    "high": 65.71,
+    "mid": 56.39,
+    "low": 47.07
+  },
   "dew_point": 47.95,
   "humidity": 0.89,
   "cloud_cover": 0.86,

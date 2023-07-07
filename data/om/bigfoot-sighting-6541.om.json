@@ -1,0 +1,35 @@
+{
+  "reportId": "6541",
+  "title": "Young hunters have night time encounter north of Red River",
+  "date": "2004-12-21",
+  "timestamp": 1103587200,
+  "observed": "My cousins and I were spotlighting one night to find coyotes. We were driving alongside a treeline when we spotted eyes shinning in the light about 150 feet away next to the trees. I had binoculars and one of my cousins had a 22. magnum with a scope. We had a very good view of a large biped covered with brown hair, except for white patches on the pecs (chest) and one of its arms. It was about 8' tall or more. It tilted its head down because of the light, but stayed in place for about 5 minutes then stepped across the fence on the treeline and disappeared into the woods. The face was like a man and an ape.",
+  "classification": "Class A",
+  "county": "Choctaw",
+  "state": "Oklahoma",
+  "latitude": 34.11306,
+  "longitude": -95.62278,
+  "location": {
+    "longitude": -95.62278,
+    "latitude": 34.11306
+  },
+  "location_details": "Northeast of Soper, OK.",
+  "temperature": {
+    "high": 62.85,
+    "mid": 50.28,
+    "low": 37.71
+  },
+  "dew_point": 41.22,
+  "humidity": 0.69,
+  "cloud_cover": 0.34,
+  "moon_phase": 0.35,
+  "precip_intensity": 0.0082,
+  "precip_probability": 0.42,
+  "precip_type": "rain",
+  "pressure": 1011.71,
+  "summary": "Light rain starting in the evening.",
+  "uv_index": 2,
+  "visibility": 9.68,
+  "wind_bearing": 19,
+  "wind_speed": 3.04
+}

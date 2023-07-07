@@ -11,9 +11,11 @@
   "longitude": -81.03185,
   "location": "-81.03185,28.56308",
   "location_details": "Off Fort Christmas Road in East Orlando, FL. I could show you the area where we spotted the Bigfoot, we stopped and it smelled like garbage dump.",
-  "temperature_high": 85.86,
-  "temperature_mid": 77.455,
-  "temperature_low": 69.05,
+  "temperature": {
+    "high": 85.86,
+    "mid": 77.455,
+    "low": 69.05
+  },
   "dew_point": 68.16,
   "humidity": 0.75,
   "cloud_cover": 0.28,

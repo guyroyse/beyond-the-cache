@@ -11,9 +11,11 @@
   "longitude": -120.2758,
   "location": "-120.2758,47.19944",
   "location_details": "28 miles NE of Ellensburg - 1 mile from Clockum Game reserve. on the Rue and Cook Canyon roads.",
-  "temperature_high": 38,
-  "temperature_mid": 29.105,
-  "temperature_low": 20.21,
+  "temperature": {
+    "high": 38,
+    "mid": 29.105,
+    "low": 20.21
+  },
   "dew_point": 12.19,
   "humidity": 0.54,
   "cloud_cover": 0.79,

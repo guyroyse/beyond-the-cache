@@ -11,9 +11,11 @@
   "longitude": -75.9799,
   "location": "-75.9799,41.79985",
   "location_details": "it is on rual route 706west out of Montrose, in Jessup township. dense woods off of our property and a mountain behind them. a creek on property also.Heavy deer population in this area.",
-  "temperature_high": 26.42,
-  "temperature_mid": 21.265,
-  "temperature_low": 16.11,
+  "temperature": {
+    "high": 26.42,
+    "mid": 21.265,
+    "low": 16.11
+  },
   "dew_point": 21.4,
   "humidity": 0.85,
   "cloud_cover": 0.83,

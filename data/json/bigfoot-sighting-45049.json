@@ -11,9 +11,11 @@
   "longitude": -120.9783,
   "location": "-120.9783,47.1902",
   "location_details": "West bound I-90 just west of Cle Elum on the shoulder crossing from north to south, should still be footprints there.",
-  "temperature_high": 72.08,
-  "temperature_mid": 60.94,
-  "temperature_low": 49.8,
+  "temperature": {
+    "high": 72.08,
+    "mid": 60.94,
+    "low": 49.8
+  },
   "dew_point": 34.86,
   "humidity": 0.47,
   "cloud_cover": 0.04,

@@ -11,9 +11,11 @@
   "longitude": -83.95184,
   "location": "-83.95184,39.92104",
   "location_details": "Donnels Creek runs north and south, paralleling North Hampton Rd.  (edited)",
-  "temperature_high": 67.45,
-  "temperature_mid": 59.545,
-  "temperature_low": 51.64,
+  "temperature": {
+    "high": 67.45,
+    "mid": 59.545,
+    "low": 51.64
+  },
   "dew_point": 57.21,
   "humidity": 0.75,
   "cloud_cover": 0.84,

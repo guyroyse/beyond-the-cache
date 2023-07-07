@@ -11,9 +11,11 @@
   "longitude": -122.2719,
   "location": "-122.2719,46.84748",
   "location_details": "go over the train tracks and up the trail to the righ. pass through the field sticking to the right. Go down the hill with the metal cable attached to the tree. You'll get to the spot about 1/4 mile down",
-  "temperature_high": 57.18,
-  "temperature_mid": 50.99,
-  "temperature_low": 44.8,
+  "temperature": {
+    "high": 57.18,
+    "mid": 50.99,
+    "low": 44.8
+  },
   "dew_point": 41.35,
   "humidity": 0.76,
   "cloud_cover": 0.75,

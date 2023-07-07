@@ -11,9 +11,11 @@
   "longitude": -81.771,
   "location": "-81.771,30.069",
   "location_details": "This road passes from Interstate 10 to Hwy 21.",
-  "temperature_high": 86.54,
-  "temperature_mid": 80.58,
-  "temperature_low": 74.62,
+  "temperature": {
+    "high": 86.54,
+    "mid": 80.58,
+    "low": 74.62
+  },
   "dew_point": 73.59,
   "humidity": 0.79,
   "cloud_cover": 0.54,

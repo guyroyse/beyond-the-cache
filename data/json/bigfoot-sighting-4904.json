@@ -11,9 +11,11 @@
   "longitude": -105.4113,
   "location": "-105.4113,36.599",
   "location_details": "We were on the trail to Middle Fork Lake. Approximately 36.5990º N, 105.4113º W.",
-  "temperature_high": 63.61,
-  "temperature_mid": 47.77,
-  "temperature_low": 31.93,
+  "temperature": {
+    "high": 63.61,
+    "mid": 47.77,
+    "low": 31.93
+  },
   "dew_point": 15.31,
   "humidity": 0.23,
   "cloud_cover": 0.18,

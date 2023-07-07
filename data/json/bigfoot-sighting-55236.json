@@ -11,9 +11,11 @@
   "longitude": -98.3,
   "location": "-98.3,33.375",
   "location_details": "Incident occurred near several huge wild game ranches, very remote area.",
-  "temperature_high": 95.2,
-  "temperature_mid": 85.535,
-  "temperature_low": 75.87,
+  "temperature": {
+    "high": 95.2,
+    "mid": 85.535,
+    "low": 75.87
+  },
   "dew_point": 68.63,
   "humidity": 0.59,
   "cloud_cover": 0.05,

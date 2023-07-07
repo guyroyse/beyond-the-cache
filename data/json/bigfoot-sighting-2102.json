@@ -11,9 +11,11 @@
   "longitude": -123.866,
   "location": "-123.866,45.75449",
   "location_details": "The easest directions: Look on page 64 of the Delorme Oregon Atlas in section 2C and the location is in the ridges south of Anderson rd, north of Anderson creek. Our camp was on the creek, west of the gaging station",
-  "temperature_high": 66.26,
-  "temperature_mid": 62.32,
-  "temperature_low": 58.38,
+  "temperature": {
+    "high": 66.26,
+    "mid": 62.32,
+    "low": 58.38
+  },
   "dew_point": 53.12,
   "humidity": 0.85,
   "cloud_cover": 0.55,

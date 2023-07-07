@@ -11,9 +11,11 @@
   "longitude": -118.5333,
   "location": "-118.5333,37.76666",
   "location_details": "After some questioning, it was determined that these two hunters went north from Bishop, Ca. on Hwy. 6, and then went a short ways west on Hwy. 120. There they reached a very small town site, determined to be Benton Hot Springs, where there they went south a little ways.",
-  "temperature_high": 66.18,
-  "temperature_mid": 52.63,
-  "temperature_low": 39.08,
+  "temperature": {
+    "high": 66.18,
+    "mid": 52.63,
+    "low": 39.08
+  },
   "dew_point": 29.71,
   "humidity": 0.4,
   "cloud_cover": 0.09,

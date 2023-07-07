@@ -11,9 +11,11 @@
   "longitude": -121.7565,
   "location": "-121.7565,47.1998",
   "location_details": "Grass Mountain.",
-  "temperature_high": 76.29,
-  "temperature_mid": 65.125,
-  "temperature_low": 53.96,
+  "temperature": {
+    "high": 76.29,
+    "mid": 65.125,
+    "low": 53.96
+  },
   "dew_point": 54.24,
   "humidity": 0.72,
   "cloud_cover": 0.33,

@@ -11,9 +11,11 @@
   "longitude": -87.75156,
   "location": "-87.75156,41.53346",
   "location_details": "Just north of Vollmer Road on Central Avenue in South Green Belt Forest Preserve.",
-  "temperature_high": 85.86,
-  "temperature_mid": 79.85,
-  "temperature_low": 73.84,
+  "temperature": {
+    "high": 85.86,
+    "mid": 79.85,
+    "low": 73.84
+  },
   "dew_point": 69.65,
   "humidity": 0.76,
   "cloud_cover": 0.31,

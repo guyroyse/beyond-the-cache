@@ -11,9 +11,11 @@
   "longitude": -87.87157,
   "location": "-87.87157,45.7457",
   "location_details": "On the Menominee river outside of Norway Michigan in the upper peninsula of Michigan",
-  "temperature_high": 81.19,
-  "temperature_mid": 71.045,
-  "temperature_low": 60.9,
+  "temperature": {
+    "high": 81.19,
+    "mid": 71.045,
+    "low": 60.9
+  },
   "dew_point": 58.32,
   "humidity": 0.65,
   "cloud_cover": 0.02,

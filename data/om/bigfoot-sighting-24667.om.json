@@ -1,0 +1,35 @@
+{
+  "reportId": "24667",
+  "title": "Family vacationing in Pigeon Forge has two sightings on two consecutive nights driving down a mountain road",
+  "date": "2008-08-30",
+  "timestamp": 1220054400,
+  "observed": "It was about 10:30 at night.  We were driving down a road to go to out cabin in the forest and we saw a large (about 6 or 7 feet.) ape like creature walking down the hill in front of out car. We (Me my mom dad and brother.) all sat there in out seats in awe then drove away quickly.We had been there the last night  at about 12:30 at night I had been asleep and my parents saw the creature for the first time and said it was probably a bear and drove off. But after we saw it the second time we knew it was no bear. We came back the next morning after the second sighting and we met another family that said they had seen the same thing about the same time. They said it came within five feet of their car. I never did ask what the face of the creature looked like.",
+  "classification": "Class A",
+  "county": "Sevier",
+  "state": "Tennessee",
+  "latitude": 35.4745,
+  "longitude": -83.3032,
+  "location": {
+    "longitude": -83.3032,
+    "latitude": 35.4745
+  },
+  "location_details": "It was in the woods near some cabins that you could rent for a weekend.",
+  "temperature": {
+    "high": 87.22,
+    "mid": 76.42,
+    "low": 65.62
+  },
+  "dew_point": 62.66,
+  "humidity": 0.7,
+  "cloud_cover": 0.25,
+  "moon_phase": 0,
+  "precip_intensity": 0.0007,
+  "precip_probability": 0.08,
+  "precip_type": "rain",
+  "pressure": 1015.96,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 8,
+  "visibility": 7.16,
+  "wind_bearing": 48,
+  "wind_speed": 2.21
+}

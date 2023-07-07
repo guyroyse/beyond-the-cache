@@ -11,9 +11,11 @@
   "longitude": -92.37835,
   "location": "-92.37835,31.3799",
   "location_details": "Esler Field Road near the airport",
-  "temperature_high": 95.28,
-  "temperature_mid": 84.81,
-  "temperature_low": 74.34,
+  "temperature": {
+    "high": 95.28,
+    "mid": 84.81,
+    "low": 74.34
+  },
   "dew_point": 71.99,
   "humidity": 0.71,
   "cloud_cover": 0.75,

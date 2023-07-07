@@ -11,9 +11,11 @@
   "longitude": -119.9924,
   "location": "-119.9924,38.24805",
   "location_details": "Take Highway 108, past Strawberry to the Trail of the Gargoyles.",
-  "temperature_high": 86.29,
-  "temperature_mid": 71.06,
-  "temperature_low": 55.83,
+  "temperature": {
+    "high": 86.29,
+    "mid": 71.06,
+    "low": 55.83
+  },
   "dew_point": 43.46,
   "humidity": 0.38,
   "cloud_cover": 0.06,

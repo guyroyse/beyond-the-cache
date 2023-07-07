@@ -11,9 +11,11 @@
   "longitude": -94.98708,
   "location": "-94.98708,47.43842",
   "location_details": "we live on a dead end road",
-  "temperature_high": 17.24,
-  "temperature_mid": 12.145,
-  "temperature_low": 7.05,
+  "temperature": {
+    "high": 17.24,
+    "mid": 12.145,
+    "low": 7.05
+  },
   "dew_point": 9.46,
   "humidity": 0.83,
   "cloud_cover": 0.85,

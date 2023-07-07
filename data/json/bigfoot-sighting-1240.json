@@ -11,9 +11,11 @@
   "longitude": -109.7935,
   "location": "-109.7935,44.45584",
   "location_details": "Along the North Fork of the Shoshone River, on the road from Cody to the east gate Yellowstone entrance.",
-  "temperature_high": 47.71,
-  "temperature_mid": 37.385,
-  "temperature_low": 27.06,
+  "temperature": {
+    "high": 47.71,
+    "mid": 37.385,
+    "low": 27.06
+  },
   "dew_point": 20.51,
   "humidity": 0.55,
   "cloud_cover": 0.17,

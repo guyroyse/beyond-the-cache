@@ -11,9 +11,11 @@
   "longitude": -94.91264,
   "location": "-94.91264,42.23576",
   "location_details": "Auburn Iowa south west of town in the rural route area.",
-  "temperature_high": 81.87,
-  "temperature_mid": 69.025,
-  "temperature_low": 56.18,
+  "temperature": {
+    "high": 81.87,
+    "mid": 69.025,
+    "low": 56.18
+  },
   "dew_point": 61,
   "humidity": 0.76,
   "cloud_cover": 0.15,

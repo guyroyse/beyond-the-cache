@@ -11,9 +11,11 @@
   "longitude": -81.3615,
   "location": "-81.3615,26.0645",
   "location_details": "I am not sure if I got the correct highway or even the county (it may be the county south of dade). We grew up in Miami Springs and we took 2hr trips to the Everglades to the south.",
-  "temperature_high": 86.06,
-  "temperature_mid": 80.855,
-  "temperature_low": 75.65,
+  "temperature": {
+    "high": 86.06,
+    "mid": 80.855,
+    "low": 75.65
+  },
   "dew_point": 74,
   "humidity": 0.81,
   "cloud_cover": 0.6,

@@ -11,9 +11,11 @@
   "longitude": -88.9949,
   "location": "-88.9949,36.9372",
   "location_details": "Hwy. 121 heading toward Mayfield KY. Coming out of Wickliffe KY. What they call the Bottoms area in Ballard Co. Kentucky, approx. 20 miles distance to either Mayfield, or Wickliffe Ky.",
-  "temperature_high": 47.93,
-  "temperature_mid": 47.18,
-  "temperature_low": 46.43,
+  "temperature": {
+    "high": 47.93,
+    "mid": 47.18,
+    "low": 46.43
+  },
   "dew_point": 40.8,
   "humidity": 0.87,
   "cloud_cover": 1,

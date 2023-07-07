@@ -11,9 +11,11 @@
   "longitude": -94.07877,
   "location": "-94.07877,47.76524",
   "location_details": "Within the marked trails in the Lost Forty scientific research area. Within the Chippewa National Forest. It is easy to find on Google maps.",
-  "temperature_high": 64.15,
-  "temperature_mid": 61.175,
-  "temperature_low": 58.2,
+  "temperature": {
+    "high": 64.15,
+    "mid": 61.175,
+    "low": 58.2
+  },
   "dew_point": 58.03,
   "humidity": 0.88,
   "cloud_cover": 0.35,

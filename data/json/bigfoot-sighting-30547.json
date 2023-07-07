@@ -11,9 +11,11 @@
   "longitude": -81.86789,
   "location": "-81.86789,29.36953",
   "location_details": "Just about 2 miles south of county road 316 on dirt road 1 (old name was 67)",
-  "temperature_high": 82.93,
-  "temperature_mid": 76.465,
-  "temperature_low": 70,
+  "temperature": {
+    "high": 82.93,
+    "mid": 76.465,
+    "low": 70
+  },
   "dew_point": 62.07,
   "humidity": 0.76,
   "cloud_cover": 0.54,

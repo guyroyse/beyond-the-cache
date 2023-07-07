@@ -11,9 +11,11 @@
   "longitude": -93.20389,
   "location": "-93.20389,33.88861",
   "location_details": "Hwy 67 travels beside I-30. This incident occured between Gurdon,AR. and Prescott,AR. The easiest way to get there is to get off the interstate at the Gurdon exit and travel to hwy 67. Turn Right until you come upon the left turn to Biern. Turn left off of hwy 67, cross the RR tracks and turn right. Travel until you come upon the T in the road or until you are able to cross the tracks on the right again. There on that sight hill where the road crosses the tracks is where the creature stood for a short time. You can then continue on the road that will turn left for approx. another 1\\4 mile to where our truck was. All of this area has changed since the logging started, so take what directions I have given into consideration.",
-  "temperature_high": 70.85,
-  "temperature_mid": 56.34,
-  "temperature_low": 41.83,
+  "temperature": {
+    "high": 70.85,
+    "mid": 56.34,
+    "low": 41.83
+  },
   "dew_point": 37.14,
   "humidity": 0.48,
   "cloud_cover": 0.21,

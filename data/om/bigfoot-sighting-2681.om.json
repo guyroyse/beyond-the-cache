@@ -1,0 +1,34 @@
+{
+  "reportId": "2681",
+  "title": "Hunters, father and son, find track on Wagner Peak",
+  "date": "1995-09-23",
+  "timestamp": 811814400,
+  "observed": "Several years ago while hunting in southern Oregon on top of Wagner peak just southwest of Ashland Oregon, My father and I happened across A very large almost humon type track in the snow , it appeared to be 14 to 18 inches long ,6 or maybe 7 inches wide , the snow had been melting but it was no humon footprint , there were five distintive toes , and what looked like another heal print about 4 or 5 feet ahead of the other. On other hunting trips I have smelled very foul odor in that general area. And no sign of any wildlife at all . Its been atleast five years sence ive been up there. Its diffacult to give an exact location without showing someone, but its around a mile or two below the peak by trail where i saw the tracks onthe southwest side. However the odors seem to be mostly allways on the southeast side and east side in the heavy timber.",
+  "classification": "Class B",
+  "county": "Jackson",
+  "state": "Oregon",
+  "latitude": 42.08845,
+  "longitude": -122.7465,
+  "location": {
+    "longitude": -122.7465,
+    "latitude": 42.08845
+  },
+  "location_details": "the best way ive found to get there is 7 mile up 2060 and find the old forest service trail ,hike about 2 miles to the dencely forested slopes south of wagner peak up in the asland water shed. however there is a good trail up from wagner cr.rd.",
+  "temperature": {
+    "high": 78.45,
+    "mid": 68.12,
+    "low": 57.79
+  },
+  "dew_point": 44.91,
+  "humidity": 0.49,
+  "cloud_cover": 0.36,
+  "moon_phase": 0.96,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1013.55,
+  "summary": "Mostly cloudy starting in the afternoon.",
+  "uv_index": 5,
+  "visibility": 9.54,
+  "wind_bearing": 173,
+  "wind_speed": 0.67
+}

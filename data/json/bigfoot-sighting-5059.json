@@ -11,9 +11,11 @@
   "longitude": -91.07,
   "location": "-91.07,39.445",
   "location_details": "Most of the occurences happened on property that is no longer owned by my grandparents.  I do not know the name of the gravel road, but it is easy to find.  All occurences happened on this gravel road that is off of 54 and circles around several miles to another exit onto Highway 54.  My grandparents home was off the gravel road down a small lane that went a couple a miles back.  At that time the lane was heavily wooded on both sides.  Now it is unaccesible, the land having been made into a cow pasture and the trees pretty much have been bulldozed off years ago.",
-  "temperature_high": 43.49,
-  "temperature_mid": 39.94,
-  "temperature_low": 36.39,
+  "temperature": {
+    "high": 43.49,
+    "mid": 39.94,
+    "low": 36.39
+  },
   "dew_point": 36.58,
   "humidity": 0.85,
   "cloud_cover": 0.99,

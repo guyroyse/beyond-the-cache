@@ -11,9 +11,11 @@
   "longitude": -81.48593,
   "location": "-81.48593,36.62492",
   "location_details": "It was the first pull over on the right hand side after the registration building on your left.",
-  "temperature_high": 63.83,
-  "temperature_mid": 55.91,
-  "temperature_low": 47.99,
+  "temperature": {
+    "high": 63.83,
+    "mid": 55.91,
+    "low": 47.99
+  },
   "dew_point": 43.81,
   "humidity": 0.64,
   "cloud_cover": 0.51,

@@ -11,9 +11,11 @@
   "longitude": -123.4166,
   "location": "-123.4166,44.58335",
   "location_details": "Where I saw this thing was on the outside of Philomath when you're leaving and there's a road to King's Valley.  You take that right and on that road take another right and down that road there's an old abandoned mill and beside that there's a pond and a path. If you take the path, you will see that there are little areas of connecting streams that run off the pond. I saw it drinking out of one of them.",
-  "temperature_high": 75.97,
-  "temperature_mid": 66,
-  "temperature_low": 56.03,
+  "temperature": {
+    "high": 75.97,
+    "mid": 66,
+    "low": 56.03
+  },
   "dew_point": 54.35,
   "humidity": 0.74,
   "cloud_cover": 0.22,

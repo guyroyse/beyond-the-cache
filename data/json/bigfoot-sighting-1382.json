@@ -11,9 +11,11 @@
   "longitude": -121.9258,
   "location": "-121.9258,47.2831",
   "location_details": "Logging road that connects the county road with the Weyerhauser haul road from the watershed.",
-  "temperature_high": 49.92,
-  "temperature_mid": 43.25,
-  "temperature_low": 36.58,
+  "temperature": {
+    "high": 49.92,
+    "mid": 43.25,
+    "low": 36.58
+  },
   "dew_point": 34.89,
   "humidity": 0.77,
   "cloud_cover": 0.65,

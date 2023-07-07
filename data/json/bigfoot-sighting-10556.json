@@ -11,9 +11,11 @@
   "longitude": -83.0452,
   "location": "-83.0452,36.9265",
   "location_details": "Take 119 north to southeast Cummnity college turn right onto 179 very steep and dangerous.",
-  "temperature_high": 29.47,
-  "temperature_mid": 19.95,
-  "temperature_low": 10.43,
+  "temperature": {
+    "high": 29.47,
+    "mid": 19.95,
+    "low": 10.43
+  },
   "dew_point": 20.84,
   "humidity": 0.78,
   "cloud_cover": 0.89,

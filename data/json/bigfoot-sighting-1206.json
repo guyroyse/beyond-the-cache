@@ -11,9 +11,11 @@
   "longitude": -79.42547,
   "location": "-79.42547,38.95242",
   "location_details": "Monongahela National forest-West Virginia- Dolly Sods: Petersburg Forest road 75",
-  "temperature_high": 64.87,
-  "temperature_mid": 57.65,
-  "temperature_low": 50.43,
+  "temperature": {
+    "high": 64.87,
+    "mid": 57.65,
+    "low": 50.43
+  },
   "dew_point": 52,
   "humidity": 0.81,
   "cloud_cover": 0.63,

@@ -11,9 +11,11 @@
   "longitude": -97.41755,
   "location": "-97.41755,38.19744",
   "location_details": "after the s curve and before Dutch Ave intersection",
-  "temperature_high": 63.94,
-  "temperature_mid": 55.195,
-  "temperature_low": 46.45,
+  "temperature": {
+    "high": 63.94,
+    "mid": 55.195,
+    "low": 46.45
+  },
   "dew_point": 29.57,
   "humidity": 0.6,
   "cloud_cover": 0,

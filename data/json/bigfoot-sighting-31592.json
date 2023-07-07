@@ -11,9 +11,11 @@
   "longitude": -85.30701,
   "location": "-85.30701,43.857",
   "location_details": "West of Pecks Lake, next to 55 acres of state land on the South West corner of that properety but not on the state land but on private land just south of that border.",
-  "temperature_high": 43.65,
-  "temperature_mid": 39.12,
-  "temperature_low": 34.59,
+  "temperature": {
+    "high": 43.65,
+    "mid": 39.12,
+    "low": 34.59
+  },
   "dew_point": 29.72,
   "humidity": 0.68,
   "cloud_cover": 0.8,

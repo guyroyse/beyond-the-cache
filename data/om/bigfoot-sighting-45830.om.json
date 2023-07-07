@@ -1,0 +1,34 @@
+{
+  "reportId": "45830",
+  "title": "Motorist has possible nighttime sighting in the Forest Preserves outside Chicago",
+  "date": "2014-07-11",
+  "timestamp": 1405036800,
+  "observed": "I was driving home from my shift at UPS at about 4 a.m. last night.  Traveling east on 95th street, most likely before Lagrange road, but I am not certain of which main cross street I was near, because I normally don't take 95th home.  I was still in a heavily wooded area. As we were driving something darted out in front of me, perhaps a block or so ahead, it ran across the street from left (north) to right.  I thought it could have been a person, but it ran across the street really fast, like someone with those fancy prosthetic legs.  As I approached the area, I slowed  down to see if there was someone there, but no person was in sight. Like I said, it was tall, thin, and ran fast, like it only had to take a few steps to cross both lanes.",
+  "classification": "Class B",
+  "county": "Cook",
+  "state": "Illinois",
+  "latitude": 41.7173,
+  "longitude": -87.8617,
+  "location": {
+    "longitude": -87.8617,
+    "latitude": 41.7173
+  },
+  "location_details": "On 95th Street west of LaGrange Road in Country Lane Woods which is part of Forest Preserves of Cook County.",
+  "temperature": {
+    "high": 78.38,
+    "mid": 74.48,
+    "low": 70.58
+  },
+  "dew_point": 54.88,
+  "humidity": 0.59,
+  "cloud_cover": 0.14,
+  "moon_phase": 0.47,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1021.17,
+  "summary": "Partly cloudy overnight.",
+  "uv_index": 9,
+  "visibility": 9.99,
+  "wind_bearing": 159,
+  "wind_speed": 4.58
+}

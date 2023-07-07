@@ -11,9 +11,11 @@
   "longitude": -121.0922,
   "location": "-121.0922,46.98333",
   "location_details": "I haven't been there in years, but an area map would have Milk Lake on it, and the pond is on the way up to it, they clear cut the area, about the time we stopped going there, wasn't as pretty any more.",
-  "temperature_high": 66.06,
-  "temperature_mid": 59.62,
-  "temperature_low": 53.18,
+  "temperature": {
+    "high": 66.06,
+    "mid": 59.62,
+    "low": 53.18
+  },
   "dew_point": 52.76,
   "humidity": 0.76,
   "cloud_cover": 0.83,

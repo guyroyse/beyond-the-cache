@@ -11,9 +11,11 @@
   "longitude": -88.50196,
   "location": "-88.50196,40.82546",
   "location_details": "Take Billit road south out of Pontiac. Turn left on McDowell road or what they call 1400 north. Turn right on CO HWY 6 and then left immediately on Township Road. I think the old river bridge is gone now.",
-  "temperature_high": 64.98,
-  "temperature_mid": 57.765,
-  "temperature_low": 50.55,
+  "temperature": {
+    "high": 64.98,
+    "mid": 57.765,
+    "low": 50.55
+  },
   "dew_point": 47.89,
   "humidity": 0.7,
   "cloud_cover": 0.74,

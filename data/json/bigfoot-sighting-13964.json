@@ -11,9 +11,11 @@
   "longitude": -112,
   "location": "-112,36.4",
   "location_details": "We Were camped at a location listed on the maps as \"Big Saddle\". It is about 1/2 mile from the north rim of the Grand Canyon. The only two ways into this area are from the 89 near Page, az. or coming south from Utah and going through Fredonia. The area is a maze of fire and logging roads.",
-  "temperature_high": 60.44,
-  "temperature_mid": 51.64,
-  "temperature_low": 42.84,
+  "temperature": {
+    "high": 60.44,
+    "mid": 51.64,
+    "low": 42.84
+  },
   "dew_point": 30.31,
   "humidity": 0.49,
   "cloud_cover": 0.43,

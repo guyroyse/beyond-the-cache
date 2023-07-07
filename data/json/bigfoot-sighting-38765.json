@@ -11,9 +11,11 @@
   "longitude": -90.19624,
   "location": "-90.19624,40.48724",
   "location_details": "Cuba, IL  cemetery, at and near the edge of town",
-  "temperature_high": 90.92,
-  "temperature_mid": 82.72,
-  "temperature_low": 74.52,
+  "temperature": {
+    "high": 90.92,
+    "mid": 82.72,
+    "low": 74.52
+  },
   "dew_point": 74.67,
   "humidity": 0.76,
   "cloud_cover": 0.23,

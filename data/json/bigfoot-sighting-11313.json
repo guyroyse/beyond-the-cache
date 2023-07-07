@@ -11,9 +11,11 @@
   "longitude": -120.2238,
   "location": "-120.2238,47.2637",
   "location_details": "about 3.3 Miles up the Ingersol Road.  N 47 15.824 W 120 13.426",
-  "temperature_high": 59.46,
-  "temperature_mid": 49.12,
-  "temperature_low": 38.78,
+  "temperature": {
+    "high": 59.46,
+    "mid": 49.12,
+    "low": 38.78
+  },
   "dew_point": 31.61,
   "humidity": 0.55,
   "cloud_cover": 0.25,

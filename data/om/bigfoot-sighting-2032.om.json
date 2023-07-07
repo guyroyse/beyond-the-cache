@@ -1,0 +1,35 @@
+{
+  "reportId": "2032",
+  "title": "Creature observed kneeling beside a creek late at night",
+  "date": "1996-10-31",
+  "timestamp": 846720000,
+  "observed": "It was on Halloween night in 1996.  I had taken my younger brother, a high school senior at the time, to Veteran's Lake inside the Chickisaw National Recreation Area in Sulphur, Oklahoma because some of his friends from the high school band were going to meet that night to try and see the \"Lady of the Lake\" (a local myth).  As we went to the lake I was rather preoccupied with the conversation I was having with my brother so I did not pay close attention to the events going on around us, if any. After dropping him off to hang out with his friends I left to return home. As I drove back down toward the 12th street entrance to the park I drove over the Rock Creek Bridge which crosses Rock Creek just a few yards south of the Rock Creek camp grounds.  As I drove over the low water bridge I saw a figure squatted at the edge of the creek about 20 yards east, down river from the bridge.  It was quite large, at least 4.5 to 5 feet tall in the squatted position.  I drove on down a little ways and turned the car around.  I went back to the bridge and pulled to where my head lights would shine down creek as well as possible.  It was still there.  It was on the balls of its feet with its hands in the water.  The creature was huge and hairy.  The dark hair was shiny in the car light but it was hard to make out the exact color.  For what was only a few seconds I am sure ( but seemed like at least 15 minutes) I watched the creature.  It did not even glorify my presence with a glance.  It merely rose up, walked accross the creek, up the bank and off into the trees.  What amazed me the most was that there are street lights along that park road and the city of Sulphur is only about a half a mile away.",
+  "classification": "Class A",
+  "county": "Murray",
+  "state": "Oklahoma",
+  "latitude": 34.495,
+  "longitude": -96.972,
+  "location": {
+    "longitude": -96.972,
+    "latitude": 34.495
+  },
+  "location_details": "The Chickasaw National Recreation Area is quite easy to find as it is the only National Park in Oklahoma.  It is located in the city of Sulphur off of Highway 7.",
+  "temperature": {
+    "high": 50.72,
+    "mid": 44.845,
+    "low": 38.97
+  },
+  "dew_point": 43.33,
+  "humidity": 0.87,
+  "cloud_cover": 0.81,
+  "moon_phase": 0.67,
+  "precip_intensity": 0.0192,
+  "precip_probability": 0.83,
+  "precip_type": "rain",
+  "pressure": 1018.04,
+  "summary": "Rain until afternoon, starting again overnight, and breezy overnight.",
+  "uv_index": 2,
+  "visibility": 6.68,
+  "wind_bearing": 29,
+  "wind_speed": 10.77
+}

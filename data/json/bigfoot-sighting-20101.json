@@ -11,9 +11,11 @@
   "longitude": -79.3686,
   "location": "-79.3686,38.835",
   "location_details": "Take route 28 to it or map quest Seneca Rocks",
-  "temperature_high": 74.16,
-  "temperature_mid": 63.55,
-  "temperature_low": 52.94,
+  "temperature": {
+    "high": 74.16,
+    "mid": 63.55,
+    "low": 52.94
+  },
   "dew_point": 46.87,
   "humidity": 0.6,
   "cloud_cover": 0.1,

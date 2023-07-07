@@ -11,9 +11,11 @@
   "longitude": -87.94178,
   "location": "-87.94178,43.89418",
   "location_details": "North of Sheboygan/Manitowoc Co line.",
-  "temperature_high": 42.05,
-  "temperature_mid": 38.52,
-  "temperature_low": 34.99,
+  "temperature": {
+    "high": 42.05,
+    "mid": 38.52,
+    "low": 34.99
+  },
   "dew_point": 34.05,
   "humidity": 0.76,
   "cloud_cover": 0.95,

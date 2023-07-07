@@ -11,9 +11,11 @@
   "longitude": -82.29162,
   "location": "-82.29162,39.78594",
   "location_details": "Just off of State Route 668 south of Somerset, Ohio. The parking lot is at the dam.",
-  "temperature_high": 87.41,
-  "temperature_mid": 76.59,
-  "temperature_low": 65.77,
+  "temperature": {
+    "high": 87.41,
+    "mid": 76.59,
+    "low": 65.77
+  },
   "dew_point": 59.89,
   "humidity": 0.65,
   "cloud_cover": 0.35,

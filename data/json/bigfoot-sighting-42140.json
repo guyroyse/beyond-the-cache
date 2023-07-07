@@ -11,9 +11,11 @@
   "longitude": -87.60593,
   "location": "-87.60593,41.40762",
   "location_details": "Take 394 to Goodenow Road, if heading south take a left on Goodenow Road. Take to Dutton, there is a sign on the corner of Dutton for the preserve.",
-  "temperature_high": 48.21,
-  "temperature_mid": 40.365,
-  "temperature_low": 32.52,
+  "temperature": {
+    "high": 48.21,
+    "mid": 40.365,
+    "low": 32.52
+  },
   "dew_point": 32.14,
   "humidity": 0.72,
   "cloud_cover": 0.26,

@@ -11,9 +11,11 @@
   "longitude": -96.60222,
   "location": "-96.60222,35.26808",
   "location_details": "The area had very few homes at the time and the road was lightly traveled.",
-  "temperature_high": 51.53,
-  "temperature_mid": 45.005,
-  "temperature_low": 38.48,
+  "temperature": {
+    "high": 51.53,
+    "mid": 45.005,
+    "low": 38.48
+  },
   "dew_point": 40.75,
   "humidity": 0.79,
   "cloud_cover": 0.66,

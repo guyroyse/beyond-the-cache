@@ -11,9 +11,11 @@
   "longitude": -121.8165,
   "location": "-121.8165,44.6335",
   "location_details": "Pacific Crest Trail north of highway 20 About two days' hiking north of highway 20.",
-  "temperature_high": 92.96,
-  "temperature_mid": 72.195,
-  "temperature_low": 51.43,
+  "temperature": {
+    "high": 92.96,
+    "mid": 72.195,
+    "low": 51.43
+  },
   "dew_point": 44.44,
   "humidity": 0.43,
   "cloud_cover": 0,

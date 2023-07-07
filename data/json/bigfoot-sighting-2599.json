@@ -11,9 +11,11 @@
   "longitude": -123.6288,
   "location": "-123.6288,46.9705",
   "location_details": "1. Abbott Hill 2. Worman's Bar 3. Elma Gate 4. Porter Creek",
-  "temperature_high": 60.09,
-  "temperature_mid": 53.555,
-  "temperature_low": 47.02,
+  "temperature": {
+    "high": 60.09,
+    "mid": 53.555,
+    "low": 47.02
+  },
   "dew_point": 44.81,
   "humidity": 0.72,
   "cloud_cover": 0.84,

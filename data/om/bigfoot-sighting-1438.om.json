@@ -1,0 +1,35 @@
+{
+  "reportId": "1438",
+  "title": "Barefoot tracks and whistling heard while hunting",
+  "date": "2000-10-28",
+  "timestamp": 972691200,
+  "observed": "First of all I don't know if this incident is a big deal or not, but I been a outdoorsman for many years and it kind of caught my attention. I was Elk hunting in the Bumping river area of Yakima County. I was walking up the American ridge trail in the am Hours. I had reached a portion of the the trail that was flat and had soft dirt. I noticed a foot print on the trail. My first thought was why would someone walk barefooted up on the mountain. The track was not large. It looked like a slender womans foot print. I followed the track up the trail for about six to eight feet and I then lost sight of the track. I continued walking and I heard a wierd whistling sound. It wasn't real loud, but I definetly didn't recognize it. I started to put things together in my mind (Track/Whistle) and the hair on the back of my neck stood up. I continued up the trail and eventually sat down to watch a draw for any elk that may be crossing. I again heard the whistling sound. I have been hunting in this exact area since about 1977 including other places and I don't recall hearing a similair sound. Looking back now, It seems even more strange that if the foot print was in fact a person that had taken off their shoes to fix their socks or whatever, why would they walk up the trail, especially in late October?",
+  "classification": "Class B",
+  "county": "Yakima",
+  "state": "Washington",
+  "latitude": 46.93333,
+  "longitude": -121.2692,
+  "location": {
+    "longitude": -121.2692,
+    "latitude": 46.93333
+  },
+  "location_details": "On the Bumping Lake Rd, 3/4 of a mile up the trail to American Ridge, near Cougar Flats.",
+  "temperature": {
+    "high": 52.82,
+    "mid": 47.925,
+    "low": 43.03
+  },
+  "dew_point": 41.36,
+  "humidity": 0.78,
+  "cloud_cover": 0.8,
+  "moon_phase": 0.05,
+  "precip_intensity": 0.0109,
+  "precip_probability": 0.92,
+  "precip_type": "rain",
+  "pressure": 999.99,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 8.64,
+  "wind_bearing": 167,
+  "wind_speed": 7.95
+}

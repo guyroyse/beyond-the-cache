@@ -11,9 +11,11 @@
   "longitude": -121.8214,
   "location": "-121.8214,45.49805",
   "location_details": "A camping sight called Lost Lake.  Mt.Hood is very visible from the lake and is probably about 10-15 miles away from it.  I was taken there so I do not remember the directions",
-  "temperature_high": 66.9,
-  "temperature_mid": 60.425,
-  "temperature_low": 53.95,
+  "temperature": {
+    "high": 66.9,
+    "mid": 60.425,
+    "low": 53.95
+  },
   "dew_point": 51.38,
   "humidity": 0.69,
   "cloud_cover": 0.79,

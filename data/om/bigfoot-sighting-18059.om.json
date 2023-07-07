@@ -1,0 +1,34 @@
+{
+  "reportId": "18059",
+  "title": "Possible footprints found five miles east of Vandalia.",
+  "date": "1998-09-26",
+  "timestamp": 906768000,
+  "observed": "My wife and I were out driving around checking out the countryside and came across this park. We got out to take a walk and enjoy the weather and the woods. We decided to walk the foot path. I started to take pictures of the lake and the trees. When we started down the path I noticed some tracks crossing the path. I told my wife to come look. The foot prints came from the lake across the path and in to the woods. I told her these look like bigfoot prints so I took some photos of them. When I think back it was real quiet and it felt like somebody was watching us.",
+  "classification": "Class B",
+  "county": "Fayette",
+  "state": "Illinois",
+  "latitude": 39,
+  "longitude": -89,
+  "location": {
+    "longitude": -89,
+    "latitude": 39
+  },
+  "location_details": "For some reason I can't remember how we found the park.",
+  "temperature": {
+    "high": 90.55,
+    "mid": 79.835,
+    "low": 69.12
+  },
+  "dew_point": 65.38,
+  "humidity": 0.65,
+  "cloud_cover": 0.01,
+  "moon_phase": 0.18,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1013.95,
+  "summary": "Clear throughout the day.",
+  "uv_index": 5,
+  "visibility": 7.95,
+  "wind_bearing": 195,
+  "wind_speed": 10.03
+}

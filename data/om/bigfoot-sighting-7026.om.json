@@ -1,0 +1,35 @@
+{
+  "reportId": "7026",
+  "title": "Three teenage boys witness an ape-like creature lope across a field into the woods",
+  "date": "1963-07-01",
+  "timestamp": -205286400,
+  "observed": "This incident occurred about forty years ago and may not be of interest, but I'm going to relate what happened anyway. Two other teenage neighbors and I were sitting in a large yard in a rural setting one summer evening talking. All of a sudden, the property owners dog ran from behind the barn yelping. Our approximate sitting position in relation to the dog was I'd say 70 to 80 ft. What surprised us initially was that this big boxer dog was afraid of nothing. The three of us turned in unison to see a large creature come from behind the barn that I would describe as resembling part bear, part ape and part human. It was about seven feet tall, and it had rather long, dirty, reddish brown hair. I would best describe the creature's gait as a fast \"lope.\"  What I mean is that it would bring its right leg to its left and repeat the same movement in a quick manner while swinging its arms in a fully extended and relaxed manner (kind of difficult to describe). It moved from our left to our right. It \"loped\" across the yard, across the road and into the woods. It was the time of evening that it was starting to get dark. I said to the other two boys...let's get knives and flashlights and investigate. When we had assembled the gear we followed the creature's path to the edge of the woods. Although we were young and full of bravado, we weren't brave enough to actually go into the woods. We instead shined our flashlights into the woods from a safe distance. We could see in the lights reflection two bright pink eyes looking back at us. Well, what little bravado that we had evaporated and we ran home. Although this event occurred about forty years ago, I can still see it in my mind as though it happened yesterday.",
+  "classification": "Class A",
+  "county": "Ashland",
+  "state": "Ohio",
+  "latitude": 40.85035,
+  "longitude": -82.29486,
+  "location": {
+    "longitude": -82.29486,
+    "latitude": 40.85035
+  },
+  "location_details": "Rural area, about two miles outside of town.",
+  "temperature": {
+    "high": 89.22,
+    "mid": 80.425,
+    "low": 71.63
+  },
+  "dew_point": 67.54,
+  "humidity": 0.71,
+  "cloud_cover": 0.43,
+  "moon_phase": 0.33,
+  "precip_intensity": 0.008,
+  "precip_probability": 0.25,
+  "precip_type": "rain",
+  "pressure": 1019.18,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 8,
+  "visibility": 5.19,
+  "wind_bearing": 204,
+  "wind_speed": 1.68
+}

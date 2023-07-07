@@ -11,9 +11,11 @@
   "longitude": -80.57396,
   "location": "-80.57396,40.69334",
   "location_details": "On a dairy farm [ between Calcutta (Ohio) and East Liverpool]",
-  "temperature_high": 74.21,
-  "temperature_mid": 64.005,
-  "temperature_low": 53.8,
+  "temperature": {
+    "high": 74.21,
+    "mid": 64.005,
+    "low": 53.8
+  },
   "dew_point": 62.6,
   "humidity": 0.85,
   "cloud_cover": 0.91,

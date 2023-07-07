@@ -1,0 +1,35 @@
+{
+  "reportId": "28237",
+  "title": "Weekend camping trip in the Green Swamp is interrupted by a hairy, bipedal intruder",
+  "date": "2010-09-05",
+  "timestamp": 1283644800,
+  "observed": "hi my name is eric and i felt i needed to write this.me and 3 friends were camping in richlom wild life management area on labor day weekend we were just sitting around the fire when all of the sudden i noticed it got very quiet and all the bugs disappered then we haerd what sounded like a tree being up rooted so we grabbed the spotlight and started searching what it was we found a good sized pine tree half pushed over then we sat back down and as soon as we did we haerd a very very odd growl then we stood back up and started panning the spotlight when we saw a very hairy 11ft object we stood motionless as we looked at it then it darted off and then thats when i left camp site and went home my number is *** *** **** if you have any questions thank you.",
+  "classification": "Class A",
+  "county": "Sumter",
+  "state": "Florida",
+  "latitude": 28.50566,
+  "longitude": -81.97483,
+  "location": {
+    "longitude": -81.97483,
+    "latitude": 28.50566
+  },
+  "location_details": "take hwy 50 west till baylake on left drive till you hit the woods drive till you hit the 4 way take a right follow till 2nd camp on left.",
+  "temperature": {
+    "high": 88.35,
+    "mid": 81.595,
+    "low": 74.84
+  },
+  "dew_point": 74.08,
+  "humidity": 0.82,
+  "cloud_cover": 0.4,
+  "moon_phase": 0.9,
+  "precip_intensity": 0.022,
+  "precip_probability": 0.82,
+  "precip_type": "rain",
+  "pressure": 1015.1,
+  "summary": "Heavy rain starting in the afternoon, continuing until evening.",
+  "uv_index": 8,
+  "visibility": 8.92,
+  "wind_bearing": 265,
+  "wind_speed": 0.9
+}

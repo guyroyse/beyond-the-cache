@@ -11,9 +11,11 @@
   "longitude": -118.9614,
   "location": "-118.9614,37.2804",
   "location_details": "Jackass Meadow campground, on the outskirts of camp.",
-  "temperature_high": 101.5,
-  "temperature_mid": 83.785,
-  "temperature_low": 66.07,
+  "temperature": {
+    "high": 101.5,
+    "mid": 83.785,
+    "low": 66.07
+  },
   "dew_point": 56.23,
   "humidity": 0.4,
   "cloud_cover": 0.05,

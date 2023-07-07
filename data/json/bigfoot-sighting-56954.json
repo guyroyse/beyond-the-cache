@@ -11,9 +11,11 @@
   "longitude": -92.57542,
   "location": "-92.57542,34.20873",
   "location_details": "It was on a unnamed, graveled woods road near the Jenkins Ferry Battleground Historical Monument.",
-  "temperature_high": 71.1,
-  "temperature_mid": 66.29,
-  "temperature_low": 61.48,
+  "temperature": {
+    "high": 71.1,
+    "mid": 66.29,
+    "low": 61.48
+  },
   "dew_point": 55.39,
   "humidity": 0.76,
   "cloud_cover": 0.89,

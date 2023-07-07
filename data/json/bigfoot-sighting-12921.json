@@ -11,9 +11,11 @@
   "longitude": -82.42,
   "location": "-82.42,29.098",
   "location_details": "Rainbow Springs State Park FL. Dunnellon, FL is a small town about 100 miles north of Tampa.",
-  "temperature_high": 77.5,
-  "temperature_mid": 65.37,
-  "temperature_low": 53.24,
+  "temperature": {
+    "high": 77.5,
+    "mid": 65.37,
+    "low": 53.24
+  },
   "dew_point": 54.84,
   "humidity": 0.76,
   "cloud_cover": 0.35,

@@ -11,9 +11,11 @@
   "longitude": -80.59502,
   "location": "-80.59502,25.39544",
   "location_details": "Pine Forest Habitat on the Everglades National Park Road (first habitat on the right when heading west)",
-  "temperature_high": 74.5,
-  "temperature_mid": 69.2,
-  "temperature_low": 63.9,
+  "temperature": {
+    "high": 74.5,
+    "mid": 69.2,
+    "low": 63.9
+  },
   "dew_point": 57.69,
   "humidity": 0.7,
   "cloud_cover": 0.5,

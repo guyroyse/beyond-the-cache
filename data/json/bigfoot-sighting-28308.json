@@ -11,9 +11,11 @@
   "longitude": -122.215,
   "location": "-122.215,48.308",
   "location_details": "Pilchuck tree farm. Near Centennial Trail. Lake McMurray side.",
-  "temperature_high": 65.83,
-  "temperature_mid": 57.94,
-  "temperature_low": 50.05,
+  "temperature": {
+    "high": 65.83,
+    "mid": 57.94,
+    "low": 50.05
+  },
   "dew_point": 50,
   "humidity": 0.75,
   "cloud_cover": 0.41,

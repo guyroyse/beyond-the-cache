@@ -11,9 +11,11 @@
   "longitude": -92.30614,
   "location": "-92.30614,36.38605",
   "location_details": "State highway #62 east from Mountain Home for about two miles, then left (north) on Mallard Point Road  for about about one mile to its intersection with Ridgecrest Drive. The intersection is the sighting location.",
-  "temperature_high": 41.2,
-  "temperature_mid": 32.745,
-  "temperature_low": 24.29,
+  "temperature": {
+    "high": 41.2,
+    "mid": 32.745,
+    "low": 24.29
+  },
   "dew_point": 24.5,
   "humidity": 0.69,
   "cloud_cover": 0.64,

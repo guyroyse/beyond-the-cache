@@ -11,9 +11,11 @@
   "longitude": -80.89,
   "location": "-80.89,36.932",
   "location_details": "Head on N I-81 Turn right onto VA-619 S/Major Graham Rd Continue to follow VA-619 S Turn right onto Red Hollow Rd/State Route 629 Destination will be on the right Wytheville State Fish Hatchery 1260 Red Hollow Road, Max Meadows, VA 24360",
-  "temperature_high": 86.13,
-  "temperature_mid": 75.035,
-  "temperature_low": 63.94,
+  "temperature": {
+    "high": 86.13,
+    "mid": 75.035,
+    "low": 63.94
+  },
   "dew_point": 63.63,
   "humidity": 0.74,
   "cloud_cover": 0.11,

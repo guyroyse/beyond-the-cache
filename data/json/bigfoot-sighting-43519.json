@@ -11,9 +11,11 @@
   "longitude": -85.9222,
   "location": "-85.9222,44.25533",
   "location_details": "The nearest town is a tiny place called Dublin I don't know but I think its farther north than Manistee.. West of M 37 about 6.8 miles, north of M 55 about 2 miles.",
-  "temperature_high": 44.43,
-  "temperature_mid": 35.49,
-  "temperature_low": 26.55,
+  "temperature": {
+    "high": 44.43,
+    "mid": 35.49,
+    "low": 26.55
+  },
   "dew_point": 25.14,
   "humidity": 0.61,
   "cloud_cover": 0.06,

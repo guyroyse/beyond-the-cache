@@ -11,9 +11,11 @@
   "longitude": -95.80417,
   "location": "-95.80417,36.91528",
   "location_details": "Directions are:From Highway 75 North of Bartlesville, Oklahoma take Highway 10 East about 6 miles to Wann,Oklahoma.Once you pass the convenience store in Wann the field is just outside of the city limits on the North side of the road.",
-  "temperature_high": 87.97,
-  "temperature_mid": 70.085,
-  "temperature_low": 52.2,
+  "temperature": {
+    "high": 87.97,
+    "mid": 70.085,
+    "low": 52.2
+  },
   "dew_point": 54.83,
   "humidity": 0.65,
   "cloud_cover": 0.03,

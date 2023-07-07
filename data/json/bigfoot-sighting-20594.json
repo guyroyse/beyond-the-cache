@@ -11,9 +11,11 @@
   "longitude": -119.2481,
   "location": "-119.2481,37.90613",
   "location_details": "Driving from east to west, one gets on CA Hwy 120 off of I-395 just south of Lee Vining and the road rises steeply towards Yosemite National Park.  After passing lake Ellery on the left, one comes to a right turn at the Saddlebag Lake road.  Following this dirt road for 1.5 miles, one comes to the Sawmill walk-in campground.  We were in site #5.",
-  "temperature_high": 97.61,
-  "temperature_mid": 79.195,
-  "temperature_low": 60.78,
+  "temperature": {
+    "high": 97.61,
+    "mid": 79.195,
+    "low": 60.78
+  },
   "dew_point": 47.52,
   "humidity": 0.4,
   "cloud_cover": 0.07,

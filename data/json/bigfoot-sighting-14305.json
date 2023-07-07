@@ -11,9 +11,11 @@
   "longitude": -121.9749,
   "location": "-121.9749,47.7393",
   "location_details": "it was directly in front of a large wetland that was located in what i would consider heavily forested are (anyone who lives in duvall knows what i mean) it was probally five or six miles down paradise lake road, it might have been duvall road though, im not exactly sure",
-  "temperature_high": 69.75,
-  "temperature_mid": 61.22,
-  "temperature_low": 52.69,
+  "temperature": {
+    "high": 69.75,
+    "mid": 61.22,
+    "low": 52.69
+  },
   "dew_point": 49.3,
   "humidity": 0.7,
   "cloud_cover": 0.37,

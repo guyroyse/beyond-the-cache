@@ -11,9 +11,11 @@
   "longitude": -83.18583,
   "location": "-83.18583,43.41444",
   "location_details": "Thumb of Michigan.  On (edited), just north of Marlette Road.",
-  "temperature_high": 49.32,
-  "temperature_mid": 41.705,
-  "temperature_low": 34.09,
+  "temperature": {
+    "high": 49.32,
+    "mid": 41.705,
+    "low": 34.09
+  },
   "dew_point": 26.49,
   "humidity": 0.64,
   "cloud_cover": 0.25,

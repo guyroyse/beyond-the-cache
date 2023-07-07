@@ -11,9 +11,11 @@
   "longitude": -119.2386,
   "location": "-119.2386,37.23667",
   "location_details": "The area is located above Huntington Lake, further location details withheld at request of witness.",
-  "temperature_high": 81.58,
-  "temperature_mid": 64.015,
-  "temperature_low": 46.45,
+  "temperature": {
+    "high": 81.58,
+    "mid": 64.015,
+    "low": 46.45
+  },
   "dew_point": 40.6,
   "humidity": 0.5,
   "cloud_cover": 0.07,

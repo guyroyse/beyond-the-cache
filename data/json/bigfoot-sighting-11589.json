@@ -11,9 +11,11 @@
   "longitude": -109.0612,
   "location": "-109.0612,36.39135",
   "location_details": "NEAR THE ARIZONA AND NEW MEXICO SATELINE, ON THE CHUSKA MOUNTAIN. BETWEEN RED VALLEY, AZ AND TSAILE, AZ. EAST SIDE AND THE CHUSKA MOUNTAIN. SUMMER SHEEP CAMP.",
-  "temperature_high": 79.48,
-  "temperature_mid": 57.365,
-  "temperature_low": 35.25,
+  "temperature": {
+    "high": 79.48,
+    "mid": 57.365,
+    "low": 35.25
+  },
   "dew_point": 24.69,
   "humidity": 0.35,
   "cloud_cover": 0,

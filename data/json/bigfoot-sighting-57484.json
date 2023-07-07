@@ -11,9 +11,11 @@
   "longitude": -121.1417,
   "location": "-121.1417,47.41704",
   "location_details": "Cooper Lake Washington",
-  "temperature_high": 53.61,
-  "temperature_mid": 48.695,
-  "temperature_low": 43.78,
+  "temperature": {
+    "high": 53.61,
+    "mid": 48.695,
+    "low": 43.78
+  },
   "dew_point": 41.13,
   "humidity": 0.77,
   "cloud_cover": 0.16,

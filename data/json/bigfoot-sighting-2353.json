@@ -11,9 +11,11 @@
   "longitude": -97.24139,
   "location": "-97.24139,35.21111",
   "location_details": "it is a little river preserve and very wooded on one side of the river.",
-  "temperature_high": 97.21,
-  "temperature_mid": 84.415,
-  "temperature_low": 71.62,
+  "temperature": {
+    "high": 97.21,
+    "mid": 84.415,
+    "low": 71.62
+  },
   "dew_point": 63.11,
   "humidity": 0.51,
   "cloud_cover": 0.11,

@@ -1,0 +1,35 @@
+{
+  "reportId": "24646",
+  "title": "Early morning sighting by a fisherman south of Montgomery",
+  "date": "2001-04-13",
+  "timestamp": 987120000,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Lowndes",
+  "state": "Alabama",
+  "latitude": 32.184,
+  "longitude": -86.581,
+  "location": {
+    "longitude": -86.581,
+    "latitude": 32.184
+  },
+  "location_details": "South of Montgomery , Al near the town of Hayneville at a small fishing club with about 5 pond/ lakes around more details available if interested",
+  "temperature": {
+    "high": 81.87,
+    "mid": 71.63,
+    "low": 61.39
+  },
+  "dew_point": 69.41,
+  "humidity": 0.84,
+  "cloud_cover": 0.6,
+  "moon_phase": 0.69,
+  "precip_intensity": 0.0035,
+  "precip_probability": 0.84,
+  "precip_type": "rain",
+  "pressure": 1018.23,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 7,
+  "visibility": 8.34,
+  "wind_bearing": 241,
+  "wind_speed": 5.99
+}

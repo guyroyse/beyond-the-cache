@@ -11,9 +11,11 @@
   "longitude": -80.14099,
   "location": "-80.14099,41.11447",
   "location_details": "I-80 bridge over Meander Reservoir--heading West toward the turnpike. The sighting was on the West bank of the reservoir, right at the tree line, close to the open area beside the bridge. I think there is also a linked fence near there.",
-  "temperature_high": 61.34,
-  "temperature_mid": 55.885,
-  "temperature_low": 50.43,
+  "temperature": {
+    "high": 61.34,
+    "mid": 55.885,
+    "low": 50.43
+  },
   "dew_point": 55.16,
   "humidity": 0.88,
   "cloud_cover": 0.86,

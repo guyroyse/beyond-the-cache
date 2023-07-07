@@ -11,9 +11,11 @@
   "longitude": -95.35479,
   "location": "-95.35479,37.44208",
   "location_details": "The location is a tributary creek that flows into Lake Parsons, and can be accessed by turning south of Galesburg, KS for two miles, then back west about one half mile to the creek bridge.",
-  "temperature_high": 61.97,
-  "temperature_mid": 49.85,
-  "temperature_low": 37.73,
+  "temperature": {
+    "high": 61.97,
+    "mid": 49.85,
+    "low": 37.73
+  },
   "dew_point": 42.52,
   "humidity": 0.7,
   "cloud_cover": 0.24,

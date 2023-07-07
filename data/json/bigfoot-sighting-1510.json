@@ -11,9 +11,11 @@
   "longitude": -119.2642,
   "location": "-119.2642,38.04806",
   "location_details": "Traveling north on Hwy 395, as you crest Conway Summit, there is a left turn to Virginia lakes. The lakes are at an elevation of approx 9500 ft. The sighting was at Lower Virginia Lake near the road. I haven't been back to this area since the mid 80's so I don't know how much has changed.",
-  "temperature_high": 88.53,
-  "temperature_mid": 75.38,
-  "temperature_low": 62.23,
+  "temperature": {
+    "high": 88.53,
+    "mid": 75.38,
+    "low": 62.23
+  },
   "dew_point": 53.07,
   "humidity": 0.46,
   "cloud_cover": 0.57,

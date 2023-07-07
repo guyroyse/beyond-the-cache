@@ -11,9 +11,11 @@
   "longitude": -81.58581,
   "location": "-81.58581,27.9013",
   "location_details": "[Near Lake Wales; Specific directions to property removed]",
-  "temperature_high": 81.15,
-  "temperature_mid": 75.185,
-  "temperature_low": 69.22,
+  "temperature": {
+    "high": 81.15,
+    "mid": 75.185,
+    "low": 69.22
+  },
   "dew_point": 68.26,
   "humidity": 0.83,
   "cloud_cover": 0.45,

@@ -11,9 +11,11 @@
   "longitude": -95.97,
   "location": "-95.97,35.27056",
   "location_details": "it was about 3 miles east of hwy 84.  not too far from the mountain.  There was creek that ran through the pasture.",
-  "temperature_high": 59.12,
-  "temperature_mid": 45.605,
-  "temperature_low": 32.09,
+  "temperature": {
+    "high": 59.12,
+    "mid": 45.605,
+    "low": 32.09
+  },
   "dew_point": 29.1,
   "humidity": 0.6,
   "cloud_cover": 0.06,

@@ -11,9 +11,11 @@
   "longitude": -92.64896,
   "location": "-92.64896,30.8346",
   "location_details": "North of Oakdale, about 2 to 2.5 miles east of Hyw.165.About 250 to 300 yards north of Old Whatley Road. This area now has a Federal prison on this land",
-  "temperature_high": 60.74,
-  "temperature_mid": 55.305,
-  "temperature_low": 49.87,
+  "temperature": {
+    "high": 60.74,
+    "mid": 55.305,
+    "low": 49.87
+  },
   "dew_point": 57.25,
   "humidity": 0.92,
   "cloud_cover": 0.98,

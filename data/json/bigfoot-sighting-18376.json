@@ -11,9 +11,11 @@
   "longitude": -85.21545,
   "location": "-85.21545,32.67715",
   "location_details": "Take Hwy 29 East from Interstate 85  The area is near Halawakee Creek in Lee County, Alabama and is between Hwy 29 and Hwy 280 East.",
-  "temperature_high": 51.62,
-  "temperature_mid": 38.515,
-  "temperature_low": 25.41,
+  "temperature": {
+    "high": 51.62,
+    "mid": 38.515,
+    "low": 25.41
+  },
   "dew_point": 22.63,
   "humidity": 0.53,
   "cloud_cover": 0.28,

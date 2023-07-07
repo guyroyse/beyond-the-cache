@@ -11,9 +11,11 @@
   "longitude": -94.54,
   "location": "-94.54,39.8595",
   "location_details": "K-7 / US 73 Highway runs north and south along the Leavenworth/Wyandotte county line.  Closest intersection is Donahoo Road, or a mile and a half north of the traffic light at Leavenworth Road.",
-  "temperature_high": 47.03,
-  "temperature_mid": 39.19,
-  "temperature_low": 31.35,
+  "temperature": {
+    "high": 47.03,
+    "mid": 39.19,
+    "low": 31.35
+  },
   "dew_point": 27.62,
   "humidity": 0.73,
   "cloud_cover": 0.1,

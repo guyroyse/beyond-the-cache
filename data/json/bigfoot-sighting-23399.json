@@ -11,9 +11,11 @@
   "longitude": -85.685,
   "location": "-85.685,30.79",
   "location_details": "I would rather not say. If what was my land then i would but it is my uncles place and i have to honor his request in not saying the specific location but our camp site was on ten mile creek, just off highway 2",
-  "temperature_high": 76.99,
-  "temperature_mid": 69.37,
-  "temperature_low": 61.75,
+  "temperature": {
+    "high": 76.99,
+    "mid": 69.37,
+    "low": 61.75
+  },
   "dew_point": 56.01,
   "humidity": 0.73,
   "cloud_cover": 0.16,

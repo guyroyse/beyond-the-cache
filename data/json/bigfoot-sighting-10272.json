@@ -11,9 +11,11 @@
   "longitude": -94.85,
   "location": "-94.85,30.01667",
   "location_details": "Linney Creek. Across the road from property is the Trinity River bottom land.",
-  "temperature_high": 52.18,
-  "temperature_mid": 44.65,
-  "temperature_low": 37.12,
+  "temperature": {
+    "high": 52.18,
+    "mid": 44.65,
+    "low": 37.12
+  },
   "dew_point": 30.8,
   "humidity": 0.64,
   "cloud_cover": 0.15,

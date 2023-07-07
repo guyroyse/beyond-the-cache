@@ -11,9 +11,11 @@
   "longitude": -81.39827,
   "location": "-81.39827,39.95329",
   "location_details": "Medowlark Road",
-  "temperature_high": 85.07,
-  "temperature_mid": 73.775,
-  "temperature_low": 62.48,
+  "temperature": {
+    "high": 85.07,
+    "mid": 73.775,
+    "low": 62.48
+  },
   "dew_point": 67.75,
   "humidity": 0.74,
   "cloud_cover": 0.57,

@@ -11,9 +11,11 @@
   "longitude": -81.2625,
   "location": "-81.2625,37.603",
   "location_details": "Near Pax, WV, off of I-77 between Charleston and Beckley, WV. Paint Creek runs through my property and there are caves on the back property.",
-  "temperature_high": 42.57,
-  "temperature_mid": 34.755,
-  "temperature_low": 26.94,
+  "temperature": {
+    "high": 42.57,
+    "mid": 34.755,
+    "low": 26.94
+  },
   "dew_point": 22.51,
   "humidity": 0.68,
   "cloud_cover": 0.01,

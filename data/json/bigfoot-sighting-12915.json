@@ -11,9 +11,11 @@
   "longitude": -109.0612,
   "location": "-109.0612,36.39135",
   "location_details": "Before you get into the town of Sanostee, there's a turn off to the southwest (across from the trading post turn off).  This is a well used dirt road that leads to the mountains.  (Withheld)",
-  "temperature_high": 59.65,
-  "temperature_mid": 45.2,
-  "temperature_low": 30.75,
+  "temperature": {
+    "high": 59.65,
+    "mid": 45.2,
+    "low": 30.75
+  },
   "dew_point": 33.75,
   "humidity": 0.67,
   "cloud_cover": 0.32,

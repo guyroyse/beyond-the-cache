@@ -11,9 +11,11 @@
   "longitude": -110.5,
   "location": "-110.5,44.58333",
   "location_details": "The sighting occurred in a high-elevation park meadow in the Fan Creek Drainage in Yellowstone's northwest corner.",
-  "temperature_high": 72.26,
-  "temperature_mid": 63.575,
-  "temperature_low": 54.89,
+  "temperature": {
+    "high": 72.26,
+    "mid": 63.575,
+    "low": 54.89
+  },
   "dew_point": 47.6,
   "humidity": 0.6,
   "cloud_cover": 0.59,

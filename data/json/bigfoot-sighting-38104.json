@@ -11,9 +11,11 @@
   "longitude": -80.31353,
   "location": "-80.31353,26.9807",
   "location_details": "STATE ROAD 711 2 MILES NORTH OF SR706 MARTIN COUNTY FLA",
-  "temperature_high": 77.18,
-  "temperature_mid": 72.555,
-  "temperature_low": 67.93,
+  "temperature": {
+    "high": 77.18,
+    "mid": 72.555,
+    "low": 67.93
+  },
   "dew_point": 60.07,
   "humidity": 0.67,
   "cloud_cover": 0.47,

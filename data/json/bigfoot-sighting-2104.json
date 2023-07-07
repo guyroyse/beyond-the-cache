@@ -11,9 +11,11 @@
   "longitude": -93.8417,
   "location": "-93.8417,33.31194",
   "location_details": "3 to 5 miles due west of Fouke near boggy creek.",
-  "temperature_high": 71.43,
-  "temperature_mid": 64.9,
-  "temperature_low": 58.37,
+  "temperature": {
+    "high": 71.43,
+    "mid": 64.9,
+    "low": 58.37
+  },
   "dew_point": 43.81,
   "humidity": 0.63,
   "cloud_cover": 0.14,

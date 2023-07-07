@@ -11,9 +11,11 @@
   "longitude": -123.6216,
   "location": "-123.6216,42.16024",
   "location_details": "At the \"Forks\" Park right outside of Cave Junction.",
-  "temperature_high": 53.15,
-  "temperature_mid": 49.565,
-  "temperature_low": 45.98,
+  "temperature": {
+    "high": 53.15,
+    "mid": 49.565,
+    "low": 45.98
+  },
   "dew_point": 42.9,
   "humidity": 0.81,
   "cloud_cover": 0.56,

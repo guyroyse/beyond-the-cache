@@ -11,9 +11,11 @@
   "longitude": -118.6016,
   "location": "-118.6016,45.5789",
   "location_details": "Top of Cabbage Hill, east bound lanes, I cannot remember the mile marker.",
-  "temperature_high": 25.35,
-  "temperature_mid": 20.475,
-  "temperature_low": 15.6,
+  "temperature": {
+    "high": 25.35,
+    "mid": 20.475,
+    "low": 15.6
+  },
   "dew_point": 14.05,
   "humidity": 0.82,
   "cloud_cover": 0.76,

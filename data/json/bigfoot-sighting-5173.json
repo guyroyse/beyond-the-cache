@@ -11,9 +11,11 @@
   "longitude": -102.3971,
   "location": "-102.3971,43.35851",
   "location_details": "This location is near the junction of Bureau of Indian Affairs ( BIA) Highway 27 and 14 on the Pine Ridge Indian Reservation. The closest town is called Porcupine which is 35 miles Northeast of Pine Ridge, SD.",
-  "temperature_high": 22.85,
-  "temperature_mid": 15.575,
-  "temperature_low": 8.3,
+  "temperature": {
+    "high": 22.85,
+    "mid": 15.575,
+    "low": 8.3
+  },
   "dew_point": 13.73,
   "humidity": 0.85,
   "cloud_cover": 0.85,

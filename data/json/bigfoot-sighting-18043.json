@@ -11,9 +11,11 @@
   "longitude": -86.17524,
   "location": "-86.17524,34.27607",
   "location_details": "FROM GUNTERSVILLE ALABAMA. TAKE 431-NORTH TO CATHREDRAL CAVERNS HWY. ( THIS ROAD GO TO GRANT ALABAMA.) TURN RIGHT OFF OF HWY. 431 ONTO CATHREDRAL CAVERNS HWY, GO ACROSS THE BRIDGE. TAKE THE FIRST LEFT, THAT IS WHITE ELEPHANT RD. JUST A MILE OR UP THAT ROAD IS WHERE THE SIGHTING WAS.",
-  "temperature_high": 78.48,
-  "temperature_mid": 68.51,
-  "temperature_low": 58.54,
+  "temperature": {
+    "high": 78.48,
+    "mid": 68.51,
+    "low": 58.54
+  },
   "dew_point": 62.16,
   "humidity": 0.78,
   "cloud_cover": 0.46,

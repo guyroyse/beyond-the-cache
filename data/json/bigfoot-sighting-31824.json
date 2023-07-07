@@ -11,9 +11,11 @@
   "longitude": -82.44214,
   "location": "-82.44214,38.03338",
   "location_details": "If you go west on Hwy. 32 from Louisa KY. You will go by the Yatesville Lake, cross the Adams Hill, then drop down into Rich Creek. There is a church on the right. The sighting was on the left. You go on not even a mile is the Rich Creek boat ramp.",
-  "temperature_high": 37.75,
-  "temperature_mid": 33.875,
-  "temperature_low": 30,
+  "temperature": {
+    "high": 37.75,
+    "mid": 33.875,
+    "low": 30
+  },
   "dew_point": 13.84,
   "humidity": 0.61,
   "cloud_cover": 0.18,

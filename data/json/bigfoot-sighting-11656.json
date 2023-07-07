@@ -11,9 +11,11 @@
   "longitude": -120.6033,
   "location": "-120.6033,38.90333",
   "location_details": "the dam or reservoir, what ever you call it, has a road running over the top of it. coming from gorgetown going to loon lake you would start going over the dam before you cross it you go over the spillway. a big cement canal runs down the back of the dam down into a cannel. on side has a shear face the other has an access road leading down along the spillway to the bottom. a maintenance road you might say. but at the top of the road has a gate with a lock. but its enough to park a car of the road. if a ranger came we would of surly gotten a ticket.",
-  "temperature_high": 61.37,
-  "temperature_mid": 50.295,
-  "temperature_low": 39.22,
+  "temperature": {
+    "high": 61.37,
+    "mid": 50.295,
+    "low": 39.22
+  },
   "dew_point": 30.61,
   "humidity": 0.54,
   "cloud_cover": 0.03,

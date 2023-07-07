@@ -11,9 +11,11 @@
   "longitude": -83.41507,
   "location": "-83.41507,38.2592",
   "location_details": "When you reach the city of Morehead KY stay on us 60 East going out of town like your going to Grayson",
-  "temperature_high": 58.52,
-  "temperature_mid": 54.445,
-  "temperature_low": 50.37,
+  "temperature": {
+    "high": 58.52,
+    "mid": 54.445,
+    "low": 50.37
+  },
   "dew_point": 52.16,
   "humidity": 0.9,
   "cloud_cover": 0.98,

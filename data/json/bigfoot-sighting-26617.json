@@ -11,9 +11,11 @@
   "longitude": -83.62335,
   "location": "-83.62335,44.62",
   "location_details": "Approximately 1 mile west of Stout Road and 1/2 mile south of M-72",
-  "temperature_high": 56.1,
-  "temperature_mid": 51.845,
-  "temperature_low": 47.59,
+  "temperature": {
+    "high": 56.1,
+    "mid": 51.845,
+    "low": 47.59
+  },
   "dew_point": 51.78,
   "humidity": 0.93,
   "cloud_cover": 0.95,

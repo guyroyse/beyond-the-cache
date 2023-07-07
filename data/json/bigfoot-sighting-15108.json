@@ -11,9 +11,11 @@
   "longitude": -82.321,
   "location": "-82.321,35.618",
   "location_details": "Near the top of Black Mounain.",
-  "temperature_high": 61.37,
-  "temperature_mid": 53.35,
-  "temperature_low": 45.33,
+  "temperature": {
+    "high": 61.37,
+    "mid": 53.35,
+    "low": 45.33
+  },
   "dew_point": 47.09,
   "humidity": 0.77,
   "cloud_cover": 0.7,

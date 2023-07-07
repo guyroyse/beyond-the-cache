@@ -11,9 +11,11 @@
   "longitude": -94.11611,
   "location": "-94.11611,33.37917",
   "location_details": "Texarkana, Texas in Bowie County around Beechwood Rd. in the Liberty-Eylau area.",
-  "temperature_high": 73.13,
-  "temperature_mid": 58.79,
-  "temperature_low": 44.45,
+  "temperature": {
+    "high": 73.13,
+    "mid": 58.79,
+    "low": 44.45
+  },
   "dew_point": 44.53,
   "humidity": 0.64,
   "cloud_cover": 0.05,

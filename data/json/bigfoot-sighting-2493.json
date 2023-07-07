@@ -11,9 +11,11 @@
   "longitude": -105.3812,
   "location": "-105.3812,38.9",
   "location_details": "Withheld at request of witness.",
-  "temperature_high": 76.27,
-  "temperature_mid": 61.75,
-  "temperature_low": 47.23,
+  "temperature": {
+    "high": 76.27,
+    "mid": 61.75,
+    "low": 47.23
+  },
   "dew_point": 41.23,
   "humidity": 0.54,
   "cloud_cover": 0.34,

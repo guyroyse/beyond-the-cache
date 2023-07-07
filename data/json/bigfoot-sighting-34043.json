@@ -11,9 +11,11 @@
   "longitude": -81.08506,
   "location": "-81.08506,38.0695",
   "location_details": "New River Gorge",
-  "temperature_high": 53.47,
-  "temperature_mid": 46.24,
-  "temperature_low": 39.01,
+  "temperature": {
+    "high": 53.47,
+    "mid": 46.24,
+    "low": 39.01
+  },
   "dew_point": 25.24,
   "humidity": 0.6,
   "cloud_cover": 0.03,

@@ -11,9 +11,11 @@
   "longitude": -110,
   "location": "-110,40.65",
   "location_details": "We were camped at the lower Twin lake east of Marsh peak and north of Paradise park resevoir.  We hiked in on trail 075 and trail 050 from Paradise park.",
-  "temperature_high": 82.46,
-  "temperature_mid": 70.76,
-  "temperature_low": 59.06,
+  "temperature": {
+    "high": 82.46,
+    "mid": 70.76,
+    "low": 59.06
+  },
   "dew_point": 52.39,
   "humidity": 0.56,
   "cloud_cover": 0.34,

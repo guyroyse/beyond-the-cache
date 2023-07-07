@@ -11,9 +11,11 @@
   "longitude": -75.06665,
   "location": "-75.06665,40.4225",
   "location_details": "Tohicken Valley Park is a public state camping facility.  It may or may not cause a problem if curiosity seekers come to check out the area and do some amateur investigating. It is near a tiny hamlet area for tourists (Pt Pleasant).  There is a rafting/canoe business, and antique store and restaurant facility.",
-  "temperature_high": 68.84,
-  "temperature_mid": 57.65,
-  "temperature_low": 46.46,
+  "temperature": {
+    "high": 68.84,
+    "mid": 57.65,
+    "low": 46.46
+  },
   "dew_point": 43.68,
   "humidity": 0.66,
   "cloud_cover": 0.09,

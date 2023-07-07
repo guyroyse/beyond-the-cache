@@ -11,9 +11,11 @@
   "longitude": -124.2933,
   "location": "-124.2933,47.57778",
   "location_details": "Upper part of Grays Harbor County, Washington State, North Highway 101, along a coastal road, off of a logging road in Clearwater Area and Old Spur.",
-  "temperature_high": 60.57,
-  "temperature_mid": 51.745,
-  "temperature_low": 42.92,
+  "temperature": {
+    "high": 60.57,
+    "mid": 51.745,
+    "low": 42.92
+  },
   "dew_point": 40.53,
   "humidity": 0.75,
   "cloud_cover": 0.12,

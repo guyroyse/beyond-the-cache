@@ -11,9 +11,11 @@
   "longitude": -84.0821,
   "location": "-84.0821,36.8817",
   "location_details": "Thousands of acres.absolutely tons of deer coyotes foxes coons just too much wildlife too mention. Plenty of water sources and tons of mountains.",
-  "temperature_high": 50.63,
-  "temperature_mid": 45.04,
-  "temperature_low": 39.45,
+  "temperature": {
+    "high": 50.63,
+    "mid": 45.04,
+    "low": 39.45
+  },
   "dew_point": 42.82,
   "humidity": 0.81,
   "cloud_cover": 0.85,

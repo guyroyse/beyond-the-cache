@@ -1,0 +1,35 @@
+{
+  "reportId": "1237",
+  "title": "While standing on the deck of vacation home man hears eerie human-like calls",
+  "date": "2000-09-01",
+  "timestamp": 967766400,
+  "observed": "I was standing on the front deck of my girlfriend's summer home, looking down at Eleven Mile Reservoir., when I heard the sound of an animal calling. It was all most human in nature, but unlike any sound I have ever heard in my life. It was spine- tingling. I can not describe it. It lasted about 3 or 4 minutes. It sounded lost or was looking for an offspring. I am 65 an have spent a lot of time hiking & camping over the years an never have heard a sound even close to the one I heard this fall.",
+  "classification": "Class B",
+  "county": "Park",
+  "state": "Colorado",
+  "latitude": 38.93333,
+  "longitude": -105.4917,
+  "location": {
+    "longitude": -105.4917,
+    "latitude": 38.93333
+  },
+  "location_details": "One mile North of Eleven Mile Reservoir on Park County Rd #92",
+  "temperature": {
+    "high": 76.25,
+    "mid": 66.44,
+    "low": 56.63
+  },
+  "dew_point": 49.75,
+  "humidity": 0.65,
+  "cloud_cover": 0.49,
+  "moon_phase": 0.12,
+  "precip_intensity": 0.0004,
+  "precip_probability": 0.18,
+  "precip_type": "rain",
+  "pressure": 1012.83,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 7,
+  "visibility": 9.72,
+  "wind_bearing": 168,
+  "wind_speed": 3.74
+}

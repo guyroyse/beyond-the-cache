@@ -11,9 +11,11 @@
   "longitude": -94.38045,
   "location": "-94.38045,34.4082",
   "location_details": "It was approximately 1 mile south of the 259 and 88 intersection in the curviest part of the road. It was on the east side of the HWY, right on the west end of Rich Mt.",
-  "temperature_high": 78.82,
-  "temperature_mid": 74.48,
-  "temperature_low": 70.14,
+  "temperature": {
+    "high": 78.82,
+    "mid": 74.48,
+    "low": 70.14
+  },
   "dew_point": 61.03,
   "humidity": 0.66,
   "cloud_cover": 0.36,

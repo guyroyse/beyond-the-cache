@@ -11,9 +11,11 @@
   "longitude": -92.11988,
   "location": "-92.11988,37.02496",
   "location_details": "Due south  apprx. 15 to 20 miles of Cabool on Hwy.181 just past the county line of Texas and Douglas Co.",
-  "temperature_high": 45.31,
-  "temperature_mid": 35.395,
-  "temperature_low": 25.48,
+  "temperature": {
+    "high": 45.31,
+    "mid": 35.395,
+    "low": 25.48
+  },
   "dew_point": 18.46,
   "humidity": 0.58,
   "cloud_cover": 0.16,

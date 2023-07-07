@@ -11,9 +11,11 @@
   "longitude": -82.45165,
   "location": "-82.45165,27.7068",
   "location_details": "can't remember.....just off the little manatee river in ruskin",
-  "temperature_high": 85.83,
-  "temperature_mid": 80.165,
-  "temperature_low": 74.5,
+  "temperature": {
+    "high": 85.83,
+    "mid": 80.165,
+    "low": 74.5
+  },
   "dew_point": 72.36,
   "humidity": 0.79,
   "cloud_cover": 0.8,

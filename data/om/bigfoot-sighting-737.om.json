@@ -1,0 +1,35 @@
+{
+  "reportId": "737",
+  "title": "creature seen in an open field by witness.",
+  "date": "1984-06-15",
+  "timestamp": 456105600,
+  "observed": "We were in an open field when we heard the creature first. It made sort of a howling/growling type of noise.We went towards the tree line where the sound came from. It was crouched down slightly and then stood up as we got close.It was about 8 feet tall. It then ran off, extremely fast, towards the swamp. We were all armed, but decided it would not be a good idea to follow it into the swamp. When we reached the spot  it was at, we noticed it had shreaded the bark off the tree it was behind.",
+  "classification": "Class A",
+  "county": "Pasco",
+  "state": "Florida",
+  "latitude": 28.3836,
+  "longitude": -82.6053,
+  "location": {
+    "longitude": -82.6053,
+    "latitude": 28.3836
+  },
+  "location_details": "north central pasco county near crews lake.approx. 10 miles south of Pasco/Hernando   county line. West of Hwy 41, north of SR 52.",
+  "temperature": {
+    "high": 87.83,
+    "mid": 82.095,
+    "low": 76.36
+  },
+  "dew_point": 71.03,
+  "humidity": 0.78,
+  "cloud_cover": 0.55,
+  "moon_phase": 0.57,
+  "precip_intensity": 0.0004,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1018.44,
+  "summary": "Humid and mostly cloudy throughout the day.",
+  "uv_index": 8,
+  "visibility": 8.59,
+  "wind_bearing": 102,
+  "wind_speed": 5.52
+}

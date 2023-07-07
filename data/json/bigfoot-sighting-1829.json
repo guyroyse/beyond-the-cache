@@ -11,9 +11,11 @@
   "longitude": -122.9903,
   "location": "-122.9903,45.48204",
   "location_details": "From Hillsboro, take hwy. 219 south. Jackson Bottom Slough is just a little ways past the railroad tracks. From the Jackson Bottom Slough sign, continue on hwy. 219 for exactly 1.5 miles to a field that is just opposite where Tongue Rd. intersects with 219. It is in that field that I saw what I believe was a sasquatch.",
-  "temperature_high": 63.59,
-  "temperature_mid": 56.325,
-  "temperature_low": 49.06,
+  "temperature": {
+    "high": 63.59,
+    "mid": 56.325,
+    "low": 49.06
+  },
   "dew_point": 43.18,
   "humidity": 0.87,
   "cloud_cover": 0.56,

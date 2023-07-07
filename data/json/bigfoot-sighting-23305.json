@@ -11,9 +11,11 @@
   "longitude": -106.6735,
   "location": "-106.6735,39.879",
   "location_details": "The area is the Derby Creek drainage system near Stump park.",
-  "temperature_high": 58.92,
-  "temperature_mid": 49.09,
-  "temperature_low": 39.26,
+  "temperature": {
+    "high": 58.92,
+    "mid": 49.09,
+    "low": 39.26
+  },
   "dew_point": 22.2,
   "humidity": 0.43,
   "cloud_cover": 0.21,

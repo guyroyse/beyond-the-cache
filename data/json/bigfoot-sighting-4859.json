@@ -11,9 +11,11 @@
   "longitude": -121.9658,
   "location": "-121.9658,47.288",
   "location_details": "One mile past Green River Gorge Bridge on right as you head to Enumclaw on Enumclaw-Franklin road",
-  "temperature_high": 68.52,
-  "temperature_mid": 56.49,
-  "temperature_low": 44.46,
+  "temperature": {
+    "high": 68.52,
+    "mid": 56.49,
+    "low": 44.46
+  },
   "dew_point": 43.87,
   "humidity": 0.68,
   "cloud_cover": 0.21,

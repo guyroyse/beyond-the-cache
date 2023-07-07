@@ -11,9 +11,11 @@
   "longitude": -89.9905,
   "location": "-89.9905,45.0902",
   "location_details": "this happened about 100 yards away from Amco park, along the road that passes it. there is a river along the park, and a bridge, which this happened. Amco Park is located on the Rib River in Marathon County.",
-  "temperature_high": 72.7,
-  "temperature_mid": 62.255,
-  "temperature_low": 51.81,
+  "temperature": {
+    "high": 72.7,
+    "mid": 62.255,
+    "low": 51.81
+  },
   "dew_point": 55.83,
   "humidity": 0.8,
   "cloud_cover": 0.73,

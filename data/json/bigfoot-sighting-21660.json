@@ -11,9 +11,11 @@
   "longitude": -91.64719,
   "location": "-91.64719,38.01223",
   "location_details": "V Hwy. exit off Interstate I-44, about a mile or mile and a half west.  There is a housing development on the right and our house was maybe a quarter of a mile past that on the left, sitting back in the woods, near a secluded quary which was filled with water.  There was a pond just to the side of the house.  The house sits back from the road with many trees in front of it, hard to see from the road.  There are a few scattered houses right along that area.  My parents no longer live in that house, but are nearby in St. James.",
-  "temperature_high": 42.63,
-  "temperature_mid": 32.815,
-  "temperature_low": 23,
+  "temperature": {
+    "high": 42.63,
+    "mid": 32.815,
+    "low": 23
+  },
   "dew_point": 22.72,
   "humidity": 0.55,
   "cloud_cover": 0.43,

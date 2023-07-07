@@ -11,9 +11,11 @@
   "longitude": -87.53395,
   "location": "-87.53395,33.8957",
   "location_details": "Near Strip Pits and Highway 118.",
-  "temperature_high": 86.02,
-  "temperature_mid": 77.305,
-  "temperature_low": 68.59,
+  "temperature": {
+    "high": 86.02,
+    "mid": 77.305,
+    "low": 68.59
+  },
   "dew_point": 67.02,
   "humidity": 0.76,
   "cloud_cover": 0.57,

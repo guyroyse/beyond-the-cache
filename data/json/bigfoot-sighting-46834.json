@@ -11,9 +11,11 @@
   "longitude": -80.61996,
   "location": "-80.61996,40.73206",
   "location_details": "Beaver Creek State Park, one of the larger pine tree area sites (site 47, 48, or 49)",
-  "temperature_high": 74.26,
-  "temperature_mid": 66.045,
-  "temperature_low": 57.83,
+  "temperature": {
+    "high": 74.26,
+    "mid": 66.045,
+    "low": 57.83
+  },
   "dew_point": 64.5,
   "humidity": 0.85,
   "cloud_cover": 0.73,

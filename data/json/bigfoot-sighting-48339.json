@@ -11,9 +11,11 @@
   "longitude": -90.55145,
   "location": "-90.55145,38.45927",
   "location_details": "Southwest of St Louis, MO (proper) Hwy 270, exit Gravois rd (Hwy 30) west, 11 miles to where Carol Park rd. exits to the left, as you go west on 30",
-  "temperature_high": 18.79,
-  "temperature_mid": 17.475,
-  "temperature_low": 16.16,
+  "temperature": {
+    "high": 18.79,
+    "mid": 17.475,
+    "low": 16.16
+  },
   "dew_point": -0.46,
   "humidity": 0.51,
   "cloud_cover": 0.32,

@@ -1,0 +1,35 @@
+{
+  "reportId": "2094",
+  "title": "Second report of scream by resident near Red Top Mountain State Park",
+  "date": "1999-06-16",
+  "timestamp": 929491200,
+  "observed": "My parents reported to myself that another howl was heard on June 16.  This was similiar to the howl that was reported on May 18 in same location.  The howl occurred at approximatly 2pm during a heavy rain storm and lasted only about half as along as the first reported howl.  The dogs in the neighborhood responded in the same manner of howling and barking in response to the unknown howl.",
+  "classification": "Class B",
+  "county": "Bartow",
+  "state": "Georgia",
+  "latitude": 34.1088,
+  "longitude": -84.6971,
+  "location": {
+    "longitude": -84.6971,
+    "latitude": 34.1088
+  },
+  "location_details": "Acworth, near Lake Allatoona",
+  "temperature": {
+    "high": 75.71,
+    "mid": 70.845,
+    "low": 65.98
+  },
+  "dew_point": 68.96,
+  "humidity": 0.92,
+  "cloud_cover": 0.86,
+  "moon_phase": 0.11,
+  "precip_intensity": 0.0531,
+  "precip_probability": 0.93,
+  "precip_type": "rain",
+  "pressure": 1014.1,
+  "summary": "Heavy rain in the morning and afternoon.",
+  "uv_index": 8,
+  "visibility": 4.88,
+  "wind_bearing": 59,
+  "wind_speed": 2.83
+}

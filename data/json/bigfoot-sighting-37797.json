@@ -11,9 +11,11 @@
   "longitude": -86.11156,
   "location": "-86.11156,44.73109",
   "location_details": "Was at Loon Lake. Which the Platt River runs through it. Dumps out into Lake Michigan. It is surrounded by thick dense forest. Only a public access for boats. The entire shore line is forest. Its all part of Sleeping Bear Sand Dunes national lake shore.",
-  "temperature_high": 75.49,
-  "temperature_mid": 70.875,
-  "temperature_low": 66.26,
+  "temperature": {
+    "high": 75.49,
+    "mid": 70.875,
+    "low": 66.26
+  },
   "dew_point": 63.91,
   "humidity": 0.83,
   "cloud_cover": 0.44,

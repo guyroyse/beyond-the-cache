@@ -11,9 +11,11 @@
   "longitude": -82.07824,
   "location": "-82.07824,41.11417",
   "location_details": "The location of the sighting was near Spencer, Ohio. I would prefer if the location was not disclosed. I do not want anyone trying to shoot at or accidentally get shot....looking for these creatures.",
-  "temperature_high": 42.78,
-  "temperature_mid": 38.13,
-  "temperature_low": 33.48,
+  "temperature": {
+    "high": 42.78,
+    "mid": 38.13,
+    "low": 33.48
+  },
   "dew_point": 32.73,
   "humidity": 0.73,
   "cloud_cover": 0.92,

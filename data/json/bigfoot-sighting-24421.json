@@ -11,9 +11,11 @@
   "longitude": -81.68124,
   "location": "-81.68124,37.2875",
   "location_details": "This creature has been seen in Slate Creek...up Shop Hollow...locals would be able to give you directions...you would need to backpack into Slate Creek.",
-  "temperature_high": 83.54,
-  "temperature_mid": 73.97,
-  "temperature_low": 64.4,
+  "temperature": {
+    "high": 83.54,
+    "mid": 73.97,
+    "low": 64.4
+  },
   "dew_point": 63.23,
   "humidity": 0.73,
   "cloud_cover": 0.5,

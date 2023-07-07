@@ -11,9 +11,11 @@
   "longitude": -80.87379,
   "location": "-80.87379,25.19935",
   "location_details": "It wasn't in Flamingo Campground, but as my dad said, along one of the zillion canals in Everglades National Park.",
-  "temperature_high": 86.35,
-  "temperature_mid": 82.575,
-  "temperature_low": 78.8,
+  "temperature": {
+    "high": 86.35,
+    "mid": 82.575,
+    "low": 78.8
+  },
   "dew_point": 72.83,
   "humidity": 0.74,
   "cloud_cover": 0.54,

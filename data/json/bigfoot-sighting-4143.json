@@ -11,9 +11,11 @@
   "longitude": -95.16028,
   "location": "-95.16028,33.64555",
   "location_details": "In Bagwell, northeast of Paris. On wooded land owned by International Paper Co.",
-  "temperature_high": 79.68,
-  "temperature_mid": 73.13,
-  "temperature_low": 66.58,
+  "temperature": {
+    "high": 79.68,
+    "mid": 73.13,
+    "low": 66.58
+  },
   "dew_point": 61.98,
   "humidity": 0.72,
   "cloud_cover": 0.83,

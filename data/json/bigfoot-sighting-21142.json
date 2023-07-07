@@ -11,9 +11,11 @@
   "longitude": -87.52757,
   "location": "-87.52757,37.29395",
   "location_details": "These encounters occurred on the property of the Heckley mines.",
-  "temperature_high": 70.82,
-  "temperature_mid": 59.46,
-  "temperature_low": 48.1,
+  "temperature": {
+    "high": 70.82,
+    "mid": 59.46,
+    "low": 48.1
+  },
   "dew_point": 45.94,
   "humidity": 0.62,
   "cloud_cover": 0.12,

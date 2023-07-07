@@ -1,0 +1,35 @@
+{
+  "reportId": "20833",
+  "title": "Possible early morning vocalization at Fool's Hollow Lake",
+  "date": "2007-06-11",
+  "timestamp": 1181520000,
+  "observed": "WELL ME AND MY FAMILY WERE ALL OUT CAMPING AND FISHING AT A GREAT LAKE THATS IN SHOW LOW AZ CALLED FOOLS HOLLOW LAKE.  IT WAS OUR LAST NIGHT THERE AFTER A GREAT STAY AND LOTS OF FUN WE HAD A NICE DINNER AND ALL WANTED TO HIT THE HAY. IT WAS ABOUT 9:30 OR 10 PM WE ALL WENT TO BED.  I HAVE HUNTED ALL MY LIFE AND THE SOUND I HEARD I HAVE NEVER HEARD BEFORE IT WAS VERY LOUD AND OFF IN THE DISTANCE IT WENT ON FOR ABOUT A MINUTE IT ALMOST SOUNDED LIKE IT WAS ANGRY. THIS HAPPENED AT ABOUT 3:45AM MONDAY JUNE 11TH 2007 I JUMPED OUT OF BED AND COULD HEAR A RABBIT SCREAM LIKE SOMETHING WAS KILLING IT AFTER THAT  I DIDNT HEAR IT AGAIN. IN THE MORNING ME AND MY FAMILY AND FRIENDS GOT UP HAVING COFFEE AND I ASKED SOME OF MY FRIENDS IF THEY HEARD THAT HOWL AND THE RABBIT SCREAMING AND A LONG TIME FRIEND OF MINE SAID HE WAS WAKENED BY THE SOUND AND HE ASWELL IS A LONG TIME HUNTER AND HAS NEVER HEARD NOTHING LIKE THAT.",
+  "classification": "Class B",
+  "county": "Navajo",
+  "state": "Arizona",
+  "latitude": 34.27139,
+  "longitude": -110.0632,
+  "location": {
+    "longitude": -110.0632,
+    "latitude": 34.27139
+  },
+  "location_details": "OLD LINDEN HI-WAY AND HI-WAY 260",
+  "temperature": {
+    "high": 74.2,
+    "mid": 61.975,
+    "low": 49.75
+  },
+  "dew_point": 40.75,
+  "humidity": 0.55,
+  "cloud_cover": 0.51,
+  "moon_phase": 0.88,
+  "precip_intensity": 0.0079,
+  "precip_probability": 0.83,
+  "precip_type": "rain",
+  "pressure": 1010.59,
+  "summary": "Light rain until afternoon.",
+  "uv_index": 9,
+  "visibility": 9.13,
+  "wind_bearing": 169,
+  "wind_speed": 5.33
+}

@@ -11,9 +11,11 @@
   "longitude": -121.0909,
   "location": "-121.0909,46.80505",
   "location_details": "From hwy 410 turn off at the wood shed go back to road 1500 follow it till you see a sign saying McDaniel lake thiis will be road 1502 once you cross the Rattlesnake river bridge you will go about a half of a mile and you will make a hairpin turn you will travel uphill for about 3/10 more of a mile and make a curve to the right you will come out into the open and the hillside will start to fall off to your left this is where I saw the creature. It evidently came down the hill from the right heading in a north to south direction.",
-  "temperature_high": 43.91,
-  "temperature_mid": 39.985,
-  "temperature_low": 36.06,
+  "temperature": {
+    "high": 43.91,
+    "mid": 39.985,
+    "low": 36.06
+  },
   "dew_point": 23.85,
   "humidity": 0.69,
   "cloud_cover": 0.6,

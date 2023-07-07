@@ -11,9 +11,11 @@
   "longitude": -77.8768,
   "location": "-77.8768,41.7655",
   "location_details": "6 mi. east of Coudersport PA. on US 6.  I was coming up Denton Hill, just past ski slopes.",
-  "temperature_high": 68.01,
-  "temperature_mid": 62.475,
-  "temperature_low": 56.94,
+  "temperature": {
+    "high": 68.01,
+    "mid": 62.475,
+    "low": 56.94
+  },
   "dew_point": 53.86,
   "humidity": 0.83,
   "cloud_cover": 0.6,

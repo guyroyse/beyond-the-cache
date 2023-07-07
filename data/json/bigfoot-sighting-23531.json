@@ -11,9 +11,11 @@
   "longitude": -95.75645,
   "location": "-95.75645,30.812",
   "location_details": "The incident was on a ranch owned by a local family, who had a grocery store in Huntsville TX.",
-  "temperature_high": 72.47,
-  "temperature_mid": 68.705,
-  "temperature_low": 64.94,
+  "temperature": {
+    "high": 72.47,
+    "mid": 68.705,
+    "low": 64.94
+  },
   "dew_point": 62.84,
   "humidity": 0.92,
   "cloud_cover": 0.82,

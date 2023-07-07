@@ -11,9 +11,11 @@
   "longitude": -92.58,
   "location": "-92.58,34.47",
   "location_details": "I'm not sure the first try went through so I thought I'd send my story again. I apologize if you already got it. Arkansas, Saline County - on the shores of the Saline River - Nearest town probably Tull - Not sure of the road/highway - they were pretty far into the woods when this story took place.",
-  "temperature_high": 77.47,
-  "temperature_mid": 66.65,
-  "temperature_low": 55.83,
+  "temperature": {
+    "high": 77.47,
+    "mid": 66.65,
+    "low": 55.83
+  },
   "dew_point": 54.91,
   "humidity": 0.7,
   "cloud_cover": 0.27,

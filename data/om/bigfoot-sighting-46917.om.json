@@ -1,0 +1,34 @@
+{
+  "reportId": "46917",
+  "title": "Motorist has possible nighttime sighting near Hagaman Bottoms.",
+  "date": "2015-01-22",
+  "timestamp": 1421884800,
+  "observed": "This is the second time that I have seen Bigfoot in my lifetime.  Both sightings have been in the same vicinity.  Here is my story of tonight's sighting.  I was going home from work from Carlinville and was driving west of Illinois Route 108.  As I approached a hill that was just east of the Hagaman turnoff I noticed a tall reddish brown creature crossing the highway going north.  It was at least 7-8 feet tall and was in the standing position.  As I approached the area that I saw it cross I looked in that direction and it was no where in sight.  I want to add that there have been many sightings in this area.  It is in Macoupin County, Illinois and both of my sightings were in an area known as \"Hagaman Bottoms\".  There is a creek there and it is a wooded area.  The sighting occurred at around 5:15 p.m. and it was still daylight but it was getting dark at this time due to daylight savings time ending this past weekend.",
+  "classification": "Class B",
+  "county": "Macoupin",
+  "state": "Illinois",
+  "latitude": 39.3047,
+  "longitude": -90.0775,
+  "location": {
+    "longitude": -90.0775,
+    "latitude": 39.3047
+  },
+  "location_details": "From Carlinville head west on Illinois Route 108.  Just east of Hagaman turnoff is where I sighted it.",
+  "temperature": {
+    "high": 36.08,
+    "mid": 34.005,
+    "low": 31.93
+  },
+  "dew_point": 27.62,
+  "humidity": 0.82,
+  "cloud_cover": 0.22,
+  "moon_phase": 0.08,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1030.52,
+  "summary": "Clear throughout the day.",
+  "uv_index": 1,
+  "visibility": 8.62,
+  "wind_bearing": 320,
+  "wind_speed": 3.28
+}

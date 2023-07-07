@@ -11,9 +11,11 @@
   "longitude": -124.053,
   "location": "-124.053,47.0413",
   "location_details": "Dont know any road names to give directions, But I can find out if someone wants to know.",
-  "temperature_high": 49.01,
-  "temperature_mid": 47.3,
-  "temperature_low": 45.59,
+  "temperature": {
+    "high": 49.01,
+    "mid": 47.3,
+    "low": 45.59
+  },
   "dew_point": 41.59,
   "humidity": 0.87,
   "cloud_cover": 0.71,

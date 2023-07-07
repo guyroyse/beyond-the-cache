@@ -11,9 +11,11 @@
   "longitude": -95.79677,
   "location": "-95.79677,36.13222",
   "location_details": "On the edge of town, new housing. West of Cincinnati near end of 46th st. N.",
-  "temperature_high": 94.8,
-  "temperature_mid": 85.26,
-  "temperature_low": 75.72,
+  "temperature": {
+    "high": 94.8,
+    "mid": 85.26,
+    "low": 75.72
+  },
   "dew_point": 71.69,
   "humidity": 0.7,
   "cloud_cover": 0.41,

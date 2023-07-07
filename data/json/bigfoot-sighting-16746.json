@@ -11,9 +11,11 @@
   "longitude": -71.58906,
   "location": "-71.58906,41.4596",
   "location_details": "From I-95 S, merge onto RI-4 S toward North Kingstown. Take exit 5B to Exeter and continue on Ten Rod Rd. Turn left at S County Trl. Left at Kingstown Rd. Right at Watson Rd. Right at Liberty Ln. Then left at Great Neck Rd.",
-  "temperature_high": 46.2,
-  "temperature_mid": 37.895,
-  "temperature_low": 29.59,
+  "temperature": {
+    "high": 46.2,
+    "mid": 37.895,
+    "low": 29.59
+  },
   "dew_point": 22.55,
   "humidity": 0.53,
   "cloud_cover": 0.25,

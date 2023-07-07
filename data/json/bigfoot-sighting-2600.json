@@ -11,9 +11,11 @@
   "longitude": -119.7084,
   "location": "-119.7084,48.95835",
   "location_details": "Paysaten Wilderness Area, Chopaka Mountain, 3000 feet elevation, NW corner of Chopaka Lake, 5.5 miles south of Canadian border.",
-  "temperature_high": 72.51,
-  "temperature_mid": 60.055,
-  "temperature_low": 47.6,
+  "temperature": {
+    "high": 72.51,
+    "mid": 60.055,
+    "low": 47.6
+  },
   "dew_point": 40.88,
   "humidity": 0.5,
   "cloud_cover": 0.39,

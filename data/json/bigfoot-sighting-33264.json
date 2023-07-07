@@ -11,9 +11,11 @@
   "longitude": -90.22054,
   "location": "-90.22054,41.73534",
   "location_details": "1 & 7/8ths of a mile off highway 84, on our rural property.",
-  "temperature_high": 34.71,
-  "temperature_mid": 30.42,
-  "temperature_low": 26.13,
+  "temperature": {
+    "high": 34.71,
+    "mid": 30.42,
+    "low": 26.13
+  },
   "dew_point": 27.93,
   "humidity": 0.84,
   "cloud_cover": 1,

@@ -11,9 +11,11 @@
   "longitude": -83.48067,
   "location": "-83.48067,34.74775",
   "location_details": "Minnehaha Falls is 1.6 miles from the Lake Seed Dam. To reach the falls Follow US441 north out of Tallulah Falls for 2 miles and turn on Old 441 at the Rabun Beach Recreation Area sign. Follow Old 441 for 2.5 miles and turn left on Lake Rabun Road. Proceed along the shore of Lake Rabun for 6 miles (2 miles past the Rabun Beach Recreation area) to the Lake Seed Dam. Cross the lake below the dam on a one-lane bridge. Go about 150 Yards and turn left on Bear Gap Rd. Follow Bear Gap Rd. for 1.5 miles to the Minnehaha Falls sign on the right. ",
-  "temperature_high": 85.86,
-  "temperature_mid": 77.71,
-  "temperature_low": 69.56,
+  "temperature": {
+    "high": 85.86,
+    "mid": 77.71,
+    "low": 69.56
+  },
   "dew_point": 68.03,
   "humidity": 0.75,
   "cloud_cover": 0.2,

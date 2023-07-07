@@ -11,9 +11,11 @@
   "longitude": -121.9531,
   "location": "-121.9531,44.15568",
   "location_details": "From Eugene take O-126 east to O-242 to Proxy Falls trail head.",
-  "temperature_high": 58.22,
-  "temperature_mid": 53.75,
-  "temperature_low": 49.28,
+  "temperature": {
+    "high": 58.22,
+    "mid": 53.75,
+    "low": 49.28
+  },
   "dew_point": 46.91,
   "humidity": 0.8,
   "cloud_cover": 0.91,

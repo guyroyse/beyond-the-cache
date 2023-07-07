@@ -11,9 +11,11 @@
   "longitude": -82.29486,
   "location": "-82.29486,40.85035",
   "location_details": "Rural area, about two miles outside of town.",
-  "temperature_high": 89.22,
-  "temperature_mid": 80.425,
-  "temperature_low": 71.63,
+  "temperature": {
+    "high": 89.22,
+    "mid": 80.425,
+    "low": 71.63
+  },
   "dew_point": 67.54,
   "humidity": 0.71,
   "cloud_cover": 0.43,

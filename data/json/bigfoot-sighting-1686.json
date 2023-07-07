@@ -11,9 +11,11 @@
   "longitude": -120.6694,
   "location": "-120.6694,46.71444",
   "location_details": "Along the Naches River",
-  "temperature_high": 78.56,
-  "temperature_mid": 65.425,
-  "temperature_low": 52.29,
+  "temperature": {
+    "high": 78.56,
+    "mid": 65.425,
+    "low": 52.29
+  },
   "dew_point": 51.98,
   "humidity": 0.58,
   "cloud_cover": 0.24,

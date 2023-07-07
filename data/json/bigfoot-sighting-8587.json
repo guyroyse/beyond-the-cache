@@ -11,9 +11,11 @@
   "longitude": -81.77677,
   "location": "-81.77677,41.02572",
   "location_details": "From Wadsworth, take College Street west until it turns into Greenwich Road. Our property was on the right hand side. If you hit Mennonite Road, you went to far.",
-  "temperature_high": 72.7,
-  "temperature_mid": 64.155,
-  "temperature_low": 55.61,
+  "temperature": {
+    "high": 72.7,
+    "mid": 64.155,
+    "low": 55.61
+  },
   "dew_point": 57.99,
   "humidity": 0.76,
   "cloud_cover": 0.78,

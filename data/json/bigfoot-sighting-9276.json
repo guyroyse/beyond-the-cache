@@ -11,9 +11,11 @@
   "longitude": -124.3688,
   "location": "-124.3688,43.1786",
   "location_details": "Between Seven Devils Road and Highway 101.",
-  "temperature_high": 65.81,
-  "temperature_mid": 61.905,
-  "temperature_low": 58,
+  "temperature": {
+    "high": 65.81,
+    "mid": 61.905,
+    "low": 58
+  },
   "dew_point": 52.76,
   "humidity": 0.76,
   "cloud_cover": 0.54,

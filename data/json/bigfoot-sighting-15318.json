@@ -11,9 +11,11 @@
   "longitude": -81.1498,
   "location": "-81.1498,25.86895",
   "location_details": "SR41 near 40 mile bend",
-  "temperature_high": 85.31,
-  "temperature_mid": 78.95,
-  "temperature_low": 72.59,
+  "temperature": {
+    "high": 85.31,
+    "mid": 78.95,
+    "low": 72.59
+  },
   "dew_point": 73.4,
   "humidity": 0.84,
   "cloud_cover": 0.71,

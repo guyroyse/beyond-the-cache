@@ -11,9 +11,11 @@
   "longitude": -122.1675,
   "location": "-122.1675,40.75",
   "location_details": "An undeveloped campground in Jones Valley, on the way into Jones Valley Resort.",
-  "temperature_high": 66.53,
-  "temperature_mid": 54.885,
-  "temperature_low": 43.24,
+  "temperature": {
+    "high": 66.53,
+    "mid": 54.885,
+    "low": 43.24
+  },
   "dew_point": 34.54,
   "humidity": 0.53,
   "cloud_cover": 0.06,

@@ -11,9 +11,11 @@
   "longitude": -80.54558,
   "location": "-80.54558,41.72735",
   "location_details": "In a remote part of Northeastern Ohio while driving to Pennsylvania on route 6 near the state border",
-  "temperature_high": 81.82,
-  "temperature_mid": 71.63,
-  "temperature_low": 61.44,
+  "temperature": {
+    "high": 81.82,
+    "mid": 71.63,
+    "low": 61.44
+  },
   "dew_point": 54.24,
   "humidity": 0.59,
   "cloud_cover": 0.1,

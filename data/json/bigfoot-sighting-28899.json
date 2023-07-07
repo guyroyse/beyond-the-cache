@@ -11,9 +11,11 @@
   "longitude": -89.3469,
   "location": "-89.3469,39.5075",
   "location_details": "Near the South Fork of the Sangamon River bridge on Illinois Route 48, two miles southwest of Taylorville.",
-  "temperature_high": 76.42,
-  "temperature_mid": 64.25,
-  "temperature_low": 52.08,
+  "temperature": {
+    "high": 76.42,
+    "mid": 64.25,
+    "low": 52.08
+  },
   "dew_point": 39.32,
   "humidity": 0.49,
   "cloud_cover": 0.04,

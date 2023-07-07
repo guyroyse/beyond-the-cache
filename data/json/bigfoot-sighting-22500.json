@@ -11,9 +11,11 @@
   "longitude": -123.2393,
   "location": "-123.2393,39.83929",
   "location_details": "Was on a Covelo residents property, up a hill, he had 2 horses. Not sure where it was exactly, we were asked to go there to look over this. Please dont list this, Im still not sure what happened yet.",
-  "temperature_high": 50.16,
-  "temperature_mid": 45.755,
-  "temperature_low": 41.35,
+  "temperature": {
+    "high": 50.16,
+    "mid": 45.755,
+    "low": 41.35
+  },
   "dew_point": 38.95,
   "humidity": 0.81,
   "cloud_cover": 0.78,

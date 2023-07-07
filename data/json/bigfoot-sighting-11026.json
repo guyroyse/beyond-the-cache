@@ -11,9 +11,11 @@
   "longitude": -91.1713,
   "location": "-91.1713,46.6425",
   "location_details": "North of Hwy 2 and West of Washburn in the Chequamegon National Forest near Horseshoe Lake Camp. Approximately one mile north of forest road 245 and one mile west of forest road 427.",
-  "temperature_high": 46.44,
-  "temperature_mid": 45.855,
-  "temperature_low": 45.27,
+  "temperature": {
+    "high": 46.44,
+    "mid": 45.855,
+    "low": 45.27
+  },
   "dew_point": 41.53,
   "humidity": 0.94,
   "cloud_cover": 0.91,

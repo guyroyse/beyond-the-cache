@@ -11,9 +11,11 @@
   "longitude": -120.8206,
   "location": "-120.8206,47.77559",
   "location_details": "Just past Cole's corner heading west towards Stevens Pass. Approx 34 miles east of the pass.",
-  "temperature_high": 62.57,
-  "temperature_mid": 55.5,
-  "temperature_low": 48.43,
+  "temperature": {
+    "high": 62.57,
+    "mid": 55.5,
+    "low": 48.43
+  },
   "dew_point": 41.18,
   "humidity": 0.66,
   "cloud_cover": 0.11,

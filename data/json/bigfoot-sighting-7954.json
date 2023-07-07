@@ -11,9 +11,11 @@
   "longitude": -124.0255,
   "location": "-124.0255,42.6425",
   "location_details": "It was a short distance into the wild section of the Rogue River not too far above Foster Bar, and immediately on the south bank of the river.",
-  "temperature_high": 78.7,
-  "temperature_mid": 64.945,
-  "temperature_low": 51.19,
+  "temperature": {
+    "high": 78.7,
+    "mid": 64.945,
+    "low": 51.19
+  },
   "dew_point": 53.58,
   "humidity": 0.71,
   "cloud_cover": 0.5,

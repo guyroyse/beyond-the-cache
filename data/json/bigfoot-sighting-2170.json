@@ -11,9 +11,11 @@
   "longitude": -94.22206,
   "location": "-94.22206,42.72063",
   "location_details": "Sumner ave bridge if your going soutwest then take a left before the hill and go over into the woody area and walk about a 1/4 of a mile down ther take right and down about 50 yards.",
-  "temperature_high": 50.21,
-  "temperature_mid": 42.365,
-  "temperature_low": 34.52,
+  "temperature": {
+    "high": 50.21,
+    "mid": 42.365,
+    "low": 34.52
+  },
   "dew_point": 34.02,
   "humidity": 0.76,
   "cloud_cover": 0.32,

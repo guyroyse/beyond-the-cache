@@ -11,9 +11,11 @@
   "longitude": -94.97862,
   "location": "-94.97862,37.7684",
   "location_details": "The easiest way to get you there is from Highway 3. Going north out of Crawford County the hiway jogs over on Highway 39 (I think) and goes north, from there go 3 miles north (there is an old red church buldind on the NW corner, go about 1 & 3/4 miles to the low water bridge & about 100 yards past the bridge is where it crossed. It was going south.",
-  "temperature_high": 84.26,
-  "temperature_mid": 75.15,
-  "temperature_low": 66.04,
+  "temperature": {
+    "high": 84.26,
+    "mid": 75.15,
+    "low": 66.04
+  },
   "dew_point": 64.92,
   "humidity": 0.77,
   "cloud_cover": 0.22,

@@ -1,0 +1,35 @@
+{
+  "reportId": "7406",
+  "title": "Father and Son Hunting Mill Creek Drainage Near Walla Walla, WA see biped walking across slope",
+  "date": "2003-11-19",
+  "timestamp": 1069200000,
+  "observed": "My dad got drawn for a big bull elk permit in the Mill Creek Watershed. He harvested a bull on November 1, off of Green Peak. We were packing out meat on Tuesday, November 4 in the late afternoon. We were taking our time following the trail back to Lewis Peak. There was about an hour of light left. We stopped at a rock outcropping to take a breather when I saw motion out of the corner of my eye. I told my dad that there was something coming across the openning we had just previously crossed. I was not sure what it was, as it had moved behind a tree. As it continued across the ridge, I noted that the animal was walking on two legs. The distance from where we were to the animal was approximately 500 yards. It was very clearly a bi-ped. We are very experienced hunters (20+ years for me, 40+ years for dad), with a lot of time in the field. We have harvested many, many deer, elk, and bear. This animal walked upright, and very quickly covered the distance across the openning, which was over a steep, loose-shale part of the trail. The trail was covered with packed snow from foot and horse traffic, and was fairly slippery in the cold weather. We had just crossed it, and had to take our time with the backpacks to make sure we did not slip. The animal crossed this openning very quickly, with no apparent difficulty whatsoever. It appeared to be approximately 7-8 feet tall and very dark from head to toe. It did look our direction, but did not stop to observe us. After a quick debate about what the heck we had just seen, noting that we were not carrying firearms at the time, it was heading in our direction, and that we had two loads of elk parts on our packs, we quickly left the area. I watched the trail as my dad tied the packs to the 4-wheeler, but did not see anything come down the trail.",
+  "classification": "Class A",
+  "county": "Walla Walla",
+  "state": "Washington",
+  "latitude": 46.0573,
+  "longitude": -117.9793,
+  "location": {
+    "longitude": -117.9793,
+    "latitude": 46.0573
+  },
+  "location_details": "Walla Walla Mill Creek Watershed. On the intake trail between Green Peak and Lewis Peak. Sighting occurred on an open, rocky face, within 1/4 mile of Lewis Peak, just before leaving the National Forest boundary.",
+  "temperature": {
+    "high": 57.34,
+    "mid": 43.99,
+    "low": 30.64
+  },
+  "dew_point": 33.74,
+  "humidity": 0.65,
+  "cloud_cover": 0.47,
+  "moon_phase": 0.85,
+  "precip_intensity": 0.0041,
+  "precip_probability": 0.7,
+  "precip_type": "rain",
+  "pressure": 1009.65,
+  "summary": "Breezy in the morning and mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 9.22,
+  "wind_bearing": 217,
+  "wind_speed": 10.47
+}

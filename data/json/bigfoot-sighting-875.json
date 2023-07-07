@@ -11,9 +11,11 @@
   "longitude": -120.6781,
   "location": "-120.6781,41.41",
   "location_details": "California Pines--an area boarded on 3 sides by Modoc Nat. Forrest",
-  "temperature_high": 85.23,
-  "temperature_mid": 69.905,
-  "temperature_low": 54.58,
+  "temperature": {
+    "high": 85.23,
+    "mid": 69.905,
+    "low": 54.58
+  },
   "dew_point": 41.63,
   "humidity": 0.41,
   "cloud_cover": 0.15,

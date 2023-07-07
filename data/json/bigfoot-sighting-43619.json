@@ -11,9 +11,11 @@
   "longitude": -90.928,
   "location": "-90.928,40.9119",
   "location_details": "On a secondary road at a creek crossing.",
-  "temperature_high": 85.64,
-  "temperature_mid": 68.275,
-  "temperature_low": 50.91,
+  "temperature": {
+    "high": 85.64,
+    "mid": 68.275,
+    "low": 50.91
+  },
   "dew_point": 66.01,
   "humidity": 0.79,
   "cloud_cover": 0.24,

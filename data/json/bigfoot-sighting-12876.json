@@ -11,9 +11,11 @@
   "longitude": -123.8358,
   "location": "-123.8358,46.93755",
   "location_details": "Just west of Aberdeen, on the way to Westport.",
-  "temperature_high": 58.2,
-  "temperature_mid": 55.59,
-  "temperature_low": 52.98,
+  "temperature": {
+    "high": 58.2,
+    "mid": 55.59,
+    "low": 52.98
+  },
   "dew_point": 51.45,
   "humidity": 0.87,
   "cloud_cover": 0.94,

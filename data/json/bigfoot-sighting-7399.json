@@ -11,9 +11,11 @@
   "longitude": -84.35389,
   "location": "-84.35389,41.93",
   "location_details": "(edited) Near Hudson",
-  "temperature_high": 78.12,
-  "temperature_mid": 63.97,
-  "temperature_low": 49.82,
+  "temperature": {
+    "high": 78.12,
+    "mid": 63.97,
+    "low": 49.82
+  },
   "dew_point": 37.56,
   "humidity": 0.42,
   "cloud_cover": 0.22,

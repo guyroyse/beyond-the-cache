@@ -1,0 +1,35 @@
+{
+  "reportId": "1652",
+  "title": "Multiple witness incident on the western slope of Silver Star Mt., near Pyramid Rock",
+  "date": "1972-05-22",
+  "timestamp": 75340800,
+  "observed": "It was foggy and we had never been on this road before, so we had stopped pick-up and got out to check the road ahead on foot. As we were walking south on the road we heard rocks tumbling down from above us. We decided to return to truck and turn around and not risk going any further. As we were walking back to truck I noticed foot prints going uphill from the road in an area we had walked not more than 10 minutes before. I wear a size 12d boot and was able to put my whole boot inside of these freshly made foot print. We all got scared and ran the rest of the way back to truck. As I was turning truck around I was looking over my shoulder out the window and noticed a large dark hairy animal walking upright pass about 50 ft. behind us. It looked right at us and kept going. We left the area immediatly.",
+  "classification": "Class A",
+  "county": "Skamania",
+  "state": "Washington",
+  "latitude": 45.74639,
+  "longitude": -122.2375,
+  "location": {
+    "longitude": -122.2375,
+    "latitude": 45.74639
+  },
+  "location_details": "The location was on the road over the top of Silver Star Mt. The road #4109 is on the western slope of Silver Star Mt.",
+  "temperature": {
+    "high": 62.55,
+    "mid": 52.55,
+    "low": 42.55
+  },
+  "dew_point": 43.99,
+  "humidity": 0.68,
+  "cloud_cover": 0.79,
+  "moon_phase": 0.33,
+  "precip_intensity": 0.0021,
+  "precip_probability": 0.73,
+  "precip_type": "rain",
+  "pressure": 1020.53,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 6,
+  "visibility": 9.37,
+  "wind_bearing": 229,
+  "wind_speed": 8.81
+}

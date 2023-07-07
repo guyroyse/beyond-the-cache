@@ -11,9 +11,11 @@
   "longitude": -88.01345,
   "location": "-88.01345,41.207",
   "location_details": "south of route 102, on s warner bridge road. under the bridge crossing",
-  "temperature_high": 91.42,
-  "temperature_mid": 80.06,
-  "temperature_low": 68.7,
+  "temperature": {
+    "high": 91.42,
+    "mid": 80.06,
+    "low": 68.7
+  },
   "dew_point": 71.31,
   "humidity": 0.72,
   "cloud_cover": 0.15,

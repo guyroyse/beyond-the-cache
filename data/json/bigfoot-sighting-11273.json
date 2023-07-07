@@ -11,9 +11,11 @@
   "longitude": -88.929,
   "location": "-88.929,37.91",
   "location_details": "North edge of town, trail can be accessed from N. Anna St.  Trail is just North of intersection of N. Anna St. and 10th St., trail leads to the West from roadway.",
-  "temperature_high": 85.08,
-  "temperature_mid": 75.61,
-  "temperature_low": 66.14,
+  "temperature": {
+    "high": 85.08,
+    "mid": 75.61,
+    "low": 66.14
+  },
   "dew_point": 60.48,
   "humidity": 0.71,
   "cloud_cover": 0.07,

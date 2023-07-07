@@ -1,0 +1,35 @@
+{
+  "reportId": "25915",
+  "title": "Motorist describes possible daylight morning sight near Edisto River, between Canady and Givehans",
+  "date": "2009-05-02",
+  "timestamp": 1241222400,
+  "observed": "I was traveling down Highway 61 between Canady and Givehans headed East at ten minutes after eight in the morning. I saw what I perceived as a man walking up to the side of the road. The sun was up high enough that I had put the visor back into normal position, but it back lit the man so all I could see was a silhouette. I assumed it was a man going to cross the road to a mail box. He was far enough ahead that I did not take my foot of the gas peddle, but watched him cross the road. As I approached I was concerned he may step back into the road without looking so I let off the gas and looked for him. He was gone! There was no mail box, no man, not even a house. Both sides of the road were thick woods. I slowed way down to look for him but I could not find hide nor hair of any one. He was no where to be found. Now I began thinking about what I had really seen. He had walked up to the road from the right in a leisurely manner, what I call a mosie. When he stepped into the road his first stride put him in the center of my lane. His second step put him at the center line. He crossed the road in four steps and at no time during this did the sun show between his legs above the knee. This was a big man. His hands had swung in front and behind his body as he walked. There was nothing in his hands. A hunter would have had a gun or a bow with him. I could see no color distinction between any parts of his body. Why would a man be crossing the road from one patch of wood to another at 8:10 AM? A really big man. I went on to where I was headed but noted a few land marks so I could find the place again that afternoon on my return trip. Which I did. I stopped and walked up and down that spot in the road. I crossed the road in ten steps or six hard strides, but I did not find any thing to tell me what I seen that morning.",
+  "classification": "Class B",
+  "county": "Colleton",
+  "state": "South Carolina",
+  "latitude": 33.04536,
+  "longitude": -80.45451,
+  "location": {
+    "longitude": -80.45451,
+    "latitude": 33.04536
+  },
+  "location_details": "Hwy 61 about half way between Canady and Givehans, near Edisto River.",
+  "temperature": {
+    "high": 83.11,
+    "mid": 75.565,
+    "low": 68.02
+  },
+  "dew_point": 63.18,
+  "humidity": 0.7,
+  "cloud_cover": 0.19,
+  "moon_phase": 0.28,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.3,
+  "precip_type": "rain",
+  "pressure": 1017.03,
+  "summary": "Partly cloudy in the afternoon.",
+  "uv_index": 8,
+  "visibility": 9.55,
+  "wind_bearing": 205,
+  "wind_speed": 7.74
+}

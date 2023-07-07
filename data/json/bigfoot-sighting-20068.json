@@ -11,9 +11,11 @@
   "longitude": -80.51374,
   "location": "-80.51374,38.33109",
   "location_details": "Shortly after leaving Richwood (heading in the direction of Cranberry Glades) take the left turn up Hinkle Mountain (signs along the main road note the Cranberry River and Monongahela National Forest). At the top of the mountain, turn left onto the forest road that takes you into the national forest. Go over the Cranberry River Bridge and take the next left. (There is a small campground and outhouse at the turn.) Go up the mountain and take your first left turn (a dirt road). That is the road until you come to the pave road. I saw it about two miles before you get to the paved road.",
-  "temperature_high": 76.47,
-  "temperature_mid": 65.255,
-  "temperature_low": 54.04,
+  "temperature": {
+    "high": 76.47,
+    "mid": 65.255,
+    "low": 54.04
+  },
   "dew_point": 60.11,
   "humidity": 0.75,
   "cloud_cover": 0.51,

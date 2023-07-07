@@ -11,9 +11,11 @@
   "longitude": -100.5167,
   "location": "-100.5167,31.84167",
   "location_details": "Near E.V. Spence Reservoir.",
-  "temperature_high": 57.16,
-  "temperature_mid": 51.345,
-  "temperature_low": 45.53,
+  "temperature": {
+    "high": 57.16,
+    "mid": 51.345,
+    "low": 45.53
+  },
   "dew_point": 40.52,
   "humidity": 0.78,
   "cloud_cover": 0.73,

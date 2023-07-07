@@ -11,9 +11,11 @@
   "longitude": -81.8708,
   "location": "-81.8708,26.59885",
   "location_details": "The name of the trailer court was Twin Lakes Estates. It was just off US Hwy. 41 and there was a place called \"The Shell Factory\" a tourist attraction nearby.",
-  "temperature_high": 88.97,
-  "temperature_mid": 79.985,
-  "temperature_low": 71,
+  "temperature": {
+    "high": 88.97,
+    "mid": 79.985,
+    "low": 71
+  },
   "dew_point": 71.66,
   "humidity": 0.81,
   "cloud_cover": 0.46,

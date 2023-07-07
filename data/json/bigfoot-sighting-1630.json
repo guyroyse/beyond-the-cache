@@ -11,9 +11,11 @@
   "longitude": -92.76577,
   "location": "-92.76577,43.17215",
   "location_details": "2 sightings at Idlewild Park in Floyd County is the first sighting, happened within 100 -200 yards from East Idlewild Park campgrounds. The thrid sighting was at West Idlewild Park which is about 2 miles upstream. The second sighting was in Clarksville IA in 77 of footprints.at the Knocksville Sand and Gravel Pits .These areas are well wooded and hard to get around in.  Very few, if any, other people go to any of these places",
-  "temperature_high": 83.4,
-  "temperature_mid": 72.185,
-  "temperature_low": 60.97,
+  "temperature": {
+    "high": 83.4,
+    "mid": 72.185,
+    "low": 60.97
+  },
   "dew_point": 53.98,
   "humidity": 0.67,
   "cloud_cover": 0.31,

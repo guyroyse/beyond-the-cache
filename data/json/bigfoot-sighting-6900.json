@@ -11,9 +11,11 @@
   "longitude": -80.64831,
   "location": "-80.64831,40.77972",
   "location_details": "Off of State Route 7 (the rest omitted).",
-  "temperature_high": 68.18,
-  "temperature_mid": 63.825,
-  "temperature_low": 59.47,
+  "temperature": {
+    "high": 68.18,
+    "mid": 63.825,
+    "low": 59.47
+  },
   "dew_point": 40.36,
   "humidity": 0.5,
   "cloud_cover": 0.47,

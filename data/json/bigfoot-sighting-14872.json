@@ -11,9 +11,11 @@
   "longitude": -89.54485,
   "location": "-89.54485,38.4763",
   "location_details": "Near Edwardsville",
-  "temperature_high": 87.61,
-  "temperature_mid": 76.665,
-  "temperature_low": 65.72,
+  "temperature": {
+    "high": 87.61,
+    "mid": 76.665,
+    "low": 65.72
+  },
   "dew_point": 59.45,
   "humidity": 0.59,
   "cloud_cover": 0.18,

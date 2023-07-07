@@ -11,9 +11,11 @@
   "longitude": -79.1246,
   "location": "-79.1246,34.08725",
   "location_details": "The location of the incident was just past the Little Pee Dee River on Hwy 917 between Marion and Mullns, SC",
-  "temperature_high": 89.11,
-  "temperature_mid": 80.195,
-  "temperature_low": 71.28,
+  "temperature": {
+    "high": 89.11,
+    "mid": 80.195,
+    "low": 71.28
+  },
   "dew_point": 71.43,
   "humidity": 0.8,
   "cloud_cover": 0.29,

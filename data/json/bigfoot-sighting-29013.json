@@ -11,9 +11,11 @@
   "longitude": -111.5333,
   "location": "-111.5333,41.96181",
   "location_details": "Going east out of Logan follow US 89 past Tony Grove turn off about 3 miles far east you'll see a sign for Franklin Basin. As you cross the bridge on 89 there is a turn off going north. It was in this area where the bigfoot crossed the road coming from the south . This is also the road that will take you to Cub river area in Idaho",
-  "temperature_high": 24.75,
-  "temperature_mid": 21.81,
-  "temperature_low": 18.87,
+  "temperature": {
+    "high": 24.75,
+    "mid": 21.81,
+    "low": 18.87
+  },
   "dew_point": 18.16,
   "humidity": 0.85,
   "cloud_cover": 0.96,

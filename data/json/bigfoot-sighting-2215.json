@@ -11,9 +11,11 @@
   "longitude": -90.0411,
   "location": "-90.0411,44.6543",
   "location_details": "1 1/2 miles from Granton on County Highway H. York Township.  9 miles NE of the City of Neillsville.",
-  "temperature_high": 42.15,
-  "temperature_mid": 35.53,
-  "temperature_low": 28.91,
+  "temperature": {
+    "high": 42.15,
+    "mid": 35.53,
+    "low": 28.91
+  },
   "dew_point": 26.93,
   "humidity": 0.71,
   "cloud_cover": 0.92,

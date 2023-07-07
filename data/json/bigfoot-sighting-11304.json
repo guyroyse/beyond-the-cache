@@ -11,9 +11,11 @@
   "longitude": -122.0449,
   "location": "-122.0449,43.6947",
   "location_details": "This was one of the regular camping areas on Waldo Lake. I couldn't tell you the exact spot without going back to the area which I would be willing to do.",
-  "temperature_high": 54.77,
-  "temperature_mid": 47.215,
-  "temperature_low": 39.66,
+  "temperature": {
+    "high": 54.77,
+    "mid": 47.215,
+    "low": 39.66
+  },
   "dew_point": 31.84,
   "humidity": 0.65,
   "cloud_cover": 0.46,

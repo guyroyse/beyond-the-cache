@@ -11,9 +11,11 @@
   "longitude": -94.02478,
   "location": "-94.02478,40.39956",
   "location_details": "Harrison County around Ridgeway, MO",
-  "temperature_high": 80.3,
-  "temperature_mid": 72.865,
-  "temperature_low": 65.43,
+  "temperature": {
+    "high": 80.3,
+    "mid": 72.865,
+    "low": 65.43
+  },
   "dew_point": 63.26,
   "humidity": 0.73,
   "cloud_cover": 0.42,

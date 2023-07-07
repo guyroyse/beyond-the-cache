@@ -11,9 +11,11 @@
   "longitude": -93.4386,
   "location": "-93.4386,32.4197",
   "location_details": "Lake Bistineau, outside of Shreveport near a town called Koran, not far from Houghton",
-  "temperature_high": 86.75,
-  "temperature_mid": 76.365,
-  "temperature_low": 65.98,
+  "temperature": {
+    "high": 86.75,
+    "mid": 76.365,
+    "low": 65.98
+  },
   "dew_point": 62.33,
   "humidity": 0.66,
   "cloud_cover": 0.14,

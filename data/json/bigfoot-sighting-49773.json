@@ -11,9 +11,11 @@
   "longitude": -80.50751,
   "location": "-80.50751,41.05",
   "location_details": "About one to two miles south from the Grove City Outlets Exit on the left side if you were heading South across the road going North on I-79.",
-  "temperature_high": 83.71,
-  "temperature_mid": 73.085,
-  "temperature_low": 62.46,
+  "temperature": {
+    "high": 83.71,
+    "mid": 73.085,
+    "low": 62.46
+  },
   "dew_point": 64.15,
   "humidity": 0.74,
   "cloud_cover": 0.15,

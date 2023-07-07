@@ -11,9 +11,11 @@
   "longitude": -95.05023,
   "location": "-95.05023,47.48271",
   "location_details": "Our house is surrounded by trees. We have 8.5 acres which borders state land that goes for miles.",
-  "temperature_high": 67.87,
-  "temperature_mid": 56.67,
-  "temperature_low": 45.47,
+  "temperature": {
+    "high": 67.87,
+    "mid": 56.67,
+    "low": 45.47
+  },
   "dew_point": 48.89,
   "humidity": 0.71,
   "cloud_cover": 0.15,

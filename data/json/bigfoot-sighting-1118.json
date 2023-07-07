@@ -11,9 +11,11 @@
   "longitude": -91.6533,
   "location": "-91.6533,39.8397",
   "location_details": "Between Palmyra and Philidelphia.",
-  "temperature_high": 82.15,
-  "temperature_mid": 74.045,
-  "temperature_low": 65.94,
+  "temperature": {
+    "high": 82.15,
+    "mid": 74.045,
+    "low": 65.94
+  },
   "dew_point": 63.51,
   "humidity": 0.71,
   "cloud_cover": 0.4,

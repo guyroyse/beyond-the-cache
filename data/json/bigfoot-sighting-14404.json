@@ -11,9 +11,11 @@
   "longitude": -87.47077,
   "location": "-87.47077,40.34057",
   "location_details": "West side of town.",
-  "temperature_high": 77.44,
-  "temperature_mid": 65.42,
-  "temperature_low": 53.4,
+  "temperature": {
+    "high": 77.44,
+    "mid": 65.42,
+    "low": 53.4
+  },
   "dew_point": 53.38,
   "humidity": 0.73,
   "cloud_cover": 0.03,

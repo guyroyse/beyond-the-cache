@@ -11,9 +11,11 @@
   "longitude": -94.77699,
   "location": "-94.77699,35.50285",
   "location_details": "It was near the Illinois River S.E. of Park Hill. I can't remember the exact location, but it was within a few hundred feet of the river in a clearing. There was a small hill on the other side which was covered in some trees and thickets of sumac.",
-  "temperature_high": 82.75,
-  "temperature_mid": 72.445,
-  "temperature_low": 62.14,
+  "temperature": {
+    "high": 82.75,
+    "mid": 72.445,
+    "low": 62.14
+  },
   "dew_point": 56.39,
   "humidity": 0.64,
   "cloud_cover": 0.15,

@@ -1,0 +1,35 @@
+{
+  "reportId": "2635",
+  "title": "November, 2000, Arkansas, Benton",
+  "date": "2000-11-27",
+  "timestamp": 975283200,
+  "observed": "In late November 2000, my son and I were walking my terrier dog and looking for arrowheads along Beaver Lake. My dog began to follow a large and well defined set of raccoon tracks along the lake shore. The shoreline was larger than usual due to the lack of rain. The morning was sunny with the temperature being about 50 degrees, sweat shirt weather. The raccoon tracks proceeded about 20 yards away from the water, to an area of great disturbance in the packed sandy soil. Disturbance as in some type of scuffle. The raccoon tracks intersected with two sets of human like footprints which had come from a nearby wood line. From the disturbance site, the human type tracks returned to the wood line, but the raccoon tracks ceased to exist. We did not have a camera or tape measure, but one set of tracks were 16-17 inches long and about 5 to 6 inches across at the ball of the foot. The smaller set, which ran parallel to the larger, were about 11 inches in length and maybe 4 to 5 inches at the ball. The larger set were impressed in the soil about 4 inches and the smaller pair only a couple of inches. These tracks were very flat in appearance as well. I weigh 130 lbs and my son 180 lbs, we left only faint impressions in the same soil. We attempted to follow these tracks back the way they had come, but we lost sight of them in the forest as the ground was much firmer and covered with leaves etc. One final note, my terrier dog was whining and acting very unusual, defecating and urinating on the disturbance site, then attempting to cover the location with sand and dirt.",
+  "classification": "Class B",
+  "county": "Benton",
+  "state": "Arkansas",
+  "latitude": 36.25639,
+  "longitude": -94.07806,
+  "location": {
+    "longitude": -94.07806,
+    "latitude": 36.25639
+  },
+  "location_details": "Highway 264, north of Hickory Creek Marina, south of White River on Beaver Lake, Arkansas.",
+  "temperature": {
+    "high": 53.99,
+    "mid": 42.755,
+    "low": 31.52
+  },
+  "dew_point": 29.48,
+  "humidity": 0.67,
+  "cloud_cover": 0.04,
+  "moon_phase": 0.06,
+  "precip_intensity": 0.0018,
+  "precip_probability": 0.72,
+  "precip_type": "rain",
+  "pressure": 1018.42,
+  "summary": "Clear throughout the day.",
+  "uv_index": 2,
+  "visibility": 9.85,
+  "wind_bearing": 271,
+  "wind_speed": 2.8
+}

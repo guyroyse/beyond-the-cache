@@ -11,9 +11,11 @@
   "longitude": -81.35575,
   "location": "-81.35575,40.74065",
   "location_details": "The pond is clearly visible from the road but on private property.  The only change to the pond is that the owner tore the bushes out about 2yrs ago.  The pond is usually covered with algae in summer.",
-  "temperature_high": 44.16,
-  "temperature_mid": 38.555,
-  "temperature_low": 32.95,
+  "temperature": {
+    "high": 44.16,
+    "mid": 38.555,
+    "low": 32.95
+  },
   "dew_point": 28,
   "humidity": 0.78,
   "cloud_cover": 0.97,

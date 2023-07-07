@@ -11,9 +11,11 @@
   "longitude": -123.5381,
   "location": "-123.5381,42.1533",
   "location_details": "I think the cabins and old house were around ten miles from the caves. There is or was a forest service park about a half mile from the houses. The river or creek runs along the far side of the property. it was kind of marshy on the lower part of the pasture . the cabins were a dirty yellow. also we had a problem with bats in the big house so the University came out and netted some of them and marked there wings to see if they would come back to the same place after removing them.There were three cabins and one big house on the property I wish I had something with the address but its been so many years. I don't even know why I am telling you.",
-  "temperature_high": 78.74,
-  "temperature_mid": 64.43,
-  "temperature_low": 50.12,
+  "temperature": {
+    "high": 78.74,
+    "mid": 64.43,
+    "low": 50.12
+  },
   "dew_point": 51.61,
   "humidity": 0.63,
   "cloud_cover": 0.17,

@@ -11,9 +11,11 @@
   "longitude": -74.11488,
   "location": "-74.11488,41.23296",
   "location_details": "take the Palisades parkway to exit 16",
-  "temperature_high": 79.83,
-  "temperature_mid": 70.86,
-  "temperature_low": 61.89,
+  "temperature": {
+    "high": 79.83,
+    "mid": 70.86,
+    "low": 61.89
+  },
   "dew_point": 54.8,
   "humidity": 0.59,
   "cloud_cover": 0.09,

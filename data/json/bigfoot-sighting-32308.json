@@ -11,9 +11,11 @@
   "longitude": -82.11937,
   "location": "-82.11937,28.36168",
   "location_details": "Along the Florida National Scenic Trail in the West Tract of SWFMD's Green Swamp Wilderness Preserve. At a spot between a fork with a sign pointing to the Boy Scout Bigfoot Wilderness Camp and the Compressco Camp.",
-  "temperature_high": 75.18,
-  "temperature_mid": 68.645,
-  "temperature_low": 62.11,
+  "temperature": {
+    "high": 75.18,
+    "mid": 68.645,
+    "low": 62.11
+  },
   "dew_point": 63.25,
   "humidity": 0.87,
   "cloud_cover": 0.78,

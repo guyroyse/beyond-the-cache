@@ -11,9 +11,11 @@
   "longitude": -95.23958,
   "location": "-95.23958,33.36867",
   "location_details": "right past the sulfur river bottom on hwy37",
-  "temperature_high": 86.86,
-  "temperature_mid": 78.705,
-  "temperature_low": 70.55,
+  "temperature": {
+    "high": 86.86,
+    "mid": 78.705,
+    "low": 70.55
+  },
   "dew_point": 64.84,
   "humidity": 0.79,
   "cloud_cover": 0.19,

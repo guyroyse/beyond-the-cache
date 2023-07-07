@@ -11,9 +11,11 @@
   "longitude": -88.867,
   "location": "-88.867,39.781",
   "location_details": "A little gravel road by Spitler Woods State Park.",
-  "temperature_high": 65.86,
-  "temperature_mid": 51.91,
-  "temperature_low": 37.96,
+  "temperature": {
+    "high": 65.86,
+    "mid": 51.91,
+    "low": 37.96
+  },
   "dew_point": 47,
   "humidity": 0.68,
   "cloud_cover": 0.61,

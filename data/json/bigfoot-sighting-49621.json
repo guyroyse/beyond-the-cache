@@ -11,9 +11,11 @@
   "longitude": -81.52805,
   "location": "-81.52805,42.75195",
   "location_details": "It happened in Bancroft park in Lansing",
-  "temperature_high": 45.33,
-  "temperature_mid": 40.395,
-  "temperature_low": 35.46,
+  "temperature": {
+    "high": 45.33,
+    "mid": 40.395,
+    "low": 35.46
+  },
   "dew_point": 30.78,
   "humidity": 0.81,
   "cloud_cover": 0.24,

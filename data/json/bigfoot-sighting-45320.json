@@ -11,9 +11,11 @@
   "longitude": -109.7452,
   "location": "-109.7452,33.988",
   "location_details": "Near Hawley Lake on the White Mountain Apache Reservation.",
-  "temperature_high": 90.32,
-  "temperature_mid": 76.14,
-  "temperature_low": 61.96,
+  "temperature": {
+    "high": 90.32,
+    "mid": 76.14,
+    "low": 61.96
+  },
   "dew_point": 32.56,
   "humidity": 0.21,
   "cloud_cover": 0.04,

@@ -11,9 +11,11 @@
   "longitude": -84.85902,
   "location": "-84.85902,36.39403",
   "location_details": "i dont know how to get there or any of the roads in the area.",
-  "temperature_high": 78.82,
-  "temperature_mid": 66.195,
-  "temperature_low": 53.57,
+  "temperature": {
+    "high": 78.82,
+    "mid": 66.195,
+    "low": 53.57
+  },
   "dew_point": 49.75,
   "humidity": 0.62,
   "cloud_cover": 0.12,

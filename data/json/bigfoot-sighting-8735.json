@@ -11,9 +11,11 @@
   "longitude": -123.115,
   "location": "-123.115,39.83",
   "location_details": "North of Hwy 162 on Murry Range on the lower road. This was reseravation land.",
-  "temperature_high": 67.25,
-  "temperature_mid": 58.515,
-  "temperature_low": 49.78,
+  "temperature": {
+    "high": 67.25,
+    "mid": 58.515,
+    "low": 49.78
+  },
   "dew_point": 48.32,
   "humidity": 0.68,
   "cloud_cover": 0.41,

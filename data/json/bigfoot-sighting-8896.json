@@ -11,9 +11,11 @@
   "longitude": -121.4822,
   "location": "-121.4822,39.53722",
   "location_details": "North down Hwy. 70 of Oroville. Turn right down Cherokee Rd. Turn left down Vinton Gulch Rd. to launch ramp on Lake Oroville",
-  "temperature_high": 88.38,
-  "temperature_mid": 74.165,
-  "temperature_low": 59.95,
+  "temperature": {
+    "high": 88.38,
+    "mid": 74.165,
+    "low": 59.95
+  },
   "dew_point": 52.8,
   "humidity": 0.5,
   "cloud_cover": 0.02,

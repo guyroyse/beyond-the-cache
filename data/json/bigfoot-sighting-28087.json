@@ -11,9 +11,11 @@
   "longitude": -124.6802,
   "location": "-124.6802,48.27646",
   "location_details": "Directions to the site: Drive through Neah Bay on the Makah Reservation and continue down towards the trailhead (near the fish hatchery). Take the trail a few miles to the beach, go down the switchbacks at the very end of the trail. Go to the beach and go N for 100 yards. There will be a rocky/cliff divider between the main beach and the smaller northern one. This is the ridge I am referring to and we were camped just north of it along the cliff wall, about 50-75 feet further.",
-  "temperature_high": 61.82,
-  "temperature_mid": 57.825,
-  "temperature_low": 53.83,
+  "temperature": {
+    "high": 61.82,
+    "mid": 57.825,
+    "low": 53.83
+  },
   "dew_point": 49.24,
   "humidity": 0.76,
   "cloud_cover": 0.22,

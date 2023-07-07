@@ -11,9 +11,11 @@
   "longitude": -119.836,
   "location": "-119.836,38.28085",
   "location_details": "We were located in Eagle Meadows.  Do not recall the specific directions to this particular site.",
-  "temperature_high": 48.91,
-  "temperature_mid": 42.665,
-  "temperature_low": 36.42,
+  "temperature": {
+    "high": 48.91,
+    "mid": 42.665,
+    "low": 36.42
+  },
   "dew_point": 35.78,
   "humidity": 0.8,
   "cloud_cover": 0.57,

@@ -11,9 +11,11 @@
   "longitude": -83.8329,
   "location": "-83.8329,34.7064",
   "location_details": "The dirt road was on the left hand side of the road before you get to the trail head of Raven Cliff Falls.  I am not sure which road it was though.",
-  "temperature_high": 88.36,
-  "temperature_mid": 75.785,
-  "temperature_low": 63.21,
+  "temperature": {
+    "high": 88.36,
+    "mid": 75.785,
+    "low": 63.21
+  },
   "dew_point": 64.29,
   "humidity": 0.64,
   "cloud_cover": 0.07,

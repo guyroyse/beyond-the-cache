@@ -11,9 +11,11 @@
   "longitude": -88.724,
   "location": "-88.724,40.19732",
   "location_details": "You would take Illinois Rt 54 out of Farmer City going west, then take a left onto Liberty Road, or as the maps say 2225 E.",
-  "temperature_high": 90.74,
-  "temperature_mid": 80.645,
-  "temperature_low": 70.55,
+  "temperature": {
+    "high": 90.74,
+    "mid": 80.645,
+    "low": 70.55
+  },
   "dew_point": 63.23,
   "humidity": 0.63,
   "cloud_cover": 0.1,

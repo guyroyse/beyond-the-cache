@@ -11,9 +11,11 @@
   "longitude": -123.9718,
   "location": "-123.9718,47.3631",
   "location_details": "about 1 mile from the Quinault hatchery",
-  "temperature_high": 72.12,
-  "temperature_mid": 64.685,
-  "temperature_low": 57.25,
+  "temperature": {
+    "high": 72.12,
+    "mid": 64.685,
+    "low": 57.25
+  },
   "dew_point": 55.79,
   "humidity": 0.78,
   "cloud_cover": 0.42,

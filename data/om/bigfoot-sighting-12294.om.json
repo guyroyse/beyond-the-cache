@@ -1,0 +1,35 @@
+{
+  "reportId": "12294",
+  "title": "Daylight sighting near Happy Camp",
+  "date": "1967-03-10",
+  "timestamp": -88819200,
+  "observed": "My husband was a teacher and had left for school.  Our daughter had just gotten on the grade school bus so it was after 8:00.  There had been no water so I took the two little boys 3 1/2 and 20 months and walked up the hill to clean the screen to the intake on the holding tank. This was taxing because I was 8 months pragnant at the time.  We had just gotten to the top and I was going to sit on a big tree stump.  The cat had jumped on it and immediatly arched her back hair on end and screeched.  I looked to see what she was looking at and there was this huge man like thing... It's hair was long like a horses mane and 'flowed'. It was all black that I could see. It first dropped down, and then got right up and ran uphill, zig zagging around branches as it went. I grabbed the two boys and ran down that hill so fast.  I could have gone a mile. My heart was really pumping.",
+  "classification": "Class A",
+  "county": "Siskiyou",
+  "state": "California",
+  "latitude": 41.75,
+  "longitude": -123.35,
+  "location": {
+    "longitude": -123.35,
+    "latitude": 41.75
+  },
+  "location_details": "Our back yard... Mountain I should say.",
+  "temperature": {
+    "high": 35.08,
+    "mid": 26.54,
+    "low": 18
+  },
+  "dew_point": 27.69,
+  "humidity": 0.83,
+  "cloud_cover": 1,
+  "moon_phase": 0.98,
+  "precip_intensity": 0.0289,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1002.33,
+  "summary": "Foggy throughout the day.",
+  "uv_index": 3,
+  "visibility": 2.72,
+  "wind_bearing": 257,
+  "wind_speed": 3.31
+}

@@ -1,0 +1,35 @@
+{
+  "reportId": "41012",
+  "title": "Two girls have a daytime close encounter on their family farm near Oak Grove",
+  "date": "2013-04-27",
+  "timestamp": 1367020800,
+  "observed": "I was in the woods with my friend, it was 6:29pm, and the ground was wet. From 10 yards (or so) away between two trees a blackish figure (8 feet tall) moved and I saw it directly for only a split second. The cat we were with was on a tree stump near by and was looking right by where we saw it and her hair was all puffed up. Then we heard two splashes together (it crossed a puddle). Then the neighbor's dogs ran up to the fence (out of sight) and one barked, then the sound was repeated but in a more girthy tone, and then it was repeated over and over again on different sides of the lake. then everything got louder and very intense and we heard a cow moo from across the lake and they don't have any cows, then we went inside.",
+  "classification": "Class A",
+  "county": "Lafayette",
+  "state": "Missouri",
+  "latitude": 39.30745,
+  "longitude": -94.59565,
+  "location": {
+    "longitude": -94.59565,
+    "latitude": 39.30745
+  },
+  "location_details": "Carter Buschardt knows how to get there",
+  "temperature": {
+    "high": 55.17,
+    "mid": 48.27,
+    "low": 41.37
+  },
+  "dew_point": 46.65,
+  "humidity": 0.86,
+  "cloud_cover": 0.93,
+  "moon_phase": 0.57,
+  "precip_intensity": 0.0059,
+  "precip_probability": 0.77,
+  "precip_type": "rain",
+  "pressure": 1019.54,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.06,
+  "wind_bearing": 68,
+  "wind_speed": 3.96
+}

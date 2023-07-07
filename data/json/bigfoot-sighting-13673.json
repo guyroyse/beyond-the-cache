@@ -11,9 +11,11 @@
   "longitude": -80.156,
   "location": "-80.156,33.007",
   "location_details": "(EDITED) off of Hwy 78",
-  "temperature_high": 88.13,
-  "temperature_mid": 81.48,
-  "temperature_low": 74.83,
+  "temperature": {
+    "high": 88.13,
+    "mid": 81.48,
+    "low": 74.83
+  },
   "dew_point": 71.38,
   "humidity": 0.77,
   "cloud_cover": 0.83,

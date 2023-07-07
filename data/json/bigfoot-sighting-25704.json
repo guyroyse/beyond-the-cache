@@ -11,9 +11,11 @@
   "longitude": -88.65912,
   "location": "-88.65912,37.52127",
   "location_details": "Bell Smith Springs National Natural Landmark",
-  "temperature_high": 90.64,
-  "temperature_mid": 77.54,
-  "temperature_low": 64.44,
+  "temperature": {
+    "high": 90.64,
+    "mid": 77.54,
+    "low": 64.44
+  },
   "dew_point": 57.94,
   "humidity": 0.59,
   "cloud_cover": 0.07,

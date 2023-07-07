@@ -1,0 +1,35 @@
+{
+  "reportId": "1612",
+  "title": "Screams terrify campers near Mt. St. Helens",
+  "date": "1972-08-15",
+  "timestamp": 82684800,
+  "observed": "I'd just like to state that I'm not the witness, I'm making this report out on her behalf. There was a huge crashing through underbrush. She described it as a very rappid thrashing/crashing sound, twigs snapping, etc. It was followed by a loud, high pitched scream. She likened it to a woman screaming. She said it was very close, based on the distance she pointed out to me, maybe about 30-50 yards. She said she and the four other people she was camping with her absolutely terrified and left the area right away.",
+  "classification": "Class B",
+  "county": "Cowlitz",
+  "state": "Washington",
+  "latitude": 46.06333,
+  "longitude": -122.1967,
+  "location": {
+    "longitude": -122.1967,
+    "latitude": 46.06333
+  },
+  "location_details": "It was near Mt. St. Helens, below Ape Caves. The witness would probably be able to give you more detail if she has a map handy.",
+  "temperature": {
+    "high": 66.68,
+    "mid": 59.99,
+    "low": 53.3
+  },
+  "dew_point": 54.22,
+  "humidity": 0.85,
+  "cloud_cover": 0.98,
+  "moon_phase": 0.21,
+  "precip_intensity": 0.0023,
+  "precip_probability": 0.19,
+  "precip_type": "rain",
+  "pressure": 1017.03,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 4,
+  "visibility": 7.71,
+  "wind_bearing": 182,
+  "wind_speed": 1.42
+}

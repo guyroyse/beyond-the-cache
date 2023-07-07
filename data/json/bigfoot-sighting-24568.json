@@ -11,9 +11,11 @@
   "longitude": -121.7666,
   "location": "-121.7666,47.43534",
   "location_details": "As you drive up to the lake there was a clearing that was surrounded by wooded area on 2 sides of the clearing... it might be parking now or part of a bike trail...",
-  "temperature_high": 68.04,
-  "temperature_mid": 59.085,
-  "temperature_low": 50.13,
+  "temperature": {
+    "high": 68.04,
+    "mid": 59.085,
+    "low": 50.13
+  },
   "dew_point": 47.94,
   "humidity": 0.7,
   "cloud_cover": 0.32,

@@ -1,0 +1,34 @@
+{
+  "reportId": "16691",
+  "title": "Man describes possible sighting during childhood in Hinkley Basin",
+  "date": "1958-04-15",
+  "timestamp": -369705600,
+  "observed": "This happened 48 years ago. I was a boy 13 years old and my friend and I were riding our bikes in a remote part of the Santa Cruz Mts. in what today is a State Park. However, at the time this was private land that had been logged over in the late 1800's and early 20th Century. This land is steep, treed with redwoods and coastal oaks, very dense and rugged. Nothing in the way of logging, ranching or man made activity was happening or for that matter since the last logging in the 1920's. This was a place that maybe saw a handful of people a year. We had pushed our bikes uphill for the last two hours and were riding downhill on a old fire road. We were going fast and quiet, when I slowed down for a muddy spot so as not to lose control, I noticed to my right just behind a redwood tree a figure that was about the same color of the tree bark, dark brown. It stepped from behind the tree and ran downhill. I stopped, dropped my bike and ran the twenty feet to the edge of the road, by this time it was running fast, with the unmistakeable sound of two feet treading on Tanbark Oak leaves. The creature was over six feet tall, and had the shape of a man. I have camped in the area since this encounter and have heard a high pitch whistle sound and also a thumping of wood on wood more than once. Often, we had the sense of being watched, and left the area because of this feeling.",
+  "classification": "Class B",
+  "county": "Santa Cruz",
+  "state": "California",
+  "latitude": 37.055,
+  "longitude": -121.845,
+  "location": {
+    "longitude": -121.845,
+    "latitude": 37.055
+  },
+  "location_details": "This is near the epicenter of the '89 Earthquake. The area specifically where this happened is called Hinkley Basin. This in now part of Nisine Marks State Park.",
+  "temperature": {
+    "high": 71.5,
+    "mid": 61.71,
+    "low": 51.92
+  },
+  "dew_point": 51.23,
+  "humidity": 0.72,
+  "cloud_cover": 0.12,
+  "moon_phase": 0.9,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1017.91,
+  "summary": "Partly cloudy in the evening.",
+  "uv_index": 10,
+  "visibility": 8.48,
+  "wind_bearing": 294,
+  "wind_speed": 5.12
+}

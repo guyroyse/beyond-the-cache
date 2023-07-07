@@ -11,9 +11,11 @@
   "longitude": -122.7465,
   "location": "-122.7465,42.08845",
   "location_details": "the best way ive found to get there is 7 mile up 2060 and find the old forest service trail ,hike about 2 miles to the dencely forested slopes south of wagner peak up in the asland water shed. however there is a good trail up from wagner cr.rd.",
-  "temperature_high": 78.45,
-  "temperature_mid": 68.12,
-  "temperature_low": 57.79,
+  "temperature": {
+    "high": 78.45,
+    "mid": 68.12,
+    "low": 57.79
+  },
   "dew_point": 44.91,
   "humidity": 0.49,
   "cloud_cover": 0.36,

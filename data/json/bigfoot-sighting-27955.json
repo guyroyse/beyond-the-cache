@@ -11,9 +11,11 @@
   "longitude": -84.94009,
   "location": "-84.94009,38.12912",
   "location_details": "from Farmdale subdivision nnw appx 1.5 to 2 miles across several farms you will come to some very dense old growth hard woods and many ceader trees of varying sizes. the location of the sighting was with in these woods.",
-  "temperature_high": 40.22,
-  "temperature_mid": 32.915,
-  "temperature_low": 25.61,
+  "temperature": {
+    "high": 40.22,
+    "mid": 32.915,
+    "low": 25.61
+  },
   "dew_point": 18.41,
   "humidity": 0.56,
   "cloud_cover": 0.25,

@@ -11,9 +11,11 @@
   "longitude": -121.3051,
   "location": "-121.3051,46.8733",
   "location_details": "From Naches, Wa, head west on Highway 410 towards Chinook Pass. The turnoff to Bumping Lake is about 30 miles from the summit of Chinook Pass. We went on past Bumping Lake about 4 or 5 miles towards Deep Creek. It was the last 4-wheel drive trail before Deep Creek. This 4 wheel trail was about a mile long, ending in a swampy area.",
-  "temperature_high": 83.76,
-  "temperature_mid": 72.64,
-  "temperature_low": 61.52,
+  "temperature": {
+    "high": 83.76,
+    "mid": 72.64,
+    "low": 61.52
+  },
   "dew_point": 57.24,
   "humidity": 0.66,
   "cloud_cover": 0.19,

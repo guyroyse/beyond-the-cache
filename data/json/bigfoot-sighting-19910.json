@@ -11,9 +11,11 @@
   "longitude": -89.022,
   "location": "-89.022,42.1846",
   "location_details": "Near the bridge where Interstate 39 crosses the Kishwaukee River.",
-  "temperature_high": 71.43,
-  "temperature_mid": 56.445,
-  "temperature_low": 41.46,
+  "temperature": {
+    "high": 71.43,
+    "mid": 56.445,
+    "low": 41.46
+  },
   "dew_point": 45.81,
   "humidity": 0.7,
   "cloud_cover": 0.34,

@@ -11,9 +11,11 @@
   "longitude": -93.0887,
   "location": "-93.0887,31.6498",
   "location_details": "i would have to show you there are many places along that hwy that are like it but i know it well",
-  "temperature_high": 60.5,
-  "temperature_mid": 46.83,
-  "temperature_low": 33.16,
+  "temperature": {
+    "high": 60.5,
+    "mid": 46.83,
+    "low": 33.16
+  },
   "dew_point": 33.35,
   "humidity": 0.56,
   "cloud_cover": 0.13,

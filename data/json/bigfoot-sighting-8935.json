@@ -11,9 +11,11 @@
   "longitude": -81.30249,
   "location": "-81.30249,27.84434",
   "location_details": "100 thousand + acre ranch and private hunting reserve between Lake Kissimme and Tiger Lake. Long leaf pine, palmetto heads and oak hammocks. I will provide more specfic directions after I speak to a researcher.",
-  "temperature_high": 77.22,
-  "temperature_mid": 67.77,
-  "temperature_low": 58.32,
+  "temperature": {
+    "high": 77.22,
+    "mid": 67.77,
+    "low": 58.32
+  },
   "dew_point": 61.5,
   "humidity": 0.82,
   "cloud_cover": 0.39,

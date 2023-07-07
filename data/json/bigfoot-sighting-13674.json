@@ -11,9 +11,11 @@
   "longitude": -81.861,
   "location": "-81.861,35.148",
   "location_details": "South of Chesnee, S.C. about 1/2 mile from the nearest road.",
-  "temperature_high": 90.38,
-  "temperature_mid": 80.32,
-  "temperature_low": 70.26,
+  "temperature": {
+    "high": 90.38,
+    "mid": 80.32,
+    "low": 70.26
+  },
   "dew_point": 68.75,
   "humidity": 0.7,
   "cloud_cover": 0.24,

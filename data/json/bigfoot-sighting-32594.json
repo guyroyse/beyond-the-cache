@@ -11,9 +11,11 @@
   "longitude": -84.41335,
   "location": "-84.41335,43.83165",
   "location_details": "a plowed cornfield with an island of trees and woods at the back part of the field off of a dirt road in farming country with plenty of water sources and abundance of wildlife",
-  "temperature_high": 39.61,
-  "temperature_mid": 33.795,
-  "temperature_low": 27.98,
+  "temperature": {
+    "high": 39.61,
+    "mid": 33.795,
+    "low": 27.98
+  },
   "dew_point": 27.94,
   "humidity": 0.81,
   "cloud_cover": 0.18,

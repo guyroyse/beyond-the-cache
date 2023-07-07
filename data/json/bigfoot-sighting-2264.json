@@ -11,9 +11,11 @@
   "longitude": -94.3677,
   "location": "-94.3677,42.0152",
   "location_details": "It happened on Old Highway 30 which is also known as East Lincolnway",
-  "temperature_high": 88.59,
-  "temperature_mid": 80.47,
-  "temperature_low": 72.35,
+  "temperature": {
+    "high": 88.59,
+    "mid": 80.47,
+    "low": 72.35
+  },
   "dew_point": 64.48,
   "humidity": 0.61,
   "cloud_cover": 0.49,

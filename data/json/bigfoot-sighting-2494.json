@@ -11,9 +11,11 @@
   "longitude": -91.735,
   "location": "-91.735,34.787",
   "location_details": "I dont remember the name of the little town we stopped so the driver could report it. but he said we would be in little rock in about fourty five more minutes. this has been to many years gone by to make a diffrents. just wanted to say I know he is real.",
-  "temperature_high": 88.51,
-  "temperature_mid": 80.97,
-  "temperature_low": 73.43,
+  "temperature": {
+    "high": 88.51,
+    "mid": 80.97,
+    "low": 73.43
+  },
   "dew_point": 73.39,
   "humidity": 0.85,
   "cloud_cover": 0.5,

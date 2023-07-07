@@ -1,0 +1,35 @@
+{
+  "reportId": "13288",
+  "title": "Daylight sighting by turkey hunter near Napoli",
+  "date": "2004-10-15",
+  "timestamp": 1097798400,
+  "observed": "I saw one in Napoli, NY, by Sawmill Run Rd. It was October 2000. My dad and I were hunting turkey on state land we were walking slow and quietly stopping and looking around. We were about 20 yards apart and we were both looking SE. I turned slowly and didn't see anything, but then did see movement in front of me. I pulled up my gun, ready for a turkey. It was about 20 yards away and I didn't shoot. I didn't know what it was. It was on two legs, all brown-red hair all over it and at least six feet tall. It took off running like a big guy, but swift. It ran down hill away from me and was out of sight. My dad was still looking the other way. I wish he saw it to, but he didn't.",
+  "classification": "Class A",
+  "county": "Cattaraugus",
+  "state": "New York",
+  "latitude": 42.15947,
+  "longitude": -78.82683,
+  "location": {
+    "longitude": -78.82683,
+    "latitude": 42.15947
+  },
+  "location_details": "New York State Land on Bucktooth Rd. & Sawmill Run Rd. in Napoli, NY.",
+  "temperature": {
+    "high": 55.94,
+    "mid": 49.665,
+    "low": 43.39
+  },
+  "dew_point": 47.96,
+  "humidity": 0.86,
+  "cloud_cover": 0.89,
+  "moon_phase": 0.05,
+  "precip_intensity": 0.0113,
+  "precip_probability": 0.77,
+  "precip_type": "rain",
+  "pressure": 995.95,
+  "summary": "Mostly cloudy throughout the day and breezy overnight.",
+  "uv_index": 2,
+  "visibility": 7.9,
+  "wind_bearing": 185,
+  "wind_speed": 7.66
+}

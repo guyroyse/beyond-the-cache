@@ -11,9 +11,11 @@
   "longitude": -92.49979,
   "location": "-92.49979,46.69303",
   "location_details": "Off of Moorehead Road, you come to the Pipeline and go North untill you come to Otter Creek. We camped at the south bank on the west side of the pipe line.",
-  "temperature_high": 68.39,
-  "temperature_mid": 61.935,
-  "temperature_low": 55.48,
+  "temperature": {
+    "high": 68.39,
+    "mid": 61.935,
+    "low": 55.48
+  },
   "dew_point": 49.01,
   "humidity": 0.77,
   "cloud_cover": 0.42,

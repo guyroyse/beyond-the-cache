@@ -11,9 +11,11 @@
   "longitude": -81.93871,
   "location": "-81.93871,28.00845",
   "location_details": "The south end of Cleveland Heights Golf Course just West of Willow Ave.",
-  "temperature_high": 91.78,
-  "temperature_mid": 83.995,
-  "temperature_low": 76.21,
+  "temperature": {
+    "high": 91.78,
+    "mid": 83.995,
+    "low": 76.21
+  },
   "dew_point": 71.39,
   "humidity": 0.69,
   "cloud_cover": 0.44,

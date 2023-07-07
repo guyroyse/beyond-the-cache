@@ -11,9 +11,11 @@
   "longitude": -81.85331,
   "location": "-81.85331,39.28537",
   "location_details": "North of State Route 50 on Haga Ridge Road.",
-  "temperature_high": 74.75,
-  "temperature_mid": 61.47,
-  "temperature_low": 48.19,
+  "temperature": {
+    "high": 74.75,
+    "mid": 61.47,
+    "low": 48.19
+  },
   "dew_point": 49.02,
   "humidity": 0.65,
   "cloud_cover": 0.34,

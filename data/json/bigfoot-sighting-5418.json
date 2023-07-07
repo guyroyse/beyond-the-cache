@@ -11,9 +11,11 @@
   "longitude": -119.235,
   "location": "-119.235,37.23167",
   "location_details": "Area is remote and very few hikers travel through this area.",
-  "temperature_high": 91.04,
-  "temperature_mid": 73.575,
-  "temperature_low": 56.11,
+  "temperature": {
+    "high": 91.04,
+    "mid": 73.575,
+    "low": 56.11
+  },
   "dew_point": 46.45,
   "humidity": 0.45,
   "cloud_cover": 0.07,

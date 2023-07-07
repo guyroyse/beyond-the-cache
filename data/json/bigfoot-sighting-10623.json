@@ -11,9 +11,11 @@
   "longitude": -80.65645,
   "location": "-80.65645,32.9032",
   "location_details": "Unknown what the stand number was but could heard occassional boat traffic on the river",
-  "temperature_high": 53.55,
-  "temperature_mid": 42.735,
-  "temperature_low": 31.92,
+  "temperature": {
+    "high": 53.55,
+    "mid": 42.735,
+    "low": 31.92
+  },
   "dew_point": 22.2,
   "humidity": 0.49,
   "cloud_cover": 0.03,

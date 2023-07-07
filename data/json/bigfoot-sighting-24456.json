@@ -11,9 +11,11 @@
   "longitude": -117.0416,
   "location": "-117.0416,34.04165",
   "location_details": "Being Indian, I can not understand why it would come this far from the woodland area except maybe looking for food. We do have a lot of fruit trees and stuff growing in the back yard and near by other yards.",
-  "temperature_high": 87.43,
-  "temperature_mid": 74.385,
-  "temperature_low": 61.34,
+  "temperature": {
+    "high": 87.43,
+    "mid": 74.385,
+    "low": 61.34
+  },
   "dew_point": 53.72,
   "humidity": 0.52,
   "cloud_cover": 0.06,

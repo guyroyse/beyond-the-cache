@@ -11,9 +11,11 @@
   "longitude": -122.6397,
   "location": "-122.6397,44.8633",
   "location_details": "The Howard's Creek horse camp at Silver Falls State Park.",
-  "temperature_high": 91.48,
-  "temperature_mid": 73.605,
-  "temperature_low": 55.73,
+  "temperature": {
+    "high": 91.48,
+    "mid": 73.605,
+    "low": 55.73
+  },
   "dew_point": 51.21,
   "humidity": 0.53,
   "cloud_cover": 0.02,

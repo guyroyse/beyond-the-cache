@@ -11,9 +11,11 @@
   "longitude": -87.1814,
   "location": "-87.1814,30.9905",
   "location_details": "The Escambia river is in Florida,but in Alabama it is the Conecuh River,and when the river is flooded there is a lot of swamp. Location is north of Jay FL. south of Pollard Ala. approx.3 miles up river from hwy 4 bridge between Century and Jay Fla.in northwest Fla.",
-  "temperature_high": 79.56,
-  "temperature_mid": 71.765,
-  "temperature_low": 63.97,
+  "temperature": {
+    "high": 79.56,
+    "mid": 71.765,
+    "low": 63.97
+  },
   "dew_point": 71.37,
   "humidity": 0.91,
   "cloud_cover": 0.95,

@@ -1,0 +1,35 @@
+{
+  "reportId": "46439",
+  "title": "Motorists have night time sighting near edge of Altona",
+  "date": "2014-09-05",
+  "timestamp": 1409875200,
+  "observed": "Between Henry County, Illinois and Knox County Illinois at about 10 p.m. on the edge of town. Me and my better half both seen it. I'm scared to be outside at night now. We only live 4 miles from where we saw it.",
+  "classification": "Class A",
+  "county": "Knox",
+  "state": "Illinois",
+  "latitude": 41.12409,
+  "longitude": -90.16382,
+  "location": {
+    "longitude": -90.16382,
+    "latitude": 41.12409
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 83.37,
+    "mid": 69.49,
+    "low": 55.61
+  },
+  "dew_point": 66.57,
+  "humidity": 0.8,
+  "cloud_cover": 0.19,
+  "moon_phase": 0.37,
+  "precip_intensity": 0.0041,
+  "precip_probability": 0.37,
+  "precip_type": "rain",
+  "pressure": 1015.65,
+  "summary": "Partly cloudy in the afternoon.",
+  "uv_index": 6,
+  "visibility": 9.74,
+  "wind_bearing": 280,
+  "wind_speed": 4.71
+}

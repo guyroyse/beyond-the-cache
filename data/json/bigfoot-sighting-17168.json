@@ -11,9 +11,11 @@
   "longitude": -88.34223,
   "location": "-88.34223,30.47612",
   "location_details": "traveling north from the Grand Bay exit of I-10 towards Dawes Road, just over the small bridge",
-  "temperature_high": 54.28,
-  "temperature_mid": 47.335,
-  "temperature_low": 40.39,
+  "temperature": {
+    "high": 54.28,
+    "mid": 47.335,
+    "low": 40.39
+  },
   "dew_point": 33.28,
   "humidity": 0.66,
   "cloud_cover": 0.05,

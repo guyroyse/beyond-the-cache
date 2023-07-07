@@ -11,9 +11,11 @@
   "longitude": -77.67422,
   "location": "-77.67422,39.14588",
   "location_details": "NEAR OLD MERRITT FARM",
-  "temperature_high": 65.84,
-  "temperature_mid": 60.95,
-  "temperature_low": 56.06,
+  "temperature": {
+    "high": 65.84,
+    "mid": 60.95,
+    "low": 56.06
+  },
   "dew_point": 53.99,
   "humidity": 0.8,
   "cloud_cover": 0.98,

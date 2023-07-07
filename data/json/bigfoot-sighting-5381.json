@@ -11,9 +11,11 @@
   "longitude": -80.80685,
   "location": "-80.80685,34.0431",
   "location_details": "on Fort Jackson i would say to the south",
-  "temperature_high": 68.41,
-  "temperature_mid": 55.21,
-  "temperature_low": 42.01,
+  "temperature": {
+    "high": 68.41,
+    "mid": 55.21,
+    "low": 42.01
+  },
   "dew_point": 45.73,
   "humidity": 0.67,
   "cloud_cover": 0,

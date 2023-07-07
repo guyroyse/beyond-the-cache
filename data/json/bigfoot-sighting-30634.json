@@ -11,9 +11,11 @@
   "longitude": -76.6691,
   "location": "-76.6691,39.6946",
   "location_details": "I don't want to include directions in this report.",
-  "temperature_high": 63.11,
-  "temperature_mid": 62.195,
-  "temperature_low": 61.28,
+  "temperature": {
+    "high": 63.11,
+    "mid": 62.195,
+    "low": 61.28
+  },
   "dew_point": 57.78,
   "humidity": 0.89,
   "cloud_cover": 0.99,

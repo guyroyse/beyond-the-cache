@@ -1,0 +1,35 @@
+{
+  "reportId": "1647",
+  "title": "Witness heard what sounded like sticks being beaten on wood",
+  "date": "1998-06-18",
+  "timestamp": 898128000,
+  "observed": "My father and mother were vacationing in the Mt. St. Helens area last summer (June 98) when Dad pulled over at a washed out creek up past the Lava Canyon to video tape the creek where the explosion from the St. Helens blast washed out the creek. He was video taping on a small bridge where the road crosses the creek, narrating what he was seeing. He said, while standing there taping, he could hear beating of stick on wood from the forest to the left and a return pounding from the stand of trees to the right. He progressed further onto the bridge to hear for sure that it was not an echo, which he was very confident it was not. Further, since it was midday on a weekday, traffic in the area was none existant and no people had been seen for miles around. Nor were there any electrical lines or etc. in the area, nor work crews, nor loggers, nor hikers that would have been making these noises. My father is not easily scared, I mean that, and he was worried a bit about his safety at this point because of his certainty that the two separate noises were being generated in communication with one another, (left then right, then left at random spaces not exceeding moments apart). He had the video camera rolling throughout the experience and when I reviewed it the pounding noises of wood on wood are audible on the tape, if somewhat indiscernable. I then interviewed my Dad on my camera that evening to document the occaision. I might add that he said the stick being used to pound the trees or whatever was a heavy (thick) stick that made a deeper sound than the crack of a small stick would make, (hinting that the size of whom ever were pounding must be considerable). Dad stopped rolling tape and got back in the idling truck fearing for his further safety. We have a copy of the tape he made and the interview I made. I would like an audiologist to examine his recording to single out this beating noise and record the intervals and strengths of the beats.",
+  "classification": "Class B",
+  "county": "Skamania",
+  "state": "Washington",
+  "latitude": 46.17861,
+  "longitude": -122.0514,
+  "location": {
+    "longitude": -122.0514,
+    "latitude": 46.17861
+  },
+  "location_details": "Road past Lava Canyon where a washed out creek bed crosses the road.",
+  "temperature": {
+    "high": 63.05,
+    "mid": 56.65,
+    "low": 50.25
+  },
+  "dew_point": 48.82,
+  "humidity": 0.78,
+  "cloud_cover": 0.84,
+  "moon_phase": 0.8,
+  "precip_intensity": 0.0011,
+  "precip_probability": 0.66,
+  "precip_type": "rain",
+  "pressure": 1017.68,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 6,
+  "visibility": 8.59,
+  "wind_bearing": 269,
+  "wind_speed": 4.32
+}

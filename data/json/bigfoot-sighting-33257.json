@@ -11,9 +11,11 @@
   "longitude": -108.6873,
   "location": "-108.6873,47.66724",
   "location_details": "About 65 or 70 miles South of Malta on highway 191 on the C.M. Russel Wildlife Refuge.",
-  "temperature_high": 30.22,
-  "temperature_mid": 17.225,
-  "temperature_low": 4.23,
+  "temperature": {
+    "high": 30.22,
+    "mid": 17.225,
+    "low": 4.23
+  },
   "dew_point": 19.4,
   "humidity": 0.81,
   "cloud_cover": 0.81,

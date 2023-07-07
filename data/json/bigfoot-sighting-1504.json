@@ -11,9 +11,11 @@
   "longitude": -123.3261,
   "location": "-123.3261,48.0985",
   "location_details": "About 7 or 8 miles East of Port Angeles, Wa. Aprox one mile West of the O'brien Rd. intersection. Fairview District.",
-  "temperature_high": 60.02,
-  "temperature_mid": 54.63,
-  "temperature_low": 49.24,
+  "temperature": {
+    "high": 60.02,
+    "mid": 54.63,
+    "low": 49.24
+  },
   "dew_point": 53.51,
   "humidity": 0.94,
   "cloud_cover": 0.96,

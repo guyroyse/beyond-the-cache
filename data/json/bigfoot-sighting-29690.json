@@ -11,9 +11,11 @@
   "longitude": -111.8038,
   "location": "-111.8038,40.91689",
   "location_details": "We where headed down the road just below buckland trail. We where headed west it crossed south to north.",
-  "temperature_high": 36.67,
-  "temperature_mid": 31.81,
-  "temperature_low": 26.95,
+  "temperature": {
+    "high": 36.67,
+    "mid": 31.81,
+    "low": 26.95
+  },
   "dew_point": 25.28,
   "humidity": 0.79,
   "cloud_cover": 0.83,

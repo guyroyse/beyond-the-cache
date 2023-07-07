@@ -11,9 +11,11 @@
   "longitude": -81.80005,
   "location": "-81.80005,29.98085",
   "location_details": "SR16 near Penny Farms in Green Cove Springs. About a 1/2 mile from CR218. Green Cove Springs is located approx. 16 miles south from Jacksonville ,Fl.",
-  "temperature_high": 76.59,
-  "temperature_mid": 64.83,
-  "temperature_low": 53.07,
+  "temperature": {
+    "high": 76.59,
+    "mid": 64.83,
+    "low": 53.07
+  },
   "dew_point": 48.85,
   "humidity": 0.62,
   "cloud_cover": 0.13,

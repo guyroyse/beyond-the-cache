@@ -11,9 +11,11 @@
   "longitude": -120.0508,
   "location": "-120.0508,38.05141",
   "location_details": "Take Forest Road 3N01 out of Long Barn, past Fahey Cabin, to Hull Creek Campground.  Past Hull Creek Campground is Two Mile Road (2N32).  Follow south to a fork and go south-east, to next fork go north, near roads 3N83 and 3N86C.",
-  "temperature_high": 79.52,
-  "temperature_mid": 65.66,
-  "temperature_low": 51.8,
+  "temperature": {
+    "high": 79.52,
+    "mid": 65.66,
+    "low": 51.8
+  },
   "dew_point": 46.51,
   "humidity": 0.53,
   "cloud_cover": 0.47,

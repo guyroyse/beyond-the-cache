@@ -11,9 +11,11 @@
   "longitude": -80.38748,
   "location": "-80.38748,37.02759",
   "location_details": "Dobbins Hollow Road,Montgomery County,Riner,VA",
-  "temperature_high": 85.42,
-  "temperature_mid": 74.365,
-  "temperature_low": 63.31,
+  "temperature": {
+    "high": 85.42,
+    "mid": 74.365,
+    "low": 63.31
+  },
   "dew_point": 63.94,
   "humidity": 0.74,
   "cloud_cover": 0.17,

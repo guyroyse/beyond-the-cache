@@ -11,9 +11,11 @@
   "longitude": -82.44075,
   "location": "-82.44075,29.74815",
   "location_details": "San Felasco Hammock Preserve State Park",
-  "temperature_high": 73.94,
-  "temperature_mid": 68.03,
-  "temperature_low": 62.12,
+  "temperature": {
+    "high": 73.94,
+    "mid": 68.03,
+    "low": 62.12
+  },
   "dew_point": 66.58,
   "humidity": 0.88,
   "cloud_cover": 0.91,

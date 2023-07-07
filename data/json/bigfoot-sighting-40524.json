@@ -11,9 +11,11 @@
   "longitude": -112.9707,
   "location": "-112.9707,45.3705",
   "location_details": "It was about five hundred yard from a high mountain lake",
-  "temperature_high": 89.7,
-  "temperature_mid": 69.21,
-  "temperature_low": 48.72,
+  "temperature": {
+    "high": 89.7,
+    "mid": 69.21,
+    "low": 48.72
+  },
   "dew_point": 35.68,
   "humidity": 0.32,
   "cloud_cover": 0.01,

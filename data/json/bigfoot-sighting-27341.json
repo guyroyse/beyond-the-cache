@@ -11,9 +11,11 @@
   "longitude": -92.1426,
   "location": "-92.1426,37.5656",
   "location_details": "I don't remember how to get there.",
-  "temperature_high": 65.51,
-  "temperature_mid": 50.245,
-  "temperature_low": 34.98,
+  "temperature": {
+    "high": 65.51,
+    "mid": 50.245,
+    "low": 34.98
+  },
   "dew_point": 42.48,
   "humidity": 0.59,
   "cloud_cover": 0.27,

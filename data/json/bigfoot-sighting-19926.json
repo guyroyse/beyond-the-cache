@@ -11,9 +11,11 @@
   "longitude": -82.82005,
   "location": "-82.82005,34.35765",
   "location_details": "From Anderson, hwy 29 to public access rd leading to fishing area about 3/4 mile east of Hartwell dam.",
-  "temperature_high": 84.42,
-  "temperature_mid": 75.32,
-  "temperature_low": 66.22,
+  "temperature": {
+    "high": 84.42,
+    "mid": 75.32,
+    "low": 66.22
+  },
   "dew_point": 59.23,
   "humidity": 0.6,
   "cloud_cover": 0.22,

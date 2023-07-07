@@ -11,9 +11,11 @@
   "longitude": -95.2419,
   "location": "-95.2419,36.22935",
   "location_details": "Near low water dam, Pryor side, by Sportsman and Cherokee Heights.",
-  "temperature_high": 78.32,
-  "temperature_mid": 74.61,
-  "temperature_low": 70.9,
+  "temperature": {
+    "high": 78.32,
+    "mid": 74.61,
+    "low": 70.9
+  },
   "dew_point": 71.34,
   "humidity": 0.9,
   "cloud_cover": 0.2,

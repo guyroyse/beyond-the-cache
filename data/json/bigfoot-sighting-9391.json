@@ -11,9 +11,11 @@
   "longitude": -122.4,
   "location": "-122.4,44.9633",
   "location_details": "Molalla River Road, 13 miles south of Glen Avon Bridge.",
-  "temperature_high": 79.01,
-  "temperature_mid": 65.84,
-  "temperature_low": 52.67,
+  "temperature": {
+    "high": 79.01,
+    "mid": 65.84,
+    "low": 52.67
+  },
   "dew_point": 54.68,
   "humidity": 0.74,
   "cloud_cover": 0.54,

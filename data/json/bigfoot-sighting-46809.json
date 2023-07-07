@@ -11,9 +11,11 @@
   "longitude": -119.9417,
   "location": "-119.9417,48.44425",
   "location_details": "Off hwy 20 at the snow park area go about 5 miles to service road 4235, go about 2 to 3 miles on left there is a dirt berm with a barrel like piece of concrete at the end of the berm and your there",
-  "temperature_high": 67.47,
-  "temperature_mid": 57.675,
-  "temperature_low": 47.88,
+  "temperature": {
+    "high": 67.47,
+    "mid": 57.675,
+    "low": 47.88
+  },
   "dew_point": 48.09,
   "humidity": 0.77,
   "cloud_cover": 0.09,

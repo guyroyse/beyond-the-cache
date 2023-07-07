@@ -11,9 +11,11 @@
   "longitude": -82.13403,
   "location": "-82.13403,37.31413",
   "location_details": "My parents live in Pike County, KY close to the West Virginia border (Tug River).",
-  "temperature_high": 38.33,
-  "temperature_mid": 27.75,
-  "temperature_low": 17.17,
+  "temperature": {
+    "high": 38.33,
+    "mid": 27.75,
+    "low": 17.17
+  },
   "dew_point": 29.11,
   "humidity": 0.76,
   "cloud_cover": 0.85,

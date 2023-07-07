@@ -11,9 +11,11 @@
   "longitude": -111.8907,
   "location": "-111.8907,34.7706",
   "location_details": "Lo Lo Mai Springs Campground",
-  "temperature_high": 98.08,
-  "temperature_mid": 79.195,
-  "temperature_low": 60.31,
+  "temperature": {
+    "high": 98.08,
+    "mid": 79.195,
+    "low": 60.31
+  },
   "dew_point": 26.35,
   "humidity": 0.15,
   "cloud_cover": 0.03,

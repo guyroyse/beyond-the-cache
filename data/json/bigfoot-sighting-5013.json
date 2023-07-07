@@ -11,9 +11,11 @@
   "longitude": -81.25576,
   "location": "-81.25576,40.42655",
   "location_details": "My place is two miles off CR 37. State Route 250 is about three miles south on CR 37.",
-  "temperature_high": 71.83,
-  "temperature_mid": 61.42,
-  "temperature_low": 51.01,
+  "temperature": {
+    "high": 71.83,
+    "mid": 61.42,
+    "low": 51.01
+  },
   "dew_point": 48.53,
   "humidity": 0.67,
   "cloud_cover": 0.35,

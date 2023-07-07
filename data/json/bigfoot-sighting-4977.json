@@ -11,9 +11,11 @@
   "longitude": -81.0758,
   "location": "-81.0758,40.74451",
   "location_details": "U.S. Route 30, west of Minerva, Ohio in Paris Township; Stark County",
-  "temperature_high": 76.74,
-  "temperature_mid": 67.435,
-  "temperature_low": 58.13,
+  "temperature": {
+    "high": 76.74,
+    "mid": 67.435,
+    "low": 58.13
+  },
   "dew_point": 54.79,
   "humidity": 0.7,
   "cloud_cover": 0.15,

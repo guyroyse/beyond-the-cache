@@ -11,9 +11,11 @@
   "longitude": -90.55585,
   "location": "-90.55585,41.76392",
   "location_details": "This was on a piece of private property that ran along the Wapsipinicon River,appx 600yards from a gravel road",
-  "temperature_high": 91.16,
-  "temperature_mid": 75.45,
-  "temperature_low": 59.74,
+  "temperature": {
+    "high": 91.16,
+    "mid": 75.45,
+    "low": 59.74
+  },
   "dew_point": 61.19,
   "humidity": 0.57,
   "cloud_cover": 0.22,

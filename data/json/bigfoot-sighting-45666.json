@@ -11,9 +11,11 @@
   "longitude": -105.2527,
   "location": "-105.2527,39.35503",
   "location_details": "I gave a brief description of the location. It was a quiet day. There's a couple shooting ranges close by which your normally able to hear, but clearly nobody was around. I've always commented to people I take up there that the sighting area is a great place to see wildlife crossing the road. What my friend and I saw that day was the furthest thing from what I'd expected to see crossing.",
-  "temperature_high": 28.5,
-  "temperature_mid": 24.44,
-  "temperature_low": 20.38,
+  "temperature": {
+    "high": 28.5,
+    "mid": 24.44,
+    "low": 20.38
+  },
   "dew_point": 13.08,
   "humidity": 0.79,
   "cloud_cover": 0.1,

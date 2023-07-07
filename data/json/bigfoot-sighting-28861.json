@@ -11,9 +11,11 @@
   "longitude": -86.49139,
   "location": "-86.49139,39.02502",
   "location_details": "back on windie roads if not fimiliar with the area it will be very dificult to find.",
-  "temperature_high": 66.2,
-  "temperature_mid": 61.855,
-  "temperature_low": 57.51,
+  "temperature": {
+    "high": 66.2,
+    "mid": 61.855,
+    "low": 57.51
+  },
   "dew_point": 49.92,
   "humidity": 0.76,
   "cloud_cover": 0.4,

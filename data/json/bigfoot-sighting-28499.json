@@ -11,9 +11,11 @@
   "longitude": -82.63536,
   "location": "-82.63536,39.59947",
   "location_details": "From Tarlton, follow 159 and turn right onto Julian Rd. Right to Drinkle then left onto Clearport Rd. Next, go right onto McDonald Rd. SW then right on Clearcreek Rd. SW. Turn left to stay on Clearcreek Rd. SW then turn left to arrive at Lake Romona.",
-  "temperature_high": 82.91,
-  "temperature_mid": 66.805,
-  "temperature_low": 50.7,
+  "temperature": {
+    "high": 82.91,
+    "mid": 66.805,
+    "low": 50.7
+  },
   "dew_point": 43.71,
   "humidity": 0.58,
   "cloud_cover": 0,

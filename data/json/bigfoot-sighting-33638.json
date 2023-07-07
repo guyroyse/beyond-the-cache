@@ -11,9 +11,11 @@
   "longitude": -90.16501,
   "location": "-90.16501,38.51689",
   "location_details": "Not wonderful with directions, but I can show you. Its off of Illinois Route 157.",
-  "temperature_high": 51.02,
-  "temperature_mid": 49.645,
-  "temperature_low": 48.27,
+  "temperature": {
+    "high": 51.02,
+    "mid": 49.645,
+    "low": 48.27
+  },
   "dew_point": 47.65,
   "humidity": 0.94,
   "cloud_cover": 1,

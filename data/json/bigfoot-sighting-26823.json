@@ -11,9 +11,11 @@
   "longitude": -81.95577,
   "location": "-81.95577,28.44926",
   "location_details": "as close as I could get with satalite maps GPS +28-27'-5.16''   81-57'22.94'' It was right at the sumter co. lake co. line on center grade rd. by the power lines. In richloam wildlife management area, in the green swamp.",
-  "temperature_high": 64.5,
-  "temperature_mid": 54.38,
-  "temperature_low": 44.26,
+  "temperature": {
+    "high": 64.5,
+    "mid": 54.38,
+    "low": 44.26
+  },
   "dew_point": 43.14,
   "humidity": 0.64,
   "cloud_cover": 0.1,

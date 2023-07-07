@@ -1,0 +1,35 @@
+{
+  "reportId": "55574",
+  "title": "Daytime road crossing seen by twin sisters near Cedar Key",
+  "date": "2016-09-11",
+  "timestamp": 1473552000,
+  "observed": "September 11, 2016 at approximately 11:20AM My sister and I were traveling on CR 347 north of Cedar Key, a little north of SW 61st St.  We were coming out of curve when we both saw something in the road ahead.  It was  a large creature, approximately 7 1/2, 8 feet tall covered with grayish black hair walking across the highway.  It turned to look at us then quickly disappeared into the woods.  There were no other cars around or houses nearby and the area was very wooded and swampy.  If this was a hoax it was a great one! We called and made a report with Levy County Sheriff as soon as we got cell service.",
+  "classification": "Class A",
+  "county": "Levy",
+  "state": "Florida",
+  "latitude": 29.23723,
+  "longitude": -83.00198,
+  "location": {
+    "longitude": -83.00198,
+    "latitude": 29.23723
+  },
+  "location_details": "Two lane county road",
+  "temperature": {
+    "high": 88.4,
+    "mid": 82.66,
+    "low": 76.92
+  },
+  "dew_point": 74.72,
+  "humidity": 0.79,
+  "cloud_cover": 0.09,
+  "moon_phase": 0.32,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.17,
+  "precip_type": "rain",
+  "pressure": 1018.05,
+  "summary": "Humid throughout the day.",
+  "uv_index": 8,
+  "visibility": 9.42,
+  "wind_bearing": 121,
+  "wind_speed": 3.29
+}

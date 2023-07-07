@@ -1,0 +1,34 @@
+{
+  "reportId": "48932",
+  "title": "Snowplow driver has possible night-time sighting near Coles Corner",
+  "date": "2014-12-15",
+  "timestamp": 1418601600,
+  "observed": "I was working as a snowplow driver for the State of Washington and at the time I was traveling eastbound on Highway 2 towards Leavenworth.  I was approaching a train trestle, and my lights caught a large animal, on the bridge, walking towards a train tunnel.  I couldn't stop but it was clear that there was something there that wasn't there the previous 8 times I passed thru that area.",
+  "classification": "Class B",
+  "county": "Chelan",
+  "state": "Washington",
+  "latitude": 47.72298,
+  "longitude": -120.7219,
+  "location": {
+    "longitude": -120.7219,
+    "latitude": 47.72298
+  },
+  "location_details": "The train trestle by the community of Winton.",
+  "temperature": {
+    "high": 45.65,
+    "mid": 42.865,
+    "low": 40.08
+  },
+  "dew_point": 30.31,
+  "humidity": 0.67,
+  "cloud_cover": 0.14,
+  "moon_phase": 0.79,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1016.98,
+  "summary": "Partly cloudy overnight.",
+  "uv_index": 1,
+  "visibility": 9.82,
+  "wind_bearing": 65,
+  "wind_speed": 2.37
+}

@@ -11,9 +11,11 @@
   "longitude": -71.58914,
   "location": "-71.58914,42.01496",
   "location_details": "The location was on route 146 north bound lane on the right side shoulder of the highway near the woodline it was approx. 1/2 mile to 3/4 mile from where route 146 enters massachusetts from Rhode Island boader. Just before the exit for S. Uxbridge N. Smithfield.",
-  "temperature_high": 63.3,
-  "temperature_mid": 56.85,
-  "temperature_low": 50.4,
+  "temperature": {
+    "high": 63.3,
+    "mid": 56.85,
+    "low": 50.4
+  },
   "dew_point": 40.02,
   "humidity": 0.58,
   "cloud_cover": 0.67,

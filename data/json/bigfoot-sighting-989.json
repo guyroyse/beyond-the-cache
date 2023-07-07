@@ -11,9 +11,11 @@
   "longitude": -86.9648,
   "location": "-86.9648,30.84015",
   "location_details": "It was on the main road that turned off onto Whiting field and had the huge powerlines running through it. I was only a kid and haven't lived their since I was 14.",
-  "temperature_high": 52.78,
-  "temperature_mid": 47.21,
-  "temperature_low": 41.64,
+  "temperature": {
+    "high": 52.78,
+    "mid": 47.21,
+    "low": 41.64
+  },
   "dew_point": 29.87,
   "humidity": 0.73,
   "cloud_cover": 0.37,

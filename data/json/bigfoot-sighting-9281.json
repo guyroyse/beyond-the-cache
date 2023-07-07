@@ -11,9 +11,11 @@
   "longitude": -81.61014,
   "location": "-81.61014,39.92781",
   "location_details": "Take I-77 to State Route 313 and head west. When you get to (edited) road, turn left.",
-  "temperature_high": 77.14,
-  "temperature_mid": 68.46,
-  "temperature_low": 59.78,
+  "temperature": {
+    "high": 77.14,
+    "mid": 68.46,
+    "low": 59.78
+  },
   "dew_point": 54.66,
   "humidity": 0.71,
   "cloud_cover": 0.2,

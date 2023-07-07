@@ -11,9 +11,11 @@
   "longitude": -80.1937,
   "location": "-80.1937,26.27395",
   "location_details": "Florida, Broward county, Coral Springs, between Wiles Rd. and Sample Rd.",
-  "temperature_high": 71.39,
-  "temperature_mid": 65.885,
-  "temperature_low": 60.38,
+  "temperature": {
+    "high": 71.39,
+    "mid": 65.885,
+    "low": 60.38
+  },
   "dew_point": 46.82,
   "humidity": 0.62,
   "cloud_cover": 0.41,

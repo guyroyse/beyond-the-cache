@@ -11,9 +11,11 @@
   "longitude": -117.3347,
   "location": "-117.3347,48.65083",
   "location_details": "5-miles South of Ione, one mile Northeast of the river.",
-  "temperature_high": 45.49,
-  "temperature_mid": 39.195,
-  "temperature_low": 32.9,
+  "temperature": {
+    "high": 45.49,
+    "mid": 39.195,
+    "low": 32.9
+  },
   "dew_point": 29.4,
   "humidity": 0.79,
   "cloud_cover": 0.4,

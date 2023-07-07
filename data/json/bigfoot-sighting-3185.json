@@ -11,9 +11,11 @@
   "longitude": -105.1167,
   "location": "-105.1167,38.4",
   "location_details": "The sighting occurred on Highway 115, the main street through Florence, CO. The setting was a commercial area with a nearby car wash, storage unit and donut shop with a nearby irrigation ditch. The town is just east of the Wet Mountains and the San Isabel National Forest.",
-  "temperature_high": 66.01,
-  "temperature_mid": 48.84,
-  "temperature_low": 31.67,
+  "temperature": {
+    "high": 66.01,
+    "mid": 48.84,
+    "low": 31.67
+  },
   "dew_point": 28.13,
   "humidity": 0.42,
   "cloud_cover": 0.24,

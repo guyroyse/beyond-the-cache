@@ -11,9 +11,11 @@
   "longitude": -86.353,
   "location": "-86.353,43.4245",
   "location_details": "(Omitted upon the witness' request)",
-  "temperature_high": 85.28,
-  "temperature_mid": 74.86,
-  "temperature_low": 64.44,
+  "temperature": {
+    "high": 85.28,
+    "mid": 74.86,
+    "low": 64.44
+  },
   "dew_point": 63.2,
   "humidity": 0.71,
   "cloud_cover": 0.44,

@@ -11,9 +11,11 @@
   "longitude": -84.3046,
   "location": "-84.3046,35.1013",
   "location_details": "Hwy 64 in Ocoee, TN then take forest road 77 up to Chilhowee campground but do not enter campground stay straight along gravel road toward Greasy Creek N.C. It was about 10 miles down this winding steep dirt forest road I saw HIM!",
-  "temperature_high": 64.06,
-  "temperature_mid": 53.605,
-  "temperature_low": 43.15,
+  "temperature": {
+    "high": 64.06,
+    "mid": 53.605,
+    "low": 43.15
+  },
   "dew_point": 53.1,
   "humidity": 0.8,
   "cloud_cover": 0.77,

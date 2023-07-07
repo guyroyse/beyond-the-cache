@@ -11,9 +11,11 @@
   "longitude": -81.03764,
   "location": "-81.03764,41.18518",
   "location_details": "Fence line near Rt 5 & Newton Falls Rd intersection",
-  "temperature_high": 79.61,
-  "temperature_mid": 73.005,
-  "temperature_low": 66.4,
+  "temperature": {
+    "high": 79.61,
+    "mid": 73.005,
+    "low": 66.4
+  },
   "dew_point": 57.37,
   "humidity": 0.71,
   "cloud_cover": 0.24,

@@ -1,0 +1,34 @@
+{
+  "reportId": "24435",
+  "title": "Man sees silhouette of an 8'-9' tall creature looking back at him from a cornfield near Canton",
+  "date": "1976-08-10",
+  "timestamp": 208483200,
+  "observed": "i went to feed the dogs at about 1100 pm an something was coming towards me threw the corn field i thought it was a deer it stopped about 75 feet from me and stood erect it was aclear night and the corn had a bright haze over it i could see it very clearly i turned and ran into the house the next day i went into the cornto look for foot prints but the soil was very dry there were scuff marks and some ears of corn were missing it went straight back the way it came the corn was 6 feet high it cleared the corn by 2 feet it had squared shoulders and no neck shoulders were about 36 inches wide",
+  "classification": "Class B",
+  "county": "Stark",
+  "state": "Ohio",
+  "latitude": 40.79362,
+  "longitude": -81.32337,
+  "location": {
+    "longitude": -81.32337,
+    "latitude": 40.79362
+  },
+  "location_details": "i live at the end of the street its leander st it connects into trump rd",
+  "temperature": {
+    "high": 80.3,
+    "mid": 70.23,
+    "low": 60.16
+  },
+  "dew_point": 58.76,
+  "humidity": 0.76,
+  "cloud_cover": 0.39,
+  "moon_phase": 0.53,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1021.37,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 6,
+  "visibility": 6.72,
+  "wind_bearing": 311,
+  "wind_speed": 2.31
+}

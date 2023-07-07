@@ -11,9 +11,11 @@
   "longitude": -95.70208,
   "location": "-95.70208,35.70166",
   "location_details": "Incident occurred in the Northeast corner of NE 1/4 SE 1/4 Sec. 14 T14N R15E in western Muskogee County, Oklahoma. The area was about 4.5 miles south of the junction of Highways 16 and 72 west of Muskogee and 2 miles west of Highway 72. The creature, or whatever it was, was observed near a bridge above Cane Creek.",
-  "temperature_high": 75.96,
-  "temperature_mid": 62.68,
-  "temperature_low": 49.4,
+  "temperature": {
+    "high": 75.96,
+    "mid": 62.68,
+    "low": 49.4
+  },
   "dew_point": 55.32,
   "humidity": 0.7,
   "cloud_cover": 0.21,

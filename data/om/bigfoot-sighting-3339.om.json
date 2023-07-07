@@ -1,0 +1,35 @@
+{
+  "reportId": "3339",
+  "title": "Deep impressions seen in the snow",
+  "date": "1988-03-15",
+  "timestamp": 574387200,
+  "observed": "In early spring 1988, some friends of mine and I were traveling up the road to the top of Mt. Mitchell in a four-wheel drive vehicle. Mt. Mitchell is the highest peak east of the Mississippi River at 6,684 feet, and as a result, the mountain gets heavy snowfalls well into March and sometimes April. There had been some heavy snowfall in the weeks preceding our drive, and there were some deep snowdrifts piled up alongside the road, although the road had only a dusting of light snow on its surface. Almost no one goes up on the mountain in the wintertime, and as I remember it, we had to skirt our way around a barricade to even get on the road to the summit. We reached the top of the mountain, then turned around to drive back down. About a half mile below the summit, we went around a sharp, left-hand turn, and our headlights hit the steep bank beside the road. In the snow on the bank we could see several deep impressions that led up the bank and into the woods. We got out and examined the marks, but it was dark and we couldn't tell much about them. The next day, we drove back up and looked at the marks in the daylight. The tracks, as we took them to be, were in deep snow, and we could see mud at the bottom of them and measured the depth of the snow at 18 inches.  In the two tracks closest the road, there were faint outlines that could have been toe marks, but there were no claw marks visible as with bear tracks. The prints were apparently made by a bipedal animal, and led up a steep bank and disappeared over the top of the bank about 75 yards up the slope.  The bank beside the road was extremely steep, and it took my friend, who is 6-2 and athletic, eight long strides to climb the bank, but whatever left the prints needed only two steps. At one point, the animal had stepped over a fallen branch approximately three feet off the ground without breaking stride. I know sometimes big cats can leave footprints that appear to be two-legged, and there are still some panthers (mountain lions) left in the mountains of North Carolina, but if a cat made these marks it would have to have been the biggest panther in the world. They were about 14 inches long and seven inches wide. We thought perhaps the marks could have been made by clumps of snow falling from trees, but there were marks where there were no overhanging branches. We split up that day and two different groups walked along the road about a mile in each direction from the prints, but we never found where the animal had crossed the road, which means it was obviously using the road for traveling instead of trudging through the deep snow.",
+  "classification": "Class B",
+  "county": "Yancey",
+  "state": "North Carolina",
+  "latitude": 35.74875,
+  "longitude": -82.26195,
+  "location": {
+    "longitude": -82.26195,
+    "latitude": 35.74875
+  },
+  "location_details": "Yancey County, North Carolina, near the summit of Mt. Mitchell",
+  "temperature": {
+    "high": 35.65,
+    "mid": 30.035,
+    "low": 24.42
+  },
+  "dew_point": 10.97,
+  "humidity": 0.49,
+  "cloud_cover": 0.46,
+  "moon_phase": 0.91,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.23,
+  "precip_type": "snow",
+  "pressure": 1015.08,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 6,
+  "visibility": 9.37,
+  "wind_bearing": 322,
+  "wind_speed": 10.39
+}

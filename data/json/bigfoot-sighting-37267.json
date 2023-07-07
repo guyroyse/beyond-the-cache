@@ -11,9 +11,11 @@
   "longitude": -82.38587,
   "location": "-82.38587,36.15588",
   "location_details": "Near north Indian Creek Campground on Hwy 107 North, halfway between the town of Erwin TN and Buladean NC on the Unaka mountain range as part of the Cherokee National Forest.",
-  "temperature_high": 68.16,
-  "temperature_mid": 62.66,
-  "temperature_low": 57.16,
+  "temperature": {
+    "high": 68.16,
+    "mid": 62.66,
+    "low": 57.16
+  },
   "dew_point": 37.17,
   "humidity": 0.6,
   "cloud_cover": 0.22,

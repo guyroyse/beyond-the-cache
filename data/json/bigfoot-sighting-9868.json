@@ -11,9 +11,11 @@
   "longitude": -122.2985,
   "location": "-122.2985,46.951",
   "location_details": "A camp now called Camp Arnold at Timberlake, belonging to the Salvation Army, about 5 miles WNW of Eatonville.",
-  "temperature_high": 78.73,
-  "temperature_mid": 65.925,
-  "temperature_low": 53.12,
+  "temperature": {
+    "high": 78.73,
+    "mid": 65.925,
+    "low": 53.12
+  },
   "dew_point": 45.79,
   "humidity": 0.52,
   "cloud_cover": 0.01,

@@ -11,9 +11,11 @@
   "longitude": -121.9104,
   "location": "-121.9104,43.48257",
   "location_details": "I will give a person a tour of the area and the spots where more sightings took place.",
-  "temperature_high": 67.35,
-  "temperature_mid": 59.315,
-  "temperature_low": 51.28,
+  "temperature": {
+    "high": 67.35,
+    "mid": 59.315,
+    "low": 51.28
+  },
   "dew_point": 51.31,
   "humidity": 0.71,
   "cloud_cover": 0.61,

@@ -11,9 +11,11 @@
   "longitude": -85.0016,
   "location": "-85.0016,38.44148",
   "location_details": "It's been a long time since we lived there. If you go to Lockport, go straight through town heading west. Joes Branch road is an old gravel road that heads out of town. It is approximately 15 miles long. The other end comes out near Bethlehem. Our house was about 7 miles down this road. It was very rough and isolated.",
-  "temperature_high": 70.9,
-  "temperature_mid": 63.62,
-  "temperature_low": 56.34,
+  "temperature": {
+    "high": 70.9,
+    "mid": 63.62,
+    "low": 56.34
+  },
   "dew_point": 58.73,
   "humidity": 0.86,
   "cloud_cover": 0.64,

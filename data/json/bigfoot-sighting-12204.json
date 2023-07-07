@@ -11,9 +11,11 @@
   "longitude": -97.00389,
   "location": "-97.00389,35.68583",
   "location_details": "Deep Fork River.",
-  "temperature_high": 88.14,
-  "temperature_mid": 78.435,
-  "temperature_low": 68.73,
+  "temperature": {
+    "high": 88.14,
+    "mid": 78.435,
+    "low": 68.73
+  },
   "dew_point": 66.55,
   "humidity": 0.71,
   "cloud_cover": 0.17,

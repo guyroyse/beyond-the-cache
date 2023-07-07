@@ -11,9 +11,11 @@
   "longitude": -105.3792,
   "location": "-105.3792,40.17585",
   "location_details": "Bend in Hwy, small sand bar area into stream,were we were picnicking, sheer rock wall on north side of stream. Tan colored and redish sandstone. Some pine trees on top of cliff.",
-  "temperature_high": 87.32,
-  "temperature_mid": 75.015,
-  "temperature_low": 62.71,
+  "temperature": {
+    "high": 87.32,
+    "mid": 75.015,
+    "low": 62.71
+  },
   "dew_point": 52.8,
   "humidity": 0.5,
   "cloud_cover": 0.6,

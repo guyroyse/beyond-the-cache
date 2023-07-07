@@ -11,9 +11,11 @@
   "longitude": -120.1877,
   "location": "-120.1877,38.06615",
   "location_details": "The campground has grown quite a bit since 1978-79.  I went back to check out the area a few months ago and was surprised to see how much it had changed.  It is now more like a mobile home park towards the back where we had camped.  The homes are very close together and I could not see a way without trespassing to get back to the area where I had entered the forest.",
-  "temperature_high": 95.49,
-  "temperature_mid": 77.735,
-  "temperature_low": 59.98,
+  "temperature": {
+    "high": 95.49,
+    "mid": 77.735,
+    "low": 59.98
+  },
   "dew_point": 53.96,
   "humidity": 0.42,
   "cloud_cover": 0.02,

@@ -11,9 +11,11 @@
   "longitude": -122.1483,
   "location": "-122.1483,48.78056",
   "location_details": "Outside Deming, in the Rutsack Road area.",
-  "temperature_high": 62.45,
-  "temperature_mid": 56.135,
-  "temperature_low": 49.82,
+  "temperature": {
+    "high": 62.45,
+    "mid": 56.135,
+    "low": 49.82
+  },
   "dew_point": 53.58,
   "humidity": 0.89,
   "cloud_cover": 0.83,

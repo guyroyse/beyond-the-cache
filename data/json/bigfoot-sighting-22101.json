@@ -11,9 +11,11 @@
   "longitude": -93.45042,
   "location": "-93.45042,35.06144",
   "location_details": "The location is down south of Belleville. Its mostly farmlands till you hit the slough and the river.  The area where it happened is rather swampy and borders fields. The only tree lines are along the water sources. There the bushes are very thick.",
-  "temperature_high": 65.69,
-  "temperature_mid": 63.865,
-  "temperature_low": 62.04,
+  "temperature": {
+    "high": 65.69,
+    "mid": 63.865,
+    "low": 62.04
+  },
   "dew_point": 41.65,
   "humidity": 0.61,
   "cloud_cover": 0.62,

@@ -11,9 +11,11 @@
   "longitude": -80.6275,
   "location": "-80.6275,37.41095",
   "location_details": "Up Big Stony Creek road to Jefferson National Forest",
-  "temperature_high": 70.02,
-  "temperature_mid": 58.77,
-  "temperature_low": 47.52,
+  "temperature": {
+    "high": 70.02,
+    "mid": 58.77,
+    "low": 47.52
+  },
   "dew_point": 46.91,
   "humidity": 0.63,
   "cloud_cover": 0.38,

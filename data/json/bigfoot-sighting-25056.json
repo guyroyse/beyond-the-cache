@@ -11,9 +11,11 @@
   "longitude": -116.4873,
   "location": "-116.4873,44.9166",
   "location_details": "Little Lake is a well know fishing spot just east of town on Lick Creek Rd.",
-  "temperature_high": 51.96,
-  "temperature_mid": 46.165,
-  "temperature_low": 40.37,
+  "temperature": {
+    "high": 51.96,
+    "mid": 46.165,
+    "low": 40.37
+  },
   "dew_point": 36.48,
   "humidity": 0.74,
   "cloud_cover": 0.89,

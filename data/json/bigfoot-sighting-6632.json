@@ -11,9 +11,11 @@
   "longitude": -86.0163,
   "location": "-86.0163,37.1496",
   "location_details": "Diamond Resort with the Mammoth Cave State Park System in Kentucky.",
-  "temperature_high": 51.51,
-  "temperature_mid": 40.5,
-  "temperature_low": 29.49,
+  "temperature": {
+    "high": 51.51,
+    "mid": 40.5,
+    "low": 29.49
+  },
   "dew_point": 28.43,
   "humidity": 0.71,
   "cloud_cover": 0.09,

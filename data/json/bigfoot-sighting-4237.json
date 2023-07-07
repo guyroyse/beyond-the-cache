@@ -11,9 +11,11 @@
   "longitude": -81.14714,
   "location": "-81.14714,37.80531",
   "location_details": "Approx. 2 miles east of the intersection on Ragland Road and State Route 41. Following a branch which empties in Piney Creek, which in turn empties into the New River.",
-  "temperature_high": 70.53,
-  "temperature_mid": 64.13,
-  "temperature_low": 57.73,
+  "temperature": {
+    "high": 70.53,
+    "mid": 64.13,
+    "low": 57.73
+  },
   "dew_point": 61.09,
   "humidity": 0.84,
   "cloud_cover": 0.79,

@@ -11,9 +11,11 @@
   "longitude": -94.25694,
   "location": "-94.25694,33.07639",
   "location_details": "I was on Hwy 59 heading north into Atlanta.  I couldn't have been more than 2 to 5 miles south of Atlanta at the time. I only got a look at it for no more than 4 or 5 seconds.",
-  "temperature_high": 93.44,
-  "temperature_mid": 82.99,
-  "temperature_low": 72.54,
+  "temperature": {
+    "high": 93.44,
+    "mid": 82.99,
+    "low": 72.54
+  },
   "dew_point": 68.15,
   "humidity": 0.68,
   "cloud_cover": 0.13,

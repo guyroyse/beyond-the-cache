@@ -11,9 +11,11 @@
   "longitude": -117.167,
   "location": "-117.167,47.5505",
   "location_details": "On Mica Peak, WA",
-  "temperature_high": 77.91,
-  "temperature_mid": 66.775,
-  "temperature_low": 55.64,
+  "temperature": {
+    "high": 77.91,
+    "mid": 66.775,
+    "low": 55.64
+  },
   "dew_point": 45.24,
   "humidity": 0.58,
   "cloud_cover": 0.31,

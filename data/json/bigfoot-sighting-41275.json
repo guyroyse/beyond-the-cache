@@ -11,9 +11,11 @@
   "longitude": -81.01299,
   "location": "-81.01299,28.45247",
   "location_details": "I saw it on the side of the road just before you enter the first toll plaza.",
-  "temperature_high": 85.32,
-  "temperature_mid": 78.375,
-  "temperature_low": 71.43,
+  "temperature": {
+    "high": 85.32,
+    "mid": 78.375,
+    "low": 71.43
+  },
   "dew_point": 70,
   "humidity": 0.81,
   "cloud_cover": 0.16,

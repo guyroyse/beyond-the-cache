@@ -11,9 +11,11 @@
   "longitude": -89.91997,
   "location": "-89.91997,46.3018",
   "location_details": "US 2 to Wakefield south on 519 about 15 miles down",
-  "temperature_high": 77.82,
-  "temperature_mid": 67.83,
-  "temperature_low": 57.84,
+  "temperature": {
+    "high": 77.82,
+    "mid": 67.83,
+    "low": 57.84
+  },
   "dew_point": 58.14,
   "humidity": 0.78,
   "cloud_cover": 0.05,

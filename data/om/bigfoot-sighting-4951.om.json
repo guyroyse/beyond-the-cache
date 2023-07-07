@@ -1,0 +1,35 @@
+{
+  "reportId": "4951",
+  "title": "Young hunter has sighting, accompanied by knocking sounds, near Wintersville",
+  "date": "1997-09-30",
+  "timestamp": 875577600,
+  "observed": "My grandson was squirrel hunting with his grandfather who had left him to sit on a log and moved to another area.  He was 12 years old at the time.  He saw a dark, hairy, figure run out from behind a tree.  He said it was bigger than a person, it ran upright and ran very fast.  He said it made a noise that reminded him of a \"high pitched chain saw\".  He also said that its feet made a lot of noise thumping on the ground as it ran.  He could hardly believe what he was seeing and after it disappeared out of sight he ran and found his grandfather and told him what he had seen but his grandfather didn't believe him. Another time he was playing in the woods and he heard strange noises like someone striking a tree with something. He heard these sounds from three seperate locations.  He picked up a stick and started striking a tree himself and the noises stopped.  I myself, heard this same noise in the woods behind our house.",
+  "classification": "Class A",
+  "county": "Jefferson",
+  "state": "Ohio",
+  "latitude": 40.39103,
+  "longitude": -80.6937,
+  "location": {
+    "longitude": -80.6937,
+    "latitude": 40.39103
+  },
+  "location_details": "Jefferson Co., Ohio near Wintersville and1/4 mile from US Route 22.  In wooded area near our home.",
+  "temperature": {
+    "high": 61.69,
+    "mid": 55.9,
+    "low": 50.11
+  },
+  "dew_point": 48.81,
+  "humidity": 0.68,
+  "cloud_cover": 0.79,
+  "moon_phase": 0.97,
+  "precip_intensity": 0.0069,
+  "precip_probability": 0.87,
+  "precip_type": "rain",
+  "pressure": 1002.43,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 3,
+  "visibility": 9.72,
+  "wind_bearing": 266,
+  "wind_speed": 10.84
+}

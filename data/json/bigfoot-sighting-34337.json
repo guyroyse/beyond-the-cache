@@ -11,9 +11,11 @@
   "longitude": -77.2265,
   "location": "-77.2265,38.0735",
   "location_details": "Military Installation, during a training operation no one outside of the military had access to this location.",
-  "temperature_high": 73.43,
-  "temperature_mid": 57.825,
-  "temperature_low": 42.22,
+  "temperature": {
+    "high": 73.43,
+    "mid": 57.825,
+    "low": 42.22
+  },
   "dew_point": 57.3,
   "humidity": 0.8,
   "cloud_cover": 0.81,

@@ -11,9 +11,11 @@
   "longitude": -96.40213,
   "location": "-96.40213,42.50817",
   "location_details": "North side of Sioux City (Woodbury), IA at 616 17th St.",
-  "temperature_high": 77.88,
-  "temperature_mid": 67.85,
-  "temperature_low": 57.82,
+  "temperature": {
+    "high": 77.88,
+    "mid": 67.85,
+    "low": 57.82
+  },
   "dew_point": 62,
   "humidity": 0.8,
   "cloud_cover": 0.43,

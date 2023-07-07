@@ -11,9 +11,11 @@
   "longitude": -122.1652,
   "location": "-122.1652,46.766",
   "location_details": "about 2 miles east of elbe on north side of state hwy 706 mt hwy",
-  "temperature_high": 42.67,
-  "temperature_mid": 41.89,
-  "temperature_low": 41.11,
+  "temperature": {
+    "high": 42.67,
+    "mid": 41.89,
+    "low": 41.11
+  },
   "dew_point": 36.5,
   "humidity": 0.89,
   "cloud_cover": 0.9,

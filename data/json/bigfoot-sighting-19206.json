@@ -11,9 +11,11 @@
   "longitude": -80.01335,
   "location": "-80.01335,37.5313",
   "location_details": "Route 92 north to Sherwood lake Recreation Area. The meadow was near the picnic area close to the dam.",
-  "temperature_high": 66.42,
-  "temperature_mid": 53.27,
-  "temperature_low": 40.12,
+  "temperature": {
+    "high": 66.42,
+    "mid": 53.27,
+    "low": 40.12
+  },
   "dew_point": 42.69,
   "humidity": 0.66,
   "cloud_cover": 0.4,

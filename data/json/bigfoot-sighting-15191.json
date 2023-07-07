@@ -11,9 +11,11 @@
   "longitude": -74.00528,
   "location": "-74.00528,43.81495",
   "location_details": "The road that pases through Minerva NY. Go north for about 10 miles. Take a left at the \"North Woods Club\" Rd. It is a public road. I saw the creature about 7 miles in.",
-  "temperature_high": 81.92,
-  "temperature_mid": 73.655,
-  "temperature_low": 65.39,
+  "temperature": {
+    "high": 81.92,
+    "mid": 73.655,
+    "low": 65.39
+  },
   "dew_point": 60.4,
   "humidity": 0.69,
   "cloud_cover": 0.22,

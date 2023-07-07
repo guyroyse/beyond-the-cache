@@ -11,9 +11,11 @@
   "longitude": -123.1317,
   "location": "-123.1317,41.3657",
   "location_details": "The Sighting Took Place By Marbel Mountain, In Northern California, Trinity County (I Think It Is In Trinity County)",
-  "temperature_high": 79.92,
-  "temperature_mid": 68.81,
-  "temperature_low": 57.7,
+  "temperature": {
+    "high": 79.92,
+    "mid": 68.81,
+    "low": 57.7
+  },
   "dew_point": 51.45,
   "humidity": 0.58,
   "cloud_cover": 0.28,

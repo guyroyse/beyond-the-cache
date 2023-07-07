@@ -11,9 +11,11 @@
   "longitude": -81.63025,
   "location": "-81.63025,29.12915",
   "location_details": "Northwest of Alexander Springs about 5 miles.Its a pretty Dense area of woods and swamp.",
-  "temperature_high": 87.3,
-  "temperature_mid": 81.555,
-  "temperature_low": 75.81,
+  "temperature": {
+    "high": 87.3,
+    "mid": 81.555,
+    "low": 75.81
+  },
   "dew_point": 72.63,
   "humidity": 0.76,
   "cloud_cover": 0.68,

@@ -11,9 +11,11 @@
   "longitude": -98.34489,
   "location": "-98.34489,32.817",
   "location_details": "Chick Bend on the Brazos River.",
-  "temperature_high": 59.73,
-  "temperature_mid": 45.72,
-  "temperature_low": 31.71,
+  "temperature": {
+    "high": 59.73,
+    "mid": 45.72,
+    "low": 31.71
+  },
   "dew_point": 27.54,
   "humidity": 0.43,
   "cloud_cover": 0.02,

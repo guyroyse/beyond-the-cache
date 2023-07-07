@@ -11,9 +11,11 @@
   "longitude": -119.6234,
   "location": "-119.6234,38.51665",
   "location_details": "We went into the backcountry by way of a trailhead off of Highway 4 west of Markleeville, CA.",
-  "temperature_high": 76.06,
-  "temperature_mid": 64.665,
-  "temperature_low": 53.27,
+  "temperature": {
+    "high": 76.06,
+    "mid": 64.665,
+    "low": 53.27
+  },
   "dew_point": 37.2,
   "humidity": 0.4,
   "cloud_cover": 0.1,

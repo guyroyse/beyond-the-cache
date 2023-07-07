@@ -11,9 +11,11 @@
   "longitude": -79.8871,
   "location": "-79.8871,37.12815",
   "location_details": "Alean Road goes from Wirtz Road to Boones Mill Road in Franklin County and is only about a 7 mile stretch of road.",
-  "temperature_high": 75.9,
-  "temperature_mid": 63.845,
-  "temperature_low": 51.79,
+  "temperature": {
+    "high": 75.9,
+    "mid": 63.845,
+    "low": 51.79
+  },
   "dew_point": 58.56,
   "humidity": 0.75,
   "cloud_cover": 0.21,

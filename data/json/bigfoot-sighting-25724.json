@@ -11,9 +11,11 @@
   "longitude": -80.85832,
   "location": "-80.85832,41.12884",
   "location_details": "Near the Intersection of Route 45 and Gladstone Road",
-  "temperature_high": 53.17,
-  "temperature_mid": 47.15,
-  "temperature_low": 41.13,
+  "temperature": {
+    "high": 53.17,
+    "mid": 47.15,
+    "low": 41.13
+  },
   "dew_point": 44.15,
   "humidity": 0.77,
   "cloud_cover": 0.96,

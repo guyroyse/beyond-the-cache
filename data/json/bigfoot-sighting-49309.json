@@ -11,9 +11,11 @@
   "longitude": -98.4,
   "location": "-98.4,33.2",
   "location_details": "2 miles directly North of Bryson, Texas on Dirt roads.",
-  "temperature_high": 96.53,
-  "temperature_mid": 85.425,
-  "temperature_low": 74.32,
+  "temperature": {
+    "high": 96.53,
+    "mid": 85.425,
+    "low": 74.32
+  },
   "dew_point": 69.99,
   "humidity": 0.62,
   "cloud_cover": 0.02,

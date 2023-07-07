@@ -11,9 +11,11 @@
   "longitude": -82.67252,
   "location": "-82.67252,40.00915",
   "location_details": "Headleys Mill Road, Pataskala Ohio, Licking County",
-  "temperature_high": 78.66,
-  "temperature_mid": 70.265,
-  "temperature_low": 61.87,
+  "temperature": {
+    "high": 78.66,
+    "mid": 70.265,
+    "low": 61.87
+  },
   "dew_point": 66.12,
   "humidity": 0.79,
   "cloud_cover": 0.93,

@@ -11,9 +11,11 @@
   "longitude": -105.1137,
   "location": "-105.1137,38.0654",
   "location_details": "I don't recall the number of the forest service road, but if you drive west on S.H. 165 and go past Lake San Isabel, it goes to the left off the highway and then heads west and south back toward Greenhorn Mtn to the Blue Lakes.  This sighting took place shortly after the private Ophir Creek Campground which was also on the left side of the forest service road.",
-  "temperature_high": 78.61,
-  "temperature_mid": 70.125,
-  "temperature_low": 61.64,
+  "temperature": {
+    "high": 78.61,
+    "mid": 70.125,
+    "low": 61.64
+  },
   "dew_point": 59.52,
   "humidity": 0.77,
   "cloud_cover": 0.56,

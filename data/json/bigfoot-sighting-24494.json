@@ -11,9 +11,11 @@
   "longitude": -79.98,
   "location": "-79.98,38.55",
   "location_details": "dirt road on a mountain, far from civilization, doesn't see much traffic",
-  "temperature_high": 81.36,
-  "temperature_mid": 70.365,
-  "temperature_low": 59.37,
+  "temperature": {
+    "high": 81.36,
+    "mid": 70.365,
+    "low": 59.37
+  },
   "dew_point": 64.34,
   "humidity": 0.75,
   "cloud_cover": 0.37,

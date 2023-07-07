@@ -11,9 +11,11 @@
   "longitude": -82.97854,
   "location": "-82.97854,38.74899",
   "location_details": "Off of State Route 23",
-  "temperature_high": 75.75,
-  "temperature_mid": 71.025,
-  "temperature_low": 66.3,
+  "temperature": {
+    "high": 75.75,
+    "mid": 71.025,
+    "low": 66.3
+  },
   "dew_point": 67.27,
   "humidity": 0.86,
   "cloud_cover": 0.76,

@@ -11,9 +11,11 @@
   "longitude": -121.8943,
   "location": "-121.8943,47.87725",
   "location_details": "off SR2 in Monroe,",
-  "temperature_high": 67.52,
-  "temperature_mid": 61.13,
-  "temperature_low": 54.74,
+  "temperature": {
+    "high": 67.52,
+    "mid": 61.13,
+    "low": 54.74
+  },
   "dew_point": 53.76,
   "humidity": 0.8,
   "cloud_cover": 0.75,

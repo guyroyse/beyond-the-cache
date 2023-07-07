@@ -11,9 +11,11 @@
   "longitude": -85.08995,
   "location": "-85.08995,34.24174",
   "location_details": "Clemons Road dead end at a boat ramp on a large peninsula on Guntersville lake in a wildlife refuge.",
-  "temperature_high": 83.97,
-  "temperature_mid": 75.12,
-  "temperature_low": 66.27,
+  "temperature": {
+    "high": 83.97,
+    "mid": 75.12,
+    "low": 66.27
+  },
   "dew_point": 67.78,
   "humidity": 0.78,
   "cloud_cover": 0.03,

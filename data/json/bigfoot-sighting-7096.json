@@ -11,9 +11,11 @@
   "longitude": -87.42407,
   "location": "-87.42407,46.47182",
   "location_details": "Take Co Rd. 553 south out of Marquette, about 5 miles south of the Ski Hill on the right hand side of the road, on old 553.",
-  "temperature_high": 61.73,
-  "temperature_mid": 56.775,
-  "temperature_low": 51.82,
+  "temperature": {
+    "high": 61.73,
+    "mid": 56.775,
+    "low": 51.82
+  },
   "dew_point": 52.23,
   "humidity": 0.87,
   "moon_phase": 0.97,

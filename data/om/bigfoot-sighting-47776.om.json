@@ -1,0 +1,35 @@
+{
+  "reportId": "47776",
+  "title": "Nighttime sighting by homeowner in Lake in the Hills",
+  "date": "2017-01-22",
+  "timestamp": 1485043200,
+  "observed": "I woke up on the 18th as I did almost every a.m. at the same time. Except at that time I smoked, I quit since then. But at 3:30 a.m. I stepped outside on my back patio to have my morning smoke and coffee. When I looked up towards my neighbors above ground pool I saw it, him walking from the corner of their house towards the pool on the north west side of it. And it was tall, I would say maybe 7-7and a half feet tall and muscular. It wasn't huge but very tall, but muscular. Like a younger one. That's why I call him the youngster. He's curious. Anyway he hit the pool with his right hand as he was heading towards the only set of tree's around. Which is my neighbors to the north of me. i went up stairs in my son's bathroom to look out the window and he must of saw me and didn't like me watching him because he threw something at the house, so I stopped watching him.He was a darker color, I would say almost black but a little lighter. I don't think he thought anybody should be awake at that time in the morning. Because it seems almost like I not scared him but we both did not expect to see each other that a.m.",
+  "classification": "Class A",
+  "county": "McHenry",
+  "state": "Illinois",
+  "latitude": 42.1838,
+  "longitude": -88.30026,
+  "location": {
+    "longitude": -88.30026,
+    "latitude": 42.1838
+  },
+  "location_details": "It happened on my street in Lake in the Hills. At my house. Behind my house by my neighbors pool, right behind my house.",
+  "temperature": {
+    "high": 41.35,
+    "mid": 39.27,
+    "low": 37.19
+  },
+  "dew_point": 36.56,
+  "humidity": 0.92,
+  "cloud_cover": 0.78,
+  "moon_phase": 0.83,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.11,
+  "precip_type": "rain",
+  "pressure": 1003.68,
+  "summary": "Mostly cloudy in the morning.",
+  "uv_index": 1,
+  "visibility": 4.8,
+  "wind_bearing": 355,
+  "wind_speed": 4.09
+}

@@ -11,9 +11,11 @@
   "longitude": -73.52,
   "location": "-73.52,43.7268",
   "location_details": "follow split rock road, turns to dirt, fork in road bear left, keep going into the woods, easy to find",
-  "temperature_high": 80.42,
-  "temperature_mid": 67.02,
-  "temperature_low": 53.62,
+  "temperature": {
+    "high": 80.42,
+    "mid": 67.02,
+    "low": 53.62
+  },
   "dew_point": 51.19,
   "humidity": 0.65,
   "cloud_cover": 0.09,

@@ -11,9 +11,11 @@
   "longitude": -117.1776,
   "location": "-117.1776,34.33843",
   "location_details": "Hard to get to area, has limited trails. Take Hook Creek Road North from highway 173. Road will turn to dirt. Continue past Splinters Cabin to the left and follow the roads to the Deep Creek Recreation area.",
-  "temperature_high": 90.85,
-  "temperature_mid": 77.215,
-  "temperature_low": 63.58,
+  "temperature": {
+    "high": 90.85,
+    "mid": 77.215,
+    "low": 63.58
+  },
   "dew_point": 48.2,
   "humidity": 0.38,
   "cloud_cover": 0.24,

@@ -11,9 +11,11 @@
   "longitude": -97.56185,
   "location": "-97.56185,38.1814",
   "location_details": "It is about 15 miles north on Plum street from Hutchinson Ks,  Then about 3 miles west.",
-  "temperature_high": 69.44,
-  "temperature_mid": 61.435,
-  "temperature_low": 53.43,
+  "temperature": {
+    "high": 69.44,
+    "mid": 61.435,
+    "low": 53.43
+  },
   "dew_point": 42.17,
   "humidity": 0.58,
   "cloud_cover": 0.14,

@@ -11,9 +11,11 @@
   "longitude": -84.08533,
   "location": "-84.08533,39.01569",
   "location_details": "State route 32,Williamsburg/ route 133 south, right on Twin Bridges, go to end, straight to enter wilderness area. Equine trail on left, leading southwestward.",
-  "temperature_high": 41.82,
-  "temperature_mid": 37.91,
-  "temperature_low": 34,
+  "temperature": {
+    "high": 41.82,
+    "mid": 37.91,
+    "low": 34
+  },
   "dew_point": 27.49,
   "humidity": 0.73,
   "cloud_cover": 0.07,

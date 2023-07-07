@@ -11,9 +11,11 @@
   "longitude": -92.9008,
   "location": "-92.9008,41.3675",
   "location_details": "Public Hunting Access about 3 miles south of Pella, IA in Marion County.",
-  "temperature_high": 72.82,
-  "temperature_mid": 67.74,
-  "temperature_low": 62.66,
+  "temperature": {
+    "high": 72.82,
+    "mid": 67.74,
+    "low": 62.66
+  },
   "dew_point": 59.53,
   "humidity": 0.87,
   "cloud_cover": 0.73,

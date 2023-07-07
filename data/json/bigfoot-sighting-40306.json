@@ -11,9 +11,11 @@
   "longitude": -94.19245,
   "location": "-94.19245,38.5229",
   "location_details": "Area is near multi use trail that winds thru thick woods and fields of the area. James Reed Wildlife Area 13101 Ranson Road Lee's Summit, Mo 64082 area maps are available on line",
-  "temperature_high": 53.53,
-  "temperature_mid": 49.475,
-  "temperature_low": 45.42,
+  "temperature": {
+    "high": 53.53,
+    "mid": 49.475,
+    "low": 45.42
+  },
   "dew_point": 33.3,
   "humidity": 0.65,
   "cloud_cover": 0.35,

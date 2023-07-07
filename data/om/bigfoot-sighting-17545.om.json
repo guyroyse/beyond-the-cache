@@ -1,0 +1,35 @@
+{
+  "reportId": "17545",
+  "title": "Possible nighttime sighting by motorist near Ball Club",
+  "date": "2006-06-20",
+  "timestamp": 1150761600,
+  "observed": "I spoke to a elderly ojibwe lady who was on  her way to the Deer River White Oak Casino to do some gambling. She was driving east and about one mile east of Ball Club, Minnesota at about 11:00 P.M. she saw a brownish hairy manlike creature standing along the left side of highway 2. She said it looked like it was getting ready to cross the road toward Ball Club Lake. She was very scared and didn't want to slow down. She said this was about the time the Six Mile Lake tracks were spotted along a gravel road near Bena, Minnesota.",
+  "classification": "Class B",
+  "county": "Itasca",
+  "state": "Minnesota",
+  "latitude": 47.323,
+  "longitude": -93.9137,
+  "location": {
+    "longitude": -93.9137,
+    "latitude": 47.323
+  },
+  "location_details": "On US Hwy #2, and between County Rd 39 & 18",
+  "temperature": {
+    "high": 71.5,
+    "mid": 63.47,
+    "low": 55.44
+  },
+  "dew_point": 51.83,
+  "humidity": 0.72,
+  "cloud_cover": 0.15,
+  "moon_phase": 0.83,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.62,
+  "precip_type": "rain",
+  "pressure": 1012.81,
+  "summary": "Partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 8,
+  "visibility": 9.52,
+  "wind_bearing": 177,
+  "wind_speed": 4.48
+}

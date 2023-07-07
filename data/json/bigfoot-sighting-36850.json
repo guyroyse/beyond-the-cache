@@ -11,9 +11,11 @@
   "longitude": -78.02081,
   "location": "-78.02081,38.9593",
   "location_details": "109 Trillium Trail Rd, Linden, VA.  About a mile southwest of cabin at stated address.",
-  "temperature_high": 68.05,
-  "temperature_mid": 57.595,
-  "temperature_low": 47.14,
+  "temperature": {
+    "high": 68.05,
+    "mid": 57.595,
+    "low": 47.14
+  },
   "dew_point": 44,
   "humidity": 0.78,
   "cloud_cover": 0.1,

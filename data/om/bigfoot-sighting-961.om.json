@@ -1,0 +1,35 @@
+{
+  "reportId": "961",
+  "title": "Motorist confronted by hairy, man-like creature on roadside",
+  "date": "1997-01-06",
+  "timestamp": 852508800,
+  "observed": "I stopped my car to go to the bathroom because I had to go bad and in the woods next to the road there was a horrible hairy man-like creature. It walked toward me and snorted. I was so scared. It had what looked like a small limb or something in its hand. It came up to three feet of me, grunted and walked off. I ran back to the car and got away. I saw it standing in my rear view mirror as I drove away. It was at the edge of the road. I think this monster is dangerous.",
+  "classification": "Class A",
+  "county": "Washington",
+  "state": "Alabama",
+  "latitude": 31.4515,
+  "longitude": -88.08305,
+  "location": {
+    "longitude": -88.08305,
+    "latitude": 31.4515
+  },
+  "location_details": "Washington County, on Alabama Highway 56, between Chatom and Wagarville. At the top of the hill about two miles west of Wagarville.",
+  "temperature": {
+    "high": 57.31,
+    "mid": 50.205,
+    "low": 43.1
+  },
+  "dew_point": 43.63,
+  "humidity": 0.66,
+  "cloud_cover": 0.93,
+  "moon_phase": 0.91,
+  "precip_intensity": 0.0091,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1017.47,
+  "summary": "Light rain overnight.",
+  "uv_index": 2,
+  "visibility": 8.8,
+  "wind_bearing": 21,
+  "wind_speed": 10.1
+}

@@ -11,9 +11,11 @@
   "longitude": -123.7027,
   "location": "-123.7027,45.06215",
   "location_details": "About 5 miles west of the spirt mountain casino just past the first set of passing lanes",
-  "temperature_high": 58.28,
-  "temperature_mid": 49.96,
-  "temperature_low": 41.64,
+  "temperature": {
+    "high": 58.28,
+    "mid": 49.96,
+    "low": 41.64
+  },
   "dew_point": 42.96,
   "humidity": 0.87,
   "cloud_cover": 0.16,

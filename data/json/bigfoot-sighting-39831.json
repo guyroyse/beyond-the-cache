@@ -11,9 +11,11 @@
   "longitude": -95.12505,
   "location": "-95.12505,43.47104",
   "location_details": "Marble beach state recreation area",
-  "temperature_high": 20.45,
-  "temperature_mid": 20.1,
-  "temperature_low": 19.75,
+  "temperature": {
+    "high": 20.45,
+    "mid": 20.1,
+    "low": 19.75
+  },
   "dew_point": 10.83,
   "humidity": 0.77,
   "cloud_cover": 0.63,

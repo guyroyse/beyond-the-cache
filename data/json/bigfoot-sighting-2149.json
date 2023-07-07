@@ -11,9 +11,11 @@
   "longitude": -81.38915,
   "location": "-81.38915,36.3461",
   "location_details": "Off the Blue Ridge Parkway in the northern Appalachian Mtns.",
-  "temperature_high": 68.34,
-  "temperature_mid": 53.135,
-  "temperature_low": 37.93,
+  "temperature": {
+    "high": 68.34,
+    "mid": 53.135,
+    "low": 37.93
+  },
   "dew_point": 30.01,
   "humidity": 0.47,
   "cloud_cover": 0.16,

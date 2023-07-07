@@ -11,9 +11,11 @@
   "longitude": -81.59869,
   "location": "-81.59869,28.99496",
   "location_details": "Off of woods road 572A by squirels nest meadow.",
-  "temperature_high": 79.29,
-  "temperature_mid": 69.785,
-  "temperature_low": 60.28,
+  "temperature": {
+    "high": 79.29,
+    "mid": 69.785,
+    "low": 60.28
+  },
   "dew_point": 58.05,
   "humidity": 0.73,
   "cloud_cover": 0.42,

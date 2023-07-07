@@ -11,9 +11,11 @@
   "longitude": -82.7989,
   "location": "-82.7989,38.53187",
   "location_details": "Start at Raceland Super Quik \"Gas Station\" on US23 and head towards Greenup until you get to the caution lights on the highway.  Then you will see on the left about 1 mile up the road a set of gates on the left.  It used to be addingtons landfill.  But now it is abandoned and there is just alot of forest back there now.  After you go through the gates you stay on the main road which is blakctoped and you stay on that road for about 2 miles and then it turns to gravel.  Follow the gravel road until you come to another set of gates and go through them. Stay on the gravel for about 2 miles then there is a dirt road to the left follow it to pine thicket and then you go up this real steep hill and that is the area where i saw bigfoot.",
-  "temperature_high": 35.17,
-  "temperature_mid": 31.35,
-  "temperature_low": 27.53,
+  "temperature": {
+    "high": 35.17,
+    "mid": 31.35,
+    "low": 27.53
+  },
   "dew_point": 22.5,
   "humidity": 0.83,
   "cloud_cover": 0.93,

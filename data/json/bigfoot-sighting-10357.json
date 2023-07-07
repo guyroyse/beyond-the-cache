@@ -11,9 +11,11 @@
   "longitude": -114.08,
   "location": "-114.08,46.75889",
   "location_details": "South of Missoula",
-  "temperature_high": 46.8,
-  "temperature_mid": 34.095,
-  "temperature_low": 21.39,
+  "temperature": {
+    "high": 46.8,
+    "mid": 34.095,
+    "low": 21.39
+  },
   "dew_point": 30.11,
   "humidity": 0.82,
   "cloud_cover": 0.52,

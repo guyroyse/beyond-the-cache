@@ -11,9 +11,11 @@
   "longitude": -75.36536,
   "location": "-75.36536,38.71",
   "location_details": "When you come from Milton on route 30 heading east towards Millsboro you come to xxxxxxx Rd and take a right the home is in the wooded area down about 1/2 mile. The whole area in surrounded by wet lands and Pine trees",
-  "temperature_high": 48.73,
-  "temperature_mid": 43.585,
-  "temperature_low": 38.44,
+  "temperature": {
+    "high": 48.73,
+    "mid": 43.585,
+    "low": 38.44
+  },
   "dew_point": 43.58,
   "humidity": 0.81,
   "cloud_cover": 0.89,

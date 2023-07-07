@@ -11,9 +11,11 @@
   "longitude": -107.4667,
   "location": "-107.4667,37.38334",
   "location_details": "The encounter took place above Beaver Meadow Spring in the San Juan National Forest east of Vallecito Reservoir. The camping area is accessed by taking Forest Road 604 from CO 160 and proceeding due north via a welter of forest roads.",
-  "temperature_high": 79.11,
-  "temperature_mid": 60.94,
-  "temperature_low": 42.77,
+  "temperature": {
+    "high": 79.11,
+    "mid": 60.94,
+    "low": 42.77
+  },
   "dew_point": 24.59,
   "humidity": 0.3,
   "cloud_cover": 0.08,

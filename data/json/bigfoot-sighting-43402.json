@@ -11,9 +11,11 @@
   "longitude": -87.56807,
   "location": "-87.56807,31.809",
   "location_details": "Hwy 31 from Atmore to 84 west then right on county road 01 about 5 miles to the bridge",
-  "temperature_high": 91.24,
-  "temperature_mid": 81.905,
-  "temperature_low": 72.57,
+  "temperature": {
+    "high": 91.24,
+    "mid": 81.905,
+    "low": 72.57
+  },
   "dew_point": 73.12,
   "humidity": 0.84,
   "cloud_cover": 0.27,

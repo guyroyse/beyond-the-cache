@@ -1,0 +1,35 @@
+{
+  "reportId": "57784",
+  "title": "Traveler sleeping at rest stop near Malad City awakened by possible wood knocks",
+  "date": "2017-06-17",
+  "timestamp": 1497657600,
+  "observed": "While traveling from Herriman UT to Rexburg Idaho, I stopped for the night at the Cherry Creek rest stop off I-15 just before Malad Idaho. I parked in the \"Truck\" area as close to the mountain and as far from the restrooms as I could. I fell asleep in my pickup camper shell approximately 10:00 pm At 11:00 pm something woke me up, I sat up and looked around and saw nothing out of order, I could see very well due to the rest stop lights, I saw one big rig parked in the truck area and no cars at all. The truck may have awakened me when he pulled in. I laid back down and few minutes later I heard brush breaking a couple of hundred yards up the hill, I thought it must be a bear or an elk. Ignoring the breaking brush I tried to go back to sleep then while still awake I heard a clear distinctive wood knock, very clear like a bat on an oak tree. I listened for another half hour or so and heard occasional brush breaking, I then fell asleep. I was then awakened at approximately 3:00 am by breaking brush that sounded much closer than before, followed by one clear knock from uphill and north of me 10 seconds or so later another clear knock further up the hill but to the south (two separate locations) I got up a little freaked out and drove north to Malad, Idaho",
+  "classification": "Class B",
+  "county": "Oneida",
+  "state": "Idaho",
+  "latitude": 42.10072,
+  "longitude": -112.2149,
+  "location": {
+    "longitude": -112.2149,
+    "latitude": 42.10072
+  },
+  "location_details": "A few miles south from Malad City, Idaho on I-15 is a rest stop the \"Cherry Creek\" rest stop on the mountain side of the freeway. My report is from that rest stop",
+  "temperature": {
+    "high": 74.8,
+    "mid": 63,
+    "low": 51.2
+  },
+  "dew_point": 46.2,
+  "humidity": 0.5,
+  "cloud_cover": 0.14,
+  "moon_phase": 0.76,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.1,
+  "precip_type": "rain",
+  "pressure": 1011.32,
+  "summary": "Clear throughout the day.",
+  "uv_index": 11,
+  "visibility": 10,
+  "wind_bearing": 287,
+  "wind_speed": 5.63
+}

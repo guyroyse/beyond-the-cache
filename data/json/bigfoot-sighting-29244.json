@@ -11,9 +11,11 @@
   "longitude": -82.31094,
   "location": "-82.31094,36.42846",
   "location_details": "See Report",
-  "temperature_high": 81.2,
-  "temperature_mid": 72.11,
-  "temperature_low": 63.02,
+  "temperature": {
+    "high": 81.2,
+    "mid": 72.11,
+    "low": 63.02
+  },
   "dew_point": 58.87,
   "humidity": 0.76,
   "cloud_cover": 0.47,

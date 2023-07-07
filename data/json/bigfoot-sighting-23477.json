@@ -11,9 +11,11 @@
   "longitude": -80.9075,
   "location": "-80.9075,37.7929",
   "location_details": "Take the Sandstone exit from Beckley, turn left where the visitor center is on right, go on the road leading to the center.  There is a gravel trail going up into the hills where the first sighting was.  From the beginning of the trail uphill approximately 150ft to the left was where the second sightings occurred.",
-  "temperature_high": 51.02,
-  "temperature_mid": 42.885,
-  "temperature_low": 34.75,
+  "temperature": {
+    "high": 51.02,
+    "mid": 42.885,
+    "low": 34.75
+  },
   "dew_point": 32.52,
   "humidity": 0.7,
   "cloud_cover": 0.67,

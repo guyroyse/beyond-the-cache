@@ -11,9 +11,11 @@
   "longitude": -121.2733,
   "location": "-121.2733,39.64306",
   "location_details": "Go to the Feather Falls trailhead.  There's a small 6 spot campground there.  We were in the 3rd or 4th spot, the only one with wood stairs leading down to it.",
-  "temperature_high": 80.67,
-  "temperature_mid": 63.86,
-  "temperature_low": 47.05,
+  "temperature": {
+    "high": 80.67,
+    "mid": 63.86,
+    "low": 47.05
+  },
   "dew_point": 41.08,
   "humidity": 0.52,
   "cloud_cover": 0.05,

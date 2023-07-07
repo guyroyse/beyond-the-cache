@@ -11,9 +11,11 @@
   "longitude": -90.68208,
   "location": "-90.68208,39.1633",
   "location_details": "This happened on the Mississippi River Road in Calhoun County, Illinois near the Reds Landing entrance.",
-  "temperature_high": 94.58,
-  "temperature_mid": 83.905,
-  "temperature_low": 73.23,
+  "temperature": {
+    "high": 94.58,
+    "mid": 83.905,
+    "low": 73.23
+  },
   "dew_point": 69.89,
   "humidity": 0.66,
   "cloud_cover": 0.55,

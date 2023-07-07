@@ -11,9 +11,11 @@
   "longitude": -80.08778,
   "location": "-80.08778,35.46955",
   "location_details": "Uwharrie National Forest",
-  "temperature_high": 74.71,
-  "temperature_mid": 66.01,
-  "temperature_low": 57.31,
+  "temperature": {
+    "high": 74.71,
+    "mid": 66.01,
+    "low": 57.31
+  },
   "dew_point": 58.12,
   "humidity": 0.82,
   "cloud_cover": 0.07,

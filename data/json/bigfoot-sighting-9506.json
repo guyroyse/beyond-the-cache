@@ -11,9 +11,11 @@
   "longitude": -110.9986,
   "location": "-110.9986,34.4274",
   "location_details": "From Tempe az Take beeline hwy east to hwy 87 NE go through town of payson take hwy 260 to woods canyon lake pass woods canyon lake up to knoll lake an additional 20-25 miles once at knoll lake you proceed further pass the lake east old dirt roads go in all directions hard to explain. you follow the one heading east to it's end that is the site we were at.",
-  "temperature_high": 87.73,
-  "temperature_mid": 70.435,
-  "temperature_low": 53.14,
+  "temperature": {
+    "high": 87.73,
+    "mid": 70.435,
+    "low": 53.14
+  },
   "dew_point": 31.67,
   "humidity": 0.27,
   "cloud_cover": 0.01,

@@ -11,9 +11,11 @@
   "longitude": -122.9627,
   "location": "-122.9627,46.6622",
   "location_details": "The tracks at I-5 as you are going accross the bridge between hwy 6 and 13th street exit. The tracks that Am Trak travels. There are trees and bushes along both sides of the tracks.",
-  "temperature_high": 62.91,
-  "temperature_mid": 55.82,
-  "temperature_low": 48.73,
+  "temperature": {
+    "high": 62.91,
+    "mid": 55.82,
+    "low": 48.73
+  },
   "dew_point": 47.82,
   "humidity": 0.77,
   "cloud_cover": 0.82,

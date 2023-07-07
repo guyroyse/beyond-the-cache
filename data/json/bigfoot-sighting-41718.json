@@ -11,9 +11,11 @@
   "longitude": -90.95499,
   "location": "-90.95499,39.91682",
   "location_details": "From county road 1200th to 2873rd E going south,  at the bottom of the first hill on an embankment on the west side of the road.",
-  "temperature_high": 88.64,
-  "temperature_mid": 79.455,
-  "temperature_low": 70.27,
+  "temperature": {
+    "high": 88.64,
+    "mid": 79.455,
+    "low": 70.27
+  },
   "dew_point": 69.92,
   "humidity": 0.71,
   "cloud_cover": 0.05,

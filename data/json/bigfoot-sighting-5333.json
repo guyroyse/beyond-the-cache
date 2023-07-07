@@ -11,9 +11,11 @@
   "longitude": -82.26236,
   "location": "-82.26236,40.60787",
   "location_details": "Somewhere between Cleveland and Columbus in one of the little campsite areas along State Route 3, from what he recalls.  (He called back to describe the Mohican Memorial Forest as the likely general area.)",
-  "temperature_high": 78.78,
-  "temperature_mid": 71.685,
-  "temperature_low": 64.59,
+  "temperature": {
+    "high": 78.78,
+    "mid": 71.685,
+    "low": 64.59
+  },
   "dew_point": 67.52,
   "humidity": 0.89,
   "cloud_cover": 0.68,

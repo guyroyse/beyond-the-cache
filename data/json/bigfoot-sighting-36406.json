@@ -11,9 +11,11 @@
   "longitude": -90.79664,
   "location": "-90.79664,40.45273",
   "location_details": "I took a picture of where this happened at camp site # 54.",
-  "temperature_high": 83.78,
-  "temperature_mid": 71.555,
-  "temperature_low": 59.33,
+  "temperature": {
+    "high": 83.78,
+    "mid": 71.555,
+    "low": 59.33
+  },
   "dew_point": 64.62,
   "humidity": 0.74,
   "cloud_cover": 0.32,

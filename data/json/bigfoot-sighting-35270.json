@@ -11,9 +11,11 @@
   "longitude": -81.71583,
   "location": "-81.71583,26.85451",
   "location_details": "From I75 south take exit #164, take US17/Duncan Rd north 1 miles to74/Bermont Rd, go right on 17 about 15 miles. At flashing light rurn right onto SR31. Go about 6 miles, entrance to the Wilderness Park will be on the left.",
-  "temperature_high": 78.88,
-  "temperature_mid": 68.345,
-  "temperature_low": 57.81,
+  "temperature": {
+    "high": 78.88,
+    "mid": 68.345,
+    "low": 57.81
+  },
   "dew_point": 50.48,
   "humidity": 0.53,
   "cloud_cover": 0.14,

@@ -11,9 +11,11 @@
   "longitude": -79.3178,
   "location": "-79.3178,41.47511",
   "location_details": "go north on 208 from 80 pass newmansvill and take a right. next right turn right and drivr into the Allegheny National Forest. first left on paved road, turns to dirt and dirve two miles.",
-  "temperature_high": 76.93,
-  "temperature_mid": 65.225,
-  "temperature_low": 53.52,
+  "temperature": {
+    "high": 76.93,
+    "mid": 65.225,
+    "low": 53.52
+  },
   "dew_point": 59.26,
   "humidity": 0.75,
   "cloud_cover": 0.68,

@@ -11,9 +11,11 @@
   "longitude": -83.85683,
   "location": "-83.85683,36.67311",
   "location_details": "Located in bell county near parrot lake across the road from the smith farm on the hill side",
-  "temperature_high": 68.49,
-  "temperature_mid": 55.61,
-  "temperature_low": 42.73,
+  "temperature": {
+    "high": 68.49,
+    "mid": 55.61,
+    "low": 42.73
+  },
   "dew_point": 44.55,
   "humidity": 0.71,
   "cloud_cover": 0.14,

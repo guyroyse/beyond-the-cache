@@ -11,9 +11,11 @@
   "longitude": -82.30699,
   "location": "-82.30699,27.10589",
   "location_details": "Headed N on I-75, right side, between exit #179 and #191.",
-  "temperature_high": 72.85,
-  "temperature_mid": 68.49,
-  "temperature_low": 64.13,
+  "temperature": {
+    "high": 72.85,
+    "mid": 68.49,
+    "low": 64.13
+  },
   "dew_point": 57.93,
   "humidity": 0.79,
   "cloud_cover": 0.01,

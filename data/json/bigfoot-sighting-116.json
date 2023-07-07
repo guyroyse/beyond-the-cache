@@ -11,9 +11,11 @@
   "longitude": -119.6389,
   "location": "-119.6389,45.83675",
   "location_details": "Drive straight east from Portland along Oregon side of the Columbia River; as the road starts to drift southeast abit at the first noticable incilne.",
-  "temperature_high": 65.69,
-  "temperature_mid": 54.61,
-  "temperature_low": 43.53,
+  "temperature": {
+    "high": 65.69,
+    "mid": 54.61,
+    "low": 43.53
+  },
   "dew_point": 33.16,
   "humidity": 0.52,
   "cloud_cover": 0.7,

@@ -11,9 +11,11 @@
   "longitude": -84.2915,
   "location": "-84.2915,42.43235",
   "location_details": "Crooked Lake Rustic Camp Grounds near the lake.",
-  "temperature_high": 78.62,
-  "temperature_mid": 70.71,
-  "temperature_low": 62.8,
+  "temperature": {
+    "high": 78.62,
+    "mid": 70.71,
+    "low": 62.8
+  },
   "dew_point": 53.28,
   "humidity": 0.63,
   "cloud_cover": 0.14,

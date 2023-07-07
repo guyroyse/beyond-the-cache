@@ -11,9 +11,11 @@
   "longitude": -122.0144,
   "location": "-122.0144,45.66194",
   "location_details": "East of Beacon Rock.",
-  "temperature_high": 46.58,
-  "temperature_mid": 41.79,
-  "temperature_low": 37,
+  "temperature": {
+    "high": 46.58,
+    "mid": 41.79,
+    "low": 37
+  },
   "dew_point": 37.88,
   "humidity": 0.83,
   "cloud_cover": 0.91,

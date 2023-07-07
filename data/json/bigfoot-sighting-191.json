@@ -11,9 +11,11 @@
   "longitude": -123.3471,
   "location": "-123.3471,45.63606",
   "location_details": "In the general vicinity of Glenwood.  Figure was crossing South to North",
-  "temperature_high": 78.77,
-  "temperature_mid": 67.865,
-  "temperature_low": 56.96,
+  "temperature": {
+    "high": 78.77,
+    "mid": 67.865,
+    "low": 56.96
+  },
   "dew_point": 55.03,
   "humidity": 0.66,
   "cloud_cover": 0.44,

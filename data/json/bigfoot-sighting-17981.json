@@ -11,9 +11,11 @@
   "longitude": -80.19804,
   "location": "-80.19804,40.50322",
   "location_details": "It was about 1/8 mile from the Wampum Mushroom mines. In the Koppel Stip mines.",
-  "temperature_high": 37.83,
-  "temperature_mid": 34.275,
-  "temperature_low": 30.72,
+  "temperature": {
+    "high": 37.83,
+    "mid": 34.275,
+    "low": 30.72
+  },
   "dew_point": 25.43,
   "humidity": 0.74,
   "cloud_cover": 0.95,

@@ -11,9 +11,11 @@
   "longitude": -121.7913,
   "location": "-121.7913,46.3341",
   "location_details": "Bear Creek, about 6 miles Northwest of Carson",
-  "temperature_high": 50.71,
-  "temperature_mid": 37.94,
-  "temperature_low": 25.17,
+  "temperature": {
+    "high": 50.71,
+    "mid": 37.94,
+    "low": 25.17
+  },
   "dew_point": 23.73,
   "humidity": 0.57,
   "cloud_cover": 0.17,

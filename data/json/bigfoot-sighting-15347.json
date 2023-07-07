@@ -11,9 +11,11 @@
   "longitude": -89.85,
   "location": "-89.85,42.21",
   "location_details": "It was in my 5 acre timber I own west of Illinois Route 73 south of Pearl City, Illinois.",
-  "temperature_high": 41.34,
-  "temperature_mid": 36.625,
-  "temperature_low": 31.91,
+  "temperature": {
+    "high": 41.34,
+    "mid": 36.625,
+    "low": 31.91
+  },
   "dew_point": 31.1,
   "humidity": 0.79,
   "cloud_cover": 0.77,

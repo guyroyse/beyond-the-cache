@@ -11,9 +11,11 @@
   "longitude": -111.125,
   "location": "-111.125,45.22417",
   "location_details": "U.S.A. Gallatin National Forest, Gallatin County, Montana. ~10 miles east of US 191 ~30 miles south of Bozeman. Incident occurred in the Portal Creek area.",
-  "temperature_high": 50.83,
-  "temperature_mid": 45.365,
-  "temperature_low": 39.9,
+  "temperature": {
+    "high": 50.83,
+    "mid": 45.365,
+    "low": 39.9
+  },
   "dew_point": 33.32,
   "humidity": 0.64,
   "cloud_cover": 0.92,

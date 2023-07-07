@@ -11,9 +11,11 @@
   "longitude": -122.4966,
   "location": "-122.4966,47.74897",
   "location_details": "",
-  "temperature_high": 58.82,
-  "temperature_mid": 56.935,
-  "temperature_low": 55.05,
+  "temperature": {
+    "high": 58.82,
+    "mid": 56.935,
+    "low": 55.05
+  },
   "dew_point": 52.73,
   "humidity": 0.9,
   "cloud_cover": 0.97,

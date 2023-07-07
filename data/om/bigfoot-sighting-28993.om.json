@@ -1,0 +1,34 @@
+{
+  "reportId": "28993",
+  "title": "Couple recount seeing large biped walking in ditch near Marinette",
+  "date": "1981-04-15",
+  "timestamp": 356140800,
+  "observed": "One evening my girl friend and I went for a ride to look for deer. We would take rides three or four times a week mostly riding the back roads. One evening as we were driving down a road (Rader Road towards County BB) I noticed someone walking in the ditch on the right side of the road. At the time I kept my eyes on him because I thought he was walking on the roadway, as I drove nearer I noticed that he was walking in the ditch. About this time my girl friend ask me what that was walking on the roadway, I told her that it was not walking on the roadway but in the ditch which was about 5 feet below the roadway. I knew the depth because my brother and I went smelting there a few times. I explained to her that what ever was walking there had to be about 8’ or 9’ feet tall. She wanted to turn around and drive by it again to get a closer look I told her no that we would go around the back way which would take about 30 minutes, I wanted it to be gone when we came back.",
+  "classification": "Class B",
+  "county": "Marinette",
+  "state": "Wisconsin",
+  "latitude": 45.05592,
+  "longitude": -87.63705,
+  "location": {
+    "longitude": -87.63705,
+    "latitude": 45.05592
+  },
+  "location_details": "heading east on rader road towards county BB",
+  "temperature": {
+    "high": 57.51,
+    "mid": 47.99,
+    "low": 38.47
+  },
+  "dew_point": 30.06,
+  "humidity": 0.67,
+  "cloud_cover": 0.09,
+  "moon_phase": 0.39,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1034.74,
+  "summary": "Clear throughout the day.",
+  "uv_index": 6,
+  "visibility": 9.56,
+  "wind_bearing": 193,
+  "wind_speed": 8.08
+}

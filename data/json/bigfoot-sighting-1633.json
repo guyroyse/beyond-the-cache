@@ -11,9 +11,11 @@
   "longitude": -94.25556,
   "location": "-94.25556,33.18528",
   "location_details": "10 miles out of Atlanta, 2 to 3 miles back in the woods, off the east side of highway 77.",
-  "temperature_high": 89.33,
-  "temperature_mid": 80.74,
-  "temperature_low": 72.15,
+  "temperature": {
+    "high": 89.33,
+    "mid": 80.74,
+    "low": 72.15
+  },
   "dew_point": 72.89,
   "humidity": 0.79,
   "cloud_cover": 0.29,

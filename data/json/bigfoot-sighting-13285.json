@@ -11,9 +11,11 @@
   "longitude": -72.7051,
   "location": "-72.7051,43.4654",
   "location_details": "It's off Rt 100 outside of Ludlow Vermont. It crosses some very heavily wooded, desolate areas.",
-  "temperature_high": 57.61,
-  "temperature_mid": 52.005,
-  "temperature_low": 46.4,
+  "temperature": {
+    "high": 57.61,
+    "mid": 52.005,
+    "low": 46.4
+  },
   "dew_point": 51.74,
   "humidity": 0.91,
   "cloud_cover": 0.99,

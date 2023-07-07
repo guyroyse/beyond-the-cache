@@ -11,9 +11,11 @@
   "longitude": -82.38086,
   "location": "-82.38086,30.07067",
   "location_details": "About 5 miles north of Lake Butler, the lake located just North of the town.",
-  "temperature_high": 65.32,
-  "temperature_mid": 59.39,
-  "temperature_low": 53.46,
+  "temperature": {
+    "high": 65.32,
+    "mid": 59.39,
+    "low": 53.46
+  },
   "dew_point": 46.86,
   "humidity": 0.77,
   "cloud_cover": 0.81,

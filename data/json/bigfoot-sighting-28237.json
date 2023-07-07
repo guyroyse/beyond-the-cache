@@ -11,9 +11,11 @@
   "longitude": -81.97483,
   "location": "-81.97483,28.50566",
   "location_details": "take hwy 50 west till baylake on left drive till you hit the woods drive till you hit the 4 way take a right follow till 2nd camp on left.",
-  "temperature_high": 88.35,
-  "temperature_mid": 81.595,
-  "temperature_low": 74.84,
+  "temperature": {
+    "high": 88.35,
+    "mid": 81.595,
+    "low": 74.84
+  },
   "dew_point": 74.08,
   "humidity": 0.82,
   "cloud_cover": 0.4,

@@ -11,9 +11,11 @@
   "longitude": -79.5653,
   "location": "-79.5653,38.6934",
   "location_details": "I'm sorry but I do not have a map at the moment so I'll do my best to explain where we were. We left Green Bank, WV heading toward Seneca Rocks. I think that it is Rt.55. We took a dirt road which ran west off of the main road. It was marked 17miles to Spruce Knob. We only made it about 6 miles up that road and had to turn around because the road became snow covered and icey as we got higher. I would guess that we were about 3500 ft because it seems that we almost reached the top of the mountain and were just traveling around the ridge. There was a mountain spring where we stopped and got water close to where we saw the footprints.",
-  "temperature_high": 52.54,
-  "temperature_mid": 47.955,
-  "temperature_low": 43.37,
+  "temperature": {
+    "high": 52.54,
+    "mid": 47.955,
+    "low": 43.37
+  },
   "dew_point": 28.02,
   "humidity": 0.59,
   "cloud_cover": 0.26,

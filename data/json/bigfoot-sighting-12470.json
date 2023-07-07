@@ -11,9 +11,11 @@
   "longitude": -93.894,
   "location": "-93.894,37.117",
   "location_details": "From Mt. Vernon go west on SR V highway past Baptist Hill Assembly to the first bridge over Spring River.",
-  "temperature_high": 90.77,
-  "temperature_mid": 80.875,
-  "temperature_low": 70.98,
+  "temperature": {
+    "high": 90.77,
+    "mid": 80.875,
+    "low": 70.98
+  },
   "dew_point": 69.65,
   "humidity": 0.72,
   "cloud_cover": 0.16,

@@ -11,9 +11,11 @@
   "longitude": -82.1334,
   "location": "-82.1334,40.25597",
   "location_details": "I was not driving and had never been there before so Im not even 100% on the county rd.name.It was on woodbury wildlife refuge [public hunting].",
-  "temperature_high": 50.84,
-  "temperature_mid": 44.955,
-  "temperature_low": 39.07,
+  "temperature": {
+    "high": 50.84,
+    "mid": 44.955,
+    "low": 39.07
+  },
   "dew_point": 43.35,
   "humidity": 0.83,
   "cloud_cover": 0.69,

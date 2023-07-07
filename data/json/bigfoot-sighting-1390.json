@@ -11,9 +11,11 @@
   "longitude": -122.3454,
   "location": "-122.3454,47.5279",
   "location_details": "One Mile NE of Hood Canal Bridge.",
-  "temperature_high": 65.59,
-  "temperature_mid": 60.11,
-  "temperature_low": 54.63,
+  "temperature": {
+    "high": 65.59,
+    "mid": 60.11,
+    "low": 54.63
+  },
   "dew_point": 50.99,
   "humidity": 0.76,
   "cloud_cover": 0.94,

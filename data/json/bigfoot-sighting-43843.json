@@ -11,9 +11,11 @@
   "longitude": -97.4572,
   "location": "-97.4572,37.40504",
   "location_details": "It was on the Ninnescah River.",
-  "temperature_high": 78.09,
-  "temperature_mid": 58.96,
-  "temperature_low": 39.83,
+  "temperature": {
+    "high": 78.09,
+    "mid": 58.96,
+    "low": 39.83
+  },
   "dew_point": 41.38,
   "humidity": 0.63,
   "cloud_cover": 0.32,

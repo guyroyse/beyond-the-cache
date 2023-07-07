@@ -11,9 +11,11 @@
   "longitude": -85.8486,
   "location": "-85.8486,39.365",
   "location_details": "Smithland road in southern Shelby county. It was at a ninty degree turn in the road where I think it changed from East to North direction.",
-  "temperature_high": 31.48,
-  "temperature_mid": 19.14,
-  "temperature_low": 6.8,
+  "temperature": {
+    "high": 31.48,
+    "mid": 19.14,
+    "low": 6.8
+  },
   "dew_point": 0.83,
   "humidity": 0.63,
   "cloud_cover": 0.1,

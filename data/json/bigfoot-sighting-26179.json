@@ -11,9 +11,11 @@
   "longitude": -113.7382,
   "location": "-113.7382,37.182",
   "location_details": "Near the Santa Clara River by the Shivwits Indian Reservation, on Highway 91, west of Ivins, Utah",
-  "temperature_high": 59.15,
-  "temperature_mid": 49.31,
-  "temperature_low": 39.47,
+  "temperature": {
+    "high": 59.15,
+    "mid": 49.31,
+    "low": 39.47
+  },
   "dew_point": 11.66,
   "humidity": 0.29,
   "cloud_cover": 0.13,

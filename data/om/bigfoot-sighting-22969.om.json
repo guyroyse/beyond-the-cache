@@ -1,0 +1,35 @@
+{
+  "reportId": "22969",
+  "title": "Camper Awakened by Loud Wood Knocks in Talladega National Forrest",
+  "date": "2008-01-19",
+  "timestamp": 1200700800,
+  "observed": "01192008 Suspicious knocking was heard about 3:00 am as my husband was camping with  Boy Scouts  on the side of a ridge SE of Henderson Peak about 200 yds from State Rd. 281.  (topozone.com map 33° 27.85'N, 85° 52.21'W - across road from red #13 about 200 yds. ) This is just south of the Cheaha State Park line.  It was about 14 degrees with intermittent howling wind.  There were 3 sets of 2 knocks each about 100 yards north of the campsite described as “a piece of firewood hitting another.”  It was very loud and the knocks, though themselves rhythmic, were spaced so that the wind died down before they occurred again.   These were not little limbs hitting each other and he was not able to determine if there were any responses because of the wind.   There were no campers north of them and the only other campers on the mountain that were encountered was another Boy Scout troop camping about 4 miles away directly on Lake Chinobee.  My husband is an avid bfro.net browser (and hopeful member of a future BFRO expedition :-) who awoke and immediately felt that this was consistent with other knocking activity.  Due to the inclement conditions and not wanting to scare the younger kids in camp, he did not have a chance to follow up.  Although he didn’t mention the sounds the next morning, another adult did, and with careful, roundabout questioning all other factors for the sounds were excluded (trees falling, wind, limbs hitting each other due to the wind, etc).  I am typing this since he was “not sure” of the cause of the sounds and was reluctant to report something that may not have been genuine (since he wasn’t able to go look for tracks).",
+  "classification": "Class B",
+  "county": "Clay",
+  "state": "Alabama",
+  "latitude": 33.46345,
+  "longitude": -85.87055,
+  "location": {
+    "longitude": -85.87055,
+    "latitude": 33.46345
+  },
+  "location_details": "(topozone.com map 33° 27.85'N, 85° 52.21'W - across road from red #13 about 200 yds. )  This is in the Talladega National Forest on the Pinhote Trail SE of McDill Point and NW of Odum Trail, on the SE side of Henderson Peak (as pointed out by the Troop Leader).",
+  "temperature": {
+    "high": 36.07,
+    "mid": 27.12,
+    "low": 18.17
+  },
+  "dew_point": 23.92,
+  "humidity": 0.65,
+  "cloud_cover": 0.72,
+  "moon_phase": 0.4,
+  "precip_intensity": 0.0052,
+  "precip_probability": 0.69,
+  "precip_type": "rain",
+  "pressure": 1022.82,
+  "summary": "Mostly cloudy until evening.",
+  "uv_index": 2,
+  "visibility": 8.91,
+  "wind_bearing": 350,
+  "wind_speed": 5.85
+}

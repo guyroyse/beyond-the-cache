@@ -11,9 +11,11 @@
   "longitude": -82.61581,
   "location": "-82.61581,29.32605",
   "location_details": "Black Prong trails Goethe State Forest",
-  "temperature_high": 73.94,
-  "temperature_mid": 60.725,
-  "temperature_low": 47.51,
+  "temperature": {
+    "high": 73.94,
+    "mid": 60.725,
+    "low": 47.51
+  },
   "dew_point": 49.66,
   "humidity": 0.77,
   "cloud_cover": 0.08,

@@ -1,0 +1,35 @@
+{
+  "reportId": "16696",
+  "title": "Dusk sighting and vocalizations around property near Cove",
+  "date": "2004-10-15",
+  "timestamp": 1097798400,
+  "observed": "I am a native of this area. I am an experienced woodsman and this is my first siting at the age of 38. It occured on county road 32 east of Cove AR. I came around corner it was standing on left side of road. It immediately turned its face away from me and was standing there. As I got behind it, it was between nine and ten foot tall and three foot wide at shoulders. Its fur was the same color as the dirt road it was on. I drove past it and was as close as 6 foot to it. It kept its face turned away from me the whole time. I drove away in disbelief and shock.",
+  "classification": "Class A",
+  "county": "Polk",
+  "state": "Arkansas",
+  "latitude": 34.369,
+  "longitude": -94.3745,
+  "location": {
+    "longitude": -94.3745,
+    "latitude": 34.369
+  },
+  "location_details": "4 miles east of cove",
+  "temperature": {
+    "high": 74.59,
+    "mid": 62.63,
+    "low": 50.67
+  },
+  "dew_point": 42.98,
+  "humidity": 0.67,
+  "cloud_cover": 0.11,
+  "moon_phase": 0.05,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.57,
+  "precip_type": "rain",
+  "pressure": 1008.09,
+  "summary": "Partly cloudy overnight.",
+  "uv_index": 5,
+  "visibility": 9.73,
+  "wind_bearing": 281,
+  "wind_speed": 2.81
+}

@@ -11,9 +11,11 @@
   "longitude": -94.70667,
   "location": "-94.70667,34.78833",
   "location_details": "West on Holson Valley Road, west of Cedar Lake.",
-  "temperature_high": 44.22,
-  "temperature_mid": 32.315,
-  "temperature_low": 20.41,
+  "temperature": {
+    "high": 44.22,
+    "mid": 32.315,
+    "low": 20.41
+  },
   "dew_point": 18.87,
   "humidity": 0.53,
   "cloud_cover": 0.01,

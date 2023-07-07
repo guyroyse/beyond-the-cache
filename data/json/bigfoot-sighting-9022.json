@@ -11,9 +11,11 @@
   "longitude": -81.2558,
   "location": "-81.2558,40.42687",
   "location_details": "In the Northwest Corner of Harrison County. The road is about 3 to 4 miles north from State Route 250 (in the corner of Harrison, Tuscarawas, and Carroll Counties).",
-  "temperature_high": 73.95,
-  "temperature_mid": 68.21,
-  "temperature_low": 62.47,
+  "temperature": {
+    "high": 73.95,
+    "mid": 68.21,
+    "low": 62.47
+  },
   "dew_point": 61.9,
   "humidity": 0.83,
   "cloud_cover": 0.6,

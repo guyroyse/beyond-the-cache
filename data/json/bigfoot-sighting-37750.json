@@ -11,9 +11,11 @@
   "longitude": -84.63702,
   "location": "-84.63702,38.73854",
   "location_details": "corn fields, soy beans, food plots for deer, hay, creeks and ponds, hard woods, thick cover",
-  "temperature_high": 51.63,
-  "temperature_mid": 41.255,
-  "temperature_low": 30.88,
+  "temperature": {
+    "high": 51.63,
+    "mid": 41.255,
+    "low": 30.88
+  },
   "dew_point": 30.41,
   "humidity": 0.73,
   "cloud_cover": 0.06,

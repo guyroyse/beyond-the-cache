@@ -11,9 +11,11 @@
   "longitude": -82.5183,
   "location": "-82.5183,37.47975",
   "location_details": "over looking the town of pikeville",
-  "temperature_high": 67.51,
-  "temperature_mid": 52.58,
-  "temperature_low": 37.65,
+  "temperature": {
+    "high": 67.51,
+    "mid": 52.58,
+    "low": 37.65
+  },
   "dew_point": 30.4,
   "humidity": 0.42,
   "cloud_cover": 0.03,

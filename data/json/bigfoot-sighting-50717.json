@@ -11,9 +11,11 @@
   "longitude": -91.42575,
   "location": "-91.42575,37.99225",
   "location_details": "Conservation area",
-  "temperature_high": 87.44,
-  "temperature_mid": 77.01,
-  "temperature_low": 66.58,
+  "temperature": {
+    "high": 87.44,
+    "mid": 77.01,
+    "low": 66.58
+  },
   "dew_point": 66.93,
   "humidity": 0.73,
   "cloud_cover": 0.15,

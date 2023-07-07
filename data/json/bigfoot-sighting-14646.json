@@ -11,9 +11,11 @@
   "longitude": -83.0337,
   "location": "-83.0337,40.08159",
   "location_details": "east of rt 315 is Antrim park i was on west side of bank near parking. It came up and swam east towards the river",
-  "temperature_high": 69.16,
-  "temperature_mid": 56.1,
-  "temperature_low": 43.04,
+  "temperature": {
+    "high": 69.16,
+    "mid": 56.1,
+    "low": 43.04
+  },
   "dew_point": 50.68,
   "humidity": 0.66,
   "cloud_cover": 0.46,

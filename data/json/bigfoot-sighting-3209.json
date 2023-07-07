@@ -11,9 +11,11 @@
   "longitude": -123.3601,
   "location": "-123.3601,45.76569",
   "location_details": "Rt 22 west to Wolf Creek Rd.  3.5 miles up the road in the clearing on the right hand side.",
-  "temperature_high": 68.39,
-  "temperature_mid": 56.99,
-  "temperature_low": 45.59,
+  "temperature": {
+    "high": 68.39,
+    "mid": 56.99,
+    "low": 45.59
+  },
   "dew_point": 50.98,
   "humidity": 0.83,
   "cloud_cover": 0.68,

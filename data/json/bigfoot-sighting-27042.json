@@ -11,9 +11,11 @@
   "longitude": -89.80123,
   "location": "-89.80123,38.90123",
   "location_details": "A few miles south of the intersection of Interstate 55 and Illinois Route 4. Heavily forested area.",
-  "temperature_high": 43.61,
-  "temperature_mid": 37.75,
-  "temperature_low": 31.89,
+  "temperature": {
+    "high": 43.61,
+    "mid": 37.75,
+    "low": 31.89
+  },
   "dew_point": 27.95,
   "humidity": 0.72,
   "cloud_cover": 0.82,

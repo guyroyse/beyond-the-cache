@@ -11,9 +11,11 @@
   "longitude": -87.6779,
   "location": "-87.6779,45.15",
   "location_details": "The traffic was sparse I was driving southwest. It ran upright on 2 legs, it made it across the road in about 4 steps was moving right side to the left side of the road",
-  "temperature_high": 71.63,
-  "temperature_mid": 64.87,
-  "temperature_low": 58.11,
+  "temperature": {
+    "high": 71.63,
+    "mid": 64.87,
+    "low": 58.11
+  },
   "dew_point": 43.16,
   "humidity": 0.53,
   "cloud_cover": 0.23,

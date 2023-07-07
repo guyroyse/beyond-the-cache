@@ -11,9 +11,11 @@
   "longitude": -81.34159,
   "location": "-81.34159,32.13781",
   "location_details": "On the only railroad track from Bloomingdale -Meldrim   This occurred between the two",
-  "temperature_high": 78.64,
-  "temperature_mid": 68.31,
-  "temperature_low": 57.98,
+  "temperature": {
+    "high": 78.64,
+    "mid": 68.31,
+    "low": 57.98
+  },
   "dew_point": 57.15,
   "humidity": 0.73,
   "cloud_cover": 0.09,

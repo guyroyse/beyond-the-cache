@@ -11,9 +11,11 @@
   "longitude": -122.028,
   "location": "-122.028,46.3105",
   "location_details": "The first encounter took place at the Cascade Mtn. viewpoint on windy ridge road there is a large parking lot with a modular building that is a seasonal resturant that over looks Bear Meadow.  We parked a gate on forest service road 2560 looking to the east. ------------------------------------------ The location of the print  that I casted was about 1/2 mile down the road at the Miners Car (parking lot) near a stream from Meta Lake along the streambed of Clearwater Creek.   I walked across the road and into the blast zone along the creek. I found the track along a game trail near a broken pine tree. I was off any type of established human trail in the restricted blast area.",
-  "temperature_high": 68.35,
-  "temperature_mid": 53.38,
-  "temperature_low": 38.41,
+  "temperature": {
+    "high": 68.35,
+    "mid": 53.38,
+    "low": 38.41
+  },
   "dew_point": 40.31,
   "humidity": 0.7,
   "cloud_cover": 0.09,

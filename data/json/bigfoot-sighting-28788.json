@@ -11,9 +11,11 @@
   "longitude": -122.2214,
   "location": "-122.2214,47.17295",
   "location_details": "Back and NW of the Sumner Sportsmans club. Near the swamp.",
-  "temperature_high": 63.33,
-  "temperature_mid": 56.935,
-  "temperature_low": 50.54,
+  "temperature": {
+    "high": 63.33,
+    "mid": 56.935,
+    "low": 50.54
+  },
   "dew_point": 51.06,
   "humidity": 0.84,
   "cloud_cover": 0.54,

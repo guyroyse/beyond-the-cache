@@ -11,9 +11,11 @@
   "longitude": -88.99181,
   "location": "-88.99181,38.1038",
   "location_details": "From Sesser, Illinois take Illinois Rt 154 east 3 1/4 miles. Turn left and drive 1/2 mile to Jackie Branch boat ramp.",
-  "temperature_high": 78.49,
-  "temperature_mid": 65.185,
-  "temperature_low": 51.88,
+  "temperature": {
+    "high": 78.49,
+    "mid": 65.185,
+    "low": 51.88
+  },
   "dew_point": 52.63,
   "humidity": 0.62,
   "cloud_cover": 0.17,

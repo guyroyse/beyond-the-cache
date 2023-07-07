@@ -11,9 +11,11 @@
   "longitude": -93.76,
   "location": "-93.76,36.34389",
   "location_details": "Off Hwy 23 about 8 to 10 miles.  (More specific address removed at witness' request.)",
-  "temperature_high": 83.51,
-  "temperature_mid": 71.645,
-  "temperature_low": 59.78,
+  "temperature": {
+    "high": 83.51,
+    "mid": 71.645,
+    "low": 59.78
+  },
   "dew_point": 60.66,
   "humidity": 0.71,
   "cloud_cover": 0.36,

@@ -11,9 +11,11 @@
   "longitude": -123.4822,
   "location": "-123.4822,47.0033",
   "location_details": "East Satsop Road, near Stevens Road, about 4 miles from old Highway 12, about a quarter mile W. of the town of Satsop, Washington (Grays Harbor County). Satsop is about 25 miles W of Olympia, WA, on the way to the coast.",
-  "temperature_high": 75.67,
-  "temperature_mid": 63.2,
-  "temperature_low": 50.73,
+  "temperature": {
+    "high": 75.67,
+    "mid": 63.2,
+    "low": 50.73
+  },
   "dew_point": 47.43,
   "humidity": 0.6,
   "cloud_cover": 0.01,

@@ -11,9 +11,11 @@
   "longitude": -90.18651,
   "location": "-90.18651,39.6548",
   "location_details": "Go south of I-72 1 1/2 miles on Illinois 267. Then east on Lake Jacksonville Rd.",
-  "temperature_high": 57.9,
-  "temperature_mid": 45.955,
-  "temperature_low": 34.01,
+  "temperature": {
+    "high": 57.9,
+    "mid": 45.955,
+    "low": 34.01
+  },
   "dew_point": 29.07,
   "humidity": 0.58,
   "cloud_cover": 0.08,

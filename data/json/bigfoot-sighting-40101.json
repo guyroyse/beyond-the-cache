@@ -11,9 +11,11 @@
   "longitude": -92.3575,
   "location": "-92.3575,34.86535",
   "location_details": "I-40 between Little Rock and Conway around marker 144 heading west.",
-  "temperature_high": 62.41,
-  "temperature_mid": 59.615,
-  "temperature_low": 56.82,
+  "temperature": {
+    "high": 62.41,
+    "mid": 59.615,
+    "low": 56.82
+  },
   "dew_point": 54.92,
   "humidity": 0.87,
   "cloud_cover": 0.93,

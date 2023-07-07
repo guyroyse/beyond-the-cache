@@ -11,9 +11,11 @@
   "longitude": -123.4573,
   "location": "-123.4573,46.03193",
   "location_details": "West on 26 out of Portland, north on 101, 3 miles, west side of highway.",
-  "temperature_high": 65.8,
-  "temperature_mid": 60.875,
-  "temperature_low": 55.95,
+  "temperature": {
+    "high": 65.8,
+    "mid": 60.875,
+    "low": 55.95
+  },
   "dew_point": 53.74,
   "humidity": 0.76,
   "cloud_cover": 0.93,

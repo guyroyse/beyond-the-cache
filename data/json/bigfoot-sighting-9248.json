@@ -11,9 +11,11 @@
   "longitude": -122.1814,
   "location": "-122.1814,43.3622",
   "location_details": "The first sounding was in the Warm Spring Creek area off NFD 600. The next day we were just off road 700 / Kelsay Mountain. The area is above the Umpqua River and about 10 miles north of Diamond Lake.",
-  "temperature_high": 82.56,
-  "temperature_mid": 68.65,
-  "temperature_low": 54.74,
+  "temperature": {
+    "high": 82.56,
+    "mid": 68.65,
+    "low": 54.74
+  },
   "dew_point": 50.95,
   "humidity": 0.61,
   "cloud_cover": 0.04,

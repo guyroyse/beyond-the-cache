@@ -11,8 +11,10 @@
   "longitude": -85.49639,
   "location": "-85.49639,46.52889",
   "location_details": "To the best of my knowledge, the incident occured in sec. 24 (on the north side of the Tahquamenon River) T46N  R9W Mcmillan Twsp. Luce Co. Mi.",
-  "temperature_high": 21,
-  "temperature_low": 0,
+  "temperature": {
+    "high": 21,
+    "low": 0
+  },
   "dew_point": 7.69,
   "humidity": 0.8,
   "cloud_cover": 0.96,

@@ -1,0 +1,35 @@
+{
+  "reportId": "23762",
+  "title": "Sasquatch meets car running along US Hwy. 219",
+  "date": "2007-07-27",
+  "timestamp": 1185494400,
+  "observed": "My finance and I live in Greenbrier County in the town of Renick. We had to go to Charleston early that morning around 1:30am for a medical appointment. We pulled out of our driveway and started heading South. About 50 feet down the road, all of a sudden we see this tall, hairy, lanky, glowing eyes of a creature running North on our side of the road. It came right down the passenger side of the car. I didn't say a word, I looked at my fiance and he looked at me and said \"What did you just see?\" I said \"Oh my God, I just saw bigfoot.\" and he got so excited and was saying \"I saw it too,\" \"I saw bigfoot!\" This thing must have stood 7 to 8 feet tall. It was running and it's arms were long and lanky, swinging back and forth as it ran. We pulled in a near by parking lot and turned around but did not see it again. After we returned from Charleston one of my neighbors walked along the fence line with me. We saw where it crushed the grass while running. Where it crossed the fence, I found some strands of hair caught in the wire.",
+  "classification": "Class A",
+  "county": "Greenbrier",
+  "state": "West Virginia",
+  "latitude": 37.9937,
+  "longitude": -80.3616,
+  "location": {
+    "longitude": -80.3616,
+    "latitude": 37.9937
+  },
+  "location_details": "North from  Lewisburg, WV Interstate-64 exit, take 219 north about 17 miles. Near the town of Renick, WV",
+  "temperature": {
+    "high": 77.81,
+    "mid": 70.97,
+    "low": 64.13
+  },
+  "dew_point": 64.27,
+  "humidity": 0.82,
+  "cloud_cover": 0.41,
+  "moon_phase": 0.42,
+  "precip_intensity": 0.0133,
+  "precip_probability": 0.42,
+  "precip_type": "rain",
+  "pressure": 1015.09,
+  "summary": "Rain in the morning and afternoon.",
+  "uv_index": 9,
+  "visibility": 7.37,
+  "wind_bearing": 246,
+  "wind_speed": 3.76
+}

@@ -1,0 +1,35 @@
+{
+  "reportId": "8446",
+  "title": "Three motorists have early morning road sighting near Hardin/Allen county line",
+  "date": "2004-03-25",
+  "timestamp": 1080172800,
+  "observed": "Me and my wife picked my mother up from work in Lima, OH at 2 AM. We were traveling down 117S/E and turned left on Philips rd. We were on our way home and drove across the second bridge when a dark shape on the south side of the road caught my attention, and apparently my wife and mother also. I had not said anything until they said they saw something, my suspicions were now confirmed. I stopped the car and backed up. Whatever it was appeared to have been laying in the ditch that goes under the bridge and when I backed the car up it appeared to get up and lean over as if shielding itself and seemed as if it realized we could see it. The creature stood up and rushed at our car. It seemed that it covered about 30 feet effortlessly, it was very fast I think we were all shocked. I floored the car without thinking. I asked them if it was still behind us. They said it had come out into the road behind us. I got the feeling that it had wanted to scare us off. I questioned my wife and mother about what they had seen. We all saw the same thing. I just seen the immense size of it and it looked like it had very coarse looking hair. My mother and wife said it had a very large belly and was of a very thick build. My wife said it had a round head and no neck.",
+  "classification": "Class A",
+  "county": "Hardin",
+  "state": "Ohio",
+  "latitude": 40.6559,
+  "longitude": -83.9374,
+  "location": {
+    "longitude": -83.9374,
+    "latitude": 40.6559
+  },
+  "location_details": "Hardin/ Allen County line, near Rt.117/235",
+  "temperature": {
+    "high": 65.99,
+    "mid": 61.955,
+    "low": 57.92
+  },
+  "dew_point": 46.69,
+  "humidity": 0.65,
+  "cloud_cover": 0.86,
+  "moon_phase": 0.15,
+  "precip_intensity": 0.0047,
+  "precip_probability": 0.91,
+  "precip_type": "rain",
+  "pressure": 1026.34,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 4,
+  "visibility": 9.35,
+  "wind_bearing": 205,
+  "wind_speed": 10.18
+}

@@ -11,9 +11,11 @@
   "longitude": -123.6581,
   "location": "-123.6581,41.23528",
   "location_details": "Aikens Creek campground, immediately West of Bluff Creek on HWY 96",
-  "temperature_high": 51.96,
-  "temperature_mid": 48.51,
-  "temperature_low": 45.06,
+  "temperature": {
+    "high": 51.96,
+    "mid": 48.51,
+    "low": 45.06
+  },
   "dew_point": 45.31,
   "humidity": 0.91,
   "cloud_cover": 0.95,

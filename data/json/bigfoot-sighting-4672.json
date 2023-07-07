@@ -11,9 +11,11 @@
   "longitude": -84.80138,
   "location": "-84.80138,39.37215",
   "location_details": "It was locate about 20 minutes east of Brookville lake and about 2 minutes east of Govner Bev park.",
-  "temperature_high": 76.03,
-  "temperature_mid": 69.09,
-  "temperature_low": 62.15,
+  "temperature": {
+    "high": 76.03,
+    "mid": 69.09,
+    "low": 62.15
+  },
   "dew_point": 66.1,
   "humidity": 0.9,
   "cloud_cover": 0.69,

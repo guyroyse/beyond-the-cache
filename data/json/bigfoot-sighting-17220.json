@@ -11,9 +11,11 @@
   "longitude": -122.2612,
   "location": "-122.2612,48.1864",
   "location_details": "Happy Valley Road-south of the river-",
-  "temperature_high": 64.87,
-  "temperature_mid": 57.535,
-  "temperature_low": 50.2,
+  "temperature": {
+    "high": 64.87,
+    "mid": 57.535,
+    "low": 50.2
+  },
   "dew_point": 46.98,
   "humidity": 0.73,
   "cloud_cover": 0.62,

@@ -1,0 +1,35 @@
+{
+  "reportId": "26137",
+  "title": "Family hears whooping sounds while hiking Marys Peak",
+  "date": "2009-06-13",
+  "timestamp": 1244851200,
+  "observed": "My wife and I love to take our three young children on small treks (we usually hike 3-5 miles). We live very close to Silver Falls, but wanted to venture out a bit more. We read about Mary's Peak, just outside of Philomath and thought we'd give it a try. The following is what my wife wrote in her blog last night. Here is the link, where you can find some pictures of the area we hiked http://tleraadventures.blogspot.com/ Here's what she wrote: We were disappointed to find it incredibly foggy, since it is the highest point on the coastal range, and we had our hearts set on a spectacular view. As it turned out, the fog made the dense forest section of our hike even more interesting and gorgeous. All of the plants and trees were damp and dripping from the condensation, and the clouds were swirling around us at times- absolutely breathtaking! It was very secluded, and simply serene. About half way through our hike, we heard a UAS (Unidentified Animal Sound). The best way I can describe it is to say that it was a short, deep, guttural whooping sound. Whatever it was, was clearly rather too close for our liking. We weren't really frightened, but we were unnerved enough to take safety precautions. I stopped taking pictures, and Travis & I insisted that the kids walk between us in a tight group for the remainder of the hike. The sound came and went, and at one point it became clear that there were at least two of whatever-they-were, because we realized that not all of the sounds were coming from the same direction. They were alternating, as if they were communicating. It all continued for about 40 minutes, sometimes louder and closer, other times quieter, and obviously farther away as we continued to climb the trail. Eventually, the sounds ceased altogether, and we relaxed when we finally made it out of the forest section and back into the open.",
+  "classification": "Class B",
+  "county": "Benton",
+  "state": "Oregon",
+  "latitude": 44.50455,
+  "longitude": -123.5524,
+  "location": {
+    "longitude": -123.5524,
+    "latitude": 44.50455
+  },
+  "location_details": "Mary's Peak. We parked in the large parking area and walked the inner trails through the forest.",
+  "temperature": {
+    "high": 65.27,
+    "mid": 59.81,
+    "low": 54.35
+  },
+  "dew_point": 53.95,
+  "humidity": 0.84,
+  "cloud_cover": 0.85,
+  "moon_phase": 0.68,
+  "precip_intensity": 0.0163,
+  "precip_probability": 0.65,
+  "precip_type": "rain",
+  "pressure": 1013.71,
+  "summary": "Heavy rain in the morning.",
+  "uv_index": 6,
+  "visibility": 9.18,
+  "wind_bearing": 317,
+  "wind_speed": 5.88
+}

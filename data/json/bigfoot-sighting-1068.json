@@ -11,9 +11,11 @@
   "longitude": -118.9975,
   "location": "-118.9975,37.35861",
   "location_details": "above Huntington Lake, in the sierras, Mono Creek Campground.",
-  "temperature_high": 73.71,
-  "temperature_mid": 59.205,
-  "temperature_low": 44.7,
+  "temperature": {
+    "high": 73.71,
+    "mid": 59.205,
+    "low": 44.7
+  },
   "dew_point": 41.58,
   "humidity": 0.54,
   "cloud_cover": 0.42,

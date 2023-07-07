@@ -11,9 +11,11 @@
   "longitude": -81.26217,
   "location": "-81.26217,40.54605",
   "location_details": "If you came in the main entrance of the Atwood Campgrounds past the general camping, and what was the nature center in 1970s, you'd keep going till the road dead ends into cabins. There is a trail before that to the left and up a hill.",
-  "temperature_high": 71.8,
-  "temperature_mid": 61.285,
-  "temperature_low": 50.77,
+  "temperature": {
+    "high": 71.8,
+    "mid": 61.285,
+    "low": 50.77
+  },
   "dew_point": 53.27,
   "humidity": 0.68,
   "cloud_cover": 0.45,

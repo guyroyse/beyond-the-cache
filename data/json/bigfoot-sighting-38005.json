@@ -11,9 +11,11 @@
   "longitude": -90.2787,
   "location": "-90.2787,43.13145",
   "location_details": "Hwy 133 toward Avoca, County N, Fairview Rd",
-  "temperature_high": 44.86,
-  "temperature_mid": 36.755,
-  "temperature_low": 28.65,
+  "temperature": {
+    "high": 44.86,
+    "mid": 36.755,
+    "low": 28.65
+  },
   "dew_point": 26.94,
   "humidity": 0.73,
   "cloud_cover": 0.27,

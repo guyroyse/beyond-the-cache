@@ -11,9 +11,11 @@
   "longitude": -85.10207,
   "location": "-85.10207,33.81871",
   "location_details": "1 1/2 mile up Vincent Mountain Rd after turning off hwy 120...left side of road across from a church...",
-  "temperature_high": 53.86,
-  "temperature_mid": 49.425,
-  "temperature_low": 44.99,
+  "temperature": {
+    "high": 53.86,
+    "mid": 49.425,
+    "low": 44.99
+  },
   "dew_point": 36.37,
   "humidity": 0.72,
   "cloud_cover": 0.14,

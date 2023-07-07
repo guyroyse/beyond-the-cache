@@ -1,0 +1,35 @@
+{
+  "reportId": "731",
+  "title": "Motorist found six thirteen by eight and a half inch tracks near a small bridge that led to a large gate.",
+  "date": "1999-03-13",
+  "timestamp": 921283200,
+  "observed": "The witness was driving to Cocoa around 11 am. He pulled over to relieve himself and found the tracks. The tracks were backed up to a large gate approx. 4.5 feet tall. It appeared to look as if the creature walked across Nova Rd. from west to east, stepped over the gate and continued east into a wooded tree line. There were 6 tracks in all covering about 30 feet of ground. After that the ground slooped down into a gully with weeds and water, then back up into the trees. The witness took 2 photos of the tracks. The tracks measured approx. 13 inches long by 8 1/2 inches wide.",
+  "classification": "Class A",
+  "county": "Osceola",
+  "state": "Florida",
+  "latitude": 28.3609,
+  "longitude": -80.93504,
+  "location": {
+    "longitude": -80.93504,
+    "latitude": 28.3609
+  },
+  "location_details": "The prints were found on the east side of Nova Rd. just south of a small bridge, 1 1/2 miles south of SR 520.",
+  "temperature": {
+    "high": 76.19,
+    "mid": 71.62,
+    "low": 67.05
+  },
+  "dew_point": 58.46,
+  "humidity": 0.73,
+  "cloud_cover": 0.48,
+  "moon_phase": 0.86,
+  "precip_intensity": 0.0058,
+  "precip_probability": 0.69,
+  "precip_type": "rain",
+  "pressure": 1015.62,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 5,
+  "visibility": 8.73,
+  "wind_bearing": 118,
+  "wind_speed": 8.34
+}

@@ -11,9 +11,11 @@
   "longitude": -117.991,
   "location": "-117.991,45.84175",
   "location_details": "north side of usfs rd 64 (skyline)about opposite jubilee lake at about 1 or two PM. I was down the skookum spring side of dusty ridge about 1/4 to 1/2 mile from dusty spring, (approx 50 76 45 n 117 59 30w)",
-  "temperature_high": 57.34,
-  "temperature_mid": 43.585,
-  "temperature_low": 29.83,
+  "temperature": {
+    "high": 57.34,
+    "mid": 43.585,
+    "low": 29.83
+  },
   "dew_point": 36.19,
   "humidity": 0.76,
   "cloud_cover": 0.43,

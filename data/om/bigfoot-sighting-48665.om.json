@@ -1,0 +1,35 @@
+{
+  "reportId": "48665",
+  "title": "Woman has clear daytime view of a large Biped",
+  "date": "2015-05-11",
+  "timestamp": 1431302400,
+  "observed": "100% bigfoot Melville LA approx 1:15 pm rainy day bigfoot walked out of the tree line took 5 steps to the right and back in to tree line about 100 yards away from our house.",
+  "classification": "Class A",
+  "county": "St. Landry Parish",
+  "state": "Louisiana",
+  "latitude": 30.74715,
+  "longitude": -91.76733,
+  "location": {
+    "longitude": -91.76733,
+    "latitude": 30.74715
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 77.86,
+    "mid": 73.6,
+    "low": 69.34
+  },
+  "dew_point": 69.68,
+  "humidity": 0.88,
+  "cloud_cover": 0.21,
+  "moon_phase": 0.76,
+  "precip_intensity": 0.0108,
+  "precip_probability": 0.71,
+  "precip_type": "rain",
+  "pressure": 1017.49,
+  "summary": "Rain in the afternoon.",
+  "uv_index": 10,
+  "visibility": 9.02,
+  "wind_bearing": 127,
+  "wind_speed": 2.74
+}

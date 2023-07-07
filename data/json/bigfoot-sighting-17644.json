@@ -11,9 +11,11 @@
   "longitude": -82.3722,
   "location": "-82.3722,29.1039",
   "location_details": "Take SR 19 to 336 then 336 to 337 off of 337 in the woods. Or take 41 to 40 then 40 to 336 and 336 to 337. About 90 from st. pete and 12 miles from crystal river.",
-  "temperature_high": 85.26,
-  "temperature_mid": 80.735,
-  "temperature_low": 76.21,
+  "temperature": {
+    "high": 85.26,
+    "mid": 80.735,
+    "low": 76.21
+  },
   "dew_point": 75.83,
   "humidity": 0.86,
   "cloud_cover": 0.14,

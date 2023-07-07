@@ -11,9 +11,11 @@
   "longitude": -83.86097,
   "location": "-83.86097,42.36639",
   "location_details": "There are a lot of woods and farm fields around.  The closest house was probably one-third of a mile away.",
-  "temperature_high": 77.14,
-  "temperature_mid": 66.52,
-  "temperature_low": 55.9,
+  "temperature": {
+    "high": 77.14,
+    "mid": 66.52,
+    "low": 55.9
+  },
   "dew_point": 57.82,
   "humidity": 0.78,
   "cloud_cover": 0.14,

@@ -11,9 +11,11 @@
   "longitude": -80.55011,
   "location": "-80.55011,27.78042",
   "location_details": "I was traveling north on I 95",
-  "temperature_high": 75.29,
-  "temperature_mid": 63.975,
-  "temperature_low": 52.66,
+  "temperature": {
+    "high": 75.29,
+    "mid": 63.975,
+    "low": 52.66
+  },
   "dew_point": 55.53,
   "humidity": 0.75,
   "cloud_cover": 0.07,

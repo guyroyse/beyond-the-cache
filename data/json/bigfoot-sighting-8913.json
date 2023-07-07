@@ -11,9 +11,11 @@
   "longitude": -91.27056,
   "location": "-91.27056,33.7985",
   "location_details": "Take Hwy 1 from Dumas, AR towards Watson, AR.",
-  "temperature_high": 89.03,
-  "temperature_mid": 77.12,
-  "temperature_low": 65.21,
+  "temperature": {
+    "high": 89.03,
+    "mid": 77.12,
+    "low": 65.21
+  },
   "dew_point": 60.63,
   "humidity": 0.61,
   "cloud_cover": 0.04,

@@ -1,0 +1,35 @@
+{
+  "reportId": "10919",
+  "title": "Youth has sighting from his backyard on Air Force Base",
+  "date": "1975-09-15",
+  "timestamp": 179971200,
+  "observed": "I've had two possible bigfoot encounters. The first occured in 1975 when I seven.  My family lived at Little Rock AFB. At the time there were woods behind our house and a small lake as well.  After school one day I was playing in my backyard. I looked up toward the woods and saw something squatting down next to a tree looking at me.  It was covered in black hair except on its face and had as I remember a  flattened nose and pointed head. I was stunned.  I turned and ran into my house where I told my mom that I had just seen a gorilla.  I knew that it wasn't a gorilla but that was the only thing I could think of to describe it.  My mom thought I was playing around and didn't really believe me.  When I looked back there again it was gone.",
+  "classification": "Class A",
+  "county": "Pulaski",
+  "state": "Arkansas",
+  "latitude": 34.87,
+  "longitude": -92.12,
+  "location": {
+    "longitude": -92.12,
+    "latitude": 34.87
+  },
+  "location_details": "The incident was in Pulaski County.  Even though it happened at a military installation there were plenty of woods behind our house.",
+  "temperature": {
+    "high": 63.91,
+    "mid": 62.245,
+    "low": 60.58
+  },
+  "dew_point": 57.23,
+  "humidity": 0.88,
+  "cloud_cover": 0.95,
+  "moon_phase": 0.35,
+  "precip_intensity": 0.0246,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1021.97,
+  "summary": "Rain starting in the afternoon, continuing until evening.",
+  "uv_index": 4,
+  "visibility": 5.84,
+  "wind_bearing": 21,
+  "wind_speed": 3.46
+}

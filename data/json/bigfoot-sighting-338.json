@@ -11,9 +11,11 @@
   "longitude": -90.18444,
   "location": "-90.18444,35.14639",
   "location_details": "8th street landing behind the police shooting range. a boottom land behind the levee",
-  "temperature_high": 75.04,
-  "temperature_mid": 64.71,
-  "temperature_low": 54.38,
+  "temperature": {
+    "high": 75.04,
+    "mid": 64.71,
+    "low": 54.38
+  },
   "dew_point": 43.5,
   "humidity": 0.58,
   "cloud_cover": 0,

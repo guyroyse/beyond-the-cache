@@ -11,9 +11,11 @@
   "longitude": -117.9667,
   "location": "-117.9667,35.7",
   "location_details": "The Sound originated at higher elevation than ours. to the south of us. Distant was unavailble to us",
-  "temperature_high": 48.78,
-  "temperature_mid": 40.77,
-  "temperature_low": 32.76,
+  "temperature": {
+    "high": 48.78,
+    "mid": 40.77,
+    "low": 32.76
+  },
   "dew_point": 35.47,
   "humidity": 0.81,
   "cloud_cover": 0.5,

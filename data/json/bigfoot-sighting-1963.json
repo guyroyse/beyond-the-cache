@@ -11,9 +11,11 @@
   "longitude": -119.7489,
   "location": "-119.7489,38.31722",
   "location_details": "This occurred in the Emigrant Wilderness, just outside of Kennedy Meadow.  Take the trail to Relief Reservoir.  This happened near the first major bridge that crosses the Kennedy Soda Can Creek, at a flat that is good for camping.",
-  "temperature_high": 89.14,
-  "temperature_mid": 72.76,
-  "temperature_low": 56.38,
+  "temperature": {
+    "high": 89.14,
+    "mid": 72.76,
+    "low": 56.38
+  },
   "dew_point": 55.46,
   "humidity": 0.53,
   "cloud_cover": 0.19,

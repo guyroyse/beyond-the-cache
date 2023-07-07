@@ -11,9 +11,11 @@
   "longitude": -121.7812,
   "location": "-121.7812,47.4352",
   "location_details": "First incident was in the Weyerhauser Tree Farm outside of Snoqualmie just off the county road that runs thru it. Second incident was outside of the Chester Morse Watershed by Rattle Snake Lake and the John Wayne Trail.",
-  "temperature_high": 66.82,
-  "temperature_mid": 57.075,
-  "temperature_low": 47.33,
+  "temperature": {
+    "high": 66.82,
+    "mid": 57.075,
+    "low": 47.33
+  },
   "dew_point": 49.07,
   "humidity": 0.81,
   "cloud_cover": 0.46,

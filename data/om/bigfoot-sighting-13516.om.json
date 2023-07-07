@@ -1,0 +1,35 @@
+{
+  "reportId": "13516",
+  "title": "Footprint found in Beck Spur area.",
+  "date": "2001-08-18",
+  "timestamp": 998092800,
+  "observed": "I got up one morning in August and decided to walk next door to my mother's home.  When I walked through the bedroom door, I noticed that she had a gun lying next to her on the bed.  She immediately began telling me that something had been outside her window the previous night.  She stated that she felt someone watching her and she then heard movement outside her bedroom window.  She then described a smell to me.  She said that it smelled like a cross between a wet dog and a \"pole cat\" (skunk).  I wasn't exactly sure what to think so I walked outside and began to look around.  Right outside of my mother's bedroom window was the most exact footprint.  I was shape like a human footprint but with no arch, like someone flat footed.  I measured the print and took photos.  It was 17 inches long and approximately 7 1/2 inches wide at the ball of the foot.  It was very distinct.",
+  "classification": "Class B",
+  "county": "St. Francis",
+  "state": "Arkansas",
+  "latitude": 34.97181,
+  "longitude": -90.95902,
+  "location": {
+    "longitude": -90.95902,
+    "latitude": 34.97181
+  },
+  "location_details": "Beck Spur area between Forrest City and Palestine.",
+  "temperature": {
+    "high": 88.07,
+    "mid": 79.065,
+    "low": 70.06
+  },
+  "dew_point": 70.64,
+  "humidity": 0.77,
+  "cloud_cover": 0.39,
+  "moon_phase": 0.98,
+  "precip_intensity": 0.0017,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1014.63,
+  "summary": "Partly cloudy until evening.",
+  "uv_index": 7,
+  "visibility": 9.15,
+  "wind_bearing": 215,
+  "wind_speed": 6.35
+}

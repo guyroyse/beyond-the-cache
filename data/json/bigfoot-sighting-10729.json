@@ -11,9 +11,11 @@
   "longitude": -81.81317,
   "location": "-81.81317,41.12012",
   "location_details": "On River Styx Rd. between Route 18 and Route 162, just north of the railroad bridge.",
-  "temperature_high": 69.69,
-  "temperature_mid": 65.835,
-  "temperature_low": 61.98,
+  "temperature": {
+    "high": 69.69,
+    "mid": 65.835,
+    "low": 61.98
+  },
   "dew_point": 48.22,
   "humidity": 0.7,
   "cloud_cover": 0.42,

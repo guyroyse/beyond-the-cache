@@ -11,9 +11,11 @@
   "longitude": -84.6,
   "location": "-84.6,44.17335",
   "location_details": "My family would camp at the intersection one quarter section East of 18 and one quarter section North of Pond Rd.  The sighting occurred on a dirt road, one quarter section North of our camp.",
-  "temperature_high": 73.71,
-  "temperature_mid": 62.495,
-  "temperature_low": 51.28,
+  "temperature": {
+    "high": 73.71,
+    "mid": 62.495,
+    "low": 51.28
+  },
   "dew_point": 52.41,
   "humidity": 0.65,
   "cloud_cover": 0.32,

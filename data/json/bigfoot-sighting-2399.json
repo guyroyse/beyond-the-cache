@@ -11,9 +11,11 @@
   "longitude": -94.3,
   "location": "-94.3,32.68",
   "location_details": "Leaving Marshall Texas on hwy 59, you come to a community called Woodlawn. Turning East off of hwy 59 just pass the railroad tracks. Travel small blacktop road for short distance, come to a metal gate to the right. This is private property.",
-  "temperature_high": 83.22,
-  "temperature_mid": 69.02,
-  "temperature_low": 54.82,
+  "temperature": {
+    "high": 83.22,
+    "mid": 69.02,
+    "low": 54.82
+  },
   "dew_point": 53.23,
   "humidity": 0.61,
   "cloud_cover": 0,

@@ -11,9 +11,11 @@
   "longitude": -84.05056,
   "location": "-84.05056,35.40472",
   "location_details": "From 165 take a right to Indian Boundary campground take the first right before you get to the campground go about four miles on the gravel road,its the first pull off on the right follow the trail for about a mile or so my camp was on the left",
-  "temperature_high": 82.05,
-  "temperature_mid": 74.255,
-  "temperature_low": 66.46,
+  "temperature": {
+    "high": 82.05,
+    "mid": 74.255,
+    "low": 66.46
+  },
   "dew_point": 66.12,
   "humidity": 0.77,
   "cloud_cover": 0.53,

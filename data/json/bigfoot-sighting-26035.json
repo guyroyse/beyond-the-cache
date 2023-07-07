@@ -11,9 +11,11 @@
   "longitude": -118.5545,
   "location": "-118.5545,48.7844",
   "location_details": "republic north on 21 hwy. to malo turn east. to fork in road take north fork until you get to blue place road. go on blue place road until you go over cattleguard. you will be below the hill.",
-  "temperature_high": 51.83,
-  "temperature_mid": 41.555,
-  "temperature_low": 31.28,
+  "temperature": {
+    "high": 51.83,
+    "mid": 41.555,
+    "low": 31.28
+  },
   "dew_point": 34.76,
   "humidity": 0.76,
   "cloud_cover": 0.65,

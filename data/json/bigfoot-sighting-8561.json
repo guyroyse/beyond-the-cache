@@ -11,9 +11,11 @@
   "longitude": -82.20475,
   "location": "-82.20475,27.1788",
   "location_details": "As I said ,this area is swamp area of the park,are street Ruff st. is right next to the large cannal that borders myakka park,no one goes out on this end of the park except ur local pot growers,becase it is very isolated,still is today.",
-  "temperature_high": 87.44,
-  "temperature_mid": 83.92,
-  "temperature_low": 80.4,
+  "temperature": {
+    "high": 87.44,
+    "mid": 83.92,
+    "low": 80.4
+  },
   "dew_point": 75.52,
   "humidity": 0.79,
   "cloud_cover": 0.36,

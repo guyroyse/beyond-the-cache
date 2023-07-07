@@ -11,9 +11,11 @@
   "longitude": -81.20045,
   "location": "-81.20045,28.54205",
   "location_details": "Waterford Lakes, Orlando Fl 32828",
-  "temperature_high": 74.38,
-  "temperature_mid": 64.37,
-  "temperature_low": 54.36,
+  "temperature": {
+    "high": 74.38,
+    "mid": 64.37,
+    "low": 54.36
+  },
   "dew_point": 58,
   "humidity": 0.77,
   "cloud_cover": 0.45,

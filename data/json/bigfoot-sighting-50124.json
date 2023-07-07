@@ -11,9 +11,11 @@
   "longitude": -112.2873,
   "location": "-112.2873,44.41131",
   "location_details": "Camp location: 16.5 miles N by NW of Dubois Idaho as the crow flies.",
-  "temperature_high": 48.8,
-  "temperature_mid": 40.43,
-  "temperature_low": 32.06,
+  "temperature": {
+    "high": 48.8,
+    "mid": 40.43,
+    "low": 32.06
+  },
   "dew_point": 40.69,
   "humidity": 0.86,
   "cloud_cover": 0.29,

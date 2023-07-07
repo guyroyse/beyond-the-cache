@@ -11,9 +11,11 @@
   "longitude": -115.8405,
   "location": "-115.8405,45.16792",
   "location_details": "The location was Loon Lake, which is a 9 or 10 mile hike south from Ruby Meadows in the Payette National Forest.  Ruby Meadows is just off Warren Wagon Rd, NF-21.  I've been told there is a shorter, 3-4 mile hike to access Loon Lake from another starting location.  This lake is famous for being the crash site of a B-23 aircraft on January 29, 1943.",
-  "temperature_high": 87.23,
-  "temperature_mid": 71.035,
-  "temperature_low": 54.84,
+  "temperature": {
+    "high": 87.23,
+    "mid": 71.035,
+    "low": 54.84
+  },
   "dew_point": 47.7,
   "humidity": 0.47,
   "cloud_cover": 0.02,

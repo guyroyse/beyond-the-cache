@@ -11,9 +11,11 @@
   "longitude": -82.438,
   "location": "-82.438,28.043",
   "location_details": "Within sight of Florida Ave. and the Hillsborough River on the southwest side.",
-  "temperature_high": 76.63,
-  "temperature_mid": 68.745,
-  "temperature_low": 60.86,
+  "temperature": {
+    "high": 76.63,
+    "mid": 68.745,
+    "low": 60.86
+  },
   "dew_point": 63.17,
   "humidity": 0.85,
   "cloud_cover": 0.4,

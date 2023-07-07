@@ -1,0 +1,35 @@
+{
+  "reportId": "40548",
+  "title": "Motorist has a possible sighting on a rainy night near Schell City",
+  "date": "2012-09-21",
+  "timestamp": 1348185600,
+  "observed": "It was raining and I thought I was coming up on someone walking in the ditch wearing a hooded rain slicker. As I got closer I thought what an idiot, they are wearing a fur coat. I thought I was looking at the back of someone but when I got even with them I noticed that it was not the back of someone standing but the side of something bending down. Just as I got even with it, it stood up and lifted its arms up as if making a tee like a cheerleader would. That's when I noticed what I believe was a deer between its legs. It all happened very fast as I was going about 55mph and only slowed down briefly. I took my foot off the brake and continued home. My own wife laughed at me about it but I know what I saw can not be explained.",
+  "classification": "Class B",
+  "county": "Vernon",
+  "state": "Missouri",
+  "latitude": 37.91544,
+  "longitude": -94.32079,
+  "location": {
+    "longitude": -94.32079,
+    "latitude": 37.91544
+  },
+  "location_details": "About ten miles North east of Nevada, Missouri.",
+  "temperature": {
+    "high": 81.75,
+    "mid": 66.51,
+    "low": 51.27
+  },
+  "dew_point": 48.18,
+  "humidity": 0.52,
+  "cloud_cover": 0.08,
+  "moon_phase": 0.21,
+  "precip_intensity": 0.0057,
+  "precip_probability": 0.41,
+  "precip_type": "rain",
+  "pressure": 1011.96,
+  "summary": "Clear throughout the day.",
+  "uv_index": 6,
+  "visibility": 9.82,
+  "wind_bearing": 277,
+  "wind_speed": 3.51
+}

@@ -11,9 +11,11 @@
   "longitude": -80.8044,
   "location": "-80.8044,27.3973",
   "location_details": "The hominid ran across hwy 441, the location was maybe a 1/3 the distance between Ft. Drum and Okeechobee. I would rather not put the location on the site for fear the locals will go and try to hunt it. There have been reports of a panther and somet took to the woods with guns. Several years ago an escaped or released python was sited and some people wouldn't rest until the had killed it. That's the mentality around here.",
-  "temperature_high": 69.4,
-  "temperature_mid": 65.485,
-  "temperature_low": 61.57,
+  "temperature": {
+    "high": 69.4,
+    "mid": 65.485,
+    "low": 61.57
+  },
   "dew_point": 61.46,
   "humidity": 0.89,
   "cloud_cover": 0.54,

@@ -11,9 +11,11 @@
   "longitude": -121.675,
   "location": "-121.675,40.88",
   "location_details": "Head west on 299 turn south on Hudson St. My apartment was located nearby.",
-  "temperature_high": 82.18,
-  "temperature_mid": 68.51,
-  "temperature_low": 54.84,
+  "temperature": {
+    "high": 82.18,
+    "mid": 68.51,
+    "low": 54.84
+  },
   "dew_point": 48.57,
   "humidity": 0.54,
   "cloud_cover": 0.32,

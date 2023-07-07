@@ -11,9 +11,11 @@
   "longitude": -95.59745,
   "location": "-95.59745,31.1683",
   "location_details": "This area is near the Trinity River bottoms and National Forest.",
-  "temperature_high": 71.71,
-  "temperature_mid": 55.37,
-  "temperature_low": 39.03,
+  "temperature": {
+    "high": 71.71,
+    "mid": 55.37,
+    "low": 39.03
+  },
   "dew_point": 49.22,
   "humidity": 0.65,
   "cloud_cover": 0.3,

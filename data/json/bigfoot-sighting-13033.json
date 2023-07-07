@@ -11,9 +11,11 @@
   "longitude": -104.1665,
   "location": "-104.1665,44.4165",
   "location_details": "From Sundance Wyoming east on I-90 take Moskie Road county 207 to Grand Canyon Road  north to Williams Gulch Road.",
-  "temperature_high": 37.03,
-  "temperature_mid": 33.66,
-  "temperature_low": 30.29,
+  "temperature": {
+    "high": 37.03,
+    "mid": 33.66,
+    "low": 30.29
+  },
   "dew_point": 34.12,
   "humidity": 0.93,
   "cloud_cover": 0.99,

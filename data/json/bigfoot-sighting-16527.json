@@ -11,9 +11,11 @@
   "longitude": -111.7899,
   "location": "-111.7899,43.41005",
   "location_details": "Just above Kepps crossing on willowcreek.",
-  "temperature_high": 44.31,
-  "temperature_mid": 40.01,
-  "temperature_low": 35.71,
+  "temperature": {
+    "high": 44.31,
+    "mid": 40.01,
+    "low": 35.71
+  },
   "dew_point": 35.26,
   "humidity": 0.84,
   "cloud_cover": 0.78,

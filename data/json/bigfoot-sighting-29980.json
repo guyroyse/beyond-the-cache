@@ -11,9 +11,11 @@
   "longitude": -92.3046,
   "location": "-92.3046,36.8109",
   "location_details": "second road to the right on AC highway.On the far side of a dry creek above the road to the north about 300 yards.Theres a old log cabin on the side I was on.",
-  "temperature_high": 60.23,
-  "temperature_mid": 49.89,
-  "temperature_low": 39.55,
+  "temperature": {
+    "high": 60.23,
+    "mid": 49.89,
+    "low": 39.55
+  },
   "dew_point": 48.85,
   "humidity": 0.9,
   "cloud_cover": 0.84,

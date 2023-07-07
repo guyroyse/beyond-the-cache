@@ -11,9 +11,11 @@
   "longitude": -78.05424,
   "location": "-78.05424,39.51256",
   "location_details": "Heading east on Swinging Bridge Rd twds Dry Run Rd.. just past Cavern Rd",
-  "temperature_high": 55.45,
-  "temperature_mid": 45.315,
-  "temperature_low": 35.18,
+  "temperature": {
+    "high": 55.45,
+    "mid": 45.315,
+    "low": 35.18
+  },
   "dew_point": 36.9,
   "humidity": 0.65,
   "cloud_cover": 0.08,

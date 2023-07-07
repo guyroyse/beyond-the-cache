@@ -1,0 +1,35 @@
+{
+  "reportId": "48101",
+  "title": "Passenger has possible daylight sighting near New Preston",
+  "date": "2016-08-13",
+  "timestamp": 1471046400,
+  "observed": "Place: New Preston, CT.,  hillside Lake Waramog, Date: 2/16/15 Saw: Looking over lake from riding in a car on RT.45 the hillside saw a black tall figure just walking along so easily, the figure crossed a driveway from the forest to the other side and continued slouching along swinging arms heading towards powerlines approximately 800 yrds away.  It did not have a hat or any other clothing and snowshoes. The head just sat on the shoulder.  I thought it was a man but then realizing no man could walk on such a steep slope without poles, etc. It lasted a few minutes do to the car moving. The black figure stood out against the white snow and sunlight of day.",
+  "classification": "Class B",
+  "county": "Litchfield",
+  "state": "Connecticut",
+  "latitude": 41.68669,
+  "longitude": -73.35194,
+  "location": {
+    "longitude": -73.35194,
+    "latitude": 41.68669
+  },
+  "location_details": "location: Hillside above Lake Waramog looking from east to west angle New Preston/Washington line in CT.",
+  "temperature": {
+    "high": 92.3,
+    "mid": 83.215,
+    "low": 74.13
+  },
+  "dew_point": 73.86,
+  "humidity": 0.75,
+  "cloud_cover": 0.16,
+  "moon_phase": 0.34,
+  "precip_intensity": 0.0051,
+  "precip_probability": 0.42,
+  "precip_type": "rain",
+  "pressure": 1011.59,
+  "summary": "Rain starting in the evening.",
+  "uv_index": 7,
+  "visibility": 9.84,
+  "wind_bearing": 209,
+  "wind_speed": 5.49
+}

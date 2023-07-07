@@ -11,9 +11,11 @@
   "longitude": -94.045,
   "location": "-94.045,41.461",
   "location_details": "The sighting occurred on Hogback Bridge Rd. Coming south on 169 out of De Soto, you'd want to take a right on G14 and a left on Hogback Bridge. The sighting ocurred just after the T intersection about half a mile down the road.",
-  "temperature_high": 28.77,
-  "temperature_mid": 21.295,
-  "temperature_low": 13.82,
+  "temperature": {
+    "high": 28.77,
+    "mid": 21.295,
+    "low": 13.82
+  },
   "dew_point": 20.53,
   "humidity": 0.79,
   "cloud_cover": 0.91,

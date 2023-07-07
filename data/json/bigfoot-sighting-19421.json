@@ -11,9 +11,11 @@
   "longitude": -84.73846,
   "location": "-84.73846,34.1318",
   "location_details": "From Atlanta, go north on I-75 to Exit 285. The sighting occurred on Hwy 75, theres a bridge that crosses over the Hwy at the exit, maybe 1/2 mile before that bridge is where he had the sighting.",
-  "temperature_high": 83.97,
-  "temperature_mid": 76.71,
-  "temperature_low": 69.45,
+  "temperature": {
+    "high": 83.97,
+    "mid": 76.71,
+    "low": 69.45
+  },
   "dew_point": 68.7,
   "humidity": 0.8,
   "cloud_cover": 0.65,

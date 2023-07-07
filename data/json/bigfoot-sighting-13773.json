@@ -11,9 +11,11 @@
   "longitude": -112.05,
   "location": "-112.05,34.7",
   "location_details": "down from my house down a hill lies trees along side a large river that stretches along the towns.",
-  "temperature_high": 52.15,
-  "temperature_mid": 39.47,
-  "temperature_low": 26.79,
+  "temperature": {
+    "high": 52.15,
+    "mid": 39.47,
+    "low": 26.79
+  },
   "dew_point": 23.27,
   "humidity": 0.45,
   "cloud_cover": 0.37,

@@ -11,9 +11,11 @@
   "longitude": -81.31985,
   "location": "-81.31985,28.662",
   "location_details": "take Winter Park dr. to the entrance of South Seminole middle school. Once enering stay to the right of the school. Pull into the sand parking lot and head down the dirt road that runs away from the school. At the fence of the school you will see three or four wooden post sticking up out of the ground, go past these post about fifty or sixty feet till you come to the fence at the rear of the school. here the first houses lot begins. Turn around look into the woods, and maybe you will see what we saw that night.",
-  "temperature_high": 78.99,
-  "temperature_mid": 68.365,
-  "temperature_low": 57.74,
+  "temperature": {
+    "high": 78.99,
+    "mid": 68.365,
+    "low": 57.74
+  },
   "dew_point": 65.36,
   "humidity": 0.78,
   "cloud_cover": 0.32,

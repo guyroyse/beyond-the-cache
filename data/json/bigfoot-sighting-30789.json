@@ -11,9 +11,11 @@
   "longitude": -83.5175,
   "location": "-83.5175,45.1365",
   "location_details": "This took place on our farm five miles North-West of Alpena.",
-  "temperature_high": 46.35,
-  "temperature_mid": 38,
-  "temperature_low": 29.65,
+  "temperature": {
+    "high": 46.35,
+    "mid": 38,
+    "low": 29.65
+  },
   "dew_point": 35.91,
   "humidity": 0.81,
   "cloud_cover": 0.41,

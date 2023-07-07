@@ -11,9 +11,11 @@
   "longitude": -87.96917,
   "location": "-87.96917,37.75972",
   "location_details": "Right below Uniontown Dam on the Ky bank. There is a dike just below the dam, the sighting happened there.",
-  "temperature_high": 50.31,
-  "temperature_mid": 46.77,
-  "temperature_low": 43.23,
+  "temperature": {
+    "high": 50.31,
+    "mid": 46.77,
+    "low": 43.23
+  },
   "dew_point": 28.51,
   "humidity": 0.65,
   "cloud_cover": 0.34,

@@ -11,9 +11,11 @@
   "longitude": -81.02917,
   "location": "-81.02917,39.75531",
   "location_details": "On SR 78 just inside the East end of Woodsfield, Ohio, Monroe County.",
-  "temperature_high": 47.82,
-  "temperature_mid": 37.48,
-  "temperature_low": 27.14,
+  "temperature": {
+    "high": 47.82,
+    "mid": 37.48,
+    "low": 27.14
+  },
   "dew_point": 23.9,
   "humidity": 0.55,
   "cloud_cover": 0.43,

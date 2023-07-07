@@ -11,9 +11,11 @@
   "longitude": -122.528,
   "location": "-122.528,47.78212",
   "location_details": "I would advise against it. But I can provide upon personal request. I feel people would be put in harms way.",
-  "temperature_high": 70.58,
-  "temperature_mid": 60.525,
-  "temperature_low": 50.47,
+  "temperature": {
+    "high": 70.58,
+    "mid": 60.525,
+    "low": 50.47
+  },
   "dew_point": 46.9,
   "humidity": 0.63,
   "cloud_cover": 0.36,

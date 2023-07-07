@@ -11,9 +11,11 @@
   "longitude": -80.58332,
   "location": "-80.58332,40.70386",
   "location_details": "Spucevale Rd. can be accessed from State Route 170 in Calcutta. Gretchen's lock is part of Beaver Creek State Park.",
-  "temperature_high": 81.31,
-  "temperature_mid": 73.04,
-  "temperature_low": 64.77,
+  "temperature": {
+    "high": 81.31,
+    "mid": 73.04,
+    "low": 64.77
+  },
   "dew_point": 54.19,
   "humidity": 0.59,
   "cloud_cover": 0.53,

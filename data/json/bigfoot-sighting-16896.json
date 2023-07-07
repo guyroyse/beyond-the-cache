@@ -11,9 +11,11 @@
   "longitude": -82.70584,
   "location": "-82.70584,38.53082",
   "location_details": "I lived in a hollow during this incident.  It had one paved road and several gravel roads.  all of the gravel roads are surrounded with trees.",
-  "temperature_high": 49.66,
-  "temperature_mid": 48.885,
-  "temperature_low": 48.11,
+  "temperature": {
+    "high": 49.66,
+    "mid": 48.885,
+    "low": 48.11
+  },
   "dew_point": 33.43,
   "humidity": 0.78,
   "cloud_cover": 0.78,

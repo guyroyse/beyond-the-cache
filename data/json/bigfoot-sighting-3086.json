@@ -11,9 +11,11 @@
   "longitude": -108.2083,
   "location": "-108.2083,37.4625",
   "location_details": "In the Jersey Jim Lookout tower area.",
-  "temperature_high": 71.41,
-  "temperature_mid": 52.715,
-  "temperature_low": 34.02,
+  "temperature": {
+    "high": 71.41,
+    "mid": 52.715,
+    "low": 34.02
+  },
   "dew_point": 23.19,
   "humidity": 0.33,
   "cloud_cover": 0.08,

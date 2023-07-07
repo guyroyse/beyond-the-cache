@@ -11,9 +11,11 @@
   "longitude": -81.64167,
   "location": "-81.64167,29.00086",
   "location_details": "If headed north on 19, it was just a ways past Ravenswood road, but we were headed south and saw him on our right hand side, then passing Ravenswood almost immediately after",
-  "temperature_high": 86.47,
-  "temperature_mid": 78.59,
-  "temperature_low": 70.71,
+  "temperature": {
+    "high": 86.47,
+    "mid": 78.59,
+    "low": 70.71
+  },
   "dew_point": 71.3,
   "humidity": 0.79,
   "cloud_cover": 0.16,

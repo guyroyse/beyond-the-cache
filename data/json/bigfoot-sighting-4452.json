@@ -11,9 +11,11 @@
   "longitude": -121.5344,
   "location": "-121.5344,47.0183",
   "location_details": "We called the facility Huckleberry Creek-this may not have been it's actual name. Our cadre were Rangers. I found a Huckleberry Creek in my atlas (National Georaphic,1999) in the northern part of Mt Ranier National Park. If I had a more detailed map, I could probably locate it-and possibly the actal location of the incident.",
-  "temperature_high": 69.66,
-  "temperature_mid": 60.53,
-  "temperature_low": 51.4,
+  "temperature": {
+    "high": 69.66,
+    "mid": 60.53,
+    "low": 51.4
+  },
   "dew_point": 46.34,
   "humidity": 0.66,
   "cloud_cover": 0.36,

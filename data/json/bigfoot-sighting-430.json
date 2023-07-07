@@ -11,9 +11,11 @@
   "longitude": -82.75685,
   "location": "-82.75685,29.10855",
   "location_details": "Off Hwy 19 between Crystal River and Yankee Town is a small one-light town called Inglis. Turn west off 19 onto Blvd of Dreams (the only light in town) then north on Butler Which turns into a dirt road then west on Buckhead. You'll be pretty close to the preserve and already in the Gulf Hammocks.",
-  "temperature_high": 90.61,
-  "temperature_mid": 80.695,
-  "temperature_low": 70.78,
+  "temperature": {
+    "high": 90.61,
+    "mid": 80.695,
+    "low": 70.78
+  },
   "dew_point": 71.63,
   "humidity": 0.75,
   "cloud_cover": 0.33,

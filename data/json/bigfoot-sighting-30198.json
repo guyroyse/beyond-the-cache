@@ -11,9 +11,11 @@
   "longitude": -82.73412,
   "location": "-82.73412,38.1078",
   "location_details": "The second sighting happened right at the rowan/lewis county line (rowan co side) just across the road from the daniel boone natl forest parking area",
-  "temperature_high": 84.31,
-  "temperature_mid": 75.855,
-  "temperature_low": 67.4,
+  "temperature": {
+    "high": 84.31,
+    "mid": 75.855,
+    "low": 67.4
+  },
   "dew_point": 67.22,
   "humidity": 0.71,
   "cloud_cover": 0.77,

@@ -11,9 +11,11 @@
   "longitude": -94.60359,
   "location": "-94.60359,37.84239",
   "location_details": "There are some small oil rigs on the south side of the road. I would talk to someone about this but would not want it posted since I saw so little and have no proof.",
-  "temperature_high": 81.03,
-  "temperature_mid": 73.22,
-  "temperature_low": 65.41,
+  "temperature": {
+    "high": 81.03,
+    "mid": 73.22,
+    "low": 65.41
+  },
   "dew_point": 63.06,
   "humidity": 0.72,
   "cloud_cover": 0.14,

@@ -11,9 +11,11 @@
   "longitude": -119.0709,
   "location": "-119.0709,48.40859",
   "location_details": "Moses Mountain, Moses Meadows, Omak Washington, Okanogan County",
-  "temperature_high": 59,
-  "temperature_mid": 46.5,
-  "temperature_low": 34,
+  "temperature": {
+    "high": 59,
+    "mid": 46.5,
+    "low": 34
+  },
   "dew_point": 29.18,
   "humidity": 0.56,
   "cloud_cover": 0,

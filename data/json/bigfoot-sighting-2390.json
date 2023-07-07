@@ -11,9 +11,11 @@
   "longitude": -87.02245,
   "location": "-87.02245,36.89478",
   "location_details": "Logan County, Kentucky. 6 miles west of Russellville. 1 mile north of Highway 178",
-  "temperature_high": 67.54,
-  "temperature_mid": 55.82,
-  "temperature_low": 44.1,
+  "temperature": {
+    "high": 67.54,
+    "mid": 55.82,
+    "low": 44.1
+  },
   "dew_point": 39.65,
   "humidity": 0.67,
   "cloud_cover": 0.04,

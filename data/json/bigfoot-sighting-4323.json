@@ -11,9 +11,11 @@
   "longitude": -121.8078,
   "location": "-121.8078,48.2775",
   "location_details": "Between Arlington and Darrington 4 miles east of Oso, north of 530.",
-  "temperature_high": 59.6,
-  "temperature_mid": 55.005,
-  "temperature_low": 50.41,
+  "temperature": {
+    "high": 59.6,
+    "mid": 55.005,
+    "low": 50.41
+  },
   "dew_point": 50.23,
   "humidity": 0.83,
   "cloud_cover": 0.99,

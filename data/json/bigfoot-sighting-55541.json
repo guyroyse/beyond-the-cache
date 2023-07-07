@@ -11,9 +11,11 @@
   "longitude": -83.88607,
   "location": "-83.88607,44.48875",
   "location_details": "One mile north of town",
-  "temperature_high": 83.63,
-  "temperature_mid": 77.7,
-  "temperature_low": 71.77,
+  "temperature": {
+    "high": 83.63,
+    "mid": 77.7,
+    "low": 71.77
+  },
   "dew_point": 68.66,
   "humidity": 0.79,
   "cloud_cover": 0.11,

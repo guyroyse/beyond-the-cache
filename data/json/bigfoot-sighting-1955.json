@@ -11,9 +11,11 @@
   "longitude": -119.9811,
   "location": "-119.9811,38.19753",
   "location_details": "Take Highway 108 to Strawberry, California.  The recreational residences are located around Pinecrest Lake.",
-  "temperature_high": 76.86,
-  "temperature_mid": 61.545,
-  "temperature_low": 46.23,
+  "temperature": {
+    "high": 76.86,
+    "mid": 61.545,
+    "low": 46.23
+  },
   "dew_point": 40.2,
   "humidity": 0.49,
   "cloud_cover": 0.28,

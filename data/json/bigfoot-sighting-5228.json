@@ -11,9 +11,11 @@
   "longitude": -91.87,
   "location": "-91.87,36.37111",
   "location_details": "It was a few miles west of Salem Arkansas. Its the only time i've evered travelled that highway so thats about all I can tell you.",
-  "temperature_high": 45.03,
-  "temperature_mid": 36,
-  "temperature_low": 26.97,
+  "temperature": {
+    "high": 45.03,
+    "mid": 36,
+    "low": 26.97
+  },
   "dew_point": 31.83,
   "humidity": 0.66,
   "cloud_cover": 0.54,

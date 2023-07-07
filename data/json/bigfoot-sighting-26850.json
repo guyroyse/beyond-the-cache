@@ -11,9 +11,11 @@
   "longitude": -121.18,
   "location": "-121.18,39.705",
   "location_details": "Leave Oroville CA up Olive Hwy. Turn on Forbsetown RD. 8 miles up turn on Lumpkin Rd. Take through Feather Falls then turn on Mill RD. Once you pass Fall River, take next right, road 21N25. It is several miles to the site on road 21N25.",
-  "temperature_high": 88.51,
-  "temperature_mid": 73.165,
-  "temperature_low": 57.82,
+  "temperature": {
+    "high": 88.51,
+    "mid": 73.165,
+    "low": 57.82
+  },
   "dew_point": 44.4,
   "humidity": 0.39,
   "cloud_cover": 0.03,

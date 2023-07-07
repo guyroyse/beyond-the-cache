@@ -1,0 +1,35 @@
+{
+  "reportId": "31201",
+  "title": "Night road crossing observed near El Dorado Springs",
+  "date": "2011-11-22",
+  "timestamp": 1321920000,
+  "observed": "Large upright primate approx 7foot height.",
+  "classification": "Class A",
+  "county": "Vernon",
+  "state": "Missouri",
+  "latitude": 37.85524,
+  "longitude": -94.11218,
+  "location": {
+    "longitude": -94.11218,
+    "latitude": 37.85524
+  },
+  "location_details": "Rt 54 eastbound just before right hand turn off toward mo rt 32",
+  "temperature": {
+    "high": 47.87,
+    "mid": 43.19,
+    "low": 38.51
+  },
+  "dew_point": 42.23,
+  "humidity": 0.92,
+  "cloud_cover": 0.95,
+  "moon_phase": 0.91,
+  "precip_intensity": 0.0109,
+  "precip_probability": 0.93,
+  "precip_type": "rain",
+  "pressure": 1017.3,
+  "summary": "Rain in the morning.",
+  "uv_index": 1,
+  "visibility": 6.09,
+  "wind_bearing": 335,
+  "wind_speed": 6.03
+}

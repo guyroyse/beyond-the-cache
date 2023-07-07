@@ -11,9 +11,11 @@
   "longitude": -81.19445,
   "location": "-81.19445,27.99245",
   "location_details": "Three Lakes Management Area",
-  "temperature_high": 78.66,
-  "temperature_mid": 69.4,
-  "temperature_low": 60.14,
+  "temperature": {
+    "high": 78.66,
+    "mid": 69.4,
+    "low": 60.14
+  },
   "dew_point": 64.18,
   "humidity": 0.78,
   "cloud_cover": 0.65,

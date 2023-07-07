@@ -11,9 +11,11 @@
   "longitude": -120.8032,
   "location": "-120.8032,48.58177",
   "location_details": "This was on the side of the North Cascades Highway close to Rainy Pass. I am not completely sure.",
-  "temperature_high": 51.42,
-  "temperature_mid": 45.015,
-  "temperature_low": 38.61,
+  "temperature": {
+    "high": 51.42,
+    "mid": 45.015,
+    "low": 38.61
+  },
   "dew_point": 37.96,
   "humidity": 0.76,
   "cloud_cover": 0.69,

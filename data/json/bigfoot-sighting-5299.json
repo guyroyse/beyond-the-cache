@@ -11,9 +11,11 @@
   "longitude": -123.2135,
   "location": "-123.2135,47.8306",
   "location_details": "Headwatters of Dosewallips River, Royal Basin near the largest lake and rock overhang in the medow.",
-  "temperature_high": 63.36,
-  "temperature_mid": 57.105,
-  "temperature_low": 50.85,
+  "temperature": {
+    "high": 63.36,
+    "mid": 57.105,
+    "low": 50.85
+  },
   "dew_point": 53.21,
   "humidity": 0.89,
   "cloud_cover": 0.18,

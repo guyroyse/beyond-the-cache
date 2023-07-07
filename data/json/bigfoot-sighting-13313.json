@@ -11,9 +11,11 @@
   "longitude": -85.64108,
   "location": "-85.64108,30.28881",
   "location_details": "From Panama City travel north on state hwy 77 through Lynn Haven and just north of Southport.  Turn left on the road that goes to the power plant (the steam plant in local parlance).  Towrds the end of the road (where the power plant sits) is a dirt road, heavily rutted, that brings you to a canal used by the power plant as a collection canal.  The water is usually very warm and in the winter people fish there (esp at night) and sometimes go swimming there (very NOT safe to do).  There are sandy/muddy trails/roads throughout the area that cover LOTS of area.  The area is very diverse in landscape/topography and varies from coastal wetland/marshland to thick wooded swamp.",
-  "temperature_high": 79.8,
-  "temperature_mid": 64.255,
-  "temperature_low": 48.71,
+  "temperature": {
+    "high": 79.8,
+    "mid": 64.255,
+    "low": 48.71
+  },
   "dew_point": 48.05,
   "humidity": 0.6,
   "cloud_cover": 0.02,

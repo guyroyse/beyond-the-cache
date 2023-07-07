@@ -11,9 +11,11 @@
   "longitude": -94.1927,
   "location": "-94.1927,38.524",
   "location_details": "The incident took place in the James A. Reed Wild Life Area.",
-  "temperature_high": 83.14,
-  "temperature_mid": 72.415,
-  "temperature_low": 61.69,
+  "temperature": {
+    "high": 83.14,
+    "mid": 72.415,
+    "low": 61.69
+  },
   "dew_point": 64.53,
   "humidity": 0.77,
   "cloud_cover": 0.17,

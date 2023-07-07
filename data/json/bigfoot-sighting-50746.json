@@ -11,9 +11,11 @@
   "longitude": -83.46014,
   "location": "-83.46014,37.53918",
   "location_details": "I would have to talk with someone to explain because it's way out in the country. It's on upper Cane Creek in Stanton KY so its easy to  Google.",
-  "temperature_high": 60.36,
-  "temperature_mid": 58.41,
-  "temperature_low": 56.46,
+  "temperature": {
+    "high": 60.36,
+    "mid": 58.41,
+    "low": 56.46
+  },
   "dew_point": 54.41,
   "humidity": 0.92,
   "cloud_cover": 0.28,

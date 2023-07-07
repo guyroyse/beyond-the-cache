@@ -11,9 +11,11 @@
   "longitude": -71.42092,
   "location": "-71.42092,42.09091",
   "location_details": "I haven't even told anyone about this because I didn't want this guy harassed or bothered. It crossed the road in front of me within 100 yards of the town dump entrance on route 27, close to the Bridgewater town line.",
-  "temperature_high": 88.68,
-  "temperature_mid": 80.36,
-  "temperature_low": 72.04,
+  "temperature": {
+    "high": 88.68,
+    "mid": 80.36,
+    "low": 72.04
+  },
   "dew_point": 66.67,
   "humidity": 0.69,
   "cloud_cover": 0.14,

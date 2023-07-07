@@ -11,9 +11,11 @@
   "longitude": -74.72261,
   "location": "-74.72261,40.18478",
   "location_details": "The sighting occurred on a trail between Spring Lake and the Delaware river. The area is marsh lands and swampy. If you were at the lake with the town to your back and the Delaware in front of you. head to the right side of the lake and follow the trail behind the lake. There was a wooden bridge behind the lake and that path leads you back to the sighting location.",
-  "temperature_high": 71.28,
-  "temperature_mid": 59.37,
-  "temperature_low": 47.46,
+  "temperature": {
+    "high": 71.28,
+    "mid": 59.37,
+    "low": 47.46
+  },
   "dew_point": 43.86,
   "humidity": 0.51,
   "cloud_cover": 0.43,

@@ -1,0 +1,34 @@
+{
+  "reportId": "43295",
+  "title": "Family discovers possible snow tracks in their yard near Land O' Lakes",
+  "date": "2013-12-15",
+  "timestamp": 1387065600,
+  "observed": "Large footprint looking tracks in snow. We followed the inline footstep looking prints through a heavily wooded unpopulated area. The track line looked like footprints in 10 inches of snow approximately 6' 9\" apart. Fresh light snow slightly covered up print details along with fluffy type snow pack.",
+  "classification": "Class B",
+  "county": "Vilas",
+  "state": "Wisconsin",
+  "latitude": 46.1675,
+  "longitude": -89.3381,
+  "location": {
+    "longitude": -89.3381,
+    "latitude": 46.1675
+  },
+  "location_details": "North side of Black Oak Lake off of West Black Oak Lake Rd.",
+  "temperature": {
+    "high": 4.27,
+    "mid": -7.955,
+    "low": -20.18
+  },
+  "dew_point": -4.77,
+  "humidity": 0.75,
+  "cloud_cover": 0,
+  "moon_phase": 0.45,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1015.47,
+  "summary": "Clear throughout the day.",
+  "uv_index": 1,
+  "visibility": 8.17,
+  "wind_bearing": 291,
+  "wind_speed": 7.85
+}

@@ -11,9 +11,11 @@
   "longitude": -98.68465,
   "location": "-98.68465,29.56835",
   "location_details": "Outside I-10 between the Silverado theatre and Bandera Rd. at the far back of a newly developed housing area with light residential activity. The road that lead through the are had populated houses then unoccupeid houses followed by homes under construction before becoming wooded and finaly getting to the clearing where the trailer was at the bottom of the hill.",
-  "temperature_high": 77.33,
-  "temperature_mid": 68.46,
-  "temperature_low": 59.59,
+  "temperature": {
+    "high": 77.33,
+    "mid": 68.46,
+    "low": 59.59
+  },
   "dew_point": 49.94,
   "humidity": 0.45,
   "cloud_cover": 0.37,

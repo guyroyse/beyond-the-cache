@@ -11,9 +11,11 @@
   "longitude": -79.11128,
   "location": "-79.11128,35.1312",
   "location_details": "Secured military base",
-  "temperature_high": 73.34,
-  "temperature_mid": 68.31,
-  "temperature_low": 63.28,
+  "temperature": {
+    "high": 73.34,
+    "mid": 68.31,
+    "low": 63.28
+  },
   "dew_point": 59.38,
   "humidity": 0.72,
   "cloud_cover": 0.9,

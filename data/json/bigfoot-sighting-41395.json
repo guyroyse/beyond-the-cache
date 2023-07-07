@@ -11,9 +11,11 @@
   "longitude": -94.1057,
   "location": "-94.1057,38.5992",
   "location_details": "Monkey Mountain is an 855 acre nature preserve in Eastern Jackson County, halfway in-between Grain Valley and Oak Grove.",
-  "temperature_high": 73.4,
-  "temperature_mid": 63.74,
-  "temperature_low": 54.08,
+  "temperature": {
+    "high": 73.4,
+    "mid": 63.74,
+    "low": 54.08
+  },
   "dew_point": 52.76,
   "humidity": 0.68,
   "cloud_cover": 0.13,

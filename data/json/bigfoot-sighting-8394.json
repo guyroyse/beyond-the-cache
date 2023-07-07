@@ -11,9 +11,11 @@
   "longitude": -82.32669,
   "location": "-82.32669,39.48219",
   "location_details": "It was in Haydenville just off of State Route 33. The forest behind our house was Wayne National Forest.",
-  "temperature_high": 59.42,
-  "temperature_mid": 49.485,
-  "temperature_low": 39.55,
+  "temperature": {
+    "high": 59.42,
+    "mid": 49.485,
+    "low": 39.55
+  },
   "dew_point": 32.24,
   "humidity": 0.56,
   "cloud_cover": 0.12,

@@ -11,9 +11,11 @@
   "longitude": -123.2675,
   "location": "-123.2675,43.6744",
   "location_details": "Drain Oregon near Laurel Hills Drive.",
-  "temperature_high": 75.97,
-  "temperature_mid": 62.65,
-  "temperature_low": 49.33,
+  "temperature": {
+    "high": 75.97,
+    "mid": 62.65,
+    "low": 49.33
+  },
   "dew_point": 50.44,
   "humidity": 0.64,
   "cloud_cover": 0.67,

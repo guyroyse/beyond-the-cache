@@ -11,9 +11,11 @@
   "longitude": -74.6215,
   "location": "-74.6215,40.7446",
   "location_details": "I AM WRITING TO YOU AT 1:30 AM. MY HUSBAND IS SLEEPING.HE COULD GIVE YOU EXACT LOCATIONS AS HE WAS THE DRIVER. I BELIEVE THE AREA WAS CALLED MENDEM/MENDAM...NEAR BERNARDSVILLE. SHOULD YOU NEED ADDITIONAL LOCATION INFO I WILL GLADLY HAVE MY HUSBAND PROVIDE IT FOR YOU.",
-  "temperature_high": 59.14,
-  "temperature_mid": 52.515,
-  "temperature_low": 45.89,
+  "temperature": {
+    "high": 59.14,
+    "mid": 52.515,
+    "low": 45.89
+  },
   "dew_point": 49.34,
   "humidity": 0.78,
   "cloud_cover": 0.8,

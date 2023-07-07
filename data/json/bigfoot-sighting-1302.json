@@ -11,9 +11,11 @@
   "longitude": -94.65639,
   "location": "-94.65639,34.44333",
   "location_details": "Highway 144 east of Octavia at new Big Eagle Fork bridge; south on Big Eagle Fork 300 meters approximately, but north of bluff.",
-  "temperature_high": 87.95,
-  "temperature_mid": 80.78,
-  "temperature_low": 73.61,
+  "temperature": {
+    "high": 87.95,
+    "mid": 80.78,
+    "low": 73.61
+  },
   "dew_point": 71.7,
   "humidity": 0.81,
   "cloud_cover": 0.24,

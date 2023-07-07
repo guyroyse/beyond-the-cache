@@ -11,9 +11,11 @@
   "longitude": -121.5825,
   "location": "-121.5825,45.91694",
   "location_details": "Aprox 1 mile SE on the Monte Cristo Trail(53), from the trail head leading off the 080 Spur, which connects to the FS86 Rd.",
-  "temperature_high": 87.98,
-  "temperature_mid": 75.85,
-  "temperature_low": 63.72,
+  "temperature": {
+    "high": 87.98,
+    "mid": 75.85,
+    "low": 63.72
+  },
   "dew_point": 55.96,
   "humidity": 0.56,
   "cloud_cover": 0.24,

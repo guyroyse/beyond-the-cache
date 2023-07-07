@@ -11,9 +11,11 @@
   "longitude": -76.0418,
   "location": "-76.0418,36.7586",
   "location_details": "Near Fenwick Drive, by the canal on Princess Anne Rd.",
-  "temperature_high": 69.55,
-  "temperature_mid": 65.805,
-  "temperature_low": 62.06,
+  "temperature": {
+    "high": 69.55,
+    "mid": 65.805,
+    "low": 62.06
+  },
   "dew_point": 48.83,
   "humidity": 0.6,
   "cloud_cover": 0.39,

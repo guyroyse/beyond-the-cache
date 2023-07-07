@@ -1,0 +1,35 @@
+{
+  "reportId": "6755",
+  "title": "Another large footprint in SW Colorado high country",
+  "date": "2003-08-30",
+  "timestamp": 1062201600,
+  "observed": "A large human-like footprint by Helmets Peak. The area around the footprint was very rough.",
+  "classification": "Class B",
+  "county": "Montezuma",
+  "state": "Colorado",
+  "latitude": 37.4125,
+  "longitude": -108.1292,
+  "location": {
+    "longitude": -108.1292,
+    "latitude": 37.4125
+  },
+  "location_details": "On the west side of Helmets Peak. A little ways up from the base.",
+  "temperature": {
+    "high": 78.18,
+    "mid": 65.04,
+    "low": 51.9
+  },
+  "dew_point": 46.99,
+  "humidity": 0.56,
+  "cloud_cover": 0.32,
+  "moon_phase": 0.11,
+  "precip_intensity": 0.0012,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1016.41,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 9,
+  "visibility": 9.93,
+  "wind_bearing": 49,
+  "wind_speed": 2.27
+}

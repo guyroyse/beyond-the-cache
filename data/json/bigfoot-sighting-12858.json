@@ -11,9 +11,11 @@
   "longitude": -95.47556,
   "location": "-95.47556,30.14378",
   "location_details": "There is a back entrence in to The Woodlands in this area and it is not developed. That is where it was coming from.",
-  "temperature_high": 87.7,
-  "temperature_mid": 74.3,
-  "temperature_low": 60.9,
+  "temperature": {
+    "high": 87.7,
+    "mid": 74.3,
+    "low": 60.9
+  },
   "dew_point": 59.57,
   "humidity": 0.66,
   "cloud_cover": 0.03,

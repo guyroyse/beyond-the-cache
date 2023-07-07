@@ -11,9 +11,11 @@
   "longitude": -82.24257,
   "location": "-82.24257,39.45789",
   "location_details": "Nelsonville, Ohio. Athens County",
-  "temperature_high": 68.11,
-  "temperature_mid": 58.58,
-  "temperature_low": 49.05,
+  "temperature": {
+    "high": 68.11,
+    "mid": 58.58,
+    "low": 49.05
+  },
   "dew_point": 55.6,
   "humidity": 0.79,
   "cloud_cover": 0.85,

@@ -11,9 +11,11 @@
   "longitude": -122.8531,
   "location": "-122.8531,47.9237",
   "location_details": "I'm 17, my family has had some bad experiences with people over the internet, i have to respect there rules, and i cant give the exact location. but my sighting was near tarboo lake, a lake that isnt well known, but it does have alot of activity.",
-  "temperature_high": 65.71,
-  "temperature_mid": 58.285,
-  "temperature_low": 50.86,
+  "temperature": {
+    "high": 65.71,
+    "mid": 58.285,
+    "low": 50.86
+  },
   "dew_point": 52.59,
   "humidity": 0.86,
   "cloud_cover": 0.25,

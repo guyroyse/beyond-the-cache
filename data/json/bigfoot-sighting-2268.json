@@ -11,9 +11,11 @@
   "longitude": -121.2764,
   "location": "-121.2764,46.82167",
   "location_details": "From Western Washington, take state hwy. 410 over the pass, past Ghost Lake and past Crystal Mountain. Exit at the Cedar Springs Campground Exit. Follow the Bumping River back until you reach Bumping Lake. The latitude is 46.873 deg-N and 121.300 deg-W. Elevation is 3426 ft.",
-  "temperature_high": 74.47,
-  "temperature_mid": 64.625,
-  "temperature_low": 54.78,
+  "temperature": {
+    "high": 74.47,
+    "mid": 64.625,
+    "low": 54.78
+  },
   "dew_point": 53.93,
   "humidity": 0.67,
   "cloud_cover": 0.39,

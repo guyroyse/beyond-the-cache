@@ -11,9 +11,11 @@
   "longitude": -95.37101,
   "location": "-95.37101,31.82347",
   "location_details": "2 miles East of the Neches River/3 miles North of Hwy 84, I don't have road numbers. All roads are logging roads.",
-  "temperature_high": 81.72,
-  "temperature_mid": 73.435,
-  "temperature_low": 65.15,
+  "temperature": {
+    "high": 81.72,
+    "mid": 73.435,
+    "low": 65.15
+  },
   "dew_point": 69.24,
   "humidity": 0.84,
   "cloud_cover": 0.5,

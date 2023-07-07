@@ -11,9 +11,11 @@
   "longitude": -121.7314,
   "location": "-121.7314,40.53806",
   "location_details": "off interstate five, turn towards Dutsches RD. that is next to the outlet stores in Redding.",
-  "temperature_high": 90.89,
-  "temperature_mid": 75.435,
-  "temperature_low": 59.98,
+  "temperature": {
+    "high": 90.89,
+    "mid": 75.435,
+    "low": 59.98
+  },
   "dew_point": 55.69,
   "humidity": 0.49,
   "cloud_cover": 0.1,

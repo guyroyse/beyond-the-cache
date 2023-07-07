@@ -11,9 +11,11 @@
   "longitude": -80.84301,
   "location": "-80.84301,28.93312",
   "location_details": "North Mosquito Lagoon",
-  "temperature_high": 79.36,
-  "temperature_mid": 75.52,
-  "temperature_low": 71.68,
+  "temperature": {
+    "high": 79.36,
+    "mid": 75.52,
+    "low": 71.68
+  },
   "dew_point": 65.02,
   "humidity": 0.74,
   "cloud_cover": 0.38,

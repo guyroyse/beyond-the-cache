@@ -11,9 +11,11 @@
   "longitude": -121.25,
   "location": "-121.25,46.85",
   "location_details": "Withheld",
-  "temperature_high": 70.46,
-  "temperature_mid": 62.3,
-  "temperature_low": 54.14,
+  "temperature": {
+    "high": 70.46,
+    "mid": 62.3,
+    "low": 54.14
+  },
   "dew_point": 50.34,
   "humidity": 0.69,
   "cloud_cover": 0.48,

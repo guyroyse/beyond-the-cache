@@ -1,0 +1,35 @@
+{
+  "reportId": "39851",
+  "title": "Motorists have possible nighttime sighting in Green Belt Forest Preserve",
+  "date": "2010-08-14",
+  "timestamp": 1281744000,
+  "observed": "It was just my wife and I and we were driving through the forest preserve we saw something standing by a tree. I had my high beams on because there are usually deer in there and other animals. As we got close to the tree we could see a well defined shape of a big person or whatever you want to call it. As we were going by its head and shoulders was turning with us as we were going by.  We went straight to the police station, because the police station is not too far from there. We got up there, but I decided not to say anything because I didn't want anyone to think I was losing it. We went back during the daytime, this thing was standing in this ditch which is about three feet deep. The thing was looking at us eye to eye. Now I know its just not me. I got a map one day and looked and I thought \"Ok, maybe these things are using the forest preserves because most of them are interlinked\". This thing is huge.",
+  "classification": "Class B",
+  "county": "Cook",
+  "state": "Illinois",
+  "latitude": 41.53346,
+  "longitude": -87.75156,
+  "location": {
+    "longitude": -87.75156,
+    "latitude": 41.53346
+  },
+  "location_details": "Just north of Vollmer Road on Central Avenue in South Green Belt Forest Preserve.",
+  "temperature": {
+    "high": 85.86,
+    "mid": 79.85,
+    "low": 73.84
+  },
+  "dew_point": 69.65,
+  "humidity": 0.76,
+  "cloud_cover": 0.31,
+  "moon_phase": 0.17,
+  "precip_intensity": 0.0009,
+  "precip_probability": 0.41,
+  "precip_type": "rain",
+  "pressure": 1009.9,
+  "summary": "Partly cloudy until evening and humid throughout the day.",
+  "uv_index": 7,
+  "visibility": 9.69,
+  "wind_bearing": 206,
+  "wind_speed": 3.43
+}

@@ -11,9 +11,11 @@
   "longitude": -86.9094,
   "location": "-86.9094,35.1918",
   "location_details": "Not sure exactly where on US 64 - somewhere between Pulaski and Fayetteville. There were woods to the right of the car where a bigfoot was running. We were traveling east on US 64.",
-  "temperature_high": 73.05,
-  "temperature_mid": 55.705,
-  "temperature_low": 38.36,
+  "temperature": {
+    "high": 73.05,
+    "mid": 55.705,
+    "low": 38.36
+  },
   "dew_point": 59.07,
   "humidity": 0.88,
   "cloud_cover": 0.91,

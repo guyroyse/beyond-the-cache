@@ -11,9 +11,11 @@
   "longitude": -92.2895,
   "location": "-92.2895,48.13826",
   "location_details": "We were camping in the National forest at lake Jeanette. camp site number ten. It is right on the lake.",
-  "temperature_high": 79.11,
-  "temperature_mid": 71.62,
-  "temperature_low": 64.13,
+  "temperature": {
+    "high": 79.11,
+    "mid": 71.62,
+    "low": 64.13
+  },
   "dew_point": 52.83,
   "humidity": 0.68,
   "cloud_cover": 0.24,

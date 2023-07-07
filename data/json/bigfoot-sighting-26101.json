@@ -11,9 +11,11 @@
   "longitude": -123.7727,
   "location": "-123.7727,46.94102",
   "location_details": "(Edited) I could show you exactly where this figure came from and dissapeared into the woods. Please feel free  contact me if you need to.",
-  "temperature_high": 47.13,
-  "temperature_mid": 44.755,
-  "temperature_low": 42.38,
+  "temperature": {
+    "high": 47.13,
+    "mid": 44.755,
+    "low": 42.38
+  },
   "dew_point": 42.01,
   "humidity": 0.92,
   "cloud_cover": 0.94,

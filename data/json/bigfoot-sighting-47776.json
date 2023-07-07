@@ -11,9 +11,11 @@
   "longitude": -88.30026,
   "location": "-88.30026,42.1838",
   "location_details": "It happened on my street in Lake in the Hills. At my house. Behind my house by my neighbors pool, right behind my house.",
-  "temperature_high": 41.35,
-  "temperature_mid": 39.27,
-  "temperature_low": 37.19,
+  "temperature": {
+    "high": 41.35,
+    "mid": 39.27,
+    "low": 37.19
+  },
   "dew_point": 36.56,
   "humidity": 0.92,
   "cloud_cover": 0.78,

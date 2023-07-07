@@ -11,9 +11,11 @@
   "longitude": -123.9,
   "location": "-123.9,41.16",
   "location_details": "[Editors' Note: Location details removed.  We know this particular area well, but this report submission pre-dates any of our own experiences there. ]",
-  "temperature_high": 65.3,
-  "temperature_mid": 60.56,
-  "temperature_low": 55.82,
+  "temperature": {
+    "high": 65.3,
+    "mid": 60.56,
+    "low": 55.82
+  },
   "dew_point": 51.38,
   "humidity": 0.8,
   "cloud_cover": 0.39,

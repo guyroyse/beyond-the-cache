@@ -11,9 +11,11 @@
   "longitude": -121.7915,
   "location": "-121.7915,48.0744",
   "location_details": "Heather Lake Trailhead... also, Boulder River incident in 2003 on a backpacking trip.  Something crossed the river and walked past my tent.  That trail is also off the Mountain Loop Highway.",
-  "temperature_high": 63.06,
-  "temperature_mid": 56.56,
-  "temperature_low": 50.06,
+  "temperature": {
+    "high": 63.06,
+    "mid": 56.56,
+    "low": 50.06
+  },
   "dew_point": 48.36,
   "humidity": 0.79,
   "cloud_cover": 0.73,

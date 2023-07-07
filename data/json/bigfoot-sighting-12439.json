@@ -11,9 +11,11 @@
   "longitude": -88.562,
   "location": "-88.562,41.3368",
   "location_details": "This is on private land.",
-  "temperature_high": 87.9,
-  "temperature_mid": 78.625,
-  "temperature_low": 69.35,
+  "temperature": {
+    "high": 87.9,
+    "mid": 78.625,
+    "low": 69.35
+  },
   "dew_point": 68.46,
   "humidity": 0.74,
   "cloud_cover": 0.18,

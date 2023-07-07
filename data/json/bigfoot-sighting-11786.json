@@ -11,9 +11,11 @@
   "longitude": -91.97,
   "location": "-91.97,35.07",
   "location_details": "i was following james to his house so i can't be sure but i can find out",
-  "temperature_high": 68.97,
-  "temperature_mid": 60.53,
-  "temperature_low": 52.09,
+  "temperature": {
+    "high": 68.97,
+    "mid": 60.53,
+    "low": 52.09
+  },
   "dew_point": 38.8,
   "humidity": 0.59,
   "cloud_cover": 0.22,

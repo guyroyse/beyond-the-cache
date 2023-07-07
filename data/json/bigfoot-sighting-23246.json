@@ -11,9 +11,11 @@
   "longitude": -98.53998,
   "location": "-98.53998,31.4771",
   "location_details": "I don't want to include the location of the ranch cause I don't have the owners permission as of right now.",
-  "temperature_high": 75.15,
-  "temperature_mid": 68.47,
-  "temperature_low": 61.79,
+  "temperature": {
+    "high": 75.15,
+    "mid": 68.47,
+    "low": 61.79
+  },
   "dew_point": 52.56,
   "humidity": 0.66,
   "cloud_cover": 0.31,

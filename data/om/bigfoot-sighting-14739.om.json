@@ -1,0 +1,35 @@
+{
+  "reportId": "14739",
+  "title": "Possible vocalization and stalking near Spruce Flat",
+  "date": "2004-10-30",
+  "timestamp": 1099094400,
+  "observed": "I live in Pocahontas county near the Monongahela National Forest. It covers pretty much all of the county. It was on a mountain named Spruce Flat. I can look out my front window and see it. I have heard a howl much like the one from Ohio come from there. While walking down the road one night me and a friend heard a strange vocalization then the sound of heavy footsteps coming down the field to our right. They sounded pretty intent, so I got out my gun. Then I heard a crunch and a thud as the footsteps went over the side of the hill to our left, circled around until it was right beside us at the bottom of the hill. It never showed itself. It stayed out of the light but it did make another vocalization, the same one it made before coming down the field. It was sort of a high pitched hoot but it dragged out kind of long. It wasn't an owl. I am familiar with the local animals and the sounds they make. This was something new to me. I walked down the road farther and could see where this thing just pushed the old fence down. It had to be pretty powerful to do that even though it was an old fence",
+  "classification": "Class B",
+  "county": "Pocahontas",
+  "state": "West Virginia",
+  "latitude": 38.20065,
+  "longitude": -80.17294,
+  "location": {
+    "longitude": -80.17294,
+    "latitude": 38.20065
+  },
+  "location_details": "[Edited out]",
+  "temperature": {
+    "high": 72.21,
+    "mid": 65.345,
+    "low": 58.48
+  },
+  "dew_point": 56.86,
+  "humidity": 0.76,
+  "cloud_cover": 0.41,
+  "moon_phase": 0.58,
+  "precip_intensity": 0.0007,
+  "precip_probability": 0.31,
+  "precip_type": "rain",
+  "pressure": 1011.74,
+  "summary": "Partly cloudy until evening.",
+  "uv_index": 3,
+  "visibility": 7.15,
+  "wind_bearing": 234,
+  "wind_speed": 9.88
+}

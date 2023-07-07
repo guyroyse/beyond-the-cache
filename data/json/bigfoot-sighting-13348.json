@@ -11,9 +11,11 @@
   "longitude": -96.21,
   "location": "-96.21,34.25",
   "location_details": "Right before a bridge about 10' south of a sign that reads Clear Boggy Creek, came from a field on the east side to a slight hill and sparce woods on the west side of the highway. (i could take you to the exact place.)",
-  "temperature_high": 71.98,
-  "temperature_mid": 61.39,
-  "temperature_low": 50.8,
+  "temperature": {
+    "high": 71.98,
+    "mid": 61.39,
+    "low": 50.8
+  },
   "dew_point": 49.95,
   "humidity": 0.71,
   "cloud_cover": 0.41,

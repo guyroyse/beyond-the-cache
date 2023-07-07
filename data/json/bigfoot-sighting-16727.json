@@ -11,9 +11,11 @@
   "longitude": -81.82794,
   "location": "-81.82794,30.05287",
   "location_details": "It is off of a county road (739), just NE. of Middleburg, Fl.",
-  "temperature_high": 62.87,
-  "temperature_mid": 51.79,
-  "temperature_low": 40.71,
+  "temperature": {
+    "high": 62.87,
+    "mid": 51.79,
+    "low": 40.71
+  },
   "dew_point": 42.09,
   "humidity": 0.68,
   "cloud_cover": 0.05,

@@ -11,9 +11,11 @@
   "longitude": -110.165,
   "location": "-110.165,34.1",
   "location_details": "Approximately mile marker 330 on the west side of US 60. About 30 yards off the road.",
-  "temperature_high": 59.77,
-  "temperature_mid": 45.27,
-  "temperature_low": 30.77,
+  "temperature": {
+    "high": 59.77,
+    "mid": 45.27,
+    "low": 30.77
+  },
   "dew_point": 20.63,
   "humidity": 0.43,
   "cloud_cover": 0.06,

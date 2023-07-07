@@ -11,9 +11,11 @@
   "longitude": -109.29,
   "location": "-109.29,36.54165",
   "location_details": "Southwest of Cove, Arizona. Lukachukai Mountain range. Approximately 8-10 miles to top of mountain on windy forest road.",
-  "temperature_high": 50.93,
-  "temperature_mid": 41.93,
-  "temperature_low": 32.93,
+  "temperature": {
+    "high": 50.93,
+    "mid": 41.93,
+    "low": 32.93
+  },
   "dew_point": 38.36,
   "humidity": 0.77,
   "cloud_cover": 0.67,

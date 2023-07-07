@@ -11,9 +11,11 @@
   "longitude": -121.3455,
   "location": "-121.3455,48.43505",
   "location_details": "Take Hwy 20 east from I5 to Concrete, WA. and then north on Baker Lake Rd. Continue until you see the sign for Swift creek campground. I can show the location on the google map.",
-  "temperature_high": 56.66,
-  "temperature_mid": 53.985,
-  "temperature_low": 51.31,
+  "temperature": {
+    "high": 56.66,
+    "mid": 53.985,
+    "low": 51.31
+  },
   "dew_point": 47.68,
   "humidity": 0.79,
   "moon_phase": 0.56,

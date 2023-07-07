@@ -11,9 +11,11 @@
   "longitude": -119.54,
   "location": "-119.54,38.29165",
   "location_details": "From Leavitt meadows campground: Hike S ~5 mi to Roosevelt & Lane Lakes (connected by narrow stream); At W end of Lane Lake vocalization occurred;  Directly S of Lake is an estabished primitive campsite (area) just E of River & S of Lake. From Campsite Hike SE ~1 mi (past glacier) to top of ridgeline/cliffs to ~1000'+ elev from campsite. \"Skunk\" odiferous canyon (steep ravine) is just S of Marine Corps Helicopter crash site.",
-  "temperature_high": 97.37,
-  "temperature_mid": 79.465,
-  "temperature_low": 61.56,
+  "temperature": {
+    "high": 97.37,
+    "mid": 79.465,
+    "low": 61.56
+  },
   "dew_point": 49.53,
   "humidity": 0.33,
   "cloud_cover": 0.23,

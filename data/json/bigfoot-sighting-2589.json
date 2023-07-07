@@ -11,9 +11,11 @@
   "longitude": -85.4034,
   "location": "-85.4034,34.66005",
   "location_details": "Rocky Lane, Pidgeon Mtn near LaFayette, GA. In Walker County this dirt & gravel road is approx. 13 miles long. Desolate surroundings.",
-  "temperature_high": 87.3,
-  "temperature_mid": 77.14,
-  "temperature_low": 66.98,
+  "temperature": {
+    "high": 87.3,
+    "mid": 77.14,
+    "low": 66.98
+  },
   "dew_point": 61.49,
   "humidity": 0.65,
   "cloud_cover": 0.14,

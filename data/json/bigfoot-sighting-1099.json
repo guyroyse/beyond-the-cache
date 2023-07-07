@@ -11,9 +11,11 @@
   "longitude": -92.97639,
   "location": "-92.97639,38.04414",
   "location_details": "On a gravel bank of the Little Niangua river between Climax Springs and Roach, in Camden County, Missouri.",
-  "temperature_high": 86.51,
-  "temperature_mid": 77.945,
-  "temperature_low": 69.38,
+  "temperature": {
+    "high": 86.51,
+    "mid": 77.945,
+    "low": 69.38
+  },
   "dew_point": 66.65,
   "humidity": 0.73,
   "cloud_cover": 0.73,

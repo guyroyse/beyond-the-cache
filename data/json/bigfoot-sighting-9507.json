@@ -11,9 +11,11 @@
   "longitude": -93.74,
   "location": "-93.74,36.41",
   "location_details": "Carrol County between Beaver Lake and Eureka Springs.",
-  "temperature_high": 85.85,
-  "temperature_mid": 77.805,
-  "temperature_low": 69.76,
+  "temperature": {
+    "high": 85.85,
+    "mid": 77.805,
+    "low": 69.76
+  },
   "dew_point": 68.34,
   "humidity": 0.77,
   "cloud_cover": 0.51,

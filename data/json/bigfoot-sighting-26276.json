@@ -11,9 +11,11 @@
   "longitude": -82.28943,
   "location": "-82.28943,30.43412",
   "location_details": "eddy road to road 1 to where the rocks cross the road that where he cross.",
-  "temperature_high": 74.99,
-  "temperature_mid": 66.845,
-  "temperature_low": 58.7,
+  "temperature": {
+    "high": 74.99,
+    "mid": 66.845,
+    "low": 58.7
+  },
   "dew_point": 56.62,
   "humidity": 0.7,
   "cloud_cover": 0.36,

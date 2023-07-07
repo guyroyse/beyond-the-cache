@@ -11,9 +11,11 @@
   "longitude": -123.1742,
   "location": "-123.1742,46.98278",
   "location_details": "Please keep the specifics about how to get to the location confidential.  We consider this a very special place.",
-  "temperature_high": 47.48,
-  "temperature_mid": 44.24,
-  "temperature_low": 41,
+  "temperature": {
+    "high": 47.48,
+    "mid": 44.24,
+    "low": 41
+  },
   "dew_point": 35.85,
   "humidity": 0.8,
   "cloud_cover": 0.83,

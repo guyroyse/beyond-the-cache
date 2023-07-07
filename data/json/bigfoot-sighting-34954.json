@@ -11,9 +11,11 @@
   "longitude": -81.4819,
   "location": "-81.4819,29.05872",
   "location_details": "from Lake Mack go west on CR42, to Deer Haven Rd, go right on Deer Haven Rd till it turns into FSR420(about 4 miles from when you first turn onto Deer Haven and you will be near the spot in the road.",
-  "temperature_high": 65.59,
-  "temperature_mid": 55.26,
-  "temperature_low": 44.93,
+  "temperature": {
+    "high": 65.59,
+    "mid": 55.26,
+    "low": 44.93
+  },
   "dew_point": 33.29,
   "humidity": 0.59,
   "cloud_cover": 0.09,

@@ -11,9 +11,11 @@
   "longitude": -122.105,
   "location": "-122.105,47.6597",
   "location_details": "Neighborhood is near Marymoor Park (640 acre county park), which is linked by sparsely populated, wooded areas to the Cascade foothills about 10 miles away.",
-  "temperature_high": 58.7,
-  "temperature_mid": 54.71,
-  "temperature_low": 50.72,
+  "temperature": {
+    "high": 58.7,
+    "mid": 54.71,
+    "low": 50.72
+  },
   "dew_point": 47.26,
   "humidity": 0.81,
   "cloud_cover": 0.71,

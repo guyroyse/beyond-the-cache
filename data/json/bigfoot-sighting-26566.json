@@ -11,9 +11,11 @@
   "longitude": -76.89331,
   "location": "-76.89331,43.27314",
   "location_details": "East on Route 104, near town of Huron.",
-  "temperature_high": 67.62,
-  "temperature_mid": 58.16,
-  "temperature_low": 48.7,
+  "temperature": {
+    "high": 67.62,
+    "mid": 58.16,
+    "low": 48.7
+  },
   "dew_point": 54.06,
   "humidity": 0.75,
   "cloud_cover": 0.48,

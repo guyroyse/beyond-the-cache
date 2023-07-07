@@ -11,9 +11,11 @@
   "longitude": -119.8609,
   "location": "-119.8609,37.81269",
   "location_details": "Take Highway 120 to Evergreen Road to Carlon Station, now a day-use area.",
-  "temperature_high": 46.84,
-  "temperature_mid": 39.575,
-  "temperature_low": 32.31,
+  "temperature": {
+    "high": 46.84,
+    "mid": 39.575,
+    "low": 32.31
+  },
   "dew_point": 32.01,
   "humidity": 0.83,
   "cloud_cover": 0.57,

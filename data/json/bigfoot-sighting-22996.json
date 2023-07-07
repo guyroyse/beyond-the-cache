@@ -11,9 +11,11 @@
   "longitude": -123.5585,
   "location": "-123.5585,43.2073",
   "location_details": "Out in Lookingglass, 5 miles from the Lookingglass Store. Foot of the Callahans. Touchstone Lane up to the logging area. You can gain access to where I saw it from there.",
-  "temperature_high": 68.3,
-  "temperature_mid": 58.995,
-  "temperature_low": 49.69,
+  "temperature": {
+    "high": 68.3,
+    "mid": 58.995,
+    "low": 49.69
+  },
   "dew_point": 51.16,
   "humidity": 0.75,
   "cloud_cover": 0.53,

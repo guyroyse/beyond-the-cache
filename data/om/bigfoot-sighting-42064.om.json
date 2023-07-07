@@ -1,0 +1,35 @@
+{
+  "reportId": "42064",
+  "title": "Driver has possible daylight sighting on US Route 33 outside Rawley Springs",
+  "date": "2013-08-31",
+  "timestamp": 1377907200,
+  "observed": "I was on the way home from Franklin West Virginia, just come down Rt. 33 into Rawley Springs Virginia. About 200 ft. in front of me was an animal which I though was a black bear but this thing was as least 7 ft. tall and running on two legs. It stopped at the edge of the woods for maybe a couple seconds and twisted from the waist so that I seen its backside. Which was a very hairy and long armed animal. It had walked off into the woods. When I got to where it had stood I stopped and looked through the woods and I seen nothing, it was gone.",
+  "classification": "Class B",
+  "county": "Rockingham",
+  "state": "Virginia",
+  "latitude": 38.57716,
+  "longitude": -79.11095,
+  "location": {
+    "longitude": -79.11095,
+    "latitude": 38.57716
+  },
+  "location_details": "Right off mountain on Rt. 33 West into Rawley Springs.",
+  "temperature": {
+    "high": 82.68,
+    "mid": 73.875,
+    "low": 65.07
+  },
+  "dew_point": 68.34,
+  "humidity": 0.84,
+  "cloud_cover": 0.01,
+  "moon_phase": 0.85,
+  "precip_intensity": 0.0095,
+  "precip_probability": 0.35,
+  "precip_type": "rain",
+  "pressure": 1012.35,
+  "summary": "Clear throughout the day.",
+  "uv_index": 8,
+  "visibility": 8.29,
+  "wind_bearing": 211,
+  "wind_speed": 4.2
+}

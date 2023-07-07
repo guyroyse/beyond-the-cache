@@ -1,0 +1,35 @@
+{
+  "reportId": "55573",
+  "title": "Long term possible Sasquatch interactions on a farm near New Era beginning in the mid 1970's",
+  "date": "1976-06-15",
+  "timestamp": 203644800,
+  "observed": " January 28, 2016 email received by the BFRO: Can someone in your organization please put me in touch with Jim Sherman. I need to have a conversation with him about bigfoots in West Michigan. Thank you.",
+  "classification": "Class B",
+  "county": "Oceana",
+  "state": "Michigan",
+  "latitude": 43.55,
+  "longitude": -86.325,
+  "location": {
+    "longitude": -86.325,
+    "latitude": 43.55
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 79.87,
+    "mid": 69.47,
+    "low": 59.07
+  },
+  "dew_point": 62.8,
+  "humidity": 0.68,
+  "cloud_cover": 0.59,
+  "moon_phase": 0.62,
+  "precip_intensity": 0.0076,
+  "precip_probability": 0.83,
+  "precip_type": "rain",
+  "pressure": 1004.8,
+  "summary": "Mostly cloudy until evening and breezy throughout the day.",
+  "uv_index": 6,
+  "visibility": 8.19,
+  "wind_bearing": 209,
+  "wind_speed": 14.4
+}

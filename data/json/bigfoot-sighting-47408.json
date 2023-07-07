@@ -11,9 +11,11 @@
   "longitude": -94.12258,
   "location": "-94.12258,33.2784",
   "location_details": "The Green Farm, Wright Patman Lake",
-  "temperature_high": 75.35,
-  "temperature_mid": 69.03,
-  "temperature_low": 62.71,
+  "temperature": {
+    "high": 75.35,
+    "mid": 69.03,
+    "low": 62.71
+  },
   "dew_point": 54.29,
   "humidity": 0.73,
   "cloud_cover": 0.12,

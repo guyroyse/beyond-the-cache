@@ -11,9 +11,11 @@
   "longitude": -123.6886,
   "location": "-123.6886,46.35099",
   "location_details": "If you're coming from Rosburg, Wa. on hwy 4, headed westbound before the bridge which turns off to the town of DeepRiver, Wa. Turn right then follow that road til you get to a stop sign. Turn left, there is an area to the right and it look like an old logging road. go along that road. The road is narrow, but not at the beginning. But as you can tell only one car at a time.",
-  "temperature_high": 45.07,
-  "temperature_mid": 39.54,
-  "temperature_low": 34.01,
+  "temperature": {
+    "high": 45.07,
+    "mid": 39.54,
+    "low": 34.01
+  },
   "dew_point": 38.55,
   "humidity": 0.89,
   "cloud_cover": 0.8,

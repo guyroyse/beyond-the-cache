@@ -1,0 +1,34 @@
+{
+  "reportId": "10126",
+  "title": "Possible night time sighting by a resident in the Carrizo neighborhood of Mescalero IR",
+  "date": "2004-06-02",
+  "timestamp": 1086134400,
+  "observed": "We hear screams almost every night throughout the spring and summer months. This particular incident occured after midnight, approximately 1:00am. I was awakened by all the neighborhood dogs barking. Even my dog was barking outside my window. Suddenly my dog began to cry. I sat up and walked into the living room and opened the sliding door enough to peek out side and listen to what the dogs were barking at. When I heard a loud scream like screeching then it turned into a loud holler. This screaming sounds went on for about ten minutes and came closer to my home. I then closed the sliding door and continued to peek out my living room window. I saw this tall hairy thing like a man standing next to the other window looking inside my home. I got down on all fours and began to crawl into the kitchen where he couldn't see me. I remained there for about five minutes, then looked toward the window where he was standing and could not see him. I crawled to the window and peeked out. I saw it walking into the dark carrying something in its hand. The next morning when I looked out my front porch my deer jerky that was hanging to cure was gone.",
+  "classification": "Class B",
+  "county": "Otero",
+  "state": "New Mexico",
+  "latitude": 33.2516,
+  "longitude": -105.7197,
+  "location": {
+    "longitude": -105.7197,
+    "latitude": 33.2516
+  },
+  "location_details": "Four miles north of Mescalero School.",
+  "temperature": {
+    "high": 95.85,
+    "mid": 79.005,
+    "low": 62.16
+  },
+  "dew_point": 27.43,
+  "humidity": 0.16,
+  "cloud_cover": 0.07,
+  "moon_phase": 0.48,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1006.28,
+  "summary": "Clear throughout the day.",
+  "uv_index": 15,
+  "visibility": 9.95,
+  "wind_bearing": 230,
+  "wind_speed": 1.61
+}

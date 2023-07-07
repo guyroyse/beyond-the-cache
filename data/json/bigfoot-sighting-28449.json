@@ -11,9 +11,11 @@
   "longitude": -79.14478,
   "location": "-79.14478,38.56546",
   "location_details": "The lake is around a mile down off the main road.  It is near the Wva, Va line.  It is the reservoir for the City of Harrisonburg.",
-  "temperature_high": 85.3,
-  "temperature_mid": 78.615,
-  "temperature_low": 71.93,
+  "temperature": {
+    "high": 85.3,
+    "mid": 78.615,
+    "low": 71.93
+  },
   "dew_point": 65.29,
   "humidity": 0.74,
   "cloud_cover": 0.18,

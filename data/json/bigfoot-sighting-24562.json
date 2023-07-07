@@ -11,9 +11,11 @@
   "longitude": -122.1979,
   "location": "-122.1979,47.75034",
   "location_details": "It was between Bothell and Woodinville Washington off East Riverside Drive",
-  "temperature_high": 67.79,
-  "temperature_mid": 56.395,
-  "temperature_low": 45,
+  "temperature": {
+    "high": 67.79,
+    "mid": 56.395,
+    "low": 45
+  },
   "dew_point": 44.03,
   "humidity": 0.7,
   "cloud_cover": 0.11,

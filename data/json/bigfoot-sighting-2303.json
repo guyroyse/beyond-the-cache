@@ -11,9 +11,11 @@
   "longitude": -122.382,
   "location": "-122.382,46.9382",
   "location_details": "Hwy 702 is the McKenna Tanwax cutoff road.  I was about 1-2 miles west of Hwy 7. There is a pullout on the south side of Hwy 702 right across from a Century 21 for sale sign.  The street sign says 34 Av S. You can see an old vehicle path heading south into the woods. I was about a quarter of a mile into the woods. I could just see the front of my truck when I turned around to head back.",
-  "temperature_high": 71.36,
-  "temperature_mid": 60.18,
-  "temperature_low": 49,
+  "temperature": {
+    "high": 71.36,
+    "mid": 60.18,
+    "low": 49
+  },
   "dew_point": 50.79,
   "humidity": 0.76,
   "cloud_cover": 0.39,

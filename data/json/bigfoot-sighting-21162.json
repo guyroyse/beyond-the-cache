@@ -11,9 +11,11 @@
   "longitude": -110.3583,
   "location": "-110.3583,40.61125",
   "location_details": "Yellowstone Canyon.  We were staying at the Swift Creek Camp ground which borders the high Uintas Wilderness.",
-  "temperature_high": 85.78,
-  "temperature_mid": 72.585,
-  "temperature_low": 59.39,
+  "temperature": {
+    "high": 85.78,
+    "mid": 72.585,
+    "low": 59.39
+  },
   "dew_point": 43.49,
   "humidity": 0.38,
   "cloud_cover": 0.15,

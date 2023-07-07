@@ -1,0 +1,35 @@
+{
+  "reportId": "8732",
+  "title": "Motorist has late night sighting of a light colored creature on rural highway",
+  "date": "2005-01-30",
+  "timestamp": 1107043200,
+  "observed": "In 1998, January, I saw a large, light-colored, upright creature 10 miles south of my home in Bolivar County. I was driving north on highway 61 in southern Bolivar County when I saw about 200 yards ahead of me a large individual cross the road from left to right. When I reached the spot where it stopped in a ditch, it didn't look at me, but rather straight ahead. I would say it stood around 7 1/2-8 feet tall, and weighed about 450-500 pounds.",
+  "classification": "Class A",
+  "county": "Bolivar",
+  "state": "Mississippi",
+  "latitude": 33.56555,
+  "longitude": -90.8022,
+  "location": {
+    "longitude": -90.8022,
+    "latitude": 33.56555
+  },
+  "location_details": "The directions were in the southern part of Bolivar County, going north towards Shaw.",
+  "temperature": {
+    "high": 44.69,
+    "mid": 41.88,
+    "low": 39.07
+  },
+  "dew_point": 37.64,
+  "humidity": 0.83,
+  "cloud_cover": 1,
+  "moon_phase": 0.67,
+  "precip_intensity": 0.0003,
+  "precip_probability": 0.12,
+  "precip_type": "rain",
+  "pressure": 1022.31,
+  "summary": "Light rain overnight.",
+  "uv_index": 2,
+  "visibility": 9.22,
+  "wind_bearing": 30,
+  "wind_speed": 6.1
+}

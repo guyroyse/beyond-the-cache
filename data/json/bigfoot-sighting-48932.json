@@ -11,9 +11,11 @@
   "longitude": -120.7219,
   "location": "-120.7219,47.72298",
   "location_details": "The train trestle by the community of Winton.",
-  "temperature_high": 45.65,
-  "temperature_mid": 42.865,
-  "temperature_low": 40.08,
+  "temperature": {
+    "high": 45.65,
+    "mid": 42.865,
+    "low": 40.08
+  },
   "dew_point": 30.31,
   "humidity": 0.67,
   "cloud_cover": 0.14,

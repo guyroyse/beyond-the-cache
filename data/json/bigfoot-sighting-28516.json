@@ -11,9 +11,11 @@
   "longitude": -90.012,
   "location": "-90.012,38.7774",
   "location_details": "From I-270 take Exit 9. Travel north on Illinois 157 and then continue on University Avenue. Turn left on Bluff Road at about 1 1/2 miles. Turn left at St. Paul's United Church Of Christ. Continue west along unnamed road.",
-  "temperature_high": 82.02,
-  "temperature_mid": 71.38,
-  "temperature_low": 60.74,
+  "temperature": {
+    "high": 82.02,
+    "mid": 71.38,
+    "low": 60.74
+  },
   "dew_point": 48.64,
   "humidity": 0.57,
   "cloud_cover": 0.18,

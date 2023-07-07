@@ -11,9 +11,11 @@
   "longitude": -108.87,
   "location": "-108.87,36.126",
   "location_details": "Between Highway State routes 12 North and New Mexico State Hwy 666 (on New Mexico State Route 134)",
-  "temperature_high": 90.01,
-  "temperature_mid": 71.07,
-  "temperature_low": 52.13,
+  "temperature": {
+    "high": 90.01,
+    "mid": 71.07,
+    "low": 52.13
+  },
   "dew_point": 28.66,
   "humidity": 0.21,
   "cloud_cover": 0.01,

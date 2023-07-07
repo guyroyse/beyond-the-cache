@@ -11,9 +11,11 @@
   "longitude": -90.06338,
   "location": "-90.06338,38.09052",
   "location_details": "The location was on top of the bluff back into the countryside. From what I know the original place is no longer standing and has been converted to tillable farmland.",
-  "temperature_high": 85.13,
-  "temperature_mid": 75.385,
-  "temperature_low": 65.64,
+  "temperature": {
+    "high": 85.13,
+    "mid": 75.385,
+    "low": 65.64
+  },
   "dew_point": 62.21,
   "humidity": 0.66,
   "cloud_cover": 0.24,

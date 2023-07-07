@@ -11,9 +11,11 @@
   "longitude": -106.625,
   "location": "-106.625,39.45824",
   "location_details": "The sighting location was about 7 miles east of Aspen at the top of the  Hunter Creek drainage of the Hunter-Fryingpan Wilderness Area.",
-  "temperature_high": 68.03,
-  "temperature_mid": 47.48,
-  "temperature_low": 26.93,
+  "temperature": {
+    "high": 68.03,
+    "mid": 47.48,
+    "low": 26.93
+  },
   "dew_point": 28.28,
   "humidity": 0.35,
   "cloud_cover": 0.37,

@@ -11,9 +11,11 @@
   "longitude": -123.4908,
   "location": "-123.4908,40.20556",
   "location_details": "From Garberville take the Blocksburg Road to Fort Sewart and from there to the little town of Zenia, right next to the Six Rivers national forrest.",
-  "temperature_high": 55.13,
-  "temperature_mid": 51.625,
-  "temperature_low": 48.12,
+  "temperature": {
+    "high": 55.13,
+    "mid": 51.625,
+    "low": 48.12
+  },
   "dew_point": 50.02,
   "humidity": 0.87,
   "cloud_cover": 0.93,

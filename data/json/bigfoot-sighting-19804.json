@@ -11,9 +11,11 @@
   "longitude": -106.3325,
   "location": "-106.3325,37.3199",
   "location_details": "[GPS coordinates were supplied, and are shown in the internal database, but have been removed by the Editor from the public version of the report.]",
-  "temperature_high": 74.33,
-  "temperature_mid": 61.455,
-  "temperature_low": 48.58,
+  "temperature": {
+    "high": 74.33,
+    "mid": 61.455,
+    "low": 48.58
+  },
   "dew_point": 26.75,
   "humidity": 0.32,
   "cloud_cover": 0.05,

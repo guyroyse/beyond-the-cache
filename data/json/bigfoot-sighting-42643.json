@@ -11,9 +11,11 @@
   "longitude": -81.62195,
   "location": "-81.62195,36.73225",
   "location_details": "In front of 410 Dry Fork Road at the edge of forest tree line",
-  "temperature_high": 76.87,
-  "temperature_mid": 66.005,
-  "temperature_low": 55.14,
+  "temperature": {
+    "high": 76.87,
+    "mid": 66.005,
+    "low": 55.14
+  },
   "dew_point": 57.08,
   "humidity": 0.74,
   "cloud_cover": 0.3,

@@ -11,9 +11,11 @@
   "longitude": -122.645,
   "location": "-122.645,48.39936",
   "location_details": "One half mile South of Deception pass bridge in Deception state park",
-  "temperature_high": 51.65,
-  "temperature_mid": 49.975,
-  "temperature_low": 48.3,
+  "temperature": {
+    "high": 51.65,
+    "mid": 49.975,
+    "low": 48.3
+  },
   "dew_point": 43.31,
   "humidity": 0.83,
   "cloud_cover": 0.91,

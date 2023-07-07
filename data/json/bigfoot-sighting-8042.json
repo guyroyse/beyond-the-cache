@@ -11,9 +11,11 @@
   "longitude": -81.69818,
   "location": "-81.69818,40.08946",
   "location_details": "On private property located near State Route 662 and State Route 209 near the Indian Camp Road area.",
-  "temperature_high": 62.85,
-  "temperature_mid": 56.72,
-  "temperature_low": 50.59,
+  "temperature": {
+    "high": 62.85,
+    "mid": 56.72,
+    "low": 50.59
+  },
   "dew_point": 39.8,
   "humidity": 0.7,
   "cloud_cover": 0.48,

@@ -11,9 +11,11 @@
   "longitude": -81.34993,
   "location": "-81.34993,40.62147",
   "location_details": "This happened in Sandyville Ohio in Tuscarawas county just off of Jenny Brick Road (I forget the county road number).",
-  "temperature_high": 91.08,
-  "temperature_mid": 78.695,
-  "temperature_low": 66.31,
+  "temperature": {
+    "high": 91.08,
+    "mid": 78.695,
+    "low": 66.31
+  },
   "dew_point": 57,
   "humidity": 0.49,
   "cloud_cover": 0.3,

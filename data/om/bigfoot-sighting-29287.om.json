@@ -1,0 +1,35 @@
+{
+  "reportId": "29287",
+  "title": "Memory told of a daylight sighting as a youth near Fenton",
+  "date": "2000-04-07",
+  "timestamp": 955065600,
+  "observed": "I was 14 in 2000, and it was a soggy spring day. Overcast, threatening rain. I had been playing with a childhood friend with whom I've since lost contact on my Grandma's 14 acre wooded property. I was standing on a large stack of railroad ties my deceased grandfather had accumulated from his time in U&P employ, and stacked up behind the barn, next to the horse corral. I was standing on top of it, throwing rocks into the swampy ground down the hill, or building a fort or something at the time. My friend was milling around the gate between what would become my aunt's property, a 6 acre parcel of land with an abandoned house on it at the time, the same wooded creek running on the north side of the property that separated my Grandma's land following it's property line. He had been heading through it into the empty property. I remember looking away for a few minutes, before looking back up, and spotted him running full-tilt with a look of panic in his eyes. Instead of climbing over the gate or under the horse corral's fence to get back into my Grandma's yard, he threw himself over the barbed wire fence, cutting his hand pretty badly in the process. I jumped down onto a lower section of the tie pile trying to yell at him and get his attention, to find out why he was running, when I saw it. Standing on the other side of the gate, only sixty feet away or so, was a 7 foot or better figure, covered in dark brown fur. Bulky, but covered in long-ish hair, so you couldn't make out much beyond that. It was standing on the other side of the gate into the empty property, poking at the ground with a stick it had in it's hand. I couldn't see it's face, but when it's head tilted up toward me, the hair stood up on end. I only got a few seconds of looking at it before I backpedalled in panic off the tie pile, fell to the ground, and bolted around the back of the barn and up to my Grandmother's house, where my friend was already yelling and trying to explain to my aunt, her boyfriend and my Grandma what had happened while they bandaged his hand up. We went back down looking for any sign of the thing within 15 minutes, but we never found even so much as a footprint. The ground it had been standing on was grassy, and it didn't appear to leave anything behind, or even drop the stick when it left. We searched along the creek bed for nearly an hour afterward, but found nothing there, either.",
+  "classification": "Class A",
+  "county": "Whiteside",
+  "state": "Illinois",
+  "latitude": 41.7584,
+  "longitude": -90.0795,
+  "location": {
+    "longitude": -90.0795,
+    "latitude": 41.7584
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 45.96,
+    "mid": 35.875,
+    "low": 25.79
+  },
+  "dew_point": 30.17,
+  "humidity": 0.7,
+  "cloud_cover": 0.89,
+  "moon_phase": 0.1,
+  "precip_intensity": 0.0119,
+  "precip_probability": 0.94,
+  "precip_type": "rain",
+  "pressure": 1010.34,
+  "summary": "Mixed precipitation starting in the afternoon, continuing until evening, and breezy starting in the evening.",
+  "uv_index": 4,
+  "visibility": 6.64,
+  "wind_bearing": 32,
+  "wind_speed": 13.19
+}

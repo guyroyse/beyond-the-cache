@@ -11,9 +11,11 @@
   "longitude": -86.611,
   "location": "-86.611,46.159",
   "location_details": "Pine Marten Run Trailhead @ County Rd 440 Area and the footprint was found at a small lake (Schoolcraft County)",
-  "temperature_high": 62.34,
-  "temperature_mid": 58.245,
-  "temperature_low": 54.15,
+  "temperature": {
+    "high": 62.34,
+    "mid": 58.245,
+    "low": 54.15
+  },
   "dew_point": 54.82,
   "humidity": 0.85,
   "cloud_cover": 0.56,

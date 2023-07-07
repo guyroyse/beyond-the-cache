@@ -11,9 +11,11 @@
   "longitude": -121.1958,
   "location": "-121.1958,47.79222",
   "location_details": "[Beckler River Road area ; Internal database (FLATS) has more specifics.]",
-  "temperature_high": 44.96,
-  "temperature_mid": 43.075,
-  "temperature_low": 41.19,
+  "temperature": {
+    "high": 44.96,
+    "mid": 43.075,
+    "low": 41.19
+  },
   "dew_point": 39.89,
   "humidity": 0.86,
   "cloud_cover": 0.82,

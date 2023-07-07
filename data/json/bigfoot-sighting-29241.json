@@ -11,9 +11,11 @@
   "longitude": -88.62624,
   "location": "-88.62624,39.75616",
   "location_details": "12 miles southwest of Atwood.",
-  "temperature_high": 69.04,
-  "temperature_mid": 65.175,
-  "temperature_low": 61.31,
+  "temperature": {
+    "high": 69.04,
+    "mid": 65.175,
+    "low": 61.31
+  },
   "dew_point": 62.95,
   "humidity": 0.96,
   "cloud_cover": 0.92,

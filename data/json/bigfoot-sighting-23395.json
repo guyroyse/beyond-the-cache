@@ -11,9 +11,11 @@
   "longitude": -89.582,
   "location": "-89.582,38.946",
   "location_details": "Three miles south of Sorento,  along Dry Fork Creek bottoms.",
-  "temperature_high": 59.37,
-  "temperature_mid": 55.765,
-  "temperature_low": 52.16,
+  "temperature": {
+    "high": 59.37,
+    "mid": 55.765,
+    "low": 52.16
+  },
   "dew_point": 46.51,
   "humidity": 0.77,
   "cloud_cover": 0.88,

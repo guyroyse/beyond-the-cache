@@ -11,9 +11,11 @@
   "longitude": -82.59348,
   "location": "-82.59348,38.35727",
   "location_details": "ON 52 ON TOLSIA HIGHWAY,IT CAME ACROSS THE ROAD THERE AND WENT TOWARDS THE PLANT.",
-  "temperature_high": 84.57,
-  "temperature_mid": 78.3,
-  "temperature_low": 72.03,
+  "temperature": {
+    "high": 84.57,
+    "mid": 78.3,
+    "low": 72.03
+  },
   "dew_point": 70.16,
   "humidity": 0.8,
   "cloud_cover": 0.56,

@@ -11,9 +11,11 @@
   "longitude": -80.97507,
   "location": "-80.97507,40.95818",
   "location_details": "Location is off State Route 14.",
-  "temperature_high": 77.34,
-  "temperature_mid": 69.235,
-  "temperature_low": 61.13,
+  "temperature": {
+    "high": 77.34,
+    "mid": 69.235,
+    "low": 61.13
+  },
   "dew_point": 63.38,
   "humidity": 0.78,
   "cloud_cover": 0.45,

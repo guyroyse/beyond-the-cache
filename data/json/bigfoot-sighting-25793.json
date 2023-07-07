@@ -11,9 +11,11 @@
   "longitude": -86.25349,
   "location": "-86.25349,38.6899",
   "location_details": "near North Cave River Valley Rd and West Cave River Valley Road",
-  "temperature_high": 86.54,
-  "temperature_mid": 75.58,
-  "temperature_low": 64.62,
+  "temperature": {
+    "high": 86.54,
+    "mid": 75.58,
+    "low": 64.62
+  },
   "dew_point": 58.52,
   "humidity": 0.62,
   "cloud_cover": 0.26,

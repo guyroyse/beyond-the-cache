@@ -11,9 +11,11 @@
   "longitude": -116.0558,
   "location": "-116.0558,48.1143",
   "location_details": "The \"High Drive\" is located in a remote part of the Selkirk mountains between Lake Pend Oreille and Montana.  At Clarks Fork turn rt. after the gas station and go across the bridge over the Clark Fork river, the road turns left and follow it east.  Turn rt. onto the Smith creek/Jordan creek road and travel approx 1.5 hrs on that road.  Sorry I can't be more specific but it was 35 years ago although I camp and fish in that area frequently.",
-  "temperature_high": 54,
-  "temperature_mid": 39.445,
-  "temperature_low": 24.89,
+  "temperature": {
+    "high": 54,
+    "mid": 39.445,
+    "low": 24.89
+  },
   "dew_point": 23.31,
   "humidity": 0.59,
   "cloud_cover": 0.07,

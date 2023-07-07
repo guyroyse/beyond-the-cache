@@ -11,9 +11,11 @@
   "longitude": -82.6353,
   "location": "-82.6353,39.5246",
   "location_details": "The sighting occured down the road from Clearcreek Metro Park, just off of State Route 33.",
-  "temperature_high": 58.58,
-  "temperature_mid": 47.03,
-  "temperature_low": 35.48,
+  "temperature": {
+    "high": 58.58,
+    "mid": 47.03,
+    "low": 35.48
+  },
   "dew_point": 34.91,
   "humidity": 0.67,
   "cloud_cover": 0.63,

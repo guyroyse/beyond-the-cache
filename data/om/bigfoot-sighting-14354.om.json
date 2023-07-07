@@ -1,0 +1,35 @@
+{
+  "reportId": "14354",
+  "title": "Night time sighting by three boys outside Middleburg",
+  "date": "2003-07-01",
+  "timestamp": 1057017600,
+  "observed": "The following is the account of my student, identified below. He is with me as I type this. He does not have a computer, so I therefore am making this report for him. I am his high school biology teacher. \"We (4 of us) were riding in a pickup truck on a dirt road on my grandfather's property. That portion of the property is planted pine flatwoods with little undergrowth other than native grass. Three of us were in the back of the pickup, looking for deer with a spotlight. We were traveling about 10 mph. The person with the spotlight swept the light across the side of the road, and all 3 of us that were in the back of the truck saw this creature standing about 25 feet from us, and back off the road in the trees. It was just standing there looking at us. The light swept across the creature, and all three of us saw it and yelled or said something. The light was on it a second or two. We immediately backed up and with the light looked again but could no longer see it creature. It was gone. We were all very excited asked each other what it was, but confirmed that we had all see the same thing. Here is what we saw: It was about 8-9 feet tall, and covered with long dark fur. There were no ears on the head, but it's eyes shown yellow in the light and the sholders appeared like a football player's. His belly stuck out to the sides a bit, like he was thicker in that area. His arms were long and appeard to hang nearly to his knees. When we backed up to see him again, he was already gone, but we all noticed a really foul smell, that I would describe as similar to a sour hog. We were all fairly scared, and immediately left the area.",
+  "classification": "Class A",
+  "county": "Clay",
+  "state": "Florida",
+  "latitude": 30.069,
+  "longitude": -81.771,
+  "location": {
+    "longitude": -81.771,
+    "latitude": 30.069
+  },
+  "location_details": "This road passes from Interstate 10 to Hwy 21.",
+  "temperature": {
+    "high": 86.54,
+    "mid": 80.58,
+    "low": 74.62
+  },
+  "dew_point": 73.59,
+  "humidity": 0.79,
+  "cloud_cover": 0.54,
+  "moon_phase": 0.06,
+  "precip_intensity": 0.0076,
+  "precip_probability": 0.26,
+  "precip_type": "rain",
+  "pressure": 1018.56,
+  "summary": "Humid and partly cloudy throughout the day.",
+  "uv_index": 8,
+  "visibility": 8.35,
+  "wind_bearing": 166,
+  "wind_speed": 8.26
+}

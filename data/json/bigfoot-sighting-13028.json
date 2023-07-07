@@ -11,9 +11,11 @@
   "longitude": -93.972,
   "location": "-93.972,30.83315",
   "location_details": "9 miles south of Jasper",
-  "temperature_high": 48.75,
-  "temperature_mid": 45.92,
-  "temperature_low": 43.09,
+  "temperature": {
+    "high": 48.75,
+    "mid": 45.92,
+    "low": 43.09
+  },
   "dew_point": 38.69,
   "humidity": 0.84,
   "cloud_cover": 0.75,

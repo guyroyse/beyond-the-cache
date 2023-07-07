@@ -11,9 +11,11 @@
   "longitude": -122.0303,
   "location": "-122.0303,46.39019",
   "location_details": "Strawberry mountain, about in the middle of the main ridge. (just NE of MT. ST. Helens)",
-  "temperature_high": 84.02,
-  "temperature_mid": 70.54,
-  "temperature_low": 57.06,
+  "temperature": {
+    "high": 84.02,
+    "mid": 70.54,
+    "low": 57.06
+  },
   "dew_point": 56.49,
   "humidity": 0.64,
   "cloud_cover": 0.13,

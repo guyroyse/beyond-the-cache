@@ -11,9 +11,11 @@
   "longitude": -116.8625,
   "location": "-116.8625,33.2675",
   "location_details": "drive into campgrounds and head down stream to where the path following right side of the stream begins to narrow due to brush, rocks,stream(on left)and steep hillside(on right).",
-  "temperature_high": 76.16,
-  "temperature_mid": 70.46,
-  "temperature_low": 64.76,
+  "temperature": {
+    "high": 76.16,
+    "mid": 70.46,
+    "low": 64.76
+  },
   "dew_point": 56.72,
   "humidity": 0.64,
   "cloud_cover": 0.6,

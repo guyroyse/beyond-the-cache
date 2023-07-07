@@ -11,9 +11,11 @@
   "longitude": -74.78004,
   "location": "-74.78004,40.99567",
   "location_details": "Green Vally,its a camp ground.The lady that ownd it at the time would let us camp off season,and off camp grounds back in the woods.",
-  "temperature_high": 44.17,
-  "temperature_mid": 38.905,
-  "temperature_low": 33.64,
+  "temperature": {
+    "high": 44.17,
+    "mid": 38.905,
+    "low": 33.64
+  },
   "dew_point": 24.42,
   "humidity": 0.58,
   "cloud_cover": 0.67,

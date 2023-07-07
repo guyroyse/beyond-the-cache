@@ -11,9 +11,11 @@
   "longitude": -85.67188,
   "location": "-85.67188,37.7755",
   "location_details": "Highway 61 ends into Boston Road..Take a left on Boston Road, down about 1/4 mile take a left on Nelsonville Rd. We were about 3 miles down Nelsonville Rd",
-  "temperature_high": 47.37,
-  "temperature_mid": 46.135,
-  "temperature_low": 44.9,
+  "temperature": {
+    "high": 47.37,
+    "mid": 46.135,
+    "low": 44.9
+  },
   "dew_point": 42.19,
   "humidity": 0.88,
   "cloud_cover": 1,

@@ -11,9 +11,11 @@
   "longitude": -102.6922,
   "location": "-102.6922,31.27278",
   "location_details": ". 9 miles south of Imperial going across the road from right to left. ( East to West )",
-  "temperature_high": 84.99,
-  "temperature_mid": 65.3,
-  "temperature_low": 45.61,
+  "temperature": {
+    "high": 84.99,
+    "mid": 65.3,
+    "low": 45.61
+  },
   "dew_point": 30.22,
   "humidity": 0.3,
   "cloud_cover": 0.17,

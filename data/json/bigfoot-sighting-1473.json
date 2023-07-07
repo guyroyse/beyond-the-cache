@@ -11,9 +11,11 @@
   "longitude": -122.3839,
   "location": "-122.3839,41.42806",
   "location_details": "There is a monument or marker near the dirt road where you turn off the main Hwy (about 10 mi. north of Weed).  I have not been there in a very long time.",
-  "temperature_high": 79.22,
-  "temperature_mid": 62.8,
-  "temperature_low": 46.38,
+  "temperature": {
+    "high": 79.22,
+    "mid": 62.8,
+    "low": 46.38
+  },
   "dew_point": 41.14,
   "humidity": 0.48,
   "cloud_cover": 0.06,

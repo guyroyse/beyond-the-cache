@@ -11,9 +11,11 @@
   "longitude": -83.13654,
   "location": "-83.13654,31.24842",
   "location_details": "2 miles east of Alapaha Ga on 82 hwy right on Ocilla road 500 ft right on dirt road (farm road) then one & half miles.",
-  "temperature_high": 76.32,
-  "temperature_mid": 67.525,
-  "temperature_low": 58.73,
+  "temperature": {
+    "high": 76.32,
+    "mid": 67.525,
+    "low": 58.73
+  },
   "dew_point": 70.77,
   "humidity": 0.94,
   "cloud_cover": 0.95,

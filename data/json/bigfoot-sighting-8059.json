@@ -11,9 +11,11 @@
   "longitude": -123.7675,
   "location": "-123.7675,39.22361",
   "location_details": "On hillside above Albion Flats, on the south side of the Albion River.  Above the river boat dock.",
-  "temperature_high": 86.11,
-  "temperature_mid": 67.055,
-  "temperature_low": 48,
+  "temperature": {
+    "high": 86.11,
+    "mid": 67.055,
+    "low": 48
+  },
   "dew_point": 54.16,
   "humidity": 0.71,
   "cloud_cover": 0.39,

@@ -11,9 +11,11 @@
   "longitude": -122.782,
   "location": "-122.782,47.3704",
   "location_details": "West of Vaughn, south bound on Rocky Bay Point Road. Approx. .5 mile south of our house.",
-  "temperature_high": 49.74,
-  "temperature_mid": 44.43,
-  "temperature_low": 39.12,
+  "temperature": {
+    "high": 49.74,
+    "mid": 44.43,
+    "low": 39.12
+  },
   "dew_point": 44.18,
   "humidity": 0.89,
   "cloud_cover": 0.92,

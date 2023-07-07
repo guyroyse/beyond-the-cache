@@ -11,9 +11,11 @@
   "longitude": -81.51359,
   "location": "-81.51359,28.05144",
   "location_details": "Location was and undeveloped area north of Rock Drive. Directions from US Hwy 27 to Hwy 544 east to 17 (Scenic Hwy) then south to Hatchineha Rd then east to Allegheny then north to Greenfield to dead end. Turn right, go to dead end then left on Rock Drive.",
-  "temperature_high": 83.91,
-  "temperature_mid": 76.27,
-  "temperature_low": 68.63,
+  "temperature": {
+    "high": 83.91,
+    "mid": 76.27,
+    "low": 68.63
+  },
   "dew_point": 65.49,
   "humidity": 0.72,
   "cloud_cover": 0.38,

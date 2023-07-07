@@ -11,9 +11,11 @@
   "longitude": -112.0179,
   "location": "-112.0179,41.7086",
   "location_details": "Wellsville Mountains, west of Logan.",
-  "temperature_high": 51.6,
-  "temperature_mid": 39.335,
-  "temperature_low": 27.07,
+  "temperature": {
+    "high": 51.6,
+    "mid": 39.335,
+    "low": 27.07
+  },
   "dew_point": 28.17,
   "humidity": 0.7,
   "cloud_cover": 0.28,

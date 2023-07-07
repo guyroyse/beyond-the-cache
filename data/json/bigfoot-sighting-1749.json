@@ -11,9 +11,11 @@
   "longitude": -122.1656,
   "location": "-122.1656,48.8178",
   "location_details": "Between Deming and Mt. Baker, the North Fork of the Nooksack River was behind us at the time of the sighting.",
-  "temperature_high": 66.06,
-  "temperature_mid": 60.65,
-  "temperature_low": 55.24,
+  "temperature": {
+    "high": 66.06,
+    "mid": 60.65,
+    "low": 55.24
+  },
   "dew_point": 50.54,
   "humidity": 0.76,
   "cloud_cover": 0.75,

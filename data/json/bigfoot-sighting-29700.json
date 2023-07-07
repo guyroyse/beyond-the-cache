@@ -11,9 +11,11 @@
   "longitude": -123.4013,
   "location": "-123.4013,46.71103",
   "location_details": "There are several ways to get up to Fall river. there is a fish ladder on the river below where our incident was. but going through Brooklyn towards Oakville, taking the M500, to the M600 onto the H-line to the 7800 (left) then it tuns into 7000. then right on 7080 and stay left onto 7083. runs along Fall river and ends. walk out to edge of trees and you can see Boss on right and Fall on left. Your not up to high, but you can look down into the rivers. It's in Pacific Co but pretty close to Lewis Co border.",
-  "temperature_high": 59.09,
-  "temperature_mid": 49.385,
-  "temperature_low": 39.68,
+  "temperature": {
+    "high": 59.09,
+    "mid": 49.385,
+    "low": 39.68
+  },
   "dew_point": 40.37,
   "humidity": 0.75,
   "cloud_cover": 0.46,

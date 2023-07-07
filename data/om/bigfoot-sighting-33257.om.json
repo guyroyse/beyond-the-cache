@@ -1,0 +1,35 @@
+{
+  "reportId": "33257",
+  "title": "Tow truck driver watches a creature drag an elk away from accident site south of Malta on Hwy. 191",
+  "date": "2011-01-08",
+  "timestamp": 1294444800,
+  "observed": "It was last winter 2010-2011 at about 1:00am. I was out on a wrecker call north of the Missouri River about a mile. I was loading a car on to my truck when I heard a deep grunt. I turned with my flash light and looked behind me and almost 100 feet behind me was an up right walking creature dragging the dead elk that the car I was towing had hit down the side of a hill. It was about 40 below zero I was cold and scared so i loaded up and got back to town.",
+  "classification": "Class A",
+  "county": "Phillips",
+  "state": "Montana",
+  "latitude": 47.66724,
+  "longitude": -108.6873,
+  "location": {
+    "longitude": -108.6873,
+    "latitude": 47.66724
+  },
+  "location_details": "About 65 or 70 miles South of Malta on highway 191 on the C.M. Russel Wildlife Refuge.",
+  "temperature": {
+    "high": 30.22,
+    "mid": 17.225,
+    "low": 4.23
+  },
+  "dew_point": 19.4,
+  "humidity": 0.81,
+  "cloud_cover": 0.81,
+  "moon_phase": 0.14,
+  "precip_intensity": 0.0018,
+  "precip_probability": 0.34,
+  "precip_type": "snow",
+  "pressure": 1009.37,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 8.22,
+  "wind_bearing": 284,
+  "wind_speed": 2.84
+}

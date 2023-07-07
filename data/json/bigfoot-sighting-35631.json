@@ -11,9 +11,11 @@
   "longitude": -84.16016,
   "location": "-84.16016,31.62608",
   "location_details": "It was in a residential neighborhood.  Huntingdon Subdivision.  The exact street was Chukar Ct.  This neighborhood is off of exit 5 for N Jefferson (Old Leesburg Hwy) just past Lovers Ln and the Lee Co. Line. We are also close to Lake Cheehaw and Keechafoonee Creek.  The next big highway is Hwy 19.",
-  "temperature_high": 91.57,
-  "temperature_mid": 79.16,
-  "temperature_low": 66.75,
+  "temperature": {
+    "high": 91.57,
+    "mid": 79.16,
+    "low": 66.75
+  },
   "dew_point": 65.24,
   "humidity": 0.67,
   "cloud_cover": 0.14,

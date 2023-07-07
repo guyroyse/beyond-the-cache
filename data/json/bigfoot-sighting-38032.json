@@ -11,9 +11,11 @@
   "longitude": -88.66103,
   "location": "-88.66103,41.29077",
   "location_details": "Brookfield Township",
-  "temperature_high": 56.89,
-  "temperature_mid": 53.85,
-  "temperature_low": 50.81,
+  "temperature": {
+    "high": 56.89,
+    "mid": 53.85,
+    "low": 50.81
+  },
   "dew_point": 40.9,
   "humidity": 0.82,
   "cloud_cover": 0.35,

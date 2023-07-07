@@ -11,9 +11,11 @@
   "longitude": -124.1417,
   "location": "-124.1417,41.84998",
   "location_details": "KOA campground located just off of Highway 101, 5 miles north of town.",
-  "temperature_high": 52.95,
-  "temperature_mid": 47.485,
-  "temperature_low": 42.02,
+  "temperature": {
+    "high": 52.95,
+    "mid": 47.485,
+    "low": 42.02
+  },
   "dew_point": 42.41,
   "humidity": 0.87,
   "cloud_cover": 0.56,

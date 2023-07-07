@@ -11,9 +11,11 @@
   "longitude": -103.4966,
   "location": "-103.4966,43.89875",
   "location_details": "West of Horsetheif Lake about 1mile, just after 4 in row road signs, and before sharp right curve.",
-  "temperature_high": 60.43,
-  "temperature_mid": 45.455,
-  "temperature_low": 30.48,
+  "temperature": {
+    "high": 60.43,
+    "mid": 45.455,
+    "low": 30.48
+  },
   "dew_point": 25.18,
   "humidity": 0.53,
   "cloud_cover": 0.17,

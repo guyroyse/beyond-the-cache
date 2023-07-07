@@ -11,9 +11,11 @@
   "longitude": -86.54302,
   "location": "-86.54302,30.62555",
   "location_details": "Approx. 6 or 7 miles South of Crestview Florida on Hwy 85 on the West shoulder, then again on the East shoulder. Take I-10 to the Hwy 85 exit and drive South 7 or 8 miles.",
-  "temperature_high": 64.38,
-  "temperature_mid": 62.185,
-  "temperature_low": 59.99,
+  "temperature": {
+    "high": 64.38,
+    "mid": 62.185,
+    "low": 59.99
+  },
   "dew_point": 38.39,
   "humidity": 0.49,
   "cloud_cover": 0.86,

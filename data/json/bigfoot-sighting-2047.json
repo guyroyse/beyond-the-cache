@@ -11,9 +11,11 @@
   "longitude": -121.3314,
   "location": "-121.3314,48.2681",
   "location_details": "Off Hwy 530, between Darrington and Rockport, turn east on FR26. This road follows the Suiattle River. R11E, T32N, Sec 13.",
-  "temperature_high": 54.64,
-  "temperature_mid": 51.295,
-  "temperature_low": 47.95,
+  "temperature": {
+    "high": 54.64,
+    "mid": 51.295,
+    "low": 47.95
+  },
   "dew_point": 42.7,
   "humidity": 0.78,
   "cloud_cover": 0.89,

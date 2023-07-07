@@ -11,9 +11,11 @@
   "longitude": -80.5158,
   "location": "-80.5158,25.4817",
   "location_details": "US 27",
-  "temperature_high": 78,
-  "temperature_mid": 71,
-  "temperature_low": 64,
+  "temperature": {
+    "high": 78,
+    "mid": 71,
+    "low": 64
+  },
   "dew_point": 58.39,
   "humidity": 0.66,
   "cloud_cover": 0.35,

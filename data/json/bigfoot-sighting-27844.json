@@ -11,9 +11,11 @@
   "longitude": -118.3302,
   "location": "-118.3302,35.12931",
   "location_details": "You take 58 East from Tehachapi and exit on Sand Canyon Road. You go for about a mile up Sand Canyon Rd. and then turn left off of this road and onto this unmarked dirt road for about 1/10 of a mile, or until you get to the area where people bring stuff out to shoot for fun. We hiked north east from that area, into the hills.",
-  "temperature_high": 70.54,
-  "temperature_mid": 60.285,
-  "temperature_low": 50.03,
+  "temperature": {
+    "high": 70.54,
+    "mid": 60.285,
+    "low": 50.03
+  },
   "dew_point": 41.03,
   "humidity": 0.48,
   "cloud_cover": 0.19,

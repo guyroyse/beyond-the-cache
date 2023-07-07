@@ -11,9 +11,11 @@
   "longitude": -121.8668,
   "location": "-121.8668,48.35552",
   "location_details": "East side of Big Lake (town), Walker Valley Off Road Vehicle Park.",
-  "temperature_high": 67.68,
-  "temperature_mid": 58.53,
-  "temperature_low": 49.38,
+  "temperature": {
+    "high": 67.68,
+    "mid": 58.53,
+    "low": 49.38
+  },
   "dew_point": 47.19,
   "humidity": 0.71,
   "cloud_cover": 0.39,

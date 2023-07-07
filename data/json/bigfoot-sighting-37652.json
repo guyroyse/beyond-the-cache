@@ -11,9 +11,11 @@
   "longitude": -86.29,
   "location": "-86.29,43.5345",
   "location_details": "It was a mixed deciduous forest with a swam/wetlands near by. We were camping in an open grassy area where there used to be a house long time ago.",
-  "temperature_high": 71.77,
-  "temperature_mid": 67.165,
-  "temperature_low": 62.56,
+  "temperature": {
+    "high": 71.77,
+    "mid": 67.165,
+    "low": 62.56
+  },
   "dew_point": 56.46,
   "humidity": 0.73,
   "cloud_cover": 0.55,

@@ -11,9 +11,11 @@
   "longitude": -80.5621,
   "location": "-80.5621,39.6723",
   "location_details": "There is a X-mas tree nursery before the entrance and only one road in, one road out.",
-  "temperature_high": 57.77,
-  "temperature_mid": 55.57,
-  "temperature_low": 53.37,
+  "temperature": {
+    "high": 57.77,
+    "mid": 55.57,
+    "low": 53.37
+  },
   "dew_point": 48.47,
   "humidity": 0.85,
   "cloud_cover": 0.94,

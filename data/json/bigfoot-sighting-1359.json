@@ -11,9 +11,11 @@
   "longitude": -104.9743,
   "location": "-104.9743,38.8993",
   "location_details": "State Highway 24; 6 miles west of Manitou Springs, Colorado",
-  "temperature_high": 46.83,
-  "temperature_mid": 36.735,
-  "temperature_low": 26.64,
+  "temperature": {
+    "high": 46.83,
+    "mid": 36.735,
+    "low": 26.64
+  },
   "dew_point": 23.99,
   "humidity": 0.57,
   "cloud_cover": 0.28,

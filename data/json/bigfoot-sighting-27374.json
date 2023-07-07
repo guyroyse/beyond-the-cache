@@ -11,9 +11,11 @@
   "longitude": -89.3211,
   "location": "-89.3211,41.2285",
   "location_details": "Two miles south of Hennepin on Hennepin Farms Rd.",
-  "temperature_high": 36.06,
-  "temperature_mid": 35.81,
-  "temperature_low": 35.56,
+  "temperature": {
+    "high": 36.06,
+    "mid": 35.81,
+    "low": 35.56
+  },
   "dew_point": 31.29,
   "humidity": 0.92,
   "cloud_cover": 0.78,

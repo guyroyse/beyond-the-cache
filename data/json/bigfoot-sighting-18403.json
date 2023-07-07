@@ -11,9 +11,11 @@
   "longitude": -120.0416,
   "location": "-120.0416,38.20835",
   "location_details": "Already posted....left turn on old strawberry road. Pass a water tower on the left a turn or two more down the road. There are some walking sticks (I figure) leaning against a large tree right where I parked (left side of the road)...they were there last week when I was by the area as well so they are probably still there.",
-  "temperature_high": 65.7,
-  "temperature_mid": 55.535,
-  "temperature_low": 45.37,
+  "temperature": {
+    "high": 65.7,
+    "mid": 55.535,
+    "low": 45.37
+  },
   "dew_point": 43.62,
   "humidity": 0.68,
   "cloud_cover": 0.17,

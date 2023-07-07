@@ -11,9 +11,11 @@
   "longitude": -82.454,
   "location": "-82.454,27.099",
   "location_details": "Sarasoto County built a doctors office or dentist office there in front of pond about a year after.",
-  "temperature_high": 86.35,
-  "temperature_mid": 79.93,
-  "temperature_low": 73.51,
+  "temperature": {
+    "high": 86.35,
+    "mid": 79.93,
+    "low": 73.51
+  },
   "dew_point": 72.21,
   "humidity": 0.81,
   "cloud_cover": 0.65,

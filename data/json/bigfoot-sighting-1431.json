@@ -11,9 +11,11 @@
   "longitude": -98.03083,
   "location": "-98.03083,29.57444",
   "location_details": "The camping area was called the Lazy L&L and the name of the road is called River rd. The Guadalupe River area.",
-  "temperature_high": 90.51,
-  "temperature_mid": 82.9,
-  "temperature_low": 75.29,
+  "temperature": {
+    "high": 90.51,
+    "mid": 82.9,
+    "low": 75.29
+  },
   "dew_point": 71.81,
   "humidity": 0.72,
   "cloud_cover": 0.62,

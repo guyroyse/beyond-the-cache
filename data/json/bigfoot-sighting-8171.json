@@ -11,9 +11,11 @@
   "longitude": -86.64066,
   "location": "-86.64066,33.3674",
   "location_details": "Shelby Co. Road 43 north, off State Hwy 280. After approximately 1/4 mile, there is a man made lake on right, with houses on left and up behind lake.",
-  "temperature_high": 88.07,
-  "temperature_mid": 78.225,
-  "temperature_low": 68.38,
+  "temperature": {
+    "high": 88.07,
+    "mid": 78.225,
+    "low": 68.38
+  },
   "dew_point": 60.03,
   "humidity": 0.63,
   "cloud_cover": 0.17,

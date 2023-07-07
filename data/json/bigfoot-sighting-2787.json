@@ -11,9 +11,11 @@
   "longitude": -87.73236,
   "location": "-87.73236,46.61183",
   "location_details": "17 M north of Ishpeming, off Deer Lake Road turning R after Steel bridge on Big Dead river",
-  "temperature_high": 73.12,
-  "temperature_mid": 64.535,
-  "temperature_low": 55.95,
+  "temperature": {
+    "high": 73.12,
+    "mid": 64.535,
+    "low": 55.95
+  },
   "dew_point": 49.71,
   "humidity": 0.58,
   "cloud_cover": 0.22,

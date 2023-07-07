@@ -11,9 +11,11 @@
   "longitude": -83.49205,
   "location": "-83.49205,37.2731",
   "location_details": "Coal Harbor Hill, Perry County, Kentucky, USA",
-  "temperature_high": 84.19,
-  "temperature_mid": 77.665,
-  "temperature_low": 71.14,
+  "temperature": {
+    "high": 84.19,
+    "mid": 77.665,
+    "low": 71.14
+  },
   "dew_point": 69.95,
   "humidity": 0.82,
   "cloud_cover": 0.93,

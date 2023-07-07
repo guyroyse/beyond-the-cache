@@ -1,0 +1,35 @@
+{
+  "reportId": "16303",
+  "title": "Daylight sighting by motorist near Everglades City, off Turner River Road.",
+  "date": "2001-10-15",
+  "timestamp": 1003104000,
+  "observed": "I was headed west down the easement road off Turner road. I came around a turn and saw what I assumed was a monkey or an ape. It sat on all fours with its rear end down and its front end higher, kind of like a gorilla. It ran, then stopped and looked at me for a few seconds, then ran away. It ran in the same manner it was setting, on all fours with the front end highest. It never stood on its hind legs. The rear legs definitely seemed shorter than the front. It was dark brown in color and covered in hair. The hair seemed to be short. On all fours it stood about 21/2 or three feet tall.",
+  "classification": "Class A",
+  "county": "Collier",
+  "state": "Florida",
+  "latitude": 26.0079,
+  "longitude": -81.22285,
+  "location": {
+    "longitude": -81.22285,
+    "latitude": 26.0079
+  },
+  "location_details": "Off Turner Road, east side.",
+  "temperature": {
+    "high": 84.48,
+    "mid": 79.865,
+    "low": 75.25
+  },
+  "dew_point": 74.21,
+  "humidity": 0.84,
+  "cloud_cover": 0.49,
+  "moon_phase": 0.96,
+  "precip_intensity": 0.0066,
+  "precip_probability": 0.66,
+  "precip_type": "rain",
+  "pressure": 1016.07,
+  "summary": "Rain in the afternoon.",
+  "uv_index": 5,
+  "visibility": 9.11,
+  "wind_bearing": 74,
+  "wind_speed": 3.86
+}

@@ -11,9 +11,11 @@
   "longitude": -110.9325,
   "location": "-110.9325,40.77988",
   "location_details": "We hiked from the Holiday Park area to the upper reaches of the Weber River drainage of the Uinta Mountains.  The moaning sounds were heard close to Round Lake on the Wasatch-Cache National Forest.",
-  "temperature_high": 86.93,
-  "temperature_mid": 73.98,
-  "temperature_low": 61.03,
+  "temperature": {
+    "high": 86.93,
+    "mid": 73.98,
+    "low": 61.03
+  },
   "dew_point": 39.54,
   "humidity": 0.3,
   "cloud_cover": 0.27,

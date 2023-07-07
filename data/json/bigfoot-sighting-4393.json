@@ -11,9 +11,11 @@
   "longitude": -83.412,
   "location": "-83.412,30.67",
   "location_details": "This occured on Clyattville Road between Rocky Ford Rd. and Route 53",
-  "temperature_high": 86.25,
-  "temperature_mid": 78.025,
-  "temperature_low": 69.8,
+  "temperature": {
+    "high": 86.25,
+    "mid": 78.025,
+    "low": 69.8
+  },
   "dew_point": 67.73,
   "humidity": 0.76,
   "cloud_cover": 0.4,

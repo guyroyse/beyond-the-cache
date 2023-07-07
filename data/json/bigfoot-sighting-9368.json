@@ -11,9 +11,11 @@
   "longitude": -121.5027,
   "location": "-121.5027,39.55249",
   "location_details": "Take Hwy 70 North from Marysville, CA approx. 30 miles to Oroville. Take the Oro-Dam Blvd. exit East through Oroville and follow the signs to Lake Oroville.",
-  "temperature_high": 81.3,
-  "temperature_mid": 66.195,
-  "temperature_low": 51.09,
+  "temperature": {
+    "high": 81.3,
+    "mid": 66.195,
+    "low": 51.09
+  },
   "dew_point": 37.29,
   "humidity": 0.41,
   "cloud_cover": 0.01,

@@ -11,9 +11,11 @@
   "longitude": -88.41175,
   "location": "-88.41175,36.8207",
   "location_details": "Go west of Benton, Ky on Mayfield Hwy, also called Hwy 58, about 2 miles from the new 4 lane Hwy 641, turn right on Houser Rd, go another mile and turn left on Cole Cemetery Rd.  The incident happened within 1/2 mile up rd. on the right hand side at a residence with a log cabin.",
-  "temperature_high": 56.88,
-  "temperature_mid": 52.75,
-  "temperature_low": 48.62,
+  "temperature": {
+    "high": 56.88,
+    "mid": 52.75,
+    "low": 48.62
+  },
   "dew_point": 44.46,
   "humidity": 0.86,
   "cloud_cover": 0.74,

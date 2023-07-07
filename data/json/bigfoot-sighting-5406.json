@@ -11,9 +11,11 @@
   "longitude": -81.22745,
   "location": "-81.22745,41.3235",
   "location_details": "Off of State Route 44 in northern Portage County.",
-  "temperature_high": 71.71,
-  "temperature_mid": 63.105,
-  "temperature_low": 54.5,
+  "temperature": {
+    "high": 71.71,
+    "mid": 63.105,
+    "low": 54.5
+  },
   "dew_point": 57.93,
   "humidity": 0.86,
   "cloud_cover": 0.72,

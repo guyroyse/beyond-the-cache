@@ -11,9 +11,11 @@
   "longitude": -82.48093,
   "location": "-82.48093,37.42701",
   "location_details": "from Pikeville travel US460 east straight stretch one mile past Chloe redlight",
-  "temperature_high": 77.74,
-  "temperature_mid": 69.53,
-  "temperature_low": 61.32,
+  "temperature": {
+    "high": 77.74,
+    "mid": 69.53,
+    "low": 61.32
+  },
   "dew_point": 34.16,
   "humidity": 0.39,
   "cloud_cover": 0.31,

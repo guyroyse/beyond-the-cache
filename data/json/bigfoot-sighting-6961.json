@@ -11,9 +11,11 @@
   "longitude": -123.8692,
   "location": "-123.8692,40.26639",
   "location_details": "Take the Myers Flat loop road to the river.  There was an old logging bridge about half way around. The sighting was up that road about two miles.",
-  "temperature_high": 81.62,
-  "temperature_mid": 68.265,
-  "temperature_low": 54.91,
+  "temperature": {
+    "high": 81.62,
+    "mid": 68.265,
+    "low": 54.91
+  },
   "dew_point": 50.34,
   "humidity": 0.57,
   "cloud_cover": 0.11,

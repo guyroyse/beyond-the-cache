@@ -11,9 +11,11 @@
   "longitude": -85.16235,
   "location": "-85.16235,32.31435",
   "location_details": "1981--Bank of the Chattahoochee River 1982--Highway 431N.  Roughly, the sighting occurred at Michael Tigner Dr., about 3-4 miles North of Seale, AL.  Shouldn't be too hard to find, since it was the only \"yield\" or \"slippery when wet\" sign on the right-hand side (heading North)",
-  "temperature_high": 87.17,
-  "temperature_mid": 78.66,
-  "temperature_low": 70.15,
+  "temperature": {
+    "high": 87.17,
+    "mid": 78.66,
+    "low": 70.15
+  },
   "dew_point": 70.72,
   "humidity": 0.89,
   "cloud_cover": 0.72,

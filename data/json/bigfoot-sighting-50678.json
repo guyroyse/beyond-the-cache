@@ -11,9 +11,11 @@
   "longitude": -122.6755,
   "location": "-122.6755,46.958",
   "location_details": "FT. Lewis",
-  "temperature_high": 67.32,
-  "temperature_mid": 58.015,
-  "temperature_low": 48.71,
+  "temperature": {
+    "high": 67.32,
+    "mid": 58.015,
+    "low": 48.71
+  },
   "dew_point": 47.44,
   "humidity": 0.72,
   "cloud_cover": 0.44,

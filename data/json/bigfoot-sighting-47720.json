@@ -11,9 +11,11 @@
   "longitude": -87.7714,
   "location": "-87.7714,41.7627",
   "location_details": "North of 73rd Street and Mason Ave and south of the Belt Railroad of Chicago. Trail between both properties.",
-  "temperature_high": 40.54,
-  "temperature_mid": 37.04,
-  "temperature_low": 33.54,
+  "temperature": {
+    "high": 40.54,
+    "mid": 37.04,
+    "low": 33.54
+  },
   "dew_point": 28.43,
   "humidity": 0.83,
   "cloud_cover": 0.21,

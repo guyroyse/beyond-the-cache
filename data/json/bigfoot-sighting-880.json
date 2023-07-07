@@ -11,9 +11,11 @@
   "longitude": -105.0652,
   "location": "-105.0652,39.21338",
   "location_details": "Starting in Colorado Springs, go west on I-24 to Woodland Park. Turn right at the light before the McDonalds, go to the Pikes Peak National Forest and continue north on Rampart Range Road until you intersect Forest Road 348. Turn left down FR 348 (Long Hollow) for about a mile untill the road turns white with quartz (use the right off-shoot road) to get to the quartz mound, drive up the right side to the top of the mound park. The top of the mound is like a circle about 60 feet in diameter. The figure was opposite the road entrance about 20 feet into the tree line. Top of quartz outcrop/mound N 39 12.803' W 105 03.878' (wgs 84 on a garmin gps 38) Made reading on a previous visit, this happened about the 6th time I have visited this site.",
-  "temperature_high": 83.64,
-  "temperature_mid": 69.125,
-  "temperature_low": 54.61,
+  "temperature": {
+    "high": 83.64,
+    "mid": 69.125,
+    "low": 54.61
+  },
   "dew_point": 35.06,
   "humidity": 0.38,
   "cloud_cover": 0.3,

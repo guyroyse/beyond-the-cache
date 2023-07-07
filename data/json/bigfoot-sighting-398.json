@@ -11,9 +11,11 @@
   "longitude": -85.12705,
   "location": "-85.12705,33.26885",
   "location_details": "Yellow Jacket Creek..... there is a little store at the entrance and it is about 1 to 2 miles to the lake... Bud could tell you more about the road numbers and names.  I can get Bud's phone number for you to talk to him. You can call me if you'd like. Just let me know. I have tried off and on for the last few years to get some one and tell them what we saw, with no luck.  I tried to call a 1-800 # and it was no longer in service and had to let it go. But it DID happen and I know what I saw. There is also an elderly man in Tucker Ga. who as a young adult was hunting around Yellow Jacket Creek and he made his sister bring him to me, an hour's ride, so we could talk about it. Said no one belived him and he was afraid to tell it. As we talked he started to cry. He had to be 80 at this time but said he remembered it in detail and was so glad that someone else had seen it, that he KNEW he wasn't crazy. This stays on my mind and I hope to hear from someone. Thank you.",
-  "temperature_high": 47.01,
-  "temperature_mid": 44.67,
-  "temperature_low": 42.33,
+  "temperature": {
+    "high": 47.01,
+    "mid": 44.67,
+    "low": 42.33
+  },
   "dew_point": 35.17,
   "humidity": 0.82,
   "cloud_cover": 0.73,

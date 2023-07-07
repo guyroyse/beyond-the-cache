@@ -11,9 +11,11 @@
   "longitude": -89.3595,
   "location": "-89.3595,37.745",
   "location_details": "Jackson County  Murphysboro Il. Near Carbondale, 1 1/2 hour east of St. Louis Missouri",
-  "temperature_high": 43.65,
-  "temperature_mid": 39.075,
-  "temperature_low": 34.5,
+  "temperature": {
+    "high": 43.65,
+    "mid": 39.075,
+    "low": 34.5
+  },
   "dew_point": 39.84,
   "humidity": 0.89,
   "cloud_cover": 0.97,

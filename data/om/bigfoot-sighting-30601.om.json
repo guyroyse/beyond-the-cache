@@ -1,0 +1,34 @@
+{
+  "reportId": "30601",
+  "title": "Possible vocalization and footprint found near Bachelors Grove Cemetery",
+  "date": "2011-09-07",
+  "timestamp": 1315353600,
+  "observed": "We went to check out Bachelor's Grove yesterday. We saw the pyramid and the arched tree that was posted in . We also heard a siren, or something, exactly like what was posted in that same report. Not sure what it was, but it came from the direction of the road. I found a footprint with a broad heal and wide ball, deeply impressed into muddy soil. Other, less distinct heal prints were seen in an apparent trackway. I think it's about 15.5 inches long. The print was old, and there was some debris in it. Looks like there may have been some drag as well, but it was rather clear that there were toes. I should say prints, as I found 2 or 3 more heel impressions back from it, with about a 7 foot stride, but they were hard to make out, as other stuff had torn up the trail, so I didn't photograph them. I also could make out impressions in the dirt on the trail going in, that looked to have been made by a foot of about the same size. These were barely noticeable in the dirt, but there were three, with about a 7 foot stride. I would venture to say less than a month old, maybe only two weeks. That trail is very packed, and very traveled, so the must have been made just after a good rain. We did occasionally hear what we thought might have been voices. Really quiet, like someone was mumbling off in the brush. Never saw anything living, apart from squirrels, deer, birds, and fish.",
+  "classification": "Class B",
+  "county": "Cook",
+  "state": "Illinois",
+  "latitude": 41.63243,
+  "longitude": -87.76622,
+  "location": {
+    "longitude": -87.76622,
+    "latitude": 41.63243
+  },
+  "location_details": "The deep prints were found on the trail which follows the abandoned section of the Midlothian Turnpike past Bachelors Grove Cemetery, just beyond the abandoned settlement of Bachelors Grove.  The foot impressions were found at the head of the trail, near 143rd Street, just before the gate.",
+  "temperature": {
+    "high": 67.81,
+    "mid": 63.79,
+    "low": 59.77
+  },
+  "dew_point": 48.24,
+  "humidity": 0.63,
+  "cloud_cover": 0.27,
+  "moon_phase": 0.35,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1020.98,
+  "summary": "Breezy until evening and partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 6,
+  "visibility": 9.97,
+  "wind_bearing": 15,
+  "wind_speed": 11.68
+}

@@ -11,9 +11,11 @@
   "longitude": -123.8042,
   "location": "-123.8042,39.44583",
   "location_details": "The forest above Noyo Harbor.",
-  "temperature_high": 70.78,
-  "temperature_mid": 61.955,
-  "temperature_low": 53.13,
+  "temperature": {
+    "high": 70.78,
+    "mid": 61.955,
+    "low": 53.13
+  },
   "dew_point": 38.39,
   "humidity": 0.47,
   "cloud_cover": 0.47,

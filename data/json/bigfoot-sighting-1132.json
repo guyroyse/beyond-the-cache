@@ -11,9 +11,11 @@
   "longitude": -91.419,
   "location": "-91.419,39.1405",
   "location_details": "Near Middletown on a county road North of blacktop A.",
-  "temperature_high": 83.22,
-  "temperature_mid": 71.75,
-  "temperature_low": 60.28,
+  "temperature": {
+    "high": 83.22,
+    "mid": 71.75,
+    "low": 60.28
+  },
   "dew_point": 56.32,
   "humidity": 0.56,
   "cloud_cover": 0.84,

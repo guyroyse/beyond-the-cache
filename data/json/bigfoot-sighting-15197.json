@@ -11,9 +11,11 @@
   "longitude": -120.1862,
   "location": "-120.1862,38.23475",
   "location_details": "THE SOUNDS WERE HEARD AT LAKE MORAN. [Specifics and coordinates removed from submission at the request of the witnesses]",
-  "temperature_high": 89.78,
-  "temperature_mid": 73.935,
-  "temperature_low": 58.09,
+  "temperature": {
+    "high": 89.78,
+    "mid": 73.935,
+    "low": 58.09
+  },
   "dew_point": 48.2,
   "humidity": 0.44,
   "cloud_cover": 0.03,

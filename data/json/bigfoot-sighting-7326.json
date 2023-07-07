@@ -11,9 +11,11 @@
   "longitude": -89.3808,
   "location": "-89.3808,35.0055",
   "location_details": "10 miles south of middleton ,tn",
-  "temperature_high": 82.05,
-  "temperature_mid": 68.66,
-  "temperature_low": 55.27,
+  "temperature": {
+    "high": 82.05,
+    "mid": 68.66,
+    "low": 55.27
+  },
   "dew_point": 58.59,
   "humidity": 0.75,
   "cloud_cover": 0.12,

@@ -11,9 +11,11 @@
   "longitude": -122.69,
   "location": "-122.69,46.96515",
   "location_details": "The incident took place at Fort Lewis, Washington in the Rainier Training.  The location is a wooded area between two unpaved roads in grid square 2401 about 2 kms north of Flander Lake.",
-  "temperature_high": 62.82,
-  "temperature_mid": 55.01,
-  "temperature_low": 47.2,
+  "temperature": {
+    "high": 62.82,
+    "mid": 55.01,
+    "low": 47.2
+  },
   "dew_point": 49.14,
   "humidity": 0.83,
   "cloud_cover": 0.55,

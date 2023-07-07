@@ -11,9 +11,11 @@
   "longitude": -97.1953,
   "location": "-97.1953,37.3444",
   "location_details": "Not sure if it was in Sedgwick or Sumner County.  I'm pretty sure that I could find the location again even though it has been several years.",
-  "temperature_high": 60.17,
-  "temperature_mid": 47.9,
-  "temperature_low": 35.63,
+  "temperature": {
+    "high": 60.17,
+    "mid": 47.9,
+    "low": 35.63
+  },
   "dew_point": 42.63,
   "humidity": 0.82,
   "cloud_cover": 0.54,

@@ -11,9 +11,11 @@
   "longitude": -86.5045,
   "location": "-86.5045,34.32279",
   "location_details": "In the valley off of Greenbrier Cove Rd. close to the Tennessee river",
-  "temperature_high": 82.92,
-  "temperature_mid": 74.32,
-  "temperature_low": 65.72,
+  "temperature": {
+    "high": 82.92,
+    "mid": 74.32,
+    "low": 65.72
+  },
   "dew_point": 67.35,
   "humidity": 0.82,
   "cloud_cover": 0.18,

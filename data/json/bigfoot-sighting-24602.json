@@ -11,9 +11,11 @@
   "longitude": -111.1339,
   "location": "-111.1339,39.58375",
   "location_details": "Nuckwoodward Canyon Road at the base of Second Canyon.",
-  "temperature_high": 87.77,
-  "temperature_mid": 72.31,
-  "temperature_low": 56.85,
+  "temperature": {
+    "high": 87.77,
+    "mid": 72.31,
+    "low": 56.85
+  },
   "dew_point": 40.79,
   "humidity": 0.36,
   "moon_phase": 0.28,

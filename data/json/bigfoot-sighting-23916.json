@@ -11,9 +11,11 @@
   "longitude": -87.2352,
   "location": "-87.2352,35.0228",
   "location_details": "From Hwy 43, turn onto Rabbit Trail Rd. continue about 30 miles to Blooming Grove Rd., turn left and continue to Revilo Rd. Stay left until you reach Mt. Zion Rd., turn right and continue until you cross the low water bridge and you arrive at the Mt. Zion church.",
-  "temperature_high": 87.14,
-  "temperature_mid": 78.12,
-  "temperature_low": 69.1,
+  "temperature": {
+    "high": 87.14,
+    "mid": 78.12,
+    "low": 69.1
+  },
   "dew_point": 66.73,
   "humidity": 0.72,
   "cloud_cover": 0.25,

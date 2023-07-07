@@ -11,9 +11,11 @@
   "longitude": -90.0775,
   "location": "-90.0775,39.3047",
   "location_details": "From Carlinville head west on Illinois Route 108.  Just east of Hagaman turnoff is where I sighted it.",
-  "temperature_high": 36.08,
-  "temperature_mid": 34.005,
-  "temperature_low": 31.93,
+  "temperature": {
+    "high": 36.08,
+    "mid": 34.005,
+    "low": 31.93
+  },
   "dew_point": 27.62,
   "humidity": 0.82,
   "cloud_cover": 0.22,

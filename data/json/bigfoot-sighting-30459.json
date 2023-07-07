@@ -11,9 +11,11 @@
   "longitude": -119.8428,
   "location": "-119.8428,48.6584",
   "location_details": "Easy to find at the top of the road from Conconully, WA heading west. Campground listed on many maps.",
-  "temperature_high": 81.14,
-  "temperature_mid": 68.165,
-  "temperature_low": 55.19,
+  "temperature": {
+    "high": 81.14,
+    "mid": 68.165,
+    "low": 55.19
+  },
   "dew_point": 40.87,
   "humidity": 0.44,
   "cloud_cover": 0.08,

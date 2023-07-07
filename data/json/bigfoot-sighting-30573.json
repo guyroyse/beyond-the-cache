@@ -11,9 +11,11 @@
   "longitude": -94.16049,
   "location": "-94.16049,39.04035",
   "location_details": "From the curve of Old Pink Hill Road go south east through an open grassy feild to the tree line along Sni-a-Bar creek. It was in the trees along the creek. It is usually wet in that area. Crops of soy beans were on the west side of the dike where this thing came from. Some what of an open area along the creek.",
-  "temperature_high": 52.47,
-  "temperature_mid": 42.545,
-  "temperature_low": 32.62,
+  "temperature": {
+    "high": 52.47,
+    "mid": 42.545,
+    "low": 32.62
+  },
   "dew_point": 24.54,
   "humidity": 0.56,
   "cloud_cover": 0.32,

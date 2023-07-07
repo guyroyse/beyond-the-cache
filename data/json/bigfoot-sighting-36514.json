@@ -11,9 +11,11 @@
   "longitude": -90.84215,
   "location": "-90.84215,42.50969",
   "location_details": "Public access area, secluded, running water, and wooded",
-  "temperature_high": 56.99,
-  "temperature_mid": 47.665,
-  "temperature_low": 38.34,
+  "temperature": {
+    "high": 56.99,
+    "mid": 47.665,
+    "low": 38.34
+  },
   "dew_point": 44.53,
   "humidity": 0.8,
   "cloud_cover": 0.65,

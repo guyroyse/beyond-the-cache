@@ -11,9 +11,11 @@
   "longitude": -87.86476,
   "location": "-87.86476,41.63039",
   "location_details": "143rd west of La Grange Rd in Orland Park off forest preserve.",
-  "temperature_high": 82.55,
-  "temperature_mid": 68.415,
-  "temperature_low": 54.28,
+  "temperature": {
+    "high": 82.55,
+    "mid": 68.415,
+    "low": 54.28
+  },
   "dew_point": 47.32,
   "humidity": 0.42,
   "cloud_cover": 0.2,

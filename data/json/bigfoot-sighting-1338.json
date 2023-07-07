@@ -11,9 +11,11 @@
   "longitude": -90.71574,
   "location": "-90.71574,31.1603",
   "location_details": "All encounters occured in Amite County, Mississippi, in a wooded area about one mile south of Hwy. 23. This area, known as East Fork Community is about 15 miles west of McCombe, MS",
-  "temperature_high": 45.33,
-  "temperature_mid": 43.095,
-  "temperature_low": 40.86,
+  "temperature": {
+    "high": 45.33,
+    "mid": 43.095,
+    "low": 40.86
+  },
   "dew_point": 38.95,
   "humidity": 0.84,
   "cloud_cover": 0.99,

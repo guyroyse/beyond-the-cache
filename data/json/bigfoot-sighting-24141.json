@@ -11,9 +11,11 @@
   "longitude": -81.56232,
   "location": "-81.56232,40.10801",
   "location_details": "Not quite to Cambridge, on rt 77 south,the part of the highway i was on did have highway lights.",
-  "temperature_high": 69.66,
-  "temperature_mid": 62.07,
-  "temperature_low": 54.48,
+  "temperature": {
+    "high": 69.66,
+    "mid": 62.07,
+    "low": 54.48
+  },
   "dew_point": 53.21,
   "humidity": 0.79,
   "cloud_cover": 0.69,

@@ -11,9 +11,11 @@
   "longitude": -90.444,
   "location": "-90.444,45.775",
   "location_details": "1 mile north of Lugerville grade road and 1/2 mile east of rock creek road, deep woods.",
-  "temperature_high": 77.12,
-  "temperature_mid": 64.92,
-  "temperature_low": 52.72,
+  "temperature": {
+    "high": 77.12,
+    "mid": 64.92,
+    "low": 52.72
+  },
   "dew_point": 57.21,
   "humidity": 0.7,
   "cloud_cover": 0.18,

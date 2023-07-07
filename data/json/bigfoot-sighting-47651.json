@@ -11,9 +11,11 @@
   "longitude": -94.4955,
   "location": "-94.4955,39.3985",
   "location_details": "north of Edwardsville south of I 70",
-  "temperature_high": 30.57,
-  "temperature_mid": 29.405,
-  "temperature_low": 28.24,
+  "temperature": {
+    "high": 30.57,
+    "mid": 29.405,
+    "low": 28.24
+  },
   "dew_point": 20.14,
   "humidity": 0.74,
   "cloud_cover": 0.34,

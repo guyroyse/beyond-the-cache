@@ -1,0 +1,35 @@
+{
+  "reportId": "1327",
+  "title": "A woman and her daughter report being followed by a large animal as they walked along a dark country lane near their home",
+  "date": "1998-05-24",
+  "timestamp": 895968000,
+  "observed": "Letter from Kayleen Stoughton. About 12 years ago my daughter and I had an experience out here in the country that I'm sure I will never forget. It happened one evening about midsummer, of what I think was 1984. My husband worked 2nd shift at Boeing, so my daughter and I were alone nearly every evening. It was our custom to walk up the little dirt road out in front of our house to go visit my Dad, at about sundown. We would stay about 30 min., and still make it home before dark. This one particular evening we stayed much longer than usual. When we left that night, it was nearly total darkness along the little road. From the hedgerow which runs alongside our road, we started hearing footsteps. With each footstep we heard the crushing of leaves and twigs being broken. We stopped several times to listen, but when we did the footsteps stopped. I had the distinct feeling that we were being tracked. It scared me so badly that when we got to our neighbor’s vacant lot we cut across it and headed toward our home which sets way back off the road in a bunch of trees. I was constantly looking behind and even in front of me in all directions for some type of movement. I saw nothing. When we got up to our home I was quite relieved, so we sat down in our swing in the front yard. We had only been there for a moment, when I heard the most hideous, frightening growl that I ever heard in my life. My daughter turned to me and said \"Momma did you hear that.\" Before I could answer her, it had shifted position and was now coming from directly behind us. It was totally guttural. I had never heard anything like that out here before. I told my daughter that we were going to slowly get up off the swing and slowly walk to the front door of the house. For some reason, I do not understand why, we were allowed to do this. When we got inside, I immediately locked all the doors. I called the sheriff and asked if there were any reports of animals that had escaped from the zoo or a circus. He was skeptical of me and said no. For many years now I have wondered what the thing was.",
+  "classification": "Class B",
+  "county": "Sedgwick",
+  "state": "Kansas",
+  "latitude": 37.7715,
+  "longitude": -97.424,
+  "location": {
+    "longitude": -97.424,
+    "latitude": 37.7715
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 84.24,
+    "mid": 71.845,
+    "low": 59.45
+  },
+  "dew_point": 58.2,
+  "humidity": 0.69,
+  "cloud_cover": 0.32,
+  "moon_phase": 0.96,
+  "precip_intensity": 0.008,
+  "precip_probability": 0.95,
+  "precip_type": "rain",
+  "pressure": 1011.46,
+  "summary": "Rain starting in the evening.",
+  "uv_index": 9,
+  "visibility": 7.26,
+  "wind_bearing": 90,
+  "wind_speed": 7.53
+}

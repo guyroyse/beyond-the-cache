@@ -11,9 +11,11 @@
   "longitude": -117.1153,
   "location": "-117.1153,47.92528",
   "location_details": "East side of Mount Spokane above the timber line (NE of Spokane Washington)",
-  "temperature_high": 33.84,
-  "temperature_mid": 32.185,
-  "temperature_low": 30.53,
+  "temperature": {
+    "high": 33.84,
+    "mid": 32.185,
+    "low": 30.53
+  },
   "dew_point": 26.36,
   "humidity": 0.87,
   "cloud_cover": 0.99,

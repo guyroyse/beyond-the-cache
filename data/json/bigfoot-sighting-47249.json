@@ -11,9 +11,11 @@
   "longitude": -90.4429,
   "location": "-90.4429,40.9474",
   "location_details": "This location is right past the Galesburg, Illinois Airport and Farm King on Old Highway 34 [Illinois Route 164] if you travel out West Main St. from Galesburg.  The animal was crossing from the south to north side of the road.",
-  "temperature_high": 17.06,
-  "temperature_mid": 7.68,
-  "temperature_low": -1.7,
+  "temperature": {
+    "high": 17.06,
+    "mid": 7.68,
+    "low": -1.7
+  },
   "dew_point": 8.97,
   "humidity": 0.76,
   "cloud_cover": 0.07,

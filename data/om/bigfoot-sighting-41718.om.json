@@ -1,0 +1,35 @@
+{
+  "reportId": "41718",
+  "title": "Motorcyclist has daylight sighting south of Kellerville",
+  "date": "2013-06-22",
+  "timestamp": 1371859200,
+  "observed": "My husband and I were on a motorcycle ride to Siloam Springs State Park. We were driving about 40 to 45 miles per hour on a blacktop coming down a hill when I thought I saw a burnt tree trunk ahead on my right.  As we got closer I noticed hair so I looked it up and down and what I was looking at really shocked me.  I could see his side view very clearly.  It had a human body larger than a man's and very muscular. It had dark reddish brown hair about 2 to 3 inches long all over except for the head and face which was grey and white and I could even see light flesh under it.  It was standing straight with arms down by its side I could even see its fingers. It was looking down at the ground and standing very still. The back of his head looked rounded, but from his side he had a pronounced brow area that slanted upward to the crown of his head. His head looked like it set directly on his shoulders, I didn't notice a neck.  His face didn't have much hair and his lips looked thin and wide. When we drove back by the spot where I saw it, about 20 minutes later, there was nothing there.",
+  "classification": "Class A",
+  "county": "Adams",
+  "state": "Illinois",
+  "latitude": 39.91682,
+  "longitude": -90.95499,
+  "location": {
+    "longitude": -90.95499,
+    "latitude": 39.91682
+  },
+  "location_details": "From county road 1200th to 2873rd E going south,  at the bottom of the first hill on an embankment on the west side of the road.",
+  "temperature": {
+    "high": 88.64,
+    "mid": 79.455,
+    "low": 70.27
+  },
+  "dew_point": 69.92,
+  "humidity": 0.71,
+  "cloud_cover": 0.05,
+  "moon_phase": 0.47,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.13,
+  "precip_type": "rain",
+  "pressure": 1015.68,
+  "summary": "Humid throughout the day.",
+  "uv_index": 11,
+  "visibility": 9.79,
+  "wind_bearing": 180,
+  "wind_speed": 8.8
+}

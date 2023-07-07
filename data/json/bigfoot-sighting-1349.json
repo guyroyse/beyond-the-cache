@@ -11,9 +11,11 @@
   "longitude": -106.3466,
   "location": "-106.3466,38.60124",
   "location_details": "Incident occured in Chaffee County Colorado in an area known as Middle Fork, about 14 to 17 miles west of Salida off Hwy 50. ",
-  "temperature_high": 45.53,
-  "temperature_mid": 32.55,
-  "temperature_low": 19.57,
+  "temperature": {
+    "high": 45.53,
+    "mid": 32.55,
+    "low": 19.57
+  },
   "dew_point": 16.52,
   "humidity": 0.47,
   "cloud_cover": 0.12,

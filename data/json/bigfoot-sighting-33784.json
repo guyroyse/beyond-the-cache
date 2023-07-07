@@ -11,9 +11,11 @@
   "longitude": -82.96643,
   "location": "-82.96643,30.13156",
   "location_details": "A major two-lane heading south probably southwest of Live Oak, FL.",
-  "temperature_high": 94.59,
-  "temperature_mid": 86.23,
-  "temperature_low": 77.87,
+  "temperature": {
+    "high": 94.59,
+    "mid": 86.23,
+    "low": 77.87
+  },
   "dew_point": 74.01,
   "humidity": 0.76,
   "cloud_cover": 0.34,

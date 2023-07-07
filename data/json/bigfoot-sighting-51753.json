@@ -11,9 +11,11 @@
   "longitude": -121.6785,
   "location": "-121.6785,47.6016",
   "location_details": "North Fork Snoqualmie River Road north of North Bend, WA.",
-  "temperature_high": 52.99,
-  "temperature_mid": 47.64,
-  "temperature_low": 42.29,
+  "temperature": {
+    "high": 52.99,
+    "mid": 47.64,
+    "low": 42.29
+  },
   "dew_point": 41.45,
   "humidity": 0.78,
   "cloud_cover": 0.22,

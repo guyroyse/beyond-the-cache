@@ -11,9 +11,11 @@
   "longitude": -122.1852,
   "location": "-122.1852,47.1772",
   "location_details": "South end of Lake Tapps",
-  "temperature_high": 55.79,
-  "temperature_mid": 52.395,
-  "temperature_low": 49,
+  "temperature": {
+    "high": 55.79,
+    "mid": 52.395,
+    "low": 49
+  },
   "dew_point": 47.09,
   "humidity": 0.88,
   "cloud_cover": 0.77,

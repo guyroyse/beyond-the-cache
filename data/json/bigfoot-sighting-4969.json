@@ -11,9 +11,11 @@
   "longitude": -81.3741,
   "location": "-81.3741,41.06499",
   "location_details": "Relatively undeveloped country setting. Near intersection of Sunnybrook Rd and Saxe Road.",
-  "temperature_high": 81.21,
-  "temperature_mid": 76.135,
-  "temperature_low": 71.06,
+  "temperature": {
+    "high": 81.21,
+    "mid": 76.135,
+    "low": 71.06
+  },
   "dew_point": 68.68,
   "humidity": 0.79,
   "cloud_cover": 0.87,

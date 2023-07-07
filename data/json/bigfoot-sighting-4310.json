@@ -11,9 +11,11 @@
   "longitude": -81.99847,
   "location": "-81.99847,40.35097",
   "location_details": "This took place near Warsaw, Ohio in Coshocton County, Ohio.",
-  "temperature_high": 61.15,
-  "temperature_mid": 58.19,
-  "temperature_low": 55.23,
+  "temperature": {
+    "high": 61.15,
+    "mid": 58.19,
+    "low": 55.23
+  },
   "dew_point": 53.43,
   "humidity": 0.91,
   "cloud_cover": 0.97,

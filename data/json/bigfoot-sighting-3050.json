@@ -11,9 +11,11 @@
   "longitude": -121.5835,
   "location": "-121.5835,45.3725",
   "location_details": "I need access to a map of oregon not available at the moment.  We were very near the boundary to the wildernss area in which I believe it was not legal to hunt at that time. Just off Hwy 30 I believe.",
-  "temperature_high": 70.66,
-  "temperature_mid": 53.47,
-  "temperature_low": 36.28,
+  "temperature": {
+    "high": 70.66,
+    "mid": 53.47,
+    "low": 36.28
+  },
   "dew_point": 28.54,
   "humidity": 0.41,
   "cloud_cover": 0.22,

@@ -11,9 +11,11 @@
   "longitude": -86.2011,
   "location": "-86.2011,35.9978",
   "location_details": "The location is in the north eastern part of Middle Tn. It's only half an hour to an hour away from the cumberland plateau area. It was in greenvale tn. in wilson co.   No further directions please",
-  "temperature_high": 49.82,
-  "temperature_mid": 42.51,
-  "temperature_low": 35.2,
+  "temperature": {
+    "high": 49.82,
+    "mid": 42.51,
+    "low": 35.2
+  },
   "dew_point": 23.74,
   "humidity": 0.42,
   "cloud_cover": 0.47,

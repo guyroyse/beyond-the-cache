@@ -11,9 +11,11 @@
   "longitude": -121.6738,
   "location": "-121.6738,48.86",
   "location_details": "Cross the river from the trail about 3 miles up and follow the game trail/ native path wasn't traveled by people wearing shoes. Some prints are people others are 3 or 4 times the scale. Could see how the people were trying to cover the sasquatch tracks (with their own track for comparison).",
-  "temperature_high": 50.89,
-  "temperature_mid": 42.41,
-  "temperature_low": 33.93,
+  "temperature": {
+    "high": 50.89,
+    "mid": 42.41,
+    "low": 33.93
+  },
   "dew_point": 34.51,
   "humidity": 0.79,
   "cloud_cover": 0.68,

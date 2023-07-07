@@ -11,9 +11,11 @@
   "longitude": -80.00272,
   "location": "-80.00272,35.31331",
   "location_details": "Woodrun Dutchmans creek trailhead, sparsely used atv trail conjoined there. I walked around near where the worn down \"town\" was and heard the knocks toward the left but the cry came from around the back side of the building.",
-  "temperature_high": 71.72,
-  "temperature_mid": 67.405,
-  "temperature_low": 63.09,
+  "temperature": {
+    "high": 71.72,
+    "mid": 67.405,
+    "low": 63.09
+  },
   "dew_point": 58.18,
   "humidity": 0.76,
   "cloud_cover": 0.18,

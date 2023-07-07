@@ -11,9 +11,11 @@
   "longitude": -97.03333,
   "location": "-97.03333,35.97389",
   "location_details": "IT IS SOUTH OF PERKINS ON RIVER ROAD OUT SIDE OF TOWN ON YOUR LEFT HAND SIDE.",
-  "temperature_high": 38.49,
-  "temperature_mid": 29.195,
-  "temperature_low": 19.9,
+  "temperature": {
+    "high": 38.49,
+    "mid": 29.195,
+    "low": 19.9
+  },
   "dew_point": 20.2,
   "humidity": 0.64,
   "cloud_cover": 0.13,

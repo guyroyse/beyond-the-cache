@@ -11,9 +11,11 @@
   "longitude": -88.95451,
   "location": "-88.95451,41.30374",
   "location_details": "js when u go over the bridge in ottawa. take rt.71 to starve rock.. after about i say 5 or more miles you will see off to the left a gravel road. and a sign for caitlin park..take that road . from then up thru to deer park school in them timbers you shouldnt have a problem finding him,",
-  "temperature_high": 34.39,
-  "temperature_mid": 32.425,
-  "temperature_low": 30.46,
+  "temperature": {
+    "high": 34.39,
+    "mid": 32.425,
+    "low": 30.46
+  },
   "dew_point": 17.33,
   "humidity": 0.73,
   "cloud_cover": 0.78,

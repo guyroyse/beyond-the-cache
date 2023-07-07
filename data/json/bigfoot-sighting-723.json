@@ -11,9 +11,11 @@
   "longitude": -82.50591,
   "location": "-82.50591,28.50665",
   "location_details": "Florida. Hernando county, USA  between Brooksville and what is now Spring Hill",
-  "temperature_high": 87.96,
-  "temperature_mid": 81.5,
-  "temperature_low": 75.04,
+  "temperature": {
+    "high": 87.96,
+    "mid": 81.5,
+    "low": 75.04
+  },
   "dew_point": 73.67,
   "humidity": 0.83,
   "cloud_cover": 0.58,

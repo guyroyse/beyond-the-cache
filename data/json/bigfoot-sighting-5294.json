@@ -11,9 +11,11 @@
   "longitude": -118.3356,
   "location": "-118.3356,35.51222",
   "location_details": "From Lake Isabella - head east on hwy 178 to Kelso Valley Rd.  On Kelso Valley Rd - travel 17 miles to a dirt on the right hand side.  There you should see a small wood sign saying \"Claraville 10 miles, Landers 8 Miles\" etc., etc.  Take the dirt road (27S02) past Claraville and go another 2 miles to French Meadows (28S27).  Follow the road to a sign pointing to Weldon Meadow or Steve Springs.  First site is Weldon Meadows (28S27A).  After that go down towards Steve Springs (28S27 then to 28S25 then to 28S24).  Go past Steve Springs and head to Woolstaff Meadow (28S24 - Lowest gear or 4 WD - not for low riding vehicles).  When you come to a split in the road - take the left road. Follow the road for about a 1.5 mile +/- (You'll pass the Dry Meadow Trailhead).  At the end of the road, you'll walk up a south facing slope for about a 1/4 mile +/- (this is the second site).",
-  "temperature_high": 70.14,
-  "temperature_mid": 57.06,
-  "temperature_low": 43.98,
+  "temperature": {
+    "high": 70.14,
+    "mid": 57.06,
+    "low": 43.98
+  },
   "dew_point": 42.68,
   "humidity": 0.6,
   "cloud_cover": 0.11,

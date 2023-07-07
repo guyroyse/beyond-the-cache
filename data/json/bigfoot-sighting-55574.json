@@ -11,9 +11,11 @@
   "longitude": -83.00198,
   "location": "-83.00198,29.23723",
   "location_details": "Two lane county road",
-  "temperature_high": 88.4,
-  "temperature_mid": 82.66,
-  "temperature_low": 76.92,
+  "temperature": {
+    "high": 88.4,
+    "mid": 82.66,
+    "low": 76.92
+  },
   "dew_point": 74.72,
   "humidity": 0.79,
   "cloud_cover": 0.09,

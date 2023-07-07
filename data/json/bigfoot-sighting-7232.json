@@ -11,9 +11,11 @@
   "longitude": -89.16425,
   "location": "-89.16425,45.5051",
   "location_details": "Logging road near Indian land and creek deep in the woods",
-  "temperature_high": 68.46,
-  "temperature_mid": 52.765,
-  "temperature_low": 37.07,
+  "temperature": {
+    "high": 68.46,
+    "mid": 52.765,
+    "low": 37.07
+  },
   "dew_point": 34.25,
   "humidity": 0.47,
   "cloud_cover": 0.1,

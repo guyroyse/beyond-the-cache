@@ -11,9 +11,11 @@
   "longitude": -85.86292,
   "location": "-85.86292,44.62845",
   "location_details": "2 miles south off Cinder Rd on S. Reynolds Rd on west side of road, by edge of woods.",
-  "temperature_high": 62.48,
-  "temperature_mid": 55.42,
-  "temperature_low": 48.36,
+  "temperature": {
+    "high": 62.48,
+    "mid": 55.42,
+    "low": 48.36
+  },
   "dew_point": 48.99,
   "humidity": 0.76,
   "cloud_cover": 0.83,

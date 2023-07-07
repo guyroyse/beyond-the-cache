@@ -11,9 +11,11 @@
   "longitude": -95.28653,
   "location": "-95.28653,30.3343",
   "location_details": "Small ponds scattered through out the hunting lease.",
-  "temperature_high": 76.24,
-  "temperature_mid": 66.98,
-  "temperature_low": 57.72,
+  "temperature": {
+    "high": 76.24,
+    "mid": 66.98,
+    "low": 57.72
+  },
   "dew_point": 48.62,
   "humidity": 0.6,
   "cloud_cover": 0.14,

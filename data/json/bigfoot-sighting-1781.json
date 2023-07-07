@@ -11,9 +11,11 @@
   "longitude": -122.2988,
   "location": "-122.2988,46.5579",
   "location_details": "Quarter Mile down river from Gus Backstrom Park, South side of Hwy 508 and North of Hwy 12 and the Tilton River. Private land posted no trespassing.",
-  "temperature_high": 42.49,
-  "temperature_mid": 33.885,
-  "temperature_low": 25.28,
+  "temperature": {
+    "high": 42.49,
+    "mid": 33.885,
+    "low": 25.28
+  },
   "dew_point": 28.58,
   "humidity": 0.8,
   "cloud_cover": 0.66,

@@ -11,9 +11,11 @@
   "longitude": -85.79889,
   "location": "-85.79889,34.56327",
   "location_details": "Skyline Wildlife Management Area, Buffalo Point",
-  "temperature_high": 67.53,
-  "temperature_mid": 56.785,
-  "temperature_low": 46.04,
+  "temperature": {
+    "high": 67.53,
+    "mid": 56.785,
+    "low": 46.04
+  },
   "dew_point": 42.29,
   "humidity": 0.76,
   "cloud_cover": 0.31,

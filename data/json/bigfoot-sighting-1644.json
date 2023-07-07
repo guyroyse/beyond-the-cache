@@ -11,9 +11,11 @@
   "longitude": -122.1379,
   "location": "-122.1379,46.385",
   "location_details": "3mi.east of Spirit Lake.",
-  "temperature_high": 55.98,
-  "temperature_mid": 48.05,
-  "temperature_low": 40.12,
+  "temperature": {
+    "high": 55.98,
+    "mid": 48.05,
+    "low": 40.12
+  },
   "dew_point": 45.28,
   "humidity": 0.84,
   "cloud_cover": 0.72,

@@ -11,9 +11,11 @@
   "longitude": -122.8887,
   "location": "-122.8887,43.40867",
   "location_details": "Roseburg, take  diamond  Lake  hywy, through  Glide  to  fishhatchery , left  on  Rock  Ck.  rd,(abt.8 miles) to  county  gravelpit,  rt  on  ames  ck  abt  a  mile  or  so. Take  cat  rd  up  hill  on  left,  passed  an  old  sm.  gravelpit,  stay  on  cat  rd.This  area  is  full  of  poison  oak  and  very  steep.",
-  "temperature_high": 56.46,
-  "temperature_mid": 47.73,
-  "temperature_low": 39,
+  "temperature": {
+    "high": 56.46,
+    "mid": 47.73,
+    "low": 39
+  },
   "dew_point": 33.08,
   "humidity": 0.55,
   "cloud_cover": 0.84,

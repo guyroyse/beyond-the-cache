@@ -1,0 +1,34 @@
+{
+  "reportId": "20608",
+  "title": "Late night vocalization heard by fishermen north of Flemington",
+  "date": "2008-09-04",
+  "timestamp": 1220486400,
+  "observed": "There's not much to tell but last night a friend and I where fishing Round Valley Reservoir in North Jersey from 6pm till 3am. About midnight we heard a vocalization like nothing either of us had heard before. We are both avid outdoorsmen I have hunted all around the country and never heard anything like what I heard last night, except for the Bigfoot sounds on the BFRO website, it was not very long but I could still here it, it was loud and clear.",
+  "classification": "Class B",
+  "county": "Hunterdon",
+  "state": "New Jersey",
+  "latitude": 40.60667,
+  "longitude": -74.84528,
+  "location": {
+    "longitude": -74.84528,
+    "latitude": 40.60667
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 90.98,
+    "mid": 78.405,
+    "low": 65.83
+  },
+  "dew_point": 62.5,
+  "humidity": 0.65,
+  "cloud_cover": 0.18,
+  "moon_phase": 0.16,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1014.59,
+  "summary": "Partly cloudy in the afternoon.",
+  "uv_index": 7,
+  "visibility": 8,
+  "wind_bearing": 192,
+  "wind_speed": 3.6
+}

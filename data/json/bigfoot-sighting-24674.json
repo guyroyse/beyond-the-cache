@@ -11,9 +11,11 @@
   "longitude": -83.46259,
   "location": "-83.46259,38.05703",
   "location_details": "[Daniel Boone National Forest; not far from Cave Run Lake]",
-  "temperature_high": 78.97,
-  "temperature_mid": 70.925,
-  "temperature_low": 62.88,
+  "temperature": {
+    "high": 78.97,
+    "mid": 70.925,
+    "low": 62.88
+  },
   "dew_point": 65.79,
   "humidity": 0.79,
   "cloud_cover": 0.52,

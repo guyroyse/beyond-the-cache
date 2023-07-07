@@ -1,0 +1,35 @@
+{
+  "reportId": "16397",
+  "title": "Rock throwing incident at Woods Canyon Lake.",
+  "date": "2005-09-15",
+  "timestamp": 1126742400,
+  "observed": "well my self and my dad were camped at woods canyon lake in the spilway camp ground.. well on friday around 3 to 4 in the after noon i was fishing on the spilway.off the the east is a hicking trail that gose up the hill and around the lake..out of no where a bolder the size of a basket ball come flying thru the middle of the pine trees an 10 to 15 feet into the lake.well befor this happen u could hear birds cherping.well when is happen it got quiet quick..another guy saw what i did we bolth looked at 1 and other and he ended up leaveing",
+  "classification": "Class B",
+  "county": "Coconino",
+  "state": "Arizona",
+  "latitude": 34.35,
+  "longitude": -110.98,
+  "location": {
+    "longitude": -110.98,
+    "latitude": 34.35
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 88.47,
+    "mid": 72.45,
+    "low": 56.43
+  },
+  "dew_point": 31.75,
+  "humidity": 0.26,
+  "cloud_cover": 0,
+  "moon_phase": 0.41,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.25,
+  "precip_type": "rain",
+  "pressure": 1014.11,
+  "summary": "Clear throughout the day.",
+  "uv_index": 10,
+  "visibility": 9.91,
+  "wind_bearing": 168,
+  "wind_speed": 2.57
+}

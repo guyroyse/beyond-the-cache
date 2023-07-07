@@ -11,9 +11,11 @@
   "longitude": -80.93665,
   "location": "-80.93665,41.81835",
   "location_details": "Ashtabula County, Ohio.  The sighting took place on Austin Road between State Route 84 and Maple Street in the town of Geneva, Ohio.",
-  "temperature_high": 79.34,
-  "temperature_mid": 74.325,
-  "temperature_low": 69.31,
+  "temperature": {
+    "high": 79.34,
+    "mid": 74.325,
+    "low": 69.31
+  },
   "dew_point": 57.46,
   "humidity": 0.64,
   "cloud_cover": 0.5,

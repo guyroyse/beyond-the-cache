@@ -11,9 +11,11 @@
   "longitude": -88.9963,
   "location": "-88.9963,37.289",
   "location_details": "Two or three miles just outside of Karnak.  I don't know the name of the road.  I think its called Hillcrest RD, turns into 6th street once you get into town.",
-  "temperature_high": 80.45,
-  "temperature_mid": 64.65,
-  "temperature_low": 48.85,
+  "temperature": {
+    "high": 80.45,
+    "mid": 64.65,
+    "low": 48.85
+  },
   "dew_point": 43.94,
   "humidity": 0.58,
   "cloud_cover": 0.03,

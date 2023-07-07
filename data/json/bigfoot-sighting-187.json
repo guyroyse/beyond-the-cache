@@ -11,9 +11,11 @@
   "longitude": -122.2777,
   "location": "-122.2777,45.40023",
   "location_details": "I was looking out a second story window in the Sandy Inn Hotel in Sandy.  I was facing the north, toward the woods and the columbia river beyond.",
-  "temperature_high": 77.83,
-  "temperature_mid": 66.635,
-  "temperature_low": 55.44,
+  "temperature": {
+    "high": 77.83,
+    "mid": 66.635,
+    "low": 55.44
+  },
   "dew_point": 54.82,
   "humidity": 0.73,
   "cloud_cover": 0.79,

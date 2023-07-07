@@ -11,9 +11,11 @@
   "longitude": -75.37814,
   "location": "-75.37814,40.37726",
   "location_details": "Sighing was on a pipeline that parralells Allentown Road in West Rock Hill",
-  "temperature_high": 64.94,
-  "temperature_mid": 57.685,
-  "temperature_low": 50.43,
+  "temperature": {
+    "high": 64.94,
+    "mid": 57.685,
+    "low": 50.43
+  },
   "dew_point": 59.19,
   "humidity": 0.92,
   "cloud_cover": 0.97,

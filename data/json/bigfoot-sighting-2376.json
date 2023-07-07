@@ -11,9 +11,11 @@
   "longitude": -88.72985,
   "location": "-88.72985,30.38345",
   "location_details": "South of town, near the gulf about half mile from the ocean.",
-  "temperature_high": 83.96,
-  "temperature_mid": 78.985,
-  "temperature_low": 74.01,
+  "temperature": {
+    "high": 83.96,
+    "mid": 78.985,
+    "low": 74.01
+  },
   "dew_point": 74.43,
   "humidity": 0.88,
   "cloud_cover": 0.4,

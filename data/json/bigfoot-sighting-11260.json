@@ -11,9 +11,11 @@
   "longitude": -98.09234,
   "location": "-98.09234,32.04417",
   "location_details": "Leon River basin.",
-  "temperature_high": 71.13,
-  "temperature_mid": 57.88,
-  "temperature_low": 44.63,
+  "temperature": {
+    "high": 71.13,
+    "mid": 57.88,
+    "low": 44.63
+  },
   "dew_point": 42.1,
   "humidity": 0.56,
   "cloud_cover": 0.13,

@@ -11,9 +11,11 @@
   "longitude": -81.03941,
   "location": "-81.03941,27.34928",
   "location_details": "First incident was located in Okeechobee off of Hwy. 98 near the the Kissimmee River near a state park and a few hunting preserves in a place called Basinger. And the second incident was off of Hwy. 70.",
-  "temperature_high": 84.91,
-  "temperature_mid": 73.365,
-  "temperature_low": 61.82,
+  "temperature": {
+    "high": 84.91,
+    "mid": 73.365,
+    "low": 61.82
+  },
   "dew_point": 60.23,
   "humidity": 0.65,
   "cloud_cover": 0.14,

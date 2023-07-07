@@ -11,9 +11,11 @@
   "longitude": -87.64487,
   "location": "-87.64487,37.3141",
   "location_details": "There are other waterways that connect with the creek we were on and these bottoms run thru several counties.Head out of madisonville on hwy70 west to Beulah.Turn right on hwy109 north until you reach hwy502 which turns to the right just past a community called Rabbit Ridge.Follow it until you reach a swamp that is on both sides of the road about 4 miles or so off hwy109 on hwy502.We put in on the right side about 3/4 to a mile from the entrance to the old coal mine.",
-  "temperature_high": 91.67,
-  "temperature_mid": 81.465,
-  "temperature_low": 71.26,
+  "temperature": {
+    "high": 91.67,
+    "mid": 81.465,
+    "low": 71.26
+  },
   "dew_point": 67.92,
   "humidity": 0.7,
   "cloud_cover": 0.11,

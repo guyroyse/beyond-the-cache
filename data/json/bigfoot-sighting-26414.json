@@ -11,9 +11,11 @@
   "longitude": -108.892,
   "location": "-108.892,36.08089",
   "location_details": "Location was right off the side of the road on a hill just before the picnic area.",
-  "temperature_high": 80.7,
-  "temperature_mid": 64.365,
-  "temperature_low": 48.03,
+  "temperature": {
+    "high": 80.7,
+    "mid": 64.365,
+    "low": 48.03
+  },
   "dew_point": 18.96,
   "humidity": 0.18,
   "cloud_cover": 0.02,

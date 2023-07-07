@@ -11,9 +11,11 @@
   "longitude": -84.48506,
   "location": "-84.48506,39.64146",
   "location_details": "Near Germantown Ohio, in the area of Preble Co. Line Rd., Kiefer Rd., Twin creek/Lower Gratis Rd. area, in the mid 70's",
-  "temperature_high": 77.02,
-  "temperature_mid": 65.955,
-  "temperature_low": 54.89,
+  "temperature": {
+    "high": 77.02,
+    "mid": 65.955,
+    "low": 54.89
+  },
   "dew_point": 56.04,
   "humidity": 0.73,
   "cloud_cover": 0.32,

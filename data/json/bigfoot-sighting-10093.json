@@ -11,9 +11,11 @@
   "longitude": -93.94389,
   "location": "-93.94389,36.13361",
   "location_details": "This property is just off of AR State Hwy 45 at the Washington/Madison County Border.",
-  "temperature_high": 67.86,
-  "temperature_mid": 52.97,
-  "temperature_low": 38.08,
+  "temperature": {
+    "high": 67.86,
+    "mid": 52.97,
+    "low": 38.08
+  },
   "dew_point": 29.84,
   "humidity": 0.43,
   "cloud_cover": 0,

@@ -11,9 +11,11 @@
   "longitude": -122.7,
   "location": "-122.7,41.1139",
   "location_details": "It was Big Bear Lake. The trail head is off HWY 3 about 40 miles north of Weaverville and about a 5 mile hike to the lake.",
-  "temperature_high": 67.09,
-  "temperature_mid": 58.83,
-  "temperature_low": 50.57,
+  "temperature": {
+    "high": 67.09,
+    "mid": 58.83,
+    "low": 50.57
+  },
   "dew_point": 42.86,
   "humidity": 0.58,
   "cloud_cover": 0.35,

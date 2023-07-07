@@ -11,9 +11,11 @@
   "longitude": -123.9878,
   "location": "-123.9878,47.2331",
   "location_details": "it is right at the humptulips fish hatchery.",
-  "temperature_high": 62.04,
-  "temperature_mid": 58.245,
-  "temperature_low": 54.45,
+  "temperature": {
+    "high": 62.04,
+    "mid": 58.245,
+    "low": 54.45
+  },
   "dew_point": 55.18,
   "humidity": 0.85,
   "cloud_cover": 0.91,

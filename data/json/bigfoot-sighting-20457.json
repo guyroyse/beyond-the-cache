@@ -11,9 +11,11 @@
   "longitude": -85.95865,
   "location": "-85.95865,46.34575",
   "location_details": "Not sure of the county.Michigan's U.P. M-28 east of Munising.",
-  "temperature_high": 21.24,
-  "temperature_mid": 18.915,
-  "temperature_low": 16.59,
+  "temperature": {
+    "high": 21.24,
+    "mid": 18.915,
+    "low": 16.59
+  },
   "dew_point": 12.57,
   "humidity": 0.8,
   "cloud_cover": 0.99,

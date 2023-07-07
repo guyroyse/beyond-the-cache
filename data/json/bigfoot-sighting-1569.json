@@ -11,9 +11,11 @@
   "longitude": -120.1075,
   "location": "-120.1075,48.61972",
   "location_details": "Below a forest service tower. We were pretty remote. We have hunted there for 15-plus years and were in a spooky surrounding that we haven't been in before.",
-  "temperature_high": 60.53,
-  "temperature_mid": 53.055,
-  "temperature_low": 45.58,
+  "temperature": {
+    "high": 60.53,
+    "mid": 53.055,
+    "low": 45.58
+  },
   "dew_point": 47.1,
   "humidity": 0.84,
   "cloud_cover": 0.62,

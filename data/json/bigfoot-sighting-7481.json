@@ -11,9 +11,11 @@
   "longitude": -122.2738,
   "location": "-122.2738,46.79955",
   "location_details": "Off a logging road, on the east side of Alder Lake. Not a developed campground, so no real directions to it.",
-  "temperature_high": 65.04,
-  "temperature_mid": 54.31,
-  "temperature_low": 43.58,
+  "temperature": {
+    "high": 65.04,
+    "mid": 54.31,
+    "low": 43.58
+  },
   "dew_point": 43.49,
   "humidity": 0.65,
   "cloud_cover": 0.48,

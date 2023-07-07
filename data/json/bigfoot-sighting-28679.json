@@ -11,9 +11,11 @@
   "longitude": -88.18031,
   "location": "-88.18031,41.89011",
   "location_details": "It's a brand new hiking path in the Timber Ridge Forest Preserve on the east side of Prince Crossing Road and not very well known or used yet.",
-  "temperature_high": 28.81,
-  "temperature_mid": 19.165,
-  "temperature_low": 9.52,
+  "temperature": {
+    "high": 28.81,
+    "mid": 19.165,
+    "low": 9.52
+  },
   "dew_point": 14.33,
   "humidity": 0.73,
   "cloud_cover": 0.24,

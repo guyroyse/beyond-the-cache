@@ -11,9 +11,11 @@
   "longitude": -82.3045,
   "location": "-82.3045,36.0925",
   "location_details": "Drive through Greeneville on 11E headed East. Just past the Wal-Mart is Hwy. 107. There will be signs pointing towards Cherokee National Forest on the right. Follow Horse Creek all the way into the forest and take the first right onto Old Forge Rd.",
-  "temperature_high": 72.84,
-  "temperature_mid": 64.625,
-  "temperature_low": 56.41,
+  "temperature": {
+    "high": 72.84,
+    "mid": 64.625,
+    "low": 56.41
+  },
   "dew_point": 54.62,
   "humidity": 0.66,
   "cloud_cover": 0.48,

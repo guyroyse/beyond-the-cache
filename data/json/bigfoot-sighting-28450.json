@@ -11,9 +11,11 @@
   "longitude": -82.20726,
   "location": "-82.20726,28.84542",
   "location_details": "Located in Flying Eagle WMA about 5 miles East of downtown Inverness.",
-  "temperature_high": 83.93,
-  "temperature_mid": 72.955,
-  "temperature_low": 61.98,
+  "temperature": {
+    "high": 83.93,
+    "mid": 72.955,
+    "low": 61.98
+  },
   "dew_point": 61.13,
   "humidity": 0.74,
   "cloud_cover": 0.2,

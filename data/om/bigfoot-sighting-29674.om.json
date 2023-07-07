@@ -1,0 +1,35 @@
+{
+  "reportId": "29674",
+  "title": "Possible encounter while backpacking in the Hoosier National Forest",
+  "date": "2006-10-01",
+  "timestamp": 1159660800,
+  "observed": "Myself and two other people were backpacking in the Hoosier National Forest. We had setup a camp in a valley off the grub ridge loop trail (this is a 10 mile loop, were about 4-5 miles deep in the woods). We were sitting by our camp fire (it was about 1:00 am). We heard a loud vocalization (it almost sounded like a very deep growl, and then a howl). It honestly sounded like an ape. We then heard what sounded like a large branch or tree being snapped in half and then thrown towards us (this happened a couple times). We then heard a loud commotion coming from the woods, we heard what sounded like a small animal being attacked, making a distressed crying noise (I think it was a rabbit, but I'm not sure. It sounded like it was being killed). This went on for 20-30 seconds, and then silence. We then heard something run off through the woods. I could hear branches breaking and leaves rustling, by the racket it made running, it sounded large. You could hear it's body brushing through the trees. There are no bears or Mt. Lions in this area. I've grown up here and know what a coyote sounds like and it was not a coyote. I am honestly stumped as to what we encountered. This is why I decided to report this, because for the past 5 years or so I've not been able to figure it out, and it has always bothered me a little.",
+  "classification": "Class B",
+  "county": "Monroe",
+  "state": "Indiana",
+  "latitude": 39.04744,
+  "longitude": -86.38894,
+  "location": {
+    "longitude": -86.38894,
+    "latitude": 39.04744
+  },
+  "location_details": "I'm estimating we were about 4-5 miles deep on the grub ridge loop trail (if you enter from the grub ridge trail head). We were relatively close to the south bank of Lake Monroe (about a half a mile away). We had hiked for about 3-4 hours.",
+  "temperature": {
+    "high": 78.41,
+    "mid": 66.52,
+    "low": 54.63
+  },
+  "dew_point": 51.31,
+  "humidity": 0.7,
+  "cloud_cover": 0.1,
+  "moon_phase": 0.3,
+  "precip_intensity": 0.0003,
+  "precip_probability": 0.19,
+  "precip_type": "rain",
+  "pressure": 1017.72,
+  "summary": "Clear throughout the day.",
+  "uv_index": 5,
+  "visibility": 8.24,
+  "wind_bearing": 235,
+  "wind_speed": 4
+}

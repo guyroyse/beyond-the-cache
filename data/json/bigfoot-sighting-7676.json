@@ -11,9 +11,11 @@
   "longitude": -119.8792,
   "location": "-119.8792,38.2395",
   "location_details": "We were camped at the horse corral near Groundhog Meadow near Herring Creek Reservoir.",
-  "temperature_high": 81.72,
-  "temperature_mid": 66.775,
-  "temperature_low": 51.83,
+  "temperature": {
+    "high": 81.72,
+    "mid": 66.775,
+    "low": 51.83
+  },
   "dew_point": 49.6,
   "humidity": 0.58,
   "cloud_cover": 0.08,

@@ -11,9 +11,11 @@
   "longitude": -84.97527,
   "location": "-84.97527,37.95708",
   "location_details": "On Bods Mill Rd. there is a hidden entrance to the old Simms farm. It is 100 acres and is very dense in growth.  The farm has since been sold.",
-  "temperature_high": 52.49,
-  "temperature_mid": 48.9,
-  "temperature_low": 45.31,
+  "temperature": {
+    "high": 52.49,
+    "mid": 48.9,
+    "low": 45.31
+  },
   "dew_point": 35.23,
   "humidity": 0.74,
   "cloud_cover": 0.59,

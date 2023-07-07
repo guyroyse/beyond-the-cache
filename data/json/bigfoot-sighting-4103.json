@@ -11,9 +11,11 @@
   "longitude": -76.6658,
   "location": "-76.6658,37.72693",
   "location_details": "The sighting occurred just north of a crest in the road, where you could not see the trough until you had actually gotten on top of the crest.  The road rose again, but not quite as steep as it was going downhill.  The sighting took place on the downside of the hill, almost towards the bottom.",
-  "temperature_high": 84.74,
-  "temperature_mid": 79.435,
-  "temperature_low": 74.13,
+  "temperature": {
+    "high": 84.74,
+    "mid": 79.435,
+    "low": 74.13
+  },
   "dew_point": 73.39,
   "humidity": 0.86,
   "cloud_cover": 0.9,

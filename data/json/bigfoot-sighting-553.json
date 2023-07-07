@@ -11,9 +11,11 @@
   "longitude": -123.3604,
   "location": "-123.3604,44.55505",
   "location_details": "2-3 miles south of Yoncalla then west on a old logging road.",
-  "temperature_high": 78.78,
-  "temperature_mid": 63.41,
-  "temperature_low": 48.04,
+  "temperature": {
+    "high": 78.78,
+    "mid": 63.41,
+    "low": 48.04
+  },
   "dew_point": 49.95,
   "humidity": 0.75,
   "cloud_cover": 0.14,

@@ -11,9 +11,11 @@
   "longitude": -116.25,
   "location": "-116.25,42.79166",
   "location_details": "South on Mudflat to the aprox end of the farming and look SE toward some small hills and chalk bluffs.",
-  "temperature_high": 82,
-  "temperature_mid": 71.825,
-  "temperature_low": 61.65,
+  "temperature": {
+    "high": 82,
+    "mid": 71.825,
+    "low": 61.65
+  },
   "dew_point": 54.88,
   "humidity": 0.64,
   "cloud_cover": 0.81,

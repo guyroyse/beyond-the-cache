@@ -11,9 +11,11 @@
   "longitude": -117.2776,
   "location": "-117.2776,48.83558",
   "location_details": "I am not sure as to how to get to the actual campground spot except by boat! We put in our kayaks at the Noisey Creek campground at Sullivan lake, and kayaked around the right side of the lake (unsure what direction that was)to the swimming hole and campground that was on the far end of the lake. The rope swing was only about a hundred yards from the beach on the right side(heading in)of the lake.",
-  "temperature_high": 88.13,
-  "temperature_mid": 71.235,
-  "temperature_low": 54.34,
+  "temperature": {
+    "high": 88.13,
+    "mid": 71.235,
+    "low": 54.34
+  },
   "dew_point": 41.6,
   "humidity": 0.36,
   "cloud_cover": 0.08,

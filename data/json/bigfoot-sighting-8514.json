@@ -11,9 +11,11 @@
   "longitude": -81.4189,
   "location": "-81.4189,30.4544",
   "location_details": "Incident occurred while driving north on A1A or Heckscher Drive about 900 to 1000 feet south of the North entrance to Little Talbot Island State Park",
-  "temperature_high": 69.5,
-  "temperature_mid": 66.93,
-  "temperature_low": 64.36,
+  "temperature": {
+    "high": 69.5,
+    "mid": 66.93,
+    "low": 64.36
+  },
   "dew_point": 55.86,
   "humidity": 0.76,
   "cloud_cover": 0.82,

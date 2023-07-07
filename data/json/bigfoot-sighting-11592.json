@@ -11,9 +11,11 @@
   "longitude": -97.05903,
   "location": "-97.05903,33.77528",
   "location_details": "Red River.",
-  "temperature_high": 57.18,
-  "temperature_mid": 49.495,
-  "temperature_low": 41.81,
+  "temperature": {
+    "high": 57.18,
+    "mid": 49.495,
+    "low": 41.81
+  },
   "dew_point": 29.75,
   "humidity": 0.57,
   "cloud_cover": 0.11,

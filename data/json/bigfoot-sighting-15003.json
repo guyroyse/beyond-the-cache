@@ -11,9 +11,11 @@
   "longitude": -89.94,
   "location": "-89.94,35.226",
   "location_details": "Turned off US Highway 51 towards shelby forest down Watkins extended. Traveled several miles",
-  "temperature_high": 65.42,
-  "temperature_mid": 57.555,
-  "temperature_low": 49.69,
+  "temperature": {
+    "high": 65.42,
+    "mid": 57.555,
+    "low": 49.69
+  },
   "dew_point": 51.46,
   "humidity": 0.8,
   "cloud_cover": 0.66,

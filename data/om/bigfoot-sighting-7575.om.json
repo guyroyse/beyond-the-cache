@@ -1,0 +1,34 @@
+{
+  "reportId": "7575",
+  "title": "Military man and wife experience loud howling and shaking of mobile home near the Ohoopee River",
+  "date": "1982-11-23",
+  "timestamp": 406857600,
+  "observed": "An unseen animal howling LOUDLY while violently shaking a 12X45 mobile home almost off its blocks. My wife and I were awake, she was cleaning in the kitchen, and I was in the living room reading. Suddenly a LOUD howling sound began and at the same moment the trailer began shaking very violently. The howling and the shaking lasted ten seconds, but it was very loud as that of a bull horn. My first response was thinking we were having an earthquake.My second was someone outside somehow making the noise while somehow shaking the trailer. I grabbed my pistol and ran outside. There was nothing moving outside any where.",
+  "classification": "Class B",
+  "county": "Emanuel",
+  "state": "Georgia",
+  "latitude": 32.34705,
+  "longitude": -82.2464,
+  "location": {
+    "longitude": -82.2464,
+    "latitude": 32.34705
+  },
+  "location_details": "Our river place is on the Ohoopee River next to the Griffin Ferry Bridge. It is about five miles east of Oak Park, Ga.",
+  "temperature": {
+    "high": 78.84,
+    "mid": 69.285,
+    "low": 59.73
+  },
+  "dew_point": 56.62,
+  "humidity": 0.78,
+  "cloud_cover": 0.29,
+  "moon_phase": 0.25,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1016.64,
+  "summary": "Partly cloudy until evening.",
+  "uv_index": 3,
+  "visibility": 7.63,
+  "wind_bearing": 205,
+  "wind_speed": 2.88
+}

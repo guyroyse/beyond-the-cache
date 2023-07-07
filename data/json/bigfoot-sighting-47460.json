@@ -11,9 +11,11 @@
   "longitude": -79.55928,
   "location": "-79.55928,38.8609",
   "location_details": "I'am not good with directions but it was on the Job road going to Harman",
-  "temperature_high": 66.83,
-  "temperature_mid": 49.07,
-  "temperature_low": 31.31,
+  "temperature": {
+    "high": 66.83,
+    "mid": 49.07,
+    "low": 31.31
+  },
   "dew_point": 48.89,
   "humidity": 0.73,
   "cloud_cover": 0.47,

@@ -1,0 +1,35 @@
+{
+  "reportId": "33264",
+  "title": "Photos taken of possible footprints found on rural property near Albany",
+  "date": "2012-01-23",
+  "timestamp": 1327276800,
+  "observed": "Foot prints in the snow. I took some pictures. we had a moderate thaw, but we could see definite toes and a human-like shape, definitely bipedal.",
+  "classification": "Class B",
+  "county": "Whiteside",
+  "state": "Illinois",
+  "latitude": 41.73534,
+  "longitude": -90.22054,
+  "location": {
+    "longitude": -90.22054,
+    "latitude": 41.73534
+  },
+  "location_details": "1 & 7/8ths of a mile off highway 84, on our rural property.",
+  "temperature": {
+    "high": 34.71,
+    "mid": 30.42,
+    "low": 26.13
+  },
+  "dew_point": 27.93,
+  "humidity": 0.84,
+  "cloud_cover": 1,
+  "moon_phase": 0.02,
+  "precip_intensity": 0.0015,
+  "precip_probability": 0.62,
+  "precip_type": "snow",
+  "pressure": 1003.4,
+  "summary": "Overcast throughout the day and breezy until evening.",
+  "uv_index": 1,
+  "visibility": 6.14,
+  "wind_bearing": 265,
+  "wind_speed": 15.66
+}

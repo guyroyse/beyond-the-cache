@@ -11,9 +11,11 @@
   "longitude": -121.7745,
   "location": "-121.7745,45.5666",
   "location_details": "About 1-mile from Wahtum Lake a spur road takes off to the right. We were hunting the ridge.",
-  "temperature_high": 79.91,
-  "temperature_mid": 67.005,
-  "temperature_low": 54.1,
+  "temperature": {
+    "high": 79.91,
+    "mid": 67.005,
+    "low": 54.1
+  },
   "dew_point": 43.61,
   "humidity": 0.59,
   "cloud_cover": 0.47,

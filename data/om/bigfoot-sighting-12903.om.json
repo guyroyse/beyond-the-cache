@@ -1,0 +1,34 @@
+{
+  "reportId": "12903",
+  "title": "Stalking in swamp during Florida BFRO expedition",
+  "date": "2005-02-11",
+  "timestamp": 1108080000,
+  "observed": "My second night on the Florida expedition, I set up my camp in the hot area and had one of the most terrifying nights of my life. For the first two hours after dusk, I was by myself and heard what seemed to be three large animals, breaking branches and knocking on trees all around my camp; they moved in what sounded like a triangular pattern, came between me and my vehicle, which was only 20 yards away, and broke a branch that had to be thicker than my wrist. Later in the evening, we heard a very strange, gurgling sound that sounded like nothing I have ever heard before. All this was followed by a 25 second tree-knocking session that would have amazed anyone who heard it. These sounds had to be made by an animal with opposable thumbs; if they were made by humans, they would have had to have been able to navigate one nasty swamp in pitch black dark with the speed and agility of a cat. The guys that camped at that site the next night had audio recorders and got some. As for me we had one low quality tape recorder that didn't pick up more than the wind. I have since obtained a bird call digital recorder with mic. The next trip will be easier because we confirmed the area to focus on last time.",
+  "classification": "Class B",
+  "county": "Lake",
+  "state": "Florida",
+  "latitude": 29.04865,
+  "longitude": -81.4692,
+  "location": {
+    "longitude": -81.4692,
+    "latitude": 29.04865
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 58.68,
+    "mid": 48.785,
+    "low": 38.89
+  },
+  "dew_point": 25.23,
+  "humidity": 0.42,
+  "cloud_cover": 0.03,
+  "moon_phase": 0.1,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1022.27,
+  "summary": "Clear throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.91,
+  "wind_bearing": 309,
+  "wind_speed": 9.39
+}

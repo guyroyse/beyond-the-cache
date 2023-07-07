@@ -11,9 +11,11 @@
   "longitude": -123.1208,
   "location": "-123.1208,47.5958",
   "location_details": "The incident occurred so many years ago, I'm sorry but I just can't remember the exact path of travel we used to get there.  I recall a simple unimproved road to the campsite where we unloaded the vehicle.  Where the incident actually happened should not be too difficult to locate however, as it was along the Hamma Hamma River, which is not very long.",
-  "temperature_high": 66.87,
-  "temperature_mid": 61.1,
-  "temperature_low": 55.33,
+  "temperature": {
+    "high": 66.87,
+    "mid": 61.1,
+    "low": 55.33
+  },
   "dew_point": 55.12,
   "humidity": 0.76,
   "cloud_cover": 0.68,

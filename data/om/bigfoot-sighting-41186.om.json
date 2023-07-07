@@ -1,0 +1,35 @@
+{
+  "reportId": "41186",
+  "title": "Camper hears possible late-night vocalizations in the Knoll Lake area",
+  "date": "2011-07-15",
+  "timestamp": 1310688000,
+  "observed": "It was in the middle of the night and I took my three kids camping.  I was awoken by a strange noise. The noises sounded like a angry female with a smoker's voice scream in short bursts.  Probably 5 to 10 second bursts every 10 to 20 seconds.  The camping area where we were was near Lake Knoll Arizona.  You can check out my video on youtube of the campsite. Just google Lake Knoll camping.  It should be the first video.  I did not sleep the rest of the night.  I heard other noises later that night.  It sounded like multiple animals fighting but it was more animal sounding....maybe wild bores or something. I asked some of my hunter friends and they could not explain the first sound that I heard.  Other than those noises, there was not a sound to be heard.  It was dead quiet.",
+  "classification": "Class B",
+  "county": "Coconino",
+  "state": "Arizona",
+  "latitude": 34.43951,
+  "longitude": -111.0946,
+  "location": {
+    "longitude": -111.0946,
+    "latitude": 34.43951
+  },
+  "location_details": "This was in the Lake Knoll area.  We camped past the final turn to Lake Knoll on a narrow dirt road.  Instead of turning right to get to the lake, we kept on going straight.",
+  "temperature": {
+    "high": 90.64,
+    "mid": 75.525,
+    "low": 60.41
+  },
+  "dew_point": 26.47,
+  "humidity": 0.2,
+  "cloud_cover": 0.01,
+  "moon_phase": 0.52,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.08,
+  "precip_type": "rain",
+  "pressure": 1007.62,
+  "summary": "Clear throughout the day.",
+  "uv_index": 14,
+  "visibility": 9.99,
+  "wind_bearing": 181,
+  "wind_speed": 4.37
+}

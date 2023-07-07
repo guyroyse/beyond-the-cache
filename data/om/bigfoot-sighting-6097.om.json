@@ -1,0 +1,35 @@
+{
+  "reportId": "6097",
+  "title": "Man describes childhood sighting at rural property on the outskirts of Atlanta",
+  "date": "1961-09-01",
+  "timestamp": -263001600,
+  "observed": "My father died when I was three years of age. I was the oldest of four children. Our mother decided after the funeral that it would be best to move back home with her parents. This was in 1959. Years later in the early 60's, in the fall of the year all four of us were playing in the backyard. We had our first encounter with what we believed to have been a gorilla. It was underneath and inside the house's unfinished basement. I remember tossing rocks at it, but the very large animal only smiled. Being frighten half to death as kids we ran for our Mom. After returning to the scene there was no trace of a very large gorilla. Also later on through the years family members would come across very large foot prints and sometimes big red eyes looking in windows at night.",
+  "classification": "Class A",
+  "county": "Fulton",
+  "state": "Georgia",
+  "latitude": 33.70037,
+  "longitude": -84.53352,
+  "location": {
+    "longitude": -84.53352,
+    "latitude": 33.70037
+  },
+  "location_details": "Near the intersection of Campbellton Rd. and County Line Rd.",
+  "temperature": {
+    "high": 86.68,
+    "mid": 77.645,
+    "low": 68.61
+  },
+  "dew_point": 70.24,
+  "humidity": 0.82,
+  "cloud_cover": 0.83,
+  "moon_phase": 0.73,
+  "precip_intensity": 0.0031,
+  "precip_probability": 0.91,
+  "precip_type": "rain",
+  "pressure": 1018.35,
+  "summary": "Humid and mostly cloudy throughout the day.",
+  "uv_index": 6,
+  "visibility": 8.19,
+  "wind_bearing": 171,
+  "wind_speed": 8.64
+}

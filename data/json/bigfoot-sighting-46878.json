@@ -11,9 +11,11 @@
   "longitude": -88.92,
   "location": "-88.92,41.3224",
   "location_details": "On the embankment of the frog effigy in Buffalo Rock State Park at the edge of the river.",
-  "temperature_high": 58.55,
-  "temperature_mid": 47.085,
-  "temperature_low": 35.62,
+  "temperature": {
+    "high": 58.55,
+    "mid": 47.085,
+    "low": 35.62
+  },
   "dew_point": 38.84,
   "humidity": 0.7,
   "cloud_cover": 0.06,

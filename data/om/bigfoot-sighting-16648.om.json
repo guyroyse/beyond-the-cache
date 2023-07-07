@@ -1,0 +1,35 @@
+{
+  "reportId": "16648",
+  "title": "Hunter reports possible vocalizations in the Danforth Hills near Meeker",
+  "date": "2006-11-04",
+  "timestamp": 1162598400,
+  "observed": "While hunting in Moffat County, Colorado, my wife and I both heard a sound that was inexplicable to either of us. There is no doubt in my mind that what I was hearing was a vocalization of some sort. I have spent my entire life in Colorado, and spent quite a bit of time in the outdoors, and this sound was unlike anything I have ever heard, and I can not imagine any animal in Colorado that would be capable of making this sound. It started as a very low range roar, of sorts, and built in volume and range to a high pitched, very primal scream. The sound was very, very loud, and very \"large\", for lack of a better word. The sound came from an area closed to vehicles, and it echoed from the surrounding hills. The duration was about 6-7 seconds, and it was repeated 4 times in the course of about 90 seconds. This sound was so primal, so intense, so big, that it raised the hair on my arms and the back of my neck, and I was chilled as I have never been before in the wilderness. I know what bear, elk, raptors, and big cats sound like in Colorado, and I assure you, this was nothing like I have ever even imagined.",
+  "classification": "Class B",
+  "county": "Moffat",
+  "state": "Colorado",
+  "latitude": 40.277,
+  "longitude": -107.8708,
+  "location": {
+    "longitude": -107.8708,
+    "latitude": 40.277
+  },
+  "location_details": "At the southern end of the Danforth Hills, on private property known as the Morgan Creek Ranch, owned by the Colowyo Coal Company. This property is part of the Colorado Division of Wildlife's Ranching for Wildlife program, and is actually known as Morgan Creek Ranch.",
+  "temperature": {
+    "high": 49.57,
+    "mid": 39.115,
+    "low": 28.66
+  },
+  "dew_point": 29.12,
+  "humidity": 0.67,
+  "cloud_cover": 0.75,
+  "moon_phase": 0.47,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.31,
+  "precip_type": "rain",
+  "pressure": 1020.14,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 3,
+  "visibility": 9.8,
+  "wind_bearing": 270,
+  "wind_speed": 1.45
+}

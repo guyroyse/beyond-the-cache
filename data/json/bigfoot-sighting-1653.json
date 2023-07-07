@@ -11,9 +11,11 @@
   "longitude": -122.7325,
   "location": "-122.7325,40.63556",
   "location_details": "All we know is it was a right curve leading to a left curve and so on. Haven't been able to identify the curve since then but have tried.",
-  "temperature_high": 80.21,
-  "temperature_mid": 65.605,
-  "temperature_low": 51,
+  "temperature": {
+    "high": 80.21,
+    "mid": 65.605,
+    "low": 51
+  },
   "dew_point": 48.57,
   "humidity": 0.56,
   "cloud_cover": 0.28,

@@ -11,9 +11,11 @@
   "longitude": -86.3356,
   "location": "-86.3356,39.17909",
   "location_details": "Yellowood State Park. Off of highway 46 in between Nashville and Bloomington",
-  "temperature_high": 82.7,
-  "temperature_mid": 74.54,
-  "temperature_low": 66.38,
+  "temperature": {
+    "high": 82.7,
+    "mid": 74.54,
+    "low": 66.38
+  },
   "dew_point": 64.46,
   "humidity": 0.77,
   "cloud_cover": 0.1,

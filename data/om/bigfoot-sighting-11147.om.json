@@ -1,0 +1,35 @@
+{
+  "reportId": "11147",
+  "title": "Storm watchers on tower observe animal on beach.",
+  "date": "1978-02-15",
+  "timestamp": 256348800,
+  "observed": "The sighting ocurred in the late seventies. I was  with my dog at the North jetty, in Ft. Stevens State Park. It was a very stormy day and the surf was high, crashing over the rocks on the jetty and pounding the beach. From the viewing tower I saw a man-like figure walk down off the grassy area onto the beach.  At first I did not think too much of this \"person\" out on the sands. Then I watched as the figure neared the edge of the water. It was waving its arms up and down facing the surf and the tower.  There was another person on the tower with his daughter and they too saw the figure; we looked at each other with a \"what the hell is that\" look but said nothing and continued to watch this figure standing on the beach. At this point I noticed a pick up truck with its lights on approaching up the beach from the south. Then the scale of the figure really struck me; it had to be a good 8 feet tall or more. The figure quickly turned and moved very fast off the beach before the truck was in range. It did not run but rather \"strode\" the 30 or so yards to the dunes edge, then took one or two steps up the embankment and was gone. I was all excited and scared on what I has just seen.  I decided to go to the nearest parking lot near where the figure came down on the beach and see if I could get another look at it. As I approached the beach I became even more afraid, the wind was so strong I could hear nothing but the roar of the surf and the howl of the wind through my coat's hood.  My dog was anxious and stayed close to me. I went to the beach and found where it came down the sand hill, the sand was all torn up from its passage. But when I discovered the hill was an easy 10 foot high, I really became fearful and decided to return to my car and leave instead of following the tracks into the grass. The vivid picture of a sandy colored figure standing near the surf waving its arms still stays with me today nearly thirty years later.",
+  "classification": "Class A",
+  "county": "Clatsop",
+  "state": "Oregon",
+  "latitude": 46.2262,
+  "longitude": -124.0133,
+  "location": {
+    "longitude": -124.0133,
+    "latitude": 46.2262
+  },
+  "location_details": "It was at the beach area off the North Jetty at Ft. Stevens State Park, South of the Jetty on the ocean side. Clearly viewable from the observation tower right where the jetty and the beach meet.",
+  "temperature": {
+    "high": 48.94,
+    "mid": 41.755,
+    "low": 34.57
+  },
+  "dew_point": 36.19,
+  "humidity": 0.87,
+  "cloud_cover": 0.59,
+  "moon_phase": 0.28,
+  "precip_intensity": 0.0035,
+  "precip_probability": 0.91,
+  "precip_type": "rain",
+  "pressure": 1023.51,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 8.97,
+  "wind_bearing": 161,
+  "wind_speed": 1.16
+}

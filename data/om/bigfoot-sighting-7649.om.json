@@ -1,0 +1,35 @@
+{
+  "reportId": "7649",
+  "title": "Truck driver has early morning encounter near Gary, Texas",
+  "date": "2003-12-28",
+  "timestamp": 1072569600,
+  "observed": "I worked as a truck driver, I hauled crude oil and condensate off of oil leases to unload stations. I would start to work about dark and finish up right before daylight or sometimes a little earlier. I did this in Gregg, Rusk, Panola, Smith and surrounding counties. I don't remember the roads because we hauled so many different leases that my memory fails me. In the wee hours of a cool foggy morning in December I had loaded and was on my way out of the lease. We were required to open and shut the gate on these leases because of livestock and public safety. Our trailers had bright lights for seeing how to back up at night and I always turned them on when I closed gates. Just as I closed the gate and locked it, I saw something step out of the woods and onto the lease road. It paused a minute and continued on across the lease road. My blood ran cold and every hair on my body stood on end. It was only about 30 feet from me, I could see it's breath in the cold night air. If bigfoot exists, this is what I saw. It did not seem menacing. I ran for the truck and drove off, and never looked back. I have never told this to anyone, not even my wife.",
+  "classification": "Class A",
+  "county": "Panola",
+  "state": "Texas",
+  "latitude": 32.04361,
+  "longitude": -94.37444,
+  "location": {
+    "longitude": -94.37444,
+    "latitude": 32.04361
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 59.56,
+    "mid": 50.85,
+    "low": 42.14
+  },
+  "dew_point": 51.68,
+  "humidity": 0.9,
+  "cloud_cover": 0.92,
+  "moon_phase": 0.19,
+  "precip_intensity": 0.0291,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1016.32,
+  "summary": "Rain starting in the afternoon.",
+  "uv_index": 2,
+  "visibility": 8.11,
+  "wind_bearing": 153,
+  "wind_speed": 0.58
+}

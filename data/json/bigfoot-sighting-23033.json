@@ -11,9 +11,11 @@
   "longitude": -121.5763,
   "location": "-121.5763,46.67816",
   "location_details": "From Packwood, Washington.  Head east on Hwy 12 to where FS road 46 and FS road 1270 intersect Hwy 12.",
-  "temperature_high": 79.16,
-  "temperature_mid": 65.095,
-  "temperature_low": 51.03,
+  "temperature": {
+    "high": 79.16,
+    "mid": 65.095,
+    "low": 51.03
+  },
   "dew_point": 51.08,
   "humidity": 0.66,
   "cloud_cover": 0.12,

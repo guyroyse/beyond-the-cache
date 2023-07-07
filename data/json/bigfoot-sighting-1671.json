@@ -11,9 +11,11 @@
   "longitude": -122.0958,
   "location": "-122.0958,48.11556",
   "location_details": "Between Marysville & Arlington.",
-  "temperature_high": 38.24,
-  "temperature_mid": 36.58,
-  "temperature_low": 34.92,
+  "temperature": {
+    "high": 38.24,
+    "mid": 36.58,
+    "low": 34.92
+  },
   "dew_point": 29.45,
   "humidity": 0.76,
   "cloud_cover": 0.98,

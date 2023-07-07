@@ -11,9 +11,11 @@
   "longitude": -93.83426,
   "location": "-93.83426,35.9975",
   "location_details": "Turn right off Hwy 74 at Draketown, AR, and go about 3-4 miles to Georgetown.  You will be coming around a curve down a hill and across a creek to the old store.  The hill on the left side of the road is where we saw it.",
-  "temperature_high": 90.76,
-  "temperature_mid": 82.555,
-  "temperature_low": 74.35,
+  "temperature": {
+    "high": 90.76,
+    "mid": 82.555,
+    "low": 74.35
+  },
   "dew_point": 70.64,
   "humidity": 0.71,
   "cloud_cover": 0.56,

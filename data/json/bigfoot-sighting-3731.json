@@ -11,9 +11,11 @@
   "longitude": -96.66528,
   "location": "-96.66528,34.86111",
   "location_details": "One Half mile east of S.Canadian River,heavily wooded area, a lot of deer and other game. Several creeks running from here to river.",
-  "temperature_high": 46.2,
-  "temperature_mid": 40.265,
-  "temperature_low": 34.33,
+  "temperature": {
+    "high": 46.2,
+    "mid": 40.265,
+    "low": 34.33
+  },
   "dew_point": 31.57,
   "humidity": 0.93,
   "cloud_cover": 0.95,

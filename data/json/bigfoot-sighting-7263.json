@@ -11,9 +11,11 @@
   "longitude": -121.4755,
   "location": "-121.4755,44.2157",
   "location_details": "I can't remember the exact road it occured on. I believe it was Ponderosa Drive, or something to that effect.",
-  "temperature_high": 75.58,
-  "temperature_mid": 59.505,
-  "temperature_low": 43.43,
+  "temperature": {
+    "high": 75.58,
+    "mid": 59.505,
+    "low": 43.43
+  },
   "dew_point": 36.54,
   "humidity": 0.52,
   "cloud_cover": 0.47,

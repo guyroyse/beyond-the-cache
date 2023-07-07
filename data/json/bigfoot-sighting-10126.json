@@ -11,9 +11,11 @@
   "longitude": -105.7197,
   "location": "-105.7197,33.2516",
   "location_details": "Four miles north of Mescalero School.",
-  "temperature_high": 95.85,
-  "temperature_mid": 79.005,
-  "temperature_low": 62.16,
+  "temperature": {
+    "high": 95.85,
+    "mid": 79.005,
+    "low": 62.16
+  },
   "dew_point": 27.43,
   "humidity": 0.16,
   "cloud_cover": 0.07,

@@ -11,9 +11,11 @@
   "longitude": -84.00156,
   "location": "-84.00156,44.34035",
   "location_details": "We stayed at Henderson Lake.",
-  "temperature_high": 57.97,
-  "temperature_mid": 54.355,
-  "temperature_low": 50.74,
+  "temperature": {
+    "high": 57.97,
+    "mid": 54.355,
+    "low": 50.74
+  },
   "dew_point": 47.3,
   "humidity": 0.81,
   "cloud_cover": 0.89,

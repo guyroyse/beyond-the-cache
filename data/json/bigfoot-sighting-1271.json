@@ -11,9 +11,11 @@
   "longitude": -93.63804,
   "location": "-93.63804,41.62183",
   "location_details": "On the bike trail that goes between Birdland Marina on the south end and Big Creek on the north end. Between Euclid Avenue and Birdland Marina within the city limits of Des Moines. Very rugged land close to the Des Moines River, ravines, many tree branches down on the ground. Not like a smooth football field.",
-  "temperature_high": 57,
-  "temperature_mid": 37.475,
-  "temperature_low": 17.95,
+  "temperature": {
+    "high": 57,
+    "mid": 37.475,
+    "low": 17.95
+  },
   "dew_point": 28.01,
   "humidity": 0.7,
   "cloud_cover": 0.43,

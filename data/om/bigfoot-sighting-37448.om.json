@@ -1,0 +1,35 @@
+{
+  "reportId": "37448",
+  "title": "Hunter recalls a possible encounter during deer season near St. Helen",
+  "date": "1968-11-15",
+  "timestamp": -35596800,
+  "observed": "I was deer hunting late November in 1968. My Grandfather, dad, uncle and myself. We drove around St. Helen Michigan until we found an area that looked like it could be holding deer. With our rifles loaded the plan was to all go in separate directions. I went in the woods walking through the rows of pine trees so that it would be easy to find my way back to the car. At about one hundred fifty yards in, I heard load crashing to my left. Thinking that I may have spooked a deer I froze and looked around. The crashing stopped when I stopped. As I took a few steps,   I heard the crashing in the woods again. I stopped again and so did it. But I noticed that instead of going away from me it was coming to me. I then took a couple of more steps then it was getting really close to me. I jumped to the next row of pines and squatted down so that I could look around. The branches started at about four feet from the ground. I suddenly noticed an awful odor from the area of the noise. Then I heard another crunch of branches and a big white furry leg stepped in the same row as me. I could see a good four feet of legs that were about seven inches around but it wasn't up to where the thigh gets big. It was only about twenty five yards to my left. The thought of shooting it came and went. It was huge and I didn't know was it was, and what would happen if my 30 30 didn't take it down.  I didn't move, and after squatting there for about ten min. It went on its way. I waited until I couldn't hear it any more, I ran back to the car and waited for the others to come back. I never mentioned this for years.",
+  "classification": "Class B",
+  "county": "Roscommon",
+  "state": "Michigan",
+  "latitude": 44.377,
+  "longitude": -84.4995,
+  "location": {
+    "longitude": -84.4995,
+    "latitude": 44.377
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 42,
+    "mid": 38.065,
+    "low": 34.13
+  },
+  "dew_point": 34.56,
+  "humidity": 0.81,
+  "cloud_cover": 1,
+  "moon_phase": 0.83,
+  "precip_intensity": 0.0113,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1011.56,
+  "summary": "Foggy until afternoon.",
+  "uv_index": 1,
+  "visibility": 5.24,
+  "wind_bearing": 15,
+  "wind_speed": 5.58
+}

@@ -11,9 +11,11 @@
   "longitude": -74.0863,
   "location": "-74.0863,41.66955",
   "location_details": "Lake near Modena, New York.",
-  "temperature_high": 67.57,
-  "temperature_mid": 56.915,
-  "temperature_low": 46.26,
+  "temperature": {
+    "high": 67.57,
+    "mid": 56.915,
+    "low": 46.26
+  },
   "dew_point": 37.88,
   "humidity": 0.52,
   "cloud_cover": 0.26,

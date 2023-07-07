@@ -11,9 +11,11 @@
   "longitude": -75.3811,
   "location": "-75.3811,42.32921",
   "location_details": "The witness does not want the specific location  published. It is near the town of Sidney, NY.",
-  "temperature_high": 60.34,
-  "temperature_mid": 56.15,
-  "temperature_low": 51.96,
+  "temperature": {
+    "high": 60.34,
+    "mid": 56.15,
+    "low": 51.96
+  },
   "dew_point": 46.38,
   "humidity": 0.77,
   "cloud_cover": 0.54,

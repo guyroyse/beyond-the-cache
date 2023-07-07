@@ -1,0 +1,34 @@
+{
+  "reportId": "27242",
+  "title": "Possible howl heard on the Duck River while camping",
+  "date": "2009-07-17",
+  "timestamp": 1247788800,
+  "observed": "My fiance and I were camping out on the banks of the Duck River last summer. Around 2 a.m. we could hear dogs from across the river barking. (It was also a full moon.) All of a sudden, from down the river (it sounded like, anyway) we heard a loud,deep,howl (just like the recordings of Big Foot on tv) that lasted almost ten seconds. All of the dogs, critters, etc. that were making noise went completely silent. We waited up,kind of scared, but never heard it again and the dogs, etc. never made any other noises either. My fiance is an avid hunter and knows all of the sounds out in woods day or night. He says he has never heard anything like that before. Whatever it was, it had to be something that all of the other animals knew to fear.",
+  "classification": "Class B",
+  "county": "Hickman",
+  "state": "Tennessee",
+  "latitude": 35.78439,
+  "longitude": -87.44963,
+  "location": {
+    "longitude": -87.44963,
+    "latitude": 35.78439
+  },
+  "location_details": "Along the Duck River in Middle TN.",
+  "temperature": {
+    "high": 82.9,
+    "mid": 70.655,
+    "low": 58.41
+  },
+  "dew_point": 65.09,
+  "humidity": 0.71,
+  "cloud_cover": 0.45,
+  "moon_phase": 0.84,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1013.37,
+  "summary": "Partly cloudy until evening.",
+  "uv_index": 9,
+  "visibility": 9.89,
+  "wind_bearing": 286,
+  "wind_speed": 6.91
+}

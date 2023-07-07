@@ -11,9 +11,11 @@
   "longitude": -84.51192,
   "location": "-84.51192,39.65625",
   "location_details": "As you go down Gratis-Enterprise Road from Gratis heading east you cross the bridge over Twin Creek. There's a pull off on the right where you can park. From there, you can walk down to creek.",
-  "temperature_high": 80.62,
-  "temperature_mid": 73.245,
-  "temperature_low": 65.87,
+  "temperature": {
+    "high": 80.62,
+    "mid": 73.245,
+    "low": 65.87
+  },
   "dew_point": 51.73,
   "humidity": 0.57,
   "cloud_cover": 0.04,

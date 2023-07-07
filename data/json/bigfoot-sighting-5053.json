@@ -11,9 +11,11 @@
   "longitude": -122.2487,
   "location": "-122.2487,45.4684",
   "location_details": "Gordon Creek Rd. is south of Corbett, Oregon, in Multnomah County, near the Clackamas County line between Corbett and the hamlet of Aims, Oregon",
-  "temperature_high": 71.85,
-  "temperature_mid": 59.265,
-  "temperature_low": 46.68,
+  "temperature": {
+    "high": 71.85,
+    "mid": 59.265,
+    "low": 46.68
+  },
   "dew_point": 45.53,
   "humidity": 0.63,
   "cloud_cover": 0.15,

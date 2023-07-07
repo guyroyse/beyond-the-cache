@@ -11,9 +11,11 @@
   "longitude": -119.7023,
   "location": "-119.7023,48.9138",
   "location_details": "Small lake west of Palmer Lake, it about 10 miles WSW of Oroville.",
-  "temperature_high": 63.75,
-  "temperature_mid": 56.61,
-  "temperature_low": 49.47,
+  "temperature": {
+    "high": 63.75,
+    "mid": 56.61,
+    "low": 49.47
+  },
   "dew_point": 41.87,
   "humidity": 0.59,
   "cloud_cover": 0.77,

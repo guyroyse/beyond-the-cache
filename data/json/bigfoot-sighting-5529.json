@@ -11,9 +11,11 @@
   "longitude": -123.975,
   "location": "-123.975,44.19167",
   "location_details": "East of Hwy 101 on Fairview Mtn. Road maybe 10 or 12 miles.  I can find it again.",
-  "temperature_high": 78.75,
-  "temperature_mid": 66.545,
-  "temperature_low": 54.34,
+  "temperature": {
+    "high": 78.75,
+    "mid": 66.545,
+    "low": 54.34
+  },
   "dew_point": 55.93,
   "humidity": 0.7,
   "cloud_cover": 0.57,

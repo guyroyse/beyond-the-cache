@@ -11,9 +11,11 @@
   "longitude": -74.68832,
   "location": "-74.68832,41.29596",
   "location_details": "Can't remember but I went back there many years later just to see it, was easy to find. Not a big state park.",
-  "temperature_high": 75.58,
-  "temperature_mid": 67.355,
-  "temperature_low": 59.13,
+  "temperature": {
+    "high": 75.58,
+    "mid": 67.355,
+    "low": 59.13
+  },
   "dew_point": 60.09,
   "humidity": 0.81,
   "cloud_cover": 0.68,

@@ -11,9 +11,11 @@
   "longitude": -88.71402,
   "location": "-88.71402,41.42741",
   "location_details": "I lived at this location at that time.  5A valley with creek. Steep bank on west side of creek.",
-  "temperature_high": 91.49,
-  "temperature_mid": 83.92,
-  "temperature_low": 76.35,
+  "temperature": {
+    "high": 91.49,
+    "mid": 83.92,
+    "low": 76.35
+  },
   "dew_point": 69.55,
   "humidity": 0.67,
   "cloud_cover": 0.67,

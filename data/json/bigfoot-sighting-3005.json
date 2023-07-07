@@ -11,9 +11,11 @@
   "longitude": -89.67523,
   "location": "-89.67523,45.22849",
   "location_details": "This incident occured about 2 miles north of town on Business Highway 51. The railroad tracks run right along the highway.",
-  "temperature_high": 72.33,
-  "temperature_mid": 65.165,
-  "temperature_low": 58,
+  "temperature": {
+    "high": 72.33,
+    "mid": 65.165,
+    "low": 58
+  },
   "dew_point": 52.77,
   "humidity": 0.75,
   "cloud_cover": 0.64,

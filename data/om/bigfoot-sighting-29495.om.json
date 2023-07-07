@@ -1,0 +1,35 @@
+{
+  "reportId": "29495",
+  "title": "Possible footprint found on edge of Chatham",
+  "date": "2011-06-15",
+  "timestamp": 1308096000,
+  "observed": "We happened to notice a large complete footprint under an apple tree in our backyard measuring about 18\".  We live at the edge of a subdivision that backs up to a deeply wooded stream that eventually leads to a large man-made lake. Our lot is rather extensive and towards to back we have several varieties of fruit trees including apples, peaches, nectarines, cherries, and pears. The foot print was found under the most mature and biggest of apple trees with a level muddy area under it amongst a sloping yard that leads to the stream. Coincidentally, the area on the apple tree directly above the print was devoid of apples while the remainder of the tree was more abundant with fruit.  We've also noticed in years past that we see fruit growing on all of our trees but by the time it's near maturity it all disappears. We just figured it was raccoons but apparently not. Our next-door neighbor has a cuddly german-shephard who roams leash-free around his yard but rarely comes into our yard unless accompanied by our neighbor. After we showed the neighbor the footprint, he told us that his dog darted out in the backyard one night then immediately came running back and cowered near his owner for the remainder of the night. Ever since he is leery to roam the yard and has even been sleeping in his owners bed, which he never did before. Our neighbor also reported hearing high-pitched catlike shrieking noises in the last few weeks. After the discovery of the footprint we discovered a decapitated rabbit.  The head was completely torn clean away from the body as if it had been \"popped\" off.  It wasn't shredded or otherwise bloody, just simply guillotined.  We've recently learned this could have been a gift from our large-footed visitor as appreciation for munching on our fruit.",
+  "classification": "Class B",
+  "county": "Sangamon",
+  "state": "Illinois",
+  "latitude": 39.66676,
+  "longitude": -89.68079,
+  "location": {
+    "longitude": -89.68079,
+    "latitude": 39.66676
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 79.55,
+    "mid": 70.375,
+    "low": 61.2
+  },
+  "dew_point": 63.12,
+  "humidity": 0.77,
+  "cloud_cover": 0.43,
+  "moon_phase": 0.5,
+  "precip_intensity": 0.0352,
+  "precip_probability": 0.9,
+  "precip_type": "rain",
+  "pressure": 1006.9,
+  "summary": "Heavy rain in the morning.",
+  "uv_index": 9,
+  "visibility": 9.12,
+  "wind_bearing": 204,
+  "wind_speed": 3.91
+}

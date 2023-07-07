@@ -11,9 +11,11 @@
   "longitude": -121.6647,
   "location": "-121.6647,47.7853",
   "location_details": "Turn off Hwy 2 on FR 62. 3 miles up main dirt road. Area has recently been clearcut. We were just above the snow level. There was a foot of snow on the road.",
-  "temperature_high": 51.58,
-  "temperature_mid": 47.275,
-  "temperature_low": 42.97,
+  "temperature": {
+    "high": 51.58,
+    "mid": 47.275,
+    "low": 42.97
+  },
   "dew_point": 42.75,
   "humidity": 0.87,
   "cloud_cover": 0.7,

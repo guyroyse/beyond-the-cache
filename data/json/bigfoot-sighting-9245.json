@@ -11,9 +11,11 @@
   "longitude": -86.5945,
   "location": "-86.5945,41.062",
   "location_details": "All the sightings were near the Dentwood cabins, right off River Road, just outside of Winamac.",
-  "temperature_high": 19.12,
-  "temperature_mid": 10.955,
-  "temperature_low": 2.79,
+  "temperature": {
+    "high": 19.12,
+    "mid": 10.955,
+    "low": 2.79
+  },
   "dew_point": 11.87,
   "humidity": 0.81,
   "cloud_cover": 0.85,

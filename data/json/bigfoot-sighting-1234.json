@@ -11,9 +11,11 @@
   "longitude": -91.3867,
   "location": "-91.3867,43.078",
   "location_details": "USA, Iowa in northern Clayton County, approximately 2 miles north of the town of Monona on a gravel road running east.",
-  "temperature_high": 85,
-  "temperature_mid": 71.8,
-  "temperature_low": 58.6,
+  "temperature": {
+    "high": 85,
+    "mid": 71.8,
+    "low": 58.6
+  },
   "dew_point": 63.19,
   "humidity": 0.67,
   "cloud_cover": 0.65,

@@ -11,9 +11,11 @@
   "longitude": -123.6664,
   "location": "-123.6664,45.07072",
   "location_details": "Gated forest road # 7 on north side of highway 18 about two miles west of Grande Rhonde, OR",
-  "temperature_high": 73.12,
-  "temperature_mid": 63.26,
-  "temperature_low": 53.4,
+  "temperature": {
+    "high": 73.12,
+    "mid": 63.26,
+    "low": 53.4
+  },
   "dew_point": 55.11,
   "humidity": 0.73,
   "cloud_cover": 0.61,

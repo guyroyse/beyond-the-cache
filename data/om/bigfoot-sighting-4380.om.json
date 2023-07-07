@@ -1,0 +1,34 @@
+{
+  "reportId": "4380",
+  "title": "Dirty white animal seen near apple orchard",
+  "date": "1994-07-15",
+  "timestamp": 774230400,
+  "observed": "Mineral, Washington. Lewis County. My friend and I were sitting on his truck tailgate, parked in my parents driveway, looking at stars and laughing/talking ect...  Very clear night, with bright moonlight (rare for Washington).  Truck was about 20 feet from State Hwy 7.  A crab apple tree had grown on the edge of the property, practically hanging out in the road (Hwy 7).  The farm my family lived on was surrounded by trees, and we could constantly hear the wind run through them.  But we heard a different type of tree movement from the crab apple tree by the highway, and it caught our attention.  It sounded like something pushing the branches in, and fruit snapping off.  We got off of the truck and walked toward the tree. When we were about 15 feet from the tree, the noise stopped.  Then we saw it. A large, pale \"animal\"  upright on two legs.  It paid us little mind as it jogged out from behind the tree, and loped across the highway with a \"swish, swish, swish\" sound from it's feet.  It sounded like someone rubbing two pieces of sand paper together.  I was transfixed by the legs.  They remained so strait, and took such long strides.  The left arm swung in huge, deliberate strokes, and other than the feet swishing, we heard no noise.  No labored breathing, creeky joints, Nothing.  The visual  portion was as follows: Pale colored.  Not brown at all. Infact, almost a \"dirty white\" color. Long, slender limbs. Not fat or \"bulky\". Hair on legs seemed to be around 5 or 6 inches long, and swung back and forth with leg motion. Definitely had a \"hand\", which swung in large, forceful movements. It was hanging onto what I believe to be my parents crab apple. We were unable to move for what seemed like hours, but must have been only a few seconds. It continued down the highway, and when we came to our heads, in nervous excitement we ran for the truck cab to turn on the headlights.  Too late, it was out of site.  We ran inside, grabbed flashlights, and after trying to explain to my family what had just happened, ended up dragging half of them out into the woods in the \"animals\" last known direction of travel. Needless to say, we heard and found nothing. The next day, tracks could be found, although they were not the type you would expect.  They were scuffs of tracks from the animal dragging its feet, not the clear, easily identifiable tracks you see on TV, etc...The crab apple tree had a signifigent section of broken branches, and two pieces of apple laying on the ground.",
+  "classification": "Class A",
+  "county": "Lewis",
+  "state": "Washington",
+  "latitude": 46.7002,
+  "longitude": -122.1983,
+  "location": {
+    "longitude": -122.1983,
+    "latitude": 46.7002
+  },
+  "location_details": "State highway 7, 5 miles toward Morton from Elbe.",
+  "temperature": {
+    "high": 76.14,
+    "mid": 65.305,
+    "low": 54.47
+  },
+  "dew_point": 53.59,
+  "humidity": 0.72,
+  "cloud_cover": 0.65,
+  "moon_phase": 0.24,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1020.89,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 7,
+  "visibility": 8.17,
+  "wind_bearing": 293,
+  "wind_speed": 3.63
+}

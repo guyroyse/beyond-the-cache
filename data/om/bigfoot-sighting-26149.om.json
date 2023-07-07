@@ -1,0 +1,35 @@
+{
+  "reportId": "26149",
+  "title": "Fishermen experience possible early morning vocalizations and rock throwing at East Fork Lake",
+  "date": "2009-06-16",
+  "timestamp": 1245110400,
+  "observed": "while fishing early in the morning at Eastfork Lake near batavia,ohio,my nephew and I heard first an owl hooting a couple of times and I told Cody that I'd never heard one there before.It was around 3 am,After a few more hoots all of a sudden a loud noise came from the woods.A noise that I've only heard in a jungle scene in a movie.The sound was of chimps in trees,warning of danger present,it was very strange.After about an hour had pasted,we heard the owl noise again and then broke out in a loud low scream,over and over we heard this scream.then it went into what sounded like dogs barking,maybe a few dogs and then the barking went into yelping like they were being hurt.Then it stopped.We didn't hear anything again.Occasionally we'd hear the sound of a large rock being thrown into the water about 100 yards away.We left alittle later after all that went on.",
+  "classification": "Class B",
+  "county": "Clermont",
+  "state": "Ohio",
+  "latitude": 39.03501,
+  "longitude": -84.1317,
+  "location": {
+    "longitude": -84.1317,
+    "latitude": 39.03501
+  },
+  "location_details": "we were fishing on a sandy clearing just to the right of the floating dock at the Northshore boatramp,EastFork Lake State Park",
+  "temperature": {
+    "high": 78.09,
+    "mid": 72.605,
+    "low": 67.12
+  },
+  "dew_point": 61.99,
+  "humidity": 0.72,
+  "cloud_cover": 0.45,
+  "moon_phase": 0.78,
+  "precip_intensity": 0.0083,
+  "precip_probability": 0.7,
+  "precip_type": "rain",
+  "pressure": 1014.01,
+  "summary": "Rain overnight.",
+  "uv_index": 9,
+  "visibility": 8.21,
+  "wind_bearing": 113,
+  "wind_speed": 5.02
+}

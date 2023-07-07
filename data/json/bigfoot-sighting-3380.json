@@ -11,9 +11,11 @@
   "longitude": -82.32803,
   "location": "-82.32803,40.82327",
   "location_details": "The incident in question took place in Ashland county about 5 miles south of Ashland on a one lane country road. If necessary I can go And get the actual township number for the road.",
-  "temperature_high": 90.05,
-  "temperature_mid": 82.56,
-  "temperature_low": 75.07,
+  "temperature": {
+    "high": 90.05,
+    "mid": 82.56,
+    "low": 75.07
+  },
   "dew_point": 68.81,
   "humidity": 0.71,
   "cloud_cover": 0.51,

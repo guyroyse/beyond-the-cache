@@ -11,9 +11,11 @@
   "longitude": -83.13585,
   "location": "-83.13585,39.20212",
   "location_details": "The closest road is State Route 772 and State Route 50.  There is a mountain called Coppers Mountain.",
-  "temperature_high": 37.65,
-  "temperature_mid": 32.735,
-  "temperature_low": 27.82,
+  "temperature": {
+    "high": 37.65,
+    "mid": 32.735,
+    "low": 27.82
+  },
   "dew_point": 13.33,
   "humidity": 0.59,
   "cloud_cover": 0.47,

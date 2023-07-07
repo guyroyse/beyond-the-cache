@@ -11,9 +11,11 @@
   "longitude": -96.55,
   "location": "-96.55,30.33333",
   "location_details": "Lake Somerville, Texas",
-  "temperature_high": 93,
-  "temperature_mid": 83.745,
-  "temperature_low": 74.49,
+  "temperature": {
+    "high": 93,
+    "mid": 83.745,
+    "low": 74.49
+  },
   "dew_point": 72.54,
   "humidity": 0.72,
   "cloud_cover": 0.42,

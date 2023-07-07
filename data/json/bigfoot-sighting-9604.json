@@ -11,9 +11,11 @@
   "longitude": -118.3692,
   "location": "-118.3692,44.9723",
   "location_details": "About 10 air miles N. of Granite, just east of North Trail Creek. The area is also about 4 miles east of the North Fork John Day Wilderness Area.",
-  "temperature_high": 67.01,
-  "temperature_mid": 55.59,
-  "temperature_low": 44.17,
+  "temperature": {
+    "high": 67.01,
+    "mid": 55.59,
+    "low": 44.17
+  },
   "dew_point": 47.03,
   "humidity": 0.73,
   "cloud_cover": 0.72,

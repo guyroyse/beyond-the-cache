@@ -1,0 +1,35 @@
+{
+  "reportId": "18056",
+  "title": "Possible late night sighting by camper near the UT/WY border",
+  "date": "2001-06-13",
+  "timestamp": 992390400,
+  "observed": "",
+  "classification": "Class B",
+  "county": "Summit",
+  "state": "Utah",
+  "latitude": 40.825,
+  "longitude": -110.825,
+  "location": {
+    "longitude": -110.825,
+    "latitude": 40.825
+  },
+  "location_details": "Head south on highway 150 from evanston.  about 2 miles .75-1.25 miles south of the ranger station turn left on the christmas meadows road.  about half a mile turn right and then another immediate right and travel about .25-.5 miles to where we were at.",
+  "temperature": {
+    "high": 62.92,
+    "mid": 51.46,
+    "low": 40
+  },
+  "dew_point": 30.32,
+  "humidity": 0.62,
+  "cloud_cover": 0.48,
+  "moon_phase": 0.74,
+  "precip_intensity": 0.0074,
+  "precip_probability": 0.87,
+  "precip_type": "rain",
+  "pressure": 1012.26,
+  "summary": "Rain in the morning.",
+  "uv_index": 10,
+  "visibility": 9.3,
+  "wind_bearing": 283,
+  "wind_speed": 5.49
+}

@@ -11,9 +11,11 @@
   "longitude": -83.67952,
   "location": "-83.67952,37.7764",
   "location_details": "From Lexinton, take I-64 east until you reach the Mountain Parkway, from there just follow the signs to Slade. At Slade take Ky highway 11 2 miles to the park.",
-  "temperature_high": 87.24,
-  "temperature_mid": 79.85,
-  "temperature_low": 72.46,
+  "temperature": {
+    "high": 87.24,
+    "mid": 79.85,
+    "low": 72.46
+  },
   "dew_point": 69.95,
   "humidity": 0.79,
   "cloud_cover": 0.34,

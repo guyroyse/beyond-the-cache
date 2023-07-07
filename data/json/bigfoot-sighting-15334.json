@@ -11,9 +11,11 @@
   "longitude": -100.545,
   "location": "-100.545,30.566",
   "location_details": "Eastbound on Interstate 10, in the median strip 100 yards east of Mile Marker 406.",
-  "temperature_high": 98.61,
-  "temperature_mid": 85.795,
-  "temperature_low": 72.98,
+  "temperature": {
+    "high": 98.61,
+    "mid": 85.795,
+    "low": 72.98
+  },
   "dew_point": 60.04,
   "humidity": 0.44,
   "cloud_cover": 0.06,

@@ -11,9 +11,11 @@
   "longitude": -80.84716,
   "location": "-80.84716,28.48899",
   "location_details": "south bound side of state road 407 adjacent to the Canaveral marsh lands",
-  "temperature_high": 85.93,
-  "temperature_mid": 80.555,
-  "temperature_low": 75.18,
+  "temperature": {
+    "high": 85.93,
+    "mid": 80.555,
+    "low": 75.18
+  },
   "dew_point": 70.62,
   "humidity": 0.73,
   "cloud_cover": 0.28,

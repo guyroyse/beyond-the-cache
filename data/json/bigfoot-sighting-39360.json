@@ -11,9 +11,11 @@
   "longitude": -82.17295,
   "location": "-82.17295,40.61286",
   "location_details": "SR39. The exact location is being withheld at the witness' request.",
-  "temperature_high": 90.01,
-  "temperature_mid": 78.825,
-  "temperature_low": 67.64,
+  "temperature": {
+    "high": 90.01,
+    "mid": 78.825,
+    "low": 67.64
+  },
   "dew_point": 63.23,
   "humidity": 0.58,
   "cloud_cover": 0.11,

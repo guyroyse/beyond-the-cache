@@ -11,9 +11,11 @@
   "longitude": -120.6705,
   "location": "-120.6705,47.4644",
   "location_details": "Washington State; west of highway 97; up the Ingalls Creek Valley, on the south side of the valley; about 150 feet above the creek.",
-  "temperature_high": 66.26,
-  "temperature_mid": 54.76,
-  "temperature_low": 43.26,
+  "temperature": {
+    "high": 66.26,
+    "mid": 54.76,
+    "low": 43.26
+  },
   "dew_point": 36.85,
   "humidity": 0.52,
   "cloud_cover": 0.58,

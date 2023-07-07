@@ -11,9 +11,11 @@
   "longitude": -92.173,
   "location": "-92.173,37.714",
   "location_details": "All I know is that it was about 5-10 minutes drive from a river crossing training site somewhere on Fort Leonard Wood.",
-  "temperature_high": 82.51,
-  "temperature_mid": 73.645,
-  "temperature_low": 64.78,
+  "temperature": {
+    "high": 82.51,
+    "mid": 73.645,
+    "low": 64.78
+  },
   "dew_point": 56.16,
   "humidity": 0.66,
   "cloud_cover": 0.38,

@@ -11,9 +11,11 @@
   "longitude": -123.466,
   "location": "-123.466,45.7351",
   "location_details": "All information is listed in the above statement. Please contact me ASAP",
-  "temperature_high": 71.44,
-  "temperature_mid": 59.135,
-  "temperature_low": 46.83,
+  "temperature": {
+    "high": 71.44,
+    "mid": 59.135,
+    "low": 46.83
+  },
   "dew_point": 52.97,
   "humidity": 0.8,
   "cloud_cover": 0.57,

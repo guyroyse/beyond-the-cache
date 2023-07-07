@@ -11,9 +11,11 @@
   "longitude": -84.2114,
   "location": "-84.2114,43.79834",
   "location_details": "about 6mi south of estey",
-  "temperature_high": 31,
-  "temperature_mid": 23.7,
-  "temperature_low": 16.4,
+  "temperature": {
+    "high": 31,
+    "mid": 23.7,
+    "low": 16.4
+  },
   "dew_point": 19.88,
   "humidity": 0.73,
   "cloud_cover": 0.74,

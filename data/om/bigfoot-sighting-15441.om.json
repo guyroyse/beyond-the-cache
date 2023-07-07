@@ -1,0 +1,35 @@
+{
+  "reportId": "15441",
+  "title": "Possible vocalizations heard near Bear Canyon Lake.",
+  "date": "2006-08-06",
+  "timestamp": 1154822400,
+  "observed": "ME my husband our two children and dog.  Were camping in the Apache-Sitgreaves National Forest In Arizona.  Right by Bear Canyon Lake at the end of Forest Road 9018. Saturday Morning I went for a walk with my morning coffee. I crossed a  fence looking for the lake. It was are first time camping at Bear Canyon lake and I knew the lake was close.  100 yards from the fence I saw a large mound of feces that was steaming.  It scared me, I knew what ever made that huge dropping was still very close because of the heat coming off of it.  I ran back to my camp site and thought it must have been a bear. I was thank full that the fence was between what ever it was and me.  Sunday morning about 4:00AM my entire family was awoken by a loud howling, screaming, growl. It yelled several times maybe 10 or 12 It was so scary I lost count I thought it would never end. The howling screams made the coyotes go crazy.  it was so close to are camp sight maybe 150 yards away in a sloping north east area of the forest.  We laid there as quite and still as possible waiting for day light.  Their were two more camping sights not to far from us but by the time we packed up and went to talk to the people at the other sights they had already left.  The only sound I could find on your sight that sounded close to the sound were form California the 1993 Del Norte recording. The sounds we heard  were angry or like it was injured or mad.",
+  "classification": "Class B",
+  "county": "Coconino",
+  "state": "Arizona",
+  "latitude": 34.425,
+  "longitude": -111.375,
+  "location": {
+    "longitude": -111.375,
+    "latitude": 34.425
+  },
+  "location_details": "from payson you take Hwy 260 to the rim lakes turn off FR 300 take road to FR 84 then FR 9018 take that road to the end we camped at the clearing maybe 1/8 mile  befor the end of the road on the north side.",
+  "temperature": {
+    "high": 95.83,
+    "mid": 84.635,
+    "low": 73.44
+  },
+  "dew_point": 52.7,
+  "humidity": 0.37,
+  "cloud_cover": 0.22,
+  "moon_phase": 0.4,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.08,
+  "precip_type": "rain",
+  "pressure": 1010.69,
+  "summary": "Partly cloudy starting in the afternoon, continuing until evening.",
+  "uv_index": 11,
+  "visibility": 9.98,
+  "wind_bearing": 156,
+  "wind_speed": 3.06
+}

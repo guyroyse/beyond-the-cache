@@ -11,9 +11,11 @@
   "longitude": -122.7607,
   "location": "-122.7607,46.9363",
   "location_details": "Military Training area.",
-  "temperature_high": 85,
-  "temperature_mid": 67.655,
-  "temperature_low": 50.31,
+  "temperature": {
+    "high": 85,
+    "mid": 67.655,
+    "low": 50.31
+  },
   "dew_point": 47.62,
   "humidity": 0.51,
   "cloud_cover": 0.1,

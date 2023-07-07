@@ -11,9 +11,11 @@
   "longitude": -74.1301,
   "location": "-74.1301,40.053",
   "location_details": "Residential neighborhood that is on the outskirts of the Pine Barrens.",
-  "temperature_high": 28.86,
-  "temperature_mid": 24.07,
-  "temperature_low": 19.28,
+  "temperature": {
+    "high": 28.86,
+    "mid": 24.07,
+    "low": 19.28
+  },
   "dew_point": 2.82,
   "humidity": 0.44,
   "cloud_cover": 0.2,

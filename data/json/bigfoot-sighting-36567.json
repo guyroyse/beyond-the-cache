@@ -11,9 +11,11 @@
   "longitude": -88.98228,
   "location": "-88.98228,37.92017",
   "location_details": "It happen in Orient Illinois on Chicago Avenue close to the city hall storage.",
-  "temperature_high": 83.36,
-  "temperature_mid": 73.55,
-  "temperature_low": 63.74,
+  "temperature": {
+    "high": 83.36,
+    "mid": 73.55,
+    "low": 63.74
+  },
   "dew_point": 64.73,
   "humidity": 0.73,
   "cloud_cover": 0.12,

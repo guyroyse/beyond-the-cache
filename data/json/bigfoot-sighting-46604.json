@@ -11,9 +11,11 @@
   "longitude": -81.55172,
   "location": "-81.55172,29.97454",
   "location_details": "I was going west of 42 after coming off Hwy 44 over the St. John's River Bridge.",
-  "temperature_high": 85.57,
-  "temperature_mid": 79.6,
-  "temperature_low": 73.63,
+  "temperature": {
+    "high": 85.57,
+    "mid": 79.6,
+    "low": 73.63
+  },
   "dew_point": 73.82,
   "humidity": 0.85,
   "cloud_cover": 0.15,

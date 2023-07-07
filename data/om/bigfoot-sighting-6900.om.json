@@ -1,0 +1,35 @@
+{
+  "reportId": "6900",
+  "title": "Ongoing accounts with a screaming ape-like creature",
+  "date": "2001-11-01",
+  "timestamp": 1004572800,
+  "observed": "Well, I'll start out telling you that my aunt has always heard some type of screaming in the late night to early morning hours. She always has said I know that it is Bigfoot. The next incident was at night time. My uncle which does not believe in anything unless he sees it went out one night in April to sit up in a deer stand to watch the deer that travel trough the fields behind his house. My uncle came running in the house and he was as white as a ghost. He said, \"I just seen a Bigfoot.\" He said that when he was looking at the creature the creature looked right back at him as if he was scared of my uncle and not sure of what my uncle (being in the tree) was. My uncle said that the creature was about eight feet tall and when it walked it too huge steps. It would have taken my uncle four steps of his own to equal one of the creatures. When the creature looked at him he swayed back and fourth moving the top half of his body as his hands were placed on his knees. ",
+  "classification": "Class A",
+  "county": "Columbiana",
+  "state": "Ohio",
+  "latitude": 40.77972,
+  "longitude": -80.64831,
+  "location": {
+    "longitude": -80.64831,
+    "latitude": 40.77972
+  },
+  "location_details": "Off of State Route 7 (the rest omitted).",
+  "temperature": {
+    "high": 68.18,
+    "mid": 63.825,
+    "low": 59.47
+  },
+  "dew_point": 40.36,
+  "humidity": 0.5,
+  "cloud_cover": 0.47,
+  "moon_phase": 0.51,
+  "precip_intensity": 0.0031,
+  "precip_probability": 0.38,
+  "precip_type": "rain",
+  "pressure": 1021.71,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 9.6,
+  "wind_bearing": 197,
+  "wind_speed": 10
+}

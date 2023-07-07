@@ -11,9 +11,11 @@
   "longitude": -87.49564,
   "location": "-87.49564,44.69867",
   "location_details": "I lived in the woods on a private road called \"Sleepy Hollow Drive\" in Wisconsin.",
-  "temperature_high": 72.52,
-  "temperature_mid": 53.55,
-  "temperature_low": 34.58,
+  "temperature": {
+    "high": 72.52,
+    "mid": 53.55,
+    "low": 34.58
+  },
   "dew_point": 44.34,
   "humidity": 0.57,
   "cloud_cover": 0.23,

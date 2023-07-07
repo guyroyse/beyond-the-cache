@@ -1,0 +1,35 @@
+{
+  "reportId": "4672",
+  "title": "Midnight sighting by two witnesses near Okeana",
+  "date": "2001-06-06",
+  "timestamp": 991785600,
+  "observed": "I saw a tall dark figure walking with very long strides. It was about seven feet tall or taller. It was walking in the distance so I didn't get that close of a look at it. It had very long arms, much longer than a human's. There was a very bad smell after it had passed, not like anything I had ever smelled before.",
+  "classification": "Class A",
+  "county": "Butler",
+  "state": "Ohio",
+  "latitude": 39.37215,
+  "longitude": -84.80138,
+  "location": {
+    "longitude": -84.80138,
+    "latitude": 39.37215
+  },
+  "location_details": "It was locate about 20 minutes east of Brookville lake and about 2 minutes east of Govner Bev park.",
+  "temperature": {
+    "high": 76.03,
+    "mid": 69.09,
+    "low": 62.15
+  },
+  "dew_point": 66.1,
+  "humidity": 0.9,
+  "cloud_cover": 0.69,
+  "moon_phase": 0.52,
+  "precip_intensity": 0.0511,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1015.63,
+  "summary": "Heavy rain in the morning and afternoon.",
+  "uv_index": 8,
+  "visibility": 7.31,
+  "wind_bearing": 261,
+  "wind_speed": 1.99
+}

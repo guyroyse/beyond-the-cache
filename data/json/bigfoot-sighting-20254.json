@@ -11,9 +11,11 @@
   "longitude": -111.6149,
   "location": "-111.6149,41.6359",
   "location_details": "Location is west of Hardware Ranch on the top of the mountain range west of the ranch.",
-  "temperature_high": 75.08,
-  "temperature_mid": 57.755,
-  "temperature_low": 40.43,
+  "temperature": {
+    "high": 75.08,
+    "mid": 57.755,
+    "low": 40.43
+  },
   "dew_point": 30.01,
   "humidity": 0.4,
   "cloud_cover": 0.19,

@@ -11,9 +11,11 @@
   "longitude": -82.89404,
   "location": "-82.89404,36.88494",
   "location_details": "On highway 38 on the Ky Va line headed toward Va from Ky we headed into the woods to the left of the road and traveled northwest all day,then camped.",
-  "temperature_high": 57.55,
-  "temperature_mid": 47.38,
-  "temperature_low": 37.21,
+  "temperature": {
+    "high": 57.55,
+    "mid": 47.38,
+    "low": 37.21
+  },
   "dew_point": 33.79,
   "humidity": 0.61,
   "cloud_cover": 0.24,

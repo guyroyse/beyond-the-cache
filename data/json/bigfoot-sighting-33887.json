@@ -11,9 +11,11 @@
   "longitude": -77.17868,
   "location": "-77.17868,38.70819",
   "location_details": "This is an active US Army Airfield with sensitive areas (restricted) on post. At the time when I was there, the Night Vision Labs were testing NV Goggles on helicopter pilots. Davison AAF is located off Route 1, Richmond Highway.",
-  "temperature_high": 90.2,
-  "temperature_mid": 82.465,
-  "temperature_low": 74.73,
+  "temperature": {
+    "high": 90.2,
+    "mid": 82.465,
+    "low": 74.73
+  },
   "dew_point": 68.15,
   "humidity": 0.75,
   "cloud_cover": 0.9,

@@ -11,9 +11,11 @@
   "longitude": -92.4573,
   "location": "-92.4573,45.1097",
   "location_details": "County road K going out of New Richmond takes you to 170th Street (where my parents live). There is a river, a small pond/marsh, RR tracks, nearby. This is about 3/4 of a mile off K on 170th.",
-  "temperature_high": 72.6,
-  "temperature_mid": 66.735,
-  "temperature_low": 60.87,
+  "temperature": {
+    "high": 72.6,
+    "mid": 66.735,
+    "low": 60.87
+  },
   "dew_point": 60.99,
   "humidity": 0.76,
   "cloud_cover": 0.62,

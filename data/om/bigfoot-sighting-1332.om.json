@@ -1,0 +1,34 @@
+{
+  "reportId": "1332",
+  "title": "newspaper article about a sighting by a jogger. Later, a sherif deputy found a track at the scene of the incident.",
+  "date": "1977-11-25",
+  "timestamp": 249264000,
+  "observed": "Newspaper article : Daily Reporter (Independence, Kansas), November 25, 1977 -------------------------------------------------------------------------------- Thanksgiving day, 1977. John Mark Breeze, while returning from jogging around 10:30 p.m., heard a noise in the bushes, ran up the hill to his house, turned around and saw a bigfoot running along the road. The bigfoot went over a barbed wire fence without much effort and disappeared into a field. Later Deputy Dwight Posey found an track one and a half feet long, seven inches wide, and shaped like a foot. It was too deep in the gravel for him to duplicate with his shoes. John said the creature was between 6-8 feet tall, had a 3 foot shoulder span, no neck, and dangling arms.",
+  "classification": "Class A",
+  "county": "Montgomery",
+  "state": "Kansas",
+  "latitude": 37.192,
+  "longitude": -95.7455,
+  "location": {
+    "longitude": -95.7455,
+    "latitude": 37.192
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 38.74,
+    "mid": 28.735,
+    "low": 18.73
+  },
+  "dew_point": 23.89,
+  "humidity": 0.67,
+  "cloud_cover": 0.44,
+  "moon_phase": 0.51,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1021.76,
+  "summary": "Partly cloudy until afternoon.",
+  "uv_index": 2,
+  "visibility": 8.89,
+  "wind_bearing": 350,
+  "wind_speed": 9.04
+}

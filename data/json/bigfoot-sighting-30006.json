@@ -11,9 +11,11 @@
   "longitude": -78.6205,
   "location": "-78.6205,38.9766",
   "location_details": "Sugar knob patc cabin on great north mountain on the boarder of va and wva",
-  "temperature_high": 57.2,
-  "temperature_mid": 46.21,
-  "temperature_low": 35.22,
+  "temperature": {
+    "high": 57.2,
+    "mid": 46.21,
+    "low": 35.22
+  },
   "dew_point": 27.39,
   "humidity": 0.46,
   "cloud_cover": 0.38,

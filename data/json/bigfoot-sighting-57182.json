@@ -11,9 +11,11 @@
   "longitude": -121.5094,
   "location": "-121.5094,46.6979",
   "location_details": "North of White Pass ski area",
-  "temperature_high": 67.88,
-  "temperature_mid": 63.11,
-  "temperature_low": 58.34,
+  "temperature": {
+    "high": 67.88,
+    "mid": 63.11,
+    "low": 58.34
+  },
   "dew_point": 54.64,
   "humidity": 0.82,
   "cloud_cover": 0.48,

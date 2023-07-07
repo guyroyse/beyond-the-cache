@@ -11,9 +11,11 @@
   "longitude": -80.21295,
   "location": "-80.21295,26.5931",
   "location_details": "This location is somewhat rural.It is on the outskirts of Lkae Worth. It used to be a hog farm, and is somewhat secluded. West of Lake Worth, near the Everglades.",
-  "temperature_high": 86.38,
-  "temperature_mid": 81.15,
-  "temperature_low": 75.92,
+  "temperature": {
+    "high": 86.38,
+    "mid": 81.15,
+    "low": 75.92
+  },
   "dew_point": 69.96,
   "humidity": 0.71,
   "cloud_cover": 0.5,

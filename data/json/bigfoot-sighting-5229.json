@@ -11,9 +11,11 @@
   "longitude": -82.93085,
   "location": "-82.93085,38.79215",
   "location_details": "A few miles off of State Route 139.",
-  "temperature_high": 72.53,
-  "temperature_mid": 65.61,
-  "temperature_low": 58.69,
+  "temperature": {
+    "high": 72.53,
+    "mid": 65.61,
+    "low": 58.69
+  },
   "dew_point": 61.06,
   "humidity": 0.82,
   "cloud_cover": 0.54,

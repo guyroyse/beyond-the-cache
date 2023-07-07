@@ -11,9 +11,11 @@
   "longitude": -82.77173,
   "location": "-82.77173,31.2137",
   "location_details": "Turn left on hwy 441/221 at the hwy 82 intersection(center of Pearson), go south for 1/4 mile, and turn left on Cogdell hwy, for approximatly 2 miles.",
-  "temperature_high": 83.07,
-  "temperature_mid": 77.915,
-  "temperature_low": 72.76,
+  "temperature": {
+    "high": 83.07,
+    "mid": 77.915,
+    "low": 72.76
+  },
   "dew_point": 72.73,
   "humidity": 0.86,
   "cloud_cover": 0.33,

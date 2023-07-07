@@ -11,9 +11,11 @@
   "longitude": -121.9165,
   "location": "-121.9165,45.33",
   "location_details": "At our cabin on Still Creek Rd. Lot 18. Outside Rhododendron.",
-  "temperature_high": 65.21,
-  "temperature_mid": 58.78,
-  "temperature_low": 52.35,
+  "temperature": {
+    "high": 65.21,
+    "mid": 58.78,
+    "low": 52.35
+  },
   "dew_point": 52.64,
   "humidity": 0.75,
   "cloud_cover": 0.76,

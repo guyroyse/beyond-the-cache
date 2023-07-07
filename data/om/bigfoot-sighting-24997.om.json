@@ -1,0 +1,35 @@
+{
+  "reportId": "24997",
+  "title": "Hiker has nighttime sighting near Carlyle",
+  "date": "2007-10-27",
+  "timestamp": 1193443200,
+  "observed": "While strolling through the timber on a warm fall night, I came up the slight incline from the river bank and heard a scream coming from due east. My immediate thought with respect to the sound was that it was a bobcat. I froze in my tracks and looked toward the sound in time to see whatever it was jump from about 6 or 8 feet up in a tree to the ground. It landed on its hind legs, took 3 or 4 steps, then went to all fours and ran faster than I have ever seen anything run into the treeline. When I saw that it was completely gone, I ran as fast as I could perpendicularly to the highway.",
+  "classification": "Class A",
+  "county": "Clinton",
+  "state": "Illinois",
+  "latitude": 38.567,
+  "longitude": -89.341,
+  "location": {
+    "longitude": -89.341,
+    "latitude": 38.567
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 61.97,
+    "mid": 49.475,
+    "low": 36.98
+  },
+  "dew_point": 44.67,
+  "humidity": 0.72,
+  "cloud_cover": 0.51,
+  "moon_phase": 0.56,
+  "precip_intensity": 0.0014,
+  "precip_probability": 0.49,
+  "precip_type": "rain",
+  "pressure": 1026.85,
+  "summary": "Mostly cloudy until afternoon.",
+  "uv_index": 3,
+  "visibility": 8.33,
+  "wind_bearing": 297,
+  "wind_speed": 7.15
+}

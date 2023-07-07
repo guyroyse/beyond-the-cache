@@ -11,9 +11,11 @@
   "longitude": -86.5104,
   "location": "-86.5104,36.5802",
   "location_details": "A day or so later, J told me that he accompanied his father, along with some other friends, to the spot where we'd had found the trees. Said the knife was still in the ground. Mentioned that they found additional tracks. A month or so after that, he said there was a nighttime sighting of something crossing a neighbor's field.",
-  "temperature_high": 77.09,
-  "temperature_mid": 69.275,
-  "temperature_low": 61.46,
+  "temperature": {
+    "high": 77.09,
+    "mid": 69.275,
+    "low": 61.46
+  },
   "dew_point": 63.34,
   "humidity": 0.88,
   "cloud_cover": 0.96,

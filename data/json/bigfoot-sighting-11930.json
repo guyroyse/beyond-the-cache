@@ -11,9 +11,11 @@
   "longitude": -122.5926,
   "location": "-122.5926,47.0849",
   "location_details": "This occurred in 1971 so if you could locate the barricks area of Company E 4th Battalion 2nd Brigade. You will find the location.",
-  "temperature_high": 38,
-  "temperature_mid": 31.605,
-  "temperature_low": 25.21,
+  "temperature": {
+    "high": 38,
+    "mid": 31.605,
+    "low": 25.21
+  },
   "dew_point": 16.61,
   "humidity": 0.64,
   "cloud_cover": 0.47,

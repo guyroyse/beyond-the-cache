@@ -11,9 +11,11 @@
   "longitude": -91.96238,
   "location": "-91.96238,38.62",
   "location_details": "dead end county road",
-  "temperature_high": 57.7,
-  "temperature_mid": 52.585,
-  "temperature_low": 47.47,
+  "temperature": {
+    "high": 57.7,
+    "mid": 52.585,
+    "low": 47.47
+  },
   "dew_point": 50.06,
   "humidity": 0.93,
   "cloud_cover": 0.79,

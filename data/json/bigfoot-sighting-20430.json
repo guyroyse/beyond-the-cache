@@ -11,9 +11,11 @@
   "longitude": -110.8139,
   "location": "-110.8139,40.61087",
   "location_details": "We went around Strawberry reservoir (NE of Heber) Hwy 40 up to Hanna, then on a dirt road, then backpacked to Betsy Lake (Granddady Basin).  We were on the North side of the lake. It as a \"No firearms allowed\", area.",
-  "temperature_high": 89.42,
-  "temperature_mid": 77.14,
-  "temperature_low": 64.86,
+  "temperature": {
+    "high": 89.42,
+    "mid": 77.14,
+    "low": 64.86
+  },
   "dew_point": 40.29,
   "humidity": 0.3,
   "cloud_cover": 0.4,

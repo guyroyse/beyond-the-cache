@@ -11,9 +11,11 @@
   "longitude": -111.0946,
   "location": "-111.0946,34.43951",
   "location_details": "This was in the Lake Knoll area.  We camped past the final turn to Lake Knoll on a narrow dirt road.  Instead of turning right to get to the lake, we kept on going straight.",
-  "temperature_high": 90.64,
-  "temperature_mid": 75.525,
-  "temperature_low": 60.41,
+  "temperature": {
+    "high": 90.64,
+    "mid": 75.525,
+    "low": 60.41
+  },
   "dew_point": 26.47,
   "humidity": 0.2,
   "cloud_cover": 0.01,

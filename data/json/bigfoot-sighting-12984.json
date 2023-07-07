@@ -11,9 +11,11 @@
   "longitude": -88.1577,
   "location": "-88.1577,42.1295",
   "location_details": "It is hard to remember as it is almost 40 years later and I really was not familiar with the area in the first place. It was 4 miles or so east of Carpentersville.  That is the best I can do now.",
-  "temperature_high": 69.77,
-  "temperature_mid": 63.205,
-  "temperature_low": 56.64,
+  "temperature": {
+    "high": 69.77,
+    "mid": 63.205,
+    "low": 56.64
+  },
   "dew_point": 46.16,
   "humidity": 0.67,
   "cloud_cover": 0.43,

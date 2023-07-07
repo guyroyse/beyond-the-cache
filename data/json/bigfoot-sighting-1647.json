@@ -11,9 +11,11 @@
   "longitude": -122.0514,
   "location": "-122.0514,46.17861",
   "location_details": "Road past Lava Canyon where a washed out creek bed crosses the road.",
-  "temperature_high": 63.05,
-  "temperature_mid": 56.65,
-  "temperature_low": 50.25,
+  "temperature": {
+    "high": 63.05,
+    "mid": 56.65,
+    "low": 50.25
+  },
   "dew_point": 48.82,
   "humidity": 0.78,
   "cloud_cover": 0.84,

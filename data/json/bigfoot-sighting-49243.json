@@ -11,9 +11,11 @@
   "longitude": -105.812,
   "location": "-105.812,40.3105",
   "location_details": "If you drive the Trail Ridge scenic byway you can enter the green mountain trail.",
-  "temperature_high": 77.29,
-  "temperature_mid": 64.335,
-  "temperature_low": 51.38,
+  "temperature": {
+    "high": 77.29,
+    "mid": 64.335,
+    "low": 51.38
+  },
   "dew_point": 44.27,
   "humidity": 0.47,
   "cloud_cover": 0.04,

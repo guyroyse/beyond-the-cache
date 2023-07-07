@@ -11,9 +11,11 @@
   "longitude": -120.9855,
   "location": "-120.9855,45.9358",
   "location_details": "I know exactly how to get there but I don't remember the Hwy leading W out of Goldendale but stay on it then you come up to block house. Drive through and keep following the hwy for about 4 miles you come to a sharp 20 mile corner and instead of taking the corner go straight off the road.  It becomes gravel road.  Follow it for about 5 miles then you should come to an old run down homestead off to your left that open field is where this took place ...This is known as the Grayback mountain range  leading up to Mt Adams",
-  "temperature_high": 54,
-  "temperature_mid": 45.175,
-  "temperature_low": 36.35,
+  "temperature": {
+    "high": 54,
+    "mid": 45.175,
+    "low": 36.35
+  },
   "dew_point": 36.22,
   "humidity": 0.76,
   "cloud_cover": 0.4,

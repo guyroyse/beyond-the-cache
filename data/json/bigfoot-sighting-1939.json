@@ -11,9 +11,11 @@
   "longitude": -77.2914,
   "location": "-77.2914,34.6894",
   "location_details": "On the military reservation Camp Lejuene marine corps base approximately 5 miles from Highway 24 in Hubert, North Carolina.",
-  "temperature_high": 79.34,
-  "temperature_mid": 75.32,
-  "temperature_low": 71.3,
+  "temperature": {
+    "high": 79.34,
+    "mid": 75.32,
+    "low": 71.3
+  },
   "dew_point": 68.96,
   "humidity": 0.79,
   "cloud_cover": 0.89,

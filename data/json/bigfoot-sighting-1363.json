@@ -11,9 +11,11 @@
   "longitude": -106.4269,
   "location": "-106.4269,39.18975",
   "location_details": "12 km south of Leadville at an elevation of about 3000 m MSL on the eastern foothills of Mount Massive south of the Leadville Fish Hatchery.",
-  "temperature_high": 61.28,
-  "temperature_mid": 42.52,
-  "temperature_low": 23.76,
+  "temperature": {
+    "high": 61.28,
+    "mid": 42.52,
+    "low": 23.76
+  },
   "dew_point": 22.05,
   "humidity": 0.5,
   "cloud_cover": 0.11,

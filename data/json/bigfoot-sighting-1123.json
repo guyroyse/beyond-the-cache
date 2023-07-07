@@ -11,9 +11,11 @@
   "longitude": -101.5361,
   "location": "-101.5361,33.45278",
   "location_details": "In the yellow house canyon just south of the Lubbock Lake Site",
-  "temperature_high": 59.23,
-  "temperature_mid": 46.88,
-  "temperature_low": 34.53,
+  "temperature": {
+    "high": 59.23,
+    "mid": 46.88,
+    "low": 34.53
+  },
   "dew_point": 32.07,
   "humidity": 0.65,
   "cloud_cover": 0.07,

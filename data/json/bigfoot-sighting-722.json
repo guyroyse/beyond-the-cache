@@ -11,9 +11,11 @@
   "longitude": -82.98365,
   "location": "-82.98365,29.6699",
   "location_details": "dixie county Fla OLD Town US hwy 349 5 miles north of us 19",
-  "temperature_high": 62.41,
-  "temperature_mid": 50.335,
-  "temperature_low": 38.26,
+  "temperature": {
+    "high": 62.41,
+    "mid": 50.335,
+    "low": 38.26
+  },
   "dew_point": 40.39,
   "humidity": 0.73,
   "cloud_cover": 0.2,

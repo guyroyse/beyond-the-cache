@@ -11,9 +11,11 @@
   "longitude": -78.32549,
   "location": "-78.32549,39.64819",
   "location_details": "We returned to the site the following year and found the cemetery. Our camp was about 100 yards away. I would need to look at the map again to verify the exact location.",
-  "temperature_high": 58.55,
-  "temperature_mid": 55.665,
-  "temperature_low": 52.78,
+  "temperature": {
+    "high": 58.55,
+    "mid": 55.665,
+    "low": 52.78
+  },
   "dew_point": 52.66,
   "humidity": 0.91,
   "cloud_cover": 0.92,

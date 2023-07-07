@@ -11,9 +11,11 @@
   "longitude": -118.0811,
   "location": "-118.0811,45.99215",
   "location_details": "Mill Creek Rd. east out of Walla Walla cross mill creek near the water shed continue up the hill towards oregon approx. 1 to 2 miles.",
-  "temperature_high": 57.9,
-  "temperature_mid": 43.105,
-  "temperature_low": 28.31,
+  "temperature": {
+    "high": 57.9,
+    "mid": 43.105,
+    "low": 28.31
+  },
   "dew_point": 28.58,
   "humidity": 0.63,
   "cloud_cover": 0.04,

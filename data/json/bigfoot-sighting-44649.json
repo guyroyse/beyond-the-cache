@@ -11,9 +11,11 @@
   "longitude": -89.80784,
   "location": "-89.80784,41.72264",
   "location_details": "This is on a private family farm.",
-  "temperature_high": 84.69,
-  "temperature_mid": 68.75,
-  "temperature_low": 52.81,
+  "temperature": {
+    "high": 84.69,
+    "mid": 68.75,
+    "low": 52.81
+  },
   "dew_point": 65.46,
   "humidity": 0.79,
   "cloud_cover": 0.19,

@@ -11,9 +11,11 @@
   "longitude": -121.6738,
   "location": "-121.6738,47.86405",
   "location_details": "Wallace Falls State Park",
-  "temperature_high": 61.14,
-  "temperature_mid": 55.51,
-  "temperature_low": 49.88,
+  "temperature": {
+    "high": 61.14,
+    "mid": 55.51,
+    "low": 49.88
+  },
   "dew_point": 45.99,
   "humidity": 0.81,
   "cloud_cover": 0.34,

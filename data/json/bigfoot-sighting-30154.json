@@ -11,9 +11,11 @@
   "longitude": -79.18524,
   "location": "-79.18524,38.57502",
   "location_details": "Go west on 33 from VA to the WV side, first campground on the left before Brandywine.",
-  "temperature_high": 52.72,
-  "temperature_mid": 41.275,
-  "temperature_low": 29.83,
+  "temperature": {
+    "high": 52.72,
+    "mid": 41.275,
+    "low": 29.83
+  },
   "dew_point": 31.12,
   "humidity": 0.69,
   "cloud_cover": 0.03,

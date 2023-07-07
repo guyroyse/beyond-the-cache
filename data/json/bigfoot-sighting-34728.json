@@ -11,9 +11,11 @@
   "longitude": -89.55229,
   "location": "-89.55229,39.84874",
   "location_details": "Along the Sangamon River between Illinois Rt 36 and Illinois Rt 54.",
-  "temperature_high": 76.19,
-  "temperature_mid": 65.78,
-  "temperature_low": 55.37,
+  "temperature": {
+    "high": 76.19,
+    "mid": 65.78,
+    "low": 55.37
+  },
   "dew_point": 45.93,
   "humidity": 0.6,
   "cloud_cover": 0.11,

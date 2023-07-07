@@ -11,9 +11,11 @@
   "longitude": -84.28315,
   "location": "-84.28315,35.2597",
   "location_details": "Location is in Cherokee National Forrest.",
-  "temperature_high": 83.57,
-  "temperature_mid": 75.55,
-  "temperature_low": 67.53,
+  "temperature": {
+    "high": 83.57,
+    "mid": 75.55,
+    "low": 67.53
+  },
   "dew_point": 69.18,
   "humidity": 0.82,
   "cloud_cover": 0.56,

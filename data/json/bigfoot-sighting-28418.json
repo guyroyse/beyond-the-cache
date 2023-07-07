@@ -11,9 +11,11 @@
   "longitude": -82.44225,
   "location": "-82.44225,29.39384",
   "location_details": "ABOUT 7 MILLS OUT OF WILLISTON ST RD 121",
-  "temperature_high": 90.76,
-  "temperature_mid": 82.12,
-  "temperature_low": 73.48,
+  "temperature": {
+    "high": 90.76,
+    "mid": 82.12,
+    "low": 73.48
+  },
   "dew_point": 69.38,
   "humidity": 0.74,
   "cloud_cover": 0.48,

@@ -11,9 +11,11 @@
   "longitude": -123.3768,
   "location": "-123.3768,45.59669",
   "location_details": "This sighting was in the Tillamook State Forest in the Browns Camp area. It is about 50 miles west of Portland.",
-  "temperature_high": 58.54,
-  "temperature_mid": 51.09,
-  "temperature_low": 43.64,
+  "temperature": {
+    "high": 58.54,
+    "mid": 51.09,
+    "low": 43.64
+  },
   "dew_point": 40.28,
   "humidity": 0.69,
   "cloud_cover": 0.24,

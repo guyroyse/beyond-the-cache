@@ -11,9 +11,11 @@
   "longitude": -121.7064,
   "location": "-121.7064,46.08515",
   "location_details": "Take Forest Road 88 north from Trout Lake approx. 15 miles.",
-  "temperature_high": 73.2,
-  "temperature_mid": 65.38,
-  "temperature_low": 57.56,
+  "temperature": {
+    "high": 73.2,
+    "mid": 65.38,
+    "low": 57.56
+  },
   "dew_point": 56.62,
   "humidity": 0.7,
   "cloud_cover": 0.61,

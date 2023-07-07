@@ -11,9 +11,11 @@
   "longitude": -122.2703,
   "location": "-122.2703,41.21361",
   "location_details": "An old dirt road that goes into the Castle Crags Wilderness.  Road is now blocked off.",
-  "temperature_high": 81.11,
-  "temperature_mid": 64.51,
-  "temperature_low": 47.91,
+  "temperature": {
+    "high": 81.11,
+    "mid": 64.51,
+    "low": 47.91
+  },
   "dew_point": 44.22,
   "humidity": 0.48,
   "cloud_cover": 0.04,

@@ -11,9 +11,11 @@
   "longitude": -95.71278,
   "location": "-95.71278,30.52694",
   "location_details": "Little Lake Creek Wilderness Area, Sam Houston National Forest.",
-  "temperature_high": 85.81,
-  "temperature_mid": 79.675,
-  "temperature_low": 73.54,
+  "temperature": {
+    "high": 85.81,
+    "mid": 79.675,
+    "low": 73.54
+  },
   "dew_point": 71.05,
   "humidity": 0.8,
   "cloud_cover": 0.42,

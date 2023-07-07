@@ -11,9 +11,11 @@
   "longitude": -81.78307,
   "location": "-81.78307,29.47529",
   "location_details": "66 in Ocla nat forest, lake Delancy area",
-  "temperature_high": 82.27,
-  "temperature_mid": 77.865,
-  "temperature_low": 73.46,
+  "temperature": {
+    "high": 82.27,
+    "mid": 77.865,
+    "low": 73.46
+  },
   "dew_point": 70.7,
   "humidity": 0.82,
   "cloud_cover": 0.58,

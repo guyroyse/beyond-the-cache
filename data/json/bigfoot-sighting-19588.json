@@ -11,9 +11,11 @@
   "longitude": -87.23335,
   "location": "-87.23335,39.8679",
   "location_details": "About 3 to 4 miles south of the Turkey Run State Park & School on Hwy 41.",
-  "temperature_high": 65.52,
-  "temperature_mid": 53.48,
-  "temperature_low": 41.44,
+  "temperature": {
+    "high": 65.52,
+    "mid": 53.48,
+    "low": 41.44
+  },
   "dew_point": 45.09,
   "humidity": 0.72,
   "cloud_cover": 0.26,

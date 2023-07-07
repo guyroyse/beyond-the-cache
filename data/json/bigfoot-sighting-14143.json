@@ -11,9 +11,11 @@
   "longitude": -74.43445,
   "location": "-74.43445,39.60835",
   "location_details": "Garden State Parkway South, Exit 50 New Gretna, New Jersey",
-  "temperature_high": 84.1,
-  "temperature_mid": 77.225,
-  "temperature_low": 70.35,
+  "temperature": {
+    "high": 84.1,
+    "mid": 77.225,
+    "low": 70.35
+  },
   "dew_point": 66.52,
   "humidity": 0.71,
   "cloud_cover": 0.36,

@@ -11,9 +11,11 @@
   "longitude": -81.39806,
   "location": "-81.39806,30.0771",
   "location_details": "Guana River WMA which is several miles North of St. Augustine off A1A (Guana River Dam State Park).  Head North on A1A and turn left into the park.  Go past the dam and follow the dirt road into the woods.  Pass through the State Park area and through the gated entrance into the WMA.  The check station and parking area is several hunderd yards past the gate. The sounds were about 75 to 100 yards behind the check station towards a marshy area that borders the WMA and State Park (Southwest direction).",
-  "temperature_high": 75.49,
-  "temperature_mid": 68.475,
-  "temperature_low": 61.46,
+  "temperature": {
+    "high": 75.49,
+    "mid": 68.475,
+    "low": 61.46
+  },
   "dew_point": 63.75,
   "humidity": 0.75,
   "cloud_cover": 0.56,

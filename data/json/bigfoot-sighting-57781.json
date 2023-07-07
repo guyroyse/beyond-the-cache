@@ -11,9 +11,11 @@
   "longitude": -124.195,
   "location": "-124.195,47.82243",
   "location_details": "The sighting occurred approximately 6.7 miles east of Hwy 101 (according to Streets 'n Trips).",
-  "temperature_high": 42.02,
-  "temperature_mid": 38.8,
-  "temperature_low": 35.58,
+  "temperature": {
+    "high": 42.02,
+    "mid": 38.8,
+    "low": 35.58
+  },
   "dew_point": 33.21,
   "humidity": 0.83,
   "cloud_cover": 0.19,

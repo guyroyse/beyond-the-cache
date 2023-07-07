@@ -11,9 +11,11 @@
   "longitude": -87.48289,
   "location": "-87.48289,46.09045",
   "location_details": "CO RD 557",
-  "temperature_high": 55.23,
-  "temperature_mid": 48.06,
-  "temperature_low": 40.89,
+  "temperature": {
+    "high": 55.23,
+    "mid": 48.06,
+    "low": 40.89
+  },
   "dew_point": 43.52,
   "humidity": 0.82,
   "cloud_cover": 0.69,

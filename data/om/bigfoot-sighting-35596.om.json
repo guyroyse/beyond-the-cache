@@ -1,0 +1,34 @@
+{
+  "reportId": "35596",
+  "title": "Early evening sighting by two women hiking in Bailey",
+  "date": "2012-05-29",
+  "timestamp": 1338249600,
+  "observed": "Resort manager and her friend were just completing their evening hike when they saw a \"greyish\" animal running past them at a speed so fast that at first they couldn't imagine what it would be.  It was standing up-right while running and was \"huge\".  I asked them to estimate its height but they didn't know other than it seemed to be a lot taller than them.  Probably at least 7' tall. They described it as \"human looking\".  I will encourage them to post the details themselves in the morning.",
+  "classification": "Class A",
+  "county": "Park",
+  "state": "Colorado",
+  "latitude": 39.40589,
+  "longitude": -105.475,
+  "location": {
+    "longitude": -105.475,
+    "latitude": 39.40589
+  },
+  "location_details": "(location withheld at witness' request)",
+  "temperature": {
+    "high": 68.44,
+    "mid": 55.355,
+    "low": 42.27
+  },
+  "dew_point": 19.54,
+  "humidity": 0.29,
+  "cloud_cover": 0.12,
+  "moon_phase": 0.29,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1013.76,
+  "summary": "Partly cloudy in the evening.",
+  "uv_index": 12,
+  "visibility": 10,
+  "wind_bearing": 188,
+  "wind_speed": 2.2
+}

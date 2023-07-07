@@ -11,9 +11,11 @@
   "longitude": -85.19659,
   "location": "-85.19659,34.17769",
   "location_details": "Near a swamp at the bottom of a mountain. I have also found tracks on the power road near the mountain and near the swamp. Floyd Industrial pkwy.",
-  "temperature_high": 91.43,
-  "temperature_mid": 82.02,
-  "temperature_low": 72.61,
+  "temperature": {
+    "high": 91.43,
+    "mid": 82.02,
+    "low": 72.61
+  },
   "dew_point": 68.27,
   "humidity": 0.68,
   "cloud_cover": 0.13,

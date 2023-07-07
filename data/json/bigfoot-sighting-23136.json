@@ -11,9 +11,11 @@
   "longitude": -112.6432,
   "location": "-112.6432,33.3785",
   "location_details": "I-10 to gila bend down to baseline rd on the right side of the highway",
-  "temperature_high": 105.88,
-  "temperature_mid": 93.175,
-  "temperature_low": 80.47,
+  "temperature": {
+    "high": 105.88,
+    "mid": 93.175,
+    "low": 80.47
+  },
   "dew_point": 41.65,
   "humidity": 0.18,
   "cloud_cover": 0.05,

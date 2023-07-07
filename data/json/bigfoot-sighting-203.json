@@ -11,9 +11,11 @@
   "longitude": -79.32608,
   "location": "-79.32608,39.06881",
   "location_details": "In the Dolly Sods north of the wilderness boundry and just north of Red Creek campground.",
-  "temperature_high": 72.1,
-  "temperature_mid": 66.325,
-  "temperature_low": 60.55,
+  "temperature": {
+    "high": 72.1,
+    "mid": 66.325,
+    "low": 60.55
+  },
   "dew_point": 57.19,
   "humidity": 0.78,
   "cloud_cover": 0.51,

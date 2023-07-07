@@ -11,9 +11,11 @@
   "longitude": -84.8215,
   "location": "-84.8215,35.129",
   "location_details": "From Cleveland, go down Spring Place road to Keith Valley. I don't remember exact directions, but my in-laws house is in a fairly new housing complex and their road name is Cora Dr. Behind the house is their back yard, another back yard and a house facing keith valley and then on the other side of keith valley were woods that were being bulldozed during the day. Almost every body in the housing complex had dogs and they were barking like crazy when this happend.",
-  "temperature_high": 72.52,
-  "temperature_mid": 60.055,
-  "temperature_low": 47.59,
+  "temperature": {
+    "high": 72.52,
+    "mid": 60.055,
+    "low": 47.59
+  },
   "dew_point": 45.62,
   "humidity": 0.63,
   "cloud_cover": 0.29,

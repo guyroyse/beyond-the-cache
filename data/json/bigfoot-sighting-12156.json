@@ -11,9 +11,11 @@
   "longitude": -122.1874,
   "location": "-122.1874,44.699",
   "location_details": "To reach first location, take Hwy 22 for about 48 miles to Detoit, turn north on Hwy 46 and go 1/2 mile. Second location go about 7 miles west from Sisters Oregon on Hwy 242.",
-  "temperature_high": 71.54,
-  "temperature_mid": 63.81,
-  "temperature_low": 56.08,
+  "temperature": {
+    "high": 71.54,
+    "mid": 63.81,
+    "low": 56.08
+  },
   "dew_point": 54.4,
   "humidity": 0.72,
   "cloud_cover": 0.42,

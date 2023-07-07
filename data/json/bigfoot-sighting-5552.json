@@ -11,9 +11,11 @@
   "longitude": -92.8254,
   "location": "-92.8254,38.3085",
   "location_details": "I can't remember the exact road name that I spotted it from. But I do know that it was right next to \"The Captians Fancy\" a resort that my mother was the manager of at the time, that's where I lived at. It was about a mile away from there.",
-  "temperature_high": 50.59,
-  "temperature_mid": 45.88,
-  "temperature_low": 41.17,
+  "temperature": {
+    "high": 50.59,
+    "mid": 45.88,
+    "low": 41.17
+  },
   "dew_point": 44.64,
   "humidity": 0.86,
   "cloud_cover": 0.93,

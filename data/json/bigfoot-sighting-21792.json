@@ -11,9 +11,11 @@
   "longitude": -84.40335,
   "location": "-84.40335,44.41835",
   "location_details": "Hwy 75 to exit 202 to N- M-33 20 miles to Rose City . Take a right on Rose City Road and about 5 miles down by Luton Road",
-  "temperature_high": 47.21,
-  "temperature_mid": 38.935,
-  "temperature_low": 30.66,
+  "temperature": {
+    "high": 47.21,
+    "mid": 38.935,
+    "low": 30.66
+  },
   "dew_point": 26.18,
   "humidity": 0.72,
   "cloud_cover": 0.03,

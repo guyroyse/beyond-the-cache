@@ -11,9 +11,11 @@
   "longitude": -118.42,
   "location": "-118.42,45.5",
   "location_details": "Umatilla reservation. I-84 out of Pendleton to the top of Emigrant Pass about 8 miles from the summit facing southwest into a canyon on the south side of Emigrant Springs. The area is the top of Emigrant Hill along old hiway US 30 known as the Old Oregon Trail close to the Umatilla Indian Reservation boundary in the Blue Mountains between Pendleton and LaGrande OR",
-  "temperature_high": 73.89,
-  "temperature_mid": 60.435,
-  "temperature_low": 46.98,
+  "temperature": {
+    "high": 73.89,
+    "mid": 60.435,
+    "low": 46.98
+  },
   "dew_point": 40.61,
   "humidity": 0.58,
   "cloud_cover": 0.86,

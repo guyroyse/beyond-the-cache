@@ -11,9 +11,11 @@
   "longitude": -81.48598,
   "location": "-81.48598,25.95574",
   "location_details": "about 600 yards out on the north side of the road.",
-  "temperature_high": 90.81,
-  "temperature_mid": 84.885,
-  "temperature_low": 78.96,
+  "temperature": {
+    "high": 90.81,
+    "mid": 84.885,
+    "low": 78.96
+  },
   "dew_point": 75.65,
   "humidity": 0.77,
   "cloud_cover": 0.16,

@@ -11,9 +11,11 @@
   "longitude": -73.64642,
   "location": "-73.64642,41.59773",
   "location_details": "Nuclear lake right off the appalacian trail",
-  "temperature_high": 84.46,
-  "temperature_mid": 73.88,
-  "temperature_low": 63.3,
+  "temperature": {
+    "high": 84.46,
+    "mid": 73.88,
+    "low": 63.3
+  },
   "dew_point": 64.64,
   "humidity": 0.76,
   "cloud_cover": 0.28,

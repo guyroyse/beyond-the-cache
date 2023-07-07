@@ -11,9 +11,11 @@
   "longitude": -90.19371,
   "location": "-90.19371,32.40191",
   "location_details": "area now is all developed,lakewood industrial park ect. on the south side of west county line road",
-  "temperature_high": 62.42,
-  "temperature_mid": 51.97,
-  "temperature_low": 41.52,
+  "temperature": {
+    "high": 62.42,
+    "mid": 51.97,
+    "low": 41.52
+  },
   "dew_point": 43.63,
   "humidity": 0.75,
   "cloud_cover": 0.68,

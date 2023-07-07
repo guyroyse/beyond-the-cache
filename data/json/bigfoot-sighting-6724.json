@@ -11,9 +11,11 @@
   "longitude": -123.6481,
   "location": "-123.6481,42.16298",
   "location_details": "It's been so long, I am not sure.",
-  "temperature_high": 65.48,
-  "temperature_mid": 58.615,
-  "temperature_low": 51.75,
+  "temperature": {
+    "high": 65.48,
+    "mid": 58.615,
+    "low": 51.75
+  },
   "dew_point": 50.09,
   "humidity": 0.76,
   "cloud_cover": 0.83,

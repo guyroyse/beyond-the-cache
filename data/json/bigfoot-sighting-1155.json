@@ -11,9 +11,11 @@
   "longitude": -96.6824,
   "location": "-96.6824,40.84792",
   "location_details": "In Lincoln Nebraska; Lancaster county on 27th and Fairfield Street about one and a half miles south of the city limit.",
-  "temperature_high": 96.71,
-  "temperature_mid": 84.225,
-  "temperature_low": 71.74,
+  "temperature": {
+    "high": 96.71,
+    "mid": 84.225,
+    "low": 71.74
+  },
   "dew_point": 60.72,
   "humidity": 0.54,
   "cloud_cover": 0.33,

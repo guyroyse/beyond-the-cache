@@ -11,9 +11,11 @@
   "longitude": -85.57069,
   "location": "-85.57069,40.74765",
   "location_details": "If you cross over State Road 9 going south, look to the left, as you can see, that is the idle only part of the Salamonie Reservoir, it is not near any county roads, no campgrounds, no homes, nothing is back there but woods and water.",
-  "temperature_high": 90.94,
-  "temperature_mid": 80.99,
-  "temperature_low": 71.04,
+  "temperature": {
+    "high": 90.94,
+    "mid": 80.99,
+    "low": 71.04
+  },
   "dew_point": 71.17,
   "humidity": 0.72,
   "cloud_cover": 0.12,

@@ -11,9 +11,11 @@
   "longitude": -92.425,
   "location": "-92.425,36.615",
   "location_details": "From 60 highway East from Springfield, Mo. take 5 Highway South to 95 Hwy. North and it is approx. 6 miles  then left county road.  Can't remember the # of the road.",
-  "temperature_high": 59.27,
-  "temperature_mid": 53.76,
-  "temperature_low": 48.25,
+  "temperature": {
+    "high": 59.27,
+    "mid": 53.76,
+    "low": 48.25
+  },
   "dew_point": 39.71,
   "humidity": 0.87,
   "cloud_cover": 0.6,

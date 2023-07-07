@@ -11,9 +11,11 @@
   "longitude": -77.36115,
   "location": "-77.36115,38.52019",
   "location_details": "The place is a U.S. Marine camp, it is outside of Quantico base, if my memories serves me right it was camp Geotche.",
-  "temperature_high": 80.41,
-  "temperature_mid": 69.795,
-  "temperature_low": 59.18,
+  "temperature": {
+    "high": 80.41,
+    "mid": 69.795,
+    "low": 59.18
+  },
   "dew_point": 57.61,
   "humidity": 0.6,
   "cloud_cover": 0.23,

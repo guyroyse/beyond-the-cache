@@ -1,0 +1,35 @@
+{
+  "reportId": "1299",
+  "title": "Sighting by logger, Recent incidents near a rural home.",
+  "date": "2000-01-28",
+  "timestamp": 949017600,
+  "observed": "I was told by phone by a relative that three large manlike, hairy creatures were observed on a persons porch and yard. The man got his SKS and has allegedly shot one. Two others came out of the nearby forest and carried him away. That the FBI was called and samples of blood and hair have been taken for testing. My relative also told me that contractors who plant young pine seedlings are refuseing to go in near Honobia and plant trees. Today Jan 28, 2000 we have had a very heavy snow and while I was home listening to the scanner I overheard a conservation between two Oklahoma game wardens talking about the incident. One told the other to be on the lookout for large manlike hairy creatures. They seemed very serious. They were talking about the same incident that I have mentioned above. This area is called the Honobia Wildlife area and is very,very sparsly inhabited. The area of 875.000 acres is owned by a large timber company and as the loggers move in to cut there are sightings.",
+  "classification": "Class A",
+  "county": "McCurtain",
+  "state": "Oklahoma",
+  "latitude": 34.39639,
+  "longitude": -95.01167,
+  "location": {
+    "longitude": -95.01167,
+    "latitude": 34.39639
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 29.3,
+    "mid": 26.945,
+    "low": 24.59
+  },
+  "dew_point": 23.02,
+  "humidity": 0.86,
+  "cloud_cover": 0.98,
+  "moon_phase": 0.76,
+  "precip_intensity": 0.0026,
+  "precip_probability": 0.52,
+  "precip_type": "snow",
+  "pressure": 1028.66,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 2,
+  "visibility": 8.66,
+  "wind_bearing": 35,
+  "wind_speed": 4.99
+}

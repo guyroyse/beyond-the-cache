@@ -11,9 +11,11 @@
   "longitude": -121.2303,
   "location": "-121.2303,45.75806",
   "location_details": "Silva Creek drainage, 3 miles north of Lyle, WA, on the north bank of the Columbia River (which seperates WA from OR).",
-  "temperature_high": 66.29,
-  "temperature_mid": 53.09,
-  "temperature_low": 39.89,
+  "temperature": {
+    "high": 66.29,
+    "mid": 53.09,
+    "low": 39.89
+  },
   "dew_point": 33.83,
   "humidity": 0.53,
   "cloud_cover": 0.65,

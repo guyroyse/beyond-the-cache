@@ -11,9 +11,11 @@
   "longitude": -85.12935,
   "location": "-85.12935,43.45135",
   "location_details": "1 mile east of flat river",
-  "temperature_high": 77.91,
-  "temperature_mid": 65.605,
-  "temperature_low": 53.3,
+  "temperature": {
+    "high": 77.91,
+    "mid": 65.605,
+    "low": 53.3
+  },
   "dew_point": 53.94,
   "humidity": 0.7,
   "cloud_cover": 0.11,

@@ -11,9 +11,11 @@
   "longitude": -83.84937,
   "location": "-83.84937,44.98276",
   "location_details": "Fletcher Pond in a cove.",
-  "temperature_high": 58.24,
-  "temperature_mid": 54.13,
-  "temperature_low": 50.02,
+  "temperature": {
+    "high": 58.24,
+    "mid": 54.13,
+    "low": 50.02
+  },
   "dew_point": 46.6,
   "humidity": 0.71,
   "cloud_cover": 0.82,

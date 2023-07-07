@@ -11,9 +11,11 @@
   "longitude": -123.9599,
   "location": "-123.9599,43.7827",
   "location_details": "I am 29 now. This incident happened when I was 7 years old. I don't have many details of the sighting other than my Aunts and Uncles (who were originally from MS)lived in the town of Coos Bay, OR. I have no idea how far we drove to camp that year. It was the only time I had ever been to Oregon, and probably the only time I will ever go.",
-  "temperature_high": 65.6,
-  "temperature_mid": 58.39,
-  "temperature_low": 51.18,
+  "temperature": {
+    "high": 65.6,
+    "mid": 58.39,
+    "low": 51.18
+  },
   "dew_point": 49.37,
   "humidity": 0.73,
   "cloud_cover": 0.84,

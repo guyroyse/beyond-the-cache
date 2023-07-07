@@ -11,9 +11,11 @@
   "longitude": -119.5483,
   "location": "-119.5483,38.3068",
   "location_details": "The trail goes into the Hoover Wilderness beginning at Leavitt Meadows Camp Ground.  South end of the meadow.",
-  "temperature_high": 89.6,
-  "temperature_mid": 72.255,
-  "temperature_low": 54.91,
+  "temperature": {
+    "high": 89.6,
+    "mid": 72.255,
+    "low": 54.91
+  },
   "dew_point": 44.21,
   "humidity": 0.41,
   "cloud_cover": 0.03,

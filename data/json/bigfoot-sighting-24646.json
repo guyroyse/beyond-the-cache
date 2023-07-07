@@ -11,9 +11,11 @@
   "longitude": -86.581,
   "location": "-86.581,32.184",
   "location_details": "South of Montgomery , Al near the town of Hayneville at a small fishing club with about 5 pond/ lakes around more details available if interested",
-  "temperature_high": 81.87,
-  "temperature_mid": 71.63,
-  "temperature_low": 61.39,
+  "temperature": {
+    "high": 81.87,
+    "mid": 71.63,
+    "low": 61.39
+  },
   "dew_point": 69.41,
   "humidity": 0.84,
   "cloud_cover": 0.6,

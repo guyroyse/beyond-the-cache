@@ -11,9 +11,11 @@
   "longitude": -89.66046,
   "location": "-89.66046,45.87116",
   "location_details": "About 2 miles from Hwy J, just before Timberlane Rd.",
-  "temperature_high": 53.13,
-  "temperature_mid": 48.22,
-  "temperature_low": 43.31,
+  "temperature": {
+    "high": 53.13,
+    "mid": 48.22,
+    "low": 43.31
+  },
   "dew_point": 33.63,
   "humidity": 0.7,
   "cloud_cover": 0.03,

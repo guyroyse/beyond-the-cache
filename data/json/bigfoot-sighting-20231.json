@@ -11,9 +11,11 @@
   "longitude": -85.02585,
   "location": "-85.02585,35.5467",
   "location_details": "Off of Hwy 27 North, turn left into the Laurel-Snow Wilderness Pocket.",
-  "temperature_high": 67.43,
-  "temperature_mid": 62.035,
-  "temperature_low": 56.64,
+  "temperature": {
+    "high": 67.43,
+    "mid": 62.035,
+    "low": 56.64
+  },
   "dew_point": 45.78,
   "humidity": 0.63,
   "cloud_cover": 0.69,

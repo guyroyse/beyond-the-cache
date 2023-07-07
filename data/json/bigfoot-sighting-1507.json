@@ -11,9 +11,11 @@
   "longitude": -80.77387,
   "location": "-80.77387,40.36957",
   "location_details": "From Wintersville going west on State Route 22 until you see the Reedsmill/Broadacre exit. Then you turn left. The next left is (edited) Drive. That is where my parents live.",
-  "temperature_high": 66.15,
-  "temperature_mid": 59.595,
-  "temperature_low": 53.04,
+  "temperature": {
+    "high": 66.15,
+    "mid": 59.595,
+    "low": 53.04
+  },
   "dew_point": 40.69,
   "humidity": 0.62,
   "cloud_cover": 0.69,

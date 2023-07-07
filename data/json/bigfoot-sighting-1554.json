@@ -11,9 +11,11 @@
   "longitude": -93.77783,
   "location": "-93.77783,40.59604",
   "location_details": "On one of the hair pin curves on J66, near the wooded area. A lot of farm land in this vicinity, as well as the park, Nine Eagles State Park.",
-  "temperature_high": 75.65,
-  "temperature_mid": 65.555,
-  "temperature_low": 55.46,
+  "temperature": {
+    "high": 75.65,
+    "mid": 65.555,
+    "low": 55.46
+  },
   "dew_point": 59.75,
   "humidity": 0.79,
   "cloud_cover": 0.68,

@@ -11,9 +11,11 @@
   "longitude": -85.31646,
   "location": "-85.31646,34.42654",
   "location_details": "it was a back road off in the woods with a pond and corn field the name of the road is cloverdale road right of hwy 11 in rising fawn",
-  "temperature_high": 90.23,
-  "temperature_mid": 76.84,
-  "temperature_low": 63.45,
+  "temperature": {
+    "high": 90.23,
+    "mid": 76.84,
+    "low": 63.45
+  },
   "dew_point": 61.15,
   "humidity": 0.63,
   "cloud_cover": 0.13,

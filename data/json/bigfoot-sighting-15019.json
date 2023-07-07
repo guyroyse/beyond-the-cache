@@ -11,9 +11,11 @@
   "longitude": -88.4375,
   "location": "-88.4375,41.625",
   "location_details": "Near Rt. 47 & Rt. 71 (Behind house in tree-lined wooded area)",
-  "temperature_high": 86.22,
-  "temperature_mid": 77.27,
-  "temperature_low": 68.32,
+  "temperature": {
+    "high": 86.22,
+    "mid": 77.27,
+    "low": 68.32
+  },
   "dew_point": 68.63,
   "humidity": 0.76,
   "cloud_cover": 0.25,

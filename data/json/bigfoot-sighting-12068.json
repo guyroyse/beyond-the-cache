@@ -11,9 +11,11 @@
   "longitude": -81.08198,
   "location": "-81.08198,29.29063",
   "location_details": "From US1 head west on Wilmette.  After a small rightward bend, you will see an apartment complex called Willow Pond on the right, after entering the complex, follow the parking lot all the way to the back, and once you find the pool the entrance to the dock is on your right.  Follow the dock about an eight of a mile to a large uprooted tree.  Another 40 feet directly back, off the dock, is the tree in question.",
-  "temperature_high": 88.84,
-  "temperature_mid": 80.51,
-  "temperature_low": 72.18,
+  "temperature": {
+    "high": 88.84,
+    "mid": 80.51,
+    "low": 72.18
+  },
   "dew_point": 68.75,
   "humidity": 0.74,
   "cloud_cover": 0.28,

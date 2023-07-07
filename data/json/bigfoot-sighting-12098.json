@@ -11,9 +11,11 @@
   "longitude": -123.9364,
   "location": "-123.9364,47.86028",
   "location_details": "The Spruce Trail from the Hoh Visitors center.",
-  "temperature_high": 60.04,
-  "temperature_mid": 55.48,
-  "temperature_low": 50.92,
+  "temperature": {
+    "high": 60.04,
+    "mid": 55.48,
+    "low": 50.92
+  },
   "dew_point": 49.43,
   "humidity": 0.79,
   "cloud_cover": 0.68,

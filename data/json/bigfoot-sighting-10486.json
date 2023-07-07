@@ -11,9 +11,11 @@
   "longitude": -87.25375,
   "location": "-87.25375,35.94",
   "location_details": "It is located right off Hwy 100 in Hickman Co, TN the house that I lived in is about 1 1/2 miles east of the Hwy 100 & Hwy 7 intersection.  It is about 4 miles west of the Hickman/Williamson Co Line. About 45 minutes west of Nashville",
-  "temperature_high": 70.12,
-  "temperature_mid": 62.065,
-  "temperature_low": 54.01,
+  "temperature": {
+    "high": 70.12,
+    "mid": 62.065,
+    "low": 54.01
+  },
   "dew_point": 56.7,
   "humidity": 0.83,
   "cloud_cover": 0.76,

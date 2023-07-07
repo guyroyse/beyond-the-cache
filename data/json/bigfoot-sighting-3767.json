@@ -11,9 +11,11 @@
   "longitude": -82.55177,
   "location": "-82.55177,38.79381",
   "location_details": "this occured in wayne national forrest,off of hoadley road on private property.",
-  "temperature_high": 82.3,
-  "temperature_mid": 70.765,
-  "temperature_low": 59.23,
+  "temperature": {
+    "high": 82.3,
+    "mid": 70.765,
+    "low": 59.23
+  },
   "dew_point": 54.67,
   "humidity": 0.67,
   "cloud_cover": 0.18,

@@ -11,9 +11,11 @@
   "longitude": -120.715,
   "location": "-120.715,47.775",
   "location_details": "Our cabin boarders National Forest.  If you head over Steven's Pass until Cole's Corner and turn left towards Lake Wenatchee/Fish Lake, our place is off of Conard Road.  The sound was coming from Nason Ridge, above us and it sounded far away.  When I went to your website and played the calls, it sounded just like that so I thought I would log this in.  I guess you can post this on the web, but not my name because I have friends who might think I'm nuts if they see this.  You should really try and contact my neighbor who heard lots of noise one night which really freaked him out.  He is an elk hunter and such.  Although I am not a hunter, I have spent lots of time outside and have heard cougars and bears and stuff, and this was not that.",
-  "temperature_high": 88.45,
-  "temperature_mid": 75.785,
-  "temperature_low": 63.12,
+  "temperature": {
+    "high": 88.45,
+    "mid": 75.785,
+    "low": 63.12
+  },
   "dew_point": 54.81,
   "humidity": 0.51,
   "cloud_cover": 0.06,

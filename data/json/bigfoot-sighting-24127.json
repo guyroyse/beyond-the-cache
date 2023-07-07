@@ -11,9 +11,11 @@
   "longitude": -85.97613,
   "location": "-85.97613,46.18968",
   "location_details": "Second high bank on the Manistique River Road.",
-  "temperature_high": 63.38,
-  "temperature_mid": 54.99,
-  "temperature_low": 46.6,
+  "temperature": {
+    "high": 63.38,
+    "mid": 54.99,
+    "low": 46.6
+  },
   "dew_point": 47.56,
   "humidity": 0.75,
   "cloud_cover": 0.11,

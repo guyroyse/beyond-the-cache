@@ -11,9 +11,11 @@
   "longitude": -83.21735,
   "location": "-83.21735,37.28205",
   "location_details": "Turn off highway 15 toward Lost Creek about 8 miles.",
-  "temperature_high": 34,
-  "temperature_mid": 30.11,
-  "temperature_low": 26.22,
+  "temperature": {
+    "high": 34,
+    "mid": 30.11,
+    "low": 26.22
+  },
   "dew_point": 24.76,
   "humidity": 0.73,
   "cloud_cover": 1,

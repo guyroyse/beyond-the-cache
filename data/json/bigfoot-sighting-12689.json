@@ -11,9 +11,11 @@
   "longitude": -122.8833,
   "location": "-122.8833,47.28069",
   "location_details": "On the road to Jarrel Cove state park.  It was on a left hand bend in the road, I'm not sure as to the exact place.",
-  "temperature_high": 69.84,
-  "temperature_mid": 60.455,
-  "temperature_low": 51.07,
+  "temperature": {
+    "high": 69.84,
+    "mid": 60.455,
+    "low": 51.07
+  },
   "dew_point": 45.88,
   "humidity": 0.7,
   "cloud_cover": 0.11,

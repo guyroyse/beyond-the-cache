@@ -11,9 +11,11 @@
   "longitude": -92.70348,
   "location": "-92.70348,34.52473",
   "location_details": "Just a few miles west of Benton I-30 splits with I-70.  The house is just about a mile from the junction on the right hand side of the road.",
-  "temperature_high": 62.12,
-  "temperature_mid": 51.155,
-  "temperature_low": 40.19,
+  "temperature": {
+    "high": 62.12,
+    "mid": 51.155,
+    "low": 40.19
+  },
   "dew_point": 30.94,
   "humidity": 0.57,
   "cloud_cover": 0.31,

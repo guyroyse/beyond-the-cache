@@ -11,9 +11,11 @@
   "longitude": -78.94501,
   "location": "-78.94501,39.335",
   "location_details": "It was in front of a business selling storage buildings.",
-  "temperature_high": 55.55,
-  "temperature_mid": 47.255,
-  "temperature_low": 38.96,
+  "temperature": {
+    "high": 55.55,
+    "mid": 47.255,
+    "low": 38.96
+  },
   "dew_point": 37.71,
   "humidity": 0.76,
   "cloud_cover": 0.43,

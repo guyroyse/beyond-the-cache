@@ -11,9 +11,11 @@
   "longitude": -81.03185,
   "location": "-81.03185,35.94647",
   "location_details": "It was in Alexander County on Damascus Church Road pretty close to Iredell county line",
-  "temperature_high": 88.44,
-  "temperature_mid": 80.22,
-  "temperature_low": 72,
+  "temperature": {
+    "high": 88.44,
+    "mid": 80.22,
+    "low": 72
+  },
   "dew_point": 66.52,
   "humidity": 0.73,
   "cloud_cover": 0.02,

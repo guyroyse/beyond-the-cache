@@ -11,9 +11,11 @@
   "longitude": -83.69043,
   "location": "-83.69043,37.83438",
   "location_details": "I'm not sure which county we were in, we were far out in Red River Gorge camping alongside a creek. We followed a gravel road quite a ways down before stopping to camp.",
-  "temperature_high": 57.96,
-  "temperature_mid": 47.23,
-  "temperature_low": 36.5,
+  "temperature": {
+    "high": 57.96,
+    "mid": 47.23,
+    "low": 36.5
+  },
   "dew_point": 26.64,
   "humidity": 0.49,
   "cloud_cover": 0.02,

@@ -11,9 +11,11 @@
   "longitude": -99,
   "location": "-99,35",
   "location_details": "its on lake elmer thomas recreational area. the lake ON post. not off of it. Theres a road that leads further down the lake that has a small access by gravel/dirt that will lead to the area.. I can show you if possible..",
-  "temperature_high": 93.28,
-  "temperature_mid": 80.85,
-  "temperature_low": 68.42,
+  "temperature": {
+    "high": 93.28,
+    "mid": 80.85,
+    "low": 68.42
+  },
   "dew_point": 63.44,
   "humidity": 0.6,
   "cloud_cover": 0.1,

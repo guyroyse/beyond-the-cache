@@ -11,9 +11,11 @@
   "longitude": -94.6,
   "location": "-94.6,32.9",
   "location_details": "Near Lake o' the Pines and several of its small streams and creeks.",
-  "temperature_high": 70.28,
-  "temperature_mid": 59.955,
-  "temperature_low": 49.63,
+  "temperature": {
+    "high": 70.28,
+    "mid": 59.955,
+    "low": 49.63
+  },
   "dew_point": 48.46,
   "humidity": 0.71,
   "cloud_cover": 0.54,

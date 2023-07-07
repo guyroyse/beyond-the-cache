@@ -11,9 +11,11 @@
   "longitude": -92.28034,
   "location": "-92.28034,31.41787",
   "location_details": "Kisatchie National Forest on Forest Road #169",
-  "temperature_high": 49.13,
-  "temperature_mid": 38.05,
-  "temperature_low": 26.97,
+  "temperature": {
+    "high": 49.13,
+    "mid": 38.05,
+    "low": 26.97
+  },
   "dew_point": 22.08,
   "humidity": 0.53,
   "cloud_cover": 0.08,

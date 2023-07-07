@@ -11,9 +11,11 @@
   "longitude": -83.714,
   "location": "-83.714,34.672",
   "location_details": "it was near Duncan Bridge, between the turn off for that road and Hwy. 17.",
-  "temperature_high": 61.81,
-  "temperature_mid": 56.935,
-  "temperature_low": 52.06,
+  "temperature": {
+    "high": 61.81,
+    "mid": 56.935,
+    "low": 52.06
+  },
   "dew_point": 58.54,
   "humidity": 0.97,
   "cloud_cover": 0.97,

@@ -11,9 +11,11 @@
   "longitude": -123.4462,
   "location": "-123.4462,44.86875",
   "location_details": "OREGON COASTAL MOUNTAIN RANGE NEAR FALLS CITY OREGON.",
-  "temperature_high": 63.09,
-  "temperature_mid": 56.6,
-  "temperature_low": 50.11,
+  "temperature": {
+    "high": 63.09,
+    "mid": 56.6,
+    "low": 50.11
+  },
   "dew_point": 43.26,
   "humidity": 0.83,
   "cloud_cover": 0.47,

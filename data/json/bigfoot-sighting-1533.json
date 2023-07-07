@@ -11,9 +11,11 @@
   "longitude": -111.9625,
   "location": "-111.9625,47.07444",
   "location_details": "In Wolf Creek canyon near Wolf Creek, Montana off of I-15 returning to Helena after a trip to Great Falls",
-  "temperature_high": 41.75,
-  "temperature_mid": 33.165,
-  "temperature_low": 24.58,
+  "temperature": {
+    "high": 41.75,
+    "mid": 33.165,
+    "low": 24.58
+  },
   "dew_point": 22.49,
   "humidity": 0.61,
   "cloud_cover": 0.49,

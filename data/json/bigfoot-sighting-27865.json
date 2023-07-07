@@ -11,9 +11,11 @@
   "longitude": -122.5319,
   "location": "-122.5319,46.49406",
   "location_details": "winston creek road",
-  "temperature_high": 60.14,
-  "temperature_mid": 55.975,
-  "temperature_low": 51.81,
+  "temperature": {
+    "high": 60.14,
+    "mid": 55.975,
+    "low": 51.81
+  },
   "dew_point": 51.46,
   "humidity": 0.86,
   "cloud_cover": 0.86,

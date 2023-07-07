@@ -11,9 +11,11 @@
   "longitude": -71.77646,
   "location": "-71.77646,42.78378",
   "location_details": "Not far from Russel-Abbott State Forest",
-  "temperature_high": 71.77,
-  "temperature_mid": 65.405,
-  "temperature_low": 59.04,
+  "temperature": {
+    "high": 71.77,
+    "mid": 65.405,
+    "low": 59.04
+  },
   "dew_point": 59.33,
   "humidity": 0.79,
   "cloud_cover": 0.44,

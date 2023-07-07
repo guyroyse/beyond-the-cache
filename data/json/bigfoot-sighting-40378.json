@@ -11,9 +11,11 @@
   "longitude": -122.9714,
   "location": "-122.9714,47.6653",
   "location_details": "Near the mouth of a creek, approx four miles above hwy 101. There are two small houses nearby, down a dirt road, the only way into this spot. There is an old abandoned fish hatchery from the 30s there.",
-  "temperature_high": 51.88,
-  "temperature_mid": 47.135,
-  "temperature_low": 42.39,
+  "temperature": {
+    "high": 51.88,
+    "mid": 47.135,
+    "low": 42.39
+  },
   "dew_point": 45.78,
   "humidity": 0.88,
   "cloud_cover": 0.97,

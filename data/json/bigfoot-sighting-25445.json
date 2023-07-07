@@ -11,9 +11,11 @@
   "longitude": -123.75,
   "location": "-123.75,42.22501",
   "location_details": "End of NFD 029, at Fiddler Gulch",
-  "temperature_high": 54.76,
-  "temperature_mid": 48.465,
-  "temperature_low": 42.17,
+  "temperature": {
+    "high": 54.76,
+    "mid": 48.465,
+    "low": 42.17
+  },
   "dew_point": 35.97,
   "humidity": 0.71,
   "cloud_cover": 0.17,

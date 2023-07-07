@@ -11,9 +11,11 @@
   "longitude": -121.6708,
   "location": "-121.6708,48.03114",
   "location_details": "This was in the northern Cascade Mountains. It would be too easy for people who have been there to figure out. And I DO NOT want that to happen. I will explain.I think you will understand.",
-  "temperature_high": 66.76,
-  "temperature_mid": 60.22,
-  "temperature_low": 53.68,
+  "temperature": {
+    "high": 66.76,
+    "mid": 60.22,
+    "low": 53.68
+  },
   "dew_point": 48.61,
   "humidity": 0.76,
   "cloud_cover": 0.41,

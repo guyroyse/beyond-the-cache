@@ -11,9 +11,11 @@
   "longitude": -119.9811,
   "location": "-119.9811,38.19753",
   "location_details": "See above. Area is south side of  highway. Middle fork of Stanislaus river is to the north of the highway.",
-  "temperature_high": 93.75,
-  "temperature_mid": 77.6,
-  "temperature_low": 61.45,
+  "temperature": {
+    "high": 93.75,
+    "mid": 77.6,
+    "low": 61.45
+  },
   "dew_point": 49.94,
   "humidity": 0.43,
   "cloud_cover": 0.06,

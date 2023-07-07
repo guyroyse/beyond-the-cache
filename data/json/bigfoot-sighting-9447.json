@@ -11,9 +11,11 @@
   "longitude": -121.8943,
   "location": "-121.8943,47.16145",
   "location_details": "Maybe 5-10 miles south of Enumclaw on the 410. The forest was recently taken by Wyerhouser? unsure of spelling. We made a right on a dirt road that had a small yellow bar-gate, open at the time, and just followed it over a small bridge that crosses over White river. There were a few dirt roads before this one off the 410 and they all connect. At the time it looked like they had just begun logging the area.",
-  "temperature_high": 47.51,
-  "temperature_mid": 43.005,
-  "temperature_low": 38.5,
+  "temperature": {
+    "high": 47.51,
+    "mid": 43.005,
+    "low": 38.5
+  },
   "dew_point": 35.1,
   "humidity": 0.83,
   "cloud_cover": 0.84,

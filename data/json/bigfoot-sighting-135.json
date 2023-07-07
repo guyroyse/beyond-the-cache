@@ -11,9 +11,11 @@
   "longitude": -88.51969,
   "location": "-88.51969,44.8491",
   "location_details": "The area in Shawano referred to as the\"Mooseyard\". >From Lake Dr., any road that accesses the Area for Recreation and local residents know as the \"Mooseyard\".  There are dirt and gravel roads that run through there and this particular road is off of Woods Rd.",
-  "temperature_high": 74.89,
-  "temperature_mid": 63.535,
-  "temperature_low": 52.18,
+  "temperature": {
+    "high": 74.89,
+    "mid": 63.535,
+    "low": 52.18
+  },
   "dew_point": 60.54,
   "humidity": 0.8,
   "cloud_cover": 0.74,

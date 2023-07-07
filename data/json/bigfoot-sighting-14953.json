@@ -11,9 +11,11 @@
   "longitude": -118.225,
   "location": "-118.225,34.25",
   "location_details": "It was up the Angeles Crest Hwy, Not sure on exact mileage, but I would say about 10-15 miles maybe a little bit further up Angeles Crest Hwy, this road can be reached off the 210 Freeway up foothill blvd.",
-  "temperature_high": 80.41,
-  "temperature_mid": 74.21,
-  "temperature_low": 68.01,
+  "temperature": {
+    "high": 80.41,
+    "mid": 74.21,
+    "low": 68.01
+  },
   "dew_point": 64.56,
   "humidity": 0.73,
   "cloud_cover": 0.75,

@@ -11,9 +11,11 @@
   "longitude": -92.06343,
   "location": "-92.06343,43.32922",
   "location_details": "cardinal marsh",
-  "temperature_high": 62.12,
-  "temperature_mid": 58.41,
-  "temperature_low": 54.7,
+  "temperature": {
+    "high": 62.12,
+    "mid": 58.41,
+    "low": 54.7
+  },
   "dew_point": 56.77,
   "humidity": 0.89,
   "cloud_cover": 0.87,

@@ -6,7 +6,7 @@ We'll be using the RediSearch commands of [FT.CREATE](https://redis.io/commands/
 
 Go ahead and open **`redis/sightings.js`** and `routers/sightings-router.js`** as these are where we'll be making our changes.
 
-## Endpoints
+## Endpoints ##
 
 Here's the additional endpoints we're adding or modifying for this section:
 
@@ -36,7 +36,7 @@ await redis.ft.create(sightingsIndex, {
   '$.observed': { type: SchemaFieldTypes.TEXT, AS: 'observed' },
   '$.state': { type: SchemaFieldTypes.TAG, AS: 'state' },
   '$.classification': { type: SchemaFieldTypes.TAG, AS: 'classification' },
-  '$.temperature_mid': { type: SchemaFieldTypes.NUMERIC, AS: 'temperature_mid' },
+  '$.temperature.mid': { type: SchemaFieldTypes.NUMERIC, AS: 'temperature_mid' },
   '$.location': { type: SchemaFieldTypes.GEO, AS: 'location' },
 }, {
   ON: 'JSON', PREFIX: 'bigfoot:sighting:'
@@ -66,7 +66,7 @@ try {
     '$.observed': { type: SchemaFieldTypes.TEXT, AS: 'observed' },
     '$.state': { type: SchemaFieldTypes.TAG, AS: 'state' },
     '$.classification': { type: SchemaFieldTypes.TAG, AS: 'classification' },
-    '$.temperature_mid': { type: SchemaFieldTypes.NUMERIC, AS: 'temperature_mid' },
+    '$.temperature.mid': { type: SchemaFieldTypes.NUMERIC, AS: 'temperature_mid' },
     '$.location': { type: SchemaFieldTypes.GEO, AS: 'location' },
   }, {
     ON: 'JSON', PREFIX: 'bigfoot:sighting:'
@@ -333,9 +333,11 @@ You should get back the first twenty sightings:
     "longitude": -86.17122,
     "location": "-86.17122,33.36305",
     "location_details": "all i know is that i was driving down hwy 21 when i came upon a sign that said 20 mph a sharp turn was ahead and i had my daughter in the front seat {she is grown} and my grandaughter in the back seat,so i went very careful around the turn.",
-    "temperature_high": 72.43,
-    "temperature_mid": 63.03,
-    "temperature_low": 53.63,
+    "temperature": {
+      "high": 72.43,
+      "mid": 63.03,
+      "low": 53.63
+    }
     "dew_point": 56.1,
     "humidity": 0.86,
     "cloud_cover": 0.44,
@@ -462,5 +464,5 @@ You can pretty clearly see how we could add all sorts of interesting queries usi
 
 ----------------------------------------
 
-Now that you've used RediSearch in lots of ways, it's time to check out some other things you can do with Redis, starting with [Redis Streams](20-REDIS-STREAMS.md).
+Now that you've used RediSearch in lots of ways, it's time to check out a much easier way to RediSearch and RedisJSON together, we're gonna use [Redis OM](20-REDIS-OM.md).
 

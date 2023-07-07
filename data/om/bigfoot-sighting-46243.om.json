@@ -1,0 +1,35 @@
+{
+  "reportId": "46243",
+  "title": "Passengers travelling to the Arizona Snowbowl ski area have a possible daytime sighting",
+  "date": "2014-08-10",
+  "timestamp": 1407628800,
+  "observed": "While in flagstaff, AZ, my husband, mother-in-law, and I decided to take a chairlift ride. As we drove up snow bowl rd to reach the Arizona Snowbowl, we saw a large tall figure walking in long strides through the trees. I would say about 40 yards from the desolate road. As an avid \"Finding Bigfoot\" watcher, our sighting was everything we heard/saw on the show. The squatch had to have been at least 8 or 9 feet tall. It was too far away to make out any features, but the way it walked, the posture, and dark brown/black color it was unmistakeable. Definitely not a bear or deer. We saw the creature take two long strides through the trees and \"disappear\". A feeling came over us of shock/fear/amazement. I had goosebumps all over my body.",
+  "classification": "Class B",
+  "county": "Coconino",
+  "state": "Arizona",
+  "latitude": 35.30685,
+  "longitude": -111.7141,
+  "location": {
+    "longitude": -111.7141,
+    "latitude": 35.30685
+  },
+  "location_details": "Halfway up Snowbowl Rd., before reaching the Arizona Snowbowl chairlifts.",
+  "temperature": {
+    "high": 86.3,
+    "mid": 73.47,
+    "low": 60.64
+  },
+  "dew_point": 44.52,
+  "humidity": 0.38,
+  "cloud_cover": 0.07,
+  "moon_phase": 0.49,
+  "precip_intensity": 0.0007,
+  "precip_probability": 0.18,
+  "precip_type": "rain",
+  "pressure": 1014.86,
+  "summary": "Clear throughout the day.",
+  "uv_index": 13,
+  "visibility": 9.36,
+  "wind_bearing": 128,
+  "wind_speed": 1.15
+}

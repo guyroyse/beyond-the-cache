@@ -11,9 +11,11 @@
   "longitude": -85.10299,
   "location": "-85.10299,34.4826",
   "location_details": "Take 156 out of Calhoun going west take a right on Everett Springs Rd. Everett Springs turns West Union when you cross the County Line.",
-  "temperature_high": 93.97,
-  "temperature_mid": 83.3,
-  "temperature_low": 72.63,
+  "temperature": {
+    "high": 93.97,
+    "mid": 83.3,
+    "low": 72.63
+  },
   "dew_point": 71.46,
   "humidity": 0.72,
   "cloud_cover": 0.11,

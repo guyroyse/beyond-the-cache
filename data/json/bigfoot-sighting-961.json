@@ -11,9 +11,11 @@
   "longitude": -88.08305,
   "location": "-88.08305,31.4515",
   "location_details": "Washington County, on Alabama Highway 56, between Chatom and Wagarville. At the top of the hill about two miles west of Wagarville.",
-  "temperature_high": 57.31,
-  "temperature_mid": 50.205,
-  "temperature_low": 43.1,
+  "temperature": {
+    "high": 57.31,
+    "mid": 50.205,
+    "low": 43.1
+  },
   "dew_point": 43.63,
   "humidity": 0.66,
   "cloud_cover": 0.93,

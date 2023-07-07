@@ -11,9 +11,11 @@
   "longitude": -81.7089,
   "location": "-81.7089,28.69205",
   "location_details": "Bushnell Florida, on 48 on the curve at Wahoo Church on the right hand side where the woods are, and wild pigs and deer. Also there's an old shed next to the curve.",
-  "temperature_high": 85.15,
-  "temperature_mid": 76.705,
-  "temperature_low": 68.26,
+  "temperature": {
+    "high": 85.15,
+    "mid": 76.705,
+    "low": 68.26
+  },
   "dew_point": 69.71,
   "humidity": 0.81,
   "cloud_cover": 0.41,

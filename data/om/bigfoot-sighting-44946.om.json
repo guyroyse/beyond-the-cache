@@ -1,0 +1,35 @@
+{
+  "reportId": "44946",
+  "title": "Couple awakened by very loud howls near Maple Valley",
+  "date": "2014-05-02",
+  "timestamp": 1398988800,
+  "observed": "Last night my girlfriend and I were awoke by a very disturbing howl outside (1:30 am). We normally sleep with the bedroom window open since we like the sound of the rain and wind at night.  We heard the howl four times and could hear it echo throughout the area.  This morning we reached the sound we heard and discovered it was what has been previously reported as a Bigfoot vocalization.",
+  "classification": "Class B",
+  "county": "King",
+  "state": "Washington",
+  "latitude": 47.34072,
+  "longitude": -122.0775,
+  "location": {
+    "longitude": -122.0775,
+    "latitude": 47.34072
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 65.37,
+    "mid": 57.475,
+    "low": 49.58
+  },
+  "dew_point": 50.09,
+  "humidity": 0.69,
+  "cloud_cover": 0.14,
+  "moon_phase": 0.12,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.21,
+  "precip_type": "rain",
+  "pressure": 1016.21,
+  "summary": "Partly cloudy overnight.",
+  "uv_index": 7,
+  "visibility": 9.96,
+  "wind_bearing": 204,
+  "wind_speed": 6.02
+}

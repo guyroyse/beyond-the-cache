@@ -11,9 +11,11 @@
   "longitude": -90.59952,
   "location": "-90.59952,40.25679",
   "location_details": "North 67 maybe within 10 miles of Rushville. I'm not familiar with the area and have not been back through since.",
-  "temperature_high": 45.82,
-  "temperature_mid": 41.78,
-  "temperature_low": 37.74,
+  "temperature": {
+    "high": 45.82,
+    "mid": 41.78,
+    "low": 37.74
+  },
   "dew_point": 38.71,
   "humidity": 0.85,
   "cloud_cover": 0.97,

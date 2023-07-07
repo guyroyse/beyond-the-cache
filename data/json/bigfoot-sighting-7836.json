@@ -11,9 +11,11 @@
   "longitude": -100.4161,
   "location": "-100.4161,31.45417",
   "location_details": "The location is not accessible anymore (or at least I don't think it is).  The location and the surrounding area is now a state park.  I remember it was close to a spillway, an area known as Red Arroyo.  The exact location is to about 100 yards northwest of the spillway on a ridge.  The road that led to the location has been dug up and vegetation has covered what was once a paved road.  I do not live in San Angelo anymore and haven't for years so I do not remember the actual road name that was once there but it intersected with Mercedes St.",
-  "temperature_high": 66.84,
-  "temperature_mid": 60.02,
-  "temperature_low": 53.2,
+  "temperature": {
+    "high": 66.84,
+    "mid": 60.02,
+    "low": 53.2
+  },
   "dew_point": 50.59,
   "humidity": 0.84,
   "cloud_cover": 0.26,

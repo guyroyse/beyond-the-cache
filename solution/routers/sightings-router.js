@@ -1,71 +1,28 @@
 import { Router } from 'express'
-import { ulid } from 'ulid'
+import { EntityId } from 'redis-om'
 
-import { redis, sightingsIndex } from '../redis/index.js'
+import { sightingsRepository } from '../redis/index.js'
 
 export const sightingsRouter = Router()
 
-const sightingKey = id => `bigfoot:sighting:${id}`
-const escapeTag = tag => tag.replaceAll(' ', '\\ ')
-
 /* add a new sighting and assign it an ID */
-sightingsRouter.post('/', (req, res) => {
-  const id = ulid()
-  const key = sightingKey(id)
-
-  redis.json.set(key, '$', { id, ...req.body })
-
+sightingsRouter.post('/', async (req, res) => {
+  const sighting = await sightingsRepository.save(req.body)
+  const id = sighting[EntityId]
   res.send({ id })
 })
 
 /* get a specific sighting by ID */
 sightingsRouter.get('/:id', async (req, res) => {
   const { id } = req.params
-  const key = sightingKey(id)
-
-  const sighting = await redis.json.get(key)
-
+  const sighting = await sightingsRepository.fetch(id)
   res.send(sighting)
-})
-
-/* update a specific sighting by ID with the provided fields */
-sightingsRouter.patch('/:id', async (req, res) => {
-  const { id } = req.params
-  const key = sightingKey(id)
-
-  try {
-    await redis.executeIsolated(async isolatedClient => {
-      await isolatedClient.watch(key)
-
-      const multi = isolatedClient.multi()
-
-      Object.entries(req.body).forEach(([prop, value]) => {
-        multi.json.set(key, `$.${prop}`, value)
-      })
-
-      await multi.exec()
-    })
-
-    res.send({
-      status: "OK",
-      message: `Sighting ${id} update.`
-    })
-  } catch (err) {
-    if (err instanceof WatchError) {
-      res.send({
-        status: "ERROR",
-        message: `Sighting ${id} was not updated.`
-      })
-    }
-  }
 })
 
 /* create or replace a specific sighting with the provided ID */
 sightingsRouter.put('/:id', async (req, res) => {
   const { id } = req.params
-  const key = sightingKey(id)
-
-  redis.json.set(key, '$', { id, ...req.body })
+  await sightingsRepository.save(id, req.body)
 
   res.send({
     status: "OK",
@@ -74,11 +31,9 @@ sightingsRouter.put('/:id', async (req, res) => {
 })
 
 /* delete a specific sighting by ID */
-sightingsRouter.delete('/:id', (req, res) => {
+sightingsRouter.delete('/:id', async (req, res) => {
   const { id } = req.params
-  const key = sightingKey(id)
-
-  redis.json.del(key)
+  await sightingsRepository.remove(id)
 
   res.send({
     status: "OK",
@@ -88,8 +43,7 @@ sightingsRouter.delete('/:id', (req, res) => {
 
 /* get all of the sightings */
 sightingsRouter.get('/', async (req, res) => {
-  const results = await redis.ft.search(sightingsIndex, '*', { LIMIT: { from: 0, size: 5000 } })
-  const sightings = results.documents.map(document => document.value)
+  const sightings = await sightingsRepository.search().return.all()
   res.send(sightings)
 })
 
@@ -99,8 +53,7 @@ sightingsRouter.get('/page/:pageNumber', async (req, res) => {
   const size = 20
   const from = (page - 1) * size
 
-  const results = await redis.ft.search(sightingsIndex, '*', { LIMIT: { from, size } })
-  const sightings = results.documents.map(document => document.value)
+  const sightings = await sightingsRepository.search().return.page(from, size)
 
   res.send(sightings)
 })
@@ -108,21 +61,21 @@ sightingsRouter.get('/page/:pageNumber', async (req, res) => {
 /* get all of the sightings for a state */
 sightingsRouter.get('/by-state/:state', async (req, res) => {
   const { state } = req.params
-  const query = `@state:{${escapeTag(state)}}`
 
-  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
-  const sightings = results.documents.map(document => document.value)
+  const sightings = await sightingsRepository.search()
+    .where('state').equals(state)
+      .return.all()
 
-  res.send(sightings)
+      res.send(sightings)
 })
 
 /* get all of the sightings for a class */
 sightingsRouter.get('/by-class/:clazz', async (req, res) => {
   const { clazz } = req.params
-  const query = `@classification:{${escapeTag(clazz)}}`
 
-  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
-  const sightings = results.documents.map(document => document.value)
+  const sightings = await sightingsRepository.search()
+    .where('classification').equals(clazz)
+      .return.all()
 
   res.send(sightings)
 })
@@ -130,10 +83,11 @@ sightingsRouter.get('/by-class/:clazz', async (req, res) => {
 /* get all of the sightings for a state and a class */
 sightingsRouter.get('/by-state/:state/and-class/:clazz', async (req, res) => {
   const { state, clazz } = req.params
-  const query = `@state:{${escapeTag(state)}} @classification:{${escapeTag(clazz)}}`
 
-  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
-  const sightings = results.documents.map(document => document.value)
+  const sightings = await sightingsRepository.search()
+    .where('state').equals(state)
+    .and('classification').equals(clazz)
+      .return.all()
 
   res.send(sightings)
 })

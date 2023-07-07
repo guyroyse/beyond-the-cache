@@ -11,9 +11,11 @@
   "longitude": -117.3606,
   "location": "-117.3606,47.62769",
   "location_details": "It is a Boy scout camp that is on a lake in Eastern Washington...that is all I can remember about it.",
-  "temperature_high": 38.65,
-  "temperature_mid": 28.11,
-  "temperature_low": 17.57,
+  "temperature": {
+    "high": 38.65,
+    "mid": 28.11,
+    "low": 17.57
+  },
   "dew_point": 14.51,
   "humidity": 0.63,
   "cloud_cover": 0.15,

@@ -11,9 +11,11 @@
   "longitude": -97.1225,
   "location": "-97.1225,36.02306",
   "location_details": "6 miles west on highway 33, 1 mile north, northeast corner.",
-  "temperature_high": 56.19,
-  "temperature_mid": 40.23,
-  "temperature_low": 24.27,
+  "temperature": {
+    "high": 56.19,
+    "mid": 40.23,
+    "low": 24.27
+  },
   "dew_point": 28.86,
   "humidity": 0.64,
   "cloud_cover": 0.27,

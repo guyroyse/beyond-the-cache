@@ -11,9 +11,11 @@
   "longitude": -81.39101,
   "location": "-81.39101,39.54739",
   "location_details": "Between Whipple and Lower Salem, Ohio.",
-  "temperature_high": 58.56,
-  "temperature_mid": 45.375,
-  "temperature_low": 32.19,
+  "temperature": {
+    "high": 58.56,
+    "mid": 45.375,
+    "low": 32.19
+  },
   "dew_point": 39.42,
   "humidity": 0.76,
   "cloud_cover": 0.22,

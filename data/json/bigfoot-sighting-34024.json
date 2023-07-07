@@ -11,9 +11,11 @@
   "longitude": -113.1424,
   "location": "-113.1424,46.30766",
   "location_details": "Take Hwy 1 from Anaconda to Georgertown. Take 242 up to Racetrack Lake.",
-  "temperature_high": 61.25,
-  "temperature_mid": 49.45,
-  "temperature_low": 37.65,
+  "temperature": {
+    "high": 61.25,
+    "mid": 49.45,
+    "low": 37.65
+  },
   "dew_point": 30.91,
   "humidity": 0.62,
   "cloud_cover": 0.18,

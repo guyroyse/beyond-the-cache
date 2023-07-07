@@ -11,9 +11,11 @@
   "longitude": -84.87524,
   "location": "-84.87524,45.91515",
   "location_details": "Hwy 2 just before Hwy 75 south",
-  "temperature_high": 59.66,
-  "temperature_mid": 53.04,
-  "temperature_low": 46.42,
+  "temperature": {
+    "high": 59.66,
+    "mid": 53.04,
+    "low": 46.42
+  },
   "dew_point": 47.75,
   "humidity": 0.78,
   "cloud_cover": 0.72,

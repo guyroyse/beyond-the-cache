@@ -11,9 +11,11 @@
   "longitude": -91.49319,
   "location": "-91.49319,46.10445",
   "location_details": "BEING YEARS PAST, I AM UNSURE OF THE AREA CHANGES. THE PROPERTY WAS ON THE LAKE. IT WAS ON FARBER DR/RD. I BELIEVE FARBER MIGHT BE SPELLED DIFFERENTLY",
-  "temperature_high": 47.43,
-  "temperature_mid": 35.245,
-  "temperature_low": 23.06,
+  "temperature": {
+    "high": 47.43,
+    "mid": 35.245,
+    "low": 23.06
+  },
   "dew_point": 21.9,
   "humidity": 0.62,
   "cloud_cover": 0.73,

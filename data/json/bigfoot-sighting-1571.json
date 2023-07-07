@@ -11,9 +11,11 @@
   "longitude": -117.4161,
   "location": "-117.4161,48.74111",
   "location_details": "Very close to the US Outdoors Training Base, close to Ione.",
-  "temperature_high": 65.49,
-  "temperature_mid": 56.39,
-  "temperature_low": 47.29,
+  "temperature": {
+    "high": 65.49,
+    "mid": 56.39,
+    "low": 47.29
+  },
   "dew_point": 38.92,
   "humidity": 0.64,
   "cloud_cover": 0.52,

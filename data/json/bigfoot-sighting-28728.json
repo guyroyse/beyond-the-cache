@@ -11,9 +11,11 @@
   "longitude": -87.83285,
   "location": "-87.83285,41.84136",
   "location_details": "I was headed north on 1st Avenue (IL - 171). I remember seeing the sign that said Zoo Woods.  It was about a mile north of that sign, east side of the road and south of Cermak Rd.",
-  "temperature_high": 48.26,
-  "temperature_mid": 42.525,
-  "temperature_low": 36.79,
+  "temperature": {
+    "high": 48.26,
+    "mid": 42.525,
+    "low": 36.79
+  },
   "dew_point": 31.9,
   "humidity": 0.68,
   "cloud_cover": 0.41,

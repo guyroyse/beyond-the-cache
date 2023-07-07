@@ -11,9 +11,11 @@
   "longitude": -93.82007,
   "location": "-93.82007,42.47806",
   "location_details": "It was an open area, with woods on either side, about 100 ft. wide.  It was on top of a ravine over-looking the Boone River.",
-  "temperature_high": 43.68,
-  "temperature_mid": 34.935,
-  "temperature_low": 26.19,
+  "temperature": {
+    "high": 43.68,
+    "mid": 34.935,
+    "low": 26.19
+  },
   "dew_point": 25.49,
   "humidity": 0.75,
   "cloud_cover": 0.1,

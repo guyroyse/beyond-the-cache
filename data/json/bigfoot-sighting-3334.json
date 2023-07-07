@@ -11,9 +11,11 @@
   "longitude": -77.5873,
   "location": "-77.5873,34.7576",
   "location_details": "Just on the edge of Onslow county,  North Carolina,  about 25 miles from Hampstead,  about 15 miles off of US 421  on Hwy 51.  I think is the Hwy number.",
-  "temperature_high": 78.47,
-  "temperature_mid": 74.4,
-  "temperature_low": 70.33,
+  "temperature": {
+    "high": 78.47,
+    "mid": 74.4,
+    "low": 70.33
+  },
   "dew_point": 70.24,
   "humidity": 0.85,
   "cloud_cover": 0.78,

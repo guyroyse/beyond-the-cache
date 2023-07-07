@@ -11,9 +11,11 @@
   "longitude": -111.675,
   "location": "-111.675,35.3",
   "location_details": "This happened just below the Arizona Snowbowl in Hart Prairie on the San Francisco Peaks.  I had hiked up slope from FR 151 which is a fairly well maintained and popular forest road.  Hwy 180 goes from Flagstaff to Valle on the way to the Grand Canyon and FR 151 intersects with the hwy about 5 miles past the paved Snowbowl Road. Specifically, I had started hiking right next to the Nature Conservancy's preserve straight up slope towards the lower end of Snowbowl.  I heard the howls at the edge of an Aspen Grove about .25 mile up slope from FR 151.",
-  "temperature_high": 76.56,
-  "temperature_mid": 67.92,
-  "temperature_low": 59.28,
+  "temperature": {
+    "high": 76.56,
+    "mid": 67.92,
+    "low": 59.28
+  },
   "dew_point": 56.71,
   "humidity": 0.7,
   "cloud_cover": 0.47,

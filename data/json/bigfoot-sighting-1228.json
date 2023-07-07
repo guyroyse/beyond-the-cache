@@ -11,9 +11,11 @@
   "longitude": -105.4458,
   "location": "-105.4458,40.025",
   "location_details": "Precise location withheld on request of witness. Location is near Sugar Loaf Mountain.",
-  "temperature_high": 58.29,
-  "temperature_mid": 47.875,
-  "temperature_low": 37.46,
+  "temperature": {
+    "high": 58.29,
+    "mid": 47.875,
+    "low": 37.46
+  },
   "dew_point": 37.58,
   "humidity": 0.58,
   "cloud_cover": 0.54,

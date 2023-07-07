@@ -11,9 +11,11 @@
   "longitude": -124.426,
   "location": "-124.426,42.4018",
   "location_details": "Directly across the highway from the Gold Beach Inn.",
-  "temperature_high": 52.31,
-  "temperature_mid": 51.09,
-  "temperature_low": 49.87,
+  "temperature": {
+    "high": 52.31,
+    "mid": 51.09,
+    "low": 49.87
+  },
   "dew_point": 47.6,
   "humidity": 0.88,
   "cloud_cover": 0.94,

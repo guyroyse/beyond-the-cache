@@ -11,9 +11,11 @@
   "longitude": -123.4498,
   "location": "-123.4498,41.65925",
   "location_details": "It was along Hwy 96, in between Orleans and Happy Camp CA.",
-  "temperature_high": 59.09,
-  "temperature_mid": 50.39,
-  "temperature_low": 41.69,
+  "temperature": {
+    "high": 59.09,
+    "mid": 50.39,
+    "low": 41.69
+  },
   "dew_point": 38.42,
   "humidity": 0.66,
   "cloud_cover": 0.15,

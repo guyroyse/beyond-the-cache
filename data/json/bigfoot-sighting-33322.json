@@ -11,9 +11,11 @@
   "longitude": -87.93167,
   "location": "-87.93167,36.8216",
   "location_details": "From Cadiz, KY - follow 68 West heading towards Land Between the Lakes. Turn right on1489 to the Lake Barkley Resort and Marina. The incident took place about 2 miles up the KY-1489 road from the KY - 68",
-  "temperature_high": 92.76,
-  "temperature_mid": 82.17,
-  "temperature_low": 71.58,
+  "temperature": {
+    "high": 92.76,
+    "mid": 82.17,
+    "low": 71.58
+  },
   "dew_point": 72.55,
   "humidity": 0.74,
   "cloud_cover": 0.28,

@@ -11,9 +11,11 @@
   "longitude": -93.162,
   "location": "-93.162,34.285",
   "location_details": "The general location is approximately 3 miles south ouf Bismarck.",
-  "temperature_high": 44.99,
-  "temperature_mid": 36.125,
-  "temperature_low": 27.26,
+  "temperature": {
+    "high": 44.99,
+    "mid": 36.125,
+    "low": 27.26
+  },
   "dew_point": 30.68,
   "humidity": 0.63,
   "cloud_cover": 0.53,

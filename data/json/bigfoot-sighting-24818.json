@@ -11,9 +11,11 @@
   "longitude": -112.53,
   "location": "-112.53,34.45",
   "location_details": "driving into Prescott on Hwy 69 go west to montezuma and turn left follow the road and it will turn into White Spar stay on this road until you see a Woody's gas station, turn right, this road is copper basin follow it up to Sierra Vista.",
-  "temperature_high": 95.11,
-  "temperature_mid": 80.055,
-  "temperature_low": 65,
+  "temperature": {
+    "high": 95.11,
+    "mid": 80.055,
+    "low": 65
+  },
   "dew_point": 40.13,
   "humidity": 0.29,
   "cloud_cover": 0.09,

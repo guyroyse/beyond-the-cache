@@ -11,9 +11,11 @@
   "longitude": -81.57021,
   "location": "-81.57021,41.35208",
   "location_details": "This Rd. is off of St. Rt. 8 obtainable through Northfield Ohio",
-  "temperature_high": 89.34,
-  "temperature_mid": 79.605,
-  "temperature_low": 69.87,
+  "temperature": {
+    "high": 89.34,
+    "mid": 79.605,
+    "low": 69.87
+  },
   "dew_point": 63.25,
   "humidity": 0.58,
   "cloud_cover": 0.51,

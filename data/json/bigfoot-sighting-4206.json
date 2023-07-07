@@ -11,9 +11,11 @@
   "longitude": -95.58334,
   "location": "-95.58334,30.52361",
   "location_details": "I have given about as good of a description of the area as I can.  Half way down FM 1375 on the north side of the road just past the bridge spanning the upper portion of Lake Conroe.",
-  "temperature_high": 86.18,
-  "temperature_mid": 75.47,
-  "temperature_low": 64.76,
+  "temperature": {
+    "high": 86.18,
+    "mid": 75.47,
+    "low": 64.76
+  },
   "dew_point": 64.73,
   "humidity": 0.69,
   "cloud_cover": 0.07,

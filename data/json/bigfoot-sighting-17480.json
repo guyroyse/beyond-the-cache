@@ -11,9 +11,11 @@
   "longitude": -85.625,
   "location": "-85.625,33.35",
   "location_details": "cheaha state park",
-  "temperature_high": 77.53,
-  "temperature_mid": 63.215,
-  "temperature_low": 48.9,
+  "temperature": {
+    "high": 77.53,
+    "mid": 63.215,
+    "low": 48.9
+  },
   "dew_point": 45.21,
   "humidity": 0.59,
   "cloud_cover": 0.03,

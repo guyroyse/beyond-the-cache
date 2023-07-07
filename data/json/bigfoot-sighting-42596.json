@@ -11,9 +11,11 @@
   "longitude": -96.0073,
   "location": "-96.0073,48.8572",
   "location_details": "North of Badger, MN approximately 5 miles on County Road 3.",
-  "temperature_high": 30.06,
-  "temperature_mid": 23.02,
-  "temperature_low": 15.98,
+  "temperature": {
+    "high": 30.06,
+    "mid": 23.02,
+    "low": 15.98
+  },
   "dew_point": 8.92,
   "humidity": 0.62,
   "cloud_cover": 0.07,

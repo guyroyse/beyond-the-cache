@@ -11,9 +11,11 @@
   "longitude": -74.68135,
   "location": "-74.68135,40.16465",
   "location_details": "Take US 195 and get off  the exit for route 130 south toward bordentown. At the light for Groville Rd you make a left. Go down until you come to Hogback rd. Make a right. The road will go straight for a while. Where it bends around to the left that is the approximate location where we saw it. If you come to the youth correctional center you passed the site.",
-  "temperature_high": 33.53,
-  "temperature_mid": 26.725,
-  "temperature_low": 19.92,
+  "temperature": {
+    "high": 33.53,
+    "mid": 26.725,
+    "low": 19.92
+  },
   "dew_point": 18.88,
   "humidity": 0.71,
   "cloud_cover": 0.09,

@@ -11,9 +11,11 @@
   "longitude": -73.0723,
   "location": "-73.0723,43.1635",
   "location_details": "You need to get on Vermont Route 7A and the turn-off for the park is labeled. I am not sure of exact directions before then but if you reach the Equinox Hotel you have gone too far.",
-  "temperature_high": 77.39,
-  "temperature_mid": 63.445,
-  "temperature_low": 49.5,
+  "temperature": {
+    "high": 77.39,
+    "mid": 63.445,
+    "low": 49.5
+  },
   "dew_point": 52.06,
   "humidity": 0.72,
   "cloud_cover": 0.14,

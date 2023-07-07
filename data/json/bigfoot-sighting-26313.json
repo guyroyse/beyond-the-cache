@@ -11,9 +11,11 @@
   "longitude": -84.5317,
   "location": "-84.5317,33.49565",
   "location_details": "Lee's Mill Road",
-  "temperature_high": 85.61,
-  "temperature_mid": 74.595,
-  "temperature_low": 63.58,
+  "temperature": {
+    "high": 85.61,
+    "mid": 74.595,
+    "low": 63.58
+  },
   "dew_point": 68.75,
   "humidity": 0.73,
   "cloud_cover": 0.39,

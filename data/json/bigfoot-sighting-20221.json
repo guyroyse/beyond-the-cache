@@ -11,9 +11,11 @@
   "longitude": -116.0969,
   "location": "-116.0969,48.25206",
   "location_details": "Go from Clark Fork and cross the river on a small one car bridge.  Take the dirt road parallel to the river and turn off on a \"fire road\" to head towards the waterfall.  The locals know it well but it's been years since I wintered there and can't recall the names of the roads and landmarks off the top of my head.",
-  "temperature_high": 33.46,
-  "temperature_mid": 30.52,
-  "temperature_low": 27.58,
+  "temperature": {
+    "high": 33.46,
+    "mid": 30.52,
+    "low": 27.58
+  },
   "dew_point": 26.73,
   "humidity": 0.89,
   "cloud_cover": 0.85,

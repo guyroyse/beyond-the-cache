@@ -11,9 +11,11 @@
   "longitude": -84.0475,
   "location": "-84.0475,35.5559",
   "location_details": "South of Maryville, TN about 20 miles from the N.C. line.",
-  "temperature_high": 32.29,
-  "temperature_mid": 27.07,
-  "temperature_low": 21.85,
+  "temperature": {
+    "high": 32.29,
+    "mid": 27.07,
+    "low": 21.85
+  },
   "dew_point": 16.25,
   "humidity": 0.57,
   "cloud_cover": 0.74,

@@ -11,9 +11,11 @@
   "longitude": -93.85965,
   "location": "-93.85965,40.8348",
   "location_details": "THE WEST END OF DEKALB PUBLIC HUNTING AREA. AROUND THE ABANDONED QUERRY PIT.",
-  "temperature_high": 76.83,
-  "temperature_mid": 66.445,
-  "temperature_low": 56.06,
+  "temperature": {
+    "high": 76.83,
+    "mid": 66.445,
+    "low": 56.06
+  },
   "dew_point": 46.35,
   "humidity": 0.7,
   "cloud_cover": 0.84,

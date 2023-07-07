@@ -11,9 +11,11 @@
   "longitude": -77.2948,
   "location": "-77.2948,39.06392",
   "location_details": "Outside of living room window of single family home.",
-  "temperature_high": 65,
-  "temperature_mid": 50.95,
-  "temperature_low": 36.9,
+  "temperature": {
+    "high": 65,
+    "mid": 50.95,
+    "low": 36.9
+  },
   "dew_point": 24.2,
   "humidity": 0.31,
   "cloud_cover": 0.11,

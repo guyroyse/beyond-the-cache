@@ -11,9 +11,11 @@
   "longitude": -123.2665,
   "location": "-123.2665,45.4915",
   "location_details": "ONE OF THE GRAVEL ROADS AT THE BACK OF HAAG LAKE. I TRIED TO FIND THE AREA AGAIN IN 2001, UNSUCCESSFULLY.",
-  "temperature_high": 68.37,
-  "temperature_mid": 57.17,
-  "temperature_low": 45.97,
+  "temperature": {
+    "high": 68.37,
+    "mid": 57.17,
+    "low": 45.97
+  },
   "dew_point": 49.16,
   "humidity": 0.68,
   "cloud_cover": 0.68,

@@ -11,9 +11,11 @@
   "longitude": -122.4078,
   "location": "-122.4078,48.68985",
   "location_details": "about 5 miles south of Bellingham,just befor the Big WHite painted rock on the east side of the freeway",
-  "temperature_high": 64.08,
-  "temperature_mid": 55.605,
-  "temperature_low": 47.13,
+  "temperature": {
+    "high": 64.08,
+    "mid": 55.605,
+    "low": 47.13
+  },
   "dew_point": 52.16,
   "humidity": 0.83,
   "cloud_cover": 0.62,

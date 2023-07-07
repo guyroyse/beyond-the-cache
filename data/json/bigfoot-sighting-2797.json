@@ -11,9 +11,11 @@
   "longitude": -88.12464,
   "location": "-88.12464,45.43522",
   "location_details": "Marinette county, WI. Approximately 15-20 miles NNW of Crivitz.",
-  "temperature_high": 22.21,
-  "temperature_mid": 14.125,
-  "temperature_low": 6.04,
+  "temperature": {
+    "high": 22.21,
+    "mid": 14.125,
+    "low": 6.04
+  },
   "dew_point": 8.4,
   "humidity": 0.75,
   "cloud_cover": 0.67,

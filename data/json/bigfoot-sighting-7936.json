@@ -11,9 +11,11 @@
   "longitude": -82.70263,
   "location": "-82.70263,39.74107",
   "location_details": "Rock Mill area of off Lithopolis Road intersecting Rock Mill Road very close to the covered bridge.",
-  "temperature_high": 75.48,
-  "temperature_mid": 63.82,
-  "temperature_low": 52.16,
+  "temperature": {
+    "high": 75.48,
+    "mid": 63.82,
+    "low": 52.16
+  },
   "dew_point": 55.73,
   "humidity": 0.72,
   "cloud_cover": 0.29,

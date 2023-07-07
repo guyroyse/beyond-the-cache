@@ -11,9 +11,11 @@
   "longitude": -77.50434,
   "location": "-77.50434,34.53784",
   "location_details": "From Hubert you can take Hwy. 172 to where it meets Hwy 17. From that intersection look to the right & you can't miss the pecan tree.",
-  "temperature_high": 85.36,
-  "temperature_mid": 78.12,
-  "temperature_low": 70.88,
+  "temperature": {
+    "high": 85.36,
+    "mid": 78.12,
+    "low": 70.88
+  },
   "dew_point": 69.97,
   "humidity": 0.8,
   "cloud_cover": 0.37,

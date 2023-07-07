@@ -11,9 +11,11 @@
   "longitude": -88.71103,
   "location": "-88.71103,41.42396",
   "location_details": "From Yorkville take Illinois Rt 71 west, after you pass Norway go down the hill to Marseilles road (County Highway 15), which you can only turn left (south). It took place at the height of the first curve.",
-  "temperature_high": 89.99,
-  "temperature_mid": 83.82,
-  "temperature_low": 77.65,
+  "temperature": {
+    "high": 89.99,
+    "mid": 83.82,
+    "low": 77.65
+  },
   "dew_point": 74.24,
   "humidity": 0.77,
   "cloud_cover": 0.19,

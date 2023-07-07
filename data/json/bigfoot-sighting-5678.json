@@ -11,9 +11,11 @@
   "longitude": -82.43635,
   "location": "-82.43635,37.83777",
   "location_details": "Far back in the mountains in eastern Kentucky.  It is possible strip mining has destroyed the area.  I've been away for 40 years or so.",
-  "temperature_high": 81.54,
-  "temperature_mid": 69.525,
-  "temperature_low": 57.51,
+  "temperature": {
+    "high": 81.54,
+    "mid": 69.525,
+    "low": 57.51
+  },
   "dew_point": 55.8,
   "humidity": 0.69,
   "cloud_cover": 0.21,

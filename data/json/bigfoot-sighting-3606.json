@@ -11,9 +11,11 @@
   "longitude": -106.3,
   "location": "-106.3,39.25",
   "location_details": "Travel South out of Leadville Colorado about fifteen miles on U.S. 24 to Granite Colorado.  About two miles past Granite turn right (west) on Clear Creek Canyon Road.  Clear Creek Lake Reservoir is about one half mile west after you make the turn.",
-  "temperature_high": 70.87,
-  "temperature_mid": 51.965,
-  "temperature_low": 33.06,
+  "temperature": {
+    "high": 70.87,
+    "mid": 51.965,
+    "low": 33.06
+  },
   "dew_point": 27.14,
   "humidity": 0.42,
   "cloud_cover": 0.11,

@@ -11,9 +11,11 @@
   "longitude": -93.22192,
   "location": "-93.22192,42.73854",
   "location_details": "West side of Hampton, Iowa on Olive Ave South. Turn left from Highway 3, and go about a quarter mile and it's right next to Farm Service.",
-  "temperature_high": 78.51,
-  "temperature_mid": 68.4,
-  "temperature_low": 58.29,
+  "temperature": {
+    "high": 78.51,
+    "mid": 68.4,
+    "low": 58.29
+  },
   "dew_point": 53.52,
   "humidity": 0.74,
   "cloud_cover": 0.04,

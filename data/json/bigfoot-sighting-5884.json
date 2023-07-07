@@ -11,9 +11,11 @@
   "longitude": -85.76891,
   "location": "-85.76891,30.7599",
   "location_details": "Interstate 10, east of Caryville",
-  "temperature_high": 53.49,
-  "temperature_mid": 45.81,
-  "temperature_low": 38.13,
+  "temperature": {
+    "high": 53.49,
+    "mid": 45.81,
+    "low": 38.13
+  },
   "dew_point": 37.58,
   "humidity": 0.79,
   "cloud_cover": 0.51,

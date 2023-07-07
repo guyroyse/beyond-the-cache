@@ -11,9 +11,11 @@
   "longitude": -90.95902,
   "location": "-90.95902,34.97181",
   "location_details": "Beck Spur area between Forrest City and Palestine.",
-  "temperature_high": 88.07,
-  "temperature_mid": 79.065,
-  "temperature_low": 70.06,
+  "temperature": {
+    "high": 88.07,
+    "mid": 79.065,
+    "low": 70.06
+  },
   "dew_point": 70.64,
   "humidity": 0.77,
   "cloud_cover": 0.39,

@@ -11,9 +11,11 @@
   "longitude": -83.61314,
   "location": "-83.61314,44.68047",
   "location_details": "On Jewel Lake near Barton City",
-  "temperature_high": 70.87,
-  "temperature_mid": 64.36,
-  "temperature_low": 57.85,
+  "temperature": {
+    "high": 70.87,
+    "mid": 64.36,
+    "low": 57.85
+  },
   "dew_point": 59.79,
   "humidity": 0.83,
   "cloud_cover": 0.3,

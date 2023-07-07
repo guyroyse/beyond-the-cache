@@ -11,9 +11,11 @@
   "longitude": -89.34647,
   "location": "-89.34647,39.74678",
   "location_details": "I am not sure of the exact location but my buddy knows exactly where it is. I do know the location is very close to the Ravenna military ammunition plant also known as the Ravenna arsenal. The area is very close to the Trumbull county Portage county line.",
-  "temperature_high": 31.18,
-  "temperature_mid": 25.86,
-  "temperature_low": 20.54,
+  "temperature": {
+    "high": 31.18,
+    "mid": 25.86,
+    "low": 20.54
+  },
   "dew_point": 18.69,
   "humidity": 0.73,
   "cloud_cover": 0.68,

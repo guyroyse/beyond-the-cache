@@ -11,9 +11,11 @@
   "longitude": -116.99,
   "location": "-116.99,48.1964",
   "location_details": "It's just north of the 2. The road that leads to Freeman Lake. It's the ranch just before the bend.",
-  "temperature_high": 26.21,
-  "temperature_mid": 23.38,
-  "temperature_low": 20.55,
+  "temperature": {
+    "high": 26.21,
+    "mid": 23.38,
+    "low": 20.55
+  },
   "dew_point": 20.06,
   "humidity": 0.88,
   "cloud_cover": 0.33,

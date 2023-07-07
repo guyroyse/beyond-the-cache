@@ -11,9 +11,11 @@
   "longitude": -121.6962,
   "location": "-121.6962,48.32675",
   "location_details": "off 530 at the gas station, go up road 18 follow it up till you see the sign for road 1855, stay on this road and follow it all the way to the top of the ridge. There has been people camping so its well used.",
-  "temperature_high": 57.73,
-  "temperature_mid": 52.75,
-  "temperature_low": 47.77,
+  "temperature": {
+    "high": 57.73,
+    "mid": 52.75,
+    "low": 47.77
+  },
   "dew_point": 47.18,
   "humidity": 0.77,
   "cloud_cover": 0.67,

@@ -11,9 +11,11 @@
   "longitude": -80.60976,
   "location": "-80.60976,26.61979",
   "location_details": "off hwy 27 west to CR833 about 7 miles to entrance to Montura Estates. Enter and go to Hacienda Ave. Turn Right this should be south. Along this road is were we saw it enter and walk to Hunting Club Ave.",
-  "temperature_high": 79.83,
-  "temperature_mid": 75.93,
-  "temperature_low": 72.03,
+  "temperature": {
+    "high": 79.83,
+    "mid": 75.93,
+    "low": 72.03
+  },
   "dew_point": 68.95,
   "humidity": 0.83,
   "cloud_cover": 0.66,

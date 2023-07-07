@@ -11,9 +11,11 @@
   "longitude": -95.48833,
   "location": "-95.48833,31.35833",
   "location_details": "This happened in the small East Texas town of Crockett, Texas.  It was about 18 years ago. The county is Houston County.",
-  "temperature_high": 99.19,
-  "temperature_mid": 87.89,
-  "temperature_low": 76.59,
+  "temperature": {
+    "high": 99.19,
+    "mid": 87.89,
+    "low": 76.59
+  },
   "dew_point": 72.13,
   "humidity": 0.64,
   "cloud_cover": 0.21,

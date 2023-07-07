@@ -11,9 +11,11 @@
   "longitude": -93.64312,
   "location": "-93.64312,40.57773",
   "location_details": "About 7 miles west of South Lineville Mo on south side of State Line Road, just barely in Mo",
-  "temperature_high": 59.57,
-  "temperature_mid": 54.065,
-  "temperature_low": 48.56,
+  "temperature": {
+    "high": 59.57,
+    "mid": 54.065,
+    "low": 48.56
+  },
   "dew_point": 42.2,
   "humidity": 0.64,
   "cloud_cover": 0.42,

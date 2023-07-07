@@ -11,9 +11,11 @@
   "longitude": -81.61264,
   "location": "-81.61264,32.98597",
   "location_details": "On rte 321 toward rte 301, near the SC/GA border",
-  "temperature_high": 60.49,
-  "temperature_mid": 49.365,
-  "temperature_low": 38.24,
+  "temperature": {
+    "high": 60.49,
+    "mid": 49.365,
+    "low": 38.24
+  },
   "dew_point": 34.27,
   "humidity": 0.53,
   "cloud_cover": 0.07,

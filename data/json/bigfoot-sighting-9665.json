@@ -11,9 +11,11 @@
   "longitude": -121.6669,
   "location": "-121.6669,46.01665",
   "location_details": "It was in Washington State, in the forest on a back road, there were patches of snow everywhere, either late morning or early afternoon. It couldn't have been more than 2 1/2 hours away from Vancouver, WA. [On a backroad in the vicinity of Trout Lake]",
-  "temperature_high": 59.63,
-  "temperature_mid": 50.69,
-  "temperature_low": 41.75,
+  "temperature": {
+    "high": 59.63,
+    "mid": 50.69,
+    "low": 41.75
+  },
   "dew_point": 41.69,
   "humidity": 0.69,
   "cloud_cover": 0.73,

@@ -11,9 +11,11 @@
   "longitude": -88.03413,
   "location": "-88.03413,45.64867",
   "location_details": "The area of the road crossing was approximately 1/2 mile East of intersection of 00/0.",
-  "temperature_high": 63.38,
-  "temperature_mid": 54.96,
-  "temperature_low": 46.54,
+  "temperature": {
+    "high": 63.38,
+    "mid": 54.96,
+    "low": 46.54
+  },
   "dew_point": 38.03,
   "humidity": 0.59,
   "cloud_cover": 0.1,

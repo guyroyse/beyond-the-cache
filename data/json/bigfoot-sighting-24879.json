@@ -11,9 +11,11 @@
   "longitude": -90.79886,
   "location": "-90.79886,37.79465",
   "location_details": "Lonedell, MO",
-  "temperature_high": 81.01,
-  "temperature_mid": 76.255,
-  "temperature_low": 71.5,
+  "temperature": {
+    "high": 81.01,
+    "mid": 76.255,
+    "low": 71.5
+  },
   "dew_point": 69.96,
   "humidity": 0.84,
   "cloud_cover": 0.39,

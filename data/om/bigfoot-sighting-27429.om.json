@@ -1,0 +1,35 @@
+{
+  "reportId": "27429",
+  "title": "Motorist observes possible road crossing near Princeton",
+  "date": "2010-03-10",
+  "timestamp": 1268179200,
+  "observed": "Incident happened at around 5:30 p.m., Wednesday, March 10, 2010.   I was on County Road J, somewhere between Harrisville, WI and Princeton, WI.  Exact location unknown, because I was kind of just following the car in front of me, driving on \"auto pilot.\"  It was very foggy and we were both going about 30-35 mph.  Suddenly, the car in front of me slammed on the brakes, and I did the same.  Running across the road in front of the car in front of me, in about only two strides, was a large black figure, about seven feet tall, with long arms; humanoid form, thinner body type.  I can't be sure but I believe it was hair or fur-covered, not clothing. It appeared and disappeared very quickly because of the fog.  When I passed by the area into which it ran, I saw nothing.",
+  "classification": "Class B",
+  "county": "Marquette",
+  "state": "Wisconsin",
+  "latitude": 43.8708,
+  "longitude": -89.18135,
+  "location": {
+    "longitude": -89.18135,
+    "latitude": 43.8708
+  },
+  "location_details": "County Rd. J Princeton, WI.",
+  "temperature": {
+    "high": 44.15,
+    "mid": 41.185,
+    "low": 38.22
+  },
+  "dew_point": 39.14,
+  "humidity": 0.95,
+  "cloud_cover": 0.98,
+  "moon_phase": 0.84,
+  "precip_intensity": 0.0089,
+  "precip_probability": 0.93,
+  "precip_type": "rain",
+  "pressure": 1003.88,
+  "summary": "Light rain in the morning.",
+  "uv_index": 2,
+  "visibility": 1.37,
+  "wind_bearing": 91,
+  "wind_speed": 6.13
+}

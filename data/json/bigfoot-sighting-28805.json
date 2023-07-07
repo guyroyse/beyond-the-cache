@@ -11,9 +11,11 @@
   "longitude": -85.79052,
   "location": "-85.79052,44.66666",
   "location_details": "IT WAS BACK IN THE WOODS OFF OF THE HIGHWAY ON A TWO TRACK DIRT ROAD I GUESS SOME LOGGING HAD BEEN DONE BACK WHERE WE WERE AT",
-  "temperature_high": 58.49,
-  "temperature_mid": 48.415,
-  "temperature_low": 38.34,
+  "temperature": {
+    "high": 58.49,
+    "mid": 48.415,
+    "low": 38.34
+  },
   "dew_point": 50.69,
   "humidity": 0.81,
   "cloud_cover": 0.9,

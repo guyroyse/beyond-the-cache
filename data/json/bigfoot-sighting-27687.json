@@ -11,9 +11,11 @@
   "longitude": -118.4538,
   "location": "-118.4538,34.66363",
   "location_details": "I was with others and was driven to the cabin. I don't know where it is really, but, I do know it was in the lake Hughes area and we turned off of Lake Hughes's road to get to his house or ranch. My buddy was the post Master of Alturas, Ca, and has retired from there now. I have not spoken to him in a long while. We got lost from each other in life's struggles. LOL. He would know of this place and all. My dad does not remember either. This was a long time ago, and I will never forget it.  Ever!",
-  "temperature_high": 76.97,
-  "temperature_mid": 65.345,
-  "temperature_low": 53.72,
+  "temperature": {
+    "high": 76.97,
+    "mid": 65.345,
+    "low": 53.72
+  },
   "dew_point": 32.35,
   "humidity": 0.35,
   "cloud_cover": 0.01,

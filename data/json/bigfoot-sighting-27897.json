@@ -11,9 +11,11 @@
   "longitude": -122.8722,
   "location": "-122.8722,46.50105",
   "location_details": "This location is just East of I-5, at 369 Hart rd.  The driveway runs up the Gas pipeline.  Theres a swamp 50ft up the drive on your left.  The rest of the drive is brush and trees however my parents have doen selective logging so its quite a bit different then in 1980.",
-  "temperature_high": 78.51,
-  "temperature_mid": 63.465,
-  "temperature_low": 48.42,
+  "temperature": {
+    "high": 78.51,
+    "mid": 63.465,
+    "low": 48.42
+  },
   "dew_point": 52.79,
   "humidity": 0.75,
   "cloud_cover": 0.24,

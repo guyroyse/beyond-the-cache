@@ -11,9 +11,11 @@
   "longitude": -121.7476,
   "location": "-121.7476,46.0189",
   "location_details": "Trail leaves Forest Road 24 about 1.5 miles SE of Little Goose Horse Camp. When you get to the lake [Lake Wapiki] you curve to the left of it and we camped back there a couple hundred feet from this big pond that had a lot of frogs in it.",
-  "temperature_high": 90.27,
-  "temperature_mid": 74.82,
-  "temperature_low": 59.37,
+  "temperature": {
+    "high": 90.27,
+    "mid": 74.82,
+    "low": 59.37
+  },
   "dew_point": 55.41,
   "humidity": 0.54,
   "cloud_cover": 0.03,

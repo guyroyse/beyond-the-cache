@@ -11,9 +11,11 @@
   "longitude": -73.1512,
   "location": "-73.1512,41.36935",
   "location_details": "Proceding north on Howe Ave. in Shelton, CT take a left at Indian Wells State Park. The road turns into a windy, one lane road above the park, with blind curves and \"pullovers\" because only one car can pass at a time. At about 2 miles, the road crosses over a railroad track and continues to the cottage area. It was about 100 yards above the crossing that this event took place.",
-  "temperature_high": 79.82,
-  "temperature_mid": 70.65,
-  "temperature_low": 61.48,
+  "temperature": {
+    "high": 79.82,
+    "mid": 70.65,
+    "low": 61.48
+  },
   "dew_point": 50.92,
   "humidity": 0.52,
   "cloud_cover": 0.53,

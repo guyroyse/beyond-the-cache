@@ -11,9 +11,11 @@
   "longitude": -120.0825,
   "location": "-120.0825,38.80435",
   "location_details": "From US Highway 50, turn south at Sierra at Tahoe Rd.,  enter the Sierra Ski Resort and ask permission to 4x4 to the \"Short Stuff\" run.  From there the site is less than a mile. Otherwise it is a stiff uphill trek from the \"corral\" trailhead in Sayles Canyon. To get there turn right (downhill) just before the black Ski Area metal gate, past the green and orange gate, to the trailhead. From Highway 50, this trailhead is 3.5 miles.",
-  "temperature_high": 84.36,
-  "temperature_mid": 69.495,
-  "temperature_low": 54.63,
+  "temperature": {
+    "high": 84.36,
+    "mid": 69.495,
+    "low": 54.63
+  },
   "dew_point": 45.65,
   "humidity": 0.46,
   "cloud_cover": 0.03,

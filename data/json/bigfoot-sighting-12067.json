@@ -11,9 +11,11 @@
   "longitude": -95.747,
   "location": "-95.747,39.072",
   "location_details": "Just past Fleming Foods and Payless Shoes Distribution Center.",
-  "temperature_high": 96.68,
-  "temperature_mid": 86.775,
-  "temperature_low": 76.87,
+  "temperature": {
+    "high": 96.68,
+    "mid": 86.775,
+    "low": 76.87
+  },
   "dew_point": 67.91,
   "humidity": 0.7,
   "cloud_cover": 0.34,

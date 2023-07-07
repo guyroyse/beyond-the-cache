@@ -11,9 +11,11 @@
   "longitude": -95.11484,
   "location": "-95.11484,46.50385",
   "location_details": "4-5 miles north of wadena and 1 mile west of hwy 71.",
-  "temperature_high": 72.79,
-  "temperature_mid": 61.87,
-  "temperature_low": 50.95,
+  "temperature": {
+    "high": 72.79,
+    "mid": 61.87,
+    "low": 50.95
+  },
   "dew_point": 48.22,
   "humidity": 0.64,
   "cloud_cover": 0.14,

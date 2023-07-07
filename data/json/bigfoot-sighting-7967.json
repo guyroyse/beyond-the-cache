@@ -11,9 +11,11 @@
   "longitude": -121.6347,
   "location": "-121.6347,43.7151",
   "location_details": "The dirt road is called 4370.  It goes right along the river.",
-  "temperature_high": 94.2,
-  "temperature_mid": 74.895,
-  "temperature_low": 55.59,
+  "temperature": {
+    "high": 94.2,
+    "mid": 74.895,
+    "low": 55.59
+  },
   "dew_point": 49.07,
   "humidity": 0.42,
   "cloud_cover": 0.02,

@@ -44,7 +44,7 @@ Now that we have some data, let's create an index to use it. Take a look at the 
     $.observed AS observed TEXT
     $.state AS state TAG
     $.classification AS classification TAG
-    $.temperature_mid AS temperature_mid NUMERIC
+    $.temperature.mid AS temperature_mid NUMERIC
     $.location AS location GEO
 OK
 ```
@@ -101,7 +101,7 @@ And it's gone! Of course, we *want* our index, `cuz we're gonna search against i
     $.observed AS observed TEXT
     $.state AS state TAG
     $.classification AS classification TAG
-    $.temperature_mid AS temperature_mid NUMERIC
+    $.temperature.mid AS temperature_mid NUMERIC
     $.location AS location GEO
 OK
 ```

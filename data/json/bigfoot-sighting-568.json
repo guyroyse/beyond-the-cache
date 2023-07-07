@@ -11,9 +11,11 @@
   "longitude": -122.3442,
   "location": "-122.3442,46.71",
   "location_details": "Literally at the very top of Cougar mountain. I can't tell you how to get there specifically because my cousin drove and we went through forest roads from Yelm to get there.",
-  "temperature_high": 88.72,
-  "temperature_mid": 71.705,
-  "temperature_low": 54.69,
+  "temperature": {
+    "high": 88.72,
+    "mid": 71.705,
+    "low": 54.69
+  },
   "dew_point": 50.91,
   "humidity": 0.59,
   "cloud_cover": 0.03,

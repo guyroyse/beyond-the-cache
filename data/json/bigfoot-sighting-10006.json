@@ -11,9 +11,11 @@
   "longitude": -80.68192,
   "location": "-80.68192,40.1333",
   "location_details": "Off of rt 2 in warwood.",
-  "temperature_high": 37.15,
-  "temperature_mid": 32.7,
-  "temperature_low": 28.25,
+  "temperature": {
+    "high": 37.15,
+    "mid": 32.7,
+    "low": 28.25
+  },
   "dew_point": 29.45,
   "humidity": 0.81,
   "cloud_cover": 0.99,

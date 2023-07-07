@@ -11,9 +11,11 @@
   "longitude": -122.0467,
   "location": "-122.0467,46.74621",
   "location_details": "The paved road was HWY 706 between Elbe and Ashford. We turned right, off of the pavement about a mile before Ashford.There was no road designation that I saw on the gravel road, but I can go back to the exact spot again. I will leave it to you as to post this information or not. However, this road does see some activity from shooters and A.T.V. riders and even those loathsome individuals too cheap to go to a proper dump with their garbage, so if you do not want to possibly increase traffic to this area, it may be wise to not print this description.",
-  "temperature_high": 83.15,
-  "temperature_mid": 67.05,
-  "temperature_low": 50.95,
+  "temperature": {
+    "high": 83.15,
+    "mid": 67.05,
+    "low": 50.95
+  },
   "dew_point": 45.68,
   "humidity": 0.53,
   "cloud_cover": 0,

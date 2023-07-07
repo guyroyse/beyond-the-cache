@@ -11,9 +11,11 @@
   "longitude": -120.2083,
   "location": "-120.2083,38.79998",
   "location_details": "Hwy US 50 between Silver Fork and Twin Bridges.",
-  "temperature_high": 92.12,
-  "temperature_mid": 75.795,
-  "temperature_low": 59.47,
+  "temperature": {
+    "high": 92.12,
+    "mid": 75.795,
+    "low": 59.47
+  },
   "dew_point": 43.69,
   "humidity": 0.35,
   "cloud_cover": 0.02,

@@ -11,9 +11,11 @@
   "longitude": -82.52238,
   "location": "-82.52238,39.39935",
   "location_details": "Near Ash Caves State Park",
-  "temperature_high": 58.75,
-  "temperature_mid": 50.435,
-  "temperature_low": 42.12,
+  "temperature": {
+    "high": 58.75,
+    "mid": 50.435,
+    "low": 42.12
+  },
   "dew_point": 29.76,
   "humidity": 0.58,
   "cloud_cover": 0.14,

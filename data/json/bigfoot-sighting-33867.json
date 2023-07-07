@@ -11,9 +11,11 @@
   "longitude": -122.7372,
   "location": "-122.7372,46.48508",
   "location_details": "along highway 12",
-  "temperature_high": 55.14,
-  "temperature_mid": 47.055,
-  "temperature_low": 38.97,
+  "temperature": {
+    "high": 55.14,
+    "mid": 47.055,
+    "low": 38.97
+  },
   "dew_point": 43.29,
   "humidity": 0.81,
   "cloud_cover": 0.79,

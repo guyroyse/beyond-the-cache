@@ -11,9 +11,11 @@
   "longitude": -95.12872,
   "location": "-95.12872,32.24271",
   "location_details": "On the east side of Lake Tyler East",
-  "temperature_high": 93,
-  "temperature_mid": 82,
-  "temperature_low": 71,
+  "temperature": {
+    "high": 93,
+    "mid": 82,
+    "low": 71
+  },
   "dew_point": 70.54,
   "humidity": 0.69,
   "cloud_cover": 0.4,

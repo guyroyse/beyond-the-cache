@@ -1,0 +1,35 @@
+{
+  "reportId": "36746",
+  "title": "Fisherman describes being paralleled by a whistler after fishing the Blue River outside Manhattan",
+  "date": "2011-07-15",
+  "timestamp": 1310688000,
+  "observed": "My brother-in-law and I were finishing up fishing the Blue River one night and were making the walk back to the car. Its probably a half mile walk or so on like a dry rocky edge of the river. Along the whole side of the edge where we were walking is lined with trees decently thick. Anyway we grabbed our gear and were walking when I heard what sounded like someone walking along with us but up in the tree area (like 50ft from us). So after i heard it I stopped and it stopped. I started and it did again to. So we kept walking but that's when I decided to start whistling at it and sure enough it whistled back. The whole ten minute walk it walked with us and would whistle back and forth with me. Now i can't say it wasn't someone messing with us but its a pretty country area and i just couldn't see anyone going through the trouble for not much fun.",
+  "classification": "Class B",
+  "county": "Shawnee",
+  "state": "Kansas",
+  "latitude": 39.14519,
+  "longitude": -96.35309,
+  "location": {
+    "longitude": -96.35309,
+    "latitude": 39.14519
+  },
+  "location_details": "Its right up Tuttle Creek Road in Manhattan KS. Head north on Barnes Rd and you go right over the river. That's where you park and go down to fish.",
+  "temperature": {
+    "high": 100.47,
+    "mid": 89.7,
+    "low": 78.93
+  },
+  "dew_point": 72.81,
+  "humidity": 0.62,
+  "cloud_cover": 0.04,
+  "moon_phase": 0.52,
+  "precip_intensity": 0.0021,
+  "precip_probability": 0.04,
+  "precip_type": "rain",
+  "pressure": 1008.24,
+  "summary": "Humid throughout the day.",
+  "uv_index": 10,
+  "visibility": 9.84,
+  "wind_bearing": 142,
+  "wind_speed": 8.51
+}

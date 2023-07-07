@@ -11,9 +11,11 @@
   "longitude": -105.6385,
   "location": "-105.6385,40.84707",
   "location_details": "8 miles from Red Feather Lakes, Colorado.",
-  "temperature_high": 47.84,
-  "temperature_mid": 44.175,
-  "temperature_low": 40.51,
+  "temperature": {
+    "high": 47.84,
+    "mid": 44.175,
+    "low": 40.51
+  },
   "dew_point": 29,
   "humidity": 0.62,
   "cloud_cover": 0.9,

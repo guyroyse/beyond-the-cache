@@ -11,9 +11,11 @@
   "longitude": -118.9591,
   "location": "-118.9591,35.2673",
   "location_details": "Freeway 99 into south Bakersfield, east on State Route 119, after crossing Union Avenue, it changes to Panama Road.  2/.10 mile, cross Cottonwood Road, approximatley 1/.10 mile, the sighting.",
-  "temperature_high": 57.57,
-  "temperature_mid": 51.475,
-  "temperature_low": 45.38,
+  "temperature": {
+    "high": 57.57,
+    "mid": 51.475,
+    "low": 45.38
+  },
   "dew_point": 45.37,
   "humidity": 0.82,
   "cloud_cover": 0.36,

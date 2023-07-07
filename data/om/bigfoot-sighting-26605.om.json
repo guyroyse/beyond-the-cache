@@ -1,0 +1,35 @@
+{
+  "reportId": "26605",
+  "title": "Man recalls early morning sighting while squirrel hunting near Salyersville",
+  "date": "1972-09-30",
+  "timestamp": 86659200,
+  "observed": "my grandfather told me about seeing a thing he said looked like a ape when he was was hunting at harvest in Magoffin county when he was younger. said he didnt shoot it because he didnt know what it was. im writing this because he dont know how to use a computer. also told me his grandfather called them hairy men.",
+  "classification": "Class A",
+  "county": "Magoffin",
+  "state": "Kentucky",
+  "latitude": 37.81144,
+  "longitude": -83.08006,
+  "location": {
+    "longitude": -83.08006,
+    "latitude": 37.81144
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 53.1,
+    "mid": 44.48,
+    "low": 35.86
+  },
+  "dew_point": 47.99,
+  "humidity": 0.84,
+  "cloud_cover": 0.9,
+  "moon_phase": 0.78,
+  "precip_intensity": 0.0162,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1009.7,
+  "summary": "Rain in the morning.",
+  "uv_index": 3,
+  "visibility": 8.09,
+  "wind_bearing": 301,
+  "wind_speed": 6.52
+}

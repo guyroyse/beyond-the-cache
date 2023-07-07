@@ -11,9 +11,11 @@
   "longitude": -89.81407,
   "location": "-89.81407,43.85809",
   "location_details": "Heading North out of Wisconsin Dells on Hwy 13. The sighting occurred between Wisconsin Dells and Adams, WI",
-  "temperature_high": 82.63,
-  "temperature_mid": 75.53,
-  "temperature_low": 68.43,
+  "temperature": {
+    "high": 82.63,
+    "mid": 75.53,
+    "low": 68.43
+  },
   "dew_point": 67.76,
   "humidity": 0.75,
   "cloud_cover": 0.41,

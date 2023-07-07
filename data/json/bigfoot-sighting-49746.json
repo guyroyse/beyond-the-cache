@@ -11,9 +11,11 @@
   "longitude": -79.55045,
   "location": "-79.55045,37.38661",
   "location_details": "It was on the mailbox side of address 4472 on Route 43, the prints are still there in the gravel drive, next to the mailbox.",
-  "temperature_high": 84.9,
-  "temperature_mid": 77.175,
-  "temperature_low": 69.45,
+  "temperature": {
+    "high": 84.9,
+    "mid": 77.175,
+    "low": 69.45
+  },
   "dew_point": 68.33,
   "humidity": 0.83,
   "cloud_cover": 0.18,

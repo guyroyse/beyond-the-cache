@@ -11,9 +11,11 @@
   "longitude": -71.1794,
   "location": "-71.1794,44.79969",
   "location_details": "This happened on the farm we manage just outside of Errol, NH. We are 2.2 miles past Errol, heading towards Colebrook, NH.",
-  "temperature_high": 60.67,
-  "temperature_mid": 53.11,
-  "temperature_low": 45.55,
+  "temperature": {
+    "high": 60.67,
+    "mid": 53.11,
+    "low": 45.55
+  },
   "dew_point": 38.94,
   "humidity": 0.79,
   "cloud_cover": 0.15,

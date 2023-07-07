@@ -1,0 +1,35 @@
+{
+  "reportId": "369",
+  "title": "Possible vocalizations heard by backcountry hikers in Redwoods National Park",
+  "date": "2006-05-31",
+  "timestamp": 1149033600,
+  "observed": "My friend and I were backpacking in the Redwood National Park, north of Eureka, on [a particular trail in the National Park]. We started hiking at about 3 in the afternoon, and hiked for a few hours. Then we walked off the trail up into a small canyon for about half a mile and made camp. Found bear tracks, started to get worried, so we hung our food from a tree. About this time (7 o'clock) we heard the first scream. It was short, and didn't repeat. We started to get a little freaked out, so we started a fire, and heard nothing for the next 3 or 4 hours. Then at about 10:30 11:00 p.m. the screaming started again, this time lasting for about 10 minutes. It sounded like it was about half a mile away on one of the surrounding ridges, a very eerie wail.  It didn't sound human.  I know what elk, coyote, and wolf calls sound like, and this was nowhere near... very similar to recordings I have heard of supposed bigfoot calls.  We went to bed at about 2 a.m., and left the next morning without incident.",
+  "classification": "Class B",
+  "county": "Humboldt",
+  "state": "California",
+  "latitude": 41.16,
+  "longitude": -123.9,
+  "location": {
+    "longitude": -123.9,
+    "latitude": 41.16
+  },
+  "location_details": "[Editors' Note: Location details removed.  We know this particular area well, but this report submission pre-dates any of our own experiences there. ]",
+  "temperature": {
+    "high": 65.3,
+    "mid": 60.56,
+    "low": 55.82
+  },
+  "dew_point": 51.38,
+  "humidity": 0.8,
+  "cloud_cover": 0.39,
+  "moon_phase": 0.15,
+  "precip_intensity": 0.0034,
+  "precip_probability": 0.76,
+  "precip_type": "rain",
+  "pressure": 1017.86,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 7,
+  "visibility": 8.73,
+  "wind_bearing": 176,
+  "wind_speed": 3.21
+}

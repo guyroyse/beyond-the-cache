@@ -11,9 +11,11 @@
   "longitude": -80.98215,
   "location": "-80.98215,36.74465",
   "location_details": "Top of Brush Creek mountain - highway 94 from Fries toward Fort Chiswell. Open field on right with forest in the distance.",
-  "temperature_high": 52.59,
-  "temperature_mid": 49.955,
-  "temperature_low": 47.32,
+  "temperature": {
+    "high": 52.59,
+    "mid": 49.955,
+    "low": 47.32
+  },
   "dew_point": 40.43,
   "humidity": 0.82,
   "cloud_cover": 0.88,

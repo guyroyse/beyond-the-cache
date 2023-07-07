@@ -11,9 +11,11 @@
   "longitude": -122.6417,
   "location": "-122.6417,40.8333",
   "location_details": "From Hwy. 299, & then up the French Gultch Rd.",
-  "temperature_high": 63.45,
-  "temperature_mid": 56.13,
-  "temperature_low": 48.81,
+  "temperature": {
+    "high": 63.45,
+    "mid": 56.13,
+    "low": 48.81
+  },
   "dew_point": 41.4,
   "humidity": 0.66,
   "cloud_cover": 0.86,

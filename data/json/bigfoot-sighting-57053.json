@@ -11,9 +11,11 @@
   "longitude": -83.31311,
   "location": "-83.31311,34.8804",
   "location_details": "West fork chatooga river",
-  "temperature_high": 58.21,
-  "temperature_mid": 46.59,
-  "temperature_low": 34.97,
+  "temperature": {
+    "high": 58.21,
+    "mid": 46.59,
+    "low": 34.97
+  },
   "dew_point": 34.59,
   "humidity": 0.7,
   "cloud_cover": 0,

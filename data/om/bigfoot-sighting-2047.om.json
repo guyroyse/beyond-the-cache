@@ -1,0 +1,35 @@
+{
+  "reportId": "2047",
+  "title": "Thumping noise heard at night, footprints found in morning",
+  "date": "1980-05-24",
+  "timestamp": 327974400,
+  "observed": "On Memorial day weekend, we camped every year at the Buck Creek Campground. This year, while sleeping in the top bunk of a small Prowler trailer, I heard several loud thumps on the ground outside the window near my head. I wasn't asleep at the time and became frightened. It sounded like heavy footsteps either walking or maybe running by our camp site. This was at about 11:30PM. The next morning I went out on the steps of the trailer to put on my shoes. At the bottom of the steps we had a rubber mat. This mat was partially sunk into the dirt on the edge of it by a 15\"-16\" human looking footprint, it was maybe 6\" wide and 1/2\" deep. It had perfect toes and there was just a slight arch to it. It looked very flat footed. There were maybe 20 of these tracks going by our camp site. I showed my family members and other people in the camp area came by to take a look. I wanted to cast it but nobody was really interested. I was just a kid at the time. I don't think anybody took any pictures either. There were left and right tracks and the step was twice my own. I think it rained just before we got to camp so it might of made the ground easier to make tracks in. I noticed that anything that was on the ground and was stepped on was pushed in as deep as the track bottom. I didn't smell or hear anything else that weekend. I at first thought that maybe someone had made them, as a joke, but after looking at how many of them there were and how deep and detailed they were I couldn't figure out how anyone could of.",
+  "classification": "Class A",
+  "county": "Snohomish",
+  "state": "Washington",
+  "latitude": 48.2681,
+  "longitude": -121.3314,
+  "location": {
+    "longitude": -121.3314,
+    "latitude": 48.2681
+  },
+  "location_details": "Off Hwy 530, between Darrington and Rockport, turn east on FR26. This road follows the Suiattle River. R11E, T32N, Sec 13.",
+  "temperature": {
+    "high": 54.64,
+    "mid": 51.295,
+    "low": 47.95
+  },
+  "dew_point": 42.7,
+  "humidity": 0.78,
+  "cloud_cover": 0.89,
+  "moon_phase": 0.34,
+  "precip_intensity": 0.0023,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1013.77,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 5,
+  "visibility": 8.72,
+  "wind_bearing": 198,
+  "wind_speed": 4.97
+}

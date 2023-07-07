@@ -11,9 +11,11 @@
   "longitude": -122.9343,
   "location": "-122.9343,44.05917",
   "location_details": "Field next to the new business park.",
-  "temperature_high": 47.14,
-  "temperature_mid": 46.83,
-  "temperature_low": 46.52,
+  "temperature": {
+    "high": 47.14,
+    "mid": 46.83,
+    "low": 46.52
+  },
   "dew_point": 40.24,
   "humidity": 0.83,
   "cloud_cover": 0.28,

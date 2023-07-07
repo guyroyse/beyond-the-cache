@@ -11,9 +11,11 @@
   "longitude": -94.68028,
   "location": "-94.68028,34.36778",
   "location_details": "Can show on a topo map",
-  "temperature_high": 61.8,
-  "temperature_mid": 53.08,
-  "temperature_low": 44.36,
+  "temperature": {
+    "high": 61.8,
+    "mid": 53.08,
+    "low": 44.36
+  },
   "dew_point": 42.28,
   "humidity": 0.75,
   "cloud_cover": 0.24,

@@ -11,9 +11,11 @@
   "longitude": -82.98764,
   "location": "-82.98764,36.36264",
   "location_details": "In a community called Clouds Creek Off 11W south of Rogersville",
-  "temperature_high": 61.25,
-  "temperature_mid": 51.035,
-  "temperature_low": 40.82,
+  "temperature": {
+    "high": 61.25,
+    "mid": 51.035,
+    "low": 40.82
+  },
   "dew_point": 28.69,
   "humidity": 0.62,
   "cloud_cover": 0.22,

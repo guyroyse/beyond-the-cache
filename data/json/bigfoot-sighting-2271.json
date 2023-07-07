@@ -11,9 +11,11 @@
   "longitude": -74.4611,
   "location": "-74.4611,40.478",
   "location_details": "Take Livingston Ave  to Nassau St go up one block to Serviss Ave make a left and a you are there.",
-  "temperature_high": 38.04,
-  "temperature_mid": 31.96,
-  "temperature_low": 25.88,
+  "temperature": {
+    "high": 38.04,
+    "mid": 31.96,
+    "low": 25.88
+  },
   "dew_point": 23.54,
   "humidity": 0.76,
   "cloud_cover": 0.44,

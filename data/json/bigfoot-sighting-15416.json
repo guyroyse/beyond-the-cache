@@ -11,9 +11,11 @@
   "longitude": -115.3106,
   "location": "-115.3106,44.14555",
   "location_details": "18 miles East of Lowman ranger station. Turn left onto the Old Highway 21 take a right in front of an old ranger house and about 2 miles back is an airstrip and across from that is where we camped. It is about a 20 min. hike to a hotspring.",
-  "temperature_high": 72.8,
-  "temperature_mid": 58.99,
-  "temperature_low": 45.18,
+  "temperature": {
+    "high": 72.8,
+    "mid": 58.99,
+    "low": 45.18
+  },
   "dew_point": 42.51,
   "humidity": 0.58,
   "cloud_cover": 0.27,

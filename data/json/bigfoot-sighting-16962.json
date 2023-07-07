@@ -11,9 +11,11 @@
   "longitude": -82.38998,
   "location": "-82.38998,34.52414",
   "location_details": "LONG STRAIGHT ROAD KNOWN AS FAIR LANE FLATS ON  HWY 183",
-  "temperature_high": 94.25,
-  "temperature_mid": 83.075,
-  "temperature_low": 71.9,
+  "temperature": {
+    "high": 94.25,
+    "mid": 83.075,
+    "low": 71.9
+  },
   "dew_point": 71.86,
   "humidity": 0.7,
   "cloud_cover": 0.53,

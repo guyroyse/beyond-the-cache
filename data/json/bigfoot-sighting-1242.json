@@ -11,9 +11,11 @@
   "longitude": -109.5113,
   "location": "-109.5113,44.48134",
   "location_details": "The incident happened about 30 to 40 miles west of Cody. I was hiking an unmarked trail that left near a car pull-off on the north side of the highway (trail went north).",
-  "temperature_high": 95.63,
-  "temperature_mid": 79.47,
-  "temperature_low": 63.31,
+  "temperature": {
+    "high": 95.63,
+    "mid": 79.47,
+    "low": 63.31
+  },
   "dew_point": 40.95,
   "humidity": 0.27,
   "cloud_cover": 0.12,

@@ -11,9 +11,11 @@
   "longitude": -83.76585,
   "location": "-83.76585,34.66255",
   "location_details": "Go through Helen. Turn left on Alt. 75, just past flea market. Cross bridge and turn right on Poplar Stump Rd. Turn left on Myra Branch Rd, Then left on McConnell Court.",
-  "temperature_high": 52.69,
-  "temperature_mid": 42.79,
-  "temperature_low": 32.89,
+  "temperature": {
+    "high": 52.69,
+    "mid": 42.79,
+    "low": 32.89
+  },
   "dew_point": 19.29,
   "humidity": 0.42,
   "cloud_cover": 0.03,

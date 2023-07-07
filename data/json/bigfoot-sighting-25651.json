@@ -11,9 +11,11 @@
   "longitude": -84.355,
   "location": "-84.355,43.87",
   "location_details": "knox rd to m30 south to esty east to martin turn north",
-  "temperature_high": 73.8,
-  "temperature_mid": 63.72,
-  "temperature_low": 53.64,
+  "temperature": {
+    "high": 73.8,
+    "mid": 63.72,
+    "low": 53.64
+  },
   "dew_point": 51.07,
   "humidity": 0.68,
   "cloud_cover": 0.22,

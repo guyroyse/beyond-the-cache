@@ -1,0 +1,35 @@
+{
+  "reportId": "406",
+  "title": "Fisherman observes large, bipedal figure along Kalama River",
+  "date": "1984-09-01",
+  "timestamp": 462844800,
+  "observed": "This is a story that I've never put down on paper, although I've told many people about it over  the years. I was young a the time, but I am sure of what I  saw, so I suppose it's time to report it. You'll forgive me if the details are sketchy, it's been about 16 years (I'm 28 now). I was steelhead fishing with my father on the Kalama river in southwest Washington state. My dad left me at a bend in the river (unfortunately, I was 12, so I don't know exactly where) and went down to fish out of sight from me. I drift-fished for a while, with no luck. Then I heard an odd \"whack-whack\" sound, and looked upriver. Across the river, about a 50-70 yards away, I saw a large, black, bipedal figure with a fish (maybe a steelhead?) in its hands. I say hands, not claws, because it repeatedly raised the fish overhead and brought it down on a rock, apparently to kill it. It moved its arms like a brachiating ape, overhead and down in a pretty large half-circle. What struck me most, other than the odd way of killing a fish, was how upright and thin the figure appeared—I'm no naturalist, but I'd seen Grizzly Adams enough (and spent enough time hunting with my dad) to know what a bear looked like, and this was not a bear. I suppose it could have been a swarthy human dressed all in black whacking a fish against a rock, but why? Being 12, I pretty much froze and watched. I remember thinking I wasn't going to catch any fish if I didn't cast the line again, but I didn't want to attract the attention of whatever it was across the river. It's difficult to reckon time in this instance, but I would guess it was only a couple of minutes before the creature took the fish and walked back up toward the woods.I didn't actually see it go into the woods, because I reeled my line in as soon as it started to move away and was intent on finding my dad. As soon as I got my line in, I ran down around the bend and told my dad what I'd seen. He told me it was probably just another fisherman and to go back and get my fishing pole. I realize that a 16 year-old report may seem dubious, but I know what I saw wasn't any kind of animal I'd seen before. I was unable to get across the river (my dad couldn't see the logic in it) to look for tracks, to my eternal regret.",
+  "classification": "Class A",
+  "county": "Cowlitz",
+  "state": "Washington",
+  "latitude": 46.05333,
+  "longitude": -122.6228,
+  "location": {
+    "longitude": -122.6228,
+    "latitude": 46.05333
+  },
+  "location_details": "Along the Kalama river, a popular steelhead fishing area (at the time, I'm not sure now). Most areas of this river are accessible from Kalama River Road.",
+  "temperature": {
+    "high": 71.71,
+    "mid": 57.735,
+    "low": 43.76
+  },
+  "dew_point": 50.15,
+  "humidity": 0.66,
+  "cloud_cover": 0.51,
+  "moon_phase": 0.22,
+  "precip_intensity": 0.0019,
+  "precip_probability": 0.42,
+  "precip_type": "rain",
+  "pressure": 1021.45,
+  "summary": "Partly cloudy until evening.",
+  "uv_index": 4,
+  "visibility": 9.16,
+  "wind_bearing": 307,
+  "wind_speed": 2.77
+}

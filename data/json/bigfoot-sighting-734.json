@@ -11,9 +11,11 @@
   "longitude": -81.0621,
   "location": "-81.0621,28.1382",
   "location_details": "St. Cloud Florida in the woods out by Holopaw. (in the middle of no where)",
-  "temperature_high": 83.75,
-  "temperature_mid": 76.75,
-  "temperature_low": 69.75,
+  "temperature": {
+    "high": 83.75,
+    "mid": 76.75,
+    "low": 69.75
+  },
   "dew_point": 67.38,
   "humidity": 0.73,
   "cloud_cover": 0.44,

@@ -11,9 +11,11 @@
   "longitude": -82.0435,
   "location": "-82.0435,29.1795",
   "location_details": "Ocala Fl - Subdivision, specific street omitted. I will gladly meet someone back there, talk to someone about it, but do not want to be interviewed, recorded, or my name published. I am a business professional in this community, and just rather not be a part of any backlash or comments.  I know what I saw and I am not crazy.",
-  "temperature_high": 74.41,
-  "temperature_mid": 61.65,
-  "temperature_low": 48.89,
+  "temperature": {
+    "high": 74.41,
+    "mid": 61.65,
+    "low": 48.89
+  },
   "dew_point": 48.72,
   "humidity": 0.65,
   "cloud_cover": 0,

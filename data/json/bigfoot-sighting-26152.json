@@ -11,9 +11,11 @@
   "longitude": -116.6329,
   "location": "-116.6329,33.81678",
   "location_details": "S.E. area of Round Valley in the Mt. San Jacinto Wilderness Area.",
-  "temperature_high": 95.62,
-  "temperature_mid": 81.005,
-  "temperature_low": 66.39,
+  "temperature": {
+    "high": 95.62,
+    "mid": 81.005,
+    "low": 66.39
+  },
   "dew_point": 61.43,
   "humidity": 0.51,
   "cloud_cover": 0.1,

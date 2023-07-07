@@ -11,9 +11,11 @@
   "longitude": -85.38834,
   "location": "-85.38834,46.71195",
   "location_details": "End of County Road 412, about 3-4 miles west of the mouth of the Two-Hearted River",
-  "temperature_high": 82.16,
-  "temperature_mid": 73.25,
-  "temperature_low": 64.34,
+  "temperature": {
+    "high": 82.16,
+    "mid": 73.25,
+    "low": 64.34
+  },
   "dew_point": 60.12,
   "humidity": 0.69,
   "cloud_cover": 0.07,

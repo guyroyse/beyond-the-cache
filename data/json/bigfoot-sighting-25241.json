@@ -11,9 +11,11 @@
   "longitude": -103.398,
   "location": "-103.398,42.5893",
   "location_details": "On highway NE 385 about 10 to 15 miles South of Crawford NE on a curve in the highway, south of the Cocrine Hill section of the road.",
-  "temperature_high": 95.88,
-  "temperature_mid": 79.65,
-  "temperature_low": 63.42,
+  "temperature": {
+    "high": 95.88,
+    "mid": 79.65,
+    "low": 63.42
+  },
   "dew_point": 57.9,
   "humidity": 0.5,
   "moon_phase": 0.67,

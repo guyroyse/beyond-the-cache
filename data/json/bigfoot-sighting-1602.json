@@ -11,9 +11,11 @@
   "longitude": -121.4642,
   "location": "-121.4642,47.01278",
   "location_details": "Corrall pass campground about 6500 ft. The campground is about 8 miles up a washed dirt road. The road entrance is just before the entrance to crystal mountain ski resort, at Mt. Rainier.",
-  "temperature_high": 60.86,
-  "temperature_mid": 52.985,
-  "temperature_low": 45.11,
+  "temperature": {
+    "high": 60.86,
+    "mid": 52.985,
+    "low": 45.11
+  },
   "dew_point": 50.53,
   "humidity": 0.83,
   "cloud_cover": 0.89,

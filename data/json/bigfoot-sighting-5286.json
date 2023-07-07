@@ -11,9 +11,11 @@
   "longitude": -93.4303,
   "location": "-93.4303,37.0968",
   "location_details": "South on Hwy ZZ to the Greene / Christian county line, turn west on side road.",
-  "temperature_high": 87.8,
-  "temperature_mid": 77.51,
-  "temperature_low": 67.22,
+  "temperature": {
+    "high": 87.8,
+    "mid": 77.51,
+    "low": 67.22
+  },
   "dew_point": 56.97,
   "humidity": 0.6,
   "cloud_cover": 0.04,

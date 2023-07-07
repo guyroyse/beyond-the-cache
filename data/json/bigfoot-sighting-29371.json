@@ -11,9 +11,11 @@
   "longitude": -82.92592,
   "location": "-82.92592,29.28942",
   "location_details": "There is a large swamp there that runs along Oklawaha river up to Silver springs theme park. Hwy 40 west out of Ocala to 314 north to about 5 miles from fort mcoy sign for Gores landing turn right follow signs.",
-  "temperature_high": 74.27,
-  "temperature_mid": 67.94,
-  "temperature_low": 61.61,
+  "temperature": {
+    "high": 74.27,
+    "mid": 67.94,
+    "low": 61.61
+  },
   "dew_point": 54.39,
   "humidity": 0.77,
   "cloud_cover": 0.24,

@@ -11,9 +11,11 @@
   "longitude": -123.8792,
   "location": "-123.8792,47.41306",
   "location_details": "Hiway 101, one mile North of the Moclips hwy turnoff near Neilton Wa.",
-  "temperature_high": 79.01,
-  "temperature_mid": 67.265,
-  "temperature_low": 55.52,
+  "temperature": {
+    "high": 79.01,
+    "mid": 67.265,
+    "low": 55.52
+  },
   "dew_point": 49.92,
   "humidity": 0.6,
   "cloud_cover": 0.24,

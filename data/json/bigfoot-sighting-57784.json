@@ -11,9 +11,11 @@
   "longitude": -112.2149,
   "location": "-112.2149,42.10072",
   "location_details": "A few miles south from Malad City, Idaho on I-15 is a rest stop the \"Cherry Creek\" rest stop on the mountain side of the freeway. My report is from that rest stop",
-  "temperature_high": 74.8,
-  "temperature_mid": 63,
-  "temperature_low": 51.2,
+  "temperature": {
+    "high": 74.8,
+    "mid": 63,
+    "low": 51.2
+  },
   "dew_point": 46.2,
   "humidity": 0.5,
   "cloud_cover": 0.14,

@@ -11,9 +11,11 @@
   "longitude": -94.3457,
   "location": "-94.3457,34.08204",
   "location_details": "It was a place that the road was blocked off by the police by a barrier because the high school kids were going out there to party.  It was about halfway between DeQueen and DeQueen lake.",
-  "temperature_high": 83.73,
-  "temperature_mid": 72.12,
-  "temperature_low": 60.51,
+  "temperature": {
+    "high": 83.73,
+    "mid": 72.12,
+    "low": 60.51
+  },
   "dew_point": 57.48,
   "humidity": 0.65,
   "cloud_cover": 0.06,

@@ -11,9 +11,11 @@
   "longitude": -88.19894,
   "location": "-88.19894,34.60905",
   "location_details": "Natchez Trace Parkway, approximately fifty yards north of mile marker 307.",
-  "temperature_high": 51.42,
-  "temperature_mid": 43.535,
-  "temperature_low": 35.65,
+  "temperature": {
+    "high": 51.42,
+    "mid": 43.535,
+    "low": 35.65
+  },
   "dew_point": 33.86,
   "humidity": 0.68,
   "cloud_cover": 0.43,

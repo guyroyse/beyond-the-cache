@@ -11,9 +11,11 @@
   "longitude": -83.79678,
   "location": "-83.79678,37.65805",
   "location_details": "located in a saddle (a choke-point) of trails, between Fixer Valley and Little Sinking Valley, off of KY 1036",
-  "temperature_high": 60.08,
-  "temperature_mid": 53.805,
-  "temperature_low": 47.53,
+  "temperature": {
+    "high": 60.08,
+    "mid": 53.805,
+    "low": 47.53
+  },
   "dew_point": 52.2,
   "humidity": 0.83,
   "cloud_cover": 0.87,

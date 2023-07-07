@@ -11,9 +11,11 @@
   "longitude": -104.9677,
   "location": "-104.9677,39.42923",
   "location_details": "Colorado, Douglas County, Town: 1 mile west of Sedalia on highway 67. .25 mile southwest of County highway 105.",
-  "temperature_high": 72.41,
-  "temperature_mid": 64.97,
-  "temperature_low": 57.53,
+  "temperature": {
+    "high": 72.41,
+    "mid": 64.97,
+    "low": 57.53
+  },
   "dew_point": 58.3,
   "humidity": 0.83,
   "cloud_cover": 0.87,

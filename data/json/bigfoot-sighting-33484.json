@@ -11,9 +11,11 @@
   "longitude": -113.46,
   "location": "-113.46,34.55",
   "location_details": "About half way between Kingman and Phoenix right where the road bends before the bridge",
-  "temperature_high": 105.27,
-  "temperature_mid": 90.55,
-  "temperature_low": 75.83,
+  "temperature": {
+    "high": 105.27,
+    "mid": 90.55,
+    "low": 75.83
+  },
   "dew_point": 43.18,
   "humidity": 0.2,
   "cloud_cover": 0.16,

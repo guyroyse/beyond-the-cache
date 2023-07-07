@@ -11,9 +11,11 @@
   "longitude": -120.3689,
   "location": "-120.3689,38.20444",
   "location_details": "I'm sorry, but I can't recall the specific directions. I can tell you that I was there 5 years ago or so and that the area around Avery had been built up, though the main house and cabin still remained when I found them.",
-  "temperature_high": 47.47,
-  "temperature_mid": 44.095,
-  "temperature_low": 40.72,
+  "temperature": {
+    "high": 47.47,
+    "mid": 44.095,
+    "low": 40.72
+  },
   "dew_point": 32.6,
   "humidity": 0.78,
   "cloud_cover": 0.44,

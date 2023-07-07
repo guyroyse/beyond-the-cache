@@ -11,9 +11,11 @@
   "longitude": -86.52105,
   "location": "-86.52105,34.7325",
   "location_details": "In Huntsville. Just ask where Green Mountain is.",
-  "temperature_high": 78.74,
-  "temperature_mid": 72.46,
-  "temperature_low": 66.18,
+  "temperature": {
+    "high": 78.74,
+    "mid": 72.46,
+    "low": 66.18
+  },
   "dew_point": 66.87,
   "humidity": 0.78,
   "cloud_cover": 0.68,

@@ -11,9 +11,11 @@
   "longitude": -121.6278,
   "location": "-121.6278,48.72917",
   "location_details": "This actually occured at Baker Lake Resort. Along the creek at the North end of the area.",
-  "temperature_high": 69.59,
-  "temperature_mid": 62.185,
-  "temperature_low": 54.78,
+  "temperature": {
+    "high": 69.59,
+    "mid": 62.185,
+    "low": 54.78
+  },
   "dew_point": 52.8,
   "humidity": 0.73,
   "cloud_cover": 0.63,

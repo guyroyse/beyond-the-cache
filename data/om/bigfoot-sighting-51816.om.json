@@ -1,0 +1,34 @@
+{
+  "reportId": "51816",
+  "title": "Hunter hears possible knocks after evening meal near Smackout Creek Road.",
+  "date": "2013-10-24",
+  "timestamp": 1382572800,
+  "observed": "While hunting in Washington in October of 2013 I was camping with two friends at an Air Force survival school camp ground north of Colville.  We had just finished eating a steak and baked potato dinner around the campfire and were talking when we heard a loud \"bang\" sound that sounded similar to when you set a large round log on top of another for splitting.  It was only estimated to be about 50-60 yards away and very loud.  We are all experienced woodsmen and the noise was enough for all of us to grab our spotlights and guns and face that direction as we had never heard anything like that before.  After about 5 minutes we sat back down and were discussing the sound when it happened again just as loud.  At this point we discussed all three sleeping in the truck to be safe that night.  We stayed up late that night and did not hear it again...but we all slept with our weapons loaded and at the ready every night after.   In the morning I went and looked for any tracks but could not find any as the snow had melted and the ground was saturated with pine needles and leaves.",
+  "classification": "Class B",
+  "county": "Stevens",
+  "state": "Washington",
+  "latitude": 48.80483,
+  "longitude": -117.5853,
+  "location": {
+    "longitude": -117.5853,
+    "latitude": 48.80483
+  },
+  "location_details": "29  miles north of Colville off of Smackout Creek rd.  Camping at USAF survival school instructors camp.",
+  "temperature": {
+    "high": 51.7,
+    "mid": 45.165,
+    "low": 38.63
+  },
+  "dew_point": 40.8,
+  "humidity": 0.89,
+  "cloud_cover": 0.02,
+  "moon_phase": 0.69,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1022.34,
+  "summary": "Foggy overnight.",
+  "uv_index": 2,
+  "visibility": 6.28,
+  "wind_bearing": 12,
+  "wind_speed": 2.9
+}

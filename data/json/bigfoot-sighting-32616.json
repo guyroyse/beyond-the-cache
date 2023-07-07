@@ -11,9 +11,11 @@
   "longitude": -88.4586,
   "location": "-88.4586,41.61575",
   "location_details": "West of route 47 on route 71",
-  "temperature_high": 49.72,
-  "temperature_mid": 43.495,
-  "temperature_low": 37.27,
+  "temperature": {
+    "high": 49.72,
+    "mid": 43.495,
+    "low": 37.27
+  },
   "dew_point": 27.06,
   "humidity": 0.69,
   "cloud_cover": 0.05,

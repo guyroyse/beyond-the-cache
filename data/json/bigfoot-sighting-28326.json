@@ -11,9 +11,11 @@
   "longitude": -87.95277,
   "location": "-87.95277,34.8986",
   "location_details": "On Waterloo Road going towards Waterloo, after you pass Gravelly Springs, you will pass a Church on the right side of the road. After that you will pass 2 houses I think and a small hill. This sighting took place just past that hill but was on the left side of the road. There was no mobile home there at that time , just a cow pasture.",
-  "temperature_high": 63.87,
-  "temperature_mid": 49.155,
-  "temperature_low": 34.44,
+  "temperature": {
+    "high": 63.87,
+    "mid": 49.155,
+    "low": 34.44
+  },
   "dew_point": 30.9,
   "humidity": 0.59,
   "cloud_cover": 0.01,

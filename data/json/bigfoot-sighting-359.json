@@ -11,9 +11,11 @@
   "longitude": -81.11642,
   "location": "-81.11642,40.98596",
   "location_details": "from the corner of 183 and 224 in atwater,you follow 224 east till you come to Porter Rd.Its only about a few miles.Turn right and go down 3 houses on the left.The big blue house is still mom and dads.from there,the mines are behind the house.Since then,they have dozed most of the area so it doesnt resemble much of what it looked like.",
-  "temperature_high": 80.59,
-  "temperature_mid": 73.49,
-  "temperature_low": 66.39,
+  "temperature": {
+    "high": 80.59,
+    "mid": 73.49,
+    "low": 66.39
+  },
   "dew_point": 66.65,
   "humidity": 0.8,
   "cloud_cover": 0.46,

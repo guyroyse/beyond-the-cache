@@ -11,9 +11,11 @@
   "longitude": -88.65445,
   "location": "-88.65445,36.12292",
   "location_details": "Take Hwy 124 West from McKenzie, turn left on Hwy 190 S about 3 miles.",
-  "temperature_high": 75.54,
-  "temperature_mid": 68.41,
-  "temperature_low": 61.28,
+  "temperature": {
+    "high": 75.54,
+    "mid": 68.41,
+    "low": 61.28
+  },
   "dew_point": 59.56,
   "humidity": 0.8,
   "cloud_cover": 0.85,

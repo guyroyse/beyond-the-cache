@@ -11,9 +11,11 @@
   "longitude": -112.1402,
   "location": "-112.1402,40.4871",
   "location_details": "Butterfield Canyon Road below Kennicott Copper Mine",
-  "temperature_high": 96.01,
-  "temperature_mid": 81.165,
-  "temperature_low": 66.32,
+  "temperature": {
+    "high": 96.01,
+    "mid": 81.165,
+    "low": 66.32
+  },
   "dew_point": 49.2,
   "humidity": 0.34,
   "cloud_cover": 0.51,

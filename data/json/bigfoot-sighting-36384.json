@@ -11,9 +11,11 @@
   "longitude": -121.7828,
   "location": "-121.7828,43.97603",
   "location_details": "Take Cascades Lake highway south out of Bend. Go past Elk Lake Left on Elk Lake Loop Continue on Mud Lake Road Take right on NF-600 Drop boat in and head to far shore, go up river more Water opens up again, go to head of lake again.",
-  "temperature_high": 76.18,
-  "temperature_mid": 59.905,
-  "temperature_low": 43.63,
+  "temperature": {
+    "high": 76.18,
+    "mid": 59.905,
+    "low": 43.63
+  },
   "dew_point": 40.37,
   "humidity": 0.53,
   "cloud_cover": 0.03,

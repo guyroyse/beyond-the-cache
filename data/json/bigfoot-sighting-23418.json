@@ -11,9 +11,11 @@
   "longitude": -89.98351,
   "location": "-89.98351,39.06",
   "location_details": "I remember it being behind the lake area where the fire works display had been put on earlier in the night.",
-  "temperature_high": 92.6,
-  "temperature_mid": 84.76,
-  "temperature_low": 76.92,
+  "temperature": {
+    "high": 92.6,
+    "mid": 84.76,
+    "low": 76.92
+  },
   "dew_point": 73.33,
   "humidity": 0.73,
   "cloud_cover": 0.4,

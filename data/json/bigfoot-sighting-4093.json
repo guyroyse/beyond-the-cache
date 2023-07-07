@@ -11,9 +11,11 @@
   "longitude": -91.1125,
   "location": "-91.1125,36.19791",
   "location_details": "Randolph county between Pocahontas & Imboden AR about 1 1/2 miles down Squrriel Rd.",
-  "temperature_high": 79.47,
-  "temperature_mid": 74.72,
-  "temperature_low": 69.97,
+  "temperature": {
+    "high": 79.47,
+    "mid": 74.72,
+    "low": 69.97
+  },
   "dew_point": 68.99,
   "humidity": 0.89,
   "cloud_cover": 0.75,

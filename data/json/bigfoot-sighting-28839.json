@@ -11,9 +11,11 @@
   "longitude": -94.09966,
   "location": "-94.09966,33.94073",
   "location_details": "Tracks were heading Southwest.",
-  "temperature_high": 52.24,
-  "temperature_mid": 44.015,
-  "temperature_low": 35.79,
+  "temperature": {
+    "high": 52.24,
+    "mid": 44.015,
+    "low": 35.79
+  },
   "dew_point": 33.24,
   "humidity": 0.77,
   "cloud_cover": 0.46,

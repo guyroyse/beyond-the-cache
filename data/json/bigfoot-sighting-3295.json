@@ -11,9 +11,11 @@
   "longitude": -123.175,
   "location": "-123.175,43.225",
   "location_details": "We were on BLM land-- at least I think it is BLM land.  It is located between Sutherlin and Oakland.",
-  "temperature_high": 85.59,
-  "temperature_mid": 69.97,
-  "temperature_low": 54.35,
+  "temperature": {
+    "high": 85.59,
+    "mid": 69.97,
+    "low": 54.35
+  },
   "dew_point": 48.95,
   "humidity": 0.56,
   "cloud_cover": 0.17,

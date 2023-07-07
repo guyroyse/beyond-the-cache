@@ -11,9 +11,11 @@
   "longitude": -92.79309,
   "location": "-92.79309,38.16811",
   "location_details": "East side of main channel of Lake of the Ozarks",
-  "temperature_high": 87.76,
-  "temperature_mid": 78.155,
-  "temperature_low": 68.55,
+  "temperature": {
+    "high": 87.76,
+    "mid": 78.155,
+    "low": 68.55
+  },
   "dew_point": 67.55,
   "humidity": 0.72,
   "cloud_cover": 0.37,

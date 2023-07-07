@@ -11,9 +11,11 @@
   "longitude": -93.1,
   "location": "-93.1,34.25",
   "location_details": "About 2 miles from Caney, Arkansas in Hot Spring County.",
-  "temperature_high": 79.4,
-  "temperature_mid": 72.225,
-  "temperature_low": 65.05,
+  "temperature": {
+    "high": 79.4,
+    "mid": 72.225,
+    "low": 65.05
+  },
   "dew_point": 64.47,
   "humidity": 0.82,
   "cloud_cover": 0.53,

@@ -11,9 +11,11 @@
   "longitude": -85.42266,
   "location": "-85.42266,34.62689",
   "location_details": "CROCKFORD PIEGON MOUNTAIN N WALKER COUNTY NEAR LAFAYETTE GA",
-  "temperature_high": 78.9,
-  "temperature_mid": 67.235,
-  "temperature_low": 55.57,
+  "temperature": {
+    "high": 78.9,
+    "mid": 67.235,
+    "low": 55.57
+  },
   "dew_point": 57.92,
   "humidity": 0.79,
   "cloud_cover": 0.31,

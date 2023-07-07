@@ -11,9 +11,11 @@
   "longitude": -85,
   "location": "-85,34",
   "location_details": "120 West to Douglasville, GA. Exit at Chapel Hill. Off of TimberRidge Rd.",
-  "temperature_high": 82.83,
-  "temperature_mid": 74.33,
-  "temperature_low": 65.83,
+  "temperature": {
+    "high": 82.83,
+    "mid": 74.33,
+    "low": 65.83
+  },
   "dew_point": 63.12,
   "humidity": 0.74,
   "cloud_cover": 0.65,

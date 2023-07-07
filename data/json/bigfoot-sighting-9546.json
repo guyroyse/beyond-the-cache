@@ -11,9 +11,11 @@
   "longitude": -78.65621,
   "location": "-78.65621,41.9548",
   "location_details": "Today it is S. Center St. Sorrounded by hills.",
-  "temperature_high": 68.11,
-  "temperature_mid": 56.255,
-  "temperature_low": 44.4,
+  "temperature": {
+    "high": 68.11,
+    "mid": 56.255,
+    "low": 44.4
+  },
   "dew_point": 44.41,
   "humidity": 0.74,
   "cloud_cover": 0.04,

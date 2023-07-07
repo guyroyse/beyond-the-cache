@@ -11,9 +11,11 @@
   "longitude": -80.53528,
   "location": "-80.53528,40.63606",
   "location_details": "Walking from Jethro Hollow to Wellsville Ohio.",
-  "temperature_high": 89.14,
-  "temperature_mid": 79.06,
-  "temperature_low": 68.98,
+  "temperature": {
+    "high": 89.14,
+    "mid": 79.06,
+    "low": 68.98
+  },
   "dew_point": 70.87,
   "humidity": 0.76,
   "cloud_cover": 0.37,

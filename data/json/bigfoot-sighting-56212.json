@@ -11,9 +11,11 @@
   "longitude": -98.68,
   "location": "-98.68,32.375",
   "location_details": "Eastland County RD 470 dead ends at a locked gate to property",
-  "temperature_high": 101.67,
-  "temperature_mid": 90.285,
-  "temperature_low": 78.9,
+  "temperature": {
+    "high": 101.67,
+    "mid": 90.285,
+    "low": 78.9
+  },
   "dew_point": 63.63,
   "humidity": 0.45,
   "cloud_cover": 0.31,

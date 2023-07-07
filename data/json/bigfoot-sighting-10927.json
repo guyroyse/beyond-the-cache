@@ -11,9 +11,11 @@
   "longitude": -90.52987,
   "location": "-90.52987,38.69428",
   "location_details": "This area was behind Chesterfield Golf  Club, and bordered up river by St. Louis County Water Works. This area is now fenced off and posted by Missouri Department of Conservation.",
-  "temperature_high": 73.03,
-  "temperature_mid": 56.825,
-  "temperature_low": 40.62,
+  "temperature": {
+    "high": 73.03,
+    "mid": 56.825,
+    "low": 40.62
+  },
   "dew_point": 43.78,
   "humidity": 0.6,
   "cloud_cover": 0.01,

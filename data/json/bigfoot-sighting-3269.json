@@ -11,9 +11,11 @@
   "longitude": -85.26247,
   "location": "-85.26247,37.41098",
   "location_details": "Our property was located off of Spurlington Road, very near the Pittman Valley area of Taylor County.",
-  "temperature_high": 87.75,
-  "temperature_mid": 78.105,
-  "temperature_low": 68.46,
+  "temperature": {
+    "high": 87.75,
+    "mid": 78.105,
+    "low": 68.46
+  },
   "dew_point": 70.99,
   "humidity": 0.8,
   "cloud_cover": 0.65,

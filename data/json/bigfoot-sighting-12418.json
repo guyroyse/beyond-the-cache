@@ -11,9 +11,11 @@
   "longitude": -106.9571,
   "location": "-106.9571,36.095",
   "location_details": "Jemez Mountains ; North-Central New Mexico",
-  "temperature_high": 79.65,
-  "temperature_mid": 68.475,
-  "temperature_low": 57.3,
+  "temperature": {
+    "high": 79.65,
+    "mid": 68.475,
+    "low": 57.3
+  },
   "dew_point": 51.34,
   "humidity": 0.58,
   "cloud_cover": 0.41,

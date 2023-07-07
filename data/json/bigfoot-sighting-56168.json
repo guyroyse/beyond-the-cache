@@ -11,9 +11,11 @@
   "longitude": -89.87602,
   "location": "-89.87602,38.66736",
   "location_details": "The road winds and has small hills. Passes through a lot of hilly areas. If you're on I-64 heading west, get off at 19 B exit and keep heading straight.",
-  "temperature_high": 54.84,
-  "temperature_mid": 52.33,
-  "temperature_low": 49.82,
+  "temperature": {
+    "high": 54.84,
+    "mid": 52.33,
+    "low": 49.82
+  },
   "dew_point": 48.9,
   "humidity": 0.94,
   "cloud_cover": 0.41,

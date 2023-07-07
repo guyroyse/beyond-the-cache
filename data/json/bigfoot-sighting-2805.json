@@ -11,9 +11,11 @@
   "longitude": -89.136,
   "location": "-89.136,38.98",
   "location_details": "405 N 5th St.",
-  "temperature_high": 30.56,
-  "temperature_mid": 26.395,
-  "temperature_low": 22.23,
+  "temperature": {
+    "high": 30.56,
+    "mid": 26.395,
+    "low": 22.23
+  },
   "dew_point": 26.42,
   "humidity": 0.89,
   "cloud_cover": 0.98,

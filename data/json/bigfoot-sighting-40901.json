@@ -11,9 +11,11 @@
   "longitude": -81.21989,
   "location": "-81.21989,28.96416",
   "location_details": "I-4 to Lake Helen exit 118...five minutes due east",
-  "temperature_high": 72.54,
-  "temperature_mid": 67.94,
-  "temperature_low": 63.34,
+  "temperature": {
+    "high": 72.54,
+    "mid": 67.94,
+    "low": 63.34
+  },
   "dew_point": 64.39,
   "humidity": 0.87,
   "cloud_cover": 0.65,

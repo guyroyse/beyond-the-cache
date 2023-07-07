@@ -11,9 +11,11 @@
   "longitude": -70.75587,
   "location": "-70.75587,42.17865",
   "location_details": "Between 3A and Old Oaken Bucket Road in the woods that separates them.",
-  "temperature_high": 44.24,
-  "temperature_mid": 36.32,
-  "temperature_low": 28.4,
+  "temperature": {
+    "high": 44.24,
+    "mid": 36.32,
+    "low": 28.4
+  },
   "dew_point": 12.54,
   "humidity": 0.58,
   "cloud_cover": 0.15,

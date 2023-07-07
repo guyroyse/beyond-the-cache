@@ -11,9 +11,11 @@
   "longitude": -81.75165,
   "location": "-81.75165,30.05705",
   "location_details": "It happened in the continental U.S., in Florida. In Clay County, in Green Cove Springs. On state road 209.",
-  "temperature_high": 88.29,
-  "temperature_mid": 81.015,
-  "temperature_low": 73.74,
+  "temperature": {
+    "high": 88.29,
+    "mid": 81.015,
+    "low": 73.74
+  },
   "dew_point": 72.6,
   "humidity": 0.8,
   "cloud_cover": 0.6,

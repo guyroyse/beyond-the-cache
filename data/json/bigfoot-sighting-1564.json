@@ -11,9 +11,11 @@
   "longitude": -122.9367,
   "location": "-122.9367,46.49139",
   "location_details": "The incident occured south of town a couple of miles, on the old Brinson place, which was abandoned.",
-  "temperature_high": 85.06,
-  "temperature_mid": 67.06,
-  "temperature_low": 49.06,
+  "temperature": {
+    "high": 85.06,
+    "mid": 67.06,
+    "low": 49.06
+  },
   "dew_point": 49.42,
   "humidity": 0.54,
   "cloud_cover": 0.13,

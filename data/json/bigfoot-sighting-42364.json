@@ -11,9 +11,11 @@
   "longitude": -112.73,
   "location": "-112.73,32.95",
   "location_details": "It was North of a farm on the North side of Watermelon road, that ended where the river bed starts.",
-  "temperature_high": 105.1,
-  "temperature_mid": 93.98,
-  "temperature_low": 82.86,
+  "temperature": {
+    "high": 105.1,
+    "mid": 93.98,
+    "low": 82.86
+  },
   "dew_point": 63.87,
   "humidity": 0.37,
   "cloud_cover": 0.41,

@@ -11,9 +11,11 @@
   "longitude": -89.49032,
   "location": "-89.49032,40.67855",
   "location_details": "Presently location is in Farmdale Park, but when I was a kid it was private rural land.",
-  "temperature_high": 69.88,
-  "temperature_mid": 64.235,
-  "temperature_low": 58.59,
+  "temperature": {
+    "high": 69.88,
+    "mid": 64.235,
+    "low": 58.59
+  },
   "dew_point": 55.76,
   "humidity": 0.81,
   "cloud_cover": 0.28,

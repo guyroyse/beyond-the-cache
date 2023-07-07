@@ -1,0 +1,35 @@
+{
+  "reportId": "4323",
+  "title": "Two hunters hear nighttime vocalizations near Darrington",
+  "date": "1973-10-20",
+  "timestamp": 119923200,
+  "observed": "We were camped right on a old road. We got there late at night and did not have a tent so we were going to sleep in our sleeping bags right in front of my friends old VW. We had a small camp fire and it was dying down so we got in our bags and were shooting the breeze trying to doze off. All of a sudden we both were startled by alot of leaves and branches breaking all around us and a foul smell which I have never smelled before or since (I know what a skunk smells like and that wasnt it). There was a lot of screaming going on all around us like there was more than one thing out there. We grabbed our rifles and threw our bags in the car and got the heck out of there. We didn't have a flash light handy so we couldn't see a thing.",
+  "classification": "Class B",
+  "county": "Snohomish",
+  "state": "Washington",
+  "latitude": 48.2775,
+  "longitude": -121.8078,
+  "location": {
+    "longitude": -121.8078,
+    "latitude": 48.2775
+  },
+  "location_details": "Between Arlington and Darrington 4 miles east of Oso, north of 530.",
+  "temperature": {
+    "high": 59.6,
+    "mid": 55.005,
+    "low": 50.41
+  },
+  "dew_point": 50.23,
+  "humidity": 0.83,
+  "cloud_cover": 0.99,
+  "moon_phase": 0.81,
+  "precip_intensity": 0.0054,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1005.15,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 1,
+  "visibility": 7.57,
+  "wind_bearing": 159,
+  "wind_speed": 7.57
+}

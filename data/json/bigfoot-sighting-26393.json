@@ -11,9 +11,11 @@
   "longitude": -83.649,
   "location": "-83.649,30.59612",
   "location_details": "A farm very close to 146 & Hwy 221 intersection - Ashville, FL.",
-  "temperature_high": 52.93,
-  "temperature_mid": 46.8,
-  "temperature_low": 40.67,
+  "temperature": {
+    "high": 52.93,
+    "mid": 46.8,
+    "low": 40.67
+  },
   "dew_point": 32.55,
   "humidity": 0.63,
   "cloud_cover": 0.4,

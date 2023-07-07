@@ -11,9 +11,11 @@
   "longitude": -98.325,
   "location": "-98.325,33.275",
   "location_details": "281 North",
-  "temperature_high": 97.49,
-  "temperature_mid": 88.805,
-  "temperature_low": 80.12,
+  "temperature": {
+    "high": 97.49,
+    "mid": 88.805,
+    "low": 80.12
+  },
   "dew_point": 68.42,
   "humidity": 0.58,
   "cloud_cover": 0.06,

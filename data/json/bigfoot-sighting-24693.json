@@ -11,9 +11,11 @@
   "longitude": -116.71,
   "location": "-116.71,48.33",
   "location_details": "On our remote 25 acre ranch in the mountains (Selkirk),just at the end of a primitive airstrip currently under construction. We have lived on this ranch for 25 years now.",
-  "temperature_high": 68.97,
-  "temperature_mid": 62.025,
-  "temperature_low": 55.08,
+  "temperature": {
+    "high": 68.97,
+    "mid": 62.025,
+    "low": 55.08
+  },
   "dew_point": 54.36,
   "humidity": 0.71,
   "cloud_cover": 0.5,

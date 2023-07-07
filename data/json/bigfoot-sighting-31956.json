@@ -11,9 +11,11 @@
   "longitude": -79.65548,
   "location": "-79.65548,38.44714",
   "location_details": "Outside of Monterey, VA , going W about 10 miles. From Monterey, Rt. 250, head towards WVA. This route takes you over 2 mountains. Turn left on county Rt. 600 (it is gravel).",
-  "temperature_high": 56.16,
-  "temperature_mid": 42.48,
-  "temperature_low": 28.8,
+  "temperature": {
+    "high": 56.16,
+    "mid": 42.48,
+    "low": 28.8
+  },
   "dew_point": 33.58,
   "humidity": 0.57,
   "cloud_cover": 0.35,

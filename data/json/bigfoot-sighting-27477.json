@@ -11,9 +11,11 @@
   "longitude": -94.78227,
   "location": "-94.78227,36.4168",
   "location_details": "This incident occurred at Jumper Cemetary, Hwy 20 east, turn right and cross the cattleguard and proceed to the cemetary at the bottom of the hill; approximately 1 mile. I repeat though, that this animal had come from the direction of town and must have been, from first hearing the sound, just outside of town. I have often wondered if it were going through people's garbage looking for food.",
-  "temperature_high": 85.26,
-  "temperature_mid": 74.76,
-  "temperature_low": 64.26,
+  "temperature": {
+    "high": 85.26,
+    "mid": 74.76,
+    "low": 64.26
+  },
   "dew_point": 67.51,
   "humidity": 0.76,
   "cloud_cover": 0.39,

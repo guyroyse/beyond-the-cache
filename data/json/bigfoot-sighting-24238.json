@@ -11,9 +11,11 @@
   "longitude": -86.1437,
   "location": "-86.1437,45.964",
   "location_details": "Crossing the Rail Road Tracks from South to North. 45 degrees,58 minutes,12 seconds North X 86 degrees, 07 minutes, 03 seconds West. The best way to get there NOW is to take US-2 East of Manistique, Mich to Duck Inn Road. About 1/2 Mi down duck Inn Rd turn right on to Michibay Dr.  Just before reaching the Lake turn Left (east)on Michibay Shores Rd. Go down 2.5 mi. to Marblehead Creek.  There always used to be a well beaten path along the west side of the Creek (from the kids fishing the spring fish runs). Take the path North until you reach the Rail Road tracks.  That's where \"it\" Crossed the tracks.  NOTE: When this happened Michibay Shores Rd didn't exist.  There was only the RR between Duck Inn Rd and the Lake.",
-  "temperature_high": 31.4,
-  "temperature_mid": 24.5,
-  "temperature_low": 17.6,
+  "temperature": {
+    "high": 31.4,
+    "mid": 24.5,
+    "low": 17.6
+  },
   "dew_point": 16.53,
   "humidity": 0.7,
   "cloud_cover": 0.23,

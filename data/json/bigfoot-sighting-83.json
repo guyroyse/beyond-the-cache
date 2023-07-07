@@ -11,9 +11,11 @@
   "longitude": -119.6436,
   "location": "-119.6436,37.35944",
   "location_details": "The sighting took place at the end of a road leading to a trail head that leads into the back of yosemite park. The road starts 500 ft from Bowler campground going north off of beasore rd.",
-  "temperature_high": 91.17,
-  "temperature_mid": 71.56,
-  "temperature_low": 51.95,
+  "temperature": {
+    "high": 91.17,
+    "mid": 71.56,
+    "low": 51.95
+  },
   "dew_point": 48.76,
   "humidity": 0.49,
   "cloud_cover": 0.06,

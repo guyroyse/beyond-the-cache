@@ -11,9 +11,11 @@
   "longitude": -118.83,
   "location": "-118.83,45.48318",
   "location_details": "This took place off of an old logging road that I had only been on the one time.  It was near the indian reservation.",
-  "temperature_high": 50.98,
-  "temperature_mid": 41.365,
-  "temperature_low": 31.75,
+  "temperature": {
+    "high": 50.98,
+    "mid": 41.365,
+    "low": 31.75
+  },
   "dew_point": 35.42,
   "humidity": 0.73,
   "cloud_cover": 0.53,

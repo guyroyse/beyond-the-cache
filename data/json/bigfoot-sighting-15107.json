@@ -11,9 +11,11 @@
   "longitude": -80.8797,
   "location": "-80.8797,37.00085",
   "location_details": "Peppers Ferry Road near Max Meadows, VA",
-  "temperature_high": 53,
-  "temperature_mid": 42.715,
-  "temperature_low": 32.43,
+  "temperature": {
+    "high": 53,
+    "mid": 42.715,
+    "low": 32.43
+  },
   "dew_point": 32.41,
   "humidity": 0.61,
   "cloud_cover": 0.49,

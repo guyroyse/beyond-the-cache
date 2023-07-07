@@ -11,9 +11,11 @@
   "longitude": -89.25397,
   "location": "-89.25397,36.26451",
   "location_details": "Off of Interstate 155 at the Obion exit, turn west (away from town) go about 2 miles and Glass is the first Community you come to. It has been seen over about a 3 mile radius to my knowledge.",
-  "temperature_high": 91.92,
-  "temperature_mid": 83.735,
-  "temperature_low": 75.55,
+  "temperature": {
+    "high": 91.92,
+    "mid": 83.735,
+    "low": 75.55
+  },
   "dew_point": 69.03,
   "humidity": 0.63,
   "cloud_cover": 0.26,

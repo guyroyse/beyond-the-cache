@@ -11,9 +11,11 @@
   "longitude": -76.28729,
   "location": "-76.28729,36.5884",
   "location_details": "The location was on Bunch Walnut Road, on the North side of the Northwest River about 1/4 of a mile away from the river.",
-  "temperature_high": 80.16,
-  "temperature_mid": 73.695,
-  "temperature_low": 67.23,
+  "temperature": {
+    "high": 80.16,
+    "mid": 73.695,
+    "low": 67.23
+  },
   "dew_point": 67.48,
   "humidity": 0.8,
   "cloud_cover": 0.5,

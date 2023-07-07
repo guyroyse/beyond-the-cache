@@ -11,9 +11,11 @@
   "longitude": -121.8738,
   "location": "-121.8738,46.40153",
   "location_details": "take hwy 12 to randle follow the 25 line south to iron creek picknick area and go left follow that to burly mt. road and go right go up the hill and follow this a tee on the left is burly mt. and on the right is the way to the camp go right untill you get to a y in the road on the right hand side there is a camp site go in there and thats it.",
-  "temperature_high": 80.54,
-  "temperature_mid": 70.065,
-  "temperature_low": 59.59,
+  "temperature": {
+    "high": 80.54,
+    "mid": 70.065,
+    "low": 59.59
+  },
   "dew_point": 55.23,
   "humidity": 0.69,
   "cloud_cover": 0.34,

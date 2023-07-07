@@ -1,0 +1,35 @@
+{
+  "reportId": "6962",
+  "title": "Friends hear late night scream near Garberville",
+  "date": "1964-11-01",
+  "timestamp": -163036800,
+  "observed": "Some friends and I had come home late from a dance and were setting in the house tuning a guitar when all of a sudden we heard this loud wail or cry coming from outside.  It was cold but no snow yet.  We went outside on the porch and could still hear this piercing wail.  It stopped and started again as we tried to tell where it was coming from.  Across from the old house was some rock bluffs about 80 yards up the hill.  The sound seemed to come from atop these bluffs.  The cry started at a lower key and rose up in pitch and intensity and lasted at least a couple of minutes.  We got scared and went back in for the night and locked all the doors. The next morning Arden and I went up on the bluffs and found a cleared area about thirty feet across.  The small trees had been pulled out of the ground and thrown to the side.  Everything else had been trampled down flat.  The ground was too hard for tracks but there was a hard smell in the area.  My neck still feels funny when I think about that call.",
+  "classification": "Class B",
+  "county": "Trinity",
+  "state": "California",
+  "latitude": 40.20556,
+  "longitude": -123.4908,
+  "location": {
+    "longitude": -123.4908,
+    "latitude": 40.20556
+  },
+  "location_details": "From Garberville take the Blocksburg Road to Fort Sewart and from there to the little town of Zenia, right next to the Six Rivers national forrest.",
+  "temperature": {
+    "high": 55.13,
+    "mid": 51.625,
+    "low": 48.12
+  },
+  "dew_point": 50.02,
+  "humidity": 0.87,
+  "cloud_cover": 0.93,
+  "moon_phase": 0.92,
+  "precip_intensity": 0.0053,
+  "precip_probability": 0.55,
+  "precip_type": "rain",
+  "pressure": 1009.95,
+  "summary": "Overcast throughout the day and breezy overnight.",
+  "uv_index": 2,
+  "visibility": 7.85,
+  "wind_bearing": 165,
+  "wind_speed": 11.22
+}

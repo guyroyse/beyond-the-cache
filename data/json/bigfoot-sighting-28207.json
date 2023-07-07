@@ -11,9 +11,11 @@
   "longitude": -123.2259,
   "location": "-123.2259,47.46872",
   "location_details": "Lake Cushman ( Camp Cushman campgrounds, the upper campsites)",
-  "temperature_high": 65.39,
-  "temperature_mid": 57.805,
-  "temperature_low": 50.22,
+  "temperature": {
+    "high": 65.39,
+    "mid": 57.805,
+    "low": 50.22
+  },
   "dew_point": 48.79,
   "humidity": 0.72,
   "cloud_cover": 0.62,

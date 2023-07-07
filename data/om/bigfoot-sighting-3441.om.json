@@ -1,0 +1,35 @@
+{
+  "reportId": "3441",
+  "title": "Oregon resident near Mt. Hood catches glimpse of a bigfoot in his neighborhood",
+  "date": "2001-11-29",
+  "timestamp": 1006992000,
+  "observed": "I am submitting this report for the witness. The sighting was viewed from the witness’s home, through the window. The creature was viewed at a distance of approximately 130 feet when a car’s headlights backlit the creature as it ran from left to right across the road from the witnesses perspective. The occupants of the car where not identified or contacted, but did stop a short distance from the creature, insinuating that the driver also observed the sighting. The creature was running fast, upright, very hairy, humanoid in appearance, and estimated to be 7 feet tall (definitely larger than the witness who is 6’3”). The local dogs were barking excitably, which is why the witness looked out the window. A search for footprints with flashlights was unsuccessful for finding clues or footprints. However, the ground is moist and soft, and it is currently not precipitating, so there may be fresh prints or evidence still available in the morning.",
+  "classification": "Class A",
+  "county": "Clackamas",
+  "state": "Oregon",
+  "latitude": 45.33175,
+  "longitude": -121.9139,
+  "location": {
+    "longitude": -121.9139,
+    "latitude": 45.33175
+  },
+  "location_details": "Go East on #26 to Rhododendron, turn left before the Mt. Hood Foods store. Road immediatly continues left and parellels the highway for 100 yaards, then right. Sighting was about forty feet from the small outhouse looking building on the left another 50 yards up the raod.",
+  "temperature": {
+    "high": 45.12,
+    "mid": 42.82,
+    "low": 40.52
+  },
+  "dew_point": 38.31,
+  "humidity": 0.82,
+  "cloud_cover": 0.8,
+  "moon_phase": 0.46,
+  "precip_intensity": 0.0103,
+  "precip_probability": 0.95,
+  "precip_type": "rain",
+  "pressure": 1003.68,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 9.24,
+  "wind_bearing": 221,
+  "wind_speed": 6.12
+}

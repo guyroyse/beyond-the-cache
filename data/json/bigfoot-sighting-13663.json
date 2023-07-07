@@ -11,9 +11,11 @@
   "longitude": -76.946,
   "location": "-76.946,35.998",
   "location_details": "It was near Republican Baptist Church in Burtie County, North Carolina. The exact location is a little hard to describe, but I could pinpoint it on a map.",
-  "temperature_high": 69.27,
-  "temperature_mid": 61.63,
-  "temperature_low": 53.99,
+  "temperature": {
+    "high": 69.27,
+    "mid": 61.63,
+    "low": 53.99
+  },
   "dew_point": 43.83,
   "humidity": 0.64,
   "cloud_cover": 0.25,

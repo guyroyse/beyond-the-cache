@@ -11,9 +11,11 @@
   "longitude": -86.7074,
   "location": "-86.7074,35.6753",
   "location_details": "Go north on highway 31A from Chapel Hill, TN.  Turn West on Sweeney Lane and proceed about 1 mile.  Make a right turn and then a left on Sweeney Lane.  Proceed 1/4 mile to incident location.",
-  "temperature_high": 84.53,
-  "temperature_mid": 70.72,
-  "temperature_low": 56.91,
+  "temperature": {
+    "high": 84.53,
+    "mid": 70.72,
+    "low": 56.91
+  },
   "dew_point": 51.26,
   "humidity": 0.55,
   "cloud_cover": 0.09,

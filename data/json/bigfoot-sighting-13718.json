@@ -11,9 +11,11 @@
   "longitude": -93.75313,
   "location": "-93.75313,35.34572",
   "location_details": "about 4-5 miles east of Subiaco. This area borders the national forest.",
-  "temperature_high": 78.33,
-  "temperature_mid": 72.69,
-  "temperature_low": 67.05,
+  "temperature": {
+    "high": 78.33,
+    "mid": 72.69,
+    "low": 67.05
+  },
   "dew_point": 65.8,
   "humidity": 0.85,
   "cloud_cover": 0.94,

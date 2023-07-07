@@ -11,9 +11,11 @@
   "longitude": -93.15208,
   "location": "-93.15208,35.42097",
   "location_details": "Go up hwy 7 North above dover, turn right onto gravel road at the National Forest sign.  Stay straight on grave road, and go approcimately 1.5 to 2 miles down the road.  Small road to the left.  You will almost miss it if you are not careful.  Follow road into fields.",
-  "temperature_high": 65.57,
-  "temperature_mid": 55.375,
-  "temperature_low": 45.18,
+  "temperature": {
+    "high": 65.57,
+    "mid": 55.375,
+    "low": 45.18
+  },
   "dew_point": 45.23,
   "humidity": 0.77,
   "cloud_cover": 0.14,

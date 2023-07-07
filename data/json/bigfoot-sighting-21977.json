@@ -11,9 +11,11 @@
   "longitude": -74.46155,
   "location": "-74.46155,40.9427",
   "location_details": "Wildcat Ridge",
-  "temperature_high": 43.41,
-  "temperature_mid": 39.945,
-  "temperature_low": 36.48,
+  "temperature": {
+    "high": 43.41,
+    "mid": 39.945,
+    "low": 36.48
+  },
   "dew_point": 32.56,
   "humidity": 0.78,
   "cloud_cover": 0.75,

@@ -11,9 +11,11 @@
   "longitude": -89.0912,
   "location": "-89.0912,35.8606",
   "location_details": "Cypress Creek, Hwy 152 where the creek dumps into Forked Deer River",
-  "temperature_high": 71.19,
-  "temperature_mid": 59.035,
-  "temperature_low": 46.88,
+  "temperature": {
+    "high": 71.19,
+    "mid": 59.035,
+    "low": 46.88
+  },
   "dew_point": 44.86,
   "humidity": 0.54,
   "cloud_cover": 0.39,

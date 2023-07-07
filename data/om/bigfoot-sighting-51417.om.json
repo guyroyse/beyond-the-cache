@@ -1,0 +1,35 @@
+{
+  "reportId": "51417",
+  "title": "Possible early morning sighting near Glenwood Woods",
+  "date": "2016-03-14",
+  "timestamp": 1457913600,
+  "observed": "Chimpanzee noises at work. Went outside, seen in hedge apple tree. Tan reddish hue, wedge shaped head from behind. Went away after I yelled, still heard noises.",
+  "classification": "Class B",
+  "county": "Cook",
+  "state": "Illinois",
+  "latitude": 41.53887,
+  "longitude": -87.62597,
+  "location": {
+    "longitude": -87.62597,
+    "latitude": 41.53887
+  },
+  "location_details": "Glenwood, Illinois next to Glenwood Woods Forest Preserve.",
+  "temperature": {
+    "high": 48.28,
+    "mid": 46.205,
+    "low": 44.13
+  },
+  "dew_point": 44.1,
+  "humidity": 0.92,
+  "cloud_cover": 0.72,
+  "moon_phase": 0.21,
+  "precip_intensity": 0.0012,
+  "precip_probability": 0.34,
+  "precip_type": "rain",
+  "pressure": 1006.1,
+  "summary": "Partly cloudy in the evening.",
+  "uv_index": 3,
+  "visibility": 5.68,
+  "wind_bearing": 1,
+  "wind_speed": 1
+}

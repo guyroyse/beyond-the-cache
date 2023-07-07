@@ -11,9 +11,11 @@
   "longitude": -84.3453,
   "location": "-84.3453,34.81182",
   "location_details": "The section of the BMT that crosses Highway 515 in Gilmer County, GA. The side we took was the gravel road side which heads south towards Springer Mountain.",
-  "temperature_high": 46.55,
-  "temperature_mid": 35.18,
-  "temperature_low": 23.81,
+  "temperature": {
+    "high": 46.55,
+    "mid": 35.18,
+    "low": 23.81
+  },
   "dew_point": 37.4,
   "humidity": 0.87,
   "moon_phase": 0.16,

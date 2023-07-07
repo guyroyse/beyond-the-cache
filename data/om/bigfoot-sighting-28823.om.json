@@ -1,0 +1,35 @@
+{
+  "reportId": "28823",
+  "title": "Driver notices a tall dark figure behind a tree near Kingston",
+  "date": "2011-01-25",
+  "timestamp": 1295913600,
+  "observed": "I was driving down South Kingston road January 25th on a Tuesday at about 1030pm. After coming around the last turn before the road turns to Miller Bay Road I saw something I will never forget. It looked as though a tall dark man was standing behind a tree. My headlights shined right at it and it seemed to try to pull its body behind the tree. It sent shivers up my back! I have had dreams about it ever since that night and I still have no idea what I saw.",
+  "classification": "Class B",
+  "county": "Kitsap",
+  "state": "Washington",
+  "latitude": 47.77293,
+  "longitude": -122.5552,
+  "location": {
+    "longitude": -122.5552,
+    "latitude": 47.77293
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 49.19,
+    "mid": 46.025,
+    "low": 42.86
+  },
+  "dew_point": 43.46,
+  "humidity": 0.9,
+  "cloud_cover": 0.88,
+  "moon_phase": 0.72,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.1,
+  "precip_type": "rain",
+  "pressure": 1027.06,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 8.62,
+  "wind_bearing": 178,
+  "wind_speed": 4.36
+}

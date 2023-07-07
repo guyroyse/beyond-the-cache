@@ -11,9 +11,11 @@
   "longitude": -123.5436,
   "location": "-123.5436,47.94485",
   "location_details": "About a mile and a half into the Elwha River Trail.",
-  "temperature_high": 51.39,
-  "temperature_mid": 49.235,
-  "temperature_low": 47.08,
+  "temperature": {
+    "high": 51.39,
+    "mid": 49.235,
+    "low": 47.08
+  },
   "dew_point": 47.12,
   "humidity": 0.93,
   "cloud_cover": 0.93,

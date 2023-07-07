@@ -1,0 +1,34 @@
+{
+  "reportId": "25444",
+  "title": "High school teacher recalls a nighttime sighting while camping in the Los Padres National Forest",
+  "date": "1982-04-15",
+  "timestamp": 387676800,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Santa Barbara",
+  "state": "California",
+  "latitude": 34.73389,
+  "longitude": -119.9254,
+  "location": {
+    "longitude": -119.9254,
+    "latitude": 34.73389
+  },
+  "location_details": "we were near the confluence of the sisquac and manzanita rivers in the wilderness area where access is only made by horseback or on foot; we were on foot.",
+  "temperature": {
+    "high": 62.01,
+    "mid": 52.175,
+    "low": 42.34
+  },
+  "dew_point": 42.68,
+  "humidity": 0.66,
+  "cloud_cover": 0.2,
+  "moon_phase": 0.73,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1015.82,
+  "summary": "Partly cloudy until afternoon.",
+  "uv_index": 9,
+  "visibility": 9.02,
+  "wind_bearing": 312,
+  "wind_speed": 9.55
+}

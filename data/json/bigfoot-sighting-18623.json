@@ -11,9 +11,11 @@
   "longitude": -79.57,
   "location": "-79.57,37.54",
   "location_details": "From I-81 at Exit 168 (Buchanan) go east on RT 614. About 3 miles in you go left and another couple miles to the camping area I believe this is called Solitude rd. . The sportsman's shelter is located on the left approx 1/4 mile form the campground.",
-  "temperature_high": 47.37,
-  "temperature_mid": 42.835,
-  "temperature_low": 38.3,
+  "temperature": {
+    "high": 47.37,
+    "mid": 42.835,
+    "low": 38.3
+  },
   "dew_point": 28.84,
   "humidity": 0.69,
   "cloud_cover": 0.74,

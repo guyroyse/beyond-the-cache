@@ -11,9 +11,11 @@
   "longitude": -91.87774,
   "location": "-91.87774,45.5258",
   "location_details": "Approximately seven miles from Cumberland out on HWY 48 is the general location. .",
-  "temperature_high": 92.92,
-  "temperature_mid": 81.725,
-  "temperature_low": 70.53,
+  "temperature": {
+    "high": 92.92,
+    "mid": 81.725,
+    "low": 70.53
+  },
   "dew_point": 67.97,
   "humidity": 0.61,
   "cloud_cover": 0.65,

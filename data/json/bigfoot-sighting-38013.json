@@ -11,9 +11,11 @@
   "longitude": -120.5688,
   "location": "-120.5688,44.83931",
   "location_details": "Hwy 97 South at Blewett Pass",
-  "temperature_high": 42.66,
-  "temperature_mid": 36.84,
-  "temperature_low": 31.02,
+  "temperature": {
+    "high": 42.66,
+    "mid": 36.84,
+    "low": 31.02
+  },
   "dew_point": 34.54,
   "humidity": 0.91,
   "cloud_cover": 0.7,

@@ -11,9 +11,11 @@
   "longitude": -81.38112,
   "location": "-81.38112,41.31405",
   "location_details": "Portage County, Ohio near the town of Aurora.  Closest roads were Cochran Road, Colony Drive and State Route 82.",
-  "temperature_high": 72.15,
-  "temperature_mid": 62.01,
-  "temperature_low": 51.87,
+  "temperature": {
+    "high": 72.15,
+    "mid": 62.01,
+    "low": 51.87
+  },
   "dew_point": 54.1,
   "humidity": 0.67,
   "cloud_cover": 0.42,

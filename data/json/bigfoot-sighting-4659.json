@@ -11,9 +11,11 @@
   "longitude": -84.79429,
   "location": "-84.79429,39.37509",
   "location_details": "WOODED AREA, COUNTRY WITH FARMS,FIELDS,CREEKS.",
-  "temperature_high": 83.61,
-  "temperature_mid": 73.795,
-  "temperature_low": 63.98,
+  "temperature": {
+    "high": 83.61,
+    "mid": 73.795,
+    "low": 63.98
+  },
   "dew_point": 63.74,
   "humidity": 0.75,
   "cloud_cover": 0.35,

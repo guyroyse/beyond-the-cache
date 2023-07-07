@@ -11,9 +11,11 @@
   "longitude": -122.4888,
   "location": "-122.4888,45.0837",
   "location_details": "Go out past Molalla to Dickey Pairie. You should see a little store. Dont turn off on the road that runs along side the river. Go about three miles and you will see the bridge we were near. Look straight across the river. thats where we saw it. If you go back the way you came little ways you will see a gravel road. Towards the river go down the road and the second house on the river side is where I lived.",
-  "temperature_high": 85.89,
-  "temperature_mid": 71.42,
-  "temperature_low": 56.95,
+  "temperature": {
+    "high": 85.89,
+    "mid": 71.42,
+    "low": 56.95
+  },
   "dew_point": 51.12,
   "humidity": 0.57,
   "cloud_cover": 0.02,

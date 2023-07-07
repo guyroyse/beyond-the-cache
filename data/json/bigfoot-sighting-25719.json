@@ -11,9 +11,11 @@
   "longitude": -70.89049,
   "location": "-70.89049,41.83664",
   "location_details": "The closest intersection would be Walnut Street and Marion Road. Head south on Marion road and it would be the 1st woods road on the right.",
-  "temperature_high": 49.46,
-  "temperature_mid": 42.315,
-  "temperature_low": 35.17,
+  "temperature": {
+    "high": 49.46,
+    "mid": 42.315,
+    "low": 35.17
+  },
   "dew_point": 30.9,
   "humidity": 0.64,
   "cloud_cover": 0.04,

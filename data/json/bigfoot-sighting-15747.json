@@ -11,9 +11,11 @@
   "longitude": -118.5658,
   "location": "-118.5658,45.6764",
   "location_details": "Beginning at Pendleton, Oregon, go east on Mission Rd. to Cayuse Rd.  and continue for about 10 miles. Turn left at silver railroad bridge.",
-  "temperature_high": 94.66,
-  "temperature_mid": 79.155,
-  "temperature_low": 63.65,
+  "temperature": {
+    "high": 94.66,
+    "mid": 79.155,
+    "low": 63.65
+  },
   "dew_point": 46.65,
   "humidity": 0.41,
   "cloud_cover": 0.03,

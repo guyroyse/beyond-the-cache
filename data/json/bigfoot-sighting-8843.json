@@ -11,9 +11,11 @@
   "longitude": -81.49697,
   "location": "-81.49697,40.0799",
   "location_details": "It was on the northern bank of Salt Fork Lake at Salt Fork State Park, which is just off State Route 22 in Guernsey County, Ohio.  I was staying in the \"F\" loop camp area.  I do believe I was staying in the camp plot \"25.\"  The call was heard right from the site and a little down the hill leading to the lake and the footprint was cast about a mile down the trail from the campsite on a trail touching the lake.",
-  "temperature_high": 77.78,
-  "temperature_mid": 68.68,
-  "temperature_low": 59.58,
+  "temperature": {
+    "high": 77.78,
+    "mid": 68.68,
+    "low": 59.58
+  },
   "dew_point": 49.36,
   "humidity": 0.58,
   "cloud_cover": 0.22,

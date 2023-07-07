@@ -11,9 +11,11 @@
   "longitude": -112.5421,
   "location": "-112.5421,34.55154",
   "location_details": "Where the park ended and the dirt road began.",
-  "temperature_high": 85.09,
-  "temperature_mid": 71.64,
-  "temperature_low": 58.19,
+  "temperature": {
+    "high": 85.09,
+    "mid": 71.64,
+    "low": 58.19
+  },
   "dew_point": 55.36,
   "humidity": 0.61,
   "cloud_cover": 0.3,

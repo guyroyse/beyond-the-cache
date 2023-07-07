@@ -11,9 +11,11 @@
   "longitude": -122.2728,
   "location": "-122.2728,44.8623",
   "location_details": "Take the Little North Fork Rd towards the Cedar Creek Camp ground.  Just prior to the camp ground is a fork to the left that will take you towards the Pearl Creek Guard Station.  Past this point the road goes towards the old mining town of Jaw Bone Flats.  The road eventually comes to a bridge tha tis locked.  Just before this bridge is an area where the road is widened and makes a sharp turn around a large rock out cropping.  This is where the incident occured.",
-  "temperature_high": 82.81,
-  "temperature_mid": 67.825,
-  "temperature_low": 52.84,
+  "temperature": {
+    "high": 82.81,
+    "mid": 67.825,
+    "low": 52.84
+  },
   "dew_point": 52.45,
   "humidity": 0.61,
   "cloud_cover": 0.19,

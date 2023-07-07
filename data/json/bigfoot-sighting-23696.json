@@ -11,9 +11,11 @@
   "longitude": -81.7757,
   "location": "-81.7757,28.86151",
   "location_details": "HWY.441 TO CR-473, TO LEARN RD. AND ANDREWS ST.",
-  "temperature_high": 79.3,
-  "temperature_mid": 71.62,
-  "temperature_low": 63.94,
+  "temperature": {
+    "high": 79.3,
+    "mid": 71.62,
+    "low": 63.94
+  },
   "dew_point": 55.85,
   "humidity": 0.66,
   "cloud_cover": 0.64,

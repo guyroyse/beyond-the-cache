@@ -1,0 +1,35 @@
+{
+  "reportId": "5030",
+  "title": "Flap of sightings offers clues pointing to deer predation, similar to evidence found elsewhere in Ohio",
+  "date": "1992-01-15",
+  "timestamp": 695433600,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Stark",
+  "state": "Ohio",
+  "latitude": 40.75872,
+  "longitude": -81.19895,
+  "location": {
+    "longitude": -81.19895,
+    "latitude": 40.75872
+  },
+  "location_details": "Near the line between Stark and Carrol counties",
+  "temperature": {
+    "high": 22.68,
+    "mid": 14.635,
+    "low": 6.59
+  },
+  "dew_point": 11.46,
+  "humidity": 0.76,
+  "cloud_cover": 0.73,
+  "moon_phase": 0.34,
+  "precip_intensity": 0.0033,
+  "precip_probability": 1,
+  "precip_type": "snow",
+  "pressure": 1013.02,
+  "summary": "Snow (1–3 in.) starting in the evening and breezy overnight.",
+  "uv_index": 1,
+  "visibility": 6.72,
+  "wind_bearing": 237,
+  "wind_speed": 7.92
+}

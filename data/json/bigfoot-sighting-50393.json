@@ -11,9 +11,11 @@
   "longitude": -82.13298,
   "location": "-82.13298,40.01209",
   "location_details": "Just south of State Rte 16 off of 146, North of Dillon State Park",
-  "temperature_high": 57.19,
-  "temperature_mid": 47.885,
-  "temperature_low": 38.58,
+  "temperature": {
+    "high": 57.19,
+    "mid": 47.885,
+    "low": 38.58
+  },
   "dew_point": 48.4,
   "humidity": 0.95,
   "cloud_cover": 0.38,

@@ -11,9 +11,11 @@
   "longitude": -92.84309,
   "location": "-92.84309,46.3666",
   "location_details": "About a mile south of Sturgeon Lake",
-  "temperature_high": 79.63,
-  "temperature_mid": 65.98,
-  "temperature_low": 52.33,
+  "temperature": {
+    "high": 79.63,
+    "mid": 65.98,
+    "low": 52.33
+  },
   "dew_point": 52.7,
   "humidity": 0.66,
   "cloud_cover": 0.13,

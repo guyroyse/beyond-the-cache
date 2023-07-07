@@ -11,9 +11,11 @@
   "longitude": -82.27037,
   "location": "-82.27037,39.24523",
   "location_details": "North of State Route 50 very close to Zaleski State Forest.",
-  "temperature_high": 72.46,
-  "temperature_mid": 63.79,
-  "temperature_low": 55.12,
+  "temperature": {
+    "high": 72.46,
+    "mid": 63.79,
+    "low": 55.12
+  },
   "dew_point": 48.49,
   "humidity": 0.64,
   "cloud_cover": 0.06,

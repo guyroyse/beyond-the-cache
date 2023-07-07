@@ -11,9 +11,11 @@
   "longitude": -94.76362,
   "location": "-94.76362,31.30853",
   "location_details": "USA, Texas, Angelina, Lufkin, West of John Redditt Drive, alongside a heavily wooded dirt road that had been cleared to expand a subdivision",
-  "temperature_high": 74.62,
-  "temperature_mid": 57.81,
-  "temperature_low": 41,
+  "temperature": {
+    "high": 74.62,
+    "mid": 57.81,
+    "low": 41
+  },
   "dew_point": 45.09,
   "humidity": 0.66,
   "cloud_cover": 0.25,

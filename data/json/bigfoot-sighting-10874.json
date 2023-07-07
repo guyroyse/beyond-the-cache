@@ -11,9 +11,11 @@
   "longitude": -82.1341,
   "location": "-82.1341,31.2439",
   "location_details": "When you get into town comming off hyw 95 onto 82 west turn left at first caution light. Go 3 miles out of town take left on dirt road. Go to cross road turn right follow dirt road straight you cant miss it first. Big Clay Hill on road.",
-  "temperature_high": 73.14,
-  "temperature_mid": 69.325,
-  "temperature_low": 65.51,
+  "temperature": {
+    "high": 73.14,
+    "mid": 69.325,
+    "low": 65.51
+  },
   "dew_point": 65.99,
   "humidity": 0.84,
   "cloud_cover": 0.84,

@@ -11,9 +11,11 @@
   "longitude": -119.9065,
   "location": "-119.9065,38.17677",
   "location_details": "In the area north of Crabtree trailhead above bell meadow. Outside of Sonora Ca. about 30 minute drive.",
-  "temperature_high": 83.74,
-  "temperature_mid": 70.28,
-  "temperature_low": 56.82,
+  "temperature": {
+    "high": 83.74,
+    "mid": 70.28,
+    "low": 56.82
+  },
   "dew_point": 46.65,
   "humidity": 0.49,
   "cloud_cover": 0.1,

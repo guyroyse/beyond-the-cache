@@ -11,9 +11,11 @@
   "longitude": -90.40675,
   "location": "-90.40675,41.55965",
   "location_details": "the location is now conduminiums and a marina just off route 84 at the north end of Hampton Il.",
-  "temperature_high": 74.06,
-  "temperature_mid": 69.705,
-  "temperature_low": 65.35,
+  "temperature": {
+    "high": 74.06,
+    "mid": 69.705,
+    "low": 65.35
+  },
   "dew_point": 62.29,
   "humidity": 0.78,
   "cloud_cover": 0.82,

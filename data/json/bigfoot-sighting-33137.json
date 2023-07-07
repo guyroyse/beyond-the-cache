@@ -11,9 +11,11 @@
   "longitude": -93.81888,
   "location": "-93.81888,46.78149",
   "location_details": "We lived 5.1 miles East of Minnesota Highway 6",
-  "temperature_high": 81.17,
-  "temperature_mid": 72.265,
-  "temperature_low": 63.36,
+  "temperature": {
+    "high": 81.17,
+    "mid": 72.265,
+    "low": 63.36
+  },
   "dew_point": 58.49,
   "humidity": 0.71,
   "cloud_cover": 0.44,

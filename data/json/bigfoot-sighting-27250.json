@@ -11,9 +11,11 @@
   "longitude": -82.6783,
   "location": "-82.6783,29.47368",
   "location_details": "there are no main arteries (interstates) running though Chiefland or the surrounding small burgs. Two US highways merge in Chiefland, US 19 and 27. 27 south will take you to Bronson and around the bend mentioned in my story.",
-  "temperature_high": 78.73,
-  "temperature_mid": 76.235,
-  "temperature_low": 73.74,
+  "temperature": {
+    "high": 78.73,
+    "mid": 76.235,
+    "low": 73.74
+  },
   "dew_point": 74.15,
   "humidity": 0.93,
   "cloud_cover": 0.93,

@@ -11,9 +11,11 @@
   "longitude": -79.95418,
   "location": "-79.95418,39.03496",
   "location_details": "Near Belington, driving toward Philippi on US Highway 250, about a mile North of intersection of Rt. 92 and US 250. Tygart Valley River is on the left.  This is near where the Tygart Valley River swerves away from the highway and starts to descend into a long \"canyon\" between Belington  and Philippi.  It is extremely steep, there are many waterfalls, etc. and is very hard to access.",
-  "temperature_high": 39.48,
-  "temperature_mid": 32.14,
-  "temperature_low": 24.8,
+  "temperature": {
+    "high": 39.48,
+    "mid": 32.14,
+    "low": 24.8
+  },
   "dew_point": 9.55,
   "humidity": 0.41,
   "cloud_cover": 0.14,

@@ -11,9 +11,11 @@
   "longitude": -90.39488,
   "location": "-90.39488,38.22635",
   "location_details": "West of Hematite approximately 2 miles.",
-  "temperature_high": 52.8,
-  "temperature_mid": 46.885,
-  "temperature_low": 40.97,
+  "temperature": {
+    "high": 52.8,
+    "mid": 46.885,
+    "low": 40.97
+  },
   "dew_point": 45.18,
   "humidity": 0.87,
   "cloud_cover": 0.97,

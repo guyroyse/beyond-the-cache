@@ -11,9 +11,11 @@
   "longitude": -117.9486,
   "location": "-117.9486,46.03333",
   "location_details": "take mill creek road to the rooks park turn off and follow till you reach Rooks Park",
-  "temperature_high": 27.53,
-  "temperature_mid": 24.115,
-  "temperature_low": 20.7,
+  "temperature": {
+    "high": 27.53,
+    "mid": 24.115,
+    "low": 20.7
+  },
   "dew_point": 21.77,
   "humidity": 0.9,
   "cloud_cover": 0.83,

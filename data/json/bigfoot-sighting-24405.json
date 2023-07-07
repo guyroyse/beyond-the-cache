@@ -11,9 +11,11 @@
   "longitude": -111.8634,
   "location": "-111.8634,35.241",
   "location_details": "Mountains, North West of Flagstaff, AZ.",
-  "temperature_high": 47.88,
-  "temperature_mid": 31.04,
-  "temperature_low": 14.2,
+  "temperature": {
+    "high": 47.88,
+    "mid": 31.04,
+    "low": 14.2
+  },
   "dew_point": 12.52,
   "humidity": 0.51,
   "cloud_cover": 0.09,

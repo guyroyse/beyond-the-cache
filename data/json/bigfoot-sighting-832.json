@@ -11,9 +11,11 @@
   "longitude": -88.17885,
   "location": "-88.17885,33.13195",
   "location_details": "In and around Aliceville, AL., in Pickens County. Both my sightings were near Lubbub Creek, which runs into Dead River and from there to the Tombigbee River.",
-  "temperature_high": 62.78,
-  "temperature_mid": 56.87,
-  "temperature_low": 50.96,
+  "temperature": {
+    "high": 62.78,
+    "mid": 56.87,
+    "low": 50.96
+  },
   "dew_point": 57.83,
   "humidity": 0.9,
   "cloud_cover": 1,

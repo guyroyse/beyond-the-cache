@@ -1,0 +1,34 @@
+{
+  "reportId": "13983",
+  "title": "Possible sighting by fisherman at Blue Lake.",
+  "date": "1980-06-15",
+  "timestamp": 329875200,
+  "observed": "In June, 1980, a friend and I were fishing in an ox-bow type lake adjacent to the Mississippi River in Crittenden County, Arkansas, near the town of Hughes, off highway 147. This is just across the river from Memphis, Tennessee, and the area was experiencing was the hottest summer on record at the time.  It is heavily forested, running basically north and south along the river for many miles, and connecting with other river basins emptying into the Mississippi.  My friends' family owned the land surrounding the lake, and theirs' was the only inhabited structure for at least a few miles in any direction.  A small section of one end of the lake had a beach and was used by swimmers and picnicers during the day.  The more distant areas were used only by occasional fisherman. We were in a 16-foot boat a few yards off shore, trolling among the cypress trees in 8-10 feet of water for crappie using minnows as bait, using a quiet electric motor.  It was near sundown, about 8:00 pm. but still light enough to see clearly. The normal lake sounds of birds and insects were interrupted by a crashing noise on the near bank, which was covered in trees and undergrowth.  We initially thought it was either a stray cow or another fisherman walking towards the water.  We were staring into the undergrowth looking for the source of the sounds when a dark, but more or less human-shaped figure appeared between the foliage, 2-3 feet from the water's edge.  It appeared to be covered in black hair and stood upright, facing us.  We could only really see the upper torso and head because of the thick plant growth.  It was difficult to judge the size for the same reason, but we guessed it was near the size of an adult human male or bigger. It caught sight of us and stared for 2-3 seconds, before turning and running into the trees still on two legs, where we quickly lost sight of it.  We heard no vocalizations nor did we smell any odor. The whole episode lasted only 10-15 seconds. We had heard a few reports from others on the lake that summer of seeing large dark-colored animals. We had assumed them to be bears, which are occasionally seen there, and were reported to seek out the lake to cool off in the hottest years.  Also, we had frequently heard howling sounds from the trees around the lake at night, while sitting on the porch of my friends home which sat about 75 yards from the water's edge in a clearing.  We thought were from panthers or coyotes, but couldn't remember hearing similar sounds before or after that summer.",
+  "classification": "Class A",
+  "county": "Crittenden",
+  "state": "Arkansas",
+  "latitude": 35.0194,
+  "longitude": -90.32,
+  "location": {
+    "longitude": -90.32,
+    "latitude": 35.0194
+  },
+  "location_details": "Take I-40 west out of West Memphis, Arkansas.  Exit I-40 south at highway 147.  Take highway 147 south about ten miles.  It runs parallel to the Mississippi River levee for several of those miles. Turn left off the highway on Blue Lake road.  This road heads east for 2-3 miles, crosses the levee, then goes about another mile before reaching the lake.  The land is all private property, and was sold out of my friends' family several years ago.  I do not know who the current owners are.",
+  "temperature": {
+    "high": 94.15,
+    "mid": 86.2,
+    "low": 78.25
+  },
+  "dew_point": 63.84,
+  "humidity": 0.52,
+  "cloud_cover": 0.13,
+  "moon_phase": 0.1,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1013.55,
+  "summary": "Breezy until evening and partly cloudy in the evening.",
+  "uv_index": 10,
+  "visibility": 8.55,
+  "wind_bearing": 215,
+  "wind_speed": 11.31
+}

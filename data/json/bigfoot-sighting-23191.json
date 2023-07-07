@@ -11,9 +11,11 @@
   "longitude": -81.5722,
   "location": "-81.5722,38.2383",
   "location_details": "Marmet Memorial Gardens, Marmet, WV",
-  "temperature_high": 75.86,
-  "temperature_mid": 65.92,
-  "temperature_low": 55.98,
+  "temperature": {
+    "high": 75.86,
+    "mid": 65.92,
+    "low": 55.98
+  },
   "dew_point": 56.71,
   "humidity": 0.72,
   "cloud_cover": 0.54,

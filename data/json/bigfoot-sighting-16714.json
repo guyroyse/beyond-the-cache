@@ -11,9 +11,11 @@
   "longitude": -96.47562,
   "location": "-96.47562,42.55576",
   "location_details": "Look out point in Stone Park.",
-  "temperature_high": 67.45,
-  "temperature_mid": 59.865,
-  "temperature_low": 52.28,
+  "temperature": {
+    "high": 67.45,
+    "mid": 59.865,
+    "low": 52.28
+  },
   "dew_point": 51.95,
   "humidity": 0.69,
   "cloud_cover": 0.97,

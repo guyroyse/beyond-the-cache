@@ -11,9 +11,11 @@
   "longitude": -111.08,
   "location": "-111.08,34.475",
   "location_details": "North of Knoll lake about 2 miles",
-  "temperature_high": 72.61,
-  "temperature_mid": 57.055,
-  "temperature_low": 41.5,
+  "temperature": {
+    "high": 72.61,
+    "mid": 57.055,
+    "low": 41.5
+  },
   "dew_point": 24.35,
   "humidity": 0.26,
   "cloud_cover": 0.04,

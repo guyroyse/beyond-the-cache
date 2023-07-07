@@ -11,9 +11,11 @@
   "longitude": -87.09378,
   "location": "-87.09378,45.74023",
   "location_details": "This was in the back of Holy Cross Cemetery, which is located between the Airport and 12th Rd (or Jaeger Rd). Portage Creek is nearby with a bridge on M-35. Jehovah Witness has a church near the cemetery.",
-  "temperature_high": 73.39,
-  "temperature_mid": 68.2,
-  "temperature_low": 63.01,
+  "temperature": {
+    "high": 73.39,
+    "mid": 68.2,
+    "low": 63.01
+  },
   "dew_point": 62.03,
   "humidity": 0.88,
   "cloud_cover": 0.28,

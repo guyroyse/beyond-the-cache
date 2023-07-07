@@ -11,9 +11,11 @@
   "longitude": -96.28425,
   "location": "-96.28425,48.52579",
   "location_details": "This took place in the aspen woods about 15 road miles NW of Middle River MN.  Just N/NE of an area known as Nelson's Slew.  It was a Wildlife Management Area of the MN Dept. of Natural Recourses.",
-  "temperature_high": 56.62,
-  "temperature_mid": 47.81,
-  "temperature_low": 39,
+  "temperature": {
+    "high": 56.62,
+    "mid": 47.81,
+    "low": 39
+  },
   "dew_point": 30.56,
   "humidity": 0.65,
   "cloud_cover": 0.72,

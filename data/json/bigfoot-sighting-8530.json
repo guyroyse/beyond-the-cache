@@ -11,9 +11,11 @@
   "longitude": -98.08611,
   "location": "-98.08611,30.38667",
   "location_details": "Near the Pedernales River.",
-  "temperature_high": 69.33,
-  "temperature_mid": 66.025,
-  "temperature_low": 62.72,
+  "temperature": {
+    "high": 69.33,
+    "mid": 66.025,
+    "low": 62.72
+  },
   "dew_point": 63.99,
   "humidity": 0.89,
   "cloud_cover": 0.92,

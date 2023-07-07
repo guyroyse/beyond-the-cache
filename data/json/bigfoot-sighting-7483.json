@@ -11,9 +11,11 @@
   "longitude": -122.2187,
   "location": "-122.2187,47.39",
   "location_details": "Hilltop Avenue, dead ending side street going north from E. James St.",
-  "temperature_high": 43.48,
-  "temperature_mid": 42.625,
-  "temperature_low": 41.77,
+  "temperature": {
+    "high": 43.48,
+    "mid": 42.625,
+    "low": 41.77
+  },
   "dew_point": 37.76,
   "humidity": 0.86,
   "cloud_cover": 0.96,

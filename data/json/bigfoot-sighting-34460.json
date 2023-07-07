@@ -11,9 +11,11 @@
   "longitude": -108.84,
   "location": "-108.84,36.0605",
   "location_details": "We were on a dirt road, Indian Service Route 32, going South into the Chuska mountains. About 5-8 miles south of Indian Service Route 32, Hwy 134.",
-  "temperature_high": 85.03,
-  "temperature_mid": 74.14,
-  "temperature_low": 63.25,
+  "temperature": {
+    "high": 85.03,
+    "mid": 74.14,
+    "low": 63.25
+  },
   "dew_point": 39.27,
   "humidity": 0.3,
   "cloud_cover": 0.23,

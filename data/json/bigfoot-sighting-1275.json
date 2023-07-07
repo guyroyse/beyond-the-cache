@@ -11,9 +11,11 @@
   "longitude": -81.5446,
   "location": "-81.5446,28.6901",
   "location_details": "Its 20 Miles from orlando florida",
-  "temperature_high": 74.38,
-  "temperature_mid": 63.16,
-  "temperature_low": 51.94,
+  "temperature": {
+    "high": 74.38,
+    "mid": 63.16,
+    "low": 51.94
+  },
   "dew_point": 47.37,
   "humidity": 0.59,
   "cloud_cover": 0.17,

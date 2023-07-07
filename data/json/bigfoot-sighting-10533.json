@@ -11,9 +11,11 @@
   "longitude": -105.1146,
   "location": "-105.1146,38.826",
   "location_details": "Below the treeline on the west side of Pikes Peak looking toward the north in the direction of Horsethief Park.",
-  "temperature_high": 91.71,
-  "temperature_mid": 78.77,
-  "temperature_low": 65.83,
+  "temperature": {
+    "high": 91.71,
+    "mid": 78.77,
+    "low": 65.83
+  },
   "dew_point": 48.76,
   "humidity": 0.38,
   "cloud_cover": 0.45,

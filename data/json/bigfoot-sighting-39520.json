@@ -11,9 +11,11 @@
   "longitude": -107.0596,
   "location": "-107.0596,39.37357",
   "location_details": "Between Dotsero and Glenwood Springs on I-70 WB.",
-  "temperature_high": 28.92,
-  "temperature_mid": 16.15,
-  "temperature_low": 3.38,
+  "temperature": {
+    "high": 28.92,
+    "mid": 16.15,
+    "low": 3.38
+  },
   "dew_point": 3.69,
   "humidity": 0.67,
   "cloud_cover": 0.04,

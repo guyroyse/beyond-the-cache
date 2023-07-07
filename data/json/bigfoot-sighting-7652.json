@@ -11,9 +11,11 @@
   "longitude": -95.54278,
   "location": "-95.54278,33.33",
   "location_details": "From Sulphur Springs hw 19 to hw 71 turn right go to hw 1536 turn left  aprox. 4 miles on right.",
-  "temperature_high": 49.92,
-  "temperature_mid": 38.845,
-  "temperature_low": 27.77,
+  "temperature": {
+    "high": 49.92,
+    "mid": 38.845,
+    "low": 27.77
+  },
   "dew_point": 30.74,
   "humidity": 0.67,
   "cloud_cover": 0.2,

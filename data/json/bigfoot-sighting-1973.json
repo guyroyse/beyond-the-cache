@@ -11,9 +11,11 @@
   "longitude": -119.3172,
   "location": "-119.3172,46.23361",
   "location_details": "Badger Mountain (south of Richland) Service road on the west side is now a very steep dirt road that ends at the top that now services the radio-communications towers.",
-  "temperature_high": 50.68,
-  "temperature_mid": 48.18,
-  "temperature_low": 45.68,
+  "temperature": {
+    "high": 50.68,
+    "mid": 48.18,
+    "low": 45.68
+  },
   "dew_point": 26.05,
   "humidity": 0.5,
   "cloud_cover": 0.94,

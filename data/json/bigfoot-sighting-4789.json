@@ -11,9 +11,11 @@
   "longitude": -92.30575,
   "location": "-92.30575,46.05229",
   "location_details": "Around 5 miles north of Danbury",
-  "temperature_high": 72.14,
-  "temperature_mid": 60.86,
-  "temperature_low": 49.58,
+  "temperature": {
+    "high": 72.14,
+    "mid": 60.86,
+    "low": 49.58
+  },
   "dew_point": 51.4,
   "humidity": 0.76,
   "cloud_cover": 0.12,

@@ -11,9 +11,11 @@
   "longitude": -74.15562,
   "location": "-74.15562,41.06945",
   "location_details": "Heading down from the top from Oakland side to Ringwood. First curve toward right.",
-  "temperature_high": 69.58,
-  "temperature_mid": 62.88,
-  "temperature_low": 56.18,
+  "temperature": {
+    "high": 69.58,
+    "mid": 62.88,
+    "low": 56.18
+  },
   "dew_point": 50.21,
   "humidity": 0.6,
   "cloud_cover": 0.47,

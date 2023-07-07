@@ -11,9 +11,11 @@
   "longitude": -121.015,
   "location": "-121.015,39.26167",
   "location_details": "along deer creek",
-  "temperature_high": 86.82,
-  "temperature_mid": 73.575,
-  "temperature_low": 60.33,
+  "temperature": {
+    "high": 86.82,
+    "mid": 73.575,
+    "low": 60.33
+  },
   "dew_point": 54.96,
   "humidity": 0.56,
   "cloud_cover": 0.07,

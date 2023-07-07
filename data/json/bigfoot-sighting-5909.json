@@ -11,9 +11,11 @@
   "longitude": -119.8458,
   "location": "-119.8458,39.00056",
   "location_details": "Go to the town of Genoa.  Drive north on Foothill Rd. turn left on Centennial past the cemetary.  The road ends up behind some residential homes but where the road ends the land belongs to the Forestry/BLM and is the start of the trail head.  It is a tough hike but eventually you will come to the remaining foundation of the deer hunter's cabin.  It was in this vacinity where we met this large, hairy, smelly guy near the creek. Going uphill the creek will be on your left.",
-  "temperature_high": 87.88,
-  "temperature_mid": 68.935,
-  "temperature_low": 49.99,
+  "temperature": {
+    "high": 87.88,
+    "mid": 68.935,
+    "low": 49.99
+  },
   "dew_point": 44.16,
   "humidity": 0.42,
   "cloud_cover": 0.06,

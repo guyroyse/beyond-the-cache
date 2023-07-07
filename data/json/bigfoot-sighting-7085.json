@@ -11,9 +11,11 @@
   "longitude": -81.65929,
   "location": "-81.65929,39.3731",
   "location_details": "It's roughly four miles from the four way stop in Barlow by the fairgrounds going towards Marietta.",
-  "temperature_high": 80.08,
-  "temperature_mid": 68.455,
-  "temperature_low": 56.83,
+  "temperature": {
+    "high": 80.08,
+    "mid": 68.455,
+    "low": 56.83
+  },
   "dew_point": 64.22,
   "humidity": 0.75,
   "cloud_cover": 0.57,

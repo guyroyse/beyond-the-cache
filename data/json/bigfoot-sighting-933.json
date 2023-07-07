@@ -11,9 +11,11 @@
   "longitude": -122.4089,
   "location": "-122.4089,45.8581",
   "location_details": "Just South of the small community of Yacolt, Washington. Yacolt lies 21 miles NE of Vancouver, WA, 26 miles SW of Mt. St. Helens, 7 Miles S of Lake Merwin and the Yale Reservoir.",
-  "temperature_high": 63.24,
-  "temperature_mid": 57.895,
-  "temperature_low": 52.55,
+  "temperature": {
+    "high": 63.24,
+    "mid": 57.895,
+    "low": 52.55
+  },
   "dew_point": 56.31,
   "humidity": 0.88,
   "cloud_cover": 0.98,

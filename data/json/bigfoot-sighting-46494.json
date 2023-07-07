@@ -11,9 +11,11 @@
   "longitude": -87.8574,
   "location": "-87.8574,41.9586",
   "location_details": "Along bike path in Schiller woods.",
-  "temperature_high": 82.16,
-  "temperature_mid": 72.205,
-  "temperature_low": 62.25,
+  "temperature": {
+    "high": 82.16,
+    "mid": 72.205,
+    "low": 62.25
+  },
   "dew_point": 59.4,
   "humidity": 0.63,
   "cloud_cover": 0.6,

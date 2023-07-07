@@ -11,9 +11,11 @@
   "longitude": -86.5228,
   "location": "-86.5228,46.3126",
   "location_details": "Approx. 2 miles south of Shingleton on M-94 and 4 to 5 miles west.   (Hiawatha National Forest, northeast section)",
-  "temperature_high": 53.99,
-  "temperature_mid": 52.03,
-  "temperature_low": 50.07,
+  "temperature": {
+    "high": 53.99,
+    "mid": 52.03,
+    "low": 50.07
+  },
   "dew_point": 46.5,
   "humidity": 0.85,
   "cloud_cover": 0.83,

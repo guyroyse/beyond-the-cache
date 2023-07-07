@@ -11,9 +11,11 @@
   "longitude": -89.3381,
   "location": "-89.3381,46.1675",
   "location_details": "North side of Black Oak Lake off of West Black Oak Lake Rd.",
-  "temperature_high": 4.27,
-  "temperature_mid": -7.955,
-  "temperature_low": -20.18,
+  "temperature": {
+    "high": 4.27,
+    "mid": -7.955,
+    "low": -20.18
+  },
   "dew_point": -4.77,
   "humidity": 0.75,
   "cloud_cover": 0,

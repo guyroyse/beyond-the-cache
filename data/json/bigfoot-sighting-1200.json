@@ -11,9 +11,11 @@
   "longitude": -82.52633,
   "location": "-82.52633,38.38096",
   "location_details": "us west virginia cabell co. huntington spring valley area",
-  "temperature_high": 82.47,
-  "temperature_mid": 74.31,
-  "temperature_low": 66.15,
+  "temperature": {
+    "high": 82.47,
+    "mid": 74.31,
+    "low": 66.15
+  },
   "dew_point": 58.5,
   "humidity": 0.71,
   "cloud_cover": 0.66,

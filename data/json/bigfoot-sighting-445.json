@@ -11,9 +11,11 @@
   "longitude": -82.0332,
   "location": "-82.0332,27.0047",
   "location_details": "Quednau Ranch in the early 1960's About a few miles south of the Creek that the cattle watered at. Inside the pines area-Not in the North end of Ranch where we tented .",
-  "temperature_high": 87.64,
-  "temperature_mid": 82.585,
-  "temperature_low": 77.53,
+  "temperature": {
+    "high": 87.64,
+    "mid": 82.585,
+    "low": 77.53
+  },
   "dew_point": 73.49,
   "humidity": 0.79,
   "cloud_cover": 0.57,

@@ -11,9 +11,11 @@
   "longitude": -122.82,
   "location": "-122.82,46.37",
   "location_details": "From I5 take the Spirit Lake Hwy to Chuck's store. Turn left onto the Tower road. Continue on the Tower road, crossing the Toutle river and proceed another mile or two till the road turns and abruptly left up a hill. This location is the old entry point to Hollywood Gorge (In the 1930 a movie called God's Country and the Woman was filmed at this spot) Go on up the Tower road and the next road intersecting from the left is Rock Creek Road. The land now belonges to the Weyerhaeuser Company is is most likely gated, although during hunting season it is unlocked. Proceed about 2 miles. In 1970 the roaded dead-ended at this landing. It may have all changed since then, although I don't think the trees growing at this site in 1970 have been harvested yet, but trees 100 yards or so farther east would most likely would have been by now.",
-  "temperature_high": 69.42,
-  "temperature_mid": 64.7,
-  "temperature_low": 59.98,
+  "temperature": {
+    "high": 69.42,
+    "mid": 64.7,
+    "low": 59.98
+  },
   "dew_point": 48.19,
   "humidity": 0.63,
   "cloud_cover": 0.95,

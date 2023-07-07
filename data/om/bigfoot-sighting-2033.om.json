@@ -1,0 +1,34 @@
+{
+  "reportId": "2033",
+  "title": "Photographer has daytime sighting in woods near Lawrence",
+  "date": "2005-01-26",
+  "timestamp": 1106697600,
+  "observed": "I was taking pictures for my Photography class at Haskell University near the Wetlands.  I had walked over a pile of dead and chopped wood into the woods about fifty feet when I heard something ahead.  I looked up and saw something standing there, then immediately take off, and without much of a start jump about 7 to ten feet in distance over a fallen tree which was about five feet high.  It disapeared into the bush, and did not make a sound in its retreat.  The first moment I thought it was a worker from the nearby factory wearing a big coat, then I quickly realized what it was.  It had a full body of dark blonde/light brown hair, about 6'6\" or taller, and had a slight slouch to itself.  It was also very fast, very illusive, and had seemed to disapear in a glimmer when it took off.  I could not hear it beyond the brush where it took off to, so I thought it was still close by.  So, as scared as I was but with a camera in my hand I had to follow, but when I got into the brush there was nothing.  I didn't hear anything nearby, no bushes moving, no twigs cracking, nothing.  Though I felt as if I was being watched, as if something was still there, close by.  I just took a deep breath and took off to my car and went home.  It was the coolest yet scariest moment in my life.",
+  "classification": "Class A",
+  "county": "Douglas",
+  "state": "Kansas",
+  "latitude": 38.9142,
+  "longitude": -95.2577,
+  "location": {
+    "longitude": -95.2577,
+    "latitude": 38.9142
+  },
+  "location_details": "South of Haskell University near the Wetlands.",
+  "temperature": {
+    "high": 39.97,
+    "mid": 34.565,
+    "low": 29.16
+  },
+  "dew_point": 29.18,
+  "humidity": 0.77,
+  "cloud_cover": 0.63,
+  "moon_phase": 0.54,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1022.12,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 9.9,
+  "wind_bearing": 356,
+  "wind_speed": 9.36
+}

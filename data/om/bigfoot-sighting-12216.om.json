@@ -1,0 +1,35 @@
+{
+  "reportId": "12216",
+  "title": "Family is approached near their forest cabin.",
+  "date": "1993-06-15",
+  "timestamp": 740102400,
+  "observed": "About 11 years ago, my fiance and I had a cabin on Mt. Hood in Oregon state. We were in the roofing business and I was sorting out some cedar shakes outside the cabin. I had my Rottweiler tied to a tree. She started growling and looking towards the forest. I looked up and saw something big and hairy step from tree to tree. They have huge cedars in there. It did not register at first what I was seeing, so I yelled for whatever was in there to leave or I would turn the dog loose. It stepped behind another tree and kept doing so repeatedly. I finally called my kids and told them to come out and keep an eye on this thing while I got my work done. (I usually have a Mossberger seni-auto matic shotgun - I did not this day). It was moving in closer and then my boyfriend pulled up and it was gone. It was then that I realized it wasn't a bear we were watching.",
+  "classification": "Class A",
+  "county": "Clackamas",
+  "state": "Oregon",
+  "latitude": 45.33,
+  "longitude": -121.9165,
+  "location": {
+    "longitude": -121.9165,
+    "latitude": 45.33
+  },
+  "location_details": "At our cabin on Still Creek Rd. Lot 18. Outside Rhododendron.",
+  "temperature": {
+    "high": 65.21,
+    "mid": 58.78,
+    "low": 52.35
+  },
+  "dew_point": 52.64,
+  "humidity": 0.75,
+  "cloud_cover": 0.76,
+  "moon_phase": 0.86,
+  "precip_intensity": 0.0007,
+  "precip_probability": 0.36,
+  "precip_type": "rain",
+  "pressure": 1018.32,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 6,
+  "visibility": 9.69,
+  "wind_bearing": 281,
+  "wind_speed": 4.95
+}

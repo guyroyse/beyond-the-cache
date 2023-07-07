@@ -11,9 +11,11 @@
   "longitude": -118.9491,
   "location": "-118.9491,44.39104",
   "location_details": "Canyon City, Oregon is located just South of the Hwy 26 East and 395 South interchange.",
-  "temperature_high": 62.47,
-  "temperature_mid": 51.905,
-  "temperature_low": 41.34,
+  "temperature": {
+    "high": 62.47,
+    "mid": 51.905,
+    "low": 41.34
+  },
   "dew_point": 49.43,
   "humidity": 0.73,
   "cloud_cover": 0.61,

@@ -11,9 +11,11 @@
   "longitude": -94.04529,
   "location": "-94.04529,30.7114",
   "location_details": "Hunting lease",
-  "temperature_high": 70.63,
-  "temperature_mid": 57.995,
-  "temperature_low": 45.36,
+  "temperature": {
+    "high": 70.63,
+    "mid": 57.995,
+    "low": 45.36
+  },
   "dew_point": 47.3,
   "humidity": 0.65,
   "cloud_cover": 0.01,

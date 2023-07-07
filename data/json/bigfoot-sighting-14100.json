@@ -11,9 +11,11 @@
   "longitude": -81.649,
   "location": "-81.649,28.966",
   "location_details": "We all expeditioners know it as the sinkhole and it is near FR 445 N.",
-  "temperature_high": 82.09,
-  "temperature_mid": 71.61,
-  "temperature_low": 61.13,
+  "temperature": {
+    "high": 82.09,
+    "mid": 71.61,
+    "low": 61.13
+  },
   "dew_point": 61.1,
   "humidity": 0.71,
   "cloud_cover": 0.28,

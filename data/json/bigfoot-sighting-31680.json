@@ -11,9 +11,11 @@
   "longitude": -81.12167,
   "location": "-81.12167,29.4076",
   "location_details": "It was a small bridge on Walter Boardman Lane. Very close to the intersection of High Bridge Road. In between Old Dixie Highway and 1A.",
-  "temperature_high": 87.09,
-  "temperature_mid": 80.295,
-  "temperature_low": 73.5,
+  "temperature": {
+    "high": 87.09,
+    "mid": 80.295,
+    "low": 73.5
+  },
   "dew_point": 73.41,
   "humidity": 0.81,
   "cloud_cover": 0.29,

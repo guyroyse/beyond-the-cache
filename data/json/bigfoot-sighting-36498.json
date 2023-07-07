@@ -11,9 +11,11 @@
   "longitude": -93.98622,
   "location": "-93.98622,33.33171",
   "location_details": "County Road #10 about one mile east of State Highway 237.",
-  "temperature_high": 82.08,
-  "temperature_mid": 75.945,
-  "temperature_low": 69.81,
+  "temperature": {
+    "high": 82.08,
+    "mid": 75.945,
+    "low": 69.81
+  },
   "dew_point": 68.58,
   "humidity": 0.79,
   "cloud_cover": 0.42,

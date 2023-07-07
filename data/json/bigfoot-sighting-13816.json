@@ -11,9 +11,11 @@
   "longitude": -123.582,
   "location": "-123.582,47.969",
   "location_details": "North-central Olympic National Forest.  There was a river nearby.",
-  "temperature_high": 57,
-  "temperature_mid": 48.5,
-  "temperature_low": 40,
+  "temperature": {
+    "high": 57,
+    "mid": 48.5,
+    "low": 40
+  },
   "dew_point": 40.23,
   "humidity": 0.72,
   "cloud_cover": 0.57,

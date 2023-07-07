@@ -11,9 +11,11 @@
   "longitude": -81.13924,
   "location": "-81.13924,29.41889",
   "location_details": "The Bulow trail is located between Bulow State Park off of Old Kings Road and the Fairchild oak off of the Old Dixie Highway.",
-  "temperature_high": 77.81,
-  "temperature_mid": 69.435,
-  "temperature_low": 61.06,
+  "temperature": {
+    "high": 77.81,
+    "mid": 69.435,
+    "low": 61.06
+  },
   "dew_point": 61.06,
   "humidity": 0.8,
   "cloud_cover": 0.19,

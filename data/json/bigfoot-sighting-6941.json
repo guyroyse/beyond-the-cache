@@ -11,9 +11,11 @@
   "longitude": -98.35,
   "location": "-98.35,33.13333",
   "location_details": "East of Bryson, Texas on a dirt road.",
-  "temperature_high": 88.85,
-  "temperature_mid": 73.875,
-  "temperature_low": 58.9,
+  "temperature": {
+    "high": 88.85,
+    "mid": 73.875,
+    "low": 58.9
+  },
   "dew_point": 55.04,
   "humidity": 0.59,
   "cloud_cover": 0.03,

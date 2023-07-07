@@ -11,9 +11,11 @@
   "longitude": -81.2521,
   "location": "-81.2521,26.283",
   "location_details": "about 5 miles from Lake Trafford in Immokalee,Florida",
-  "temperature_high": 88.25,
-  "temperature_mid": 82.31,
-  "temperature_low": 76.37,
+  "temperature": {
+    "high": 88.25,
+    "mid": 82.31,
+    "low": 76.37
+  },
   "dew_point": 73.19,
   "humidity": 0.79,
   "cloud_cover": 0.52,

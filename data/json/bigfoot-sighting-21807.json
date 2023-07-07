@@ -11,9 +11,11 @@
   "longitude": -121.45,
   "location": "-121.45,47.09685",
   "location_details": "Rock quarry type area, thick woods, on a dirt road, im sorry i cant be more specific than that. Take Hwy 410 past Enumclaw.  Continue past Greenwater to FR 70. Take FR 70 for 12 miles.  Look for the two gravel pits. The trial is behind the second.  (Scott Taylor)",
-  "temperature_high": 77.51,
-  "temperature_mid": 65.61,
-  "temperature_low": 53.71,
+  "temperature": {
+    "high": 77.51,
+    "mid": 65.61,
+    "low": 53.71
+  },
   "dew_point": 48.76,
   "humidity": 0.61,
   "cloud_cover": 0.05,

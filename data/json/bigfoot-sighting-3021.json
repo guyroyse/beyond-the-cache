@@ -11,9 +11,11 @@
   "longitude": -120.2867,
   "location": "-120.2867,38.27194",
   "location_details": "We camped at Big Trees State Park, 3 miles or so up from Arnold, in the North Grove campground. Our two campsites were adjacent to the highway.",
-  "temperature_high": 92.6,
-  "temperature_mid": 74.885,
-  "temperature_low": 57.17,
+  "temperature": {
+    "high": 92.6,
+    "mid": 74.885,
+    "low": 57.17
+  },
   "dew_point": 46.29,
   "humidity": 0.37,
   "cloud_cover": 0.05,

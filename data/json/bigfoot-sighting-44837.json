@@ -11,9 +11,11 @@
   "longitude": -80.29457,
   "location": "-80.29457,26.05091",
   "location_details": "Sunshine acres, University Rd.,106th & 111st, Griffin Rd.",
-  "temperature_high": 89.61,
-  "temperature_mid": 83.95,
-  "temperature_low": 78.29,
+  "temperature": {
+    "high": 89.61,
+    "mid": 83.95,
+    "low": 78.29
+  },
   "dew_point": 71.76,
   "humidity": 0.67,
   "cloud_cover": 0.32,

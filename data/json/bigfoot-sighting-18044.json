@@ -11,9 +11,11 @@
   "longitude": -84.97515,
   "location": "-84.97515,33.81029",
   "location_details": "Headed down 101 from Paulding county to Carroll County",
-  "temperature_high": 67.63,
-  "temperature_mid": 50.94,
-  "temperature_low": 34.25,
+  "temperature": {
+    "high": 67.63,
+    "mid": 50.94,
+    "low": 34.25
+  },
   "dew_point": 30.48,
   "humidity": 0.52,
   "cloud_cover": 0.09,

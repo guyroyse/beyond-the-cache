@@ -11,9 +11,11 @@
   "longitude": -94.41713,
   "location": "-94.41713,47.39974",
   "location_details": "Approximately 2 Miles North of US Hwy @ . Forest RD 2958 and Forest RD 2351 near Lydick Lake.",
-  "temperature_high": 78.55,
-  "temperature_mid": 69.395,
-  "temperature_low": 60.24,
+  "temperature": {
+    "high": 78.55,
+    "mid": 69.395,
+    "low": 60.24
+  },
   "dew_point": 57.32,
   "humidity": 0.74,
   "cloud_cover": 0.19,

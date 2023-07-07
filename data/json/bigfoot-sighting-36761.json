@@ -11,9 +11,11 @@
   "longitude": -91.3012,
   "location": "-91.3012,37.39315",
   "location_details": "I will take you to the tree and place this happened",
-  "temperature_high": 72,
-  "temperature_mid": 64,
-  "temperature_low": 56,
+  "temperature": {
+    "high": 72,
+    "mid": 64,
+    "low": 56
+  },
   "dew_point": 44.93,
   "humidity": 0.63,
   "cloud_cover": 0.67,

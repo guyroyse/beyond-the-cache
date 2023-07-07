@@ -11,9 +11,11 @@
   "longitude": -96.63857,
   "location": "-96.63857,34.21174",
   "location_details": "Camping area 2 in Tishomingo State Park.  The park is locked down at 10 PM.",
-  "temperature_high": 62.75,
-  "temperature_mid": 59.705,
-  "temperature_low": 56.66,
+  "temperature": {
+    "high": 62.75,
+    "mid": 59.705,
+    "low": 56.66
+  },
   "dew_point": 56.69,
   "humidity": 0.93,
   "cloud_cover": 0.97,

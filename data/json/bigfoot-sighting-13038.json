@@ -11,9 +11,11 @@
   "longitude": -149.7853,
   "location": "-149.7853,61.0595",
   "location_details": "Up near powerline clearings east of Potter Marsh in Anchorage.",
-  "temperature_high": 30.56,
-  "temperature_mid": 20.855,
-  "temperature_low": 11.15,
+  "temperature": {
+    "high": 30.56,
+    "mid": 20.855,
+    "low": 11.15
+  },
   "dew_point": 18.61,
   "humidity": 0.84,
   "cloud_cover": 0.17,

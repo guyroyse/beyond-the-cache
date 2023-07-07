@@ -11,9 +11,11 @@
   "longitude": -95.12381,
   "location": "-95.12381,30.43703",
   "location_details": "Drifting on the lake.",
-  "temperature_high": 83.75,
-  "temperature_mid": 80.195,
-  "temperature_low": 76.64,
+  "temperature": {
+    "high": 83.75,
+    "mid": 80.195,
+    "low": 76.64
+  },
   "dew_point": 71.55,
   "humidity": 0.81,
   "cloud_cover": 0.87,

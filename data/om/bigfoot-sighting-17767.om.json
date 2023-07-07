@@ -1,0 +1,35 @@
+{
+  "reportId": "17767",
+  "title": "Night-time sighting by Marine training near Ft Carson",
+  "date": "1986-07-17",
+  "timestamp": 521942400,
+  "observed": "While training at Ft Carson, I was on patrol with a Marine Recon Agressor Force, agressing fire batteries in simulated attacks.  My patrol attacked the HQ company, and during the withdrawal, I was separated from my unit.  There was plenty of ambient light, and I could see my unit across the field and hear them calling for me.  They took off, and I figured I could cut through a wooded area and intercept them.  As I rounded a bend in the trail, a figure stepped out into the trail in front me.  It was about 6.5 feet tall, covered in light brown fur, had large fox-like ears, and large, black, globe-shaped eyes.  The nostrils were slitted and large, without much nasal definition.  The body was muscular, with a thin waist and easily discernible definition, and the arms were long, hanging below the level of the hips.  The creature stepped out into the trail, looking in the opposite direction, and I had stopped stock-still the moment I saw it.  It turned and saw me, at which it exhibited a startle reflex,then immediately crouched down and slowly moved sideways off the trail, watching me the entire time.  It knelt behind a bush, at which point it became very hard to see. I realized that I was encountering something few people have the opportunity to see, at only a distance of about 10 feet.",
+  "classification": "Class A",
+  "county": "El Paso",
+  "state": "Colorado",
+  "latitude": 38.716,
+  "longitude": -104.875,
+  "location": {
+    "longitude": -104.875,
+    "latitude": 38.716
+  },
+  "location_details": "Cheyenne Mountain, near NORAD.",
+  "temperature": {
+    "high": 83.59,
+    "mid": 70.645,
+    "low": 57.7
+  },
+  "dew_point": 48.03,
+  "humidity": 0.46,
+  "cloud_cover": 0.62,
+  "moon_phase": 0.36,
+  "precip_intensity": 0.0044,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1011.53,
+  "summary": "Light rain starting in the evening.",
+  "uv_index": 10,
+  "visibility": 9.84,
+  "wind_bearing": 356,
+  "wind_speed": 1.9
+}

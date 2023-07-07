@@ -11,9 +11,11 @@
   "longitude": -89.7793,
   "location": "-89.7793,44.42315",
   "location_details": "The storage building was on Eagle Road near the Newpage Mill in the Village of Biron",
-  "temperature_high": 33.2,
-  "temperature_mid": 22.055,
-  "temperature_low": 10.91,
+  "temperature": {
+    "high": 33.2,
+    "mid": 22.055,
+    "low": 10.91
+  },
   "dew_point": 16.09,
   "humidity": 0.66,
   "cloud_cover": 0.26,

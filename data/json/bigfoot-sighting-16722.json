@@ -11,9 +11,11 @@
   "longitude": -120.245,
   "location": "-120.245,38.015",
   "location_details": "Near the intersection of Ponderosa Drive and the main road, Twain Harte Drive.",
-  "temperature_high": 59.85,
-  "temperature_mid": 55.335,
-  "temperature_low": 50.82,
+  "temperature": {
+    "high": 59.85,
+    "mid": 55.335,
+    "low": 50.82
+  },
   "dew_point": 48.69,
   "humidity": 0.87,
   "cloud_cover": 0.57,

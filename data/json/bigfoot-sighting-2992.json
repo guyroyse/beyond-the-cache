@@ -11,9 +11,11 @@
   "longitude": -91.3883,
   "location": "-91.3883,40.3752",
   "location_details": "Follow Highway 96 threw Hamilton and take a left in front of Keokuk Hamilton Bridge. It is along the river bottoms.",
-  "temperature_high": 86.46,
-  "temperature_mid": 76.215,
-  "temperature_low": 65.97,
+  "temperature": {
+    "high": 86.46,
+    "mid": 76.215,
+    "low": 65.97
+  },
   "dew_point": 66.77,
   "humidity": 0.7,
   "cloud_cover": 0.03,

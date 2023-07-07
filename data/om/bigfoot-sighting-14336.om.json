@@ -1,0 +1,19 @@
+{
+  "reportId": "14336",
+  "title": "Old newspaper article (The Hammond Times) mentioning sightings near Boonville",
+  "date": "1937-08-16",
+  "timestamp": -1021766400,
+  "observed": "",
+  "classification": "Class A",
+  "county": "Warrick",
+  "state": "Indiana",
+  "latitude": 38.01,
+  "longitude": -87.3203,
+  "location": {
+    "longitude": -87.3203,
+    "latitude": 38.01
+  },
+  "location_details": "",
+  "temperature": {},
+  "summary": ""
+}

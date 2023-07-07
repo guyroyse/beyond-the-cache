@@ -11,9 +11,11 @@
   "longitude": -121.0479,
   "location": "-121.0479,38.95285",
   "location_details": "take I-80 east bound toward reno from auburn, take meadow vista exit, cross over overpass, take frontage road left which i believe is still drycreek, you will hit a lake on your left. lake arthur",
-  "temperature_high": 73.44,
-  "temperature_mid": 63.825,
-  "temperature_low": 54.21,
+  "temperature": {
+    "high": 73.44,
+    "mid": 63.825,
+    "low": 54.21
+  },
   "dew_point": 36.75,
   "humidity": 0.43,
   "cloud_cover": 0.02,

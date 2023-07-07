@@ -11,9 +11,11 @@
   "longitude": -115.6418,
   "location": "-115.6418,48.27011",
   "location_details": "Go east from Libby Mt. city center on Hwy. 2 Turn south on Golf Course Road and follow Granite Creek Road 6 miles to Lukens-Hazel Mine. Turn right, proceed to Old Mine-owners cabinHorse Cree",
-  "temperature_high": 62.31,
-  "temperature_mid": 58.665,
-  "temperature_low": 55.02,
+  "temperature": {
+    "high": 62.31,
+    "mid": 58.665,
+    "low": 55.02
+  },
   "dew_point": 53.86,
   "humidity": 0.85,
   "cloud_cover": 0.94,

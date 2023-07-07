@@ -11,9 +11,11 @@
   "longitude": -80.93504,
   "location": "-80.93504,28.3609",
   "location_details": "The prints were found on the east side of Nova Rd. just south of a small bridge, 1 1/2 miles south of SR 520.",
-  "temperature_high": 76.19,
-  "temperature_mid": 71.62,
-  "temperature_low": 67.05,
+  "temperature": {
+    "high": 76.19,
+    "mid": 71.62,
+    "low": 67.05
+  },
   "dew_point": 58.46,
   "humidity": 0.73,
   "cloud_cover": 0.48,

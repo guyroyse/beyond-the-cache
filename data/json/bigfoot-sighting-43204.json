@@ -11,9 +11,11 @@
   "longitude": -81.20877,
   "location": "-81.20877,35.84103",
   "location_details": "I'm not familiar with the area all that well, but I do know it was on Friendship Church Road in Taylorsville, about 3 - 4 miles from Hwy 16 which I was heading to.",
-  "temperature_high": 66.74,
-  "temperature_mid": 60.595,
-  "temperature_low": 54.45,
+  "temperature": {
+    "high": 66.74,
+    "mid": 60.595,
+    "low": 54.45
+  },
   "dew_point": 51.85,
   "humidity": 0.8,
   "cloud_cover": 0.03,

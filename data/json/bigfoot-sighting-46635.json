@@ -11,9 +11,11 @@
   "longitude": -84.17227,
   "location": "-84.17227,39.13595",
   "location_details": "Off of the Loveland Ohio bike trail off of Adams Road.",
-  "temperature_high": 35.05,
-  "temperature_mid": 33.075,
-  "temperature_low": 31.1,
+  "temperature": {
+    "high": 35.05,
+    "mid": 33.075,
+    "low": 31.1
+  },
   "dew_point": 27.7,
   "humidity": 0.76,
   "cloud_cover": 0.61,

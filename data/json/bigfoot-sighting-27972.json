@@ -11,9 +11,11 @@
   "longitude": -83.12891,
   "location": "-83.12891,38.69322",
   "location_details": "campsite xxx at the campgrounds of Shawnee National Forrest Park",
-  "temperature_high": 91.59,
-  "temperature_mid": 80.13,
-  "temperature_low": 68.67,
+  "temperature": {
+    "high": 91.59,
+    "mid": 80.13,
+    "low": 68.67
+  },
   "dew_point": 66.43,
   "humidity": 0.66,
   "cloud_cover": 0.12,

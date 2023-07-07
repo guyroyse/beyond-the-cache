@@ -11,9 +11,11 @@
   "longitude": -122.195,
   "location": "-122.195,47.275",
   "location_details": "the white river is glacier runoff surounded by pine trees",
-  "temperature_high": 53.3,
-  "temperature_mid": 49.365,
-  "temperature_low": 45.43,
+  "temperature": {
+    "high": 53.3,
+    "mid": 49.365,
+    "low": 45.43
+  },
   "dew_point": 43.38,
   "humidity": 0.81,
   "cloud_cover": 0.82,

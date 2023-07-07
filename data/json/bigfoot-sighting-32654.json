@@ -11,9 +11,11 @@
   "longitude": -122.575,
   "location": "-122.575,41.845",
   "location_details": "Right after the turn off to Yreka (8 mile bridge) and before the houses on that strech of Hwy on the mountain side of the hwy we were on the river side.",
-  "temperature_high": 48.39,
-  "temperature_mid": 36.205,
-  "temperature_low": 24.02,
+  "temperature": {
+    "high": 48.39,
+    "mid": 36.205,
+    "low": 24.02
+  },
   "dew_point": 21.39,
   "humidity": 0.58,
   "cloud_cover": 0.1,

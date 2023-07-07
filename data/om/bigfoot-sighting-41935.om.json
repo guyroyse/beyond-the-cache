@@ -1,0 +1,35 @@
+{
+  "reportId": "41935",
+  "title": "Couple observe a large dark figure as it watches fishermen at Skaguay Reservoir near Victor",
+  "date": "2013-08-05",
+  "timestamp": 1375660800,
+  "observed": "My wife and I took a drive to Skaguay reservoir near Victor Colorado. Nice day and there were people fishing along the lake. Crazy thing is it was 11am and this thing walked across a valley in full sight of lots of people. It was across the lake maybe half a mile, walking slow but was moving at a fast pace, its arm movements and stride looked normal to be going that fast. I asked my wife her thought and she said it looked big and moved real differently. There were people on the lake and on the far bank half way to the animal fishing, it appeared larger at a greater distance. When it left the valley it left a way or on a trail that no one would choose. Before it left sight it stop behind a tree watched for a minute and walked away.",
+  "classification": "Class B",
+  "county": "Teller",
+  "state": "Colorado",
+  "latitude": 38.68775,
+  "longitude": -105.047,
+  "location": {
+    "longitude": -105.047,
+    "latitude": 38.68775
+  },
+  "location_details": "Standing on the west side of the lake looking east over the water. More to southeast looking past the east end of the dam.",
+  "temperature": {
+    "high": 79.98,
+    "mid": 69.39,
+    "low": 58.8
+  },
+  "dew_point": 47.14,
+  "humidity": 0.51,
+  "cloud_cover": 0.05,
+  "moon_phase": 0.96,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.12,
+  "precip_type": "rain",
+  "pressure": 1014.11,
+  "summary": "Clear throughout the day.",
+  "uv_index": 13,
+  "visibility": 9.98,
+  "wind_bearing": 346,
+  "wind_speed": 5.13
+}

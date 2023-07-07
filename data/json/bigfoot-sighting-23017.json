@@ -11,9 +11,11 @@
   "longitude": -121.905,
   "location": "-121.905,48.105",
   "location_details": "Granite Falls east on Mountain Loop HWY 7 miles (2 miles short of Verlot)",
-  "temperature_high": 41.8,
-  "temperature_mid": 38.64,
-  "temperature_low": 35.48,
+  "temperature": {
+    "high": 41.8,
+    "mid": 38.64,
+    "low": 35.48
+  },
   "dew_point": 34.43,
   "humidity": 0.85,
   "cloud_cover": 0.92,

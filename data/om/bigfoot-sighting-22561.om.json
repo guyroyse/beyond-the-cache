@@ -1,0 +1,35 @@
+{
+  "reportId": "22561",
+  "title": "Man recalls childhood observation - large tracks with long stride in snow - near Mayfield",
+  "date": "1966-01-15",
+  "timestamp": -125020800,
+  "observed": "In January or February of 1966, my father and I observed very large tracks in the snow.  Each track was about 15-16 inches in length and about 7-8 inches in width.  They were very widely spaced, about 12-14 feet, as if made by something running.  We followed them for a short distance; however, the snow was patchy and we lost the trail. Our sighting was in Mayfield, N. Y., behind Knoll's Market.  New York State Route 30 now passes exactly over the spot. At the time, I was an 11-year-old boy and had never heard of Bigfoot.  Years later, when I read about sightings in the Pacific Northwest, I realized what I had seen as a lad.",
+  "classification": "Class B",
+  "county": "Fulton",
+  "state": "New York",
+  "latitude": 43.0949,
+  "longitude": -74.27923,
+  "location": {
+    "longitude": -74.27923,
+    "latitude": 43.0949
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 22.23,
+    "mid": 5.08,
+    "low": -12.07
+  },
+  "dew_point": 5.75,
+  "humidity": 0.68,
+  "cloud_cover": 0.61,
+  "moon_phase": 0.81,
+  "precip_intensity": 0.001,
+  "precip_probability": 1,
+  "precip_type": "snow",
+  "pressure": 1018.18,
+  "summary": "Snow (< 1 in.) in the morning.",
+  "uv_index": 1,
+  "visibility": 8.11,
+  "wind_bearing": 322,
+  "wind_speed": 7.93
+}

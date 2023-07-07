@@ -11,9 +11,11 @@
   "longitude": -82.55556,
   "location": "-82.55556,29.4179",
   "location_details": "Between Bronson and Willison FL",
-  "temperature_high": 90.27,
-  "temperature_mid": 80.58,
-  "temperature_low": 70.89,
+  "temperature": {
+    "high": 90.27,
+    "mid": 80.58,
+    "low": 70.89
+  },
   "dew_point": 71.4,
   "humidity": 0.76,
   "cloud_cover": 0.6,

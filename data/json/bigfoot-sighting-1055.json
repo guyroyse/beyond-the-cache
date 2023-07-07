@@ -11,9 +11,11 @@
   "longitude": -120.1358,
   "location": "-120.1358,38.86",
   "location_details": "The north end of Aloha Lake in Desolation Wilderness",
-  "temperature_high": 48.92,
-  "temperature_mid": 41.25,
-  "temperature_low": 33.58,
+  "temperature": {
+    "high": 48.92,
+    "mid": 41.25,
+    "low": 33.58
+  },
   "dew_point": 36.22,
   "humidity": 0.71,
   "cloud_cover": 0.57,

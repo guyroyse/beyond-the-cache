@@ -1,0 +1,35 @@
+{
+  "reportId": "15250",
+  "title": "Possible sighting by child near home outside Arnoldsberg",
+  "date": "2006-07-16",
+  "timestamp": 1153008000,
+  "observed": "My grandma went to my uncles house in NC for two week so my wife and I said we would feed her dog and keep check on her house while she was away we only live about 3/4 a mile from her house. well my wife and daughter went over to feed the dog my wife was on the back porch my daughter ran around the house after the dog as soon as she got out of sight my wife heard her scream and come running back my wife run to her and heard some thing going trough the brush my wife ask her what happened my daughter said a monkey growled at her and ran in to the woods later she said it was a little one with its mom I don't know what it was but my daughter was really scared . we live in a wooded area she as see bears and allot of other animals and she said it looked like a monkey",
+  "classification": "Class B",
+  "county": "Calhoun",
+  "state": "West Virginia",
+  "latitude": 38.7365,
+  "longitude": -81.0321,
+  "location": {
+    "longitude": -81.0321,
+    "latitude": 38.7365
+  },
+  "location_details": "Edited for privacy",
+  "temperature": {
+    "high": 87,
+    "mid": 76.48,
+    "low": 65.96
+  },
+  "dew_point": 65.57,
+  "humidity": 0.74,
+  "cloud_cover": 0.24,
+  "moon_phase": 0.7,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.12,
+  "precip_type": "rain",
+  "pressure": 1019.23,
+  "summary": "Foggy in the morning.",
+  "uv_index": 10,
+  "visibility": 6.28,
+  "wind_bearing": 9,
+  "wind_speed": 1.95
+}

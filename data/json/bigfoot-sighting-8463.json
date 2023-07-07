@@ -11,9 +11,11 @@
   "longitude": -120.0047,
   "location": "-120.0047,38.4775",
   "location_details": "right next to Lake Alpine lodge",
-  "temperature_high": 64.19,
-  "temperature_mid": 51.47,
-  "temperature_low": 38.75,
+  "temperature": {
+    "high": 64.19,
+    "mid": 51.47,
+    "low": 38.75
+  },
   "dew_point": 39.9,
   "humidity": 0.74,
   "cloud_cover": 0.17,

@@ -11,9 +11,11 @@
   "longitude": -122.5855,
   "location": "-122.5855,46.3758",
   "location_details": "It was on the right hand side of the highway when you are going down the mountain away from Mt. St. Helens",
-  "temperature_high": 63.99,
-  "temperature_mid": 56.715,
-  "temperature_low": 49.44,
+  "temperature": {
+    "high": 63.99,
+    "mid": 56.715,
+    "low": 49.44
+  },
   "dew_point": 44.82,
   "humidity": 0.69,
   "cloud_cover": 0.42,

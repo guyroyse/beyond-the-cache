@@ -11,9 +11,11 @@
   "longitude": -122.278,
   "location": "-122.278,40.7974",
   "location_details": "At Lake Shasta Caverns, take tour/boat across lake then up mountain to Cavern entrance, look off to the ravine in front of you and look for skid trail of large proportion",
-  "temperature_high": 54.95,
-  "temperature_mid": 45.84,
-  "temperature_low": 36.73,
+  "temperature": {
+    "high": 54.95,
+    "mid": 45.84,
+    "low": 36.73
+  },
   "dew_point": 35.12,
   "humidity": 0.66,
   "cloud_cover": 0.48,

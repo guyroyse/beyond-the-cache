@@ -11,9 +11,11 @@
   "longitude": -122.3353,
   "location": "-122.3353,45.69",
   "location_details": "Near Lost Lake, headwaters of Washougal River and Rock Creek.",
-  "temperature_high": 76.19,
-  "temperature_mid": 64.585,
-  "temperature_low": 52.98,
+  "temperature": {
+    "high": 76.19,
+    "mid": 64.585,
+    "low": 52.98
+  },
   "dew_point": 43.66,
   "humidity": 0.56,
   "cloud_cover": 0.23,

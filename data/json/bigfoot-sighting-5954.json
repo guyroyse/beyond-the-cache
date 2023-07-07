@@ -11,9 +11,11 @@
   "longitude": -88.14999,
   "location": "-88.14999,33.13",
   "location_details": "The eastern dike of the East Lagoon",
-  "temperature_high": 87.28,
-  "temperature_mid": 79.995,
-  "temperature_low": 72.71,
+  "temperature": {
+    "high": 87.28,
+    "mid": 79.995,
+    "low": 72.71
+  },
   "dew_point": 68.43,
   "humidity": 0.73,
   "cloud_cover": 0.12,

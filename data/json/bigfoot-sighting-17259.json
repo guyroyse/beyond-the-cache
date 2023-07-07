@@ -11,9 +11,11 @@
   "longitude": -109.575,
   "location": "-109.575,40.75",
   "location_details": "25 north of vernal Utah. Rural Route off the left hand side(small paved area with small map/sign) follow to National Forest Ranger station. no longer operational but rented out.",
-  "temperature_high": 92.16,
-  "temperature_mid": 76.265,
-  "temperature_low": 60.37,
+  "temperature": {
+    "high": 92.16,
+    "mid": 76.265,
+    "low": 60.37
+  },
   "dew_point": 36.85,
   "humidity": 0.27,
   "cloud_cover": 0.04,

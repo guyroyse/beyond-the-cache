@@ -11,9 +11,11 @@
   "longitude": -121.5633,
   "location": "-121.5633,47.40245",
   "location_details": "Approximately 1.5 miles east of Tinkham Campground, but still west of Hansen Creek.  Also, Tucquala Lake, SE end.",
-  "temperature_high": 89.31,
-  "temperature_mid": 77.02,
-  "temperature_low": 64.73,
+  "temperature": {
+    "high": 89.31,
+    "mid": 77.02,
+    "low": 64.73
+  },
   "dew_point": 53.15,
   "humidity": 0.53,
   "cloud_cover": 0.02,

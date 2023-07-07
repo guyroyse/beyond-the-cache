@@ -11,9 +11,11 @@
   "longitude": -82.24487,
   "location": "-82.24487,28.14617",
   "location_details": "It was at the Hillsborough River State Park on one of the bike trails",
-  "temperature_high": 61.53,
-  "temperature_mid": 53.76,
-  "temperature_low": 45.99,
+  "temperature": {
+    "high": 61.53,
+    "mid": 53.76,
+    "low": 45.99
+  },
   "dew_point": 46.08,
   "humidity": 0.84,
   "cloud_cover": 0.37,

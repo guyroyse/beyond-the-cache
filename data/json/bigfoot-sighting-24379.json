@@ -11,9 +11,11 @@
   "longitude": -123.8343,
   "location": "-123.8343,47.50319",
   "location_details": "North Shore road, approx 5 miles back off of Hwy. 101, 1/8 mile before ranger station.",
-  "temperature_high": 74.31,
-  "temperature_mid": 61.18,
-  "temperature_low": 48.05,
+  "temperature": {
+    "high": 74.31,
+    "mid": 61.18,
+    "low": 48.05
+  },
   "dew_point": 47.31,
   "humidity": 0.67,
   "cloud_cover": 0.26,

@@ -11,9 +11,11 @@
   "longitude": -71.46778,
   "location": "-71.46778,43.28556",
   "location_details": "It happened in the woods across from the NH International Speedway in the areas between Loudon and Chichester or so...big patch of woods out there very rural all the way to winnepesaukee.",
-  "temperature_high": 27.94,
-  "temperature_mid": 16.125,
-  "temperature_low": 4.31,
+  "temperature": {
+    "high": 27.94,
+    "mid": 16.125,
+    "low": 4.31
+  },
   "dew_point": 2.54,
   "humidity": 0.61,
   "cloud_cover": 0.13,

@@ -11,9 +11,11 @@
   "longitude": -120.201,
   "location": "-120.201,36.7818",
   "location_details": "On the San Joaquin River",
-  "temperature_high": 70.55,
-  "temperature_mid": 64.93,
-  "temperature_low": 59.31,
+  "temperature": {
+    "high": 70.55,
+    "mid": 64.93,
+    "low": 59.31
+  },
   "dew_point": 55.65,
   "humidity": 0.69,
   "cloud_cover": 0.87,

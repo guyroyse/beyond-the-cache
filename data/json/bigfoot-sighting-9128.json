@@ -11,9 +11,11 @@
   "longitude": -122.0262,
   "location": "-122.0262,48.21095",
   "location_details": "Hwy.530, Turn R. 3 miles E. of Arlington. Jim Creek Road",
-  "temperature_high": 64.97,
-  "temperature_mid": 55.965,
-  "temperature_low": 46.96,
+  "temperature": {
+    "high": 64.97,
+    "mid": 55.965,
+    "low": 46.96
+  },
   "dew_point": 50,
   "humidity": 0.86,
   "cloud_cover": 0.49,

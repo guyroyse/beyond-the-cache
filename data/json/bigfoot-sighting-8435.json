@@ -11,9 +11,11 @@
   "longitude": -92.683,
   "location": "-92.683,45.776",
   "location_details": "About 4 miles north of Grantsburg, WI.",
-  "temperature_high": 46.3,
-  "temperature_mid": 38.805,
-  "temperature_low": 31.31,
+  "temperature": {
+    "high": 46.3,
+    "mid": 38.805,
+    "low": 31.31
+  },
   "dew_point": 32.48,
   "humidity": 0.78,
   "cloud_cover": 0.64,

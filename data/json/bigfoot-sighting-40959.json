@@ -11,9 +11,11 @@
   "longitude": -78.20517,
   "location": "-78.20517,38.98773",
   "location_details": "I saw this on Reliance Road in Middletown, Va.",
-  "temperature_high": 60.54,
-  "temperature_mid": 51.095,
-  "temperature_low": 41.65,
+  "temperature": {
+    "high": 60.54,
+    "mid": 51.095,
+    "low": 41.65
+  },
   "dew_point": 40.59,
   "humidity": 0.73,
   "cloud_cover": 0.48,

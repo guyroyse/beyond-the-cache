@@ -11,9 +11,11 @@
   "longitude": -81.12476,
   "location": "-81.12476,27.97255",
   "location_details": "NNW end of Three Lake Wildlife Management Area Keenansville, Florida Approx. 6 miles west on Williams Rd. then north 2.85 miles on Rd. #1. Road #1 runs parallel with the Florida Turnpike and is approximately 1.25 miles east of the Turnpike at the point of sighting.",
-  "temperature_high": 79.56,
-  "temperature_mid": 74.87,
-  "temperature_low": 70.18,
+  "temperature": {
+    "high": 79.56,
+    "mid": 74.87,
+    "low": 70.18
+  },
   "dew_point": 67.52,
   "humidity": 0.82,
   "cloud_cover": 0.75,

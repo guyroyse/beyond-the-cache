@@ -11,9 +11,11 @@
   "longitude": -110.8403,
   "location": "-110.8403,34.90831",
   "location_details": "JACKS CANYON ABOUT THIRTY MILES SOUTH OF WINSLOW ARIZONA",
-  "temperature_high": 58.36,
-  "temperature_mid": 45.61,
-  "temperature_low": 32.86,
+  "temperature": {
+    "high": 58.36,
+    "mid": 45.61,
+    "low": 32.86
+  },
   "dew_point": 15.72,
   "humidity": 0.45,
   "cloud_cover": 0.09,

@@ -1,0 +1,35 @@
+{
+  "reportId": "10192",
+  "title": "Possible vocalizations and tracks found by hunter on state land near Jay",
+  "date": "2006-06-11",
+  "timestamp": 1149984000,
+  "observed": "I am 51 years old, and have trapped, hunted, fished, and camped all my life. I was scouting for deer sign in the fall on a swampy island that I can only reach by using chest waders.  It was cold, clear early afternoon, and as I walked along near the edge of the island, things got very quiet and I stopped all of a sudden--why I don't know--and I heard what started out as an owl hooting but ended with a monkey type sound. Sort of: \"whooo-whooo-whooo-oo-oo-ahh-ahh\". I only heard it once--and got the distinct feeling that another presence was in the woods beside myself. Owl's have many calls I know, but I thought this was unusual given the time of day and weather being clear.",
+  "classification": "Class B",
+  "county": "Santa Rosa",
+  "state": "Florida",
+  "latitude": 31.00009,
+  "longitude": -87.00008,
+  "location": {
+    "longitude": -87.00008,
+    "latitude": 31.00009
+  },
+  "location_details": "State managed lands, surrounded by hunting club. North Santa Rosa County",
+  "temperature": {
+    "high": 89.99,
+    "mid": 81.43,
+    "low": 72.87
+  },
+  "dew_point": 71.12,
+  "humidity": 0.74,
+  "cloud_cover": 0.3,
+  "moon_phase": 0.49,
+  "precip_intensity": 0.0043,
+  "precip_probability": 0.24,
+  "precip_type": "rain",
+  "pressure": 1011.11,
+  "summary": "Humid throughout the day and partly cloudy starting in the afternoon.",
+  "uv_index": 11,
+  "visibility": 7.95,
+  "wind_bearing": 154,
+  "wind_speed": 5.9
+}

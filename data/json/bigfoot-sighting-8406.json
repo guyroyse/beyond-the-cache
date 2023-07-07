@@ -11,9 +11,11 @@
   "longitude": -81.15622,
   "location": "-81.15622,40.7343",
   "location_details": "My families property is just off of Route 30, northwest of Minerva. By the way on the Cayton report the directions are wrong. Paris Township does not go east of Minerva. I'm not sure if this was just a mistake or if it was done intentionally. You can verify this with a map of Ohio.",
-  "temperature_high": 81.54,
-  "temperature_mid": 73.22,
-  "temperature_low": 64.9,
+  "temperature": {
+    "high": 81.54,
+    "mid": 73.22,
+    "low": 64.9
+  },
   "dew_point": 60.65,
   "humidity": 0.71,
   "cloud_cover": 0.46,

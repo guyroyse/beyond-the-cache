@@ -11,9 +11,11 @@
   "longitude": -121.3819,
   "location": "-121.3819,48.1472",
   "location_details": "On Mount Pugh, which lies between Monte Cristo and Darrington.",
-  "temperature_high": 65.08,
-  "temperature_mid": 57.86,
-  "temperature_low": 50.64,
+  "temperature": {
+    "high": 65.08,
+    "mid": 57.86,
+    "low": 50.64
+  },
   "dew_point": 48.01,
   "humidity": 0.72,
   "cloud_cover": 0.55,

@@ -11,9 +11,11 @@
   "longitude": -105.2526,
   "location": "-105.2526,35.52162",
   "location_details": "It is the Southernmost gas station off of I-25 from Las Vegas, NM.  It is a large service center.",
-  "temperature_high": 51.05,
-  "temperature_mid": 37.665,
-  "temperature_low": 24.28,
+  "temperature": {
+    "high": 51.05,
+    "mid": 37.665,
+    "low": 24.28
+  },
   "dew_point": 21.57,
   "humidity": 0.49,
   "cloud_cover": 0,

@@ -1,0 +1,35 @@
+{
+  "reportId": "1205",
+  "title": "Witness sees a large creature crossing the road",
+  "date": "1998-01-28",
+  "timestamp": 885945600,
+  "observed": "I was traveling early one morning in January, in snowy conditions, when I spotted a large, upright, dark-colored creature just off Rt.55. Very tall, fuzzy looking, with primate features, similar to an ape.",
+  "classification": "Class A",
+  "county": "Pendleton",
+  "state": "West Virginia",
+  "latitude": 38.87813,
+  "longitude": -79.3434,
+  "location": {
+    "longitude": -79.3434,
+    "latitude": 38.87813
+  },
+  "location_details": "The sighting occurred in Pendleton County, West Virginia near Rt. 55 near Seneca resort area.",
+  "temperature": {
+    "high": 43.31,
+    "mid": 37.33,
+    "low": 31.35
+  },
+  "dew_point": 32.99,
+  "humidity": 0.9,
+  "cloud_cover": 0.91,
+  "moon_phase": 0.01,
+  "precip_intensity": 0.0316,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1012.01,
+  "summary": "Mixed precipitation until afternoon.",
+  "uv_index": 1,
+  "visibility": 5.57,
+  "wind_bearing": 6,
+  "wind_speed": 8.64
+}

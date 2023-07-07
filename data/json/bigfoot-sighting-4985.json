@@ -11,9 +11,11 @@
   "longitude": -122.0252,
   "location": "-122.0252,46.5256",
   "location_details": "One mile at the dead end of Cropsey Dr. which is off of Kiona about one mile from the intersection of Savio and Kiona Savio is off of Hiwy 12",
-  "temperature_high": 69.11,
-  "temperature_mid": 58.25,
-  "temperature_low": 47.39,
+  "temperature": {
+    "high": 69.11,
+    "mid": 58.25,
+    "low": 47.39
+  },
   "dew_point": 51.07,
   "humidity": 0.77,
   "cloud_cover": 0.56,

@@ -11,9 +11,11 @@
   "longitude": -79.35755,
   "location": "-79.35755,38.3331",
   "location_details": "There are several campsites. The location was about 1 1/2 miles in.",
-  "temperature_high": 80.8,
-  "temperature_mid": 70.39,
-  "temperature_low": 59.98,
+  "temperature": {
+    "high": 80.8,
+    "mid": 70.39,
+    "low": 59.98
+  },
   "dew_point": 62.33,
   "humidity": 0.78,
   "cloud_cover": 0.48,

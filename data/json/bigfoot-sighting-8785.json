@@ -11,9 +11,11 @@
   "longitude": -80.6616,
   "location": "-80.6616,40.42591",
   "location_details": "North of Steubenville off of State Route 213.",
-  "temperature_high": 76.65,
-  "temperature_mid": 59.465,
-  "temperature_low": 42.28,
+  "temperature": {
+    "high": 76.65,
+    "mid": 59.465,
+    "low": 42.28
+  },
   "dew_point": 57.51,
   "humidity": 0.75,
   "cloud_cover": 0.61,

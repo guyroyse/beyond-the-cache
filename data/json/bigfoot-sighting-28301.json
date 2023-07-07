@@ -11,9 +11,11 @@
   "longitude": -122.2842,
   "location": "-122.2842,46.55354",
   "location_details": "Its litterally just on the edge of town in morton. If you go to morton just go to the graveyard and thats where it was at.",
-  "temperature_high": 56.85,
-  "temperature_mid": 53.37,
-  "temperature_low": 49.89,
+  "temperature": {
+    "high": 56.85,
+    "mid": 53.37,
+    "low": 49.89
+  },
   "dew_point": 42.86,
   "humidity": 0.86,
   "cloud_cover": 0.62,

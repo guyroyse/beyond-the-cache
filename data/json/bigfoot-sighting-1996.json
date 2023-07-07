@@ -11,9 +11,11 @@
   "longitude": -121.0777,
   "location": "-121.0777,47.2842",
   "location_details": "from Cle Elum, drive ten miles northwest on highway 903, then turn west on forest service road 112",
-  "temperature_high": 57.03,
-  "temperature_mid": 53.11,
-  "temperature_low": 49.19,
+  "temperature": {
+    "high": 57.03,
+    "mid": 53.11,
+    "low": 49.19
+  },
   "dew_point": 49.53,
   "humidity": 0.84,
   "cloud_cover": 0.86,

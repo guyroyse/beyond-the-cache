@@ -11,9 +11,11 @@
   "longitude": -82.35606,
   "location": "-82.35606,28.29324",
   "location_details": "Saddlewood neighborhood In the very back edging the well fields.",
-  "temperature_high": 64.13,
-  "temperature_mid": 53.72,
-  "temperature_low": 43.31,
+  "temperature": {
+    "high": 64.13,
+    "mid": 53.72,
+    "low": 43.31
+  },
   "dew_point": 38.86,
   "humidity": 0.65,
   "cloud_cover": 0.06,

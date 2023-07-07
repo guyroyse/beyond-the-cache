@@ -11,9 +11,11 @@
   "longitude": -94.68516,
   "location": "-94.68516,46.73252",
   "location_details": "Near Yucatan Township",
-  "temperature_high": 51.64,
-  "temperature_mid": 44.075,
-  "temperature_low": 36.51,
+  "temperature": {
+    "high": 51.64,
+    "mid": 44.075,
+    "low": 36.51
+  },
   "dew_point": 31.41,
   "humidity": 0.69,
   "cloud_cover": 0.47,

@@ -11,9 +11,11 @@
   "longitude": -83.78585,
   "location": "-83.78585,44.56215",
   "location_details": "55 to f30 then turn on bamfield",
-  "temperature_high": 59.06,
-  "temperature_mid": 52,
-  "temperature_low": 44.94,
+  "temperature": {
+    "high": 59.06,
+    "mid": 52,
+    "low": 44.94
+  },
   "dew_point": 44.96,
   "humidity": 0.8,
   "cloud_cover": 0.49,

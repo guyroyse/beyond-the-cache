@@ -11,9 +11,11 @@
   "longitude": -122.475,
   "location": "-122.475,42.6",
   "location_details": "Go to Butte Falls. Go through town. At the fish hatchery turn onto the Butte Falls - Prospect Highway. Approximately 10 miles north near the side road to Camp Creek.",
-  "temperature_high": 78.1,
-  "temperature_mid": 65.785,
-  "temperature_low": 53.47,
+  "temperature": {
+    "high": 78.1,
+    "mid": 65.785,
+    "low": 53.47
+  },
   "dew_point": 53.15,
   "humidity": 0.62,
   "cloud_cover": 0.26,

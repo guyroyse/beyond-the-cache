@@ -11,9 +11,11 @@
   "longitude": -123.2433,
   "location": "-123.2433,44.6693",
   "location_details": "McDonald-Dunn State forest, west on 99 north of Corvallis, near Peavy Arboretum.",
-  "temperature_high": 67.75,
-  "temperature_mid": 50.82,
-  "temperature_low": 33.89,
+  "temperature": {
+    "high": 67.75,
+    "mid": 50.82,
+    "low": 33.89
+  },
   "dew_point": 34.14,
   "humidity": 0.53,
   "cloud_cover": 0,

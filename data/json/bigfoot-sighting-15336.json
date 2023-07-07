@@ -11,9 +11,11 @@
   "longitude": -112.35,
   "location": "-112.35,38.225",
   "location_details": "remote,wooded area lots of wildlife,nice pleasant summers.winter, cold as hell.streams,ponds,lakes a nice place. Theres a road east out of beaver u travel on for about 12 miles in the forest.then u take a dirt road about 18 miles to lebaron res.",
-  "temperature_high": 87.11,
-  "temperature_mid": 73.83,
-  "temperature_low": 60.55,
+  "temperature": {
+    "high": 87.11,
+    "mid": 73.83,
+    "low": 60.55
+  },
   "dew_point": 45.57,
   "humidity": 0.38,
   "cloud_cover": 0.17,

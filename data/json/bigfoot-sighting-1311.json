@@ -11,9 +11,11 @@
   "longitude": -96.9614,
   "location": "-96.9614,39.1489",
   "location_details": "Milford Lake",
-  "temperature_high": 101.44,
-  "temperature_mid": 86.44,
-  "temperature_low": 71.44,
+  "temperature": {
+    "high": 101.44,
+    "mid": 86.44,
+    "low": 71.44
+  },
   "dew_point": 63.9,
   "humidity": 0.46,
   "cloud_cover": 0.57,

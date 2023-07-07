@@ -11,9 +11,11 @@
   "longitude": -89.6111,
   "location": "-89.6111,30.2464",
   "location_details": "Perlington, Mississippi near Pearl River. Lat/Long: 30:14:47 N 089:36:40 W",
-  "temperature_high": 85.6,
-  "temperature_mid": 80.255,
-  "temperature_low": 74.91,
+  "temperature": {
+    "high": 85.6,
+    "mid": 80.255,
+    "low": 74.91
+  },
   "dew_point": 72.68,
   "humidity": 0.83,
   "cloud_cover": 0.65,

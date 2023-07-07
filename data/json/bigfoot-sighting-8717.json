@@ -11,9 +11,11 @@
   "longitude": -71.9023,
   "location": "-71.9023,42.6688",
   "location_details": "Traveling northerly direction, crossing a swampy area and old train track beds that pass thru New Hampshire north.",
-  "temperature_high": 37.91,
-  "temperature_mid": 28.655,
-  "temperature_low": 19.4,
+  "temperature": {
+    "high": 37.91,
+    "mid": 28.655,
+    "low": 19.4
+  },
   "dew_point": 16.71,
   "humidity": 0.57,
   "cloud_cover": 0.09,

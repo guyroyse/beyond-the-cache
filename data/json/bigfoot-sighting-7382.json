@@ -11,9 +11,11 @@
   "longitude": -122.8294,
   "location": "-122.8294,46.0471",
   "location_details": "Beginner's Hole",
-  "temperature_high": 63.28,
-  "temperature_mid": 58.99,
-  "temperature_low": 54.7,
+  "temperature": {
+    "high": 63.28,
+    "mid": 58.99,
+    "low": 54.7
+  },
   "dew_point": 49.8,
   "humidity": 0.76,
   "cloud_cover": 0.91,

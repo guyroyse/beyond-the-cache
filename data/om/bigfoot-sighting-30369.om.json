@@ -1,0 +1,35 @@
+{
+  "reportId": "30369",
+  "title": "Photo of a possible footprint taken by campers in the Fort Hill Area",
+  "date": "2011-08-08",
+  "timestamp": 1312761600,
+  "observed": "I took my kids camping at our camper and decided to do some sight seeing at a couple of places by the camper.  We went to a place called Fort Hill in search of a stone wall the indians built encasing 40 some acres of forest land.  It has not been touched since then.  While hiking on the paths we seen what looked to be a bigfoot print in the mud on the path that we was on.  It was about half way up a 400' hill we was climbing.  While we was hiking, we heard a big crash that sounded like a tree falling and also had something follow us through the woods for a while.  We never seen anything but could hear twigs breaking and leaves shuffling.  I did take a picture of the print with my daughter's foot next to it.",
+  "classification": "Class B",
+  "county": "Adams",
+  "state": "Ohio",
+  "latitude": 39.11929,
+  "longitude": -83.40022,
+  "location": {
+    "longitude": -83.40022,
+    "latitude": 39.11929
+  },
+  "location_details": "This is a state park in Ohio.  It is off of Rt. 41 between Hillsboro and Peebles.",
+  "temperature": {
+    "high": 87.31,
+    "mid": 78.76,
+    "low": 70.21
+  },
+  "dew_point": 68.04,
+  "humidity": 0.77,
+  "cloud_cover": 0.35,
+  "moon_phase": 0.33,
+  "precip_intensity": 0.0118,
+  "precip_probability": 0.68,
+  "precip_type": "rain",
+  "pressure": 1006.73,
+  "summary": "Rain starting in the evening.",
+  "uv_index": 7,
+  "visibility": 7.82,
+  "wind_bearing": 259,
+  "wind_speed": 3.52
+}

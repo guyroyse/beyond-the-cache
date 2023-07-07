@@ -11,9 +11,11 @@
   "longitude": -80.25475,
   "location": "-80.25475,40.52825",
   "location_details": "A steadily disappearing forested area near Pittsburgh International Airport. Road names withheld at the request of the witness.",
-  "temperature_high": 77.51,
-  "temperature_mid": 66.76,
-  "temperature_low": 56.01,
+  "temperature": {
+    "high": 77.51,
+    "mid": 66.76,
+    "low": 56.01
+  },
   "dew_point": 48.31,
   "humidity": 0.54,
   "cloud_cover": 0.23,

@@ -11,9 +11,11 @@
   "longitude": -108.5417,
   "location": "-108.5417,40.45418",
   "location_details": "Dinosaur National Monument",
-  "temperature_high": 84.2,
-  "temperature_mid": 66.77,
-  "temperature_low": 49.34,
+  "temperature": {
+    "high": 84.2,
+    "mid": 66.77,
+    "low": 49.34
+  },
   "dew_point": 33.69,
   "humidity": 0.33,
   "cloud_cover": 0.06,

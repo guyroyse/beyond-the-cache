@@ -11,9 +11,11 @@
   "longitude": -118.7717,
   "location": "-118.7717,44.7751",
   "location_details": "The place we camped was just off the road, maybe 300 feet. Right at a rock cliff above the creek, the road turns left and splits just above the corner about 2 1/2 miles above the mining ponds that are on the right hand side of the road.",
-  "temperature_high": 91.17,
-  "temperature_mid": 72.785,
-  "temperature_low": 54.4,
+  "temperature": {
+    "high": 91.17,
+    "mid": 72.785,
+    "low": 54.4
+  },
   "dew_point": 46.99,
   "humidity": 0.47,
   "cloud_cover": 0.09,

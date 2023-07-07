@@ -11,9 +11,11 @@
   "longitude": -74.79077,
   "location": "-74.79077,40.89452",
   "location_details": "Waterloo Road, near the Sussex - Warren County border.",
-  "temperature_high": 51.18,
-  "temperature_mid": 49.13,
-  "temperature_low": 47.08,
+  "temperature": {
+    "high": 51.18,
+    "mid": 49.13,
+    "low": 47.08
+  },
   "dew_point": 44.65,
   "humidity": 0.81,
   "cloud_cover": 0.36,

@@ -11,9 +11,11 @@
   "longitude": -84.12485,
   "location": "-84.12485,44.76",
   "location_details": "It was off of a dirt road near F97.",
-  "temperature_high": 73.89,
-  "temperature_mid": 64.99,
-  "temperature_low": 56.09,
+  "temperature": {
+    "high": 73.89,
+    "mid": 64.99,
+    "low": 56.09
+  },
   "dew_point": 51.45,
   "humidity": 0.72,
   "cloud_cover": 0.07,

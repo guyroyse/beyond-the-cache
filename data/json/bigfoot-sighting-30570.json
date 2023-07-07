@@ -11,9 +11,11 @@
   "longitude": -94.52925,
   "location": "-94.52925,33.05685",
   "location_details": "9 miles northeast of hughes springs tx 4 miles west of carterville tx",
-  "temperature_high": 81.03,
-  "temperature_mid": 74.58,
-  "temperature_low": 68.13,
+  "temperature": {
+    "high": 81.03,
+    "mid": 74.58,
+    "low": 68.13
+  },
   "dew_point": 61.73,
   "humidity": 0.79,
   "cloud_cover": 0.13,

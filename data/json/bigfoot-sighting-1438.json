@@ -11,9 +11,11 @@
   "longitude": -121.2692,
   "location": "-121.2692,46.93333",
   "location_details": "On the Bumping Lake Rd, 3/4 of a mile up the trail to American Ridge, near Cougar Flats.",
-  "temperature_high": 52.82,
-  "temperature_mid": 47.925,
-  "temperature_low": 43.03,
+  "temperature": {
+    "high": 52.82,
+    "mid": 47.925,
+    "low": 43.03
+  },
   "dew_point": 41.36,
   "humidity": 0.78,
   "cloud_cover": 0.8,

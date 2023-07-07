@@ -11,9 +11,11 @@
   "longitude": -93.91737,
   "location": "-93.91737,38.46253",
   "location_details": "5 miles east of Urich mo. Around O hwy",
-  "temperature_high": 53.16,
-  "temperature_mid": 42.865,
-  "temperature_low": 32.57,
+  "temperature": {
+    "high": 53.16,
+    "mid": 42.865,
+    "low": 32.57
+  },
   "dew_point": 31.84,
   "humidity": 0.72,
   "cloud_cover": 0.06,

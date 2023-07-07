@@ -11,9 +11,11 @@
   "longitude": -84.36874,
   "location": "-84.36874,39.63662",
   "location_details": "Cherry Street going out of Germantown turns into Diamond Mill Road at Little Twin Road, the fork in the road where Little Twin Road is where the sighting of this huge long haired thing crossing Little Twin Road from Diamond Mill.",
-  "temperature_high": 64.63,
-  "temperature_mid": 49.395,
-  "temperature_low": 34.16,
+  "temperature": {
+    "high": 64.63,
+    "mid": 49.395,
+    "low": 34.16
+  },
   "dew_point": 39.41,
   "humidity": 0.7,
   "cloud_cover": 0.22,

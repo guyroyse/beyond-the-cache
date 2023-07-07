@@ -11,9 +11,11 @@
   "longitude": -83.56467,
   "location": "-83.56467,37.00633",
   "location_details": "Old reclamation stripped mine. Also called pine mountain.",
-  "temperature_high": 42.86,
-  "temperature_mid": 34.265,
-  "temperature_low": 25.67,
+  "temperature": {
+    "high": 42.86,
+    "mid": 34.265,
+    "low": 25.67
+  },
   "dew_point": 9.18,
   "humidity": 0.52,
   "cloud_cover": 0.02,

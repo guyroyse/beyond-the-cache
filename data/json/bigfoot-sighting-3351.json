@@ -11,9 +11,11 @@
   "longitude": -84.06565,
   "location": "-84.06565,40.73412",
   "location_details": "Lima, Ohio, Lost Creek Golf Course",
-  "temperature_high": 37.61,
-  "temperature_mid": 32.77,
-  "temperature_low": 27.93,
+  "temperature": {
+    "high": 37.61,
+    "mid": 32.77,
+    "low": 27.93
+  },
   "dew_point": 27.91,
   "humidity": 0.77,
   "cloud_cover": 0.94,

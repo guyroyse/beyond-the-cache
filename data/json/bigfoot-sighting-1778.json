@@ -11,9 +11,11 @@
   "longitude": -122.0833,
   "location": "-122.0833,43.5883",
   "location_details": "It was near the Diamond Peak Wilderness area maybe within five miles near it; we were about five or six thousand feet in elevation.",
-  "temperature_high": 74.97,
-  "temperature_mid": 65.245,
-  "temperature_low": 55.52,
+  "temperature": {
+    "high": 74.97,
+    "mid": 65.245,
+    "low": 55.52
+  },
   "dew_point": 51.86,
   "humidity": 0.73,
   "cloud_cover": 0.59,

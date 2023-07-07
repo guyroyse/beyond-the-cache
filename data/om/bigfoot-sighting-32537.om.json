@@ -1,0 +1,34 @@
+{
+  "reportId": "32537",
+  "title": "Nighttime road crossing seen by a couple near Sale Creek",
+  "date": "2011-09-09",
+  "timestamp": 1315526400,
+  "observed": "My husband and I were on our way home last fall and we saw what can only be described as a bigfoot walk across the road in front of us. It was a cold rainy night and we were on the back roads to our house and we rounded a curve and our head light hit it. It was in the middle of the road and then it just took one step and it was off the road. It was brownish grey in color and it was wet with rain looked like a long hair dog when wet. My husband and I looked at each other and said did you see that?",
+  "classification": "Class A",
+  "county": "Hamilton",
+  "state": "Tennessee",
+  "latitude": 35.30146,
+  "longitude": -85.07263,
+  "location": {
+    "longitude": -85.07263,
+    "latitude": 35.30146
+  },
+  "location_details": "Off of Hwy 27 north on Lee Pike going north where you get to fields on either side of the road.",
+  "temperature": {
+    "high": 74.72,
+    "mid": 63.625,
+    "low": 52.53
+  },
+  "dew_point": 55.66,
+  "humidity": 0.75,
+  "cloud_cover": 0.49,
+  "moon_phase": 0.42,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1014.26,
+  "summary": "Partly cloudy until evening.",
+  "uv_index": 6,
+  "visibility": 9.28,
+  "wind_bearing": 274,
+  "wind_speed": 2.64
+}

@@ -11,9 +11,11 @@
   "longitude": -80.3616,
   "location": "-80.3616,37.9937",
   "location_details": "North from  Lewisburg, WV Interstate-64 exit, take 219 north about 17 miles. Near the town of Renick, WV",
-  "temperature_high": 77.81,
-  "temperature_mid": 70.97,
-  "temperature_low": 64.13,
+  "temperature": {
+    "high": 77.81,
+    "mid": 70.97,
+    "low": 64.13
+  },
   "dew_point": 64.27,
   "humidity": 0.82,
   "cloud_cover": 0.41,

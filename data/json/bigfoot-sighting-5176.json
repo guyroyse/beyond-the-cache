@@ -11,9 +11,11 @@
   "longitude": -121.9191,
   "location": "-121.9191,46.0969",
   "location_details": "Skookum Meadows area, Big Creek",
-  "temperature_high": 63.1,
-  "temperature_mid": 57.39,
-  "temperature_low": 51.68,
+  "temperature": {
+    "high": 63.1,
+    "mid": 57.39,
+    "low": 51.68
+  },
   "dew_point": 53.06,
   "humidity": 0.84,
   "cloud_cover": 0.82,

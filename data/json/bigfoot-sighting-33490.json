@@ -11,9 +11,11 @@
   "longitude": -94.20245,
   "location": "-94.20245,42.6766",
   "location_details": "Gotch Park. Please don't put the exact location down. I don't want anyone to hurt him.",
-  "temperature_high": 44.13,
-  "temperature_mid": 37.75,
-  "temperature_low": 31.37,
+  "temperature": {
+    "high": 44.13,
+    "mid": 37.75,
+    "low": 31.37
+  },
   "dew_point": 32.63,
   "humidity": 0.87,
   "cloud_cover": 0.13,

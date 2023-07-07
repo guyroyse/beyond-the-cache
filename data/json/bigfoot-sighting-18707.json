@@ -11,9 +11,11 @@
   "longitude": -84.1293,
   "location": "-84.1293,31.43265",
   "location_details": "#1-Heading North from ALBANY GEORGIA on Hwy 19 turn left on century rd. then turn right on cypress point, six houses down on the left. #2-Heading north on Hwy 19 from Albany Georgia, turn left on Hwy 32 then stop at bridge and head up the creek.",
-  "temperature_high": 96.72,
-  "temperature_mid": 86.355,
-  "temperature_low": 75.99,
+  "temperature": {
+    "high": 96.72,
+    "mid": 86.355,
+    "low": 75.99
+  },
   "dew_point": 72.23,
   "humidity": 0.67,
   "cloud_cover": 0.31,

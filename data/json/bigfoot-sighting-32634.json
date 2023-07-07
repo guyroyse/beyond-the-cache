@@ -11,9 +11,11 @@
   "longitude": -89.6845,
   "location": "-89.6845,39.62",
   "location_details": "Two miles west of Glenarm.",
-  "temperature_high": 80.87,
-  "temperature_mid": 69.8,
-  "temperature_low": 58.73,
+  "temperature": {
+    "high": 80.87,
+    "mid": 69.8,
+    "low": 58.73
+  },
   "dew_point": 60.56,
   "humidity": 0.68,
   "cloud_cover": 0.06,

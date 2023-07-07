@@ -11,9 +11,11 @@
   "longitude": -84.10435,
   "location": "-84.10435,37.75745",
   "location_details": "The location was just off Flint Rd. in Waco, Ky. My second encounter was also in Waco.",
-  "temperature_high": 76.42,
-  "temperature_mid": 70.03,
-  "temperature_low": 63.64,
+  "temperature": {
+    "high": 76.42,
+    "mid": 70.03,
+    "low": 63.64
+  },
   "dew_point": 46.88,
   "humidity": 0.56,
   "cloud_cover": 0.46,

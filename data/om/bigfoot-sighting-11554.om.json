@@ -1,0 +1,34 @@
+{
+  "reportId": "11554",
+  "title": "Two neighbors hear mournful screams from nearby Nason Ridge",
+  "date": "2004-08-11",
+  "timestamp": 1092182400,
+  "observed": "I'm sorry to say I don't have a very exciting report.  Last summer when I was out at our cabin with our boys, I heard this really weird \"yelling\" from the ridge in back of our house.  Our cabin boarders the National Forest, so it gets pretty dense back there.  It was very late at night, and I was alone with the kids that night so I didn't tell them (I didn't want to spook them).  At first I thought it was some teenagers partying up on the forest service road, but that would be impossible to hear, really, and it wasn't like that at all. The \"yells\" went on for a long time. They sounded, perhaps, 1/2 mile away? I was actually pretty scared.  There are quite a few houses up at our place, but almost noone is there but me and boys on week days. Also, a few weeks before my neighbor who is a hunter and such heard \"screaming\" from closer in to his place.  Just thought I'd let you know.",
+  "classification": "Class B",
+  "county": "Chelan",
+  "state": "Washington",
+  "latitude": 47.775,
+  "longitude": -120.715,
+  "location": {
+    "longitude": -120.715,
+    "latitude": 47.775
+  },
+  "location_details": "Our cabin boarders National Forest.  If you head over Steven's Pass until Cole's Corner and turn left towards Lake Wenatchee/Fish Lake, our place is off of Conard Road.  The sound was coming from Nason Ridge, above us and it sounded far away.  When I went to your website and played the calls, it sounded just like that so I thought I would log this in.  I guess you can post this on the web, but not my name because I have friends who might think I'm nuts if they see this.  You should really try and contact my neighbor who heard lots of noise one night which really freaked him out.  He is an elk hunter and such.  Although I am not a hunter, I have spent lots of time outside and have heard cougars and bears and stuff, and this was not that.",
+  "temperature": {
+    "high": 88.45,
+    "mid": 75.785,
+    "low": 63.12
+  },
+  "dew_point": 54.81,
+  "humidity": 0.51,
+  "cloud_cover": 0.06,
+  "moon_phase": 0.87,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1017.1,
+  "summary": "Clear throughout the day.",
+  "uv_index": 7,
+  "visibility": 9.4,
+  "wind_bearing": 330,
+  "wind_speed": 3.54
+}

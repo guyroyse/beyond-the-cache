@@ -11,9 +11,11 @@
   "longitude": -98.42924,
   "location": "-98.42924,37.56279",
   "location_details": "THIS WAS APPROXIMATLEY 5 MILES EAST OF Pratt Walmart on the south side of the road crossing the dirt road.",
-  "temperature_high": 102.26,
-  "temperature_mid": 88.38,
-  "temperature_low": 74.5,
+  "temperature": {
+    "high": 102.26,
+    "mid": 88.38,
+    "low": 74.5
+  },
   "dew_point": 57.78,
   "humidity": 0.37,
   "cloud_cover": 0.04,

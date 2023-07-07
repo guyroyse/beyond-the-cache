@@ -11,9 +11,11 @@
   "longitude": -88.68,
   "location": "-88.68,43.425",
   "location_details": "The Horicon Marsh is a huge area with many side roads leading to it, county trunk is just east of Waupun, has several roads into the marsh.",
-  "temperature_high": 64.67,
-  "temperature_mid": 54.575,
-  "temperature_low": 44.48,
+  "temperature": {
+    "high": 64.67,
+    "mid": 54.575,
+    "low": 44.48
+  },
   "dew_point": 45.68,
   "humidity": 0.73,
   "cloud_cover": 0.49,

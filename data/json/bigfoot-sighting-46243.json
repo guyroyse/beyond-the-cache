@@ -11,9 +11,11 @@
   "longitude": -111.7141,
   "location": "-111.7141,35.30685",
   "location_details": "Halfway up Snowbowl Rd., before reaching the Arizona Snowbowl chairlifts.",
-  "temperature_high": 86.3,
-  "temperature_mid": 73.47,
-  "temperature_low": 60.64,
+  "temperature": {
+    "high": 86.3,
+    "mid": 73.47,
+    "low": 60.64
+  },
   "dew_point": 44.52,
   "humidity": 0.38,
   "cloud_cover": 0.07,

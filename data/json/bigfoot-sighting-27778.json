@@ -11,9 +11,11 @@
   "longitude": -81.80539,
   "location": "-81.80539,29.22079",
   "location_details": "Can't remember; I wasn't driving, and it was at night when we got to the campground.",
-  "temperature_high": 75.37,
-  "temperature_mid": 68.395,
-  "temperature_low": 61.42,
+  "temperature": {
+    "high": 75.37,
+    "mid": 68.395,
+    "low": 61.42
+  },
   "dew_point": 58.24,
   "humidity": 0.81,
   "cloud_cover": 0.84,

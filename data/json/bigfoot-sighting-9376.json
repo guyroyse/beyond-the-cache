@@ -11,9 +11,11 @@
   "longitude": -97.5625,
   "location": "-97.5625,35.24194",
   "location_details": "Various ponds and fresh water creeks in the area. The Canadian River is close by.",
-  "temperature_high": 84,
-  "temperature_mid": 70.6,
-  "temperature_low": 57.2,
+  "temperature": {
+    "high": 84,
+    "mid": 70.6,
+    "low": 57.2
+  },
   "dew_point": 59.65,
   "humidity": 0.67,
   "cloud_cover": 0.36,

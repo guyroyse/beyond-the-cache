@@ -11,9 +11,11 @@
   "longitude": -81.64948,
   "location": "-81.64948,26.03808",
   "location_details": "We started in the back yard then walked a few blocks to the edge of the woods.",
-  "temperature_high": 81.48,
-  "temperature_mid": 72.015,
-  "temperature_low": 62.55,
+  "temperature": {
+    "high": 81.48,
+    "mid": 72.015,
+    "low": 62.55
+  },
   "dew_point": 58.69,
   "humidity": 0.65,
   "cloud_cover": 0.16,

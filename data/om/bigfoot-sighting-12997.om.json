@@ -1,0 +1,35 @@
+{
+  "reportId": "12997",
+  "title": "Possible vocalizations at Kulshan Campground on Baker Lake",
+  "date": "2005-12-03",
+  "timestamp": 1133568000,
+  "observed": "Was out camping with a bunch of friends at a campground at Baker Lake near the dam. I was in a small tent in the middle of the campground with lots of camper travel trailers surrounding me. For some reason I woke up in the middle of the night and layed there trying to get back to sleep. I started hearing distant yelping sounds like the Snohomish sounds I've heard before. I also heard a lot of the camper's dogs barking. So I listened to both for a while to distinguish one from the other and make sure I wasn't just hearing the dogs. I could tell they were two distinctive sounds and not related. I listened for quite a while (hour or so) because it was so interesting. The sounds were forceful but didn't sound like they were terribly close so I wasn't scared of the tent shaking and getting a visitor. The yelping would stop then I would hear loud vocalizations like a couple of them were speaking to each other. Can't remember those sounds exactly, but thought it was very cool to be hearing these noises. Wish I had my PDA fired up at that time. Did hear some rocks being thrown around in the woods too. Didn't think it was any of the other campers because they were pretty much all drunk and sleeping by that time. Didn't see anything.",
+  "classification": "Class B",
+  "county": "Whatcom",
+  "state": "Washington",
+  "latitude": 48.66175,
+  "longitude": -121.3685,
+  "location": {
+    "longitude": -121.3685,
+    "latitude": 48.66175
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 33.72,
+    "mid": 30.765,
+    "low": 27.81
+  },
+  "dew_point": 26.34,
+  "humidity": 0.83,
+  "cloud_cover": 0.82,
+  "moon_phase": 0.08,
+  "precip_intensity": 0.0018,
+  "precip_probability": 0.86,
+  "precip_type": "snow",
+  "pressure": 1020.96,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 7.54,
+  "wind_bearing": 89,
+  "wind_speed": 2.26
+}

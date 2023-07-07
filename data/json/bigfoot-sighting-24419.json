@@ -11,9 +11,11 @@
   "longitude": -87.4769,
   "location": "-87.4769,36.1124",
   "location_details": "Ruskin Cave & Jewel Cave grounds. Both up on top of the \"mountain\" over the cave and down underneath on the flat property.",
-  "temperature_high": 86.1,
-  "temperature_mid": 79.28,
-  "temperature_low": 72.46,
+  "temperature": {
+    "high": 86.1,
+    "mid": 79.28,
+    "low": 72.46
+  },
   "dew_point": 71.9,
   "humidity": 0.82,
   "cloud_cover": 0.56,

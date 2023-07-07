@@ -11,9 +11,11 @@
   "longitude": -121.6321,
   "location": "-121.6321,46.99857",
   "location_details": "I was camped in Mt. Baker - Snoqualimie National Forest along a spur off FS 73 on a ridge flanked by Huckleberry Creek to the E. and Eleanor Creek to the W., just north of Mt. Rainier National Park: about 47.00 degrees N., 121.632 degrees W.",
-  "temperature_high": 79.05,
-  "temperature_mid": 64.18,
-  "temperature_low": 49.31,
+  "temperature": {
+    "high": 79.05,
+    "mid": 64.18,
+    "low": 49.31
+  },
   "dew_point": 46.69,
   "humidity": 0.6,
   "cloud_cover": 0,

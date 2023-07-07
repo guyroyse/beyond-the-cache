@@ -11,9 +11,11 @@
   "longitude": -119.0802,
   "location": "-119.0802,48.71545",
   "location_details": "Off of Hwy 20 between Tonasket and Republic",
-  "temperature_high": 65.5,
-  "temperature_mid": 54.09,
-  "temperature_low": 42.68,
+  "temperature": {
+    "high": 65.5,
+    "mid": 54.09,
+    "low": 42.68
+  },
   "dew_point": 42.83,
   "humidity": 0.66,
   "cloud_cover": 0.47,

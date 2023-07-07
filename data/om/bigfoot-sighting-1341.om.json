@@ -1,0 +1,35 @@
+{
+  "reportId": "1341",
+  "title": "Family witness a large, hair covered creature eating food from their garden.",
+  "date": "1975-07-01",
+  "timestamp": 173404800,
+  "observed": "I lived in Mississippi when I was a child. I was about six years old when this occurred. I was asleep in my bedroom one night on the second floor of our home when the neighbor's dog began barking wildly at something in the yard. It made such   that my siblings and I finally got out of bed to see what the commotion was all about. Looking down from our window we saw something in the garden which was right next to the house. There was only natural light, but the thing was only about twenty or thirty feet away and I can still remember it vividly. It was squatting down eating the vegetables from the plants there. I could even hear it eating from where I stood. A moment later we all screamed in surprise and shock at what we saw. It looked up  at us and kept right on eating. I remember that, by its mannerism, it had no fear of us what-so-ever and made no attempt to leave the area or hide in any way. What I remember was a creature that was built like a human being. I can't say exactly  how big it was, but I know it was bigger than the average person. It was covered all over with dark, shaggy, brown hair and when it  looked up at us as we stood in the window its eyes glowed white in the darkness. Eventually my Grandfather woke up and saw it,  too. He went out the side door with his gun and fired up into the air. We continued to watch out of the window and then saw the creature stand up and run off on two legs into the woods toward the river. I remember it ran so fast that I could hardly believe  it. The next morning we found very large human-like footprints in the garden. I had never seen anything like that before and never  have since.",
+  "classification": "Class A",
+  "county": "Hancock",
+  "state": "Mississippi",
+  "latitude": 30.2464,
+  "longitude": -89.6111,
+  "location": {
+    "longitude": -89.6111,
+    "latitude": 30.2464
+  },
+  "location_details": "Perlington, Mississippi near Pearl River. Lat/Long: 30:14:47 N 089:36:40 W",
+  "temperature": {
+    "high": 85.6,
+    "mid": 80.255,
+    "low": 74.91
+  },
+  "dew_point": 72.68,
+  "humidity": 0.83,
+  "cloud_cover": 0.65,
+  "moon_phase": 0.75,
+  "precip_intensity": 0.0017,
+  "precip_probability": 0.6,
+  "precip_type": "rain",
+  "pressure": 1017.53,
+  "summary": "Humid and mostly cloudy throughout the day.",
+  "uv_index": 8,
+  "visibility": 6.66,
+  "wind_bearing": 92,
+  "wind_speed": 6.21
+}

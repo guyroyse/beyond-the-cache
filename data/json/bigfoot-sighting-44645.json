@@ -11,9 +11,11 @@
   "longitude": -87.869,
   "location": "-87.869,38.893",
   "location_details": "Spencer's Bridge road south of the Embarras River.",
-  "temperature_high": 61.53,
-  "temperature_mid": 52.58,
-  "temperature_low": 43.63,
+  "temperature": {
+    "high": 61.53,
+    "mid": 52.58,
+    "low": 43.63
+  },
   "dew_point": 30.13,
   "humidity": 0.63,
   "cloud_cover": 0,

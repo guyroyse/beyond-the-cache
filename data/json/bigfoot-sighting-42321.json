@@ -11,9 +11,11 @@
   "longitude": -80.585,
   "location": "-80.585,40.29",
   "location_details": "This area like I said was strip mined and reclaimed years later. There is a road that leads up to it where there is fields, not sure what is in there today. I'm not sure if the trail or paths are still there but I'm sure the high wall that goes around it is. The second time we were on a path leading up into the woods, just at the crest of the hill is where we heard the noises.",
-  "temperature_high": 77.74,
-  "temperature_mid": 68.59,
-  "temperature_low": 59.44,
+  "temperature": {
+    "high": 77.74,
+    "mid": 68.59,
+    "low": 59.44
+  },
   "dew_point": 55.72,
   "humidity": 0.71,
   "cloud_cover": 0.59,

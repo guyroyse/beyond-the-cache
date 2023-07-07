@@ -11,9 +11,11 @@
   "longitude": -119.2569,
   "location": "-119.2569,37.91111",
   "location_details": "Approx. 2-5 miles after the upper river campsite at the first sharp 90 degree turn.",
-  "temperature_high": 90.07,
-  "temperature_mid": 75.925,
-  "temperature_low": 61.78,
+  "temperature": {
+    "high": 90.07,
+    "mid": 75.925,
+    "low": 61.78
+  },
   "dew_point": 50.06,
   "humidity": 0.47,
   "cloud_cover": 0.01,

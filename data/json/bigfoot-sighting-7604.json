@@ -11,9 +11,11 @@
   "longitude": -95.58334,
   "location": "-95.58334,30.95972",
   "location_details": "Hwy 19 in Trinity to FM 230 to Eastham prison to property across the road.",
-  "temperature_high": 58.21,
-  "temperature_mid": 45.865,
-  "temperature_low": 33.52,
+  "temperature": {
+    "high": 58.21,
+    "mid": 45.865,
+    "low": 33.52
+  },
   "dew_point": 39.38,
   "humidity": 0.72,
   "cloud_cover": 0.3,

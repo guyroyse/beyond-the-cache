@@ -1,0 +1,35 @@
+{
+  "reportId": "27522",
+  "title": "Daylight sighting of a large bipedal animal near Sunbright",
+  "date": "2009-12-14",
+  "timestamp": 1260748800,
+  "observed": "Saw a large brown/black mostly black animal in the middle of the woods and it stood about 7-7 1/2 ft tall and we did not hear it but it just sneaked up on us and made me feel like the prey insted of the hunter. As it got within 75 yards it stopped and turned forty five degrees to the left and went through a hollow and walking out of sight.  We were amazed and tried to track it.",
+  "classification": "Class A",
+  "county": "Morgan",
+  "state": "Tennessee",
+  "latitude": 36.19746,
+  "longitude": -84.66167,
+  "location": {
+    "longitude": -84.66167,
+    "latitude": 36.19746
+  },
+  "location_details": "Do not remember,  but a pull off close to 27 at a pull off near the south end of the county.",
+  "temperature": {
+    "high": 61.12,
+    "mid": 55.145,
+    "low": 49.17
+  },
+  "dew_point": 48.92,
+  "humidity": 0.9,
+  "cloud_cover": 0.82,
+  "moon_phase": 0.95,
+  "precip_intensity": 0.0005,
+  "precip_probability": 0.24,
+  "precip_type": "rain",
+  "pressure": 1017.46,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 6.75,
+  "wind_bearing": 203,
+  "wind_speed": 4.55
+}

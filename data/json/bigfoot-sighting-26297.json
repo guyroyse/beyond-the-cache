@@ -11,9 +11,11 @@
   "longitude": -109.11,
   "location": "-109.11,36.225",
   "location_details": "At Wheatfields Lake camping ground.",
-  "temperature_high": 87.29,
-  "temperature_mid": 72.535,
-  "temperature_low": 57.78,
+  "temperature": {
+    "high": 87.29,
+    "mid": 72.535,
+    "low": 57.78
+  },
   "dew_point": 48.31,
   "humidity": 0.48,
   "cloud_cover": 0.15,

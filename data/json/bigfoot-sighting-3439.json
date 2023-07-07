@@ -11,9 +11,11 @@
   "longitude": -80.7704,
   "location": "-80.7704,36.09945",
   "location_details": "Take I-77 to US 421 S. in Hamptonville Get off at the Asbury Church Road Exit, turn right. Go straight through the intersection. (This is Asbury Church Road).  Turn onto the first road on the left (not sure of the name of this road...maybe Flat Rock Church Road).  Go to the end of this road, passing Flat Rock Baptist Church on the left.  At the end of this road, take a right.  I think that this road is called Hamptonville Road.  Go about 2 to 3 tenths of a mile.  On the right, there is a very small wooden house sitting down in the middle of what looks like a field.  This is where the sighting occurred.",
-  "temperature_high": 69.58,
-  "temperature_mid": 67.79,
-  "temperature_low": 66,
+  "temperature": {
+    "high": 69.58,
+    "mid": 67.79,
+    "low": 66
+  },
   "dew_point": 65.95,
   "humidity": 0.94,
   "cloud_cover": 1,

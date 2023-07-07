@@ -1,0 +1,35 @@
+{
+  "reportId": "40177",
+  "title": "Early morning road crossing north of Branson",
+  "date": "2013-10-15",
+  "timestamp": 1381795200,
+  "observed": "I was driving to work on Hwy 248 north of Branson MO traveling south on the road.  I came around a corner and was a good distance from the vehicle in front of me, approx 200 yards or so. And a Bigfoot crossed the road between us.  It was early morning so it was still dark and I saw it in the headlights of my jeep.  It crossed the road from left to right in front of me in maybe three or four steps.  It was taller than the truck that was in front of me, later as I caught up to the truck I found out t was a full size Chevy 1500.  The Bigfoot was upright on two legs and was brownish, grayish in color.  It disappeared off the right side of the road up a hill into the brush.",
+  "classification": "Class A",
+  "county": "Taney",
+  "state": "Missouri",
+  "latitude": 36.39835,
+  "longitude": -93.14626,
+  "location": {
+    "longitude": -93.14626,
+    "latitude": 36.39835
+  },
+  "location_details": "Take hwy 248 north out of Branson approx 3-4 miles",
+  "temperature": {
+    "high": 63.79,
+    "mid": 54.425,
+    "low": 45.06
+  },
+  "dew_point": 57.64,
+  "humidity": 0.89,
+  "cloud_cover": 0.11,
+  "moon_phase": 0.39,
+  "precip_intensity": 0.0058,
+  "precip_probability": 0.52,
+  "precip_type": "rain",
+  "pressure": 1014.64,
+  "summary": "Light rain in the morning.",
+  "uv_index": 4,
+  "visibility": 8.05,
+  "wind_bearing": 274,
+  "wind_speed": 1.45
+}

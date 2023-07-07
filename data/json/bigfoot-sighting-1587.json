@@ -11,9 +11,11 @@
   "longitude": -122.6869,
   "location": "-122.6869,46.94913",
   "location_details": "Fort Lewis, in an area known as the South Rainier Training Area adjacent to two lakes known as Cat Lake and Fiander Lake.",
-  "temperature_high": 69.89,
-  "temperature_mid": 57.55,
-  "temperature_low": 45.21,
+  "temperature": {
+    "high": 69.89,
+    "mid": 57.55,
+    "low": 45.21
+  },
   "dew_point": 49.43,
   "humidity": 0.74,
   "cloud_cover": 0.73,

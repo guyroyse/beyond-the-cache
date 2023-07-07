@@ -11,9 +11,11 @@
   "longitude": -121.6769,
   "location": "-121.6769,48.21167",
   "location_details": "Near White Horse Mt.",
-  "temperature_high": 61.66,
-  "temperature_mid": 54.88,
-  "temperature_low": 48.1,
+  "temperature": {
+    "high": 61.66,
+    "mid": 54.88,
+    "low": 48.1
+  },
   "dew_point": 39.73,
   "humidity": 0.66,
   "cloud_cover": 0.36,

@@ -11,9 +11,11 @@
   "longitude": -122.6869,
   "location": "-122.6869,46.94917",
   "location_details": "Ft. Lewis, escape and evasion training area.",
-  "temperature_high": 93.9,
-  "temperature_mid": 75.605,
-  "temperature_low": 57.31,
+  "temperature": {
+    "high": 93.9,
+    "mid": 75.605,
+    "low": 57.31
+  },
   "dew_point": 53.03,
   "humidity": 0.51,
   "cloud_cover": 0.14,

@@ -11,9 +11,11 @@
   "longitude": -121.725,
   "location": "-121.725,47.41",
   "location_details": "Park at Rattlesnake Lake and walk north across the street to the Seattle watershed road. Except its a no trespass. Its the Chester Morise watershed.",
-  "temperature_high": 66.2,
-  "temperature_mid": 58.015,
-  "temperature_low": 49.83,
+  "temperature": {
+    "high": 66.2,
+    "mid": 58.015,
+    "low": 49.83
+  },
   "dew_point": 49.98,
   "humidity": 0.77,
   "cloud_cover": 0.69,

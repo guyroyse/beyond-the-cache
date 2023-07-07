@@ -11,9 +11,11 @@
   "longitude": -82.4831,
   "location": "-82.4831,35.36",
   "location_details": "My apartment complex is located on the side of a small mountain in Henderson county, on the outskirts of Hendersonville.  There are a lot of woods in the area and some houses and other apartment buildings.  My building is small (six units)and situated by itself.  There is a steep hill directly behind my building and directly in front of it. The building itself sits on a \"lip\" on the side of the mountain.",
-  "temperature_high": 32.65,
-  "temperature_mid": 22.615,
-  "temperature_low": 12.58,
+  "temperature": {
+    "high": 32.65,
+    "mid": 22.615,
+    "low": 12.58
+  },
   "dew_point": 21.91,
   "humidity": 0.75,
   "cloud_cover": 0.89,

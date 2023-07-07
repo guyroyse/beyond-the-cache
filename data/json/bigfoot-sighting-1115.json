@@ -11,9 +11,11 @@
   "longitude": -91.6284,
   "location": "-91.6284,38.441",
   "location_details": "Near Mt Sterling, Missouri. We lived about two miles from Highway 50.",
-  "temperature_high": 92.86,
-  "temperature_mid": 82.375,
-  "temperature_low": 71.89,
+  "temperature": {
+    "high": 92.86,
+    "mid": 82.375,
+    "low": 71.89
+  },
   "dew_point": 66.58,
   "humidity": 0.66,
   "cloud_cover": 0.48,

@@ -11,9 +11,11 @@
   "longitude": -81.45354,
   "location": "-81.45354,28.80455",
   "location_details": "SR 46 west. The park is south of SR 46 just past the Wekiwa River and north of the main Wekiwa River State Park. Trail is on the west side of the main park road approximately 1/4 mile past the main gate.",
-  "temperature_high": 80.24,
-  "temperature_mid": 73.54,
-  "temperature_low": 66.84,
+  "temperature": {
+    "high": 80.24,
+    "mid": 73.54,
+    "low": 66.84
+  },
   "dew_point": 60.73,
   "humidity": 0.72,
   "cloud_cover": 0.37,

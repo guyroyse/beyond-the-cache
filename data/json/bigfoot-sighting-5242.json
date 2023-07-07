@@ -11,9 +11,11 @@
   "longitude": -121.5684,
   "location": "-121.5684,45.25725",
   "location_details": "Feel free to contact me about directions, it is an area I have spent a great amount of time in. This is a high mountain area just about 2-3 ridges east of Mount Hood itself. It is fairly verticle in nature and there are plenty of wild berries in the fall and lot's of natural spings and lakes in the are. My father has since the seen some form of tracks that he say's must be bigfoot no more thatn 5 miles (ATCF) from where my incident occured.",
-  "temperature_high": 63.95,
-  "temperature_mid": 56.465,
-  "temperature_low": 48.98,
+  "temperature": {
+    "high": 63.95,
+    "mid": 56.465,
+    "low": 48.98
+  },
   "dew_point": 50.1,
   "humidity": 0.78,
   "cloud_cover": 0.72,

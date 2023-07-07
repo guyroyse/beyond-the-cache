@@ -11,9 +11,11 @@
   "longitude": -121.4642,
   "location": "-121.4642,47.01278",
   "location_details": "Corral Pass, (just before Crystal Mt. Ski Resort), near the top of the pass.",
-  "temperature_high": 46.67,
-  "temperature_mid": 43.305,
-  "temperature_low": 39.94,
+  "temperature": {
+    "high": 46.67,
+    "mid": 43.305,
+    "low": 39.94
+  },
   "dew_point": 40.65,
   "humidity": 0.91,
   "cloud_cover": 0.78,

@@ -11,9 +11,11 @@
   "longitude": -123.3958,
   "location": "-123.3958,47.2055",
   "location_details": "Coming from Highway 101 take Matlock exit,  take a left before the store on a dirt road, go past a house that has solar panels on top, go about 1-2 miles and take a left on the road that goes down towards Bingham Creek.",
-  "temperature_high": 57.03,
-  "temperature_mid": 41.67,
-  "temperature_low": 26.31,
+  "temperature": {
+    "high": 57.03,
+    "mid": 41.67,
+    "low": 26.31
+  },
   "dew_point": 24.12,
   "humidity": 0.55,
   "cloud_cover": 0,

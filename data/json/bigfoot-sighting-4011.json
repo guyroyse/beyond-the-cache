@@ -11,9 +11,11 @@
   "longitude": -91.8043,
   "location": "-91.8043,42.7525",
   "location_details": "1/2mi so. intersection W-33 &Hwy 187 on county road W-33",
-  "temperature_high": 43.22,
-  "temperature_mid": 43.22,
-  "temperature_low": 43.22,
+  "temperature": {
+    "high": 43.22,
+    "mid": 43.22,
+    "low": 43.22
+  },
   "dew_point": 36.09,
   "humidity": 0.96,
   "cloud_cover": 0.99,

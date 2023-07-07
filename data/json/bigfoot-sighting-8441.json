@@ -11,9 +11,11 @@
   "longitude": -94.85,
   "location": "-94.85,30.26667",
   "location_details": "20 or 25 minutes outside of Cleveland Texas on State Highway 105.  Approaching the Trinity River Bridge crossings.  We were headed east on the highway at the time.",
-  "temperature_high": 80.59,
-  "temperature_mid": 70.67,
-  "temperature_low": 60.75,
+  "temperature": {
+    "high": 80.59,
+    "mid": 70.67,
+    "low": 60.75
+  },
   "dew_point": 57.62,
   "humidity": 0.67,
   "cloud_cover": 0.03,

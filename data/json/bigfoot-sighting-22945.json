@@ -11,9 +11,11 @@
   "longitude": -90.59601,
   "location": "-90.59601,41.65225",
   "location_details": "Eldridge Iowa is 10 miles north of Davenport,Iowa. found tracks at the corner of 5th st and donahue ave. hear the scream on the street directly behind and west of North Scott Jr High School.",
-  "temperature_high": 10.33,
-  "temperature_mid": 3.22,
-  "temperature_low": -3.89,
+  "temperature": {
+    "high": 10.33,
+    "mid": 3.22,
+    "low": -3.89
+  },
   "dew_point": -7.38,
   "humidity": 0.59,
   "cloud_cover": 0.06,

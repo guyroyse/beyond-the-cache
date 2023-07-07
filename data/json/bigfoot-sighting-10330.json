@@ -11,9 +11,11 @@
   "longitude": -83.51394,
   "location": "-83.51394,39.96627",
   "location_details": "RIGHT AT THE CLARK AND MADISON COUNTY LINE.STATE RT.56 AND HOUSTON PIKE .THE CREEK IS A FEEDER CREEK THAT FLOWS INTO LAKE CHOCTAW.",
-  "temperature_high": 33.49,
-  "temperature_mid": 31.215,
-  "temperature_low": 28.94,
+  "temperature": {
+    "high": 33.49,
+    "mid": 31.215,
+    "low": 28.94
+  },
   "dew_point": 22.99,
   "humidity": 0.85,
   "cloud_cover": 0.99,

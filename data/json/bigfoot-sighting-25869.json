@@ -11,9 +11,11 @@
   "longitude": -86.93636,
   "location": "-86.93636,39.72848",
   "location_details": "It was at Glen Flint Lake.  The area where the sounds came from were at the end of the cove we were in straight out from the boat ramp to the left before you get into the main lake area.",
-  "temperature_high": 92.39,
-  "temperature_mid": 84.11,
-  "temperature_low": 75.83,
+  "temperature": {
+    "high": 92.39,
+    "mid": 84.11,
+    "low": 75.83
+  },
   "dew_point": 74.2,
   "humidity": 0.74,
   "cloud_cover": 0.06,

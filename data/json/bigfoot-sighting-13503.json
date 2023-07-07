@@ -11,9 +11,11 @@
   "longitude": -117.3672,
   "location": "-117.3672,48.86479",
   "location_details": "Near Sullivan Lake - [location specifics removed].",
-  "temperature_high": 90.45,
-  "temperature_mid": 73.69,
-  "temperature_low": 56.93,
+  "temperature": {
+    "high": 90.45,
+    "mid": 73.69,
+    "low": 56.93
+  },
   "dew_point": 49.45,
   "humidity": 0.48,
   "cloud_cover": 0.1,

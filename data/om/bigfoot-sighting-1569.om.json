@@ -1,0 +1,33 @@
+{
+  "reportId": "1569",
+  "title": "Screams heard by hunters",
+  "date": "1997-10-15",
+  "timestamp": 876873600,
+  "observed": "My friend and me were talking loudly (for hunting) and did not recognize where we were. When we heard two or three loud screams that sounded like a sick cow, but alot higher pitch and longer in length. We were stunned and infact took cover behind a log. It seemed as it was coming twards us. Very loud branches breaking and thumping. But just like that, it stopped and we high-tailed it out of there.",
+  "classification": "Class B",
+  "county": "Okanogan",
+  "state": "Washington",
+  "latitude": 48.61972,
+  "longitude": -120.1075,
+  "location": {
+    "longitude": -120.1075,
+    "latitude": 48.61972
+  },
+  "location_details": "Below a forest service tower. We were pretty remote. We have hunted there for 15-plus years and were in a spooky surrounding that we haven't been in before.",
+  "temperature": {
+    "high": 60.53,
+    "mid": 53.055,
+    "low": 45.58
+  },
+  "dew_point": 47.1,
+  "humidity": 0.84,
+  "cloud_cover": 0.62,
+  "moon_phase": 0.49,
+  "precip_type": "rain",
+  "pressure": 1026.09,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 2,
+  "visibility": 9.25,
+  "wind_bearing": 69,
+  "wind_speed": 1.35
+}

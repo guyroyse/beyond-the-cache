@@ -11,9 +11,11 @@
   "longitude": -80.57593,
   "location": "-80.57593,40.68935",
   "location_details": "Off of State Route 170 near Smith Road.",
-  "temperature_high": 83.6,
-  "temperature_mid": 73.595,
-  "temperature_low": 63.59,
+  "temperature": {
+    "high": 83.6,
+    "mid": 73.595,
+    "low": 63.59
+  },
   "dew_point": 58.56,
   "humidity": 0.65,
   "cloud_cover": 0.42,

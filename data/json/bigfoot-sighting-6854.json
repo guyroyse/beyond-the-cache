@@ -11,9 +11,11 @@
   "longitude": -118.5821,
   "location": "-118.5821,35.44986",
   "location_details": "Location is north of golf meadow on top of mount breckenridge as for the exact location of tracks to difficult to be exact we were lost however i will be making an attempt to relocate the area.",
-  "temperature_high": 89.7,
-  "temperature_mid": 75.835,
-  "temperature_low": 61.97,
+  "temperature": {
+    "high": 89.7,
+    "mid": 75.835,
+    "low": 61.97
+  },
   "dew_point": 55.22,
   "humidity": 0.5,
   "cloud_cover": 0.04,

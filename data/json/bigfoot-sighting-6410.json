@@ -11,9 +11,11 @@
   "longitude": -96.42668,
   "location": "-96.42668,41.2333",
   "location_details": "Location was on the South side of Highway 92, 3 miles east of Mead,Nebraska.",
-  "temperature_high": 73.55,
-  "temperature_mid": 68.565,
-  "temperature_low": 63.58,
+  "temperature": {
+    "high": 73.55,
+    "mid": 68.565,
+    "low": 63.58
+  },
   "dew_point": 66.52,
   "humidity": 0.82,
   "cloud_cover": 0.96,

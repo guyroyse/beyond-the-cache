@@ -11,9 +11,11 @@
   "longitude": -96.53,
   "location": "-96.53,33.75556",
   "location_details": "In Grayson County, in the Northeast part of a  town named Denison, (Texas). It was in the woods right off of Eighth street.",
-  "temperature_high": 92.16,
-  "temperature_mid": 82.95,
-  "temperature_low": 73.74,
+  "temperature": {
+    "high": 92.16,
+    "mid": 82.95,
+    "low": 73.74
+  },
   "dew_point": 69.54,
   "humidity": 0.67,
   "cloud_cover": 0.42,

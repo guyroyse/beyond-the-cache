@@ -11,9 +11,11 @@
   "longitude": -113.8441,
   "location": "-113.8441,43.79615",
   "location_details": "It is a fairly popular campsite called Copper Basin which is a high mountain valley in the White Knob mountains of central Idaho.  Elevation at the campsite was about 8,000 feet.  Just leave Sun Valley Idaho on Trail Creek Road and follow up to Trail Creek Summit.  Copper Basin is clearly marked by road signs from there.  About 1.5 hours from Sun Valley.",
-  "temperature_high": 91.21,
-  "temperature_mid": 76.32,
-  "temperature_low": 61.43,
+  "temperature": {
+    "high": 91.21,
+    "mid": 76.32,
+    "low": 61.43
+  },
   "dew_point": 42.12,
   "humidity": 0.37,
   "cloud_cover": 0.11,

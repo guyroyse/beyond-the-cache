@@ -11,9 +11,11 @@
   "longitude": -123.3899,
   "location": "-123.3899,39.51489",
   "location_details": "approx. 1 mile north of beginning of four lane and parallel to outlet Creek",
-  "temperature_high": 84.52,
-  "temperature_mid": 73.235,
-  "temperature_low": 61.95,
+  "temperature": {
+    "high": 84.52,
+    "mid": 73.235,
+    "low": 61.95
+  },
   "dew_point": 38.77,
   "humidity": 0.33,
   "cloud_cover": 0.04,

@@ -11,9 +11,11 @@
   "longitude": -109.14,
   "location": "-109.14,36.28",
   "location_details": "exact location is unknown; spotted owl survey records from that time may indicate otherwise.",
-  "temperature_high": 87.68,
-  "temperature_mid": 75.07,
-  "temperature_low": 62.46,
+  "temperature": {
+    "high": 87.68,
+    "mid": 75.07,
+    "low": 62.46
+  },
   "dew_point": 45.86,
   "humidity": 0.45,
   "cloud_cover": 0.25,

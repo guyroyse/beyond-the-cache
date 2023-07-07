@@ -11,9 +11,11 @@
   "longitude": -70.99485,
   "location": "-70.99485,45.04705",
   "location_details": "very close to the lake, near a road called Alca Flats or Alca road",
-  "temperature_high": 76.72,
-  "temperature_mid": 66.775,
-  "temperature_low": 56.83,
+  "temperature": {
+    "high": 76.72,
+    "mid": 66.775,
+    "low": 56.83
+  },
   "dew_point": 62.48,
   "humidity": 0.78,
   "cloud_cover": 0.17,

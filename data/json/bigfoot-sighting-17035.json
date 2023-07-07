@@ -11,9 +11,11 @@
   "longitude": -87.29,
   "location": "-87.29,31.99",
   "location_details": "During Deer season and in a tree climber.",
-  "temperature_high": 96.95,
-  "temperature_mid": 86.615,
-  "temperature_low": 76.28,
+  "temperature": {
+    "high": 96.95,
+    "mid": 86.615,
+    "low": 76.28
+  },
   "dew_point": 72.73,
   "humidity": 0.67,
   "cloud_cover": 0.13,

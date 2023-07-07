@@ -11,9 +11,11 @@
   "longitude": -122.6893,
   "location": "-122.6893,46.94445",
   "location_details": "At this time there were many trails and animals and since then has been mowed over and paved with houses, I do not remember exactly where it would be but I can take a video camera and see what it is like now. If that would help. My uncle now lives there and is a stickler about people. Not very friendly sometimes.",
-  "temperature_high": 71.59,
-  "temperature_mid": 61.92,
-  "temperature_low": 52.25,
+  "temperature": {
+    "high": 71.59,
+    "mid": 61.92,
+    "low": 52.25
+  },
   "dew_point": 43.55,
   "humidity": 0.54,
   "cloud_cover": 0.21,

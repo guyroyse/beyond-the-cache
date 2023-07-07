@@ -11,9 +11,11 @@
   "longitude": -87.50905,
   "location": "-87.50905,34.80405",
   "location_details": "East of Muscle Shoals. [More specific directions not posted at this time due to current investigation].",
-  "temperature_high": 61.98,
-  "temperature_mid": 48.915,
-  "temperature_low": 35.85,
+  "temperature": {
+    "high": 61.98,
+    "mid": 48.915,
+    "low": 35.85
+  },
   "dew_point": 29.62,
   "humidity": 0.43,
   "cloud_cover": 0,

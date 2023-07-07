@@ -11,9 +11,11 @@
   "longitude": -95.77,
   "location": "-95.77,33.24722",
   "location_details": "I believe the FM # is 3310 it runs from Commerce into Delta County. The location is from Ivory Moore park in Commerce-The park is on an unpaved county road that runs into 3310. At the time I was at the sheriffs dept this road was not yet numbered. I havn't been in this area in at least 3 years",
-  "temperature_high": 70.16,
-  "temperature_mid": 54.805,
-  "temperature_low": 39.45,
+  "temperature": {
+    "high": 70.16,
+    "mid": 54.805,
+    "low": 39.45
+  },
   "dew_point": 44.63,
   "humidity": 0.68,
   "cloud_cover": 0.28,

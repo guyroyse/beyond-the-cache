@@ -11,9 +11,11 @@
   "longitude": -88.7496,
   "location": "-88.7496,32.2714",
   "location_details": "ALL I CAN RECALL WAS A TWO LANE HIGHWAY THAT WENT SOUHTWEST OUT OF MERIDIAN AND THEN A DIRT ROAD TO THE EAST.",
-  "temperature_high": 90.91,
-  "temperature_mid": 82.945,
-  "temperature_low": 74.98,
+  "temperature": {
+    "high": 90.91,
+    "mid": 82.945,
+    "low": 74.98
+  },
   "dew_point": 73.51,
   "humidity": 0.77,
   "cloud_cover": 0.21,

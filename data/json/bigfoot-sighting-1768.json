@@ -11,9 +11,11 @@
   "longitude": -79.49707,
   "location": "-79.49707,37.53434",
   "location_details": "George Washington and Jefferson National Forest off of the Blue Ridge Parkway in Amherst County Virginia, White Oaks Flats area.",
-  "temperature_high": 57.72,
-  "temperature_mid": 48.25,
-  "temperature_low": 38.78,
+  "temperature": {
+    "high": 57.72,
+    "mid": 48.25,
+    "low": 38.78
+  },
   "dew_point": 35.68,
   "humidity": 0.71,
   "cloud_cover": 0.64,

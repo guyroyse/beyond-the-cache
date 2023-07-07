@@ -11,9 +11,11 @@
   "longitude": -92.07335,
   "location": "-92.07335,38.56724",
   "location_details": "http://www.mapquest.com/?le=t&hk=dGV8IE&vs=",
-  "temperature_high": 80.12,
-  "temperature_mid": 74.275,
-  "temperature_low": 68.43,
+  "temperature": {
+    "high": 80.12,
+    "mid": 74.275,
+    "low": 68.43
+  },
   "dew_point": 64.11,
   "humidity": 0.81,
   "cloud_cover": 0.71,

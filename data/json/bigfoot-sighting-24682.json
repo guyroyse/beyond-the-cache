@@ -11,9 +11,11 @@
   "longitude": -94.7264,
   "location": "-94.7264,34.73966",
   "location_details": "Horesthief Springs Trail near Hwy 1.",
-  "temperature_high": 89.14,
-  "temperature_mid": 79.93,
-  "temperature_low": 70.72,
+  "temperature": {
+    "high": 89.14,
+    "mid": 79.93,
+    "low": 70.72
+  },
   "dew_point": 69.86,
   "humidity": 0.75,
   "cloud_cover": 0.11,

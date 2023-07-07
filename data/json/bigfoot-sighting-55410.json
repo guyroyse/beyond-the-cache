@@ -11,9 +11,11 @@
   "longitude": -91.50301,
   "location": "-91.50301,35.255",
   "location_details": "A public hunting grounds.",
-  "temperature_high": 70.06,
-  "temperature_mid": 65.74,
-  "temperature_low": 61.42,
+  "temperature": {
+    "high": 70.06,
+    "mid": 65.74,
+    "low": 61.42
+  },
   "dew_point": 54.74,
   "humidity": 0.74,
   "cloud_cover": 0.19,

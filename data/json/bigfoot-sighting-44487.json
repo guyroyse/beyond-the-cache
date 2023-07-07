@@ -11,9 +11,11 @@
   "longitude": -85.9793,
   "location": "-85.9793,32.91874",
   "location_details": "We were right behind a large reservoir that held water for Russell Mills",
-  "temperature_high": 70.22,
-  "temperature_mid": 54.005,
-  "temperature_low": 37.79,
+  "temperature": {
+    "high": 70.22,
+    "mid": 54.005,
+    "low": 37.79
+  },
   "dew_point": 32.89,
   "humidity": 0.49,
   "cloud_cover": 0,

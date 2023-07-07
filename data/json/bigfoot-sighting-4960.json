@@ -11,9 +11,11 @@
   "longitude": -81.82391,
   "location": "-81.82391,41.09302",
   "location_details": "Poe Rd., between River Styx Rd. and SR 57. Near Medina, Ohio.",
-  "temperature_high": 77.67,
-  "temperature_mid": 67.44,
-  "temperature_low": 57.21,
+  "temperature": {
+    "high": 77.67,
+    "mid": 67.44,
+    "low": 57.21
+  },
   "dew_point": 53.7,
   "humidity": 0.74,
   "cloud_cover": 0.5,

@@ -11,9 +11,11 @@
   "longitude": -120.4474,
   "location": "-120.4474,46.4984",
   "location_details": "parker washington out side of yakima washington",
-  "temperature_high": 99.54,
-  "temperature_mid": 79.78,
-  "temperature_low": 60.02,
+  "temperature": {
+    "high": 99.54,
+    "mid": 79.78,
+    "low": 60.02
+  },
   "dew_point": 51.1,
   "humidity": 0.43,
   "cloud_cover": 0,

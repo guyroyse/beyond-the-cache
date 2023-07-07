@@ -11,9 +11,11 @@
   "longitude": -87.06486,
   "location": "-87.06486,31.13586",
   "location_details": "Take I-65 north to Brewton/Repton exit.  Turn right on Hwy 41.",
-  "temperature_high": 66.15,
-  "temperature_mid": 62.68,
-  "temperature_low": 59.21,
+  "temperature": {
+    "high": 66.15,
+    "mid": 62.68,
+    "low": 59.21
+  },
   "dew_point": 44.87,
   "humidity": 0.61,
   "cloud_cover": 0.8,

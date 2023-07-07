@@ -11,9 +11,11 @@
   "longitude": -122.1914,
   "location": "-122.1914,46.04722",
   "location_details": "I really don't know. My friend used to be the Ranger there many years ago. He drove & I didn't pay any attention to how we got there. Since it's an established campground it shouldn't be hard to locate.",
-  "temperature_high": 83.6,
-  "temperature_mid": 69.025,
-  "temperature_low": 54.45,
+  "temperature": {
+    "high": 83.6,
+    "mid": 69.025,
+    "low": 54.45
+  },
   "dew_point": 47.42,
   "humidity": 0.54,
   "cloud_cover": 0.58,

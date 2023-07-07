@@ -11,9 +11,11 @@
   "longitude": -88.5233,
   "location": "-88.5233,45.02176",
   "location_details": "The Northeast area of Menominee County.",
-  "temperature_high": 72,
-  "temperature_mid": 71,
-  "temperature_low": 70,
+  "temperature": {
+    "high": 72,
+    "mid": 71,
+    "low": 70
+  },
   "dew_point": 56.09,
   "humidity": 0.82,
   "cloud_cover": 0.71,

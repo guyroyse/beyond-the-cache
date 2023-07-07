@@ -11,9 +11,11 @@
   "longitude": -86.37698,
   "location": "-86.37698,32.48322",
   "location_details": "About 15 miles south of Clanton",
-  "temperature_high": 74.6,
-  "temperature_mid": 66.68,
-  "temperature_low": 58.76,
+  "temperature": {
+    "high": 74.6,
+    "mid": 66.68,
+    "low": 58.76
+  },
   "dew_point": 60.32,
   "humidity": 0.83,
   "cloud_cover": 0.11,

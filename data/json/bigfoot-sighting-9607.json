@@ -11,9 +11,11 @@
   "longitude": -79.56702,
   "location": "-79.56702,40.05148",
   "location_details": "off 119 between everson and connellsville",
-  "temperature_high": 67.8,
-  "temperature_mid": 53.765,
-  "temperature_low": 39.73,
+  "temperature": {
+    "high": 67.8,
+    "mid": 53.765,
+    "low": 39.73
+  },
   "dew_point": 39.41,
   "humidity": 0.62,
   "cloud_cover": 0.17,

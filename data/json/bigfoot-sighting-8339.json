@@ -11,9 +11,11 @@
   "longitude": -121.9256,
   "location": "-121.9256,46.3105",
   "location_details": "if you can find a topo map, look for a more established road on a slight incline, bending to left, with a less established road (logging?) going straight at apex of bend, and slightly dropping in elevation.  Well wooded.  Cannot remember any other road details",
-  "temperature_high": 52.52,
-  "temperature_mid": 47.99,
-  "temperature_low": 43.46,
+  "temperature": {
+    "high": 52.52,
+    "mid": 47.99,
+    "low": 43.46
+  },
   "dew_point": 41.16,
   "humidity": 0.9,
   "cloud_cover": 0.51,

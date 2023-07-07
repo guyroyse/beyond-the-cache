@@ -11,9 +11,11 @@
   "longitude": -81.1188,
   "location": "-81.1188,40.20275",
   "location_details": "bridge off of st rt 250 almost to the end of Tappan Lake",
-  "temperature_high": 49.93,
-  "temperature_mid": 42.035,
-  "temperature_low": 34.14,
+  "temperature": {
+    "high": 49.93,
+    "mid": 42.035,
+    "low": 34.14
+  },
   "dew_point": 24.97,
   "humidity": 0.67,
   "cloud_cover": 0.67,

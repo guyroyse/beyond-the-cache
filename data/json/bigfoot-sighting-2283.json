@@ -11,9 +11,11 @@
   "longitude": -78.53718,
   "location": "-78.53718,38.36911",
   "location_details": "Off Skyline Drive near Swift Run gap",
-  "temperature_high": 73.22,
-  "temperature_mid": 71.07,
-  "temperature_low": 68.92,
+  "temperature": {
+    "high": 73.22,
+    "mid": 71.07,
+    "low": 68.92
+  },
   "dew_point": 66.88,
   "humidity": 0.87,
   "cloud_cover": 0.92,

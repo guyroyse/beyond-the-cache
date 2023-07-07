@@ -1,0 +1,35 @@
+{
+  "reportId": "43402",
+  "title": "Possible ongoing activty in a rural community near Chance",
+  "date": "2002-09-16",
+  "timestamp": 1032134400,
+  "observed": "I saw bigfoot twice in Chance, Alabama and my mom seen him also. He's been living down here far over thirty years. I'm forty seven years old and I remember riding my bicycle through there and hearing all the noise in the woods. I thought it was a big deer going through the woods until I got older. Now I know what it was if you want to see him let me know he's been there from 1980's when I was hearing him and I saw him in 1992 and 2002. One of our cousins said he thinks it was attracted to one of his horses in 2010. I know he's still there.",
+  "classification": "Class B",
+  "county": "Clarke",
+  "state": "Alabama",
+  "latitude": 31.809,
+  "longitude": -87.56807,
+  "location": {
+    "longitude": -87.56807,
+    "latitude": 31.809
+  },
+  "location_details": "Hwy 31 from Atmore to 84 west then right on county road 01 about 5 miles to the bridge",
+  "temperature": {
+    "high": 91.24,
+    "mid": 81.905,
+    "low": 72.57
+  },
+  "dew_point": 73.12,
+  "humidity": 0.84,
+  "cloud_cover": 0.27,
+  "moon_phase": 0.35,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.22,
+  "precip_type": "rain",
+  "pressure": 1016.98,
+  "summary": "Humid and partly cloudy throughout the day.",
+  "uv_index": 7,
+  "visibility": 4.84,
+  "wind_bearing": 212,
+  "wind_speed": 2.03
+}

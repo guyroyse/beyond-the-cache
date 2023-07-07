@@ -11,9 +11,11 @@
   "longitude": -81.85806,
   "location": "-81.85806,39.01972",
   "location_details": "We were traveling northbound on I-77 toward the Ohio border, around milemarker 150!",
-  "temperature_high": 36.43,
-  "temperature_mid": 28.705,
-  "temperature_low": 20.98,
+  "temperature": {
+    "high": 36.43,
+    "mid": 28.705,
+    "low": 20.98
+  },
   "dew_point": 21.85,
   "humidity": 0.69,
   "cloud_cover": 0.52,

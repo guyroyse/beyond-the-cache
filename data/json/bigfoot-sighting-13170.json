@@ -11,9 +11,11 @@
   "longitude": -83.11639,
   "location": "-83.11639,34.65375",
   "location_details": "just off hwy 24. back road to fairplay.",
-  "temperature_high": 51.64,
-  "temperature_mid": 40.485,
-  "temperature_low": 29.33,
+  "temperature": {
+    "high": 51.64,
+    "mid": 40.485,
+    "low": 29.33
+  },
   "dew_point": 44.55,
   "humidity": 0.91,
   "cloud_cover": 0.92,

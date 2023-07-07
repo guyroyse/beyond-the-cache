@@ -11,9 +11,11 @@
   "longitude": -110.8069,
   "location": "-110.8069,45.66722",
   "location_details": "The southern side of U.S. 90 on the Livingston side of the Bozeman hill.",
-  "temperature_high": 87.05,
-  "temperature_mid": 72.345,
-  "temperature_low": 57.64,
+  "temperature": {
+    "high": 87.05,
+    "mid": 72.345,
+    "low": 57.64
+  },
   "dew_point": 38.7,
   "humidity": 0.35,
   "cloud_cover": 0.06,

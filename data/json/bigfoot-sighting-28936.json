@@ -11,9 +11,11 @@
   "longitude": -88.53889,
   "location": "-88.53889,41.33018",
   "location_details": "On the north river bottom road  - Old Stage Rd",
-  "temperature_high": 91.82,
-  "temperature_mid": 82.705,
-  "temperature_low": 73.59,
+  "temperature": {
+    "high": 91.82,
+    "mid": 82.705,
+    "low": 73.59
+  },
   "dew_point": 68.5,
   "humidity": 0.65,
   "cloud_cover": 0.08,

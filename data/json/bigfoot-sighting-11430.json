@@ -11,9 +11,11 @@
   "longitude": -93.75723,
   "location": "-93.75723,36.31519",
   "location_details": "Top of ridge some three miles or so from highway 412",
-  "temperature_high": 94.54,
-  "temperature_mid": 84.245,
-  "temperature_low": 73.95,
+  "temperature": {
+    "high": 94.54,
+    "mid": 84.245,
+    "low": 73.95
+  },
   "dew_point": 72.31,
   "humidity": 0.67,
   "cloud_cover": 0.12,

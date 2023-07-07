@@ -11,9 +11,11 @@
   "longitude": -76.364,
   "location": "-76.364,36.6765",
   "location_details": "I don't care if it's posted online, I just don't want to be named or included in any of this. Location is off of Route 17 Business towards the end. The entrance to the Dismal Swamp Trail is located on Rt 17 Business.",
-  "temperature_high": 53.2,
-  "temperature_mid": 46.865,
-  "temperature_low": 40.53,
+  "temperature": {
+    "high": 53.2,
+    "mid": 46.865,
+    "low": 40.53
+  },
   "dew_point": 39.32,
   "humidity": 0.67,
   "cloud_cover": 0.63,

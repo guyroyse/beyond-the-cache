@@ -11,9 +11,11 @@
   "longitude": -94.7375,
   "location": "-94.7375,32.33528",
   "location_details": "Not too far from Tiawichi Creek, the western most boundary of Lake Cherokee, just south of the Gregg County Airport. It was beyond a forest of pine trees at the water's edge. There was approximately 100 feet of shoreline between the trees and the water. The closest town would be Monroe, Texas on west side of SH 322.",
-  "temperature_high": 59.09,
-  "temperature_mid": 45.83,
-  "temperature_low": 32.57,
+  "temperature": {
+    "high": 59.09,
+    "mid": 45.83,
+    "low": 32.57
+  },
   "dew_point": 28.47,
   "humidity": 0.63,
   "cloud_cover": 0.04,

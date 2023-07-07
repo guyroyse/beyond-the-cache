@@ -11,9 +11,11 @@
   "longitude": -122.1667,
   "location": "-122.1667,40.75",
   "location_details": "The Lake Shasta sighting was up the Pit River arm of Lake Shasta, which is East of the Jones Valley Resort.",
-  "temperature_high": 90.84,
-  "temperature_mid": 76.47,
-  "temperature_low": 62.1,
+  "temperature": {
+    "high": 90.84,
+    "mid": 76.47,
+    "low": 62.1
+  },
   "dew_point": 53.88,
   "humidity": 0.48,
   "cloud_cover": 0.08,

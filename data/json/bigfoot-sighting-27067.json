@@ -11,9 +11,11 @@
   "longitude": -85.35995,
   "location": "-85.35995,31.86801",
   "location_details": "County Road 79 South and Highway 30",
-  "temperature_high": 57.93,
-  "temperature_mid": 52.87,
-  "temperature_low": 47.81,
+  "temperature": {
+    "high": 57.93,
+    "mid": 52.87,
+    "low": 47.81
+  },
   "dew_point": 31,
   "humidity": 0.47,
   "cloud_cover": 0.66,

@@ -11,9 +11,11 @@
   "longitude": -86.59747,
   "location": "-86.59747,34.55946",
   "location_details": "off Hwy 231 south of Tennessee River.",
-  "temperature_high": 61.93,
-  "temperature_mid": 54.725,
-  "temperature_low": 47.52,
+  "temperature": {
+    "high": 61.93,
+    "mid": 54.725,
+    "low": 47.52
+  },
   "dew_point": 45.03,
   "humidity": 0.79,
   "cloud_cover": 0.56,

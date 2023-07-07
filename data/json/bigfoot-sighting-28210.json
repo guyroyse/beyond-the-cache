@@ -11,9 +11,11 @@
   "longitude": -94.60989,
   "location": "-94.60989,36.51627",
   "location_details": "It happened the north end of main street.Right beside honey creek.",
-  "temperature_high": 85.08,
-  "temperature_mid": 74.245,
-  "temperature_low": 63.41,
+  "temperature": {
+    "high": 85.08,
+    "mid": 74.245,
+    "low": 63.41
+  },
   "dew_point": 57.73,
   "humidity": 0.67,
   "cloud_cover": 0.04,

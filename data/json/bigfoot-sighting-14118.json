@@ -11,9 +11,11 @@
   "longitude": -81.6965,
   "location": "-81.6965,28.775",
   "location_details": "The sighting was on the highway between Tavares and Lake Jem and I was almost to our subdivision. We lived on Tammi Dr. in a small subdivision on a canal that leads into Lake Beauclair.",
-  "temperature_high": 82.03,
-  "temperature_mid": 62.46,
-  "temperature_low": 42.89,
+  "temperature": {
+    "high": 82.03,
+    "mid": 62.46,
+    "low": 42.89
+  },
   "dew_point": 54.56,
   "humidity": 0.76,
   "cloud_cover": 0.58,

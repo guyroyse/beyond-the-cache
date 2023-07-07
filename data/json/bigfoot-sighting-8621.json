@@ -11,9 +11,11 @@
   "longitude": -121.424,
   "location": "-121.424,45.4051",
   "location_details": "I've never been back since. I couldn't tell you anything about the exact location.",
-  "temperature_high": 84.28,
-  "temperature_mid": 67.87,
-  "temperature_low": 51.46,
+  "temperature": {
+    "high": 84.28,
+    "mid": 67.87,
+    "low": 51.46
+  },
   "dew_point": 48.61,
   "humidity": 0.56,
   "cloud_cover": 0.26,

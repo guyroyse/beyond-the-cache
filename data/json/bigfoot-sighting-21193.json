@@ -11,9 +11,11 @@
   "longitude": -84.5136,
   "location": "-84.5136,34.48287",
   "location_details": "This is an area that I am very familiar with, have fished there many times, seen deer, bobcat and coyotes but nothing strange or never heard any strange sounds.Before I was born there were rumors of panthers in the area. Lots of wilderness in this area. Years ago, teenagers used to swim in the river.And people would throw out their trash, old mattresses or furniture there. About 10 years ago, the old dirt road was blocked and a new road was paved with a new bridge put over it and I used it quite frequently, but not everyday. The nearest house was probably 200 yards away.",
-  "temperature_high": 87.81,
-  "temperature_mid": 79.435,
-  "temperature_low": 71.06,
+  "temperature": {
+    "high": 87.81,
+    "mid": 79.435,
+    "low": 71.06
+  },
   "dew_point": 67.82,
   "humidity": 0.71,
   "cloud_cover": 0.21,

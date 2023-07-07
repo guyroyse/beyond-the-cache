@@ -11,9 +11,11 @@
   "longitude": -91.09014,
   "location": "-91.09014,39.29007",
   "location_details": "On our family farm in Cyrene, MO. Pike County.",
-  "temperature_high": 62.55,
-  "temperature_mid": 51.21,
-  "temperature_low": 39.87,
+  "temperature": {
+    "high": 62.55,
+    "mid": 51.21,
+    "low": 39.87
+  },
   "dew_point": 26.04,
   "humidity": 0.42,
   "cloud_cover": 0.51,

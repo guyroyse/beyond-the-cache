@@ -11,9 +11,11 @@
   "longitude": -83.55708,
   "location": "-83.55708,32.86288",
   "location_details": "The location is in Bibb County, less than a mile from the Jones County line.",
-  "temperature_high": 91.75,
-  "temperature_mid": 82.86,
-  "temperature_low": 73.97,
+  "temperature": {
+    "high": 91.75,
+    "mid": 82.86,
+    "low": 73.97
+  },
   "dew_point": 69.59,
   "humidity": 0.67,
   "cloud_cover": 0.47,

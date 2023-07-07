@@ -11,9 +11,11 @@
   "longitude": -82.11172,
   "location": "-82.11172,41.40985",
   "location_details": "Approximately one mile north of Midway Mall in Elyria, Ohio.",
-  "temperature_high": 79.95,
-  "temperature_mid": 72.925,
-  "temperature_low": 65.9,
+  "temperature": {
+    "high": 79.95,
+    "mid": 72.925,
+    "low": 65.9
+  },
   "dew_point": 67.38,
   "humidity": 0.84,
   "cloud_cover": 0.88,

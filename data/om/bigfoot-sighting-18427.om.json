@@ -1,0 +1,35 @@
+{
+  "reportId": "18427",
+  "title": "Daylight sighting by two teenagers near Middleburg",
+  "date": "2007-03-29",
+  "timestamp": 1175126400,
+  "observed": "This report was written by me, investigator David Wright, on behalf of a young witness, who was in my presence, answering questions, when this report was documented. Two teenage boys, ages 15 and 16 were going into the woods to play paintball. They dropped off their bikes at a bridge that goes over this creek and started into the woods. Just as they entered the woods, they saw something moving and making noise in front of them and saw this gigantic, upright black creature  run across the trail in front of them.  They saw it for about 5 seconds. It looked at them as it ran, and when it saw them, it accelerated and ran up a 5' steep drop and disappeared into the woods. They both thought it was a very tall, naked dark human being. That's all they could think of to interpret what they saw.",
+  "classification": "Class A",
+  "county": "Clay",
+  "state": "Florida",
+  "latitude": 30.03432,
+  "longitude": -81.90216,
+  "location": {
+    "longitude": -81.90216,
+    "latitude": 30.03432
+  },
+  "location_details": "This was near the first bridge on 215 after it branches off of Hwy. 21 south, Blanding Blvd.",
+  "temperature": {
+    "high": 78.67,
+    "mid": 71.11,
+    "low": 63.55
+  },
+  "dew_point": 59.93,
+  "humidity": 0.77,
+  "cloud_cover": 0.35,
+  "moon_phase": 0.38,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.15,
+  "precip_type": "rain",
+  "pressure": 1021.9,
+  "summary": "Partly cloudy throughout the day and breezy overnight.",
+  "uv_index": 8,
+  "visibility": 7.79,
+  "wind_bearing": 75,
+  "wind_speed": 5.97
+}

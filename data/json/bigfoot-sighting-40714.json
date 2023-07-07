@@ -11,9 +11,11 @@
   "longitude": -90.7771,
   "location": "-90.7771,40.55179",
   "location_details": "Two miles west of Illinois Rt 67 on N 1850th Rd.",
-  "temperature_high": 47.52,
-  "temperature_mid": 38.725,
-  "temperature_low": 29.93,
+  "temperature": {
+    "high": 47.52,
+    "mid": 38.725,
+    "low": 29.93
+  },
   "dew_point": 23.17,
   "humidity": 0.55,
   "cloud_cover": 0.58,

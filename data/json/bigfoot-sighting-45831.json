@@ -11,9 +11,11 @@
   "longitude": -74.23166,
   "location": "-74.23166,43.46181",
   "location_details": "On Route 8 just outside of Wells, NY near the Sacandaga river. There was a tree knocked down close to it, and a yellow road sign shortly after.",
-  "temperature_high": 76.8,
-  "temperature_mid": 64.87,
-  "temperature_low": 52.94,
+  "temperature": {
+    "high": 76.8,
+    "mid": 64.87,
+    "low": 52.94
+  },
   "dew_point": 52.13,
   "humidity": 0.67,
   "cloud_cover": 0.07,

@@ -1,0 +1,35 @@
+{
+  "reportId": "25621",
+  "title": "Possible vocalizations heard on Camano Island",
+  "date": "2009-03-19",
+  "timestamp": 1237420800,
+  "observed": "The first time we heard this sound we where having a fire close to the wooded swamp area behind my house.  It was about 2am and we did not see any thing but heard it many times that night.  We heard a long whooping type growl....that was late summer 2008... Winter is almost over and we are out late at night and are starting to hear it again...march 2009...3am",
+  "classification": "Class B",
+  "county": "Island",
+  "state": "Washington",
+  "latitude": 48.17107,
+  "longitude": -122.5089,
+  "location": {
+    "longitude": -122.5089,
+    "latitude": 48.17107
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 50.45,
+    "mid": 48.485,
+    "low": 46.52
+  },
+  "dew_point": 42.49,
+  "humidity": 0.83,
+  "cloud_cover": 0.96,
+  "moon_phase": 0.78,
+  "precip_intensity": 0.0014,
+  "precip_probability": 0.8,
+  "precip_type": "rain",
+  "pressure": 1016.69,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 2,
+  "visibility": 9.14,
+  "wind_bearing": 144,
+  "wind_speed": 9.82
+}

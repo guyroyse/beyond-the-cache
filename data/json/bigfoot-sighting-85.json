@@ -11,9 +11,11 @@
   "longitude": -122.4808,
   "location": "-122.4808,45.03255",
   "location_details": "It occured between two houses on our property, fairly wooded area.",
-  "temperature_high": 61.82,
-  "temperature_mid": 55.68,
-  "temperature_low": 49.54,
+  "temperature": {
+    "high": 61.82,
+    "mid": 55.68,
+    "low": 49.54
+  },
   "dew_point": 48.96,
   "humidity": 0.75,
   "cloud_cover": 0.88,

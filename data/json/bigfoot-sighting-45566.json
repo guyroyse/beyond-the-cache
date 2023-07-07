@@ -11,9 +11,11 @@
   "longitude": -80.79379,
   "location": "-80.79379,27.45883",
   "location_details": "It's the trail on Monroe station in big cypress. Monroe station is north of the Oasis visitors center on the left hand side of the big cypress national park",
-  "temperature_high": 73.18,
-  "temperature_mid": 64.075,
-  "temperature_low": 54.97,
+  "temperature": {
+    "high": 73.18,
+    "mid": 64.075,
+    "low": 54.97
+  },
   "dew_point": 66.97,
   "humidity": 0.88,
   "cloud_cover": 0.11,

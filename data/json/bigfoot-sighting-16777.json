@@ -11,9 +11,11 @@
   "longitude": -78.9279,
   "location": "-78.9279,37.9808",
   "location_details": "Go south on 664 from Sherando. Turn west on FR42 and go 1-2 miles. You come to a small bridge where creek crosses road. There is a pull off on right side of road. The forest service has bulldozed the area in later years and site does not look the same.",
-  "temperature_high": 37.86,
-  "temperature_mid": 29.445,
-  "temperature_low": 21.03,
+  "temperature": {
+    "high": 37.86,
+    "mid": 29.445,
+    "low": 21.03
+  },
   "dew_point": 0.96,
   "humidity": 0.46,
   "cloud_cover": 0.02,

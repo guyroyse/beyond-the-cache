@@ -11,9 +11,11 @@
   "longitude": -121.9313,
   "location": "-121.9313,46.09035",
   "location_details": "about 10 miles east of lewis river trail",
-  "temperature_high": 72.97,
-  "temperature_mid": 62.18,
-  "temperature_low": 51.39,
+  "temperature": {
+    "high": 72.97,
+    "mid": 62.18,
+    "low": 51.39
+  },
   "dew_point": 45.22,
   "humidity": 0.63,
   "cloud_cover": 0.71,

@@ -11,9 +11,11 @@
   "longitude": -86.465,
   "location": "-86.465,35.11417",
   "location_details": "We are located approx 15 miles SE of Fayetteville,TN    Near Teal Hollow  We are also just a few miles from Flintville where other sighting have been reported",
-  "temperature_high": 84.93,
-  "temperature_mid": 77.075,
-  "temperature_low": 69.22,
+  "temperature": {
+    "high": 84.93,
+    "mid": 77.075,
+    "low": 69.22
+  },
   "dew_point": 71.99,
   "humidity": 0.81,
   "cloud_cover": 0.28,

@@ -11,9 +11,11 @@
   "longitude": -83.9205,
   "location": "-83.9205,45.0635",
   "location_details": "Dense forests. Few spread out houses, a very small community with maybe 25 to 30 houses towards the lake. Many 4 wheeler trails and untouched land. Few swampy areas, and some larger hills around the area.",
-  "temperature_high": 68.5,
-  "temperature_mid": 57.37,
-  "temperature_low": 46.24,
+  "temperature": {
+    "high": 68.5,
+    "mid": 57.37,
+    "low": 46.24
+  },
   "dew_point": 47.07,
   "humidity": 0.68,
   "cloud_cover": 0.03,

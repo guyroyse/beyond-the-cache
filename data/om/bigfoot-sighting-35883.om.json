@@ -1,0 +1,35 @@
+{
+  "reportId": "35883",
+  "title": "Possible encounter while volunteering at Macbride Raptor Project outside North Liberty",
+  "date": "2010-04-15",
+  "timestamp": 1271289600,
+  "observed": "Me and my friend were feeding the owls at Lake Macbride about midnight. We were near the cage that have the turkey vulture in when he keep hearing something big move in the woods. We tried to figure out what it was but we couldn't.",
+  "classification": "Class B",
+  "county": "Johnson",
+  "state": "Iowa",
+  "latitude": 41.7822,
+  "longitude": -91.57033,
+  "location": {
+    "longitude": -91.57033,
+    "latitude": 41.7822
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 81.11,
+    "mid": 66.9,
+    "low": 52.69
+  },
+  "dew_point": 47.28,
+  "humidity": 0.51,
+  "cloud_cover": 0.19,
+  "moon_phase": 0.04,
+  "precip_intensity": 0.0013,
+  "precip_probability": 0.4,
+  "precip_type": "rain",
+  "pressure": 1020.46,
+  "summary": "Breezy until evening and mostly cloudy starting in the evening.",
+  "uv_index": 7,
+  "visibility": 9.92,
+  "wind_bearing": 226,
+  "wind_speed": 10.24
+}

@@ -11,9 +11,11 @@
   "longitude": -80.7217,
   "location": "-80.7217,28.31193",
   "location_details": "Heading north on US1 through Rockledge towards Cocoa.",
-  "temperature_high": 91.68,
-  "temperature_mid": 84.09,
-  "temperature_low": 76.5,
+  "temperature": {
+    "high": 91.68,
+    "mid": 84.09,
+    "low": 76.5
+  },
   "dew_point": 71.48,
   "humidity": 0.73,
   "cloud_cover": 0.36,

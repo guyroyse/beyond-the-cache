@@ -11,9 +11,11 @@
   "longitude": -123.7194,
   "location": "-123.7194,47.08824",
   "location_details": "Traveling from Aberdeen,WA. Head out B Street to Wishkah road. Follow Wishkah road for 10 or so miles. Wynoochie-Wishkah road will be on your right side. It is only a few miles at most to the top of 13 corners. There is no sign postings for the logging road but it is the last pull over area on the left side of the road before you start going down the hill.",
-  "temperature_high": 74.84,
-  "temperature_mid": 65.935,
-  "temperature_low": 57.03,
+  "temperature": {
+    "high": 74.84,
+    "mid": 65.935,
+    "low": 57.03
+  },
   "dew_point": 55.18,
   "humidity": 0.76,
   "cloud_cover": 0.71,

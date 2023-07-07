@@ -11,9 +11,11 @@
   "longitude": -119.4626,
   "location": "-119.4626,37.83074",
   "location_details": "on the shores of Tenaya Lake in Yosemite National Park",
-  "temperature_high": 96.71,
-  "temperature_mid": 77.865,
-  "temperature_low": 59.02,
+  "temperature": {
+    "high": 96.71,
+    "mid": 77.865,
+    "low": 59.02
+  },
   "dew_point": 50.95,
   "humidity": 0.42,
   "cloud_cover": 0.01,

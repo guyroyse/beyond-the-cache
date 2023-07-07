@@ -11,9 +11,11 @@
   "longitude": -89.80125,
   "location": "-89.80125,38.72226",
   "location_details": "App. 1/4 miles north of Hwy 40 on IL. R.R. 4",
-  "temperature_high": 27.61,
-  "temperature_mid": 14.425,
-  "temperature_low": 1.24,
+  "temperature": {
+    "high": 27.61,
+    "mid": 14.425,
+    "low": 1.24
+  },
   "dew_point": 17.61,
   "humidity": 0.79,
   "cloud_cover": 0.74,

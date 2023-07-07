@@ -11,9 +11,11 @@
   "longitude": -91.14448,
   "location": "-91.14448,32.0131",
   "location_details": "Hwy 128 about 1mile east of Jigger, LA. (Specific details left out.)",
-  "temperature_high": 93.23,
-  "temperature_mid": 80.77,
-  "temperature_low": 68.31,
+  "temperature": {
+    "high": 93.23,
+    "mid": 80.77,
+    "low": 68.31
+  },
   "dew_point": 66.25,
   "humidity": 0.62,
   "cloud_cover": 0.13,

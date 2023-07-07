@@ -11,9 +11,11 @@
   "longitude": -88.0896,
   "location": "-88.0896,45.64585",
   "location_details": "Route 141 North into Marinette county, to Pembine, Wisconsin.",
-  "temperature_high": 19.29,
-  "temperature_mid": 14.97,
-  "temperature_low": 10.65,
+  "temperature": {
+    "high": 19.29,
+    "mid": 14.97,
+    "low": 10.65
+  },
   "dew_point": 9.38,
   "humidity": 0.76,
   "cloud_cover": 0.11,

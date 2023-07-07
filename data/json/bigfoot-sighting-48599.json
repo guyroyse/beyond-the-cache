@@ -11,9 +11,11 @@
   "longitude": -82.74918,
   "location": "-82.74918,29.07718",
   "location_details": "7 - 10 miles north of Yankee Town",
-  "temperature_high": 76.93,
-  "temperature_mid": 71.43,
-  "temperature_low": 65.93,
+  "temperature": {
+    "high": 76.93,
+    "mid": 71.43,
+    "low": 65.93
+  },
   "dew_point": 66.68,
   "humidity": 0.87,
   "cloud_cover": 0.71,

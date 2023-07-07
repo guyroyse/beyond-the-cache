@@ -11,9 +11,11 @@
   "longitude": -89.599,
   "location": "-89.599,40.8365",
   "location_details": "I prefer to keep location confidential as I do not want it published to protect the group of Sasquatch that live there.",
-  "temperature_high": 80.2,
-  "temperature_mid": 67.88,
-  "temperature_low": 55.56,
+  "temperature": {
+    "high": 80.2,
+    "mid": 67.88,
+    "low": 55.56
+  },
   "dew_point": 59.48,
   "humidity": 0.71,
   "cloud_cover": 0.14,

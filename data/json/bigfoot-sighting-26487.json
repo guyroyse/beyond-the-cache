@@ -11,9 +11,11 @@
   "longitude": -116.4171,
   "location": "-116.4171,48.49805",
   "location_details": "from sandpoint,north on hwy 95 18 miles, east on elmira rd follow to end, changes into forest service type rd,follow about 2 miles, left at fork, blume lake about 5 miles further.",
-  "temperature_high": 49.24,
-  "temperature_mid": 38.825,
-  "temperature_low": 28.41,
+  "temperature": {
+    "high": 49.24,
+    "mid": 38.825,
+    "low": 28.41
+  },
   "dew_point": 33.71,
   "humidity": 0.77,
   "cloud_cover": 0.7,

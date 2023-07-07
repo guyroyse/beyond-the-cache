@@ -11,9 +11,11 @@
   "longitude": -122.9179,
   "location": "-122.9179,47.7079",
   "location_details": "A couple miles north of Brinnon, west of Dabob Bay on the Hood Canal.",
-  "temperature_high": 87.51,
-  "temperature_mid": 72.745,
-  "temperature_low": 57.98,
+  "temperature": {
+    "high": 87.51,
+    "mid": 72.745,
+    "low": 57.98
+  },
   "dew_point": 49.55,
   "humidity": 0.53,
   "cloud_cover": 0.11,

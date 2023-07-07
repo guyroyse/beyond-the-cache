@@ -11,9 +11,11 @@
   "longitude": -92.46844,
   "location": "-92.46844,31.40304",
   "location_details": "The location is less than 1 mile from Kissatchie National Forest.",
-  "temperature_high": 84.71,
-  "temperature_mid": 76.02,
-  "temperature_low": 67.33,
+  "temperature": {
+    "high": 84.71,
+    "mid": 76.02,
+    "low": 67.33
+  },
   "dew_point": 59.01,
   "humidity": 0.7,
   "cloud_cover": 0.41,

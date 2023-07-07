@@ -11,9 +11,11 @@
   "longitude": -116.8368,
   "location": "-116.8368,46.8102",
   "location_details": "Moscow Mountain",
-  "temperature_high": 79.42,
-  "temperature_mid": 67.065,
-  "temperature_low": 54.71,
+  "temperature": {
+    "high": 79.42,
+    "mid": 67.065,
+    "low": 54.71
+  },
   "dew_point": 45.15,
   "humidity": 0.46,
   "cloud_cover": 0.11,

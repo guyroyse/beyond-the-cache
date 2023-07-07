@@ -11,9 +11,11 @@
   "longitude": -105.0787,
   "location": "-105.0787,39.4455",
   "location_details": "Rampart Range Road to Arrowhead Golfcourse in Roxborough Park. Hole 13 Pro Tee Box.",
-  "temperature_high": 69.2,
-  "temperature_mid": 55.36,
-  "temperature_low": 41.52,
+  "temperature": {
+    "high": 69.2,
+    "mid": 55.36,
+    "low": 41.52
+  },
   "dew_point": 25.22,
   "humidity": 0.45,
   "cloud_cover": 0.05,

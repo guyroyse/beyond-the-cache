@@ -11,9 +11,11 @@
   "longitude": -97.06667,
   "location": "-97.06667,28.725",
   "location_details": "Victoria, Texas (Victoria County) Off FM446 at the Coleto Creek bridge.",
-  "temperature_high": 94.5,
-  "temperature_mid": 86.615,
-  "temperature_low": 78.73,
+  "temperature": {
+    "high": 94.5,
+    "mid": 86.615,
+    "low": 78.73
+  },
   "dew_point": 74.55,
   "humidity": 0.73,
   "cloud_cover": 0.17,

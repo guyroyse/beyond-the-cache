@@ -1,0 +1,35 @@
+{
+  "reportId": "12065",
+  "title": "Group observes animal in daylight, one mile from Federal Hill near Riverdale",
+  "date": "2005-12-10",
+  "timestamp": 1134172800,
+  "observed": "It was about three or four months (April or May) ago in the late afternoon, about 5-ish when my brother and I and a few friends were hanging out on our back deck. My brother saw it first. I saw nothing until my brother gave me a better point of reference, then I saw it. It was sitting on a large rock on the hill side, a grey ape-like creature. My brother went and grabbed his BB gun. He took a shot in the general direction of it. It was seated in profile to and turned its body to look at us. It then got up and climbed a large rock face (about six to ten feet high) behind it. It was climbing hand over hand like a man or ape would. Once it reached the top it walked off over the ridge and out of sight. It walked with a bit of a hunch, not completely upright like a man but not like any other animal I’ve ever seen. It was no bear nor a coyote.",
+  "classification": "Class A",
+  "county": "Morris",
+  "state": "New Jersey",
+  "latitude": 40.9934,
+  "longitude": -74.3249,
+  "location": {
+    "longitude": -74.3249,
+    "latitude": 40.9934
+  },
+  "location_details": "(edited out - home residence)",
+  "temperature": {
+    "high": 33.4,
+    "mid": 26.64,
+    "low": 19.88
+  },
+  "dew_point": 19.67,
+  "humidity": 0.72,
+  "cloud_cover": 0.14,
+  "moon_phase": 0.33,
+  "precip_intensity": 0.0012,
+  "precip_probability": 0.13,
+  "precip_type": "snow",
+  "pressure": 1015.9,
+  "summary": "Partly cloudy in the afternoon.",
+  "uv_index": 1,
+  "visibility": 9.31,
+  "wind_bearing": 234,
+  "wind_speed": 6.92
+}

@@ -11,9 +11,11 @@
   "longitude": -122.1967,
   "location": "-122.1967,46.06333",
   "location_details": "It was near Mt. St. Helens, below Ape Caves. The witness would probably be able to give you more detail if she has a map handy.",
-  "temperature_high": 66.68,
-  "temperature_mid": 59.99,
-  "temperature_low": 53.3,
+  "temperature": {
+    "high": 66.68,
+    "mid": 59.99,
+    "low": 53.3
+  },
   "dew_point": 54.22,
   "humidity": 0.85,
   "cloud_cover": 0.98,

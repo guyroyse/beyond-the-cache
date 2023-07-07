@@ -11,9 +11,11 @@
   "longitude": -89.91499,
   "location": "-89.91499,35.5035",
   "location_details": "Between Ruleman Rd. and Coon Valley Rd. on a slough bank in the Mississippi river bottom.",
-  "temperature_high": 78.21,
-  "temperature_mid": 71.445,
-  "temperature_low": 64.68,
+  "temperature": {
+    "high": 78.21,
+    "mid": 71.445,
+    "low": 64.68
+  },
   "dew_point": 60.91,
   "humidity": 0.78,
   "cloud_cover": 0.84,

@@ -11,9 +11,11 @@
   "longitude": -87.80624,
   "location": "-87.80624,39.09109",
   "location_details": "Northwest of Robinson",
-  "temperature_high": 44.28,
-  "temperature_mid": 39.36,
-  "temperature_low": 34.44,
+  "temperature": {
+    "high": 44.28,
+    "mid": 39.36,
+    "low": 34.44
+  },
   "dew_point": 39.22,
   "humidity": 0.88,
   "cloud_cover": 0.7,

@@ -1,0 +1,35 @@
+{
+  "reportId": "47225",
+  "title": "Possible early morning sighting by a couple driving near Hedgesville",
+  "date": "2014-11-12",
+  "timestamp": 1415750400,
+  "observed": "I was driving to work at approximately 7:40 a.m. When a small deer ran across the road in front of me so I slowed down...as I slow down I noticed something running through the woods off to my right...it was six feet tall approximately with black hair that walked upright on two legs ...it was moving much too fast to be a person and was definitely not a deer",
+  "classification": "Class B",
+  "county": "Berkeley",
+  "state": "West Virginia",
+  "latitude": 39.51256,
+  "longitude": -78.05424,
+  "location": {
+    "longitude": -78.05424,
+    "latitude": 39.51256
+  },
+  "location_details": "Heading east on Swinging Bridge Rd twds Dry Run Rd.. just past Cavern Rd",
+  "temperature": {
+    "high": 55.45,
+    "mid": 45.315,
+    "low": 35.18
+  },
+  "dew_point": 36.9,
+  "humidity": 0.65,
+  "cloud_cover": 0.08,
+  "moon_phase": 0.69,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.07,
+  "precip_type": "rain",
+  "pressure": 1016.43,
+  "summary": "Clear throughout the day.",
+  "uv_index": 2,
+  "visibility": 8.63,
+  "wind_bearing": 311,
+  "wind_speed": 5.95
+}

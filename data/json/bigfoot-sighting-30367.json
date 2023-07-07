@@ -11,9 +11,11 @@
   "longitude": -88.1676,
   "location": "-88.1676,39.8213",
   "location_details": "Approx. 3 miles from Villa Grove",
-  "temperature_high": 58.17,
-  "temperature_mid": 54.085,
-  "temperature_low": 50,
+  "temperature": {
+    "high": 58.17,
+    "mid": 54.085,
+    "low": 50
+  },
   "dew_point": 43.55,
   "humidity": 0.75,
   "cloud_cover": 0.84,

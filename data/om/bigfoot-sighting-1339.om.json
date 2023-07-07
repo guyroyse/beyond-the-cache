@@ -1,0 +1,35 @@
+{
+  "reportId": "1339",
+  "title": "Creature seen by witnesses",
+  "date": "1950-01-01",
+  "timestamp": -631152000,
+  "observed": "When I was a child, I heard my grandfather, a man who quit school at sixteen, tell stories about something that lived in the Burns Rebrake (a swampy area owned by a Mr. Homer Burns). The stories he told went back as far as WWI and included among others, my grandfather and my father. They never got a good look at the thing(my father always attributed it to bootleggers)but my grandfather said whatever it was, it drove lumbermen out of the woods and beat panther hounds so bad that they didn't come home for days. When I was little, I listened to the old people describe the thing and it didn't register in my mind until I got older that it sounded an awful lot like a sasquatch. I've heard there's something in Lousiana, and with all the primitive waterways that cross that two states, I wouldn't be surprised if the two aren't connected. The Burns Booger as they called it has been absent from the area since the sixties when the lumber companies went high tech. This is the same time the last panther was heard in Attala County. My great grandfather and a man were logging in the area after WWI and something frightened them so bad that they quit logging and refused to go back in there. My grandfather and father along with some coon hunters saw something standing by a dieing fire that they had built. They said it looked like a man but then it didn't. (My memory is hazy) on the exact descriptions. My father's coon hounds were known to hunt panther, but something tangled into them one night setting the dogs to howling in pain and terror. Before my father or grandfather could get to them, it was over. The dogs didn't come up for days. All the old people I heard the stories from saidthere was something in those woods, but the old people are all gone now and no one's heard from the Burns Booger in years. (I've not heard anymore stories of recent origin).",
+  "classification": "Class A",
+  "county": "Attala",
+  "state": "Mississippi",
+  "latitude": 33.10925,
+  "longitude": -89.59135,
+  "location": {
+    "longitude": -89.59135,
+    "latitude": 33.10925
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 67.02,
+    "mid": 63.54,
+    "low": 60.06
+  },
+  "dew_point": 54.84,
+  "humidity": 0.81,
+  "cloud_cover": 0.95,
+  "moon_phase": 0.41,
+  "precip_intensity": 0.0034,
+  "precip_probability": 0.82,
+  "precip_type": "rain",
+  "pressure": 1026.5,
+  "summary": "Overcast throughout the day.",
+  "uv_index": 2,
+  "visibility": 8.68,
+  "wind_bearing": 143,
+  "wind_speed": 8.22
+}

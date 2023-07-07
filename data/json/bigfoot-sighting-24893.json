@@ -11,9 +11,11 @@
   "longitude": -82.05391,
   "location": "-82.05391,29.56871",
   "location_details": "Property is surrounded by woods with house nearby on all sides. Houses are separated by woods. Large lake nearby with swamp areas. Large Geogia Pacific Paper mill and tree growing farm half mile east of property.",
-  "temperature_high": 82.43,
-  "temperature_mid": 77.005,
-  "temperature_low": 71.58,
+  "temperature": {
+    "high": 82.43,
+    "mid": 77.005,
+    "low": 71.58
+  },
   "dew_point": 69.07,
   "humidity": 0.83,
   "cloud_cover": 0.63,

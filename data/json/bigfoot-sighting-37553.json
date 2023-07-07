@@ -11,9 +11,11 @@
   "longitude": -85.6885,
   "location": "-85.6885,42.225",
   "location_details": "I would be happy to share location but only if contacted by phone.",
-  "temperature_high": 41.82,
-  "temperature_mid": 37.22,
-  "temperature_low": 32.62,
+  "temperature": {
+    "high": 41.82,
+    "mid": 37.22,
+    "low": 32.62
+  },
   "dew_point": 29.25,
   "humidity": 0.72,
   "cloud_cover": 1,

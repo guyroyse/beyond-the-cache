@@ -11,9 +11,11 @@
   "longitude": -118.5347,
   "location": "-118.5347,36.05361",
   "location_details": "Above Kernville, CA  Highway 190 north area--  Peppermint Springs Campground was within several miles of our wilderness camp.",
-  "temperature_high": 79.21,
-  "temperature_mid": 66.205,
-  "temperature_low": 53.2,
+  "temperature": {
+    "high": 79.21,
+    "mid": 66.205,
+    "low": 53.2
+  },
   "dew_point": 42.42,
   "humidity": 0.51,
   "cloud_cover": 0.13,

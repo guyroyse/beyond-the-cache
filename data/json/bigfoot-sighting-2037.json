@@ -11,9 +11,11 @@
   "longitude": -121.0158,
   "location": "-121.0158,39.94278",
   "location_details": "The different locations were around Slate Creek, Plumas National Forest, Plumas Co, Ca., approximately 12 east of La Porte, Ca.",
-  "temperature_high": 81.44,
-  "temperature_mid": 66.58,
-  "temperature_low": 51.72,
+  "temperature": {
+    "high": 81.44,
+    "mid": 66.58,
+    "low": 51.72
+  },
   "dew_point": 42.86,
   "humidity": 0.5,
   "cloud_cover": 0.2,

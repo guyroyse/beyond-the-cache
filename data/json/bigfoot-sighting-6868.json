@@ -11,9 +11,11 @@
   "longitude": -120.5856,
   "location": "-120.5856,38.76139",
   "location_details": "Campground on Union Valley Lake.  From Highway 50, take Ice House Road and follow for at least 12-15 miles into the hills. Some of the areas around the lake looked like it had been destroyed due to a fire a few years back.",
-  "temperature_high": 92.85,
-  "temperature_mid": 75.71,
-  "temperature_low": 58.57,
+  "temperature": {
+    "high": 92.85,
+    "mid": 75.71,
+    "low": 58.57
+  },
   "dew_point": 47.02,
   "humidity": 0.41,
   "cloud_cover": 0.01,

@@ -11,9 +11,11 @@
   "longitude": -89.45454,
   "location": "-89.45454,41.02524",
   "location_details": "Family still lives on farm near Sparland",
-  "temperature_high": 83.93,
-  "temperature_mid": 75.675,
-  "temperature_low": 67.42,
+  "temperature": {
+    "high": 83.93,
+    "mid": 75.675,
+    "low": 67.42
+  },
   "dew_point": 67.63,
   "humidity": 0.79,
   "cloud_cover": 0.17,

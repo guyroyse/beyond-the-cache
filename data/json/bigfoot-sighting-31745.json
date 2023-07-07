@@ -11,9 +11,11 @@
   "longitude": -81.2299,
   "location": "-81.2299,29.83863",
   "location_details": "It was between two canals that lead to the ocean",
-  "temperature_high": 84.17,
-  "temperature_mid": 79.425,
-  "temperature_low": 74.68,
+  "temperature": {
+    "high": 84.17,
+    "mid": 79.425,
+    "low": 74.68
+  },
   "dew_point": 71.63,
   "humidity": 0.78,
   "cloud_cover": 0.22,

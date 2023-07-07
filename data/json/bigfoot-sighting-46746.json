@@ -11,9 +11,11 @@
   "longitude": -85.21574,
   "location": "-85.21574,31.23374",
   "location_details": "west from Newville on CR 73",
-  "temperature_high": 88.5,
-  "temperature_mid": 78.105,
-  "temperature_low": 67.71,
+  "temperature": {
+    "high": 88.5,
+    "mid": 78.105,
+    "low": 67.71
+  },
   "dew_point": 70.44,
   "humidity": 0.8,
   "cloud_cover": 0.09,

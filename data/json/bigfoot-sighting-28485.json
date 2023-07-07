@@ -11,9 +11,11 @@
   "longitude": -123.1267,
   "location": "-123.1267,47.29435",
   "location_details": "Olympic National Forest just East of the Mount Skokomish Wilderness on Big Creek Trail 827.1",
-  "temperature_high": 51.11,
-  "temperature_mid": 44.455,
-  "temperature_low": 37.8,
+  "temperature": {
+    "high": 51.11,
+    "mid": 44.455,
+    "low": 37.8
+  },
   "dew_point": 42.9,
   "humidity": 0.93,
   "cloud_cover": 0.8,

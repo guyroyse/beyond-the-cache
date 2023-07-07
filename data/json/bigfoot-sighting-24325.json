@@ -11,9 +11,11 @@
   "longitude": -80.48,
   "location": "-80.48,36.745",
   "location_details": "Virginia highway 94 north of Fries about 5 miles heading towards Fort Chiswell, VA",
-  "temperature_high": 75.45,
-  "temperature_mid": 60.33,
-  "temperature_low": 45.21,
+  "temperature": {
+    "high": 75.45,
+    "mid": 60.33,
+    "low": 45.21
+  },
   "dew_point": 41.9,
   "humidity": 0.54,
   "cloud_cover": 0,

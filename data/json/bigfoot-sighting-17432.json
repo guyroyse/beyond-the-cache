@@ -11,9 +11,11 @@
   "longitude": -122.9316,
   "location": "-122.9316,46.50511",
   "location_details": "sounded like it was comming from olequa creek near the park",
-  "temperature_high": 34.99,
-  "temperature_mid": 32.235,
-  "temperature_low": 29.48,
+  "temperature": {
+    "high": 34.99,
+    "mid": 32.235,
+    "low": 29.48
+  },
   "dew_point": 22.52,
   "humidity": 0.81,
   "cloud_cover": 0.27,

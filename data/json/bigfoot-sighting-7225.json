@@ -11,9 +11,11 @@
   "longitude": -105.3542,
   "location": "-105.3542,39.31667",
   "location_details": "Drive from Hwy 285 down 67. Drive through the small town of Pine.  Right when you get into Buffalo Creek, there is a road that leads to Wellington Lake.  Drive to the picnic area by the lake and that's the general area where we were.",
-  "temperature_high": 48.7,
-  "temperature_mid": 37.29,
-  "temperature_low": 25.88,
+  "temperature": {
+    "high": 48.7,
+    "mid": 37.29,
+    "low": 25.88
+  },
   "dew_point": 18.01,
   "humidity": 0.56,
   "cloud_cover": 0.06,

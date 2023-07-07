@@ -11,9 +11,11 @@
   "longitude": -122.0247,
   "location": "-122.0247,48.9294",
   "location_details": "Incident took place behind our A-frame house one half mile north of the North Fork of the Nooksack River and at the base of Black Mt. and  quarter mile northeast of Boulder Creek. Take I-5 north until you get to Bellingham, take sunset Mt. Baker Hwy. exit continue eastbound for1 & half hour you will see Boulder Creek. Quarter mile on left, past Baptist camp is the location . ",
-  "temperature_high": 61.13,
-  "temperature_mid": 54.815,
-  "temperature_low": 48.5,
+  "temperature": {
+    "high": 61.13,
+    "mid": 54.815,
+    "low": 48.5
+  },
   "dew_point": 47.34,
   "humidity": 0.79,
   "cloud_cover": 0.74,

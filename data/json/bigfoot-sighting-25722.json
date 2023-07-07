@@ -11,9 +11,11 @@
   "longitude": -118.5905,
   "location": "-118.5905,48.51673",
   "location_details": "Its a hunting location very close to canada on the far north east corner of washington",
-  "temperature_high": 65.94,
-  "temperature_mid": 57.305,
-  "temperature_low": 48.67,
+  "temperature": {
+    "high": 65.94,
+    "mid": 57.305,
+    "low": 48.67
+  },
   "dew_point": 39.58,
   "humidity": 0.67,
   "cloud_cover": 0.22,

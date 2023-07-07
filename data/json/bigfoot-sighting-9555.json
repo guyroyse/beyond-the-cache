@@ -11,9 +11,11 @@
   "longitude": -120.3275,
   "location": "-120.3275,39.31917",
   "location_details": "As you pass through on the east bound side on Hwy 80, just before Donner Pass, there is a truck inspection station. Approx 1 to 2 miles east of that is the first bridge.  There is a large ravine with a river through it. This is the spot. They were 300 to 400 feet south of the bridge they crossed over west to east in a straight line. I could return and show you the exact location.",
-  "temperature_high": 85.57,
-  "temperature_mid": 69.35,
-  "temperature_low": 53.13,
+  "temperature": {
+    "high": 85.57,
+    "mid": 69.35,
+    "low": 53.13
+  },
   "dew_point": 48.07,
   "humidity": 0.51,
   "cloud_cover": 0.28,

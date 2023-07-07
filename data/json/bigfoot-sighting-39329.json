@@ -11,9 +11,11 @@
   "longitude": -74.52625,
   "location": "-74.52625,41.17838",
   "location_details": "Rt 94 to Great Gorge resort condos.",
-  "temperature_high": 51.05,
-  "temperature_mid": 48.61,
-  "temperature_low": 46.17,
+  "temperature": {
+    "high": 51.05,
+    "mid": 48.61,
+    "low": 46.17
+  },
   "dew_point": 43.27,
   "humidity": 0.78,
   "cloud_cover": 0.21,

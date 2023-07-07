@@ -11,9 +11,11 @@
   "longitude": -123.5469,
   "location": "-123.5469,45.5891",
   "location_details": "In the U.S. off of Highway 6 between Portland and Tillamook south of Lee's camp down Ben Smith Road on the Wilson River.",
-  "temperature_high": 84.36,
-  "temperature_mid": 70.45,
-  "temperature_low": 56.54,
+  "temperature": {
+    "high": 84.36,
+    "mid": 70.45,
+    "low": 56.54
+  },
   "dew_point": 54.93,
   "humidity": 0.68,
   "cloud_cover": 0.1,

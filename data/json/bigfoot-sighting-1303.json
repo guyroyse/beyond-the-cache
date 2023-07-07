@@ -11,9 +11,11 @@
   "longitude": -99.81514,
   "location": "-99.81514,34.73153",
   "location_details": "The sighting occurred 5 miles north and 2 miles west of Gould, Harmon County, Oklahoma.",
-  "temperature_high": 75,
-  "temperature_mid": 63,
-  "temperature_low": 51,
+  "temperature": {
+    "high": 75,
+    "mid": 63,
+    "low": 51
+  },
   "dew_point": 34.08,
   "humidity": 0.47,
   "moon_phase": 0.51,

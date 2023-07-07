@@ -11,9 +11,11 @@
   "longitude": -96.69583,
   "location": "-96.69583,32.26889",
   "location_details": "Chambers Creek, near Ennis, Ellis County, Texas",
-  "temperature_high": 94.53,
-  "temperature_mid": 84.085,
-  "temperature_low": 73.64,
+  "temperature": {
+    "high": 94.53,
+    "mid": 84.085,
+    "low": 73.64
+  },
   "dew_point": 67.59,
   "humidity": 0.58,
   "cloud_cover": 0.15,

@@ -11,9 +11,11 @@
   "longitude": -82.87663,
   "location": "-82.87663,40.50945",
   "location_details": "Just outside Cardington.",
-  "temperature_high": 63.92,
-  "temperature_mid": 43.965,
-  "temperature_low": 24.01,
+  "temperature": {
+    "high": 63.92,
+    "mid": 43.965,
+    "low": 24.01
+  },
   "dew_point": 46.26,
   "humidity": 0.76,
   "cloud_cover": 0.59,

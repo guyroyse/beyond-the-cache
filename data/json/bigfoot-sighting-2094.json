@@ -11,9 +11,11 @@
   "longitude": -84.6971,
   "location": "-84.6971,34.1088",
   "location_details": "Acworth, near Lake Allatoona",
-  "temperature_high": 75.71,
-  "temperature_mid": 70.845,
-  "temperature_low": 65.98,
+  "temperature": {
+    "high": 75.71,
+    "mid": 70.845,
+    "low": 65.98
+  },
   "dew_point": 68.96,
   "humidity": 0.92,
   "cloud_cover": 0.86,

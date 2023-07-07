@@ -1,0 +1,35 @@
+{
+  "reportId": "109",
+  "title": "Union Pacific Railway Conductor Observes Great Ape on Railroad Trackbed",
+  "date": "1995-07-10",
+  "timestamp": 805334400,
+  "observed": "I am a conductor for UPRR working pool freight from Portland OR to Hermiston OR.  We were traveling westbound on a train going around curves between Bonneville, Cascade Locks and Dodson.  As we came around a curve near milepost 36, I saw something dark between the rails.  I said to the engineer, \"What is that\".  He then blew the whistle. Something tall and hairy with long arms got up and ran into the trees and brush. Its arms swung wildly when it ran. We looked into the spot where the animal went into cover, but could not see it. Time  was daybreak.  We got a good look as we aproached at about 15 rail car lengths.",
+  "classification": "Class A",
+  "county": "Multnomah",
+  "state": "Oregon",
+  "latitude": 45.65125,
+  "longitude": -121.9123,
+  "location": {
+    "longitude": -121.9123,
+    "latitude": 45.65125
+  },
+  "location_details": "Near Bonneville Dam between Cascade Locks and Dodson just east of Eagle Creek area between Interstate-84 and the Columbia River.",
+  "temperature": {
+    "high": 74.51,
+    "mid": 63.39,
+    "low": 52.27
+  },
+  "dew_point": 51.71,
+  "humidity": 0.69,
+  "cloud_cover": 0.69,
+  "moon_phase": 0.44,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.13,
+  "precip_type": "rain",
+  "pressure": 1017.72,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 6,
+  "visibility": 9.83,
+  "wind_bearing": 274,
+  "wind_speed": 1.85
+}

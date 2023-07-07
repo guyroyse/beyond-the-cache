@@ -11,9 +11,11 @@
   "longitude": -106.5445,
   "location": "-106.5445,39.1006",
   "location_details": "Base of Independence Pass.  This is the border of Lake and Pitkin County. Just off the road, Hwy 82.",
-  "temperature_high": 74.31,
-  "temperature_mid": 60.33,
-  "temperature_low": 46.35,
+  "temperature": {
+    "high": 74.31,
+    "mid": 60.33,
+    "low": 46.35
+  },
   "dew_point": 29.88,
   "humidity": 0.36,
   "cloud_cover": 0.23,

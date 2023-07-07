@@ -11,9 +11,11 @@
   "longitude": -83.4885,
   "location": "-83.4885,45.351",
   "location_details": "Nearly at the end of the road, by the lighthouse is where I had my sighting.  Take US-23 north, to E. Grand Lake Rd and turn right.  Turn Right at (4-way intersection) and continue on E. Grand Lake Rd to Presque Isle Harbor.  About 1 mile north of the harbor is the New Presque Isle Lighthouse and the road ends in a U-turn or cul-de-sac as you are at the conclusion of this small peninsula.",
-  "temperature_high": 66.82,
-  "temperature_mid": 60.53,
-  "temperature_low": 54.24,
+  "temperature": {
+    "high": 66.82,
+    "mid": 60.53,
+    "low": 54.24
+  },
   "dew_point": 57.6,
   "humidity": 0.82,
   "cloud_cover": 0.61,

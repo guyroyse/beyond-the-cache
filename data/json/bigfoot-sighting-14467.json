@@ -11,9 +11,11 @@
   "longitude": -94.47345,
   "location": "-94.47345,37.18124",
   "location_details": "madison rd. crosses center creek",
-  "temperature_high": 32.83,
-  "temperature_mid": 23.06,
-  "temperature_low": 13.29,
+  "temperature": {
+    "high": 32.83,
+    "mid": 23.06,
+    "low": 13.29
+  },
   "dew_point": 14.52,
   "humidity": 0.74,
   "cloud_cover": 0.62,

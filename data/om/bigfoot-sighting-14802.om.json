@@ -1,0 +1,35 @@
+{
+  "reportId": "14802",
+  "title": "Possible vocalizations heard by camper near Williams Hill Pass in the Shawnee National Forest",
+  "date": "2006-05-29",
+  "timestamp": 1148860800,
+  "observed": "I am writing this report on behalf of my girlfriend.  Although we were both together on this camping trip, I unfortunately was alseep and did not hear a thing.  I have questioned her extensively and replayed the Ohio Howls for her, which she says is a very close match. We had decided to take the kids camping at Williams Hill Pass OHV park.  It is a rather large campground, over 200 acres with only 15 or so camp sites.  It is primarily for ATV trail riding.  We stayed over Memorial Day weekend, arriving Saturday afternoon.  The weekend was uneventful.  All the other campers left by Monday afternoon and we had the entire park to ourselves.  When I awoke Tuesday morning around 7am, my girlfriend says I heard something weird this morning.  She said it sounded like one of your Bigfoot recordings.  She went on to say that she had gotten up around 4.30am, unable to sleep (it was rather hot and humid all weekend).  While stoking the fire she heard a howl off in the distance which imediately invoked the barking of several dogs off in the distance.  She described the sound as being distant yet loud as if amplified, to use her word.  It continued for about 3-4 mins.  When questioned as to whether it was just one vocalization or several, she advised that to her it sounded like 2 or 3 vocalizations going on in quick succession.",
+  "classification": "Class B",
+  "county": "Saline",
+  "state": "Illinois",
+  "latitude": 37.61404,
+  "longitude": -88.50061,
+  "location": {
+    "longitude": -88.50061,
+    "latitude": 37.61404
+  },
+  "location_details": "We were in the most remote camp site at Williams Hill Pass, which is the first one nearest the entrance.  The park is bordered by a National Forest, the name of which eludes me at the moment.  It may be the Shawnee National Forest.",
+  "temperature": {
+    "high": 89.55,
+    "mid": 79.845,
+    "low": 70.14
+  },
+  "dew_point": 68.91,
+  "humidity": 0.73,
+  "cloud_cover": 0.07,
+  "moon_phase": 0.09,
+  "precip_intensity": 0.0022,
+  "precip_probability": 0.21,
+  "precip_type": "rain",
+  "pressure": 1018.06,
+  "summary": "Partly cloudy in the afternoon.",
+  "uv_index": 9,
+  "visibility": 9.52,
+  "wind_bearing": 173,
+  "wind_speed": 4.13
+}

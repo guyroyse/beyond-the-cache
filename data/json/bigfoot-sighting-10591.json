@@ -11,9 +11,11 @@
   "longitude": -95.3,
   "location": "-95.3,30.63333",
   "location_details": "Creeks and ponds in the area.",
-  "temperature_high": 57.2,
-  "temperature_mid": 51.175,
-  "temperature_low": 45.15,
+  "temperature": {
+    "high": 57.2,
+    "mid": 51.175,
+    "low": 45.15
+  },
   "dew_point": 48.53,
   "humidity": 0.94,
   "cloud_cover": 0.96,

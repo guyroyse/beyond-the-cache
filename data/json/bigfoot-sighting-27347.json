@@ -11,9 +11,11 @@
   "longitude": -81.85762,
   "location": "-81.85762,30.08748",
   "location_details": "once you turn off of cr220 and left onto blanding, the first side road to the right.",
-  "temperature_high": 75.92,
-  "temperature_mid": 67.555,
-  "temperature_low": 59.19,
+  "temperature": {
+    "high": 75.92,
+    "mid": 67.555,
+    "low": 59.19
+  },
   "dew_point": 62.11,
   "humidity": 0.85,
   "cloud_cover": 0.39,

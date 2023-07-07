@@ -11,9 +11,11 @@
   "longitude": -78.04547,
   "location": "-78.04547,41.34404",
   "location_details": "Cabin in Cameron county PA",
-  "temperature_high": 61.29,
-  "temperature_mid": 52.15,
-  "temperature_low": 43.01,
+  "temperature": {
+    "high": 61.29,
+    "mid": 52.15,
+    "low": 43.01
+  },
   "dew_point": 51.39,
   "humidity": 0.79,
   "cloud_cover": 0.81,

@@ -11,9 +11,11 @@
   "longitude": -122.1572,
   "location": "-122.1572,46.15194",
   "location_details": "Climbers bivouac and Ptarmigan trailhead.",
-  "temperature_high": 51.59,
-  "temperature_mid": 46.83,
-  "temperature_low": 42.07,
+  "temperature": {
+    "high": 51.59,
+    "mid": 46.83,
+    "low": 42.07
+  },
   "dew_point": 44.74,
   "humidity": 0.87,
   "cloud_cover": 0.86,

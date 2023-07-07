@@ -11,9 +11,11 @@
   "longitude": -99.93007,
   "location": "-99.93007,35.76152",
   "location_details": "7.5 miles north of Reydon, OK",
-  "temperature_high": 88.48,
-  "temperature_mid": 78.15,
-  "temperature_low": 67.82,
+  "temperature": {
+    "high": 88.48,
+    "mid": 78.15,
+    "low": 67.82
+  },
   "dew_point": 56.22,
   "humidity": 0.53,
   "cloud_cover": 0.55,

@@ -11,9 +11,11 @@
   "longitude": -80.86715,
   "location": "-80.86715,28.98195",
   "location_details": "It was walking down the driving area of the beach southward toward the wildlife preserve...",
-  "temperature_high": 75.53,
-  "temperature_mid": 64.45,
-  "temperature_low": 53.37,
+  "temperature": {
+    "high": 75.53,
+    "mid": 64.45,
+    "low": 53.37
+  },
   "dew_point": 53.59,
   "humidity": 0.66,
   "cloud_cover": 0.09,

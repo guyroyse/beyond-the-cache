@@ -11,9 +11,11 @@
   "longitude": -107.1971,
   "location": "-107.1971,37.89225",
   "location_details": "A little South of Spring Creek Pass, to the West of highway 149.  Don't know the name/number of the dirt road we took.  (I would be happy to sit down with someone and go over the maps, I just don't have it at hand.)",
-  "temperature_high": 74.66,
-  "temperature_mid": 60.185,
-  "temperature_low": 45.71,
+  "temperature": {
+    "high": 74.66,
+    "mid": 60.185,
+    "low": 45.71
+  },
   "dew_point": 30.14,
   "humidity": 0.38,
   "cloud_cover": 0.05,

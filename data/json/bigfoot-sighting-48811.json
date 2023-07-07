@@ -11,9 +11,11 @@
   "longitude": -86.93743,
   "location": "-86.93743,37.65522",
   "location_details": "Boston Laffoon Rd off Hwy 54",
-  "temperature_high": 89.49,
-  "temperature_mid": 78.08,
-  "temperature_low": 66.67,
+  "temperature": {
+    "high": 89.49,
+    "mid": 78.08,
+    "low": 66.67
+  },
   "dew_point": 66.76,
   "humidity": 0.73,
   "cloud_cover": 0.09,

@@ -11,9 +11,11 @@
   "longitude": -82.1426,
   "location": "-82.1426,28.41655",
   "location_details": "about 40 miles east of Pasco county, and about 5 miles south of Hernando county.  At the time it was nothing but wooded area very sparsley populated.",
-  "temperature_high": 69.12,
-  "temperature_mid": 57.89,
-  "temperature_low": 46.66,
+  "temperature": {
+    "high": 69.12,
+    "mid": 57.89,
+    "low": 46.66
+  },
   "dew_point": 56.95,
   "humidity": 0.79,
   "cloud_cover": 0.69,

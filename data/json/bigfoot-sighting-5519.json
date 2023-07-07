@@ -11,9 +11,11 @@
   "longitude": -85.4427,
   "location": "-85.4427,30.32305",
   "location_details": "The parcel of land is located where North Bear Creek Road converges with South Bear Creek Road, approximately 1/4 mile from U.S. Hwy 231.",
-  "temperature_high": 80.5,
-  "temperature_mid": 73.845,
-  "temperature_low": 67.19,
+  "temperature": {
+    "high": 80.5,
+    "mid": 73.845,
+    "low": 67.19
+  },
   "dew_point": 68.09,
   "humidity": 0.79,
   "cloud_cover": 0.71,

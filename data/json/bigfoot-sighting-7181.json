@@ -11,9 +11,11 @@
   "longitude": -84.4587,
   "location": "-84.4587,41.79639",
   "location_details": "About 5 miles south of M34 on Pittsford road..I think...te parking spot for the trail is at the top of a large hill on the left side of the road, there is a trail leading to a lake right off the parking spot...but the trail leading to the area in question is across the road and about 200 yards south, at the bottom of the hill. Take the trail all the way up the hill...roughly 1 to 2 miles in...you will round a corner by an open area and enter a heavily wooded area...from this spot on, I always feel watched and like someone is there.",
-  "temperature_high": 70.8,
-  "temperature_mid": 59.81,
-  "temperature_low": 48.82,
+  "temperature": {
+    "high": 70.8,
+    "mid": 59.81,
+    "low": 48.82
+  },
   "dew_point": 56.22,
   "humidity": 0.83,
   "cloud_cover": 0.64,

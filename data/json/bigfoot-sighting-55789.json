@@ -11,9 +11,11 @@
   "longitude": -94.477,
   "location": "-94.477,38.5735",
   "location_details": "Shawnee mission bike trail",
-  "temperature_high": 88.25,
-  "temperature_mid": 79.625,
-  "temperature_low": 71,
+  "temperature": {
+    "high": 88.25,
+    "mid": 79.625,
+    "low": 71
+  },
   "dew_point": 65.27,
   "humidity": 0.65,
   "cloud_cover": 0.13,

@@ -11,9 +11,11 @@
   "longitude": -94.33334,
   "location": "-94.33334,31.33333",
   "location_details": "Take Hwy103E from Lufkin approximately 24 miles from the Lufkin loop.",
-  "temperature_high": 75.78,
-  "temperature_mid": 63.755,
-  "temperature_low": 51.73,
+  "temperature": {
+    "high": 75.78,
+    "mid": 63.755,
+    "low": 51.73
+  },
   "dew_point": 48.07,
   "humidity": 0.66,
   "cloud_cover": 0.04,

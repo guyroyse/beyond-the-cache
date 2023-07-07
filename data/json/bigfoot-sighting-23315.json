@@ -11,9 +11,11 @@
   "longitude": -121.4821,
   "location": "-121.4821,45.99935",
   "location_details": "i was near Mt Adams so I'm thinking it was Adams County or Klickitat. We were in between Trout Lake and Glenwood.",
-  "temperature_high": 51.45,
-  "temperature_mid": 44.53,
-  "temperature_low": 37.61,
+  "temperature": {
+    "high": 51.45,
+    "mid": 44.53,
+    "low": 37.61
+  },
   "dew_point": 34.35,
   "humidity": 0.73,
   "cloud_cover": 0.56,

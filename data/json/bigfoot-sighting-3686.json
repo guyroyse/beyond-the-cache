@@ -11,9 +11,11 @@
   "longitude": -82.54968,
   "location": "-82.54968,38.79833",
   "location_details": "in wayne national forest,southeast of oak hill in south east,ohio",
-  "temperature_high": 72.34,
-  "temperature_mid": 64.09,
-  "temperature_low": 55.84,
+  "temperature": {
+    "high": 72.34,
+    "mid": 64.09,
+    "low": 55.84
+  },
   "dew_point": 61.98,
   "humidity": 0.82,
   "cloud_cover": 0.41,

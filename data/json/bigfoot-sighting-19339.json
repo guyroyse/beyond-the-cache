@@ -11,9 +11,11 @@
   "longitude": -110.4298,
   "location": "-110.4298,33.99989",
   "location_details": "The location is about 1/2 mile northwest of the CBQ school just east of the old airport",
-  "temperature_high": 70.89,
-  "temperature_mid": 58.73,
-  "temperature_low": 46.57,
+  "temperature": {
+    "high": 70.89,
+    "mid": 58.73,
+    "low": 46.57
+  },
   "dew_point": 43.26,
   "humidity": 0.61,
   "cloud_cover": 0.43,

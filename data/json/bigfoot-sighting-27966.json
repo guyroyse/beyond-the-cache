@@ -11,9 +11,11 @@
   "longitude": -119.118,
   "location": "-119.118,37.79337",
   "location_details": "The location of the howl was near the Double Eagle Resort and Spa located South of Lee Vining and Mono Lake off HWY 158, which is a two-lane road, which makes a C connecting back to HWY 395.",
-  "temperature_high": 87.89,
-  "temperature_mid": 68.99,
-  "temperature_low": 50.09,
+  "temperature": {
+    "high": 87.89,
+    "mid": 68.99,
+    "low": 50.09
+  },
   "dew_point": 40.3,
   "humidity": 0.36,
   "cloud_cover": 0.01,

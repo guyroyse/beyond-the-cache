@@ -11,9 +11,11 @@
   "longitude": -81.8,
   "location": "-81.8,37.515",
   "location_details": "The area is very rural, steep mountainous terrain.  Streams, abandoned mines, clear cuts, few people live here.",
-  "temperature_high": 78.49,
-  "temperature_mid": 71.91,
-  "temperature_low": 65.33,
+  "temperature": {
+    "high": 78.49,
+    "mid": 71.91,
+    "low": 65.33
+  },
   "dew_point": 62.17,
   "humidity": 0.79,
   "cloud_cover": 0.38,

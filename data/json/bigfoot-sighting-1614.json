@@ -11,9 +11,11 @@
   "longitude": -113.8381,
   "location": "-113.8381,46.97694",
   "location_details": "in a wooded area bordering the wilderness area of the Rattlesnake Wilderness",
-  "temperature_high": 79.4,
-  "temperature_mid": 63.445,
-  "temperature_low": 47.49,
+  "temperature": {
+    "high": 79.4,
+    "mid": 63.445,
+    "low": 47.49
+  },
   "dew_point": 39.73,
   "humidity": 0.49,
   "cloud_cover": 0.13,

@@ -11,9 +11,11 @@
   "longitude": -121.3603,
   "location": "-121.3603,46.74778",
   "location_details": "Go past bumping road and head up the dirt trail, anytime the road forks go right.  The trail will dead head and park you car.  Get out find the trail sign that says Twin Sister and follow it.  I can't remember how far it is exactly but it is between 1 and 1.25 miles in, very steep climb.",
-  "temperature_high": 68.83,
-  "temperature_mid": 60.395,
-  "temperature_low": 51.96,
+  "temperature": {
+    "high": 68.83,
+    "mid": 60.395,
+    "low": 51.96
+  },
   "dew_point": 52.5,
   "humidity": 0.74,
   "cloud_cover": 0.63,

@@ -11,9 +11,11 @@
   "longitude": -84.54476,
   "location": "-84.54476,41.34728",
   "location_details": "This happened on Coy rd. in Defiance Co. about two miles south of Ney, Ohio",
-  "temperature_high": 13.19,
-  "temperature_mid": 10.495,
-  "temperature_low": 7.8,
+  "temperature": {
+    "high": 13.19,
+    "mid": 10.495,
+    "low": 7.8
+  },
   "dew_point": 3.52,
   "humidity": 0.75,
   "cloud_cover": 0.88,

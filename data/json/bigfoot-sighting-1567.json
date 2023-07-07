@@ -11,9 +11,11 @@
   "longitude": -123.2334,
   "location": "-123.2334,47.3542",
   "location_details": "North Fork of the Skokomish River.",
-  "temperature_high": 70.21,
-  "temperature_mid": 61.155,
-  "temperature_low": 52.1,
+  "temperature": {
+    "high": 70.21,
+    "mid": 61.155,
+    "low": 52.1
+  },
   "dew_point": 41.53,
   "humidity": 0.63,
   "cloud_cover": 0.81,

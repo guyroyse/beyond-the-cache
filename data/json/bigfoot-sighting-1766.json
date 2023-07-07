@@ -11,9 +11,11 @@
   "longitude": -122.015,
   "location": "-122.015,46.10444",
   "location_details": "I'm sorry I don't have a specific distance - it was about ten miles north of a little store named (something like) Eagle's Cliff",
-  "temperature_high": 87.2,
-  "temperature_mid": 70.025,
-  "temperature_low": 52.85,
+  "temperature": {
+    "high": 87.2,
+    "mid": 70.025,
+    "low": 52.85
+  },
   "dew_point": 51.9,
   "humidity": 0.65,
   "cloud_cover": 0.1,

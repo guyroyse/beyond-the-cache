@@ -11,9 +11,11 @@
   "longitude": -80.6385,
   "location": "-80.6385,38.2845",
   "location_details": "It happened on Curtain Mountain, along the Cherry River in Nicholas County, WV.",
-  "temperature_high": 54.73,
-  "temperature_mid": 43.985,
-  "temperature_low": 33.24,
+  "temperature": {
+    "high": 54.73,
+    "mid": 43.985,
+    "low": 33.24
+  },
   "dew_point": 22.72,
   "humidity": 0.49,
   "cloud_cover": 0.08,

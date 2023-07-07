@@ -11,9 +11,11 @@
   "longitude": -98.12825,
   "location": "-98.12825,37.641",
   "location_details": "Location is near a set of railroad tracks, that is near the South Fork Ninnescah River west of town.",
-  "temperature_high": 74.26,
-  "temperature_mid": 65.16,
-  "temperature_low": 56.06,
+  "temperature": {
+    "high": 74.26,
+    "mid": 65.16,
+    "low": 56.06
+  },
   "dew_point": 58.84,
   "humidity": 0.82,
   "cloud_cover": 0.62,

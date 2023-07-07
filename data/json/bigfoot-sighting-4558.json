@@ -11,9 +11,11 @@
   "longitude": -81.63656,
   "location": "-81.63656,40.17699",
   "location_details": "Guernsey County, Ohio near a community called Birds Run.",
-  "temperature_high": 61.7,
-  "temperature_mid": 51.87,
-  "temperature_low": 42.04,
+  "temperature": {
+    "high": 61.7,
+    "mid": 51.87,
+    "low": 42.04
+  },
   "dew_point": 41.96,
   "humidity": 0.74,
   "cloud_cover": 0.38,

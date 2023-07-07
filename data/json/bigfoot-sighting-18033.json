@@ -11,9 +11,11 @@
   "longitude": -85.2222,
   "location": "-85.2222,32.6825",
   "location_details": "Moved to private investigatiors section.",
-  "temperature_high": 81.98,
-  "temperature_mid": 72.33,
-  "temperature_low": 62.68,
+  "temperature": {
+    "high": 81.98,
+    "mid": 72.33,
+    "low": 62.68
+  },
   "dew_point": 64.96,
   "humidity": 0.77,
   "cloud_cover": 0.35,

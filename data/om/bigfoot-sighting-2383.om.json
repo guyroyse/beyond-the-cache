@@ -1,0 +1,35 @@
+{
+  "reportId": "2383",
+  "title": "Tall, hairy creature observed standing near a hitching post near family barn..",
+  "date": "1978-09-30",
+  "timestamp": 275961600,
+  "observed": "In the fall of 1978 we were in the house eating supper. Our house was built into the hillside.The front yard dropped off 200 feet to the road below, then dropped again to a small creek. Across this creek was our horse barn and chicken coop located in a small bottom. A hitching post was located to the side of this barn about 3 feet high. As we were eating supper, we could hear the horses down at the barn making a lot of noise, kicking the barn and nickering. My parents sent us down to see what was the matter. My brother and I went down the trail that led to the road. You could see down to the barn at the bottom. I will never forget what we saw. A very tall, hairy creature was standing by the hitching post to the right of the barn. The hitching post only came to it's knees, and the hands were hidden by the log at the top. My brother took off back up the hill to the house, but I stood there, maybe out of fright, and watched as it walked off. It was very tall and covered with hair. I could not make out many details, but the thing that struck me most was the long strides it took and the way it swung it's arms,very smooth and graceful. It seemed to turn it's head toward me but I never at any time felt threatened. It disappeared into the trees and I could hear it as it moved uphill, but it didn't crash loudly, just the rustling of bushes. At this point I took off.",
+  "classification": "Class A",
+  "county": "Henry",
+  "state": "Kentucky",
+  "latitude": 38.44148,
+  "longitude": -85.0016,
+  "location": {
+    "longitude": -85.0016,
+    "latitude": 38.44148
+  },
+  "location_details": "It's been a long time since we lived there. If you go to Lockport, go straight through town heading west. Joes Branch road is an old gravel road that heads out of town. It is approximately 15 miles long. The other end comes out near Bethlehem. Our house was about 7 miles down this road. It was very rough and isolated.",
+  "temperature": {
+    "high": 70.9,
+    "mid": 63.62,
+    "low": 56.34
+  },
+  "dew_point": 58.73,
+  "humidity": 0.86,
+  "cloud_cover": 0.64,
+  "moon_phase": 0.94,
+  "precip_intensity": 0.0358,
+  "precip_probability": 0.72,
+  "precip_type": "rain",
+  "pressure": 1016.86,
+  "summary": "Heavy rain starting in the afternoon, continuing until evening.",
+  "uv_index": 3,
+  "visibility": 4.21,
+  "wind_bearing": 202,
+  "wind_speed": 6.58
+}

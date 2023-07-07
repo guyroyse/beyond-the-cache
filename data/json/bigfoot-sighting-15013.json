@@ -11,9 +11,11 @@
   "longitude": -117.8333,
   "location": "-117.8333,34.2802",
   "location_details": "It was on the trail leading into the San Gabriel Wilderness from the east, at the saddle on the wilderness border. Smith Mountain is to the south of the saddle.",
-  "temperature_high": 89.03,
-  "temperature_mid": 77.18,
-  "temperature_low": 65.33,
+  "temperature": {
+    "high": 89.03,
+    "mid": 77.18,
+    "low": 65.33
+  },
   "dew_point": 54.78,
   "humidity": 0.48,
   "cloud_cover": 0.08,

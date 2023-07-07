@@ -11,9 +11,11 @@
   "longitude": -93.5577,
   "location": "-93.5577,38.0944",
   "location_details": "Near the H. Roe Bartle Scout Camp",
-  "temperature_high": 88.73,
-  "temperature_mid": 81.525,
-  "temperature_low": 74.32,
+  "temperature": {
+    "high": 88.73,
+    "mid": 81.525,
+    "low": 74.32
+  },
   "dew_point": 69.98,
   "humidity": 0.72,
   "cloud_cover": 0.62,

@@ -1,0 +1,35 @@
+{
+  "reportId": "28449",
+  "title": "Possible wood knock interaction by kayaking fishermen on Switzer Lake",
+  "date": "2010-08-21",
+  "timestamp": 1282348800,
+  "observed": "My cousins and I were kayak fishing on Switzer Lake in Va.  We had been out for around an hour or so when we heard a knocking sound coming from the bank.  We paddled a little closer and it stopped.  I started to hit the side of the kayak with my paddle and the knocking answered.  We did this back and forth for several minutes until it stopped answering back.  The area the knocking was coming from was very steep and would be hard for a person to get to.",
+  "classification": "Class B",
+  "county": "Rockingham",
+  "state": "Virginia",
+  "latitude": 38.56546,
+  "longitude": -79.14478,
+  "location": {
+    "longitude": -79.14478,
+    "latitude": 38.56546
+  },
+  "location_details": "The lake is around a mile down off the main road.  It is near the Wva, Va line.  It is the reservoir for the City of Harrisonburg.",
+  "temperature": {
+    "high": 85.3,
+    "mid": 78.615,
+    "low": 71.93
+  },
+  "dew_point": 65.29,
+  "humidity": 0.74,
+  "cloud_cover": 0.18,
+  "moon_phase": 0.41,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.13,
+  "precip_type": "rain",
+  "pressure": 1014.47,
+  "summary": "Mostly cloudy starting in the evening.",
+  "uv_index": 9,
+  "visibility": 8.25,
+  "wind_bearing": 181,
+  "wind_speed": 4.41
+}

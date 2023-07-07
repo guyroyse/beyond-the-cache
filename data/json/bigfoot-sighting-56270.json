@@ -11,9 +11,11 @@
   "longitude": -116.9137,
   "location": "-116.9137,48.43676",
   "location_details": "Highway 57 behind the rest area. My wife has had incidents while hiking in the spring with the dogs. I've had other encounters if you would like to contact me.",
-  "temperature_high": 52.62,
-  "temperature_mid": 48.055,
-  "temperature_low": 43.49,
+  "temperature": {
+    "high": 52.62,
+    "mid": 48.055,
+    "low": 43.49
+  },
   "dew_point": 40.49,
   "humidity": 0.8,
   "cloud_cover": 0.2,

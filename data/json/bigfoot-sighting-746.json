@@ -11,9 +11,11 @@
   "longitude": -80.93919,
   "location": "-80.93919,28.85025",
   "location_details": "Oak Hill, Florida in Volusia County",
-  "temperature_high": 79.25,
-  "temperature_mid": 72.055,
-  "temperature_low": 64.86,
+  "temperature": {
+    "high": 79.25,
+    "mid": 72.055,
+    "low": 64.86
+  },
   "dew_point": 64.08,
   "humidity": 0.75,
   "cloud_cover": 0.75,

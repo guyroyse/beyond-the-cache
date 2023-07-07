@@ -11,9 +11,11 @@
   "longitude": -110.85,
   "location": "-110.85,34.275",
   "location_details": "Sitgrieves National Forest, 30 something miles east of Payson.",
-  "temperature_high": 53.02,
-  "temperature_mid": 40.91,
-  "temperature_low": 28.8,
+  "temperature": {
+    "high": 53.02,
+    "mid": 40.91,
+    "low": 28.8
+  },
   "dew_point": 22.19,
   "humidity": 0.53,
   "cloud_cover": 0.07,

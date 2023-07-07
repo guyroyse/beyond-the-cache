@@ -11,9 +11,11 @@
   "longitude": -122.3057,
   "location": "-122.3057,44.97487",
   "location_details": "To get to Table Rock Wilderness from Molalla take Dickey Prairie Road to South Molalla Road and follow Molalla River. Follow signs to Table Rock.  See \"investigator comments\" for precise directions to location.",
-  "temperature_high": 58.3,
-  "temperature_mid": 49.885,
-  "temperature_low": 41.47,
+  "temperature": {
+    "high": 58.3,
+    "mid": 49.885,
+    "low": 41.47
+  },
   "dew_point": 49.37,
   "humidity": 0.87,
   "cloud_cover": 0.9,

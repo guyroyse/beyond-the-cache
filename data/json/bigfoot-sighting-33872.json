@@ -11,9 +11,11 @@
   "longitude": -95.32129,
   "location": "-95.32129,37.8322",
   "location_details": "Just off the Hwy71 Camp Clark exit",
-  "temperature_high": 66.76,
-  "temperature_mid": 55.48,
-  "temperature_low": 44.2,
+  "temperature": {
+    "high": 66.76,
+    "mid": 55.48,
+    "low": 44.2
+  },
   "dew_point": 32.06,
   "humidity": 0.54,
   "cloud_cover": 0.07,

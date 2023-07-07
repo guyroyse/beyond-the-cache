@@ -11,9 +11,11 @@
   "longitude": -120.7426,
   "location": "-120.7426,47.74435",
   "location_details": "I will not give directions   No tresspassing on railroad property.  I don't want problems with my job.",
-  "temperature_high": 34.12,
-  "temperature_mid": 28.215,
-  "temperature_low": 22.31,
+  "temperature": {
+    "high": 34.12,
+    "mid": 28.215,
+    "low": 22.31
+  },
   "dew_point": 25.55,
   "humidity": 0.86,
   "cloud_cover": 0.66,

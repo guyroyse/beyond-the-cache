@@ -11,9 +11,11 @@
   "longitude": -116.0833,
   "location": "-116.0833,44.91666",
   "location_details": "Approximately 6 miles from McCall as it was then.  The area has now gone commercial and has much development on it.  The actual location is now a tennis court.",
-  "temperature_high": 75.42,
-  "temperature_mid": 61.825,
-  "temperature_low": 48.23,
+  "temperature": {
+    "high": 75.42,
+    "mid": 61.825,
+    "low": 48.23
+  },
   "dew_point": 37.75,
   "humidity": 0.4,
   "cloud_cover": 0.32,

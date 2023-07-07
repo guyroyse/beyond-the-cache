@@ -11,9 +11,11 @@
   "longitude": -87.44963,
   "location": "-87.44963,35.78439",
   "location_details": "Along the Duck River in Middle TN.",
-  "temperature_high": 82.9,
-  "temperature_mid": 70.655,
-  "temperature_low": 58.41,
+  "temperature": {
+    "high": 82.9,
+    "mid": 70.655,
+    "low": 58.41
+  },
   "dew_point": 65.09,
   "humidity": 0.71,
   "cloud_cover": 0.45,

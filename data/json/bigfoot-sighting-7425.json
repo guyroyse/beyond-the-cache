@@ -11,9 +11,11 @@
   "longitude": -82.44401,
   "location": "-82.44401,40.92276",
   "location_details": "The location was south of the Adario West Road approx 1/2 mile along the creek.",
-  "temperature_high": 52.95,
-  "temperature_mid": 47.99,
-  "temperature_low": 43.03,
+  "temperature": {
+    "high": 52.95,
+    "mid": 47.99,
+    "low": 43.03
+  },
   "dew_point": 38.49,
   "humidity": 0.77,
   "cloud_cover": 0.72,

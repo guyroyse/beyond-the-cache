@@ -11,9 +11,11 @@
   "longitude": -97.04361,
   "location": "-97.04361,33.48028",
   "location_details": "USA Texas/Cooke Mountain springs; north side of Lake Ray Roberts",
-  "temperature_high": 91.96,
-  "temperature_mid": 81.32,
-  "temperature_low": 70.68,
+  "temperature": {
+    "high": 91.96,
+    "mid": 81.32,
+    "low": 70.68
+  },
   "dew_point": 68.82,
   "humidity": 0.73,
   "cloud_cover": 0.74,

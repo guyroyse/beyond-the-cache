@@ -11,9 +11,11 @@
   "longitude": -95.48672,
   "location": "-95.48672,32.31565",
   "location_details": "Crossing over the Neches River Bridge on Farm Market Rd 279",
-  "temperature_high": 64.66,
-  "temperature_mid": 64.37,
-  "temperature_low": 64.08,
+  "temperature": {
+    "high": 64.66,
+    "mid": 64.37,
+    "low": 64.08
+  },
   "dew_point": 57.52,
   "humidity": 0.83,
   "cloud_cover": 0.19,

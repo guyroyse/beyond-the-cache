@@ -11,9 +11,11 @@
   "longitude": -123.311,
   "location": "-123.311,43.5251",
   "location_details": "Approximately mile post 147 on I-5.",
-  "temperature_high": 78.65,
-  "temperature_mid": 66.78,
-  "temperature_low": 54.91,
+  "temperature": {
+    "high": 78.65,
+    "mid": 66.78,
+    "low": 54.91
+  },
   "dew_point": 41.34,
   "humidity": 0.52,
   "cloud_cover": 0.09,

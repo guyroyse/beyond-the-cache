@@ -11,9 +11,11 @@
   "longitude": -85.00165,
   "location": "-85.00165,44.76665",
   "location_details": "west of Twin Lakes in Kalkaska County, probably on Twin Lakes Road NE (based on the Google Earth May 12, 1994 image), east of State Highway 66",
-  "temperature_high": 69.55,
-  "temperature_mid": 55.76,
-  "temperature_low": 41.97,
+  "temperature": {
+    "high": 69.55,
+    "mid": 55.76,
+    "low": 41.97
+  },
   "dew_point": 55.12,
   "humidity": 0.77,
   "cloud_cover": 0.79,

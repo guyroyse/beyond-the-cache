@@ -11,9 +11,11 @@
   "longitude": -120.835,
   "location": "-120.835,47.495",
   "location_details": "From Levenworth Washington, up the Icicle River road to a trail-head leading to several lakes on the way to the Enchantment's area. Six miles up the trail is Colchuck Lake at about 5200 feet elev.",
-  "temperature_high": 74.34,
-  "temperature_mid": 64.675,
-  "temperature_low": 55.01,
+  "temperature": {
+    "high": 74.34,
+    "mid": 64.675,
+    "low": 55.01
+  },
   "dew_point": 54.42,
   "humidity": 0.73,
   "cloud_cover": 0.05,

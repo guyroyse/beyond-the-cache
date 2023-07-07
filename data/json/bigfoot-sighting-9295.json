@@ -11,9 +11,11 @@
   "longitude": -88.1255,
   "location": "-88.1255,43.1575",
   "location_details": "My Grandmother does not own the house anymore. Don't want to cause a disturbance with the guy who purchased house.",
-  "temperature_high": 80.51,
-  "temperature_mid": 75.345,
-  "temperature_low": 70.18,
+  "temperature": {
+    "high": 80.51,
+    "mid": 75.345,
+    "low": 70.18
+  },
   "dew_point": 66.86,
   "humidity": 0.83,
   "cloud_cover": 0.55,

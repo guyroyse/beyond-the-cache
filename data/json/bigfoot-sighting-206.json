@@ -11,9 +11,11 @@
   "longitude": -123.455,
   "location": "-123.455,43.7667",
   "location_details": "We sighted what we believe to be a bigfoot while driving to the coast on little used Smith River Rd.",
-  "temperature_high": 73.98,
-  "temperature_mid": 63.205,
-  "temperature_low": 52.43,
+  "temperature": {
+    "high": 73.98,
+    "mid": 63.205,
+    "low": 52.43
+  },
   "dew_point": 46.79,
   "humidity": 0.62,
   "cloud_cover": 0.12,

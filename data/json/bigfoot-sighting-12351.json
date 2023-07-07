@@ -11,9 +11,11 @@
   "longitude": -81.45421,
   "location": "-81.45421,29.7788",
   "location_details": "It happend on St. Ambrose Church Rd. You take St. Rt. 207 east out of St. Augustine for about 7 miles. Off to the right is a road that y's off, That is St. Ambrose Church Rd. I am about 3 miles down the road on the right.",
-  "temperature_high": 90.44,
-  "temperature_mid": 84.58,
-  "temperature_low": 78.72,
+  "temperature": {
+    "high": 90.44,
+    "mid": 84.58,
+    "low": 78.72
+  },
   "dew_point": 75.23,
   "humidity": 0.76,
   "cloud_cover": 0.27,

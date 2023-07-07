@@ -11,9 +11,11 @@
   "longitude": -81.29745,
   "location": "-81.29745,37.58135",
   "location_details": "Heading to the deep mine Poca #2, the airshaft would be on your right hand side. Look a little past the bridge where the stream flows south. All this is private property.",
-  "temperature_high": 37.22,
-  "temperature_mid": 36.03,
-  "temperature_low": 34.84,
+  "temperature": {
+    "high": 37.22,
+    "mid": 36.03,
+    "low": 34.84
+  },
   "dew_point": 19.91,
   "humidity": 0.63,
   "cloud_cover": 0.66,

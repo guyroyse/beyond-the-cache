@@ -11,9 +11,11 @@
   "longitude": -94.63111,
   "location": "-94.63111,34.84167",
   "location_details": "my ex husbands house, down in the bottom land of hodgens, oklahoma",
-  "temperature_high": 65.7,
-  "temperature_mid": 49.88,
-  "temperature_low": 34.06,
+  "temperature": {
+    "high": 65.7,
+    "mid": 49.88,
+    "low": 34.06
+  },
   "dew_point": 31.05,
   "humidity": 0.57,
   "cloud_cover": 0.04,

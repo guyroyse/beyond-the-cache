@@ -11,9 +11,11 @@
   "longitude": -92.6349,
   "location": "-92.6349,47.51591",
   "location_details": "On the 169 (heading west toward hibbing)on the outskirts of Iron in a high voltage tower clearing with woods on either side.  Remember, I was headed east to Virginia, seeing this across the two-way of 169 going west.",
-  "temperature_high": 55.3,
-  "temperature_mid": 49.275,
-  "temperature_low": 43.25,
+  "temperature": {
+    "high": 55.3,
+    "mid": 49.275,
+    "low": 43.25
+  },
   "dew_point": 35.77,
   "humidity": 0.72,
   "cloud_cover": 0.06,

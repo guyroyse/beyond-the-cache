@@ -11,9 +11,11 @@
   "longitude": -82.3997,
   "location": "-82.3997,39.25109",
   "location_details": "Vinton County, Ohio. Ten or so miles from McArthur (east). Prattsville to be exact. one mile north of route 50.",
-  "temperature_high": 44.71,
-  "temperature_mid": 37.04,
-  "temperature_low": 29.37,
+  "temperature": {
+    "high": 44.71,
+    "mid": 37.04,
+    "low": 29.37
+  },
   "dew_point": 21.97,
   "humidity": 0.69,
   "cloud_cover": 0.32,

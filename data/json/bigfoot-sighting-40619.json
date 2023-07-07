@@ -11,9 +11,11 @@
   "longitude": -83.7278,
   "location": "-83.7278,39.6543",
   "location_details": "The newer bike path beside the graveyard.",
-  "temperature_high": 51.41,
-  "temperature_mid": 41.545,
-  "temperature_low": 31.68,
+  "temperature": {
+    "high": 51.41,
+    "mid": 41.545,
+    "low": 31.68
+  },
   "dew_point": 38.67,
   "humidity": 0.87,
   "cloud_cover": 0.8,

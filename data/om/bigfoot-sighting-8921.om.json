@@ -1,0 +1,35 @@
+{
+  "reportId": "8921",
+  "title": "Possible daylight sighting near freeway outside Birmingham",
+  "date": "2006-06-03",
+  "timestamp": 1149292800,
+  "observed": "I'm really not sure what I saw. I was going back to Birmingham  on interstate 59 exit 166 as I was going down the ramp to get on the interstate this is what I saw I cought something out of the corner of my eye and thought is was an owl but then I releaized that there was no branch there and when this thing looked at me I remember seeing to huge eyes  and it looked like it had it's arm leaning on a tree it was about 6 to 8 feet high and a dark color sort of a grey black blended in with the trees.  I just cought it for a few seconds.. I'm just not sure, I just know it was not an owl..",
+  "classification": "Class B",
+  "county": "Blount",
+  "state": "Alabama",
+  "latitude": 33.00014,
+  "longitude": -86.00004,
+  "location": {
+    "longitude": -86.00004,
+    "latitude": 33.00014
+  },
+  "location_details": "Exit 166 or 266 just above Birmingham, Al.",
+  "temperature": {
+    "high": 82.61,
+    "mid": 69.545,
+    "low": 56.48
+  },
+  "dew_point": 61.37,
+  "humidity": 0.72,
+  "cloud_cover": 0.3,
+  "moon_phase": 0.24,
+  "precip_intensity": 0.0007,
+  "precip_probability": 0.35,
+  "precip_type": "rain",
+  "pressure": 1012.52,
+  "summary": "Partly cloudy until afternoon.",
+  "uv_index": 11,
+  "visibility": 8.32,
+  "wind_bearing": 345,
+  "wind_speed": 6.18
+}

@@ -11,9 +11,11 @@
   "longitude": -89.5,
   "location": "-89.5,39.853",
   "location_details": "There is a lengthy stretch of road that runs alongside railroad tracks (north side of the road), between Riverton and Dawson. If you were to look at a map you will see a bend in the road. It was between the end of this bend to a mile east of the bend that I saw this creature. I saw it laying in the right lane (my lane) of the two lane highway. After we were driving away I retreated to the south side of the highway. Looking at the south side of the highway there are some trees or woods and brush which is where it was likely heading. Directions to location: Driving east of Springfield on Interstate 72 take exit #108 toward Riverton Dawson, at the top of the off ramp turn left. Head towards the flashing yellow light close to the intersection. At the intersecion turn right onto old Rt. 36 towards Dawson. Almost immediately you will begin into the bend in the road that I mentioned previously. At the end of the bend the road will be positioned close to the railroad tracks. It is between here and the next mile where I had my encounter.",
-  "temperature_high": 40.96,
-  "temperature_mid": 31.825,
-  "temperature_low": 22.69,
+  "temperature": {
+    "high": 40.96,
+    "mid": 31.825,
+    "low": 22.69
+  },
   "dew_point": 32.63,
   "humidity": 0.83,
   "cloud_cover": 0.75,

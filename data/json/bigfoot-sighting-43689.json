@@ -11,9 +11,11 @@
   "longitude": -86.98473,
   "location": "-86.98473,33.55153",
   "location_details": "Near Bayveiw Lake",
-  "temperature_high": 83.26,
-  "temperature_mid": 74.46,
-  "temperature_low": 65.66,
+  "temperature": {
+    "high": 83.26,
+    "mid": 74.46,
+    "low": 65.66
+  },
   "dew_point": 62.19,
   "humidity": 0.73,
   "cloud_cover": 0,

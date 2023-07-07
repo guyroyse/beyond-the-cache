@@ -11,9 +11,11 @@
   "longitude": -86.19037,
   "location": "-86.19037,44.38367",
   "location_details": "Up on a hill in an apple orchard",
-  "temperature_high": 60.42,
-  "temperature_mid": 50.76,
-  "temperature_low": 41.1,
+  "temperature": {
+    "high": 60.42,
+    "mid": 50.76,
+    "low": 41.1
+  },
   "dew_point": 37.55,
   "humidity": 0.7,
   "cloud_cover": 0.21,

@@ -11,9 +11,11 @@
   "longitude": -76.04183,
   "location": "-76.04183,39.73523",
   "location_details": "Glen Roy road, Nottingham, PA",
-  "temperature_high": 78.39,
-  "temperature_mid": 72.115,
-  "temperature_low": 65.84,
+  "temperature": {
+    "high": 78.39,
+    "mid": 72.115,
+    "low": 65.84
+  },
   "dew_point": 61.81,
   "humidity": 0.74,
   "cloud_cover": 0.11,

@@ -11,9 +11,11 @@
   "longitude": -82.43855,
   "location": "-82.43855,38.35806",
   "location_details": "Top of hill in clearing at base of pine thicket",
-  "temperature_high": 60.98,
-  "temperature_mid": 53.415,
-  "temperature_low": 45.85,
+  "temperature": {
+    "high": 60.98,
+    "mid": 53.415,
+    "low": 45.85
+  },
   "dew_point": 49.48,
   "humidity": 0.77,
   "cloud_cover": 0.88,

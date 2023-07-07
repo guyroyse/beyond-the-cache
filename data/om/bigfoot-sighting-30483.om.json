@@ -1,0 +1,35 @@
+{
+  "reportId": "30483",
+  "title": "Possible road crossing observed at dusk by a truck driver on I-75 south of Cordele",
+  "date": "2011-08-25",
+  "timestamp": 1314230400,
+  "observed": "Crossed highway in front of me.",
+  "classification": "Class B",
+  "county": "Crisp",
+  "state": "Georgia",
+  "latitude": 31.85605,
+  "longitude": -83.57655,
+  "location": {
+    "longitude": -83.57655,
+    "latitude": 31.85605
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 94.42,
+    "mid": 83.36,
+    "low": 72.3
+  },
+  "dew_point": 70.14,
+  "humidity": 0.7,
+  "cloud_cover": 0.14,
+  "moon_phase": 0.87,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.13,
+  "precip_type": "rain",
+  "pressure": 1012.98,
+  "summary": "Humid throughout the day and partly cloudy until afternoon.",
+  "uv_index": 8,
+  "visibility": 9.64,
+  "wind_bearing": 69,
+  "wind_speed": 3.56
+}

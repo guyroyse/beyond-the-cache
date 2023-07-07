@@ -11,9 +11,11 @@
   "longitude": -73.16418,
   "location": "-73.16418,42.34607",
   "location_details": "Near Fenton Lake also known as Camp Eagle in October Mountain State Forest. Access road is north of four corners.",
-  "temperature_high": 71.49,
-  "temperature_mid": 61.815,
-  "temperature_low": 52.14,
+  "temperature": {
+    "high": 71.49,
+    "mid": 61.815,
+    "low": 52.14
+  },
   "dew_point": 57.62,
   "humidity": 0.77,
   "cloud_cover": 0.23,

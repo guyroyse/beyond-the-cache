@@ -11,9 +11,11 @@
   "longitude": -118.6744,
   "location": "-118.6744,36.22306",
   "location_details": "It was in the South Fork Meadows area in southern Sequoia National Park near the border of the Golden Trout Wilderness area. The specific backcountry campsite is in the Hockett plateau area at about 8,500 feet elevation.",
-  "temperature_high": 90.01,
-  "temperature_mid": 74.4,
-  "temperature_low": 58.79,
+  "temperature": {
+    "high": 90.01,
+    "mid": 74.4,
+    "low": 58.79
+  },
   "dew_point": 44.5,
   "humidity": 0.36,
   "cloud_cover": 0.02,

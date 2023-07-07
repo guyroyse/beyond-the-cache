@@ -11,9 +11,11 @@
   "longitude": -75.11044,
   "location": "-75.11044,40.76345",
   "location_details": "forested wetland at the base of a ridge on southeast side and agricultural field on west. whatever it was it crossed west to east",
-  "temperature_high": 30.45,
-  "temperature_mid": 26.745,
-  "temperature_low": 23.04,
+  "temperature": {
+    "high": 30.45,
+    "mid": 26.745,
+    "low": 23.04
+  },
   "dew_point": 13.72,
   "humidity": 0.63,
   "cloud_cover": 0.35,

@@ -1,0 +1,35 @@
+{
+  "reportId": "31419",
+  "title": "Possible nighttime sighting and vocalizations in a backyard near Old Ripley",
+  "date": "2011-12-08",
+  "timestamp": 1323302400,
+  "observed": "I was in bed and heard my dogs barking outside. I went out in time to see the dog run under the porch and something duck into the woods. I first thought it to be a large man in a coat but upon shouting and throwing a small stone into the trees discovered otherwise. Responding to my shout it shrieked/howled and tossed the stone back at me. It landed at my feet and then silence took hold in the trees again. I ran inside in a panic and finding a flashlight headed out to search for the intruder. I found only torn twisted horseweed and snapped branches about five and a half feet up. I have not seen it since but it stood easily six feet stooped,  smelled like a rotting carcass even in the winter and walked on two then four legs. I have however seen trails in the woods before and after the incident that looked as if they were made by a very similar animal.",
+  "classification": "Class B",
+  "county": "Bond",
+  "state": "Illinois",
+  "latitude": 38.9241,
+  "longitude": -89.53419,
+  "location": {
+    "longitude": -89.53419,
+    "latitude": 38.9241
+  },
+  "location_details": "Outside Greenville near Old Ripley",
+  "temperature": {
+    "high": 42.5,
+    "mid": 37.74,
+    "low": 32.98
+  },
+  "dew_point": 24.86,
+  "humidity": 0.68,
+  "cloud_cover": 0.31,
+  "moon_phase": 0.44,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.16,
+  "precip_type": "rain",
+  "pressure": 1024.24,
+  "summary": "Mostly cloudy starting in the evening.",
+  "uv_index": 2,
+  "visibility": 9.89,
+  "wind_bearing": 209,
+  "wind_speed": 3.53
+}

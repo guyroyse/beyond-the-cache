@@ -11,9 +11,11 @@
   "longitude": -121.936,
   "location": "-121.936,46.48441",
   "location_details": "From FR 23 heading south, turn right on Road 2504.  About a mile in, there is a closed road on the right hand side.  You must then hike in about 1.5 miles (following the left fork) up to its end.  That's where the encounter occurred.",
-  "temperature_high": 48.03,
-  "temperature_mid": 44.555,
-  "temperature_low": 41.08,
+  "temperature": {
+    "high": 48.03,
+    "mid": 44.555,
+    "low": 41.08
+  },
   "dew_point": 42.79,
   "humidity": 0.86,
   "cloud_cover": 0.86,

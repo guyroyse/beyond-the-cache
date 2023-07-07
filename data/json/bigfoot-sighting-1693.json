@@ -11,9 +11,11 @@
   "longitude": -110.3308,
   "location": "-110.3308,46.01833",
   "location_details": "a cliffband on top of a timbered hill at about 7000' on west side of Crazy Mountains",
-  "temperature_high": 64.84,
-  "temperature_mid": 50.025,
-  "temperature_low": 35.21,
+  "temperature": {
+    "high": 64.84,
+    "mid": 50.025,
+    "low": 35.21
+  },
   "dew_point": 23.12,
   "humidity": 0.37,
   "cloud_cover": 0.41,

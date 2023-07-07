@@ -11,9 +11,11 @@
   "longitude": -88.74805,
   "location": "-88.74805,32.3372",
   "location_details": "Meridian, Mississippi, Lauderdale County.  By the NAVY base, In the woods behind Military housing.",
-  "temperature_high": 81.03,
-  "temperature_mid": 67.55,
-  "temperature_low": 54.07,
+  "temperature": {
+    "high": 81.03,
+    "mid": 67.55,
+    "low": 54.07
+  },
   "dew_point": 54.71,
   "humidity": 0.72,
   "cloud_cover": 0.09,

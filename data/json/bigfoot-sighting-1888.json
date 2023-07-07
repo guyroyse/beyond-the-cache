@@ -11,9 +11,11 @@
   "longitude": -94.93722,
   "location": "-94.93722,34.53889",
   "location_details": "The town dump is located on the north side of Boktuklo Mt. just half a mile south of Honobia. From the Girl's Camp intersection, go half a mile south, turn left on the first road. Cross the river and go about one quarter mile to the dump. There are other entrances to the dump, but this one is the one where I removed boulders that had been placed in the road in an apparent attempt to block it. (This was not a rock slide situation.)And trees broken in a series, not all at the same time, along the road leading to the dump.  This is, also, the location where I found, above a rock outcropping, a large western red cedar that had been used as a lookout tower by something of great weight that came up from the river. There were no trails leading to the tree. It was obstructed by green briars and there were bleached out, undisturbed leaves on the ground everywhere except the stone outcropping that extended about ten feet or so down to the river. There was a heavy wear pattern on one side of the tree as if it had been used as a ladder.  From that vantage point in the tree, traffic on Indian Hwy. and traffic on the road to the city dump could be viewed. (This lookout was not situated over a game trail.)",
-  "temperature_high": 77.91,
-  "temperature_mid": 67.19,
-  "temperature_low": 56.47,
+  "temperature": {
+    "high": 77.91,
+    "mid": 67.19,
+    "low": 56.47
+  },
   "dew_point": 61.48,
   "humidity": 0.7,
   "cloud_cover": 0.5,

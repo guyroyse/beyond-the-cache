@@ -11,9 +11,11 @@
   "longitude": -86.161,
   "location": "-86.161,39.4862",
   "location_details": "From SR 135, go to Dutch Creek Rd and from there, turn on to Falling Creek Rd.",
-  "temperature_high": 86.92,
-  "temperature_mid": 77.775,
-  "temperature_low": 68.63,
+  "temperature": {
+    "high": 86.92,
+    "mid": 77.775,
+    "low": 68.63
+  },
   "dew_point": 68.55,
   "humidity": 0.75,
   "cloud_cover": 0.38,

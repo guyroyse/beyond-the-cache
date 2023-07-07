@@ -11,9 +11,11 @@
   "longitude": -123.292,
   "location": "-123.292,41.23598",
   "location_details": "Parking and picnic area directly off Hwy 96 where the hwy runs parallel to the Klamath River. At the north end of the Klamath National Forest.",
-  "temperature_high": 75.04,
-  "temperature_mid": 65.55,
-  "temperature_low": 56.06,
+  "temperature": {
+    "high": 75.04,
+    "mid": 65.55,
+    "low": 56.06
+  },
   "dew_point": 53.82,
   "humidity": 0.7,
   "cloud_cover": 0.34,

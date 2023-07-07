@@ -11,9 +11,11 @@
   "longitude": -84.48414,
   "location": "-84.48414,35.18597",
   "location_details": "Atleast 1 hr. to Georgia.",
-  "temperature_high": 85.35,
-  "temperature_mid": 77.315,
-  "temperature_low": 69.28,
+  "temperature": {
+    "high": 85.35,
+    "mid": 77.315,
+    "low": 69.28
+  },
   "dew_point": 65.78,
   "humidity": 0.74,
   "cloud_cover": 0.36,

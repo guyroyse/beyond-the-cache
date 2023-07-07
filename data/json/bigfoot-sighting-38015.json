@@ -11,9 +11,11 @@
   "longitude": -92.52505,
   "location": "-92.52505,36.14065",
   "location_details": "12/4/2012 19:34 Marion County Arkansas US. 62/412 Near Snow Arkansas. Night, dark clear, road traffic was light. I was traveling west bound, headlight on bright. Three creatures, two were adults and a young one. I saw them traveling from left to right, the adults were near the yellow line in the hwy, the smaller one was about three steps behind the large ones. The two large one went right over the fence to my left with very little extra effort, like a large high stride. the smaller one, use the right hand on the fence post and jumped the fence. I was about 5 car lengths away from the smaller one.",
-  "temperature_high": 59.46,
-  "temperature_mid": 47.16,
-  "temperature_low": 34.86,
+  "temperature": {
+    "high": 59.46,
+    "mid": 47.16,
+    "low": 34.86
+  },
   "dew_point": 49.59,
   "humidity": 0.8,
   "cloud_cover": 0.59,

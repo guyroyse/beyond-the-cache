@@ -1,0 +1,35 @@
+{
+  "reportId": "2155",
+  "title": "Woman describes creature she observed from window",
+  "date": "2004-04-21",
+  "timestamp": 1082505600,
+  "observed": "It was about 9 or 10 feet tall, it was so big it covered the entire window.  The window was long and narrow and about 4 feet from the ground. I'm guessing the hair was about 3 inches long and the color looked like copper in the bright light. The pictures you have on this site looks just like the one I saw except the face. The face of the one I saw was covered with hair and the eyes were big and round. It had brown eyes.  The lips were not big and thick, they were thin compared to the pictures.  The nose I didn't notice maybe the hair covered it or I don't remember it anyway.  I mostly remember the eyes. It never showed it's teeth or made any kind of facial expression.  I didn't scream or do anything myself but look into it's eyes. I wasn't afraid of it, infact I have always thought that it didn't want to scare me away. I felt sorry for it, for some unknown reason I felt it was a female that had lost it's young. It had made it's home under my back lawn.  There must have been a mine or cave on the other side of the hill that lead back under the lawn.  There were houses close beside my house and none of the nieghbors saw it. I think that they are a very curious animal. I will end this with the fact that I would be afraid of it now.",
+  "classification": "Class A",
+  "county": "Johnson",
+  "state": "Kentucky",
+  "latitude": 37.77591,
+  "longitude": -82.74628,
+  "location": {
+    "longitude": -82.74628,
+    "latitude": 37.77591
+  },
+  "location_details": "I'm sorry I don't remember the name of the road, but it's the main road between the school and a place called Wolfpen Hollow. The house set between a house owned by a family known as XXXXX and a XX XXX XXXXXXX on the other side. There was a rail road track across the street. The XXXXX family I think bought the house where this happened but she passed away about 10 years ago. now I don't know who owns it. I move back to Ky in hopes that I might get it back. but it's only a dream.",
+  "temperature": {
+    "high": 72.37,
+    "mid": 64.18,
+    "low": 55.99
+  },
+  "dew_point": 51.65,
+  "humidity": 0.65,
+  "cloud_cover": 0.3,
+  "moon_phase": 0.07,
+  "precip_intensity": 0.0083,
+  "precip_probability": 0.5,
+  "precip_type": "rain",
+  "pressure": 1012.16,
+  "summary": "Light rain in the evening.",
+  "uv_index": 7,
+  "visibility": 8.83,
+  "wind_bearing": 198,
+  "wind_speed": 6.78
+}

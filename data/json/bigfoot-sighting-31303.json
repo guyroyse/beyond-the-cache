@@ -11,9 +11,11 @@
   "longitude": -77.53445,
   "location": "-77.53445,34.50917",
   "location_details": "East side shoulder of US-17 approximately one or two miles north of the town of Holly Ridge, NC",
-  "temperature_high": 83.04,
-  "temperature_mid": 70.665,
-  "temperature_low": 58.29,
+  "temperature": {
+    "high": 83.04,
+    "mid": 70.665,
+    "low": 58.29
+  },
   "dew_point": 59.71,
   "humidity": 0.71,
   "cloud_cover": 0.21,

@@ -11,9 +11,11 @@
   "longitude": -90.7167,
   "location": "-90.7167,44.4723",
   "location_details": "Forest Road, north of Hatfield, witness prefers to keep exact location private.",
-  "temperature_high": 65.36,
-  "temperature_mid": 56.915,
-  "temperature_low": 48.47,
+  "temperature": {
+    "high": 65.36,
+    "mid": 56.915,
+    "low": 48.47
+  },
   "dew_point": 36.54,
   "humidity": 0.54,
   "cloud_cover": 0.31,

@@ -11,9 +11,11 @@
   "longitude": -85.7944,
   "location": "-85.7944,31.53475",
   "location_details": "Alabama Hwy. 51 in northern Coffee county, in a rural area, approximately one mile south of the Dale county line",
-  "temperature_high": 73.59,
-  "temperature_mid": 66.47,
-  "temperature_low": 59.35,
+  "temperature": {
+    "high": 73.59,
+    "mid": 66.47,
+    "low": 59.35
+  },
   "dew_point": 54.06,
   "humidity": 0.76,
   "cloud_cover": 0.54,

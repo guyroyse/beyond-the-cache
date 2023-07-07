@@ -11,9 +11,11 @@
   "longitude": -87.8617,
   "location": "-87.8617,41.7173",
   "location_details": "On 95th Street west of LaGrange Road in Country Lane Woods which is part of Forest Preserves of Cook County.",
-  "temperature_high": 78.38,
-  "temperature_mid": 74.48,
-  "temperature_low": 70.58,
+  "temperature": {
+    "high": 78.38,
+    "mid": 74.48,
+    "low": 70.58
+  },
   "dew_point": 54.88,
   "humidity": 0.59,
   "cloud_cover": 0.14,

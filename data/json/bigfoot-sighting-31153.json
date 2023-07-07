@@ -11,9 +11,11 @@
   "longitude": -81.43248,
   "location": "-81.43248,28.98491",
   "location_details": "From Deland, FL go W on SR 44 across the St. Johns River. Take first right on CR 42. Travel 3 miles to Lake Mack and turn left. Turn right on Bear Lake.",
-  "temperature_high": 89.02,
-  "temperature_mid": 81.965,
-  "temperature_low": 74.91,
+  "temperature": {
+    "high": 89.02,
+    "mid": 81.965,
+    "low": 74.91
+  },
   "dew_point": 71.65,
   "humidity": 0.75,
   "cloud_cover": 0.38,

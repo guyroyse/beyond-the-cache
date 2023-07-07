@@ -11,9 +11,11 @@
   "longitude": -91.10812,
   "location": "-91.10812,46.25961",
   "location_details": "We were staying in a cabin on Hwy D, just north of Lake Namekagon. We were fishing on Lake Owen, which is to the west of Lake Namekagon. To get to our boat, we took Pioneer Road to Lake Owen. The sighting was just east of the golf course on Pioneer",
-  "temperature_high": 75.05,
-  "temperature_mid": 63.94,
-  "temperature_low": 52.83,
+  "temperature": {
+    "high": 75.05,
+    "mid": 63.94,
+    "low": 52.83
+  },
   "dew_point": 58.65,
   "humidity": 0.7,
   "cloud_cover": 0.28,

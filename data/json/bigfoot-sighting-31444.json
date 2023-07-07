@@ -11,9 +11,11 @@
   "longitude": -84.2995,
   "location": "-84.2995,41.871",
   "location_details": "I remember coming from Adrian, Michigan taking Beecher Road all the way down. There is a store on the right make a left turn down that road and I want to say turn right a mile or so down the road.",
-  "temperature_high": 88.61,
-  "temperature_mid": 71.38,
-  "temperature_low": 54.15,
+  "temperature": {
+    "high": 88.61,
+    "mid": 71.38,
+    "low": 54.15
+  },
   "dew_point": 64.6,
   "humidity": 0.69,
   "cloud_cover": 0.52,

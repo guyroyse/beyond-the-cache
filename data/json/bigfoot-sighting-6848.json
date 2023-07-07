@@ -11,9 +11,11 @@
   "longitude": -80.64211,
   "location": "-80.64211,40.34042",
   "location_details": "Left side of Wilson Avenue behind a log home.",
-  "temperature_high": 46.27,
-  "temperature_mid": 39.725,
-  "temperature_low": 33.18,
+  "temperature": {
+    "high": 46.27,
+    "mid": 39.725,
+    "low": 33.18
+  },
   "dew_point": 21.57,
   "humidity": 0.65,
   "cloud_cover": 0.21,

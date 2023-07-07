@@ -11,9 +11,11 @@
   "longitude": -114.9221,
   "location": "-114.9221,44.14765",
   "location_details": "200-300 yards directly behind the employee housing complex in the direction of Fish Hook creek by Redfish Lake in Stanley, Idaho.",
-  "temperature_high": 80.32,
-  "temperature_mid": 59.9,
-  "temperature_low": 39.48,
+  "temperature": {
+    "high": 80.32,
+    "mid": 59.9,
+    "low": 39.48
+  },
   "dew_point": 36.66,
   "humidity": 0.5,
   "cloud_cover": 0.03,

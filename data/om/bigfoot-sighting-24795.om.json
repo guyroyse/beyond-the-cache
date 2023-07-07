@@ -1,0 +1,34 @@
+{
+  "reportId": "24795",
+  "title": "Campers hear lengthy call and response sequence between creatures in the Giant Sequoia National Monument",
+  "date": "2008-08-11",
+  "timestamp": 1218412800,
+  "observed": "Loud whooping exchange was heard between at least two, possibly three entities at a range of no more than 500 meters. Deep whooping was projecting from the southwest, with answers coming from the south/southeast. The answer calls came in higher pitches and might have been coming from two different animals. The whoops could at times be described as moaning and other inflected noises I can't really describe with words. The exchange lasted for about 30 minutes. The higher ptiched calls shifted slightly from SE to E.",
+  "classification": "Class B",
+  "county": "Tulare",
+  "state": "California",
+  "latitude": 35.5803,
+  "longitude": -118.3804,
+  "location": {
+    "longitude": -118.3804,
+    "latitude": 35.5803
+  },
+  "location_details": "Parker Meadow in the Sequoia National Monument. I was located approx 3/4 of the way up the western most fire road",
+  "temperature": {
+    "high": 98.51,
+    "mid": 81.825,
+    "low": 65.14
+  },
+  "dew_point": 42.2,
+  "humidity": 0.28,
+  "cloud_cover": 0.01,
+  "moon_phase": 0.34,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1010.22,
+  "summary": "Clear throughout the day.",
+  "uv_index": 12,
+  "visibility": 10,
+  "wind_bearing": 241,
+  "wind_speed": 3.68
+}

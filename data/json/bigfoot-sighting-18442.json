@@ -11,9 +11,11 @@
   "longitude": -92.7622,
   "location": "-92.7622,36.94109",
   "location_details": "Western Douglas County, just west off KK Highway.",
-  "temperature_high": 87.05,
-  "temperature_mid": 79.205,
-  "temperature_low": 71.36,
+  "temperature": {
+    "high": 87.05,
+    "mid": 79.205,
+    "low": 71.36
+  },
   "dew_point": 63.97,
   "humidity": 0.66,
   "cloud_cover": 0.67,

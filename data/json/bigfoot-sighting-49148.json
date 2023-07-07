@@ -11,9 +11,11 @@
   "longitude": -83.52959,
   "location": "-83.52959,30.0326",
   "location_details": "The tracks and trails were on the lower ridge trail 2-3 miles from Standing Indian campground.",
-  "temperature_high": 85.64,
-  "temperature_mid": 80.285,
-  "temperature_low": 74.93,
+  "temperature": {
+    "high": 85.64,
+    "mid": 80.285,
+    "low": 74.93
+  },
   "dew_point": 73.24,
   "humidity": 0.85,
   "cloud_cover": 0.18,

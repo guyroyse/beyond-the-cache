@@ -11,9 +11,11 @@
   "longitude": -93.5395,
   "location": "-93.5395,37.7664",
   "location_details": "The area is open fields along with heavy wooded areas.  Mostly for cattle grazing.  We lived on a 200 acres farm at the time.  We lived on a gravel road about 3 miles outside of town.  It was road 157.",
-  "temperature_high": 67.55,
-  "temperature_mid": 53.485,
-  "temperature_low": 39.42,
+  "temperature": {
+    "high": 67.55,
+    "mid": 53.485,
+    "low": 39.42
+  },
   "dew_point": 34.92,
   "humidity": 0.54,
   "cloud_cover": 0.25,

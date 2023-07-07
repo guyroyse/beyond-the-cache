@@ -11,9 +11,11 @@
   "longitude": -89.60034,
   "location": "-89.60034,40.67577",
   "location_details": "The levee just past building ss cat plant",
-  "temperature_high": 33.34,
-  "temperature_mid": 31.935,
-  "temperature_low": 30.53,
+  "temperature": {
+    "high": 33.34,
+    "mid": 31.935,
+    "low": 30.53
+  },
   "dew_point": 30.35,
   "humidity": 0.89,
   "cloud_cover": 0.95,

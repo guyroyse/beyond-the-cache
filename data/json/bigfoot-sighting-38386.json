@@ -11,9 +11,11 @@
   "longitude": -72.89154,
   "location": "-72.89154,42.12302",
   "location_details": "After 9-11, the government closed the thru-way that runs along side the reservoir that feeds Springfield its water supply. These mountains have been off-limits to hunters, hikers, fisherman, and the public for years before 9-11. Now its completely blocked off. Lots of deer and wildlife in this large expanse of protected mountainous terrain. The Reservoir holds lots of Small-Mouth bass, Rainbow, Brook, and Brown Trout. My Uncle, worked at the Pumping Station, he let me and my cousins fish there. I stayed there for weeks at a time. As an adult, I couldn't help myself to go fishing there still.   I respected the land and put all fish back and wouldn't throw any trash around. I packed it up and brought it back with me. I fished there all day sometimes but mostly at night with top-water poppers for Small-Mouth bass. Fun,fun!",
-  "temperature_high": 68.99,
-  "temperature_mid": 58.875,
-  "temperature_low": 48.76,
+  "temperature": {
+    "high": 68.99,
+    "mid": 58.875,
+    "low": 48.76
+  },
   "dew_point": 48.39,
   "humidity": 0.85,
   "cloud_cover": 0.26,

@@ -11,9 +11,11 @@
   "longitude": -122.5674,
   "location": "-122.5674,44.79307",
   "location_details": "Across the river from little north fork a private camp site called Taylor Park",
-  "temperature_high": 93.06,
-  "temperature_mid": 76.465,
-  "temperature_low": 59.87,
+  "temperature": {
+    "high": 93.06,
+    "mid": 76.465,
+    "low": 59.87
+  },
   "dew_point": 55.56,
   "humidity": 0.51,
   "cloud_cover": 0.03,

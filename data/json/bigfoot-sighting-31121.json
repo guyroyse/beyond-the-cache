@@ -11,9 +11,11 @@
   "longitude": -84.4445,
   "location": "-84.4445,44.398",
   "location_details": "It was a narrow 2 track in the gells trail in the middle between old 76 and a parallel road.. just know how to get there... Sorry",
-  "temperature_high": 48.39,
-  "temperature_mid": 42,
-  "temperature_low": 35.61,
+  "temperature": {
+    "high": 48.39,
+    "mid": 42,
+    "low": 35.61
+  },
   "dew_point": 37.74,
   "humidity": 0.75,
   "cloud_cover": 0.41,

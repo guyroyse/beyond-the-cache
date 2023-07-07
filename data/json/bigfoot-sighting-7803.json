@@ -11,9 +11,11 @@
   "longitude": -82.2244,
   "location": "-82.2244,39.4484",
   "location_details": "The location would be on the property of Hocking Technical College between the Railroad bridge and the campus security building.",
-  "temperature_high": 78.68,
-  "temperature_mid": 72.365,
-  "temperature_low": 66.05,
+  "temperature": {
+    "high": 78.68,
+    "mid": 72.365,
+    "low": 66.05
+  },
   "dew_point": 57.85,
   "humidity": 0.73,
   "cloud_cover": 0.66,

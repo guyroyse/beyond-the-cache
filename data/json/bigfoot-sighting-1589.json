@@ -11,9 +11,11 @@
   "longitude": -121.8211,
   "location": "-121.8211,47.05472",
   "location_details": "Clearwater Wilderness area.",
-  "temperature_high": 47.3,
-  "temperature_mid": 45.155,
-  "temperature_low": 43.01,
+  "temperature": {
+    "high": 47.3,
+    "mid": 45.155,
+    "low": 43.01
+  },
   "dew_point": 40.26,
   "humidity": 0.88,
   "cloud_cover": 0.99,

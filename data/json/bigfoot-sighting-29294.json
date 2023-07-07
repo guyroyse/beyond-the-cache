@@ -11,9 +11,11 @@
   "longitude": -92.03925,
   "location": "-92.03925,44.75668",
   "location_details": "Go out of Eau Galle,WI on D till you see a county road c or cc sign and then take that and you'll find your way to a bridge and like a 3 way stop if you look one way there is a hill/knoll and at the top of there is where i saw it",
-  "temperature_high": 91.37,
-  "temperature_mid": 80.5,
-  "temperature_low": 69.63,
+  "temperature": {
+    "high": 91.37,
+    "mid": 80.5,
+    "low": 69.63
+  },
   "dew_point": 64.47,
   "humidity": 0.65,
   "cloud_cover": 0.14,

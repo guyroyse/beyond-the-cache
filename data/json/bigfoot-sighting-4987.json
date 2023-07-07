@@ -11,9 +11,11 @@
   "longitude": -116.4,
   "location": "-116.4,44.85",
   "location_details": "It was about 10 Miles North of Council, just after you start down Fort Hall Hill.",
-  "temperature_high": 45.12,
-  "temperature_mid": 38.62,
-  "temperature_low": 32.12,
+  "temperature": {
+    "high": 45.12,
+    "mid": 38.62,
+    "low": 32.12
+  },
   "dew_point": 36.05,
   "humidity": 0.76,
   "cloud_cover": 0.97,

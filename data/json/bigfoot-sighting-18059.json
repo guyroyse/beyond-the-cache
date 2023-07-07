@@ -11,9 +11,11 @@
   "longitude": -89,
   "location": "-89,39",
   "location_details": "For some reason I can't remember how we found the park.",
-  "temperature_high": 90.55,
-  "temperature_mid": 79.835,
-  "temperature_low": 69.12,
+  "temperature": {
+    "high": 90.55,
+    "mid": 79.835,
+    "low": 69.12
+  },
   "dew_point": 65.38,
   "humidity": 0.65,
   "cloud_cover": 0.01,

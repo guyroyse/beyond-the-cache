@@ -11,9 +11,11 @@
   "longitude": -79.47325,
   "location": "-79.47325,38.8926",
   "location_details": "We were somewhere between Harmon and Seneca Rocks, West Virginia on US 33. We were probably in Pendleton County, but may have been in Randolph. It was close to the county line, I think. My boyfriend says we may have been about 10 miles west of Seneca Rocks.",
-  "temperature_high": 83.68,
-  "temperature_mid": 72.665,
-  "temperature_low": 61.65,
+  "temperature": {
+    "high": 83.68,
+    "mid": 72.665,
+    "low": 61.65
+  },
   "dew_point": 58.09,
   "humidity": 0.67,
   "cloud_cover": 0.08,

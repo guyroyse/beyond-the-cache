@@ -11,9 +11,11 @@
   "longitude": -122.2484,
   "location": "-122.2484,47.1787",
   "location_details": "Forested Triangle near the intersection of Shaw Road and Pioneer Ave. On top of the hill. This area is now Crystal Ridge, a housing developement.",
-  "temperature_high": 77.52,
-  "temperature_mid": 66.8,
-  "temperature_low": 56.08,
+  "temperature": {
+    "high": 77.52,
+    "mid": 66.8,
+    "low": 56.08
+  },
   "dew_point": 52.59,
   "humidity": 0.64,
   "cloud_cover": 0.19,

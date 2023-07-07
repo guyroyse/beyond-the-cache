@@ -11,9 +11,11 @@
   "longitude": -94.57375,
   "location": "-94.57375,47.4914",
   "location_details": "On the burnt out bridge road about 2 miles north of the power dam road.  Hunting location was about 1 mile west of burnt out bridge road",
-  "temperature_high": 37.45,
-  "temperature_mid": 27.875,
-  "temperature_low": 18.3,
+  "temperature": {
+    "high": 37.45,
+    "mid": 27.875,
+    "low": 18.3
+  },
   "dew_point": 25.3,
   "humidity": 0.91,
   "cloud_cover": 1,

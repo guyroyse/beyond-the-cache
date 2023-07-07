@@ -1,0 +1,35 @@
+{
+  "reportId": "1671",
+  "title": "Motorists spots a bigfoot",
+  "date": "1980-01-11",
+  "timestamp": 316396800,
+  "observed": "My sister was on her way to work, driving north on hwy 9 between Marysville & Arlington going to work. This must have been around 5:00 am. I would need to talk to her again to confirm. It took her several years to tell anybody & I think I am the only one she told. It happened about 15-20 yrs ago. Again I would have to contact her to confirm. She noticed something large in the middle of the road. At first she thought it was a bear. Then as she got closer it stood up. It was huge. She said it took only 2 steps & it was off the hwy. & into the woods. She was scared to death. She knew it was a bigfoot.",
+  "classification": "Class A",
+  "county": "Snohomish",
+  "state": "Washington",
+  "latitude": 48.11556,
+  "longitude": -122.0958,
+  "location": {
+    "longitude": -122.0958,
+    "latitude": 48.11556
+  },
+  "location_details": "Between Marysville & Arlington.",
+  "temperature": {
+    "high": 38.24,
+    "mid": 36.58,
+    "low": 34.92
+  },
+  "dew_point": 29.45,
+  "humidity": 0.76,
+  "cloud_cover": 0.98,
+  "moon_phase": 0.79,
+  "precip_intensity": 0.0179,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 993.53,
+  "summary": "Rain starting in the afternoon and breezy in the evening.",
+  "uv_index": 1,
+  "visibility": 7.17,
+  "wind_bearing": 132,
+  "wind_speed": 8.79
+}

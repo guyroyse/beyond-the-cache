@@ -11,9 +11,11 @@
   "longitude": -81.095,
   "location": "-81.095,37.7",
   "location_details": "In Shady Spring (zip code 25918) West Virginia (Raleigh County).",
-  "temperature_high": 70.1,
-  "temperature_mid": 57.33,
-  "temperature_low": 44.56,
+  "temperature": {
+    "high": 70.1,
+    "mid": 57.33,
+    "low": 44.56
+  },
   "dew_point": 49.92,
   "humidity": 0.66,
   "cloud_cover": 0.36,

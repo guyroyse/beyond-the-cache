@@ -11,9 +11,11 @@
   "longitude": -111.5447,
   "location": "-111.5447,40.0445",
   "location_details": "Sterling Hollow Trailhead, by Covered Bridge Canyon, southeast corner of Maple Mountain",
-  "temperature_high": 75.97,
-  "temperature_mid": 59.13,
-  "temperature_low": 42.29,
+  "temperature": {
+    "high": 75.97,
+    "mid": 59.13,
+    "low": 42.29
+  },
   "dew_point": 31.92,
   "humidity": 0.4,
   "cloud_cover": 0.09,

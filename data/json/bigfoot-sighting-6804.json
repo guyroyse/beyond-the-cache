@@ -11,9 +11,11 @@
   "longitude": -84.45905,
   "location": "-84.45905,39.49695",
   "location_details": "From I-75 take State Route 73 west into Trenton. Once you get in town look for the Skate Way Roller Rink then make a right follow it till you have to turn right or left then make a right. Follow it till it dead ends. There will be the woods and creek in front of you. there is 96.6 acres of woods there with about another 100 to the left and about 105 up on the hill.",
-  "temperature_high": 84.36,
-  "temperature_mid": 69.405,
-  "temperature_low": 54.45,
+  "temperature": {
+    "high": 84.36,
+    "mid": 69.405,
+    "low": 54.45
+  },
   "dew_point": 63.95,
   "humidity": 0.7,
   "cloud_cover": 0.34,

@@ -11,9 +11,11 @@
   "longitude": -107.8833,
   "location": "-107.8833,38.49833",
   "location_details": "North of Montrose, the old Airport road, which is now called 64.50 Road",
-  "temperature_high": 64.65,
-  "temperature_mid": 50.27,
-  "temperature_low": 35.89,
+  "temperature": {
+    "high": 64.65,
+    "mid": 50.27,
+    "low": 35.89
+  },
   "dew_point": 32.19,
   "humidity": 0.39,
   "cloud_cover": 0.7,

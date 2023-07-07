@@ -11,9 +11,11 @@
   "longitude": -108.1292,
   "location": "-108.1292,37.4125",
   "location_details": "On the west side of Helmets Peak. A little ways up from the base.",
-  "temperature_high": 78.18,
-  "temperature_mid": 65.04,
-  "temperature_low": 51.9,
+  "temperature": {
+    "high": 78.18,
+    "mid": 65.04,
+    "low": 51.9
+  },
   "dew_point": 46.99,
   "humidity": 0.56,
   "cloud_cover": 0.32,

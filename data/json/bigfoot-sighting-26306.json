@@ -11,9 +11,11 @@
   "longitude": -94.2319,
   "location": "-94.2319,36.50787",
   "location_details": "A small group of houses surounded by Ozark hills and forrest, alot of woods where the incident ocurred have since been cleared. Take highway 71 to Bear Hollow and follow approx. 2 miles and turn on Tyson Rd. follow til turns to dirt and keep a goin until you see some houses right on the road.",
-  "temperature_high": 75.22,
-  "temperature_mid": 65.57,
-  "temperature_low": 55.92,
+  "temperature": {
+    "high": 75.22,
+    "mid": 65.57,
+    "low": 55.92
+  },
   "dew_point": 52.98,
   "humidity": 0.75,
   "cloud_cover": 0.1,

@@ -11,9 +11,11 @@
   "longitude": -120.4683,
   "location": "-120.4683,39.11167",
   "location_details": "From Foresthill follow the signs to the lake, roughly 30 miles to the reservoir.",
-  "temperature_high": 75.2,
-  "temperature_mid": 58.26,
-  "temperature_low": 41.32,
+  "temperature": {
+    "high": 75.2,
+    "mid": 58.26,
+    "low": 41.32
+  },
   "dew_point": 28.28,
   "humidity": 0.35,
   "cloud_cover": 0.03,

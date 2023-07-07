@@ -1,0 +1,35 @@
+{
+  "reportId": "29330",
+  "title": "Recollection of possible vocalizations and brush crashing while camping in the Lil-Aaron Straus Wilderness Area",
+  "date": "1989-05-15",
+  "timestamp": 611193600,
+  "observed": "Myself and 2 good friends were camping in the Lill Aaron Strauss Wilderness area of Green Ridge State Park in Allegheny County Maryland. We were all in our late teens but very experienced campers and very comfortable in the woods. On the 2nd night of our trip we made camp in a low area several miles off the trails near where our topographic map showed a Civil War cemetery was located, though we were unable to find the site. After dinner we sat around the fire as the darkness grew and we all began to feel a bit spooked, as if we were being watched, so we let the fire burn itself out and bedded down. Early the next morning I awoke to a loud wailing which I can only describe as a cross between a lion roar and a screech owl. The noise happened several times and it was very close. At the same time we heard something crashing through the vegetation nearby and what sounded like thick branches cracking and heavy thuds as if large logs or rocks were impacting the forest floor. My friend Bryan and I were sleeping in hammocks over which we had suspended rain ponchos. The ponchos were fastened to the hammocks so we would need to untie them in order to get out and we could not see out either. I whispered to Bryan \"what was that?\". He whispered back \"I don't know\". That was all we said. I was scared out of my mind and did not dare even move my head to try to see anything as I didn't want to draw attention to myself. I was able to look at my watch and determine it was just after 5am. At that moment I resigned myself to my fate, figuring that if something out there wanted me I would have no chance. I made my peace and waited, eventually drifting back off to sleep. Bryan did not sleep at all after the episode and our 3rd friend, Tom, somehow slept through the whole thing. We rose around 6am and broke camp. We looked around for signs of anything unusual but could find nothing.",
+  "classification": "Class B",
+  "county": "Washington",
+  "state": "Maryland",
+  "latitude": 39.64819,
+  "longitude": -78.32549,
+  "location": {
+    "longitude": -78.32549,
+    "latitude": 39.64819
+  },
+  "location_details": "We returned to the site the following year and found the cemetery. Our camp was about 100 yards away. I would need to look at the map again to verify the exact location.",
+  "temperature": {
+    "high": 58.55,
+    "mid": 55.665,
+    "low": 52.78
+  },
+  "dew_point": 52.66,
+  "humidity": 0.91,
+  "cloud_cover": 0.92,
+  "moon_phase": 0.34,
+  "precip_intensity": 0.0471,
+  "precip_probability": 1,
+  "precip_type": "rain",
+  "pressure": 1013.72,
+  "summary": "Heavy rain in the afternoon.",
+  "uv_index": 6,
+  "visibility": 2.56,
+  "wind_bearing": 75,
+  "wind_speed": 1.87
+}

@@ -11,9 +11,11 @@
   "longitude": -84.48006,
   "location": "-84.48006,34.31955",
   "location_details": "Off Hwy 140",
-  "temperature_high": 91.98,
-  "temperature_mid": 81.8,
-  "temperature_low": 71.62,
+  "temperature": {
+    "high": 91.98,
+    "mid": 81.8,
+    "low": 71.62
+  },
   "dew_point": 68.2,
   "humidity": 0.66,
   "cloud_cover": 0.18,

@@ -11,9 +11,11 @@
   "longitude": -81.95195,
   "location": "-81.95195,35.95865",
   "location_details": "heavy wooded area around campground",
-  "temperature_high": 82.33,
-  "temperature_mid": 73.005,
-  "temperature_low": 63.68,
+  "temperature": {
+    "high": 82.33,
+    "mid": 73.005,
+    "low": 63.68
+  },
   "dew_point": 58.03,
   "humidity": 0.71,
   "cloud_cover": 0.16,

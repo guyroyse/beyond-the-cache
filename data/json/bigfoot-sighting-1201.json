@@ -11,9 +11,11 @@
   "longitude": -80.37878,
   "location": "-80.37878,39.52122",
   "location_details": "USA, West Virginia, Marion County. Two miles west of the town of Mannington on Route 250 commonly known as Whetstone Road.",
-  "temperature_high": 49.12,
-  "temperature_mid": 41.535,
-  "temperature_low": 33.95,
+  "temperature": {
+    "high": 49.12,
+    "mid": 41.535,
+    "low": 33.95
+  },
   "dew_point": 22.95,
   "humidity": 0.66,
   "cloud_cover": 0.21,

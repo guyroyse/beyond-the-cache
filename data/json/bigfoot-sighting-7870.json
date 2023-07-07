@@ -11,9 +11,11 @@
   "longitude": -115.5833,
   "location": "-115.5833,44.41666",
   "location_details": "Scott Mountain Road, North east of Garden Valley, Idaho, near Deadwood Res.  Go about seven miles north of res. to the old abandoned Deadwood Mine on the east side of the road. There, you will find two old buildings that served as an office and boarding house for the miners. No one has lived there since the forties.",
-  "temperature_high": 75.11,
-  "temperature_mid": 57.27,
-  "temperature_low": 39.43,
+  "temperature": {
+    "high": 75.11,
+    "mid": 57.27,
+    "low": 39.43
+  },
   "dew_point": 33.33,
   "humidity": 0.41,
   "cloud_cover": 0.16,

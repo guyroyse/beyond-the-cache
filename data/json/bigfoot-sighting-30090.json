@@ -11,9 +11,11 @@
   "longitude": -86.10172,
   "location": "-86.10172,44.22671",
   "location_details": "Glen Oak Rd is directly across M 55 from where we park off road, we go in about 150 yds south and then take an old two track to the west for about 300 yds or so.",
-  "temperature_high": 44.01,
-  "temperature_mid": 35.955,
-  "temperature_low": 27.9,
+  "temperature": {
+    "high": 44.01,
+    "mid": 35.955,
+    "low": 27.9
+  },
   "dew_point": 32.49,
   "humidity": 0.7,
   "cloud_cover": 0.4,

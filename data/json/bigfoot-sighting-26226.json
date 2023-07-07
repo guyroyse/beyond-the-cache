@@ -11,9 +11,11 @@
   "longitude": -95.94727,
   "location": "-95.94727,35.2933",
   "location_details": "We were traveling South on the Indian Nation Turnpike and my daughter was sitting behind the drivers seat looking out the window, so she was looking East.",
-  "temperature_high": 91.4,
-  "temperature_mid": 84.325,
-  "temperature_low": 77.25,
+  "temperature": {
+    "high": 91.4,
+    "mid": 84.325,
+    "low": 77.25
+  },
   "dew_point": 71.53,
   "humidity": 0.66,
   "cloud_cover": 0.07,

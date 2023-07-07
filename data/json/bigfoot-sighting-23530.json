@@ -11,9 +11,11 @@
   "longitude": -84.71,
   "location": "-84.71,44.7",
   "location_details": "You can reach the location by traveling N. from Main Street In Grayling, going past the hospitol and elementary school and proceeding north down Roberts Road. Just past West Dr. about a 150 yards, turn west (left) into swampy cedar swamp. There is a small creek crossing the road, follow this creek upstream approx. 150 yards or about 5 minute walk.",
-  "temperature_high": 56.34,
-  "temperature_mid": 52.975,
-  "temperature_low": 49.61,
+  "temperature": {
+    "high": 56.34,
+    "mid": 52.975,
+    "low": 49.61
+  },
   "dew_point": 46.84,
   "humidity": 0.9,
   "cloud_cover": 0.96,

@@ -11,9 +11,11 @@
   "longitude": -121.9572,
   "location": "-121.9572,48.0028",
   "location_details": "3/4 of a mile out of town, along a creek that runs into the Pilchuck River.",
-  "temperature_high": 60.86,
-  "temperature_mid": 57.31,
-  "temperature_low": 53.76,
+  "temperature": {
+    "high": 60.86,
+    "mid": 57.31,
+    "low": 53.76
+  },
   "dew_point": 53.48,
   "humidity": 0.93,
   "cloud_cover": 0.76,

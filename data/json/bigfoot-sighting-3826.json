@@ -11,9 +11,11 @@
   "longitude": -79.33517,
   "location": "-79.33517,38.90203",
   "location_details": "Occurred in the Dolly Sods Wilderness, which is north of Seneca Rocks on Hwy 55. Nearest road to our camp was Forest Road 75 (?)",
-  "temperature_high": 84.07,
-  "temperature_mid": 77.77,
-  "temperature_low": 71.47,
+  "temperature": {
+    "high": 84.07,
+    "mid": 77.77,
+    "low": 71.47
+  },
   "dew_point": 67.62,
   "humidity": 0.78,
   "cloud_cover": 0.5,

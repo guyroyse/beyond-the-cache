@@ -11,9 +11,11 @@
   "longitude": -84.79574,
   "location": "-84.79574,39.08002",
   "location_details": "3/4 of a mile west on KY 8 (aka 3608) from the I-275 petersburg exit in kentucky. Just past where the guard rail stops on your left as you go through the valley and start up the hill.",
-  "temperature_high": 63.26,
-  "temperature_mid": 53.595,
-  "temperature_low": 43.93,
+  "temperature": {
+    "high": 63.26,
+    "mid": 53.595,
+    "low": 43.93
+  },
   "dew_point": 41.11,
   "humidity": 0.62,
   "cloud_cover": 0.54,

@@ -11,9 +11,11 @@
   "longitude": -118.6331,
   "location": "-118.6331,35.84503",
   "location_details": "White River campground 4.9 miles above Pine Flat resort",
-  "temperature_high": 92.69,
-  "temperature_mid": 79.77,
-  "temperature_low": 66.85,
+  "temperature": {
+    "high": 92.69,
+    "mid": 79.77,
+    "low": 66.85
+  },
   "dew_point": 48.79,
   "humidity": 0.36,
   "cloud_cover": 0,

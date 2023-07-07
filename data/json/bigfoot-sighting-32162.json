@@ -11,9 +11,11 @@
   "longitude": -90.18332,
   "location": "-90.18332,40.98073",
   "location_details": "located in the strip mines just around Victoria Illinois",
-  "temperature_high": 89.87,
-  "temperature_mid": 78.285,
-  "temperature_low": 66.7,
+  "temperature": {
+    "high": 89.87,
+    "mid": 78.285,
+    "low": 66.7
+  },
   "dew_point": 62.98,
   "humidity": 0.61,
   "cloud_cover": 0.04,

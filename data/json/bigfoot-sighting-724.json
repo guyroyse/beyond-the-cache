@@ -11,9 +11,11 @@
   "longitude": -85.217,
   "location": "-85.217,30.8724",
   "location_details": "About 3 miles west of Greenwood, FLorida then about 1 mile off of County Rd.",
-  "temperature_high": 94.03,
-  "temperature_mid": 84.475,
-  "temperature_low": 74.92,
+  "temperature": {
+    "high": 94.03,
+    "mid": 84.475,
+    "low": 74.92
+  },
   "dew_point": 72.62,
   "humidity": 0.7,
   "cloud_cover": 0.39,

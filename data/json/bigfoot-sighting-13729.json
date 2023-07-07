@@ -11,9 +11,11 @@
   "longitude": -124.2148,
   "location": "-124.2148,42.28445",
   "location_details": "This sighting occured near an area East and between Gold Beach and Brookings called the Stackyards, aka. Devils Stackyards ( I wonder how that name came about).  The area is on the N. side of Pistol River.  I don't remember the name of the timber sale we were logging. If I remember right though, the prairie where the sighting took place is called Miller Prairie.  Sorry it's been a few years.",
-  "temperature_high": 52.26,
-  "temperature_mid": 46.99,
-  "temperature_low": 41.72,
+  "temperature": {
+    "high": 52.26,
+    "mid": 46.99,
+    "low": 41.72
+  },
   "dew_point": 42.24,
   "humidity": 0.85,
   "cloud_cover": 0.76,

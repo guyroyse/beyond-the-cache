@@ -11,9 +11,11 @@
   "longitude": -116.7078,
   "location": "-116.7078,33.7655",
   "location_details": "I,m sorry , it has been 12 years. I remember it was in the Dutchmans flats area near Idyllwild. We were camped maybe a mile off one of the trail heads.",
-  "temperature_high": 67.2,
-  "temperature_mid": 56.695,
-  "temperature_low": 46.19,
+  "temperature": {
+    "high": 67.2,
+    "mid": 56.695,
+    "low": 46.19
+  },
   "dew_point": 44.76,
   "humidity": 0.71,
   "cloud_cover": 0.13,

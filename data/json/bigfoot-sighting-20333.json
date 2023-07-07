@@ -11,9 +11,11 @@
   "longitude": -81.8539,
   "location": "-81.8539,26.7621",
   "location_details": "North on Highway 31 to what used to be Cook and Brown Road.",
-  "temperature_high": 90.87,
-  "temperature_mid": 82.765,
-  "temperature_low": 74.66,
+  "temperature": {
+    "high": 90.87,
+    "mid": 82.765,
+    "low": 74.66
+  },
   "dew_point": 72.27,
   "humidity": 0.8,
   "cloud_cover": 0.44,

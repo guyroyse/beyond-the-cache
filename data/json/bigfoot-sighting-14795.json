@@ -11,9 +11,11 @@
   "longitude": -95.77908,
   "location": "-95.77908,30.54366",
   "location_details": "Richards Loop of the Lone Star Hiking Trail",
-  "temperature_high": 83.05,
-  "temperature_mid": 77.605,
-  "temperature_low": 72.16,
+  "temperature": {
+    "high": 83.05,
+    "mid": 77.605,
+    "low": 72.16
+  },
   "dew_point": 66.87,
   "humidity": 0.76,
   "cloud_cover": 0.71,

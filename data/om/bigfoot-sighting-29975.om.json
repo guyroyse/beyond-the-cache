@@ -1,0 +1,35 @@
+{
+  "reportId": "29975",
+  "title": "Woman recalls driving at night and feeling her car get shoved by a large biped near Steilacoom",
+  "date": "1993-04-15",
+  "timestamp": 734832000,
+  "observed": "I was driving near the Puget Sound in Washington in the spring of 1993. I had just dropped off my friend at her house and was driving home on a 2-lane rd. I looked down to change the channel on my radio and I felt something push the backside of my car into the other lane. I looked up, scared, and saw something larger than a person walking quickly into the woods away from the Sound. I was terrified and drove home. I got home and was sure that there would be a huge dent in the rear of the car, but to my surprise there wasn't even a scratch.",
+  "classification": "Class B",
+  "county": "Pierce",
+  "state": "Washington",
+  "latitude": 47.147,
+  "longitude": -122.6028,
+  "location": {
+    "longitude": -122.6028,
+    "latitude": 47.147
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 55.22,
+    "mid": 47.5,
+    "low": 39.78
+  },
+  "dew_point": 44.71,
+  "humidity": 0.82,
+  "cloud_cover": 0.82,
+  "moon_phase": 0.81,
+  "precip_intensity": 0.006,
+  "precip_probability": 0.85,
+  "precip_type": "rain",
+  "pressure": 1013.3,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 4,
+  "visibility": 8.11,
+  "wind_bearing": 194,
+  "wind_speed": 4.93
+}

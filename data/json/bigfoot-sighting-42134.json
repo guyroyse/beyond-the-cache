@@ -11,9 +11,11 @@
   "longitude": -81.02086,
   "location": "-81.02086,28.12565",
   "location_details": "wildlife area",
-  "temperature_high": 71.67,
-  "temperature_mid": 64.095,
-  "temperature_low": 56.52,
+  "temperature": {
+    "high": 71.67,
+    "mid": 64.095,
+    "low": 56.52
+  },
   "dew_point": 59.44,
   "humidity": 0.8,
   "cloud_cover": 0.57,

@@ -11,9 +11,11 @@
   "longitude": -106.199,
   "location": "-106.199,38.83714",
   "location_details": "Driving west up trail west division off of county road 340 west of Buena Vista",
-  "temperature_high": 78.12,
-  "temperature_mid": 64.71,
-  "temperature_low": 51.3,
+  "temperature": {
+    "high": 78.12,
+    "mid": 64.71,
+    "low": 51.3
+  },
   "dew_point": 40.21,
   "humidity": 0.52,
   "cloud_cover": 0.25,

@@ -11,9 +11,11 @@
   "longitude": -121.7512,
   "location": "-121.7512,46.0803",
   "location_details": "As I stated in the narrative., this was in Washington State in the Mt. Adams Wilderness Area at the \"Cold Spring Campground\". We came in from the south, from route 147.",
-  "temperature_high": 77.89,
-  "temperature_mid": 64.215,
-  "temperature_low": 50.54,
+  "temperature": {
+    "high": 77.89,
+    "mid": 64.215,
+    "low": 50.54
+  },
   "dew_point": 54.21,
   "humidity": 0.67,
   "cloud_cover": 0.49,

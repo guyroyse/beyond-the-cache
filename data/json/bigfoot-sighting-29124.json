@@ -11,9 +11,11 @@
   "longitude": -80.1177,
   "location": "-80.1177,38.1882",
   "location_details": "Know the name of the family that owned it.",
-  "temperature_high": 59.13,
-  "temperature_mid": 42.605,
-  "temperature_low": 26.08,
+  "temperature": {
+    "high": 59.13,
+    "mid": 42.605,
+    "low": 26.08
+  },
   "dew_point": 39.19,
   "humidity": 0.74,
   "cloud_cover": 0.51,

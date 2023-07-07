@@ -11,9 +11,11 @@
   "longitude": -87.41805,
   "location": "-87.41805,38.1579",
   "location_details": "Take I-64 to wheatonville rd and cross on to North road, you see a bunch of trucks parked on the side of the road, the incident happened about 5 miles into the woods.",
-  "temperature_high": 94.17,
-  "temperature_mid": 82.74,
-  "temperature_low": 71.31,
+  "temperature": {
+    "high": 94.17,
+    "mid": 82.74,
+    "low": 71.31
+  },
   "dew_point": 66.22,
   "humidity": 0.61,
   "cloud_cover": 0.03,

@@ -11,9 +11,11 @@
   "longitude": -117.8106,
   "location": "-117.8106,48.78389",
   "location_details": "Area is located off Onion Creek Road.",
-  "temperature_high": 77.6,
-  "temperature_mid": 65.24,
-  "temperature_low": 52.88,
+  "temperature": {
+    "high": 77.6,
+    "mid": 65.24,
+    "low": 52.88
+  },
   "dew_point": 48.93,
   "humidity": 0.62,
   "cloud_cover": 0.35,

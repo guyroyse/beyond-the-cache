@@ -11,9 +11,11 @@
   "longitude": -93.7,
   "location": "-93.7,30.8",
   "location_details": "At least two miles out of Bon Wier.",
-  "temperature_high": 77.55,
-  "temperature_mid": 72.68,
-  "temperature_low": 67.81,
+  "temperature": {
+    "high": 77.55,
+    "mid": 72.68,
+    "low": 67.81
+  },
   "dew_point": 58.9,
   "humidity": 0.77,
   "cloud_cover": 0.59,

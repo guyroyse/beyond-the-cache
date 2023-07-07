@@ -11,9 +11,11 @@
   "longitude": -83.89224,
   "location": "-83.89224,37.49582",
   "location_details": "the location was in a hay field on new zion on 587",
-  "temperature_high": 56.79,
-  "temperature_mid": 47.825,
-  "temperature_low": 38.86,
+  "temperature": {
+    "high": 56.79,
+    "mid": 47.825,
+    "low": 38.86
+  },
   "dew_point": 50.6,
   "humidity": 0.91,
   "cloud_cover": 0.87,

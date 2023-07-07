@@ -11,9 +11,11 @@
   "longitude": -122.2638,
   "location": "-122.2638,48.92928",
   "location_details": "South Pass Road just after crossing breckenridge creek bridge and the road climbs up and to the right, at the end of the guardrails to the right, North Pass Road is off to your left just ahead.",
-  "temperature_high": 70.42,
-  "temperature_mid": 62.315,
-  "temperature_low": 54.21,
+  "temperature": {
+    "high": 70.42,
+    "mid": 62.315,
+    "low": 54.21
+  },
   "dew_point": 52.84,
   "humidity": 0.69,
   "cloud_cover": 0.62,

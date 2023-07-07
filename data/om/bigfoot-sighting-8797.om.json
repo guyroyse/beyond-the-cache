@@ -1,0 +1,35 @@
+{
+  "reportId": "8797",
+  "title": "Two boys find footprints on Harris River bank",
+  "date": "2001-05-13",
+  "timestamp": 989712000,
+  "observed": "I and my cousin were walking down Harris River from the Harris River camp ground. We were walking about 30 to 45 minutes when my cousin thought he saw something standing in front of us about 100 feet or so away. When he asked me if I could see what it was, I told him I couldn't see because I didn't have any contacts on or glasses. So he told me it was just a stump so I was like ok.. Then we went over to where we thought the thing was and in the sand about an inch deep there was a footprint like a man's. In shoe size it looked like it might have been like a size 13 or 15, There were 3 foot prints and about a minute later we ran for about ten minutes and we started walking and then we got to the road, about a mile away from the picnic area, where we were having a Mother's Day picnic  We started to race each other to the picnic area where our family members were. Then we told them about it and we just kept it to ourselves for some odd reason.",
+  "classification": "Class B",
+  "county": "Prince of Wales",
+  "state": "Alaska",
+  "latitude": 55.4555,
+  "longitude": -132.7333,
+  "location": {
+    "longitude": -132.7333,
+    "latitude": 55.4555
+  },
+  "location_details": "From Klawock drive southeast on the Klawock -Hollis Road to the Harris River campground, approximately 4 miles west of Hollis.",
+  "temperature": {
+    "high": 49.72,
+    "mid": 47.1,
+    "low": 44.48
+  },
+  "dew_point": 37.56,
+  "humidity": 0.75,
+  "cloud_cover": 0.91,
+  "moon_phase": 0.7,
+  "precip_intensity": 0.0082,
+  "precip_probability": 0.88,
+  "precip_type": "rain",
+  "pressure": 1008.17,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 3,
+  "visibility": 9.54,
+  "wind_bearing": 140,
+  "wind_speed": 12.35
+}

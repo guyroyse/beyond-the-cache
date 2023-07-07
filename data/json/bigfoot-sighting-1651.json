@@ -11,9 +11,11 @@
   "longitude": -122.0194,
   "location": "-122.0194,45.62778",
   "location_details": "We saw the creatures in a grassy, pasture-like area next to the Columbia river. We saw them from Beacon rock and we were facing upriver, east I think. The river was on our right as we saw them.",
-  "temperature_high": 62.2,
-  "temperature_mid": 53.95,
-  "temperature_low": 45.7,
+  "temperature": {
+    "high": 62.2,
+    "mid": 53.95,
+    "low": 45.7
+  },
   "dew_point": 38.46,
   "humidity": 0.65,
   "cloud_cover": 0.52,

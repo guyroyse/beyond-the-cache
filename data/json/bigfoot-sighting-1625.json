@@ -11,9 +11,11 @@
   "longitude": -82.69884,
   "location": "-82.69884,40.38609",
   "location_details": "about 1 mile from sparta down 61 towards mt vernon, on your left the property is owned by the fedders now. it has been 23 yrs since ive been there.",
-  "temperature_high": 77.47,
-  "temperature_mid": 65.935,
-  "temperature_low": 54.4,
+  "temperature": {
+    "high": 77.47,
+    "mid": 65.935,
+    "low": 54.4
+  },
   "dew_point": 50.96,
   "humidity": 0.52,
   "cloud_cover": 0.51,

@@ -11,9 +11,11 @@
   "longitude": -121.8829,
   "location": "-121.8829,43.8628",
   "location_details": "Location details for all of the incident are included above. I'm glad to supply further information if you deem it necessary.",
-  "temperature_high": 71.92,
-  "temperature_mid": 58.43,
-  "temperature_low": 44.94,
+  "temperature": {
+    "high": 71.92,
+    "mid": 58.43,
+    "low": 44.94
+  },
   "dew_point": 46.77,
   "humidity": 0.62,
   "cloud_cover": 0.41,

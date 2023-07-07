@@ -11,9 +11,11 @@
   "longitude": -122.6361,
   "location": "-122.6361,46.51479",
   "location_details": "Looking down from the barrier dam boat launch you will see a cedar tree just above waterline on the right about 200 yrds downstream. The sound came from the dense brush directly above that tree between the two landslides and just below the cliff face.",
-  "temperature_high": 76.52,
-  "temperature_mid": 63.69,
-  "temperature_low": 50.86,
+  "temperature": {
+    "high": 76.52,
+    "mid": 63.69,
+    "low": 50.86
+  },
   "dew_point": 46.56,
   "humidity": 0.58,
   "cloud_cover": 0.09,

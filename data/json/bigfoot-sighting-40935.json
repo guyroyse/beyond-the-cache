@@ -11,9 +11,11 @@
   "longitude": -82.82335,
   "location": "-82.82335,29.42016",
   "location_details": "It happened in between Chiefland and Otter Creek I would say about 4-5 miles north of Otter Creek or Hwy 24 and Chiefland",
-  "temperature_high": 81.82,
-  "temperature_mid": 72.94,
-  "temperature_low": 64.06,
+  "temperature": {
+    "high": 81.82,
+    "mid": 72.94,
+    "low": 64.06
+  },
   "dew_point": 55.4,
   "humidity": 0.59,
   "cloud_cover": 0.27,

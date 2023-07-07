@@ -11,9 +11,11 @@
   "longitude": -88.53872,
   "location": "-88.53872,42.075",
   "location_details": "Lenschow Road intersects between Hampshire and Burlington, by French Road. Go east on Lenschow about 1/2 mile to the woods on the right.",
-  "temperature_high": 41.61,
-  "temperature_mid": 38.215,
-  "temperature_low": 34.82,
+  "temperature": {
+    "high": 41.61,
+    "mid": 38.215,
+    "low": 34.82
+  },
   "dew_point": 22.05,
   "humidity": 0.62,
   "cloud_cover": 0.72,

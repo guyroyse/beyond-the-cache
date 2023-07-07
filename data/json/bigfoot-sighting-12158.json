@@ -11,9 +11,11 @@
   "longitude": -116.0834,
   "location": "-116.0834,44.58335",
   "location_details": "Pine Lakes ranch, approx 5 miles north of Cascade about 2 miles off of Hwy 55",
-  "temperature_high": 45.31,
-  "temperature_mid": 40.595,
-  "temperature_low": 35.88,
+  "temperature": {
+    "high": 45.31,
+    "mid": 40.595,
+    "low": 35.88
+  },
   "dew_point": 28.05,
   "humidity": 0.67,
   "cloud_cover": 0.97,

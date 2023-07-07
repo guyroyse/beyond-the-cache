@@ -11,9 +11,11 @@
   "longitude": -81.32337,
   "location": "-81.32337,40.79362",
   "location_details": "i live at the end of the street its leander st it connects into trump rd",
-  "temperature_high": 80.3,
-  "temperature_mid": 70.23,
-  "temperature_low": 60.16,
+  "temperature": {
+    "high": 80.3,
+    "mid": 70.23,
+    "low": 60.16
+  },
   "dew_point": 58.76,
   "humidity": 0.76,
   "cloud_cover": 0.39,

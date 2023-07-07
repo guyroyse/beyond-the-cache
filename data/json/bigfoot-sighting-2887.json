@@ -11,9 +11,11 @@
   "longitude": -119.9811,
   "location": "-119.9811,38.19753",
   "location_details": "Pinecrest, Sonora Pass, Tuolumne County, California.",
-  "temperature_high": 51.51,
-  "temperature_mid": 42.725,
-  "temperature_low": 33.94,
+  "temperature": {
+    "high": 51.51,
+    "mid": 42.725,
+    "low": 33.94
+  },
   "dew_point": 42.44,
   "humidity": 0.82,
   "cloud_cover": 0.65,

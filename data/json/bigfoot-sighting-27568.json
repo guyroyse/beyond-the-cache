@@ -11,9 +11,11 @@
   "longitude": -87.77686,
   "location": "-87.77686,34.70112",
   "location_details": "off hwy 72 you will see baker lane, go down baker lane you'll see emmette holland road, go down that road it'll open up into fields and woods and you are there",
-  "temperature_high": 66.6,
-  "temperature_mid": 63.095,
-  "temperature_low": 59.59,
+  "temperature": {
+    "high": 66.6,
+    "mid": 63.095,
+    "low": 59.59
+  },
   "dew_point": 58.1,
   "humidity": 0.82,
   "cloud_cover": 0.82,

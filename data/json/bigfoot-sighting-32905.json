@@ -11,9 +11,11 @@
   "longitude": -107.7015,
   "location": "-107.7015,37.70338",
   "location_details": "Up 550 past Durango in the San Juan mountains. Crater lake trailhead is at Andrews Lake.",
-  "temperature_high": 74.77,
-  "temperature_mid": 62.98,
-  "temperature_low": 51.19,
+  "temperature": {
+    "high": 74.77,
+    "mid": 62.98,
+    "low": 51.19
+  },
   "dew_point": 41.27,
   "humidity": 0.46,
   "cloud_cover": 0.16,

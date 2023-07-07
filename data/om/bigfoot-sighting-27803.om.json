@@ -1,0 +1,35 @@
+{
+  "reportId": "27803",
+  "title": "Hikers near Eatonville surprise a sasquatch drinking from the river",
+  "date": "2010-05-22",
+  "timestamp": 1274486400,
+  "observed": "I and my friends were hiking at the eatonville waterfalls when we smelt a wet dog musky sweet smell. We figured it was elk or a bear. When we turned the corner by the middle fall there was a huge black creature crouching over like a human drinking from the river. My buddy gave a suprised yelp and it looked up stared at us for a minute then moved lightning quick into the trees.",
+  "classification": "Class A",
+  "county": "Pierce",
+  "state": "Washington",
+  "latitude": 46.84748,
+  "longitude": -122.2719,
+  "location": {
+    "longitude": -122.2719,
+    "latitude": 46.84748
+  },
+  "location_details": "go over the train tracks and up the trail to the righ. pass through the field sticking to the right. Go down the hill with the metal cable attached to the tree. You'll get to the spot about 1/4 mile down",
+  "temperature": {
+    "high": 57.18,
+    "mid": 50.99,
+    "low": 44.8
+  },
+  "dew_point": 41.35,
+  "humidity": 0.76,
+  "cloud_cover": 0.75,
+  "moon_phase": 0.32,
+  "precip_intensity": 0.0059,
+  "precip_probability": 0.53,
+  "precip_type": "rain",
+  "pressure": 1013.04,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 6,
+  "visibility": 9.42,
+  "wind_bearing": 210,
+  "wind_speed": 4.25
+}

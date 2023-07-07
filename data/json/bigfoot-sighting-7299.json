@@ -11,9 +11,11 @@
   "longitude": -120.2636,
   "location": "-120.2636,38.03305",
   "location_details": "My home is located on Nile River Drive, Upper Crystal Falls. Major cross street, Longeway, Middlecamp road.",
-  "temperature_high": 88.72,
-  "temperature_mid": 73.38,
-  "temperature_low": 58.04,
+  "temperature": {
+    "high": 88.72,
+    "mid": 73.38,
+    "low": 58.04
+  },
   "dew_point": 47.12,
   "humidity": 0.46,
   "cloud_cover": 0.05,

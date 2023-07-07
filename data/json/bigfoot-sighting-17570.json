@@ -11,9 +11,11 @@
   "longitude": -119.187,
   "location": "-119.187,48.32956",
   "location_details": "At Grant lake a small Lake on the Colville Indian Reservation",
-  "temperature_high": 79.2,
-  "temperature_mid": 65.57,
-  "temperature_low": 51.94,
+  "temperature": {
+    "high": 79.2,
+    "mid": 65.57,
+    "low": 51.94
+  },
   "dew_point": 40.69,
   "humidity": 0.44,
   "cloud_cover": 0.13,

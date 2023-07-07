@@ -11,9 +11,11 @@
   "longitude": -120.3,
   "location": "-120.3,47.29833",
   "location_details": "I don't know many street names because I'm a local, so directions would be difficult to follow and riddled with landmarks. The area is quite easy to find on a map of this region. Clear Lake is a well known spot and can be reached either by going in back of Stemilt Hill via Malaga or behind Wenatchee Heights - both of which I think take you to Stemilt Loop Road. You must turn off the main road and drive on windy/poorly maintained forest service roads for a few miles.",
-  "temperature_high": 81.38,
-  "temperature_mid": 66.87,
-  "temperature_low": 52.36,
+  "temperature": {
+    "high": 81.38,
+    "mid": 66.87,
+    "low": 52.36
+  },
   "dew_point": 42.31,
   "humidity": 0.45,
   "cloud_cover": 0.04,

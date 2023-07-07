@@ -11,9 +11,11 @@
   "longitude": -94.9,
   "location": "-94.9,39.3716",
   "location_details": "The tracks were found in the refuge area along the river. The sighting was along the river near the building (cac).",
-  "temperature_high": 34.09,
-  "temperature_mid": 30.945,
-  "temperature_low": 27.8,
+  "temperature": {
+    "high": 34.09,
+    "mid": 30.945,
+    "low": 27.8
+  },
   "dew_point": 21.28,
   "humidity": 0.9,
   "cloud_cover": 0.81,

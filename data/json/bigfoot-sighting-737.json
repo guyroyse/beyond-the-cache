@@ -11,9 +11,11 @@
   "longitude": -82.6053,
   "location": "-82.6053,28.3836",
   "location_details": "north central pasco county near crews lake.approx. 10 miles south of Pasco/Hernando   county line. West of Hwy 41, north of SR 52.",
-  "temperature_high": 87.83,
-  "temperature_mid": 82.095,
-  "temperature_low": 76.36,
+  "temperature": {
+    "high": 87.83,
+    "mid": 82.095,
+    "low": 76.36
+  },
   "dew_point": 71.03,
   "humidity": 0.78,
   "cloud_cover": 0.55,

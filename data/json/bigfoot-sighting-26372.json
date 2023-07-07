@@ -11,9 +11,11 @@
   "longitude": -84.9825,
   "location": "-84.9825,43.1095",
   "location_details": "Front St. Palo, Michigan",
-  "temperature_high": 82.21,
-  "temperature_mid": 72.705,
-  "temperature_low": 63.2,
+  "temperature": {
+    "high": 82.21,
+    "mid": 72.705,
+    "low": 63.2
+  },
   "dew_point": 61.59,
   "humidity": 0.7,
   "cloud_cover": 0.45,

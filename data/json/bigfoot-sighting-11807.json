@@ -11,9 +11,11 @@
   "longitude": -111.6259,
   "location": "-111.6259,35.1394",
   "location_details": "3 Miles east of Lake Mary Rd. on R124. Lake Mary Rd runs southeast out of Flagstaff.  This is popular area for camping and hunting. Guess we were about 30 miles from Flagstaff. . ",
-  "temperature_high": 75.6,
-  "temperature_mid": 56.53,
-  "temperature_low": 37.46,
+  "temperature": {
+    "high": 75.6,
+    "mid": 56.53,
+    "low": 37.46
+  },
   "dew_point": 32.24,
   "humidity": 0.35,
   "cloud_cover": 0.01,

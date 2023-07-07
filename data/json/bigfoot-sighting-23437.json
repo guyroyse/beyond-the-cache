@@ -11,9 +11,11 @@
   "longitude": -79.01405,
   "location": "-79.01405,39.26188",
   "location_details": "I have a mapquest image of the area and I labeled it with some approximate points from the incident.  I will gladly send this to you. From Rt. 220 in Keyser, turn onto St. Cloud Street.  Head west for several blocks, until you come to E street.  Turn Left onto E, and continue on Parkview (E becomes Parkview) and pass the playground on the left.  Continue past Potomac State Farm (Left) and St. Thomas Cemetary (on Right) and continue for approximately 2 miles up Green Mtn.  At the top, there is a sweeping left turn.  The slightly curvy section after this turn is the area where this incident occured.  It is between a public access to a hunting area and a residence.  They do NOT appear on the mapquest image as it is old.",
-  "temperature_high": 49.92,
-  "temperature_mid": 37.78,
-  "temperature_low": 25.64,
+  "temperature": {
+    "high": 49.92,
+    "mid": 37.78,
+    "low": 25.64
+  },
   "dew_point": 36.01,
   "humidity": 0.74,
   "cloud_cover": 0.76,

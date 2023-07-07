@@ -11,9 +11,11 @@
   "longitude": -90.7109,
   "location": "-90.7109,43.1573",
   "location_details": "After you turn north off from the Hwy 61 Boscobel bridge.  Go about 150 yards and there is a house on the left.  Right after that and just before the trail to the right down to the river is where the incident took place.",
-  "temperature_high": 61.44,
-  "temperature_mid": 55.325,
-  "temperature_low": 49.21,
+  "temperature": {
+    "high": 61.44,
+    "mid": 55.325,
+    "low": 49.21
+  },
   "dew_point": 40.86,
   "humidity": 0.8,
   "cloud_cover": 0.35,

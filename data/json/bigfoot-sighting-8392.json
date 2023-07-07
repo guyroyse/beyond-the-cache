@@ -11,9 +11,11 @@
   "longitude": -123.6416,
   "location": "-123.6416,42.24165",
   "location_details": "About 3-5 miles north of Cave Junction on Hwy 199.",
-  "temperature_high": 74.88,
-  "temperature_mid": 65.56,
-  "temperature_low": 56.24,
+  "temperature": {
+    "high": 74.88,
+    "mid": 65.56,
+    "low": 56.24
+  },
   "dew_point": 51.68,
   "humidity": 0.66,
   "cloud_cover": 0.09,

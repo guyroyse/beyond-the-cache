@@ -11,9 +11,11 @@
   "longitude": -81.78879,
   "location": "-81.78879,28.99487",
   "location_details": "Located in the Florida Highlands off of State Road 200.",
-  "temperature_high": 89.96,
-  "temperature_mid": 80.28,
-  "temperature_low": 70.6,
+  "temperature": {
+    "high": 89.96,
+    "mid": 80.28,
+    "low": 70.6
+  },
   "dew_point": 70.68,
   "humidity": 0.79,
   "cloud_cover": 0.32,

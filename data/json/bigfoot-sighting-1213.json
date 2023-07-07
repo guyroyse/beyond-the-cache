@@ -11,9 +11,11 @@
   "longitude": -93.87194,
   "location": "-93.87194,31.56",
   "location_details": "Approximately halfway (North to South) down Toledo Bend Reservoir. Unknown exact mileage from nearest town.",
-  "temperature_high": 54.11,
-  "temperature_mid": 47.615,
-  "temperature_low": 41.12,
+  "temperature": {
+    "high": 54.11,
+    "mid": 47.615,
+    "low": 41.12
+  },
   "dew_point": 28.83,
   "humidity": 0.63,
   "cloud_cover": 0.18,

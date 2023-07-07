@@ -1,0 +1,34 @@
+{
+  "reportId": "51180",
+  "title": "Man recalls strange occurrences as a youngster in Weatherford",
+  "date": "1976-11-30",
+  "timestamp": 218160000,
+  "observed": "Seen big dark something twice. I grew up on the eastside of Weatherford, born and raised on town creek, which stretched from Sunshine lake thru Weatherford all the way to Annetta South. During the winter, I trapped and hunted fur bearing animals. One nite on weekend, I was walking the creek hunting coons and came upon a part of creek where we all swam during the summers and remember a horrible foul odor that would take your breath. I was shining my light in the trees looking for eyes and heard what sounded like someone fall in the water. But by the time we got to where the noise came from, there was nothing. Only thing was  the water was disturbed and kind of murky. I was 12 years old at that time and didn't think too much about it at that time. Now I think back to that time and one other incident and I know what it was.",
+  "classification": "Class B",
+  "county": "Parker",
+  "state": "Texas",
+  "latitude": 32.75,
+  "longitude": -97.75,
+  "location": {
+    "longitude": -97.75,
+    "latitude": 32.75
+  },
+  "location_details": "At the time, Mr. J owned the property. It was at the end of the street across a cattle guard. It was creek bottom and woods, very secluded back then.",
+  "temperature": {
+    "high": 57.24,
+    "mid": 43.77,
+    "low": 30.3
+  },
+  "dew_point": 18.08,
+  "humidity": 0.43,
+  "cloud_cover": 0,
+  "moon_phase": 0.32,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1027.76,
+  "summary": "Clear throughout the day.",
+  "uv_index": 3,
+  "visibility": 9.97,
+  "wind_bearing": 213,
+  "wind_speed": 6.98
+}

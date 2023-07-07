@@ -11,9 +11,11 @@
   "longitude": -90.40184,
   "location": "-90.40184,39.02341",
   "location_details": "3 1/2 miles west of Jerseyville on IL Rt 16 and 5 3/4 south on Country Rd 9",
-  "temperature_high": 70.92,
-  "temperature_mid": 63.61,
-  "temperature_low": 56.3,
+  "temperature": {
+    "high": 70.92,
+    "mid": 63.61,
+    "low": 56.3
+  },
   "dew_point": 52.76,
   "humidity": 0.72,
   "cloud_cover": 0.66,

@@ -11,9 +11,11 @@
   "longitude": -123.5036,
   "location": "-123.5036,43.61538",
   "location_details": "off hwy 138 w half mile south of elkton turnwest across umpqua river proceed a mile turn right on camp cr road up in the hills",
-  "temperature_high": 55.9,
-  "temperature_mid": 50.39,
-  "temperature_low": 44.88,
+  "temperature": {
+    "high": 55.9,
+    "mid": 50.39,
+    "low": 44.88
+  },
   "dew_point": 43.89,
   "humidity": 0.77,
   "cloud_cover": 0.68,

@@ -11,9 +11,11 @@
   "longitude": -118.375,
   "location": "-118.375,36.70835",
   "location_details": "[Location details removed.  Location is in the general vicinity of Forester Pass in the Sierra Nevada Mountains]",
-  "temperature_high": 81.4,
-  "temperature_mid": 64.945,
-  "temperature_low": 48.49,
+  "temperature": {
+    "high": 81.4,
+    "mid": 64.945,
+    "low": 48.49
+  },
   "dew_point": 32.97,
   "humidity": 0.36,
   "cloud_cover": 0.12,

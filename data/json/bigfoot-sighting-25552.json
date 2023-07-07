@@ -11,9 +11,11 @@
   "longitude": -105.275,
   "location": "-105.275,38.91",
   "location_details": "At the Florissant Fossil Beds National Monument",
-  "temperature_high": 52.03,
-  "temperature_mid": 47.84,
-  "temperature_low": 43.65,
+  "temperature": {
+    "high": 52.03,
+    "mid": 47.84,
+    "low": 43.65
+  },
   "dew_point": 44.03,
   "humidity": 0.88,
   "cloud_cover": 0.97,

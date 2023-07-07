@@ -11,9 +11,11 @@
   "longitude": -119.864,
   "location": "-119.864,38.17625",
   "location_details": "Going to Pinecrest or Strawberry, then go towards the dodge ski lodge, and take the road that leads you to crab tree trail head and then Bear Lake is the first or second lake in Emigrant National Wilderness(after the sign).",
-  "temperature_high": 92.68,
-  "temperature_mid": 76.12,
-  "temperature_low": 59.56,
+  "temperature": {
+    "high": 92.68,
+    "mid": 76.12,
+    "low": 59.56
+  },
   "dew_point": 49.96,
   "humidity": 0.43,
   "cloud_cover": 0.01,

@@ -1,0 +1,35 @@
+{
+  "reportId": "25989",
+  "title": "Girl sees bigfoot outside home in mountains near Smoot",
+  "date": "2009-05-15",
+  "timestamp": 1242345600,
+  "observed": "On the night of Friday May 15, 2009 I went out on the back porch to get some fresh air. I smelled something like a wet dog. When I turned around I saw a seven or eight feet tall creature that was brown, hairy, and kind of lanky. As soon as I saw it I gasped and it took off running. Then next morning my family and I went outside and began looking around and found footprints about 14\" or 15\" inches long, and 4 or 5 feet span between each one in our garden. It appeared to be barefooted and at one point running.",
+  "classification": "Class A",
+  "county": "Greenbrier",
+  "state": "West Virginia",
+  "latitude": 37.9208,
+  "longitude": -80.71875,
+  "location": {
+    "longitude": -80.71875,
+    "latitude": 37.9208
+  },
+  "location_details": "Located near Sam Black exit, Jones Road Meadow Bluff.",
+  "temperature": {
+    "high": 76.83,
+    "mid": 69.25,
+    "low": 61.67
+  },
+  "dew_point": 60.73,
+  "humidity": 0.82,
+  "cloud_cover": 0.58,
+  "moon_phase": 0.7,
+  "precip_intensity": 0.008,
+  "precip_probability": 0.5,
+  "precip_type": "rain",
+  "pressure": 1021.41,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 8,
+  "visibility": 7.52,
+  "wind_bearing": 147,
+  "wind_speed": 2.23
+}

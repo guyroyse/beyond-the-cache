@@ -11,9 +11,11 @@
   "longitude": -89.48784,
   "location": "-89.48784,37.71917",
   "location_details": "Along Illinois Route 3 west of Murphysboro.",
-  "temperature_high": 69.52,
-  "temperature_mid": 62.715,
-  "temperature_low": 55.91,
+  "temperature": {
+    "high": 69.52,
+    "mid": 62.715,
+    "low": 55.91
+  },
   "dew_point": 28.98,
   "humidity": 0.38,
   "cloud_cover": 0.02,

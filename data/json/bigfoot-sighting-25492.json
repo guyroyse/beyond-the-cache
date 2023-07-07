@@ -11,9 +11,11 @@
   "longitude": -118.625,
   "location": "-118.625,35.17748",
   "location_details": "Bear Valley Springs, CA, located in Tehachapi, Ca.",
-  "temperature_high": 63.98,
-  "temperature_mid": 54.975,
-  "temperature_low": 45.97,
+  "temperature": {
+    "high": 63.98,
+    "mid": 54.975,
+    "low": 45.97
+  },
   "dew_point": 40.46,
   "humidity": 0.66,
   "cloud_cover": 0.21,

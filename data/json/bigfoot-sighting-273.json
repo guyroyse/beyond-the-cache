@@ -11,9 +11,11 @@
   "longitude": -85.57415,
   "location": "-85.57415,33.7065",
   "location_details": "From I 20 you get off at the Heflin exit and go through Heflin and get on hwy 78. You will see signs directing you to Pine Glen, a camping area, and Coleman Lake soon after this point. The roads are dirt roads, but follow the signs to Pine Glen and about 3 miles up the road on the left you will see a sign for Sweetwater Lake. This road will go down about 1/2 mile to the lake.",
-  "temperature_high": 86.91,
-  "temperature_mid": 78.215,
-  "temperature_low": 69.52,
+  "temperature": {
+    "high": 86.91,
+    "mid": 78.215,
+    "low": 69.52
+  },
   "dew_point": 63.8,
   "humidity": 0.71,
   "cloud_cover": 0.29,

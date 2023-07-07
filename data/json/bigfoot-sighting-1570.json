@@ -11,9 +11,11 @@
   "longitude": -117.4214,
   "location": "-117.4214,48.75528",
   "location_details": "1.75 to 2 Miles directly N.W. of Ione.",
-  "temperature_high": 83.01,
-  "temperature_mid": 67.325,
-  "temperature_low": 51.64,
+  "temperature": {
+    "high": 83.01,
+    "mid": 67.325,
+    "low": 51.64
+  },
   "dew_point": 44.98,
   "humidity": 0.5,
   "cloud_cover": 0.13,

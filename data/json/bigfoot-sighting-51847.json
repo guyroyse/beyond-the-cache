@@ -11,9 +11,11 @@
   "longitude": -73.16617,
   "location": "-73.16617,42.63678",
   "location_details": "Mount Greylock State Reservation, Cheshire Harbor Trail off West Mountain Rd, Adams, MA, heading southeast toward base of trail. Adams, MA.",
-  "temperature_high": 63.35,
-  "temperature_mid": 54.75,
-  "temperature_low": 46.15,
+  "temperature": {
+    "high": 63.35,
+    "mid": 54.75,
+    "low": 46.15
+  },
   "dew_point": 35.56,
   "humidity": 0.53,
   "cloud_cover": 0.13,

@@ -1,0 +1,34 @@
+{
+  "reportId": "29313",
+  "title": "Fisherman finds possible footprints near Grassy Lake (w/photo)",
+  "date": "2010-04-10",
+  "timestamp": 1270857600,
+  "observed": "i went fishing last spring. found really weird tracks. i took pictures. i worked in a hospital at that time. i showed the pics to several ortho doctors and 4 podiatrists (foot doctors). they all said the same thing. \"Not made by a person\" as in not h.s.s.. i then showed them to several people that hunt bear. they all said \"not made by a bear\". the tracks had a large toe print,and no arch. they were wider than my size 12 water boot but only 2/3 the length. how do i send these pics to you? they tracks went into an area that was dead ended by 2 creeks. the tracks went in then turned around and went back. the next day i took my go'shein akita out there. he is not scared of anything and has went after a black bear with no hesitation. he hit the tracks, got the scent and turned around and left. i found him back at the car trying to get inside. he hates getting in the car and never does it willingly. he was more than willing then. i have pics of right and left tracks with objects for size reference.",
+  "classification": "Class B",
+  "county": "Faulkner",
+  "state": "Arkansas",
+  "latitude": 34.56384,
+  "longitude": -92.22704,
+  "location": {
+    "longitude": -92.22704,
+    "latitude": 34.56384
+  },
+  "location_details": "on the way to the grassy lake w.m.a.",
+  "temperature": {
+    "high": 75.4,
+    "mid": 61.045,
+    "low": 46.69
+  },
+  "dew_point": 42.66,
+  "humidity": 0.57,
+  "cloud_cover": 0.07,
+  "moon_phase": 0.88,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1023.19,
+  "summary": "Clear throughout the day.",
+  "uv_index": 9,
+  "visibility": 9.7,
+  "wind_bearing": 145,
+  "wind_speed": 5.69
+}

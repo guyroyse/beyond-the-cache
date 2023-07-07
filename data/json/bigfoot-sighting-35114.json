@@ -11,9 +11,11 @@
   "longitude": -83.918,
   "location": "-83.918,36.2635",
   "location_details": "Off of highway 61 in Big Ridge State Park.",
-  "temperature_high": 73.76,
-  "temperature_mid": 67.965,
-  "temperature_low": 62.17,
+  "temperature": {
+    "high": 73.76,
+    "mid": 67.965,
+    "low": 62.17
+  },
   "dew_point": 64.89,
   "humidity": 0.86,
   "cloud_cover": 0.92,

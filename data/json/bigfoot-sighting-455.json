@@ -11,9 +11,11 @@
   "longitude": -122.275,
   "location": "-122.275,42.47",
   "location_details": "Forest road 3661 turns north off Highway 140 just west of turn-off to 'The Lake of the Woods'. It is 6 miles to Fourmile Lake on 3661, which ends at the campgrounds. This is where the Sky Lakes Trail starts and Squaw Lake is approx. 3 miles from this trailhead.",
-  "temperature_high": 85,
-  "temperature_mid": 70.745,
-  "temperature_low": 56.49,
+  "temperature": {
+    "high": 85,
+    "mid": 70.745,
+    "low": 56.49
+  },
   "dew_point": 52.53,
   "humidity": 0.57,
   "cloud_cover": 0.18,

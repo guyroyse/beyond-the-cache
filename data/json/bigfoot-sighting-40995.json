@@ -11,9 +11,11 @@
   "longitude": -90.78947,
   "location": "-90.78947,40.45428",
   "location_details": "The following sighting occurred at Argyle Lake State Park",
-  "temperature_high": 85.57,
-  "temperature_mid": 74.605,
-  "temperature_low": 63.64,
+  "temperature": {
+    "high": 85.57,
+    "mid": 74.605,
+    "low": 63.64
+  },
   "dew_point": 67.72,
   "humidity": 0.77,
   "cloud_cover": 0.32,

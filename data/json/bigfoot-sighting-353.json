@@ -11,9 +11,11 @@
   "longitude": -120.0914,
   "location": "-120.0914,38.9575",
   "location_details": "West Lake Tahoe just north of Sugar Pine Point State Park Campground",
-  "temperature_high": 73.42,
-  "temperature_mid": 55.26,
-  "temperature_low": 37.1,
+  "temperature": {
+    "high": 73.42,
+    "mid": 55.26,
+    "low": 37.1
+  },
   "dew_point": 38.23,
   "humidity": 0.58,
   "cloud_cover": 0.14,

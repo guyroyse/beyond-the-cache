@@ -11,9 +11,11 @@
   "longitude": -82.16943,
   "location": "-82.16943,40.60291",
   "location_details": "Private property near the intersection of CR 22 and TR 211",
-  "temperature_high": 80.18,
-  "temperature_mid": 68.24,
-  "temperature_low": 56.3,
+  "temperature": {
+    "high": 80.18,
+    "mid": 68.24,
+    "low": 56.3
+  },
   "dew_point": 54.36,
   "humidity": 0.65,
   "cloud_cover": 0,

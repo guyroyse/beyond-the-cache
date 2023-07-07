@@ -11,9 +11,11 @@
   "longitude": -124.1692,
   "location": "-124.1692,46.96189",
   "location_details": "I prefer to talk with someone in person or by phone",
-  "temperature_high": 67.02,
-  "temperature_mid": 60.61,
-  "temperature_low": 54.2,
+  "temperature": {
+    "high": 67.02,
+    "mid": 60.61,
+    "low": 54.2
+  },
   "dew_point": 53.43,
   "humidity": 0.82,
   "cloud_cover": 0.53,

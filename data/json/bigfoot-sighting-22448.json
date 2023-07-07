@@ -11,9 +11,11 @@
   "longitude": -89.55949,
   "location": "-89.55949,37.236",
   "location_details": "Outside Scott City near the Diversion Canal.",
-  "temperature_high": 94.01,
-  "temperature_mid": 83.735,
-  "temperature_low": 73.46,
+  "temperature": {
+    "high": 94.01,
+    "mid": 83.735,
+    "low": 73.46
+  },
   "dew_point": 74.42,
   "humidity": 0.76,
   "cloud_cover": 0.27,

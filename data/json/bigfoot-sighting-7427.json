@@ -11,9 +11,11 @@
   "longitude": -85.4258,
   "location": "-85.4258,32.6218",
   "location_details": "Near a creek that runs through the county called Phelps Creek.",
-  "temperature_high": 63.58,
-  "temperature_mid": 57.54,
-  "temperature_low": 51.5,
+  "temperature": {
+    "high": 63.58,
+    "mid": 57.54,
+    "low": 51.5
+  },
   "dew_point": 36.46,
   "humidity": 0.62,
   "cloud_cover": 0.06,

@@ -11,9 +11,11 @@
   "longitude": -108.7608,
   "location": "-108.7608,36.81315",
   "location_details": "There is a turn off to the right of the highway just before the ten mile marker. It's about ten miles to the river. We had just come up out of the first canyon to a small flat area when this incidence occured.",
-  "temperature_high": 38.81,
-  "temperature_mid": 29.395,
-  "temperature_low": 19.98,
+  "temperature": {
+    "high": 38.81,
+    "mid": 29.395,
+    "low": 19.98
+  },
   "dew_point": 6.33,
   "humidity": 0.41,
   "cloud_cover": 0.39,

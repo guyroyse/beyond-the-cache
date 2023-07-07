@@ -11,9 +11,11 @@
   "longitude": -88.12475,
   "location": "-88.12475,33.41574",
   "location_details": "Co. Rd 9 Lamar County Alabama",
-  "temperature_high": 81.53,
-  "temperature_mid": 71.175,
-  "temperature_low": 60.82,
+  "temperature": {
+    "high": 81.53,
+    "mid": 71.175,
+    "low": 60.82
+  },
   "dew_point": 62.67,
   "humidity": 0.74,
   "cloud_cover": 0.31,

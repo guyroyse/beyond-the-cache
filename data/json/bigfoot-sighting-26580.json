@@ -11,9 +11,11 @@
   "longitude": -122.5572,
   "location": "-122.5572,46.38448",
   "location_details": "[Edited] Off interstate 5 take exit 49, head east out of Castle Rock 6 or 7 miles to the town of Toutle. Keep going east past Toutle 2 to 3 more miles and the dirt road is to your left. right before a shell gas station that would be on your right.",
-  "temperature_high": 83.18,
-  "temperature_mid": 71.39,
-  "temperature_low": 59.6,
+  "temperature": {
+    "high": 83.18,
+    "mid": 71.39,
+    "low": 59.6
+  },
   "dew_point": 54.96,
   "humidity": 0.67,
   "cloud_cover": 0.06,

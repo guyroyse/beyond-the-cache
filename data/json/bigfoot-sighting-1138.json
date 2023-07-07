@@ -11,9 +11,11 @@
   "longitude": -92.20055,
   "location": "-92.20055,37.82861",
   "location_details": "This occured on Hwy. 17 North of Waynesville, MO. (Pulaski County) almost exactly even with the \"40 MPH Speed Limit Sign\" When we got on up to the junction of Hwy 17 and Bus. 44, there was a residential structure fire and the Waynesville Fire Dept. was there. They had their water hoses ran across the intersection and had a metal ramp laid across the hoses, so that cars could drive over them. It was a very cold night and the water was running across the roadway and freezing. This made the intersection extremely slick. So, this information should be fairly easy to obtain. (If I find out, I will add this to my report.)  37:49:43 N 092:12:02 W",
-  "temperature_high": 36.9,
-  "temperature_mid": 31.41,
-  "temperature_low": 25.92,
+  "temperature": {
+    "high": 36.9,
+    "mid": 31.41,
+    "low": 25.92
+  },
   "dew_point": 32.25,
   "humidity": 0.91,
   "cloud_cover": 1,

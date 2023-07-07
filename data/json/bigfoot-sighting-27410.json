@@ -11,9 +11,11 @@
   "longitude": -89.86899,
   "location": "-89.86899,36.87593",
   "location_details": "next to Golden Cat, Kitty Litter plant, between Hwy. Y and Ab",
-  "temperature_high": 50.95,
-  "temperature_mid": 36.35,
-  "temperature_low": 21.75,
+  "temperature": {
+    "high": 50.95,
+    "mid": 36.35,
+    "low": 21.75
+  },
   "dew_point": 23.77,
   "humidity": 0.59,
   "cloud_cover": 0.27,

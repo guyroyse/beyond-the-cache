@@ -11,9 +11,11 @@
   "longitude": -83.44371,
   "location": "-83.44371,40.47326",
   "location_details": "In Union County Ohio, near the village of Byhalia,",
-  "temperature_high": 60.53,
-  "temperature_mid": 56.44,
-  "temperature_low": 52.35,
+  "temperature": {
+    "high": 60.53,
+    "mid": 56.44,
+    "low": 52.35
+  },
   "dew_point": 36.55,
   "humidity": 0.63,
   "cloud_cover": 0.7,

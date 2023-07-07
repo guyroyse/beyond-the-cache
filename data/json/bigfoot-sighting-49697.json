@@ -11,9 +11,11 @@
   "longitude": -73.21289,
   "location": "-73.21289,42.7396",
   "location_details": "West side of route 7",
-  "temperature_high": 81.92,
-  "temperature_mid": 66.78,
-  "temperature_low": 51.64,
+  "temperature": {
+    "high": 81.92,
+    "mid": 66.78,
+    "low": 51.64
+  },
   "dew_point": 54.75,
   "humidity": 0.69,
   "cloud_cover": 0.05,

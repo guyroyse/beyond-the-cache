@@ -11,9 +11,11 @@
   "longitude": -78.42314,
   "location": "-78.42314,40.97015",
   "location_details": "If you take Glen Ritchie HWY. out past Clearfield to about 3 miles before dimeling bridge on the right . A very steep driveway will take you down to where we used to live.",
-  "temperature_high": 77.08,
-  "temperature_mid": 64.51,
-  "temperature_low": 51.94,
+  "temperature": {
+    "high": 77.08,
+    "mid": 64.51,
+    "low": 51.94
+  },
   "dew_point": 51.42,
   "humidity": 0.67,
   "cloud_cover": 0.01,

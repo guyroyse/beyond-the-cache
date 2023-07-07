@@ -11,9 +11,11 @@
   "longitude": -111.5986,
   "location": "-111.5986,40.26705",
   "location_details": "If you hike up the Rock Canyon trail.  It is about 1 1/2 hiking distance from the parking lot.  It is where the trail splits to go to the overlook trail and the campground trail.  This is where we heard the noise.",
-  "temperature_high": 52.87,
-  "temperature_mid": 45.065,
-  "temperature_low": 37.26,
+  "temperature": {
+    "high": 52.87,
+    "mid": 45.065,
+    "low": 37.26
+  },
   "dew_point": 34.12,
   "humidity": 0.66,
   "cloud_cover": 0.44,

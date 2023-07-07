@@ -11,9 +11,11 @@
   "longitude": -104.875,
   "location": "-104.875,38.716",
   "location_details": "Cheyenne Mountain, near NORAD.",
-  "temperature_high": 83.59,
-  "temperature_mid": 70.645,
-  "temperature_low": 57.7,
+  "temperature": {
+    "high": 83.59,
+    "mid": 70.645,
+    "low": 57.7
+  },
   "dew_point": 48.03,
   "humidity": 0.46,
   "cloud_cover": 0.62,

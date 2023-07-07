@@ -11,9 +11,11 @@
   "longitude": -94.2908,
   "location": "-94.2908,39.20894",
   "location_details": "This happened near Rayville, Mo.  From the town of Richmond MO go west on MO 10 for about 4.5 miles and then turn down Rayville RD (RR C) for about around 6 miles till you get to Orr road.  This is a gravel road.  Follow it till you reach 144th street where my friend's house is and where I heard what I heard.",
-  "temperature_high": 55.08,
-  "temperature_mid": 43.63,
-  "temperature_low": 32.18,
+  "temperature": {
+    "high": 55.08,
+    "mid": 43.63,
+    "low": 32.18
+  },
   "dew_point": 31.38,
   "humidity": 0.61,
   "cloud_cover": 0.21,

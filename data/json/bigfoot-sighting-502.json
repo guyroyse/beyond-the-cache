@@ -11,9 +11,11 @@
   "longitude": -120.8275,
   "location": "-120.8275,39.01917",
   "location_details": "From Sacramento: take I-80 East towards Reno,take the Auburn Ravine Road exit and turn right, cross the intersection and this is Foresthill Road. Follow it for about 17 miles and you'll hit Foresthill, then go approximately 20 more miles to Historic Marker 8, which is Ford Point and look to your left, there will be a dirt road going up a hill. Follow that for 1/4-1/2 mile and look for a flat area with a rock ring off the right side of the road. The dirt road continues up the hill where it gets very rugged and you need Four wheel drive to continue much farther; it will then pop you up on another dirt road, which, if you go left, will dead end to another flat spot and another \"primitive\"-type camp ground. During this camping trip we went to that higher campground and thought about camping, but changed our minds",
-  "temperature_high": 86.81,
-  "temperature_mid": 72.625,
-  "temperature_low": 58.44,
+  "temperature": {
+    "high": 86.81,
+    "mid": 72.625,
+    "low": 58.44
+  },
   "dew_point": 49.79,
   "humidity": 0.46,
   "cloud_cover": 0.06,

@@ -11,9 +11,11 @@
   "longitude": -79.4016,
   "location": "-79.4016,38.8409",
   "location_details": "Top of mountain to the left was very steep and to the right was bushes, but sloped not real steep.",
-  "temperature_high": 86.77,
-  "temperature_mid": 75.91,
-  "temperature_low": 65.05,
+  "temperature": {
+    "high": 86.77,
+    "mid": 75.91,
+    "low": 65.05
+  },
   "dew_point": 62.58,
   "humidity": 0.67,
   "cloud_cover": 0.13,

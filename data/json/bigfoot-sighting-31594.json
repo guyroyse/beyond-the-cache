@@ -11,9 +11,11 @@
   "longitude": -78.193,
   "location": "-78.193,37.303",
   "location_details": "I would have to ask, a friend who hunted with my husband sometimes on directions, husband Andrew passed away 5 yrs ago. Just remember going by Appomattox surrender grounds, and taking a left before entering farmville, va",
-  "temperature_high": 90.87,
-  "temperature_mid": 80.21,
-  "temperature_low": 69.55,
+  "temperature": {
+    "high": 90.87,
+    "mid": 80.21,
+    "low": 69.55
+  },
   "dew_point": 67.46,
   "humidity": 0.69,
   "cloud_cover": 0.47,

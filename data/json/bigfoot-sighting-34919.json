@@ -11,9 +11,11 @@
   "longitude": -88.07554,
   "location": "-88.07554,38.3778",
   "location_details": "It was near Red Hill Road on Route 15 between Albion and Fairfield.",
-  "temperature_high": 69.75,
-  "temperature_mid": 59.375,
-  "temperature_low": 49,
+  "temperature": {
+    "high": 69.75,
+    "mid": 59.375,
+    "low": 49
+  },
   "dew_point": 41.25,
   "humidity": 0.6,
   "cloud_cover": 0.18,

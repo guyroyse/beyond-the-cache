@@ -11,9 +11,11 @@
   "longitude": -123.3678,
   "location": "-123.3678,48.08955",
   "location_details": "House right off Mt Pleasant Rd. We were in driveway of house north of mine.",
-  "temperature_high": 60.76,
-  "temperature_mid": 52.86,
-  "temperature_low": 44.96,
+  "temperature": {
+    "high": 60.76,
+    "mid": 52.86,
+    "low": 44.96
+  },
   "dew_point": 48.35,
   "humidity": 0.81,
   "cloud_cover": 0.75,

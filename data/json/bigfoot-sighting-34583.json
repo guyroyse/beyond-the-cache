@@ -11,9 +11,11 @@
   "longitude": -79.14795,
   "location": "-79.14795,38.58125",
   "location_details": "Just stay on 33 west until you hit the WV boarder",
-  "temperature_high": 68.35,
-  "temperature_mid": 57.525,
-  "temperature_low": 46.7,
+  "temperature": {
+    "high": 68.35,
+    "mid": 57.525,
+    "low": 46.7
+  },
   "dew_point": 51.11,
   "humidity": 0.78,
   "cloud_cover": 0.45,

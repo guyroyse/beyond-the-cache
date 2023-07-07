@@ -11,9 +11,11 @@
   "longitude": -81.99105,
   "location": "-81.99105,27.07842",
   "location_details": "Very primitive..swampy area with a fresh water river, only accessable by boat...We can take you to the place where it happened.",
-  "temperature_high": 87.93,
-  "temperature_mid": 82.215,
-  "temperature_low": 76.5,
+  "temperature": {
+    "high": 87.93,
+    "mid": 82.215,
+    "low": 76.5
+  },
   "dew_point": 72.33,
   "humidity": 0.8,
   "cloud_cover": 0.29,

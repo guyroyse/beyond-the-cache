@@ -11,9 +11,11 @@
   "longitude": -91.46231,
   "location": "-91.46231,35.703",
   "location_details": "Newark is a rural town. There were probably 3 houses within 100 yds.",
-  "temperature_high": 54.77,
-  "temperature_mid": 48.97,
-  "temperature_low": 43.17,
+  "temperature": {
+    "high": 54.77,
+    "mid": 48.97,
+    "low": 43.17
+  },
   "dew_point": 44.33,
   "humidity": 0.84,
   "cloud_cover": 0.82,

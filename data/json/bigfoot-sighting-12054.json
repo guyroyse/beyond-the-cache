@@ -11,9 +11,11 @@
   "longitude": -94.286,
   "location": "-94.286,38.586",
   "location_details": "South of Daugherty on Freedom Rd. (Daugherty is halfway between Harrisonville and Garden City on Highway 7) about a mile or so where road turns into 291st.  Turn right and immediately to the left is a house on the land where the print was.",
-  "temperature_high": 73.84,
-  "temperature_mid": 66.865,
-  "temperature_low": 59.89,
+  "temperature": {
+    "high": 73.84,
+    "mid": 66.865,
+    "low": 59.89
+  },
   "dew_point": 49.18,
   "humidity": 0.56,
   "cloud_cover": 0.59,

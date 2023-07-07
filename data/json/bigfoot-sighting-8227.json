@@ -11,9 +11,11 @@
   "longitude": -123.1611,
   "location": "-123.1611,43.3029",
   "location_details": "It had just crossed the hwy and was standing on the south side of hwy 138 east, about 15 miles east of Roseburg, about 4 miles west of Glide, Or",
-  "temperature_high": 72.21,
-  "temperature_mid": 56.62,
-  "temperature_low": 41.03,
+  "temperature": {
+    "high": 72.21,
+    "mid": 56.62,
+    "low": 41.03
+  },
   "dew_point": 38.41,
   "humidity": 0.57,
   "cloud_cover": 0.04,

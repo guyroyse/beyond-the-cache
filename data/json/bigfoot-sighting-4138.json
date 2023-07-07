@@ -11,9 +11,11 @@
   "longitude": -95.60834,
   "location": "-95.60834,30.23333",
   "location_details": "These incidents occured in Montgomery county Texas between The Woodlands , Tex and Conroe,Tex off highway 1488 in a very rural and mostly empty subdvison.",
-  "temperature_high": 82.18,
-  "temperature_mid": 77.945,
-  "temperature_low": 73.71,
+  "temperature": {
+    "high": 82.18,
+    "mid": 77.945,
+    "low": 73.71
+  },
   "dew_point": 73.9,
   "humidity": 0.92,
   "cloud_cover": 0.93,

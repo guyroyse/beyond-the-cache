@@ -11,9 +11,11 @@
   "longitude": -121.5863,
   "location": "-121.5863,46.67111",
   "location_details": "I wrote down the milepost, but I do not have it with me as I write this.  It was near the Mount Rainer/Chinook Pass turnoff highway 12.",
-  "temperature_high": 69.18,
-  "temperature_mid": 58.635,
-  "temperature_low": 48.09,
+  "temperature": {
+    "high": 69.18,
+    "mid": 58.635,
+    "low": 48.09
+  },
   "dew_point": 52.66,
   "humidity": 0.72,
   "cloud_cover": 0.61,

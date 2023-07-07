@@ -11,9 +11,11 @@
   "longitude": -74.2918,
   "location": "-74.2918,40.8959",
   "location_details": "A 1/4 mile north of route 80 in a wooded swampy area.  The nearest habitation (at the time of sighting at least, was about 2 or 2 1/2 miles away)",
-  "temperature_high": 70.67,
-  "temperature_mid": 65.01,
-  "temperature_low": 59.35,
+  "temperature": {
+    "high": 70.67,
+    "mid": 65.01,
+    "low": 59.35
+  },
   "dew_point": 58.7,
   "humidity": 0.88,
   "cloud_cover": 0.91,

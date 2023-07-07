@@ -11,9 +11,11 @@
   "longitude": -113.1236,
   "location": "-113.1236,48.36139",
   "location_details": "the foothills of the rockies on the Blackfeet Reservation in Big Sky Country",
-  "temperature_high": 57.19,
-  "temperature_mid": 49.395,
-  "temperature_low": 41.6,
+  "temperature": {
+    "high": 57.19,
+    "mid": 49.395,
+    "low": 41.6
+  },
   "dew_point": 38.79,
   "humidity": 0.64,
   "cloud_cover": 0.78,

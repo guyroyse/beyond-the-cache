@@ -11,9 +11,11 @@
   "longitude": -81.8992,
   "location": "-81.8992,30.25389",
   "location_details": "This is a close military base in an area rumored to have held nuclear arms.",
-  "temperature_high": 84.01,
-  "temperature_mid": 78.09,
-  "temperature_low": 72.17,
+  "temperature": {
+    "high": 84.01,
+    "mid": 78.09,
+    "low": 72.17
+  },
   "dew_point": 73.68,
   "humidity": 0.87,
   "cloud_cover": 0.38,

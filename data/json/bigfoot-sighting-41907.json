@@ -11,9 +11,11 @@
   "longitude": -90.17844,
   "location": "-90.17844,39.74652",
   "location_details": "3 miles east of Jacksonville on the Old state road to Mobil Road and north aprox 1/2 mile",
-  "temperature_high": 55.03,
-  "temperature_mid": 46.29,
-  "temperature_low": 37.55,
+  "temperature": {
+    "high": 55.03,
+    "mid": 46.29,
+    "low": 37.55
+  },
   "dew_point": 27.07,
   "humidity": 0.69,
   "cloud_cover": 0.22,

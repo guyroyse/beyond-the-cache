@@ -11,9 +11,11 @@
   "longitude": -85.44922,
   "location": "-85.44922,44.71466",
   "location_details": "I've described the location as best I can.  Follow snowmobile trail from Roudolph Ranch to Traverse City and turn around at first road crossing after entering highwire clearing.",
-  "temperature_high": 24.85,
-  "temperature_mid": 22.02,
-  "temperature_low": 19.19,
+  "temperature": {
+    "high": 24.85,
+    "mid": 22.02,
+    "low": 19.19
+  },
   "dew_point": 16.68,
   "humidity": 0.75,
   "cloud_cover": 0.97,

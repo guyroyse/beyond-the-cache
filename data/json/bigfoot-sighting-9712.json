@@ -11,9 +11,11 @@
   "longitude": -84.2532,
   "location": "-84.2532,33.32442",
   "location_details": "If you are in Atlanta - you go 75 south to Ga. Hwy 85 and you follow it into Riverdale. Hwy 85 eventually intersections Hwy 138. At that light make a right. Go straight to the 3rd street on the left and that is Lyle Dr.",
-  "temperature_high": 87.27,
-  "temperature_mid": 79.92,
-  "temperature_low": 72.57,
+  "temperature": {
+    "high": 87.27,
+    "mid": 79.92,
+    "low": 72.57
+  },
   "dew_point": 70.97,
   "humidity": 0.76,
   "cloud_cover": 0.58,

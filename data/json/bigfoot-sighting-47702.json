@@ -11,9 +11,11 @@
   "longitude": -98.15854,
   "location": "-98.15854,29.52533",
   "location_details": "Canyon Lake near Startzville, Texas",
-  "temperature_high": 39.31,
-  "temperature_mid": 36.155,
-  "temperature_low": 33,
+  "temperature": {
+    "high": 39.31,
+    "mid": 36.155,
+    "low": 33
+  },
   "dew_point": 28.12,
   "humidity": 0.69,
   "cloud_cover": 0.7,

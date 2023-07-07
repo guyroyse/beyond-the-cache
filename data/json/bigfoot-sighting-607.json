@@ -11,9 +11,11 @@
   "longitude": -81.76041,
   "location": "-81.76041,26.15915",
   "location_details": "The area was in a sawgrass field between two cypress bayheads. It was about 500 yards wide by 1/4 mile in length.",
-  "temperature_high": 79.38,
-  "temperature_mid": 73.15,
-  "temperature_low": 66.92,
+  "temperature": {
+    "high": 79.38,
+    "mid": 73.15,
+    "low": 66.92
+  },
   "dew_point": 59.43,
   "humidity": 0.74,
   "cloud_cover": 0.43,

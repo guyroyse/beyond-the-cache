@@ -11,9 +11,11 @@
   "longitude": -87.46171,
   "location": "-87.46171,46.60424",
   "location_details": "Can not miss as 550 heads Northwest of Marquette and the landmarks are marked by signs.",
-  "temperature_high": 27.45,
-  "temperature_mid": 22.835,
-  "temperature_low": 18.22,
+  "temperature": {
+    "high": 27.45,
+    "mid": 22.835,
+    "low": 18.22
+  },
   "dew_point": 17.23,
   "humidity": 0.71,
   "cloud_cover": 0.82,

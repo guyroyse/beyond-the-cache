@@ -11,9 +11,11 @@
   "longitude": -120.502,
   "location": "-120.502,48.64185",
   "location_details": "Go off highway 20 into Mazama, go west about six miles up lost river road. Pull to the side of the road and you'll have to cross the river by wading on foot.",
-  "temperature_high": 81.18,
-  "temperature_mid": 68.425,
-  "temperature_low": 55.67,
+  "temperature": {
+    "high": 81.18,
+    "mid": 68.425,
+    "low": 55.67
+  },
   "dew_point": 49.19,
   "humidity": 0.49,
   "cloud_cover": 0.11,

@@ -11,9 +11,11 @@
   "longitude": -106.4917,
   "location": "-106.4917,37.30833",
   "location_details": "Conejos County, Colorado, on the Lake Fork of the Conejos River, near the San Juan Wilderness",
-  "temperature_high": 79.62,
-  "temperature_mid": 61.82,
-  "temperature_low": 44.02,
+  "temperature": {
+    "high": 79.62,
+    "mid": 61.82,
+    "low": 44.02
+  },
   "dew_point": 35.65,
   "humidity": 0.4,
   "cloud_cover": 0.22,

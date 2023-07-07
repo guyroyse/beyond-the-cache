@@ -11,9 +11,11 @@
   "longitude": -73.00099,
   "location": "-73.00099,41.86425",
   "location_details": "This happened on Town Hill Rd, Rt 219 going toward New Hartford from Bakersville.",
-  "temperature_high": 58.98,
-  "temperature_mid": 45.07,
-  "temperature_low": 31.16,
+  "temperature": {
+    "high": 58.98,
+    "mid": 45.07,
+    "low": 31.16
+  },
   "dew_point": 34.71,
   "humidity": 0.73,
   "cloud_cover": 0.34,

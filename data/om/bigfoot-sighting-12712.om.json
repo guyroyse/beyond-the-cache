@@ -1,0 +1,35 @@
+{
+  "reportId": "12712",
+  "title": "Woman remembers large bipedal creature running thru pasture at night, south of Henryetta",
+  "date": "1986-08-25",
+  "timestamp": 525312000,
+  "observed": "It was a summer, moonlit night, my then boyfriend and myself were standing outside after a date saying our goodbye's and both leaning with our back towards his pickup truck. We were facing our pasture behind the house that I grew up in. We were talking quietly and not moving much. My parents have a propane tank which is silver in color and approx. 20 to 25 feet long that sits approx 50 yards behind their house.  As we were both looking towards the pasture we noticed something approximately 7 to 8 ft tall running across the pasture. It became more visible as it ran in front of the propane tank and was running in an upright position. It was dark in color. It ran southwestward towards the tree line of the pasture, but distinctly we could see it turn and look at us as it ran. Simultaneously my boyfriend and myself asked each other if we saw that, and ran into the house telling my mother.  She grabbed a flashlight and shown it towards the pasture and saw nothing.",
+  "classification": "Class A",
+  "county": "McIntosh",
+  "state": "Oklahoma",
+  "latitude": 35.36895,
+  "longitude": -95.97023,
+  "location": {
+    "longitude": -95.97023,
+    "latitude": 35.36895
+  },
+  "location_details": "Located below a hill or ridgeline, approx. 2 or so miles from a lake. Wooded area very nearby. 5 miles south of Henryetta, Oklahoma on Lake Road.",
+  "temperature": {
+    "high": 92.98,
+    "mid": 82.055,
+    "low": 71.13
+  },
+  "dew_point": 67.09,
+  "humidity": 0.65,
+  "cloud_cover": 0.45,
+  "moon_phase": 0.7,
+  "precip_intensity": 0.0027,
+  "precip_probability": 0.84,
+  "precip_type": "rain",
+  "pressure": 1016.06,
+  "summary": "Partly cloudy throughout the day.",
+  "uv_index": 7,
+  "visibility": 9.52,
+  "wind_bearing": 201,
+  "wind_speed": 8.48
+}

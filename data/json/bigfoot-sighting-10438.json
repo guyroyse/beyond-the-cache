@@ -11,9 +11,11 @@
   "longitude": -95.00833,
   "location": "-95.00833,30.40833",
   "location_details": "It has been twenty years since I have hunted there. All I can tell you is that it is northeast of Houston towards Beaumont,TX.",
-  "temperature_high": 48.78,
-  "temperature_mid": 45.875,
-  "temperature_low": 42.97,
+  "temperature": {
+    "high": 48.78,
+    "mid": 45.875,
+    "low": 42.97
+  },
   "dew_point": 39.67,
   "humidity": 0.82,
   "cloud_cover": 0.95,

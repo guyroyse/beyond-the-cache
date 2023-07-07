@@ -11,9 +11,11 @@
   "longitude": -74.64189,
   "location": "-74.64189,41.27412",
   "location_details": "It's a big Campground with lots of animals. There is a petting zoo on the grounds.",
-  "temperature_high": 38.03,
-  "temperature_mid": 31.49,
-  "temperature_low": 24.95,
+  "temperature": {
+    "high": 38.03,
+    "mid": 31.49,
+    "low": 24.95
+  },
   "dew_point": 13.68,
   "humidity": 0.52,
   "cloud_cover": 0.08,

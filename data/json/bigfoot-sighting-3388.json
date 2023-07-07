@@ -11,9 +11,11 @@
   "longitude": -88.16361,
   "location": "-88.16361,47.232",
   "location_details": "near  Gay, Michigan",
-  "temperature_high": 57.95,
-  "temperature_mid": 46.55,
-  "temperature_low": 35.15,
+  "temperature": {
+    "high": 57.95,
+    "mid": 46.55,
+    "low": 35.15
+  },
   "dew_point": 46.32,
   "humidity": 0.8,
   "cloud_cover": 0.36,

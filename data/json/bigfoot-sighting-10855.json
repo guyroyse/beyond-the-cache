@@ -11,9 +11,11 @@
   "longitude": -82.929,
   "location": "-82.929,29.591",
   "location_details": "IT WAS A VERY DESOLATE AREA AND SEEMED TO BE IN A SWAMPY AREA.",
-  "temperature_high": 83.61,
-  "temperature_mid": 72.11,
-  "temperature_low": 60.61,
+  "temperature": {
+    "high": 83.61,
+    "mid": 72.11,
+    "low": 60.61
+  },
   "dew_point": 61.94,
   "humidity": 0.78,
   "cloud_cover": 0.3,

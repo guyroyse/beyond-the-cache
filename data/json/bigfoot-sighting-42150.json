@@ -11,9 +11,11 @@
   "longitude": -87.5321,
   "location": "-87.5321,41.4811",
   "location_details": "It is located just off of Sauk Trail and Burnham, next to the Indiana border.",
-  "temperature_high": 82.59,
-  "temperature_mid": 73.765,
-  "temperature_low": 64.94,
+  "temperature": {
+    "high": 82.59,
+    "mid": 73.765,
+    "low": 64.94
+  },
   "dew_point": 65.64,
   "humidity": 0.77,
   "cloud_cover": 0.23,

@@ -11,9 +11,11 @@
   "longitude": -86.19055,
   "location": "-86.19055,38.43235",
   "location_details": "Fredricksburg,IN",
-  "temperature_high": 85.96,
-  "temperature_mid": 77.035,
-  "temperature_low": 68.11,
+  "temperature": {
+    "high": 85.96,
+    "mid": 77.035,
+    "low": 68.11
+  },
   "dew_point": 67.53,
   "humidity": 0.74,
   "cloud_cover": 0.23,

@@ -11,9 +11,11 @@
   "longitude": -119,
   "location": "-119,37.9333",
   "location_details": "Maybe 20 yards from the waters edge on a section of beach at Mono Lake. Unclear on the exact location; however, that should be easy to ascertain from the terrain captured on the video tape.",
-  "temperature_high": 98.97,
-  "temperature_mid": 84.11,
-  "temperature_low": 69.25,
+  "temperature": {
+    "high": 98.97,
+    "mid": 84.11,
+    "low": 69.25
+  },
   "dew_point": 46.66,
   "humidity": 0.3,
   "cloud_cover": 0.13,

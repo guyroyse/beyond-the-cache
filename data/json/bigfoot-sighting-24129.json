@@ -11,9 +11,11 @@
   "longitude": -122.3234,
   "location": "-122.3234,47.4506",
   "location_details": "I had just past the H2O well where they have a new fence about a half mile west of the Indianola ball field, I was traveling on Indianola rd Ne heading towards miller Bay rd.",
-  "temperature_high": 78.26,
-  "temperature_mid": 66.7,
-  "temperature_low": 55.14,
+  "temperature": {
+    "high": 78.26,
+    "mid": 66.7,
+    "low": 55.14
+  },
   "dew_point": 52.35,
   "humidity": 0.69,
   "cloud_cover": 0.5,

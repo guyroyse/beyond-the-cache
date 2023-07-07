@@ -11,9 +11,11 @@
   "longitude": -85.22781,
   "location": "-85.22781,34.14117",
   "location_details": "The sighting was on Hwy 9 between Cedar Bluff AL and Rome GA.",
-  "temperature_high": 89.05,
-  "temperature_mid": 79.305,
-  "temperature_low": 69.56,
+  "temperature": {
+    "high": 89.05,
+    "mid": 79.305,
+    "low": 69.56
+  },
   "dew_point": 68.24,
   "humidity": 0.74,
   "cloud_cover": 0.07,

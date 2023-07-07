@@ -11,9 +11,11 @@
   "longitude": -81.22075,
   "location": "-81.22075,41.57231",
   "location_details": "About 7 miles east of SR 306 on Wilson Mills Rd.",
-  "temperature_high": 29.68,
-  "temperature_mid": 21.825,
-  "temperature_low": 13.97,
+  "temperature": {
+    "high": 29.68,
+    "mid": 21.825,
+    "low": 13.97
+  },
   "dew_point": 16.33,
   "humidity": 0.73,
   "cloud_cover": 0.71,

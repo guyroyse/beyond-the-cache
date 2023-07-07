@@ -11,9 +11,11 @@
   "longitude": -84.50055,
   "location": "-84.50055,34.1962",
   "location_details": "Southern Cherokee County approximately 30 miles northwest of Atlanta",
-  "temperature_high": 67.56,
-  "temperature_mid": 55.195,
-  "temperature_low": 42.83,
+  "temperature": {
+    "high": 67.56,
+    "mid": 55.195,
+    "low": 42.83
+  },
   "dew_point": 41.87,
   "humidity": 0.64,
   "cloud_cover": 0.07,

@@ -11,9 +11,11 @@
   "longitude": -92.6221,
   "location": "-92.6221,30.2576",
   "location_details": "I haven't lived in that area for over 15 years, and can't remember the highway. However the bayou is named Bayou de Cannes.",
-  "temperature_high": 87.57,
-  "temperature_mid": 77.075,
-  "temperature_low": 66.58,
+  "temperature": {
+    "high": 87.57,
+    "mid": 77.075,
+    "low": 66.58
+  },
   "dew_point": 65.11,
   "humidity": 0.76,
   "cloud_cover": 0.22,

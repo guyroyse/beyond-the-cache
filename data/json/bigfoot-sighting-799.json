@@ -11,9 +11,11 @@
   "longitude": -87.1105,
   "location": "-87.1105,34.92855",
   "location_details": "The main sighting report I leave here happened in Limestone Co. Alabama along a slew of the Tennessee River named Elk Creek, Approx. 12 miles (northwest, I think) from Athens. The other lesser sighting or encounters I list are all from the southeast Alabama area. They are from Coffee, Geneva, Henry and Pike Counties.",
-  "temperature_high": 76.3,
-  "temperature_mid": 63.215,
-  "temperature_low": 50.13,
+  "temperature": {
+    "high": 76.3,
+    "mid": 63.215,
+    "low": 50.13
+  },
   "dew_point": 42.51,
   "humidity": 0.54,
   "cloud_cover": 0.5,

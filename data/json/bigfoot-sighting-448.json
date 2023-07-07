@@ -11,9 +11,11 @@
   "longitude": -100.5,
   "location": "-100.5,36",
   "location_details": "Several miles west of Canadian on the river",
-  "temperature_high": 93.41,
-  "temperature_mid": 80.95,
-  "temperature_low": 68.49,
+  "temperature": {
+    "high": 93.41,
+    "mid": 80.95,
+    "low": 68.49
+  },
   "dew_point": 62.46,
   "humidity": 0.53,
   "cloud_cover": 0.07,

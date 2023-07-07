@@ -11,9 +11,11 @@
   "longitude": -87.7424,
   "location": "-87.7424,40.1527",
   "location_details": "Vermilion County  - Kickapoo State Park [specific directions edited out per request of witness]",
-  "temperature_high": 79.24,
-  "temperature_mid": 68.29,
-  "temperature_low": 57.34,
+  "temperature": {
+    "high": 79.24,
+    "mid": 68.29,
+    "low": 57.34
+  },
   "dew_point": 48.3,
   "humidity": 0.64,
   "cloud_cover": 0.01,

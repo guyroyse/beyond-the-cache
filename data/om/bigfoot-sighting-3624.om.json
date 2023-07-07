@@ -1,0 +1,35 @@
+{
+  "reportId": "3624",
+  "title": "Nighttime sighting by motorist on I-84, west of Multnomah Falls",
+  "date": "2002-01-09",
+  "timestamp": 1010534400,
+  "observed": "Creature 7 to 8 feet tall was sighted by my wife and son at  9:15 pm 01/09/02 near Multnomah Falls.  It crossed the freeway in front of their vehicle before going over guard rail toward the Columbia River. They nearly hit it in the westbound lane. She called me from her cell phone and told me what just happened.",
+  "classification": "Class A",
+  "county": "Multnomah",
+  "state": "Oregon",
+  "latitude": 45.55364,
+  "longitude": -122.1884,
+  "location": {
+    "longitude": -122.1884,
+    "latitude": 45.55364
+  },
+  "location_details": "Update from earlier report( 01/11/02): On return trip from Portland today,It was determined that the creature actually crossed at mile marker 29 on west bound side. Appoximately 300-500 feet west of marker. I-84 -Andrew B.",
+  "temperature": {
+    "high": 47.77,
+    "mid": 44.155,
+    "low": 40.54
+  },
+  "dew_point": 41.92,
+  "humidity": 0.93,
+  "cloud_cover": 0.68,
+  "moon_phase": 0.88,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.13,
+  "precip_type": "rain",
+  "pressure": 1025.12,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 6.52,
+  "wind_bearing": 66,
+  "wind_speed": 1.3
+}

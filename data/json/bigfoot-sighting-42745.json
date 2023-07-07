@@ -11,9 +11,11 @@
   "longitude": -81.31219,
   "location": "-81.31219,40.79438",
   "location_details": "About 1/4 mile north of Route 30",
-  "temperature_high": 74.38,
-  "temperature_mid": 68.585,
-  "temperature_low": 62.79,
+  "temperature": {
+    "high": 74.38,
+    "mid": 68.585,
+    "low": 62.79
+  },
   "dew_point": 63.22,
   "humidity": 0.87,
   "cloud_cover": 0.82,

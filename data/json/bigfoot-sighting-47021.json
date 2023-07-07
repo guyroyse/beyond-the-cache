@@ -11,9 +11,11 @@
   "longitude": -81.98468,
   "location": "-81.98468,27.19995",
   "location_details": "Just over the bridge",
-  "temperature_high": 87.83,
-  "temperature_mid": 81.275,
-  "temperature_low": 74.72,
+  "temperature": {
+    "high": 87.83,
+    "mid": 81.275,
+    "low": 74.72
+  },
   "dew_point": 72.51,
   "humidity": 0.8,
   "cloud_cover": 0.1,

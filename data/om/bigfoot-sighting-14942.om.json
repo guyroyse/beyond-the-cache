@@ -1,0 +1,35 @@
+{
+  "reportId": "14942",
+  "title": "County workers find possible footprints near Bena",
+  "date": "2006-06-06",
+  "timestamp": 1149552000,
+  "observed": "A friend of my husbands works for the county and was grating the Six Mile Lake Road in Bena, MN and notice huge prints on the side of the road. The DNR has come out and made molds of the prints and I was just out there on 6/13/06 to see for myself. The prints look exactly like the molds from the 1960's on this site. The DNR does not know what it is but said only something that is 800-1000 lbs could make prints that deep in the dirt. They also found 30 prints back in the swamp area. The grass was laid out flat in some areas and I noticed the steps were short for someone that size, we were thinking that he was hurt as there was only a right foot print and every so often the grass would be laid flat, like he was falling down.",
+  "classification": "Class B",
+  "county": "Cass",
+  "state": "Minnesota",
+  "latitude": 47.3304,
+  "longitude": -94.1211,
+  "location": {
+    "longitude": -94.1211,
+    "latitude": 47.3304
+  },
+  "location_details": "right off hwy 2 in Bena. take a right onto six mile lake rd.",
+  "temperature": {
+    "high": 76.1,
+    "mid": 65.68,
+    "low": 55.26
+  },
+  "dew_point": 58.91,
+  "humidity": 0.75,
+  "cloud_cover": 0.39,
+  "moon_phase": 0.33,
+  "precip_intensity": 0.1595,
+  "precip_probability": 0.58,
+  "precip_type": "rain",
+  "pressure": 1008.07,
+  "summary": "Rain in the afternoon.",
+  "uv_index": 7,
+  "visibility": 9,
+  "wind_bearing": 289,
+  "wind_speed": 5.03
+}

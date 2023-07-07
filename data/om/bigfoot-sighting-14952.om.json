@@ -1,0 +1,35 @@
+{
+  "reportId": "14952",
+  "title": "Driver sees running figure along road at night near Woodlake",
+  "date": "2006-06-02",
+  "timestamp": 1149206400,
+  "observed": "This was so unreal, that I really hesitate to mention it.The spot is on Warbro Rd.East side, n.of ready mix co, across from Martin Marietta quarry.This short road runs N.from Hull St.(US 360),South from Genito Rd.(state rt.604). The area actually has a lot of real wilderness through out and nearby, marshes, creeks, deep woods. There has been some clearing of land East of the rd in question.The incident was about 9:30 pm, Fri.June 2nd. We had been to the theater, grabbed some food and were headed home. Driving N.on Warbro. My wife and myself saw something rushing along the edge of the woods, Southbound, it glided into the woods as we passed. I said to my wife-\"did you see that deer?\" She said-\"that was no deer!!!\" It was a silvery-white, tall, vertical, slender thing with what she called \"flowing\" hair. Our \"sighting\" was about 3 seconds. This would have been utterly dimissed as something unexplainable, except we went back there the next morning, walked up to a cleared area with some very soft, muddy places. My wife got some poison ivy for her efforts. We found quite a few tracks, TWO DISTINCT sizes. Long stride on the larger. They were atleast 15\"long and about 8\"at the wide end. There were distinct toe markings on some. The shorter foot was about 9\" long with a more \"human\"look to the shape. I should say that this area teems with deer, beaver, raccoons,etc. The whole thing is just unreal. You don't expect to see this within sight of a freakin' Walmart.",
+  "classification": "Class A",
+  "county": "Chesterfield",
+  "state": "Virginia",
+  "latitude": 37.44378,
+  "longitude": -77.6257,
+  "location": {
+    "longitude": -77.6257,
+    "latitude": 37.44378
+  },
+  "location_details": "Above",
+  "temperature": {
+    "high": 88.92,
+    "mid": 79.96,
+    "low": 71
+  },
+  "dew_point": 68.55,
+  "humidity": 0.76,
+  "cloud_cover": 0.29,
+  "moon_phase": 0.21,
+  "precip_intensity": 0.0065,
+  "precip_probability": 0.55,
+  "precip_type": "rain",
+  "pressure": 1011.5,
+  "summary": "Rain starting in the afternoon, continuing until evening.",
+  "uv_index": 10,
+  "visibility": 7.5,
+  "wind_bearing": 212,
+  "wind_speed": 5.94
+}

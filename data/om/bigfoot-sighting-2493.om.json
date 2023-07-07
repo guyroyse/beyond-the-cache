@@ -1,0 +1,35 @@
+{
+  "reportId": "2493",
+  "title": "Family startled by overpowering cries near their rural home",
+  "date": "2001-05-12",
+  "timestamp": 989625600,
+  "observed": "At approximately 0030 hrs. on May 12, 2001, my children and I heard the worst sound we have ever heard in our lives. We were sitting at our dining room table eating a late-night snack when suddenly this very loud, frightening human/animal-like cry came from about 200 feet from our front door. It lasted approximately seven seconds or so. This sound was like something you would hear in a horror movie. It sent chills up my spine and immediately made me sick to my stomach. My kids and I were extremely frightened and we froze for about a minute or so. We could not move. It was like nothing we've ever heard before in our lives. My husband was gone at work, so it was that much worse. After we got over our initial shock, we ran quickly ran upstairs to my bedroom, where we remained until my husband came home. After reading a report on (the BFRO) page where it describes a rooster/dog sound (SR # 529, August 2000, Park County), it sounded like if you put those two sounds together it would be very close, except 10 times louder.  However, there is really no way to describe it exactly. It was unearthly! We are having a hard time getting over it.",
+  "classification": "Class B",
+  "county": "Park",
+  "state": "Colorado",
+  "latitude": 38.9,
+  "longitude": -105.3812,
+  "location": {
+    "longitude": -105.3812,
+    "latitude": 38.9
+  },
+  "location_details": "Withheld at request of witness.",
+  "temperature": {
+    "high": 76.27,
+    "mid": 61.75,
+    "low": 47.23
+  },
+  "dew_point": 41.23,
+  "humidity": 0.54,
+  "cloud_cover": 0.34,
+  "moon_phase": 0.67,
+  "precip_intensity": 0.0002,
+  "precip_probability": 0.25,
+  "precip_type": "rain",
+  "pressure": 1018.5,
+  "summary": "Partly cloudy starting in the evening.",
+  "uv_index": 12,
+  "visibility": 9.54,
+  "wind_bearing": 164,
+  "wind_speed": 5.35
+}

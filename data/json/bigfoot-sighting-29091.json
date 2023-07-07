@@ -11,9 +11,11 @@
   "longitude": -84.605,
   "location": "-84.605,45.35665",
   "location_details": "On I-75 just north of Wolverine, Michigan",
-  "temperature_high": 61.35,
-  "temperature_mid": 57.525,
-  "temperature_low": 53.7,
+  "temperature": {
+    "high": 61.35,
+    "mid": 57.525,
+    "low": 53.7
+  },
   "dew_point": 51.88,
   "humidity": 0.83,
   "cloud_cover": 0.85,

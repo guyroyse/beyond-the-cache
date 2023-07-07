@@ -1,0 +1,35 @@
+{
+  "reportId": "23949",
+  "title": "Turkey hunter has early morning sighting near Rozetta",
+  "date": "2008-05-03",
+  "timestamp": 1209772800,
+  "observed": "I was turkey hunting this spring. It was just breaking daylight and I heard some breaking branches. I was looking the way the branches were being broke and I seen a large figure heading down the draw. I watched it as far as I could and it finally just vanished into the woods. I have hunted these woods for 20 years and never seen anything like it. It was around 7 or 8 feet tall and it looked like it had a hunch back. The light was just wrong but it looked like it was hairy and had long arms.",
+  "classification": "Class A",
+  "county": "Henderson",
+  "state": "Illinois",
+  "latitude": 40.9452,
+  "longitude": -90.9009,
+  "location": {
+    "longitude": -90.9009,
+    "latitude": 40.9452
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 65.02,
+    "mid": 50.58,
+    "low": 36.14
+  },
+  "dew_point": 38.16,
+  "humidity": 0.63,
+  "cloud_cover": 0.58,
+  "moon_phase": 0.93,
+  "precip_intensity": 0.001,
+  "precip_probability": 0.56,
+  "precip_type": "rain",
+  "pressure": 1006.81,
+  "summary": "Breezy and mostly cloudy until afternoon.",
+  "uv_index": 6,
+  "visibility": 9.44,
+  "wind_bearing": 277,
+  "wind_speed": 13.13
+}

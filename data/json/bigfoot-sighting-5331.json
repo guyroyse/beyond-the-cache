@@ -11,9 +11,11 @@
   "longitude": -121.6279,
   "location": "-121.6279,47.0019",
   "location_details": "East on Rt. 410 out of Enumclaw WA. Past Greenwater to FSRD. 73 turn right on 73 go across bridge over Huckleberry creek(approx. 5 mi.) keep going straight uphill to mile marker 9 50 yds. past the mile marker go left on the dirt rd.about a mile I saw it about a half a mile from the end of the road",
-  "temperature_high": 49.83,
-  "temperature_mid": 45.925,
-  "temperature_low": 42.02,
+  "temperature": {
+    "high": 49.83,
+    "mid": 45.925,
+    "low": 42.02
+  },
   "dew_point": 40.46,
   "humidity": 0.86,
   "cloud_cover": 0.6,

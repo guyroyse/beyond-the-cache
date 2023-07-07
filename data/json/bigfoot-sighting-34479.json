@@ -11,9 +11,11 @@
   "longitude": -122.1253,
   "location": "-122.1253,47.6633",
   "location_details": "Marymoor Park is a fairly large park that used to be a farm.  It is on the edge of Lake Sammamish and is bordered by the Sammamish River on the west.  Part of the park is open grassland, some is forested by pines and flowering trees, and part of it is swampy terrain, especially along the lake edges.  There are several large brambled areas.  There are intermittant stands of brush throughout the park, a community farm, a pet cemetery, large off-leash areas, sporting grounds (cricket, baseball, soccer, tennis),an auditorium, a velodrome, and a house/museum.  The old chicken coops and barns are now facilities/maintenance offices and sheds.  The park hosts a great deal of wildlife:  rabbits, weasels, water fowl, salmon, snakes, birds of prey (owls, osprey, hawks), coyotes and deer. There are residential areas to the west of the park.  To the east, mountains arise above the lake, and there is a great deal of wild terrain.",
-  "temperature_high": 61.86,
-  "temperature_mid": 52.675,
-  "temperature_low": 43.49,
+  "temperature": {
+    "high": 61.86,
+    "mid": 52.675,
+    "low": 43.49
+  },
   "dew_point": 33.87,
   "humidity": 0.76,
   "cloud_cover": 0.64,

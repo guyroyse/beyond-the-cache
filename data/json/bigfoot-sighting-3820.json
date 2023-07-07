@@ -11,9 +11,11 @@
   "longitude": -122.2328,
   "location": "-122.2328,42.4356",
   "location_details": "Lower elevation area lakes and valleys near Mount McLoughlin",
-  "temperature_high": 79.32,
-  "temperature_mid": 64.18,
-  "temperature_low": 49.04,
+  "temperature": {
+    "high": 79.32,
+    "mid": 64.18,
+    "low": 49.04
+  },
   "dew_point": 42.37,
   "humidity": 0.48,
   "cloud_cover": 0.3,

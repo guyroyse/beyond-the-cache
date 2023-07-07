@@ -11,9 +11,11 @@
   "longitude": -122.1884,
   "location": "-122.1884,45.55364",
   "location_details": "Update from earlier report( 01/11/02): On return trip from Portland today,It was determined that the creature actually crossed at mile marker 29 on west bound side. Appoximately 300-500 feet west of marker. I-84 -Andrew B.",
-  "temperature_high": 47.77,
-  "temperature_mid": 44.155,
-  "temperature_low": 40.54,
+  "temperature": {
+    "high": 47.77,
+    "mid": 44.155,
+    "low": 40.54
+  },
   "dew_point": 41.92,
   "humidity": 0.93,
   "cloud_cover": 0.68,

@@ -1,0 +1,35 @@
+{
+  "reportId": "2041",
+  "title": "August 1 1990 Oklahoma, Cherokee County, near Eldon",
+  "date": "2001-03-26",
+  "timestamp": 985564800,
+  "observed": "Various newspaper articles reporting possible bigfoot near Tahlequah, Oklahoma. First report was on August 1, 1990 at a mobile home near Eldon, Oklahoma which is east of Tahlequah at the junction of highways 62 and 51. Woman living in the mobile home reported to Cherokee County Sheriff's Deparment that she heard noises and noticed a bad smell. She then observed a creature approximately 10 feet tall and about 400 pounds. Deputy Joe Weavel investigated the reports and found impressions big enough to place both his feet in. Two days later, an 8 year old girl and her mother described a similar creature going through a trash pile near their house. Their dog chased it but returned with it's tail between it's legs. The creature was described as 8 feet tall with dark brown frizzy hair and similar to a bear except that it was described as walking upright. Oklahoma Wildlife Department district chief, Joe Adair said he had received several calls regarding the animal and believed it to be a bear. He said he \"nothing to base that on\" and that it was unusual for a bear to walk on it's hind legs for very long. Similar reports came from this area in the early 70's.",
+  "classification": "Class A",
+  "county": "Cherokee",
+  "state": "Oklahoma",
+  "latitude": 35.92806,
+  "longitude": -94.83,
+  "location": {
+    "longitude": -94.83,
+    "latitude": 35.92806
+  },
+  "location_details": "Highway 51 and 62 junction, Eldon, Oklahoma and 3 miles east.",
+  "temperature": {
+    "high": 48.16,
+    "mid": 41.015,
+    "low": 33.87
+  },
+  "dew_point": 18.5,
+  "humidity": 0.49,
+  "cloud_cover": 0.27,
+  "moon_phase": 0.05,
+  "precip_intensity": 0.0004,
+  "precip_probability": 0.24,
+  "precip_type": "rain",
+  "pressure": 1028.01,
+  "summary": "Partly cloudy starting in the evening.",
+  "uv_index": 7,
+  "visibility": 9.99,
+  "wind_bearing": 27,
+  "wind_speed": 5.21
+}

@@ -11,9 +11,11 @@
   "longitude": -123.2005,
   "location": "-123.2005,47.41995",
   "location_details": "Approximately 300 feet from Highway 119, and approximately 1.5 miles northwest of the Foothills Park area.",
-  "temperature_high": 45.04,
-  "temperature_mid": 38.215,
-  "temperature_low": 31.39,
+  "temperature": {
+    "high": 45.04,
+    "mid": 38.215,
+    "low": 31.39
+  },
   "dew_point": 22.37,
   "humidity": 0.66,
   "cloud_cover": 0.53,

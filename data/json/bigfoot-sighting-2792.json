@@ -11,9 +11,11 @@
   "longitude": -89.6965,
   "location": "-89.6965,45.89832",
   "location_details": "United States. Oneida/Vilas County, Wisconsin near the Minocqua-Woodruff area. The area of old Highway 51 and Townline Road.",
-  "temperature_high": 70.59,
-  "temperature_mid": 59.61,
-  "temperature_low": 48.63,
+  "temperature": {
+    "high": 70.59,
+    "mid": 59.61,
+    "low": 48.63
+  },
   "dew_point": 51.53,
   "humidity": 0.73,
   "cloud_cover": 0.39,

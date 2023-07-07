@@ -11,9 +11,11 @@
   "longitude": -110.5712,
   "location": "-110.5712,34.24228",
   "location_details": "The specific camp site location is  withheld.",
-  "temperature_high": 82.45,
-  "temperature_mid": 70.57,
-  "temperature_low": 58.69,
+  "temperature": {
+    "high": 82.45,
+    "mid": 70.57,
+    "low": 58.69
+  },
   "dew_point": 50.95,
   "humidity": 0.51,
   "cloud_cover": 0.01,

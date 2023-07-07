@@ -11,9 +11,11 @@
   "longitude": -81.9742,
   "location": "-81.9742,27.89469",
   "location_details": "[Edited - Near the border of Polk and Hillsborough Counties]",
-  "temperature_high": 84.67,
-  "temperature_mid": 76.965,
-  "temperature_low": 69.26,
+  "temperature": {
+    "high": 84.67,
+    "mid": 76.965,
+    "low": 69.26
+  },
   "dew_point": 69.06,
   "humidity": 0.79,
   "cloud_cover": 0.69,

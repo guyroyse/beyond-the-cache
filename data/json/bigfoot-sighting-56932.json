@@ -11,9 +11,11 @@
   "longitude": -121.0161,
   "location": "-121.0161,47.20113",
   "location_details": "I noticed that it's hands hung down by it's knees. It looked bulky/muscular. It's auburn/red hair stood out in the snowy environment. I was shocked to see it so close to the resort.",
-  "temperature_high": 48.41,
-  "temperature_mid": 46.41,
-  "temperature_low": 44.41,
+  "temperature": {
+    "high": 48.41,
+    "mid": 46.41,
+    "low": 44.41
+  },
   "dew_point": 41.94,
   "humidity": 0.89,
   "cloud_cover": 0.48,

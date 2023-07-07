@@ -1,0 +1,35 @@
+{
+  "reportId": "6937",
+  "title": "Close encounter near Davis Mountains in West Texas",
+  "date": "2003-10-08",
+  "timestamp": 1065571200,
+  "observed": "I was towing my friend's car back to Midland TX. We were coming through the Davis Mt. area of SW Texas. The road was a two lane highway. I saw something on the side of the road that at first looked like a large cactus. I was driving about thirty-five mph. I hit my high beams and slowed down. When I turned on my brights I saw a very large head turn away. By then we were passing this thing. It looked to be about seven ft.tall. As we went by we all turned and looked at it, and it was looking at us as well. It had a very large head, large eyes and very long thick hair. The body was covered with thick, matted hair. It stood with a stoop and the arms were very long. This thing did not move as we drove past. But there was a very strong smell like garbage.",
+  "classification": "Class A",
+  "county": "Jeffdavis",
+  "state": "Texas",
+  "latitude": 30.77722,
+  "longitude": -103.7439,
+  "location": {
+    "longitude": -103.7439,
+    "latitude": 30.77722
+  },
+  "location_details": "I would have to look at a map to find this area again",
+  "temperature": {
+    "high": 71.51,
+    "mid": 66.915,
+    "low": 62.32
+  },
+  "dew_point": 62.91,
+  "humidity": 0.87,
+  "cloud_cover": 0.73,
+  "moon_phase": 0.45,
+  "precip_intensity": 0.0186,
+  "precip_probability": 0.76,
+  "precip_type": "rain",
+  "pressure": 1010.93,
+  "summary": "Rain until afternoon.",
+  "uv_index": 4,
+  "visibility": 8.54,
+  "wind_bearing": 114,
+  "wind_speed": 8.1
+}

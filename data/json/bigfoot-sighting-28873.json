@@ -11,9 +11,11 @@
   "longitude": -95.17966,
   "location": "-95.17966,30.31363",
   "location_details": "Driving East from New Waverly, Texas about 7 miles on SH 150, then left on FM 1725 go 1 1/2 miles on the left is Hillcreek Subdivision, turn right on Gale Haven Road passed Sandy Creek Rd.",
-  "temperature_high": 66.02,
-  "temperature_mid": 53.225,
-  "temperature_low": 40.43,
+  "temperature": {
+    "high": 66.02,
+    "mid": 53.225,
+    "low": 40.43
+  },
   "dew_point": 28.03,
   "humidity": 0.33,
   "cloud_cover": 0.17,

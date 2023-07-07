@@ -11,9 +11,11 @@
   "longitude": -105.7395,
   "location": "-105.7395,33.27735",
   "location_details": "Between Mescalero and Ruidoso, New Mexico. On the Mescalero Apache Reservation.",
-  "temperature_high": 90.64,
-  "temperature_mid": 80.025,
-  "temperature_low": 69.41,
+  "temperature": {
+    "high": 90.64,
+    "mid": 80.025,
+    "low": 69.41
+  },
   "dew_point": 47.68,
   "humidity": 0.34,
   "cloud_cover": 0.1,

@@ -11,9 +11,11 @@
   "longitude": -119.8208,
   "location": "-119.8208,38.77778",
   "location_details": "Hwy 88 to Blue Lakes Rd.,  I think.  Its been 17 years since I've been there.",
-  "temperature_high": 71.22,
-  "temperature_mid": 62.865,
-  "temperature_low": 54.51,
+  "temperature": {
+    "high": 71.22,
+    "mid": 62.865,
+    "low": 54.51
+  },
   "dew_point": 46.18,
   "humidity": 0.54,
   "cloud_cover": 0.73,

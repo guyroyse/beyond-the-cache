@@ -11,9 +11,11 @@
   "longitude": -122.3677,
   "location": "-122.3677,47.03189",
   "location_details": "Power lines behind my house.",
-  "temperature_high": 55.71,
-  "temperature_mid": 47.005,
-  "temperature_low": 38.3,
+  "temperature": {
+    "high": 55.71,
+    "mid": 47.005,
+    "low": 38.3
+  },
   "dew_point": 44.09,
   "humidity": 0.87,
   "cloud_cover": 0.1,

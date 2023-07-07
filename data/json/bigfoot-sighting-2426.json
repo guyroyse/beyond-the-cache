@@ -11,9 +11,11 @@
   "longitude": -83.80266,
   "location": "-83.80266,38.63454",
   "location_details": "Mason County, Kentucky - west of Maysville on U.S. 68",
-  "temperature_high": 52.31,
-  "temperature_mid": 41.04,
-  "temperature_low": 29.77,
+  "temperature": {
+    "high": 52.31,
+    "mid": 41.04,
+    "low": 29.77
+  },
   "dew_point": 31.43,
   "humidity": 0.62,
   "cloud_cover": 0.49,

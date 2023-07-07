@@ -11,9 +11,11 @@
   "longitude": -123.8793,
   "location": "-123.8793,46.7818",
   "location_details": "The area is about a two mile boat ride up North River from the highway 105 bridge to Smith Slough, then about another mile by boat up the slough. Then about a two mile walk up the bottom to the ridge. We call it the \"Island Ridge\" as it comes right up in the middle of the bottom. Its kind of like a small mountain sticking up in the middle of nowhere. And we were about halfway to the top of the main ridge, and saw it on the north lowerside of the ridge, about halfway down.",
-  "temperature_high": 58.46,
-  "temperature_mid": 45.96,
-  "temperature_low": 33.46,
+  "temperature": {
+    "high": 58.46,
+    "mid": 45.96,
+    "low": 33.46
+  },
   "dew_point": 36.88,
   "humidity": 0.83,
   "cloud_cover": 0.16,

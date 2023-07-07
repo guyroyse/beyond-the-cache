@@ -1,0 +1,35 @@
+{
+  "reportId": "37862",
+  "title": "Hunter finds his deer kill moved near Monticello",
+  "date": "2011-12-15",
+  "timestamp": 1323907200,
+  "observed": "I had an incident, I shot a doe behind my house. It was frosty and around sunset. I left her over night deciding to get her and clean her the next morning. When I went out there she was gone. There was no sign that she had been drug to where she was at. She had been carried approx 120 yards then laid down and she was not torn apart like coyotes. I have been in the woods all my life and never seen anything like it. I had a very eerie feeling and decided to get out of there and haven't been back there after dark since.",
+  "classification": "Class B",
+  "county": "Drew",
+  "state": "Arkansas",
+  "latitude": 33.40425,
+  "longitude": -91.48295,
+  "location": {
+    "longitude": -91.48295,
+    "latitude": 33.40425
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 66.67,
+    "mid": 55.98,
+    "low": 45.29
+  },
+  "dew_point": 58.11,
+  "humidity": 0.88,
+  "cloud_cover": 0.92,
+  "moon_phase": 0.67,
+  "precip_intensity": 0.0136,
+  "precip_probability": 0.64,
+  "precip_type": "rain",
+  "pressure": 1019.64,
+  "summary": "Rain in the morning and overnight.",
+  "uv_index": 2,
+  "visibility": 8.46,
+  "wind_bearing": 245,
+  "wind_speed": 1.48
+}

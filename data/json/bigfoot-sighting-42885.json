@@ -11,9 +11,11 @@
   "longitude": -85.4937,
   "location": "-85.4937,30.46805",
   "location_details": "I was headed east on Highway 90 just came off river bridge",
-  "temperature_high": 74.4,
-  "temperature_mid": 62.87,
-  "temperature_low": 51.34,
+  "temperature": {
+    "high": 74.4,
+    "mid": 62.87,
+    "low": 51.34
+  },
   "dew_point": 47.31,
   "humidity": 0.59,
   "cloud_cover": 0.07,

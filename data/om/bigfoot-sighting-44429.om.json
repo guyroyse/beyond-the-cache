@@ -1,0 +1,35 @@
+{
+  "reportId": "44429",
+  "title": "Truck driver watches a Bigfoot chase Deer across US-30 west of Boone",
+  "date": "2014-04-04",
+  "timestamp": 1396569600,
+  "observed": "I was eastbound on US 30 in Boone County.  I was descending into the the Des Moines River valley and saw 3 deer cross in front of me.  They were running fast like they were being chased.  I started slowing down and maybe 75 yrds behind them a very large bipedal object was running behind them. This thing was standing at the edge of the trees when I passed and it was HUGE.  Guessing the height I'd guess, the top of its head would have came up to the bottom of my window of my Volvo tractor.",
+  "classification": "Class A",
+  "county": "Boone",
+  "state": "Iowa",
+  "latitude": 42.03477,
+  "longitude": -93.92304,
+  "location": {
+    "longitude": -93.92304,
+    "latitude": 42.03477
+  },
+  "location_details": "",
+  "temperature": {
+    "high": 39.17,
+    "mid": 32.345,
+    "low": 25.52
+  },
+  "dew_point": 28.87,
+  "humidity": 0.81,
+  "cloud_cover": 0.13,
+  "moon_phase": 0.17,
+  "precip_intensity": 0.001,
+  "precip_probability": 0.41,
+  "precip_type": "rain",
+  "pressure": 1011.55,
+  "summary": "Breezy until evening.",
+  "uv_index": 7,
+  "visibility": 8.3,
+  "wind_bearing": 318,
+  "wind_speed": 18.1
+}

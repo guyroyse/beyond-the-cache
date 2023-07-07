@@ -1,0 +1,34 @@
+{
+  "reportId": "38893",
+  "title": "Driver spots a tall biped crossing the road just west of Miami",
+  "date": "2010-11-10",
+  "timestamp": 1289347200,
+  "observed": "I was on my way home on Krome Hwy about 10:30 at night. I saw what looked like a 8.5 to 9 ft thing cross the road in about 3 steps",
+  "classification": "Class B",
+  "county": "Dade",
+  "state": "Florida",
+  "latitude": 25.73951,
+  "longitude": -80.48021,
+  "location": {
+    "longitude": -80.48021,
+    "latitude": 25.73951
+  },
+  "location_details": "Its about mile marker 22 south",
+  "temperature": {
+    "high": 80.01,
+    "mid": 72.105,
+    "low": 64.2
+  },
+  "dew_point": 55.85,
+  "humidity": 0.66,
+  "cloud_cover": 0.07,
+  "moon_phase": 0.16,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1016.88,
+  "summary": "Clear throughout the day.",
+  "uv_index": 5,
+  "visibility": 9.82,
+  "wind_bearing": 5,
+  "wind_speed": 3.45
+}

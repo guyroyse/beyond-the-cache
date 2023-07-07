@@ -11,9 +11,11 @@
   "longitude": -84.14354,
   "location": "-84.14354,39.00175",
   "location_details": "Take Route 125 east out of Cincinnati, Ohio and go through Amelia for about four or five miles. You will come to a light with route 222 on right and old Route 74 on left.  Turn left on Old 74 for about a quarter of a mile and you will see the entrance to park on left.  Turn into park and go about 100 yards and that is the location of where we saw it.",
-  "temperature_high": 67.36,
-  "temperature_mid": 57.22,
-  "temperature_low": 47.08,
+  "temperature": {
+    "high": 67.36,
+    "mid": 57.22,
+    "low": 47.08
+  },
   "dew_point": 46.65,
   "humidity": 0.7,
   "cloud_cover": 0.19,

@@ -11,9 +11,11 @@
   "longitude": -120.2434,
   "location": "-120.2434,38.0312",
   "location_details": "I've only been there twice and there are so many streets to turn too that I still have no idea how to get to the cabin.  All I know is how to get to Twain Hearts.",
-  "temperature_high": 50.77,
-  "temperature_mid": 47.365,
-  "temperature_low": 43.96,
+  "temperature": {
+    "high": 50.77,
+    "mid": 47.365,
+    "low": 43.96
+  },
   "dew_point": 46.59,
   "humidity": 0.91,
   "cloud_cover": 0.9,

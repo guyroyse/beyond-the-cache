@@ -11,9 +11,11 @@
   "longitude": -88.44846,
   "location": "-88.44846,42.97569",
   "location_details": "We went to the location a couple of days later to look for evidence but none was really found we had alot of rain in the following days to the incident.",
-  "temperature_high": 82.72,
-  "temperature_mid": 78.04,
-  "temperature_low": 73.36,
+  "temperature": {
+    "high": 82.72,
+    "mid": 78.04,
+    "low": 73.36
+  },
   "dew_point": 67.68,
   "humidity": 0.7,
   "cloud_cover": 0.5,

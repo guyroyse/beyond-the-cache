@@ -11,9 +11,11 @@
   "longitude": -85.99374,
   "location": "-85.99374,41.77945",
   "location_details": "take warren woods road out of Buchanan to Boyallake rd. go right on boyallake rd to 15001 address and then walk across the st. back into the woods about a qaurted of a mile to pond",
-  "temperature_high": 39.19,
-  "temperature_mid": 36.05,
-  "temperature_low": 32.91,
+  "temperature": {
+    "high": 39.19,
+    "mid": 36.05,
+    "low": 32.91
+  },
   "dew_point": 23.2,
   "humidity": 0.8,
   "cloud_cover": 0.68,

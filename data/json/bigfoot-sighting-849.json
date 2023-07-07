@@ -11,9 +11,11 @@
   "longitude": -121.9139,
   "location": "-121.9139,40.33556",
   "location_details": "After reaching Payne's creek, my father would drive even farther.  It was usually late at night when we would finaly arrive and I was usually asleep.",
-  "temperature_high": 68.46,
-  "temperature_mid": 60.59,
-  "temperature_low": 52.72,
+  "temperature": {
+    "high": 68.46,
+    "mid": 60.59,
+    "low": 52.72
+  },
   "dew_point": 45.49,
   "humidity": 0.72,
   "cloud_cover": 0.73,

@@ -11,9 +11,11 @@
   "longitude": -122.741,
   "location": "-122.741,47.34805",
   "location_details": "Key Peninsula Highway -",
-  "temperature_high": 51.87,
-  "temperature_mid": 46.155,
-  "temperature_low": 40.44,
+  "temperature": {
+    "high": 51.87,
+    "mid": 46.155,
+    "low": 40.44
+  },
   "dew_point": 41,
   "humidity": 0.79,
   "cloud_cover": 0.16,

@@ -11,9 +11,11 @@
   "longitude": -104.8604,
   "location": "-104.8604,38.6691",
   "location_details": "about 5 miles south of Colorado Springs on highway 115 at the botttom of the hill on a part of the road that the locals call Red Hill.It was on the east side of the road at the end of a highway guardrail.",
-  "temperature_high": 44.76,
-  "temperature_mid": 34.105,
-  "temperature_low": 23.45,
+  "temperature": {
+    "high": 44.76,
+    "mid": 34.105,
+    "low": 23.45
+  },
   "dew_point": 5.16,
   "humidity": 0.36,
   "cloud_cover": 0.3,

@@ -11,9 +11,11 @@
   "longitude": -82.47604,
   "location": "-82.47604,39.17029",
   "location_details": "State Route 93 north out of Hamden to Rowland Road then turn right.",
-  "temperature_high": 73.29,
-  "temperature_mid": 60.175,
-  "temperature_low": 47.06,
+  "temperature": {
+    "high": 73.29,
+    "mid": 60.175,
+    "low": 47.06
+  },
   "dew_point": 46.64,
   "humidity": 0.51,
   "cloud_cover": 0.22,

@@ -11,9 +11,11 @@
   "longitude": -81.60838,
   "location": "-81.60838,41.25248",
   "location_details": "I was heading South on Black Road I saw it South of Brush Road. It was heading East to West across the road.",
-  "temperature_high": 31.06,
-  "temperature_mid": 30.68,
-  "temperature_low": 30.3,
+  "temperature": {
+    "high": 31.06,
+    "mid": 30.68,
+    "low": 30.3
+  },
   "dew_point": 19.06,
   "humidity": 0.65,
   "cloud_cover": 0.87,

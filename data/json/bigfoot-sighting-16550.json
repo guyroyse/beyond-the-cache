@@ -11,9 +11,11 @@
   "longitude": -120.4187,
   "location": "-120.4187,39.41546",
   "location_details": "Here's the \"general\" area I remember it was one of the rough 4-wheel drive roads off the Meadow Lake Rd as I was trying to find White Rock Lake. From Truckee I went north on Hwy. 89 and turned east on Henness Pass Rd. then turned south on Meadow Lake Road at Webber Lake.",
-  "temperature_high": 89.94,
-  "temperature_mid": 75.615,
-  "temperature_low": 61.29,
+  "temperature": {
+    "high": 89.94,
+    "mid": 75.615,
+    "low": 61.29
+  },
   "dew_point": 47.53,
   "humidity": 0.38,
   "cloud_cover": 0.26,

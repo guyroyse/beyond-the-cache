@@ -11,9 +11,11 @@
   "longitude": -90.90444,
   "location": "-90.90444,46.59847",
   "location_details": "It was long ago so I don't remember what the area was called. It was an area near Ashland where the Fish and Game stock trout in scattered ponds. They also have camping areas set up here.",
-  "temperature_high": 69.32,
-  "temperature_mid": 59.62,
-  "temperature_low": 49.92,
+  "temperature": {
+    "high": 69.32,
+    "mid": 59.62,
+    "low": 49.92
+  },
   "dew_point": 50,
   "humidity": 0.63,
   "cloud_cover": 0.38,

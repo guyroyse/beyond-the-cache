@@ -11,9 +11,11 @@
   "longitude": -116.7944,
   "location": "-116.7944,34.2556",
   "location_details": "Off Hwy 38 in the San Bernardino National Forest, to State Lane, To Cypress Lane, to Erwin Ranch Rd. on the Hill North Of Erwin Ranch Rd. I'd have to show You.",
-  "temperature_high": 86.45,
-  "temperature_mid": 69.895,
-  "temperature_low": 53.34,
+  "temperature": {
+    "high": 86.45,
+    "mid": 69.895,
+    "low": 53.34
+  },
   "dew_point": 40.1,
   "humidity": 0.39,
   "cloud_cover": 0.01,

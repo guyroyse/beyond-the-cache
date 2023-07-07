@@ -1,0 +1,35 @@
+{
+  "reportId": "10646",
+  "title": "Elk hunter hears loud screams at night near Deadman's Lake",
+  "date": "2004-09-15",
+  "timestamp": 1095206400,
+  "observed": "I had backpacked into Deadman's Lake for a one night stay. It was during the Washington bow season for elk. As I was heading in I ran into two hunters on the trail hunting down to their vehicle to dry out and stay in their camper. They told me that a group had been hunting in the area but had to leave because there horses were acting up. As I got to the lake I could tell that the horses had been kept in a small meadow near the campsite area. I pitched my tent in this area. I was at the lake doing a little fishing before dark when I heard a howl way off in the distance. I didn't think much of it, it was miles away. There were also several bull elk bugling in the hills behind the lake and at one point I could hear some cow elk \"talking\". Being an elk hunter myself, I am very familiar with the sounds elk make during this time of year. That was one of the reasons I had gone to this area was to try to call in and get pictures of the elk. As night fell I stayed up until approximately 9:00 PM listening to the sounds of the woods. I could hear a couple owls hooting back and forth across the lake as I fell asleep. At 11:24 PM I was awoken by the same screaming howl I had heard before but it sounded like it was coming from the meadow I was camped next to, about 50 yards away. It sounded like a cross between a wolf and a very loud human. It sounded as if it were a hailing call. I opened the front flap of the tent and grabbed my light and the only weapon I had, my knife. I also grabbed the camera just in case I could see something. The howl had also scared the two owls I had heard hooting earlier that evening. The owls continued to call back and forth to each other for a time after that but I never heard the howl again. I stayed awake for hours after that and eventually was able to relax and get some sleep. I woke up that morning to the sound of bugling elk and when it got light enough I went to look for any sign of what I had heard the night before. I found a herd of cow elk by the lake but nothing unusual. The weather started turning about this time so I packed up my stuff and headed back to my car.",
+  "classification": "Class B",
+  "county": "Skamania",
+  "state": "Washington",
+  "latitude": 46.3751,
+  "longitude": -122.1301,
+  "location": {
+    "longitude": -122.1301,
+    "latitude": 46.3751
+  },
+  "location_details": "Goat mountain trail #217, 6 miles (I don't think it was that far) to Deadman's Lake. Southeast end of lake.",
+  "temperature": {
+    "high": 64.23,
+    "mid": 59.08,
+    "low": 53.93
+  },
+  "dew_point": 53.75,
+  "humidity": 0.84,
+  "cloud_cover": 0.85,
+  "moon_phase": 0.04,
+  "precip_intensity": 0.0091,
+  "precip_probability": 0.74,
+  "precip_type": "rain",
+  "pressure": 1011.69,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 3,
+  "visibility": 8.21,
+  "wind_bearing": 210,
+  "wind_speed": 6.81
+}

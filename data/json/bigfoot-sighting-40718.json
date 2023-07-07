@@ -11,9 +11,11 @@
   "longitude": -89.6816,
   "location": "-89.6816,42.95915",
   "location_details": "Donald county park has Deer Creek running through it and there is a large area of water shed land. The entrance to the park opens to a large corn field,  however if you take the trail to the left and keep going toward the high ground where the woods are, is where this happened.",
-  "temperature_high": 54.46,
-  "temperature_mid": 42.52,
-  "temperature_low": 30.58,
+  "temperature": {
+    "high": 54.46,
+    "mid": 42.52,
+    "low": 30.58
+  },
   "dew_point": 29.74,
   "humidity": 0.69,
   "cloud_cover": 0.29,

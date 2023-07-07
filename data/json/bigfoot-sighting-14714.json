@@ -11,9 +11,11 @@
   "longitude": -110.5,
   "location": "-110.5,41.2",
   "location_details": "Well, if you are coming west from a small town called Milburne, you would turn left(towards north) from highway 411 onto highway 410. It takes you into Mountain view, a slightly larger town. If you were to be coming from the north from  Mountain View, you would continue south on highway 410 and eventually you could go to the Uintas. Im not good at directions.",
-  "temperature_high": 35.93,
-  "temperature_mid": 28.325,
-  "temperature_low": 20.72,
+  "temperature": {
+    "high": 35.93,
+    "mid": 28.325,
+    "low": 20.72
+  },
   "dew_point": 13.07,
   "humidity": 0.65,
   "cloud_cover": 0.13,

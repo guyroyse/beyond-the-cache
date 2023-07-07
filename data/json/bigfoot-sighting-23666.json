@@ -11,9 +11,11 @@
   "longitude": -141.3165,
   "location": "-141.3165,62.77335",
   "location_details": "I believe it was about 15 miles from the US Customs office.",
-  "temperature_high": 51.08,
-  "temperature_mid": 37.05,
-  "temperature_low": 23.02,
+  "temperature": {
+    "high": 51.08,
+    "mid": 37.05,
+    "low": 23.02
+  },
   "dew_point": 21.12,
   "humidity": 0.58,
   "cloud_cover": 0.43,

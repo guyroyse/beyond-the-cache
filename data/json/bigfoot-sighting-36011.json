@@ -11,9 +11,11 @@
   "longitude": -98.99414,
   "location": "-98.99414,34.38638",
   "location_details": "It's been a long time, if you need specifics I can find out. I now live in Tulsa wich is NE OK and Frederick is in the opposite corner in SW Oklahoma. The nearest would be south of county line road about a mile as you come in to the airport main entrance.",
-  "temperature_high": 68.56,
-  "temperature_mid": 60.175,
-  "temperature_low": 51.79,
+  "temperature": {
+    "high": 68.56,
+    "mid": 60.175,
+    "low": 51.79
+  },
   "dew_point": 43.69,
   "humidity": 0.64,
   "cloud_cover": 0.71,

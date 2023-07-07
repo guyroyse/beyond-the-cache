@@ -11,9 +11,11 @@
   "longitude": -121.5478,
   "location": "-121.5478,46.295",
   "location_details": "One of the highest camp sites on the north side of Mt Adams, about 100m from the road and next to a small stream that flowed north. This camp site is about a five min walk from where the wilderness zone begins, and is where our truck could be parked.",
-  "temperature_high": 68.61,
-  "temperature_mid": 62.94,
-  "temperature_low": 57.27,
+  "temperature": {
+    "high": 68.61,
+    "mid": 62.94,
+    "low": 57.27
+  },
   "dew_point": 52.71,
   "humidity": 0.73,
   "cloud_cover": 0.91,

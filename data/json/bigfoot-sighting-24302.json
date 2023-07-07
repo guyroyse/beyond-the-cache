@@ -11,9 +11,11 @@
   "longitude": -110.925,
   "location": "-110.925,33.825",
   "location_details": "The old peterson homestead on aztec peak it can be found on older topo maps.",
-  "temperature_high": 63.41,
-  "temperature_mid": 51.765,
-  "temperature_low": 40.12,
+  "temperature": {
+    "high": 63.41,
+    "mid": 51.765,
+    "low": 40.12
+  },
   "dew_point": 35.12,
   "humidity": 0.49,
   "cloud_cover": 0.36,

@@ -11,9 +11,11 @@
   "longitude": -73.38644,
   "location": "-73.38644,42.07867",
   "location_details": "South Of Tyringham, Mass north of Great Barrington Mass",
-  "temperature_high": 77.73,
-  "temperature_mid": 67.145,
-  "temperature_low": 56.56,
+  "temperature": {
+    "high": 77.73,
+    "mid": 67.145,
+    "low": 56.56
+  },
   "dew_point": 59.94,
   "humidity": 0.79,
   "cloud_cover": 0.32,

@@ -11,9 +11,11 @@
   "longitude": -121.7427,
   "location": "-121.7427,47.57576",
   "location_details": "If you were heading toward fall city from snoqualmie right before the salish lodge and snoqualmie falls.Take a right after the bridge onto millpond road and go left up the hill.Follow the road for 3 miles then you take a right and the the main line gate is straight ahead.Up the main line road a few miles the j line road is on your left.Thats the intersection where we saw it,it was walking the main line road the opposite way you are traveling.",
-  "temperature_high": 74.42,
-  "temperature_mid": 63.805,
-  "temperature_low": 53.19,
+  "temperature": {
+    "high": 74.42,
+    "mid": 63.805,
+    "low": 53.19
+  },
   "dew_point": 46.56,
   "humidity": 0.63,
   "cloud_cover": 0.04,

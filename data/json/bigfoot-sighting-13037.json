@@ -11,9 +11,11 @@
   "longitude": -122.277,
   "location": "-122.277,45.4861",
   "location_details": "From Mt. Hood the Sandy River flows due west through the Hoodland Corridor. It cascades past the communities of Welches, Brightwood and Sandy, then turns north to enter the Columbia River near Troutdale, which is 10 miles east of Portland, Oregon.",
-  "temperature_high": 95.61,
-  "temperature_mid": 76.825,
-  "temperature_low": 58.04,
+  "temperature": {
+    "high": 95.61,
+    "mid": 76.825,
+    "low": 58.04
+  },
   "dew_point": 52.08,
   "humidity": 0.45,
   "cloud_cover": 0.2,

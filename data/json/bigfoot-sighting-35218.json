@@ -11,9 +11,11 @@
   "longitude": -81.3215,
   "location": "-81.3215,25.889",
   "location_details": "Pink campsite #7 , Bear Island, Big Cypress Preserve, Collier County, FL",
-  "temperature_high": 86.61,
-  "temperature_mid": 75.4,
-  "temperature_low": 64.19,
+  "temperature": {
+    "high": 86.61,
+    "mid": 75.4,
+    "low": 64.19
+  },
   "dew_point": 63.55,
   "humidity": 0.75,
   "cloud_cover": 0.53,

@@ -11,9 +11,11 @@
   "longitude": -123.82,
   "location": "-123.82,47.93722",
   "location_details": "Area of Elk and Deer Lake in Glacier Meadows.",
-  "temperature_high": 59,
-  "temperature_mid": 54,
-  "temperature_low": 49,
+  "temperature": {
+    "high": 59,
+    "mid": 54,
+    "low": 49
+  },
   "dew_point": 42.62,
   "humidity": 0.71,
   "cloud_cover": 0.82,

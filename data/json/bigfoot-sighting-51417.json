@@ -11,9 +11,11 @@
   "longitude": -87.62597,
   "location": "-87.62597,41.53887",
   "location_details": "Glenwood, Illinois next to Glenwood Woods Forest Preserve.",
-  "temperature_high": 48.28,
-  "temperature_mid": 46.205,
-  "temperature_low": 44.13,
+  "temperature": {
+    "high": 48.28,
+    "mid": 46.205,
+    "low": 44.13
+  },
   "dew_point": 44.1,
   "humidity": 0.92,
   "cloud_cover": 0.72,

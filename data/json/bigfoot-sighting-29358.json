@@ -11,9 +11,11 @@
   "longitude": -110,
   "location": "-110,34",
   "location_details": "I know that bear cant run on 2 legs and this tree this thing was behind could not hide something going from 4 to 2. Dang it was gone like a ninja.",
-  "temperature_high": 85.5,
-  "temperature_mid": 71.405,
-  "temperature_low": 57.31,
+  "temperature": {
+    "high": 85.5,
+    "mid": 71.405,
+    "low": 57.31
+  },
   "dew_point": 15.83,
   "humidity": 0.16,
   "cloud_cover": 0.05,

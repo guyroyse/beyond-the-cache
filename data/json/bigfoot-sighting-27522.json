@@ -11,9 +11,11 @@
   "longitude": -84.66167,
   "location": "-84.66167,36.19746",
   "location_details": "Do not remember,  but a pull off close to 27 at a pull off near the south end of the county.",
-  "temperature_high": 61.12,
-  "temperature_mid": 55.145,
-  "temperature_low": 49.17,
+  "temperature": {
+    "high": 61.12,
+    "mid": 55.145,
+    "low": 49.17
+  },
   "dew_point": 48.92,
   "humidity": 0.9,
   "cloud_cover": 0.82,

@@ -11,9 +11,11 @@
   "longitude": -82.76431,
   "location": "-82.76431,28.19899",
   "location_details": "Going south down US 19 in the city of Holiday in Pasco county right before the McDonalds on the right the road is Gulf Trace. the wooded area on the right hand side, right before the bridge leading towards the holiday rec. If needed I can point it out to an investigator",
-  "temperature_high": 71.68,
-  "temperature_mid": 62.095,
-  "temperature_low": 52.51,
+  "temperature": {
+    "high": 71.68,
+    "mid": 62.095,
+    "low": 52.51
+  },
   "dew_point": 43.7,
   "humidity": 0.58,
   "cloud_cover": 0.18,

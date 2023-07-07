@@ -11,9 +11,11 @@
   "longitude": -123.3769,
   "location": "-123.3769,47.9261",
   "location_details": "SE of Hurricane Ridge ranger station, on Elk Mt. trail.",
-  "temperature_high": 48.53,
-  "temperature_mid": 48.005,
-  "temperature_low": 47.48,
+  "temperature": {
+    "high": 48.53,
+    "mid": 48.005,
+    "low": 47.48
+  },
   "dew_point": 45.49,
   "humidity": 0.97,
   "cloud_cover": 0.97,

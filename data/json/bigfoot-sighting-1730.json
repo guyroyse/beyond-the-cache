@@ -11,9 +11,11 @@
   "longitude": -122.1833,
   "location": "-122.1833,47.2416",
   "location_details": "Lake Ridge Drive, Sumner",
-  "temperature_high": 54.61,
-  "temperature_mid": 50.725,
-  "temperature_low": 46.84,
+  "temperature": {
+    "high": 54.61,
+    "mid": 50.725,
+    "low": 46.84
+  },
   "dew_point": 47.55,
   "humidity": 0.87,
   "cloud_cover": 0.92,

@@ -11,9 +11,11 @@
   "longitude": -82.11083,
   "location": "-82.11083,28.54028",
   "location_details": "The incident occurred at the Richloam Wildlife Managament Area in the Green Swamp on the west side of 471 off of center grade (road) back in the campsite.",
-  "temperature_high": 84.98,
-  "temperature_mid": 80.67,
-  "temperature_low": 76.36,
+  "temperature": {
+    "high": 84.98,
+    "mid": 80.67,
+    "low": 76.36
+  },
   "dew_point": 76.21,
   "humidity": 0.87,
   "cloud_cover": 0.28,

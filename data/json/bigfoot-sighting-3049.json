@@ -11,9 +11,11 @@
   "longitude": -91.4261,
   "location": "-91.4261,40.4415",
   "location_details": "Grandparents property.  Request location not be listed, but will gladly show area to a researcher.",
-  "temperature_high": 16.61,
-  "temperature_mid": 15.595,
-  "temperature_low": 14.58,
+  "temperature": {
+    "high": 16.61,
+    "mid": 15.595,
+    "low": 14.58
+  },
   "dew_point": 0.3,
   "humidity": 0.63,
   "cloud_cover": 0.39,

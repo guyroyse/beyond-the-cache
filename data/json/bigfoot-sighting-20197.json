@@ -11,9 +11,11 @@
   "longitude": -121.7138,
   "location": "-121.7138,38.4906",
   "location_details": "Take Highway 1 north from Monterey, to the Green Valley (Highway 152 East) exit in Watsonville. and turn right on Green Valley. Take Green Valley east to the intersection with Airport Boulevard (to the left) and Holohan Road (to the right). Turn right onto Holohan Road and continue until you reach Highway 152. Turn left (East) onto Highway 152. It was a very winding stretch as I was coming around a turn and heading straight slightly uphill. I remember the area was covered in redwoods.",
-  "temperature_high": 70.19,
-  "temperature_mid": 63.025,
-  "temperature_low": 55.86,
+  "temperature": {
+    "high": 70.19,
+    "mid": 63.025,
+    "low": 55.86
+  },
   "dew_point": 49.9,
   "humidity": 0.69,
   "cloud_cover": 0.58,

@@ -11,9 +11,11 @@
   "longitude": -91.2,
   "location": "-91.2,36.6",
   "location_details": "14 miles east on highway 160",
-  "temperature_high": 78,
-  "temperature_mid": 69.5,
-  "temperature_low": 61,
+  "temperature": {
+    "high": 78,
+    "mid": 69.5,
+    "low": 61
+  },
   "dew_point": 65.35,
   "humidity": 0.8,
   "cloud_cover": 0.74,

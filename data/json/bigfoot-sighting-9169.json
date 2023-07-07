@@ -11,9 +11,11 @@
   "longitude": -94.83334,
   "location": "-94.83334,29.88528",
   "location_details": "The area was in the back of Woodland Acres off FM1409. It was off of Magnolia Lane. One of the last roads in the subdivision.",
-  "temperature_high": 88.91,
-  "temperature_mid": 83.46,
-  "temperature_low": 78.01,
+  "temperature": {
+    "high": 88.91,
+    "mid": 83.46,
+    "low": 78.01
+  },
   "dew_point": 76.27,
   "humidity": 0.81,
   "cloud_cover": 0.34,

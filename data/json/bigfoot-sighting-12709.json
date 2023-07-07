@@ -11,9 +11,11 @@
   "longitude": -78.54224,
   "location": "-78.54224,43.19501",
   "location_details": "Mountain Rd. runs parallel to Rt. 31A and parallel to the Erie Canal about 1/2 mile North of sighting location. A large stone quarry operation is on both sides of road and area is generally farmland with considerable woodlots in general area.",
-  "temperature_high": 73.58,
-  "temperature_mid": 66.77,
-  "temperature_low": 59.96,
+  "temperature": {
+    "high": 73.58,
+    "mid": 66.77,
+    "low": 59.96
+  },
   "dew_point": 63.86,
   "humidity": 0.78,
   "cloud_cover": 0.67,

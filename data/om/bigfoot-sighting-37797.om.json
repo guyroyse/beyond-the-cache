@@ -1,0 +1,35 @@
+{
+  "reportId": "37797",
+  "title": "Description of several strange encounters along Sleeping Bear Dunes National Shoreline",
+  "date": "2010-08-01",
+  "timestamp": 1280620800,
+  "observed": "It was too dark for visual. We had rocks thrown at our boat from shore. Shore is all forest and swamp. Man can not access it . It ran away from us after we started the boat to get the hell out of there. Incident #2. 2 miles farther down road. Looking at stars 2 am. Tree violently shaking then snapped in two. Growling.  No sign of bear in the area. #3 2011. Turkey hunting. 10 miles north of the other 2 incidents. Off M-22. Bass Otter Lake. Started raining. Air was clean. Crisp. When it started raining. The stench in air was worse than a bear. Cannot describe it other than bad body order coupled with feces and rotting meat all balled up into 1 bad funk. At the time all wildlife and woods were unbelievably silent. Heard snapping sticks and someone walking. But it was not on 4 legs. Could tell by the sound. I got freaked out like I was being watched. Got the hell out of there. Have not been back since. Won't go back unless I'm armed.",
+  "classification": "Class B",
+  "county": "Benzie",
+  "state": "Michigan",
+  "latitude": 44.73109,
+  "longitude": -86.11156,
+  "location": {
+    "longitude": -86.11156,
+    "latitude": 44.73109
+  },
+  "location_details": "Was at Loon Lake. Which the Platt River runs through it. Dumps out into Lake Michigan. It is surrounded by thick dense forest. Only a public access for boats. The entire shore line is forest. Its all part of Sleeping Bear Sand Dunes national lake shore.",
+  "temperature": {
+    "high": 75.49,
+    "mid": 70.875,
+    "low": 66.26
+  },
+  "dew_point": 63.91,
+  "humidity": 0.83,
+  "cloud_cover": 0.44,
+  "moon_phase": 0.7,
+  "precip_intensity": 0.0001,
+  "precip_probability": 0.32,
+  "precip_type": "rain",
+  "pressure": 1014.24,
+  "summary": "Partly cloudy until afternoon.",
+  "uv_index": 7,
+  "visibility": 7,
+  "wind_bearing": 209,
+  "wind_speed": 3.34
+}

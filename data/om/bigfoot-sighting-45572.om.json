@@ -1,0 +1,34 @@
+{
+  "reportId": "45572",
+  "title": "Teens shining for deer have a scary encounter near Kingsley",
+  "date": "2000-10-21",
+  "timestamp": 972086400,
+  "observed": "It was late midnight and me and friends are out shining for deer and as we came across this field with the light we seen this thing crouched down in the middle of the field, but it was out from the road about 100yrds and as we seen it, it stood up and started to run toward us so I gunned the gas and by the time I was at the end of the field it was right next to the road, I was doing 30 plus mph.",
+  "classification": "Class A",
+  "county": "Wexford",
+  "state": "Michigan",
+  "latitude": 44.50587,
+  "longitude": -85.51546,
+  "location": {
+    "longitude": -85.51546,
+    "latitude": 44.50587
+  },
+  "location_details": "Summit City Road south past County Line road. Continue south on the gravel road, No. 31 Road, for 1/2 mile.  Field is on the east side of the road.",
+  "temperature": {
+    "high": 58.02,
+    "mid": 47.69,
+    "low": 37.36
+  },
+  "dew_point": 38.81,
+  "humidity": 0.7,
+  "cloud_cover": 0.14,
+  "moon_phase": 0.8,
+  "precip_intensity": 0,
+  "precip_probability": 0,
+  "pressure": 1022.9,
+  "summary": "Clear throughout the day.",
+  "uv_index": 2,
+  "visibility": 8.27,
+  "wind_bearing": 24,
+  "wind_speed": 5.54
+}

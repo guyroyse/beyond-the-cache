@@ -11,9 +11,11 @@
   "longitude": -88.29926,
   "location": "-88.29926,42.18476",
   "location_details": "It was the prairie path next to the Algonquin postoffice. if you were coming from rt. 31 going to Randall road, it would be on the left side about mile marker 2 or 2 and a half.",
-  "temperature_high": 73.76,
-  "temperature_mid": 67.945,
-  "temperature_low": 62.13,
+  "temperature": {
+    "high": 73.76,
+    "mid": 67.945,
+    "low": 62.13
+  },
   "dew_point": 68.75,
   "humidity": 0.92,
   "cloud_cover": 0.97,

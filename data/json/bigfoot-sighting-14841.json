@@ -11,9 +11,11 @@
   "longitude": -121.9547,
   "location": "-121.9547,45.3207",
   "location_details": "Elk Park Road, Welches, Or 97067.",
-  "temperature_high": 51,
-  "temperature_mid": 47.665,
-  "temperature_low": 44.33,
+  "temperature": {
+    "high": 51,
+    "mid": 47.665,
+    "low": 44.33
+  },
   "dew_point": 42.77,
   "humidity": 0.87,
   "cloud_cover": 0.82,

@@ -11,9 +11,11 @@
   "longitude": -113.6925,
   "location": "-113.6925,46.18694",
   "location_details": "Sand Basin area",
-  "temperature_high": 72.27,
-  "temperature_mid": 55.205,
-  "temperature_low": 38.14,
+  "temperature": {
+    "high": 72.27,
+    "mid": 55.205,
+    "low": 38.14
+  },
   "dew_point": 44.18,
   "humidity": 0.64,
   "cloud_cover": 0.45,

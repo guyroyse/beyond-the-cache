@@ -11,9 +11,11 @@
   "longitude": -83.12873,
   "location": "-83.12873,38.83628",
   "location_details": "Southwestern portion of the Shawnee State Forest",
-  "temperature_high": 69.3,
-  "temperature_mid": 58.95,
-  "temperature_low": 48.6,
+  "temperature": {
+    "high": 69.3,
+    "mid": 58.95,
+    "low": 48.6
+  },
   "dew_point": 47.16,
   "humidity": 0.71,
   "cloud_cover": 0.32,

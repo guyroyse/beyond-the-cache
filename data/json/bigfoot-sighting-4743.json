@@ -11,9 +11,11 @@
   "longitude": -87.09069,
   "location": "-87.09069,31.16",
   "location_details": "Southern Conecuh county.  Exact location not published to protect residents.",
-  "temperature_high": 68.99,
-  "temperature_mid": 63.045,
-  "temperature_low": 57.1,
+  "temperature": {
+    "high": 68.99,
+    "mid": 63.045,
+    "low": 57.1
+  },
   "dew_point": 44.78,
   "humidity": 0.74,
   "cloud_cover": 0.2,

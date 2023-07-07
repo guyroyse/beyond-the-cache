@@ -11,9 +11,11 @@
   "longitude": -120.3784,
   "location": "-120.3784,39.50435",
   "location_details": "About half way between Truckee Ca. and Sierraville Ca., there's a lake called Lake of the Woods. It's about 7 or 8 miles Northwest of Independence Lake and about 15-20 miles Northwest of Truckee.  There was one road leading to this Lake in 1993 and it was dirt with rocks and pretty steep. Elevation was around 8000-9000 feet I believe.",
-  "temperature_high": 80.35,
-  "temperature_mid": 67.32,
-  "temperature_low": 54.29,
+  "temperature": {
+    "high": 80.35,
+    "mid": 67.32,
+    "low": 54.29
+  },
   "dew_point": 48.54,
   "humidity": 0.5,
   "cloud_cover": 0.33,

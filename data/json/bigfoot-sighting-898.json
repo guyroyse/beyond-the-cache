@@ -11,9 +11,11 @@
   "longitude": -117.7619,
   "location": "-117.7619,48.65528",
   "location_details": "1/4 to 1/2 mile W of Lake Roosevelt. 5 miles NW of Old Dominion Mt.",
-  "temperature_high": 76.54,
-  "temperature_mid": 62.81,
-  "temperature_low": 49.08,
+  "temperature": {
+    "high": 76.54,
+    "mid": 62.81,
+    "low": 49.08
+  },
   "dew_point": 42.1,
   "humidity": 0.49,
   "cloud_cover": 0.26,

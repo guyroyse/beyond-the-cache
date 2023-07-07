@@ -11,9 +11,11 @@
   "longitude": -111.5212,
   "location": "-111.5212,42.35635",
   "location_details": "A very popular southern Idaho creek valley, just on the Utah border.",
-  "temperature_high": 63.78,
-  "temperature_mid": 54.24,
-  "temperature_low": 44.7,
+  "temperature": {
+    "high": 63.78,
+    "mid": 54.24,
+    "low": 44.7
+  },
   "dew_point": 40.66,
   "humidity": 0.6,
   "cloud_cover": 0.46,

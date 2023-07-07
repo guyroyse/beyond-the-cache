@@ -11,9 +11,11 @@
   "longitude": -121.8955,
   "location": "-121.8955,43.5705",
   "location_details": "Davis Creek between Davis and Odell lakes.",
-  "temperature_high": 76.12,
-  "temperature_mid": 63.52,
-  "temperature_low": 50.92,
+  "temperature": {
+    "high": 76.12,
+    "mid": 63.52,
+    "low": 50.92
+  },
   "dew_point": 43.94,
   "humidity": 0.58,
   "cloud_cover": 0.24,

@@ -1,0 +1,35 @@
+{
+  "reportId": "29794",
+  "title": "Deer Hunter hears possible wood knocks in the Cheatham Wildlife Management Area",
+  "date": "2008-11-29",
+  "timestamp": 1227916800,
+  "observed": "I heard 2 distinct wood knocks in am area that I had hunted for 7 years. I sit on the ground at the exact same spot every year. It was the saturday after thanksgiving around 9am sunny and around 45 degrees. The area is very active with wild life, deer, turkey, squirrels, and birds. I sit in the same spot on the ground every year. It is on the side of a ridge overlooking a creek. Everything got eerilly quiet no birds singing no squirrels playing and calling. I had just noticed how quiet it was when I heard 2 knocks to my right. Back up the creek I was over looking. While trying to figure out what I heard there came a response to my left very faint and far away. It freeked me out and I realized that I was sitting at a natural intersection. I didn't want to see what was making all the noise. So I left the area rather quickly.",
+  "classification": "Class B",
+  "county": "Cheatham",
+  "state": "Tennessee",
+  "latitude": 36.1874,
+  "longitude": -87.0886,
+  "location": {
+    "longitude": -87.0886,
+    "latitude": 36.1874
+  },
+  "location_details": "Very end of the main road leading thru the WMA property This is the only WMA property in the county.",
+  "temperature": {
+    "high": 51.17,
+    "mid": 47.66,
+    "low": 44.15
+  },
+  "dew_point": 34.89,
+  "humidity": 0.67,
+  "cloud_cover": 0.86,
+  "moon_phase": 0.06,
+  "precip_intensity": 0.0013,
+  "precip_probability": 0.72,
+  "precip_type": "rain",
+  "pressure": 1007.4,
+  "summary": "Mostly cloudy throughout the day.",
+  "uv_index": 1,
+  "visibility": 9.45,
+  "wind_bearing": 66,
+  "wind_speed": 3
+}

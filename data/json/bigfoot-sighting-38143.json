@@ -11,9 +11,11 @@
   "longitude": -97.56253,
   "location": "-97.56253,37.3901",
   "location_details": "Highway 54",
-  "temperature_high": 81.65,
-  "temperature_mid": 69.645,
-  "temperature_low": 57.64,
+  "temperature": {
+    "high": 81.65,
+    "mid": 69.645,
+    "low": 57.64
+  },
   "dew_point": 48.93,
   "humidity": 0.54,
   "cloud_cover": 0.18,

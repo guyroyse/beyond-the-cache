@@ -1,0 +1,35 @@
+{
+  "reportId": "7604",
+  "title": "Possible bigfoot activity near Walker County line.",
+  "date": "2004-01-09",
+  "timestamp": 1073606400,
+  "observed": "While letting my two dogs out to use bathroom there were deeps screams/clacking of wood and sounds like trees breaking. 12/15/03.  Something carried off deer feed bucket made a big mess out at feeder area. This is ongoing noise as this house is in a very remote area of woods/creek/pond and deep ravines.  My horses were so spooked from the screams that they were running into the fences I had to calm them down.  This house sits in the middle of the 30 acres wooded area.",
+  "classification": "Class B",
+  "county": "Houston",
+  "state": "Texas",
+  "latitude": 30.95972,
+  "longitude": -95.58334,
+  "location": {
+    "longitude": -95.58334,
+    "latitude": 30.95972
+  },
+  "location_details": "Hwy 19 in Trinity to FM 230 to Eastham prison to property across the road.",
+  "temperature": {
+    "high": 58.21,
+    "mid": 45.865,
+    "low": 33.52
+  },
+  "dew_point": 39.38,
+  "humidity": 0.72,
+  "cloud_cover": 0.3,
+  "moon_phase": 0.57,
+  "precip_intensity": 0.0003,
+  "precip_probability": 0.44,
+  "precip_type": "rain",
+  "pressure": 1026.19,
+  "summary": "Partly cloudy in the morning.",
+  "uv_index": 3,
+  "visibility": 8.6,
+  "wind_bearing": 352,
+  "wind_speed": 8.98
+}
