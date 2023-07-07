@@ -49,7 +49,7 @@ But you don't have to do that. Install Node.js however you want as long as it's 
 
 ## Configure the API ##
 
-The API is configured using [dotenv](https://www.npmjs.com/package/dotenv) so you need a `.env` file in that contains that configuration. In the root of the folder, there's a `sample.env` file. Copy that file to `.env` and make some changes:
+The API is configured using [dotenv](https://www.npmjs.com/package/dotenv) so you need a `.env` file that contains that configuration. In the root of the folder, there's a `sample.env` file. Copy that file to `.env` and make some changes:
 
 ```bash
 cp sample.env .env
