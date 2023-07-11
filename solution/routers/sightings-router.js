@@ -103,7 +103,7 @@ sightingsRouter.get('/above-temperature/:temperature', async (req, res) => {
   res.send(sightings)
 })
 
-/* get all of the sightings with so many miles of latlng */
+/* get all of the sightings within so many miles of latlng */
 sightingsRouter.get('/within/:radius/miles-of/:longitude,:latitude', async (req, res) => {
   const radiusInMiles = Number(req.params.radius)
   const longitude = Number(req.params.longitude)
