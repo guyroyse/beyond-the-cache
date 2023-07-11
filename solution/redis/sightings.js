@@ -7,6 +7,7 @@ const sightingsSchema = new Schema('bigfoot:sighting', {
   'observed': { type: 'text' },
   'state': { type: 'string' },
   'classification': { type: 'string' },
+  'timestamp': { type: 'date' },
   'temperature_low': { type: 'number', path: '$.temperature.low' },
   'temperature_mid': { type: 'number', path: '$.temperature.mid' },
   'temperature_high': { type: 'number', path: '$.temperature.high' },
