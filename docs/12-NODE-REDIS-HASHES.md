@@ -6,6 +6,7 @@ We'll be using the Redis commands of [HSET](https://redis.io/commands/hset/), [H
 
 Go ahead and open **`routers/sightings-router.js`** as this is where we'll be making our changes.
 
+
 ## Endpoints ##
 
 Here's the various endpoints for this section. We'll add more endpoints to it in the next section when we talk about RediSearch and RedisJSON:
@@ -18,9 +19,11 @@ Here's the various endpoints for this section. We'll add more endpoints to it in
 | DELETE | /sightings/:id | Remove a Bigfoot sighting for the given ID
 | GET    | /sightings     | Get all of the Bigfoot sighting
 
+
 ## Optimizing `curl` ##
 
 We've been typing in all the data for `curl` for the last view examples, and, frankly, it's kinda tedious. So, in the **`data`** folder, there are a few thousand JSON files containing Bigfoot sightings. We'll tell `curl` to load some of these instead of typing in the data manually for all the examples in this section.
+
 
 ## Adding a New Sighting ##
 
@@ -66,6 +69,7 @@ You should get back a JSON response with the ULID for the newly created record:
 Take a look in Redis at your newly created Hash and make sure it worked. It should be in a key named like this: `bigfoot:sighting:01G95AVST5A9Q6ABCK9T9T1ZK7`.
 
 Note that your ULID will be different.
+
 
 ## Fetch a Sighting ##
 
@@ -160,6 +164,7 @@ And we see that it did work. The state's now Kentucky and the comments are gone:
 }
 ```
 
+
 ## Remove a Sighting ##
 
 Well, we've done everything else. I guess it's time to delete. Add the code to delete a sighting:
@@ -193,6 +198,7 @@ And it is:
 ```json
 {}
 ```
+
 
 ## Get All the Sightings ##
 

@@ -16,14 +16,13 @@ QUEUED
 127.0.0.1:6379(TX)> EXEC
 1) (integer) 0
 2) (integer) 2
-127.0.0.1:6379>
 ```
 
 In this example, we want to remove `site:config` and replace its values without someone else changing it out from underneath us. We want the operation to be atomic.
 
 Note that the returned values are the results of each of the queued commands being executed. So, in this example, UNLINK didn't do anything as `site:config` didn't exists—hence the 0 being returns. And HSET set two fields, so a 2 was returned.
 
-Now, this is optimistic locking. We're not locking other clients out of the key we want to change. We're ensuring that is hasn't changed before we make our changes. If it *has* changed, we'll get an error.
+Now, this is optimistic locking. We're not locking other clients out of the key we want to change. We're ensuring that it hasn't changed before we make our changes. If it *has* changed, we'll get an error.
 
 Try it out by changing `site:config` after the WATCH but before you call MULTI:
 
@@ -54,7 +53,25 @@ This time it returned `(nil)`, which means that the transaction failed and your 
 6) "guy@guyroyse.com"
 ```
 
-We can use these commands in Node Redis as well, provided we use the same connection. Fortunately, in our Bigfoot Tracker API, we using a single connection for everything. This works becasue JavaScript is single-threaded and Node.js is single-threaded and Redis is single-threaded. It's single-threaded all the way down, which is a pretty good deal.
+In our particular case, the use of WATCH works but is overkill. Since we're only manipulating a single key, we don't really need to WATCH it at all. After all, if someone changes the key before we call EXEC, we'll overwrite those changes. But if they wrote them the millisecond before we called WATCH the same things would happen. So, the WATCH is superfluous and we can get away with just using MULTI and EXEC.
+
+```bash
+127.0.0.1:6379> MULTI
+OK
+127.0.0.1:6379(TX)> UNLINK site:config
+QUEUED
+127.0.0.1:6379(TX)> HSET site:config version 2.0.0 name bigfoot-tracker-api-v2
+QUEUED
+127.0.0.1:6379(TX)> EXEC
+1) (integer) 0
+2) (integer) 2
+```
+
+We can use these commands in Node Redis as well, provided we use the same connection. In our Bigfoot Tracker API, it looks like we are using a single connection for everything, but there's a chance we're not. This is because Node Redis can pool multiple connections to Redis and so a _specific_ connection for a command is not guaranteed.
+
+However, if we're only using MULTI and EXEC and don't need to WATCH anything (i.e. our case), this is moot. Node Redis optimizes tansactions by queueing the commands between the MULTI and EXEC locally before sending them on the same connection. However, if we WATCH something, we do not have this guarantee as the WATCH command could happen on _any_ connection.
+
+ The good news is we can force Node Redis to do this using [isolated execution](https://github.com/redis/node-redis/blob/master/docs/isolated-execution.md). I'm not gonna cover that here, but it's good to know it exists for those situations when you need to atomically update mutliple keys with a transaction.
 
 
 ## Adding Transactions to Bigfoot Sightings ##
@@ -78,41 +95,26 @@ sightingsRouter.put('/:id', (req, res) => {
 
 It has a flaw. See it? Someone could sneak in a write to our key after we call `.unlink()` but before we call `.hSet()`. Then, we would have our data overlayed on top of their data instead of just our data. This sounds like a problem for... transactions!
 
-Go ahead an update the code to this:
+Go ahead and update the code to this:
 
 ```javascript
-sightingsRouter.put('/:id', async (req, res) => {
+sightingsRouter.put('/:id', (req, res) => {
   const { id } = req.params
   const key = sightingKey(id)
 
-  try {
-    await redis.watch(key)
-    await redis
-      .multi()
-        .unlink(key)
-        .hSet(key, { id, ...req.body })
+  redis.multi()
+    .unlink(key)
+    .hSet(key, { id, ...req.body })
       .exec()
 
-    res.send({
-      status: "OK",
-      message: `Sighting ${id} created or replaced.`
-    })
-  } catch (err) {
-    if (err instanceof WatchError) {
-      res.send({
-        status: "ERROR",
-        message: `Sighting ${id} was not created or replaced.`
-      })
-    }
-  }
+  res.send({
+    status: "OK",
+    message: `Sighting ${id} created or replaced.`
+  })
 })
 ```
 
-Note that the route handler is now `async`. That'd be easy to miss.
-
-We call `.watch()` for the key we want to watch and then we start our transaction, queue our commands, and call `.exec()`. We need to `await` the call to `.exec()` as we need to know if it throws an exception or not.
-
-Node Redis takes the `(nil)` return from a failed transaction and turns it into an exception that you can handle. In our case, we're just going to return the error to the API client, but in a more realistic scenario, you might want to attempt a retry.
+We call `.multi()` to start our transaction. Then we queue our commands and call `.exec()` to run them. Easy peasy.
 
 ----------------------------------------
 

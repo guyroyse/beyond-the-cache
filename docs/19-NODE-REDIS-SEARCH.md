@@ -4,7 +4,9 @@ Now that we know our way around RediSearch fairly well, we can update our Bigfoo
 
 We'll be using the RediSearch commands of [FT.CREATE](https://redis.io/commands/ft.create/) and [FT.SEARCH](https://redis.io/commands/ft.search/) in this section.
 
+
 Go ahead and open **`redis/sightings.js`** and `routers/sightings-router.js`** as these are where we'll be making our changes.
+
 
 ## Endpoints ##
 
@@ -18,6 +20,7 @@ Here's the additional endpoints we're adding or modifying for this section:
 | GET  | /sightings/by-class/:clazz                  | Get all the Bigfoot sightings for a class
 | GET  | /sightings/by-state/:state/and-class/:clazz | Get all the Bigfoot sightings for a state and a class
 
+
 ## Creating Our Index ##
 
 We need to create an index for RediSearch to be able to... well... search. We'll do this in **`redis/sightings.js`**.
@@ -28,7 +31,7 @@ First things first, we need a name for our index. And, we'll need to use that na
 export const sightingsIndex = `bigfoot:sighting:index`
 ```
 
-Next, we need to create our index with a call to `.ft.create()`. This is a rather weighty call but you should recognize all the arguments from your earlier calls to FT.SEARCH. Just paste it at the bottom of **`redis/sightings.js`**:
+Next, we need to create our index with a call to `.ft.create()`. This is a rather weighty call but you should recognize all the arguments from your earlier calls to FT.CREATE. Just paste it at the bottom of **`redis/sightings.js`**:
 
 ```javascript
 await redis.ft.create(sightingsIndex, {
@@ -43,7 +46,7 @@ await redis.ft.create(sightingsIndex, {
 })
 ```
 
-This will create the index every time to application is loaded. However, if we try to create the index more than once, we'll get an error. Odds are, you have an index already defined from the previous section. So, you'll see this error right away. So, go ahead and drop that index from RedisInsight:
+This will create the index every time the application is loaded. However, if we try to create the index more than once, we'll get an error. Odds are, you have an index already defined from the previous section. So, you'll see this error right away. So, go ahead and drop that index from RedisInsight:
 
 ```bash
 127.0.0.1:6379> FT.DROPINDEX bigfoot:sighting:index
@@ -111,6 +114,7 @@ Index exists already, skipped creation.
 
 See that it skipped creation. If you want to change the index as some point, say to add another field, be sure to delete it and then allow the code to recreate it.
 
+
 ## Getting Rid of the Call to `.keys()` ##
 
 Ok. Finally, we can replace that call to `.keys()` with some sweet, sweet RediSearch. At the top of **`routers/sightings-router.js`**, import the `sightingsIndex` that we just exported:
@@ -119,7 +123,7 @@ Ok. Finally, we can replace that call to `.keys()` with some sweet, sweet RediSe
 import { redis, sightingsIndex } from '../redis/index.js'
 ```
 
-Now, remove all the code that's calling `.keys()` and call `.ft.search() instead`:
+Now, remove all the code that's calling `.keys()` and call `.ft.search()` instead:
 
 ```javascript
 sightingsRouter.get('/', async (req, res) => {
@@ -279,6 +283,7 @@ You should get a whole mess of Bigfoot sightings back:
 ]
 ```
 
+
 ## Adding Pagination ##
 
 Returning everything isn't really the best. So, let's add a paginating route:
@@ -365,6 +370,7 @@ You will be rewarded with a nice, empty array:
 ```json
 []
 ```
+
 
 ## Adding State and Class Searches ##
 
@@ -458,11 +464,12 @@ Go ahead and try it out:
 curl -X GET localhost:8080/sightings/by-state/Ohio/and-class/Class%20A
 ```
 
+
 ## Getting Creative ##
 
 You can pretty clearly see how we could add all sorts of interesting queries using RediSearch. Play around with some of your own. Modify the index to add some new fields to search on. Add some routes to find Bigfoot sightings that contain a particular keyword. Or sightings that occurr using a particular temperature range. Or sightings near a particular location. Go crazy!
 
 ----------------------------------------
 
-Now that you've used RediSearch in lots of ways, it's time to check out a much easier way to RediSearch and RedisJSON together, we're gonna use [Redis OM](20-REDIS-OM.md).
+Now that you've used RediSearch in lots of ways, it's time to check out a much easier way to use RediSearch and RedisJSON together. We're gonna use [Redis OM](20-REDIS-OM.md).
 

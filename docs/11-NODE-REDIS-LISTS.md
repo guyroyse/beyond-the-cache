@@ -8,6 +8,7 @@ We'll be using the Redis commands of [RPUSH](https://redis.io/commands/rpush/), 
 
 Go ahead and open **`routes/report-router.js`** as this is where we'll be making our changes.
 
+
 ## Endpoints ##
 
 Here's the various endpoints for this section:
@@ -17,6 +18,7 @@ Here's the various endpoints for this section:
 | POST  | /report | Add a new report to the list of reported Bigfoot sightings
 | GET   | /report | Get all the reported Bigfoot sightings in the list
 | PATCH | /report | Remove and return the next report of a Bigfoot sighting
+
 
 ## Adding a New Report ##
 
@@ -62,6 +64,7 @@ Each of these should respond with the following:
 }
 ```
 
+
 ## Fetching All the Reports ##
 
 Add the following code to retrieve all the incoming reports:
@@ -86,6 +89,7 @@ Hey, look. There's all the reports we added:
   "My grandpa told me about this time he saw Bigfoot when he was a kid in Kentucky"
 ]
 ```
+
 
 ## Processing Reports
 

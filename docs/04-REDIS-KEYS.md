@@ -36,6 +36,7 @@ OK
 (integer) 0
 ```
 
+
 ## 📍 Figure It Out ##
 
 - What happens when you DEL or UNLINK a key that isn't there?

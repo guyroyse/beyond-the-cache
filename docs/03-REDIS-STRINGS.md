@@ -13,11 +13,13 @@ OK
 "Greetings!"
 ```
 
+
 ## 📍 Figure It Out ##
 
 - What happens when you get a String that isn't there?
 - Try changing the message of the day to a message with whitespace. Try one with quotes.
 - How do you think you might set a String with a tab or a new-line?
+
 
 # String Containing Integers #
 
@@ -49,6 +51,7 @@ Next, use [INCRBY](https://redis.io/commands/incrby/) and [DECRBY](https://redis
 127.0.0.1:6379> GET sightings:count
 "23"
 ```
+
 
 ## 📍 Figure It Out ##
 

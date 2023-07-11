@@ -6,6 +6,7 @@ We'll be using the Redis commands of [GET](https://redis.io/commands/get/), [SET
 
 Go ahead and open **`routers/motd-router.js`** as this is where we'll be making our changes.
 
+
 ## Endpoints ##
 
 Here's the various endpoints for this section:
@@ -15,6 +16,7 @@ Here's the various endpoints for this section:
 | GET    | /motd | Get the message of the day
 | PUT    | /motd | Create or replace the message of the day
 | DELETE | /motd | Clear the message of the day
+
 
 ## Getting the MOTD ##
 
@@ -40,6 +42,7 @@ It should return a null as we've not set the message of the day:
 ```
 
 Let's set one.
+
 
 ## Setting the MOTD ##
 
@@ -91,6 +94,7 @@ And you should see:
 }
 ```
 
+
 ## Clearing the MOTD ##
 
 We can read and write. Now let's delete. Add the following code:
@@ -131,6 +135,7 @@ And you should get a `null`:
   "motd": null
 }
 ```
+
 
 ## Expiring the MOTD ##
 
@@ -173,6 +178,7 @@ And you should get:
 ```
 
 Wait a few second and see if the message disappears. Check it via the API, as you did earlier, or take a look in RedisInsight.
+
 
 ## Refactoring Our Code ##
 

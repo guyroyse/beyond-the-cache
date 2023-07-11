@@ -7,6 +7,7 @@ Inside of the **`src`** folder, we have the following files and folders of note:
 -  **`redis/sightings.js`**: This mostly empty file will contain code to set up RediSearch and Redis OM to search Bigfoot sightings. You won't need to modify this anytime soon, but know that it's there.
 -  **`routers/`**: This folder contains the various routers, with stubbed-out implementations, that **`server.js`** exposes.
 
+
 ## Connecting to Redis ##
 
 We're going to connect to Redis using [Node Redis](https://github.com/redis/node-redis). Node Redis is the library you get when you run:
@@ -88,6 +89,7 @@ Regardless, this should return the following JSON:
   "pingResponse": "PONG"
 }
 ```
+
 
 ## One Last Thing
 

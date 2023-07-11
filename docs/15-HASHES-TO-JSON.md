@@ -59,6 +59,7 @@ And replace them with this:
 
 This should work, but, there's some flaws in our code.
 
+
 ## Removing the Transaction ##
 
 Take a look at this code that handles the PUT:
@@ -68,32 +69,21 @@ sightingsRouter.put('/:id', async (req, res) => {
   const { id } = req.params
   const key = sightingKey(id)
 
-  try {
-    await redis.watch(key)
-    await redis
-      .multi()
-        .unlink(key)
-        .json.set(key, '$', { id, ...req.body })
+  await redis.multi()
+    .unlink(key)
+    .json.set(key, '$', { id, ...req.body })
       .exec()
 
     res.send({
       status: "OK",
       message: `Sighting ${id} created or replaced.`
     })
-  } catch (err) {
-    if (err instanceof WatchError) {
-      res.send({
-        status: "ERROR",
-        message: `Sighting ${id} was not created or replaced.`
-      })
-    }
-  }
 })
 ```
 
 If `.json.set()` replaces the entire document, is the call to `.unlink()` needed? If it's not, is the transaction needed?
 
-The answer to this leading question is no. So, let's clean this up a bit and remove the transaction. When you're done, you code should look like this:
+The answer to this leading question is no. So, let's clean this up a bit and remove the transaction. When you're done, your code should look like this:
 
 ```javascript
 sightingsRouter.put('/:id', async (req, res) => {
@@ -111,9 +101,11 @@ sightingsRouter.put('/:id', async (req, res) => {
 
 Much tidier.
 
+
 ## Testing the Changes ##
 
 So that was a lot of changes without a lot of testing. Let's fix that. We had several `curl` commands back when we where writing all this code to work with Hashes. Run them again and see if they work. As you run them, look in RedisInsight and see what they change:
+
 
 ### Add a Bigfoot Sighting ###
 
@@ -125,11 +117,13 @@ curl \
   localhost:8080/sightings
 ```
 
+
 ### Get a Bigfoot Sighting ###
 
 ```bash
 curl -X GET localhost:8080/sightings/<your ulid>
 ```
+
 
 ### Replace a Bigfoot Sighting ###
 
@@ -140,6 +134,7 @@ curl \
   -d @../data/json/bigfoot-sighting-1024.json \
   localhost:8080/sightings/<your ulid>
 ```
+
 
 ### Remove a Bigfoot Sighting ###
 

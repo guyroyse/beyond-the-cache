@@ -4,6 +4,7 @@
 
 In the next few sections, we'll be using the [FT.CREATE](https://redis.io/commands/ft.create/) to create an index, [FT.SEARCH](https://redis.io/commands/ft.search/) to search, and [FT.DROPINDEX](https://redis.io/commands/ft.dropindex/) to delete an index. We'll also use [FT.INFO](https://redis.io/commands/ft.info/) to get information about our index and [FT._LIST](https://redis.io/commands/ft._list/) to get a list of existing indices.
 
+
 ## Loading Some Data ##
 
 To really show off RediSearch, we need some data. Like, maybe, 4,586 Bigfoot sightings. We have all of those in the **`data/json`** folder but adding them one by one might be a *bit* tedious. So, I wrote a shell script to do it for you.
@@ -29,7 +30,8 @@ You should be rewards with a massive list of ULIDs and filenames. Like this:
 ...
 ```
 
-It might take a minute or two to run but when its done, you'll have plenty of Bigfoot sightings to play with.
+It might take a minute or two to run but when it's done, you'll have plenty of Bigfoot sightings to play with.
+
 
 ## Creating Indices ##
 
@@ -72,7 +74,8 @@ The first is the location of the field. This is the JSONPath to the field if we 
 
 Next, is an optional alias to use when we search with the index later. With Hashes, this is only mildly useful. But with JSON documents, this allows us to rename something like `$.foo.bar[*].baz` to `baz`.
 
-Third and lastly, we tell Redis the type of data that is stored at that location. Valid types a TEXT, TAG, NUMERIC, and GEO. We'll cover these more later when we search on them.
+Third and lastly, we tell Redis the type of data that is stored at that location. Valid types include TEXT, TAG, NUMERIC, and GEO. We'll cover these more later when we search on them.
+
 
 ## Removing Indices ##
 
@@ -106,9 +109,12 @@ And it's gone! Of course, we *want* our index, `cuz we're gonna search against i
 OK
 ```
 
+
 ## Searching Indices ##
 
 We search our index using the FT.SEARCH command. The simplest of searches is a search for everything. Go ahead and try it out:
+
+_TODO: update the documents here_
 
 ```bash
 127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index *
@@ -149,6 +155,8 @@ Redis returns a lot of data back. The very first thing is the total number of it
 
 You might have noticed that we only got 10 results back but we have 4,586 total results. The call to FT.SEARCH has a default limit of `10`. You can override this and paginate the results using the `LIMIT` option. Try just getting five results:
 
+_TODO: And here_
+
 ```bash
 127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index * LIMIT 0 5
  1) (integer) 4586
@@ -171,8 +179,14 @@ You might have noticed that we only got 10 results back but we have 4,586 total 
 
 The `LIMIT` option takes a starting point within the results and a total number of results to return. So, to get the fifth result you would enter:
 
+_TODO: and here_
+
 ```bash
-FT.SEARCH bigfoot:sighting:index * LIMIT 4 1
+127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index * LIMIT 4 1
+1) (integer) 4586
+2) "bigfoot:sighting:01G9HSRFRAAS9W8MWBXNQ87C2F"
+3) 1) "$"
+   2) "{\"id\":\"01G9HSRFRAAS9W8MWBXNQ87C2F\",\"reportId\":\"14887\",\"title\":\"Possible sighting, vocalizations, stalking, etc., near Sweetwater Creek\",\"date\":\"2006-07-05\",\"timestamp\":1152057600,\"observed\":\"\",\"classification\":\"Class B\",\"county\":\"Paulding\",\"state\":\"Georgia\",\"latitude\":33.81283,\"longitude\":-84.80283,\"location\":\"-84.80283,33.81283\",\"location_details\":\"From Hwy 92 going south through Hiram, GA, you will come to Ridge Rd.  Turn right at the light. Go a few miles just past a baseball field on the right. Once you pass this it will be the next street (not subdivision) on the left. This is Austin Bridge Rd. Go down about a half mile to a subdivision called Austin Meadows.  (Exact location removed at request of witness.)\",\"temperature_high\":88.91,\"temperature_mid\":80.17,\"temperature_low\":71.43,\"dew_point\":68.41,\"humidity\":0.73,\"cloud_cover\":0.43,\"moon_phase\":0.31,\"precip_intensity\":0.0075,\"precip_probability\":0.48,\"precip_type\":\"rain\",\"pressure\":1015.9,\"summary\":\"Partly cloudy throughout the day.\",\"uv_index\":10,\"visibility\":6.83,\"wind_bearing\":341,\"wind_speed\":1}"
 ```
 
 If you tell limit to return zero items, you will get only the count of items that match your query:

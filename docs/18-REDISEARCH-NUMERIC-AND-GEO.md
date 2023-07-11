@@ -1,6 +1,7 @@
-# Searching NUMERIC and GEO Fields ##
+# Searching NUMERIC and GEO Fields #
 
 NUMERIC and GEO fields don't have a ton in common, other than they are both simpler than TEXT and TAG searches. So, I've lumped 'em together.
+
 
 ## Searching NUMERIC Fields ##
 
@@ -156,6 +157,7 @@ You can see here that there are 3,645 Bigfoot sightings with a temperature. But 
 ```
 
 And that's pretty much everything with NUMERIC fields.
+
 
 ## Searching GEO Fields ##
 

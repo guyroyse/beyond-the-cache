@@ -2,6 +2,7 @@
 
 TEXT and TAG fields together allow you to perform most of the types of searches against strings that you'd want to do. TEXT fields provide full-text search so you can find words within blocks of texts. Tags act as keys or collections of keys that match on an entire value.
 
+
 ## Searching TEXT Fields ##
 
 A TEXT field in Redis search indicates a field that contains human-readable text that we want to perform full-text search against. TEXT fields understand related words using a process called *stemming*. So RediSearch knows that a search for `give` should match text with `gives`, `gave`, `given`, and `giving`. TEXT fields also know that certain words—called *stopwords*—are common and not useful for search. Thus, words like `a`, `and`, and `the` are ignored when searching TEXT fields.
@@ -58,6 +59,7 @@ So far, our queries haven't used quotes. But it's usually needed for anything be
 10) "bigfoot:sighting:01G9HSSG2E9RTH7B8676595N76"
 11) "bigfoot:sighting:01G9HSS67ZGGS7ANYAGZK7DZTQ"
 ```
+
 
 ## Searching TAG Fields ##
 

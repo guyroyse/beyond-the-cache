@@ -58,7 +58,8 @@ You can even pop from one list and push to another using [LMOVE](https://redis.i
 1) "I heard Bigfoot behind the trailer digging through some trash cans"
 ```
 
-### 📍 Figure It Out ###
+
+## 📍 Figure It Out ##
 
 - What happens when you remove all the items from a List?
 - How could you get all the values in a List?

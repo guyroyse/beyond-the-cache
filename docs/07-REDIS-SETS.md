@@ -61,7 +61,8 @@ If you have more than one Set, you can get the difference, intersection, or unio
 5) "Maryland"
 ```
 
-### 📍 Figure It Out ###
+
+## 📍 Figure It Out ##
 
 - What happens when you add a member that's already in a Set?
 - What happens when you remove a member that's not in a Set?

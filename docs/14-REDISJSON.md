@@ -6,6 +6,7 @@ RedisJSON, as you might have guessed based on the name, adds a JSON document dat
 
 Let's try it out from RedisInsight first. Then we can take a look at changing our API to write out to JSON instead.
 
+
 ## Getting and Setting JSON ##
 
 Let's store a simple user in RedisJSON using the [JSON.SET](https://redis.io/commands/json.set/) command:

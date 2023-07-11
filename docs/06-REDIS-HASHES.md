@@ -68,7 +68,8 @@ And, of course, you need to be able to delete things. You can do this with the [
 6) "47"
 ```
 
-### 📍 Figure It Out ###
+
+## 📍 Figure It Out ##
 
 - What happens when you remove an item that's not in the Hash?
 - What happens when you remove all the items from a Hash?
