@@ -158,7 +158,7 @@ This works with updating as well.
 
 #### Updating Your Code ####
 
-Armed with this knowledge, let's update our POST and PUT routes to use to use `.save()`.
+Armed with this knowledge, let's update our POST and PUT routes in **`routers/sightings-router.js`** to use to use `.save()`.
 
 First, of course, you need to import `EntityId`:
 
@@ -214,7 +214,7 @@ Updating our code is equally easy, however. It's always easier to destroy than c
 
 So we're not done and our code probably doesn't work yet—don't worry, we'll fix that in the next section—but you might have noticed that you have some dead code. The `sightingKey` function isn't needed anymore and you probably have bits of it grayed out in your IDE. If not, it's still most certainly dead code as Redis OM is now building all the key name internally.
 
-So, if it ain't needed, it shall be be remove. Go ahead and remove any trace of `sightingKey` from **`redis/sightings.js`**.
+So, if it ain't needed, it shall be be remove. Go ahead and remove any trace of `sightingKey` from **`routers/sightings-router.js`**.
 
 ----------------------------------------
 

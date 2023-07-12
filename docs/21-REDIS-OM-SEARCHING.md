@@ -10,17 +10,61 @@ Searching is where Redis OM really begins to shine. It offers an intuitive inter
 With stuff like this:
 
 ```javascript
-const sightings = await sightingsRepository.search()
-  .where('title').matches('creek')
-  .and('state').does.not.equal('Hawaii')
-  .and('temperature_mid').is.gte(75)
-    .return.all()
+  const sightings = await sightingsRepository.search()
+    .where('title').matches('creek')
+    .and('state').does.not.equal('Hawaii')
+    .and('temperature_mid').is.gte(75)
+      .return.all()
 ```
 
 Ya, it's longer. But look how *readable* it is!
 
+Redis OM's search capabilities is fairly extensive and I shan't cover it *all* here. If you want to see all the ways you can use it, check out the [Searching](https://github.com/redis/redis-om-node/tree/main#searching) section of the main README for Redis OM.
 
-### All the Things ###
+But for now, let's dive into some of the bits we need for replacing our calls to `ft.search`.
+
+
+## Starting A Search ##
+
+To start a search, you call `.search()` on a `Repository` and receive a `Search` object. Like this:
+
+```javascript
+sightingsRepository.search()
+```
+
+You can then daisy chain calls on this to add filters and to return things. For example, to return all the Bigfoot sightings that happened in Ohio and Kentucky, you could do this:
+
+```javascript
+const sightings = await sightingsRepository.search()
+  .where('state').equals('Ohio')
+  .or('state').equals('Kentucky')
+    .return.all()
+```
+
+If you just want to return everything, you can skip the filter:
+
+```javascript
+const sightings = await sightingsRepository.search().return.all()
+```
+
+You can also assign the `Search` to a variable and call it without the daisy chaining. This is useful if the specific fields you want to filter on have some logic to them:
+
+```javascript
+const search = sightingsRepository.search()
+search.where('state').equals('Ohio')
+if (includeTemp) search.and('temperature_mid').is.gte(75)
+
+const sightings = await search.return.all()
+```
+
+Note that the `.all()` function is `async` as this is where actually calls to Redis start happening. The rest of the code is really a query builder.
+
+Anyhow, that's some basics of searching with Redis OM. Let's apply it to our API and dive into some more details as needed.
+
+
+## Searching All the Things ##
+
+Right now we have a route in **`routers/sightings-router.js`** that returns all of the Bigfoot sightings. It should look something like this:
 
 ```javascript
 sightingsRouter.get('/', async (req, res) => {
@@ -28,111 +72,69 @@ sightingsRouter.get('/', async (req, res) => {
   const sightings = results.documents.map(document => document.value)
   res.send(sightings)
 })
+```
 
-/* get all of the sightings */
-sightingsRouter.get('/', async (req, res) => {
+Let's simplify it with Redis OM. Based on what you read above, you should be able to figure this out. Go ahead and try. If you get stuck, know that you need to replace to first two lines with a single line of Redis OM.
+
+I'm guessing that you come up with the following:
+
+```javascript
   const sightings = await sightingsRepository.search().return.all()
-  res.send(sightings)
-})
+```
+
+That's not wrong but we can make it better. See, there's potentially a slight performance issue with calls to `return.all()`. `return.all()` can result in multiple calls to Redis, in our case, a lot. The reason—it grabs data in pages of 10 objects each. So, to return all 4,586 Bigfoot sightings, it has to make 459 round trips (I think my math is correct there) to Redis. Or at least issue 459 commands to Redis.
+
+This is fine for more typical queries that return a few results, but when you're querying *everything*, not so much. How can we fix this? Well, you can pass in a `pageSize` when you call `return.all()`.
+
+Now it might be tempting, knowing that we have 4,586 Bigfoot sightings, to use a page size of 5,000 and return them all at once. But this can result in *another* kind of performance issue—blocking Redis with a long-running call. Remember `.keys()`? Redis is single-threaded. And if anything, like say, I don't know, a long-running query, has Redis busy, it can't serve other clients.
+
+So, we'll split the difference and use a page size of 500. Here's how you do it:
+
+```javascript
+  const sightings = await sightingsRepository.search().return.all({ pageSize: 500 })
 ```
 
 
 ### Pagination ###
 
+Of course, sometimes we just want a single page of data. Redis OM has you there as well. Instead of calling `.return.all()`, you can call `.return.page()`. This works just like setting a LIMIT does with RediSearch and Node Redis. Go ahead an update your page route to use Redis OM:
+
 ```javascript
-
-  const page = Number(req.params.pageNumber)
-  const size = 20
-  const from = (page - 1) * size
-
-  const results = await redis.ft.search(sightingsIndex, '*', { LIMIT: { from, size } })
-  const sightings = results.documents.map(document => document.value)
-
-  res.send(sightings)
-
-/* get a page of sightings */
-sightingsRouter.get('/page/:pageNumber', async (req, res) => {
-  const page = Number(req.params.pageNumber)
-  const size = 20
-  const from = (page - 1) * size
-
   const sightings = await sightingsRepository.search().return.page(from, size)
-
-  res.send(sightings)
-})
 ```
+
+This call will result in a single round trip to Redis. If you have a frontend that needs to page through lots of data, this is a useful way to do that.
 
 
 ### Searching ##
 
+Next we have some actual searching. Your routes that fetch by state, classification, and both need updated. You've probably figured out how to do this already. So go ahead and do it.
+
+I'll show you the code for this in just a moment, but note that you'll get to delete some more code too. This time it's the call to and definition of `escapeTag`. Redis OM will escape everything for so we don't need it.
+
+Here's the code for searching by state:
 
 ```javascript
-const escapeTag = tag => tag.replaceAll(' ', '\\ ')
-```
-
-```javascript
-  const { state } = req.params
-  const query = `@state:{${escapeTag(state)}}`
-
-  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
-  const sightings = results.documents.map(document => document.value)
-
-  res.send(sightings)
-```
-```javascript
-  const { clazz } = req.params
-  const query = `@classification:{${escapeTag(clazz)}}`
-
-  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
-  const sightings = results.documents.map(document => document.value)
-
-  res.send(sightings)
-```
-
-```javascript
-  const { state, clazz } = req.params
-  const query = `@state:{${escapeTag(state)}} @classification:{${escapeTag(clazz)}}`
-
-  const results = await redis.ft.search(sightingsIndex, query, { LIMIT: { from: 0, size: 20 } })
-  const sightings = results.documents.map(document => document.value)
-
-  res.send(sightings)
-```
-
-```javascript
-/* get all of the sightings for a state */
-sightingsRouter.get('/by-state/:state', async (req, res) => {
-  const { state } = req.params
-
   const sightings = await sightingsRepository.search()
     .where('state').equals(state)
       .return.all()
+```
 
-      res.send(sightings)
-})
+Here it is for classification:
 
-/* get all of the sightings for a class */
-sightingsRouter.get('/by-class/:clazz', async (req, res) => {
-  const { clazz } = req.params
-
+```javascript
   const sightings = await sightingsRepository.search()
     .where('classification').equals(clazz)
       .return.all()
+```
 
-  res.send(sightings)
-})
+And here it is for both:
 
-/* get all of the sightings for a state and a class */
-sightingsRouter.get('/by-state/:state/and-class/:clazz', async (req, res) => {
-  const { state, clazz } = req.params
-
+```javascript
   const sightings = await sightingsRepository.search()
     .where('state').equals(state)
     .and('classification').equals(clazz)
       .return.all()
-
-  res.send(sightings)
-})
 ```
 
 
