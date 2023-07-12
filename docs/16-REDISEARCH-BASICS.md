@@ -114,8 +114,6 @@ OK
 
 We search our index using the FT.SEARCH command. The simplest of searches is a search for everything. Go ahead and try it out:
 
-_TODO: update the documents here_
-
 ```bash
 127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index *
  1) (integer) 4586
@@ -155,8 +153,6 @@ Redis returns a lot of data back. The very first thing is the total number of it
 
 You might have noticed that we only got 10 results back but we have 4,586 total results. The call to FT.SEARCH has a default limit of `10`. You can override this and paginate the results using the `LIMIT` option. Try just getting five results:
 
-_TODO: And here_
-
 ```bash
 127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index * LIMIT 0 5
  1) (integer) 4586
@@ -178,8 +174,6 @@ _TODO: And here_
 ```
 
 The `LIMIT` option takes a starting point within the results and a total number of results to return. So, to get the fifth result you would enter:
-
-_TODO: and here_
 
 ```bash
 127.0.0.1:6379> FT.SEARCH bigfoot:sighting:index * LIMIT 4 1
