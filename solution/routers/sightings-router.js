@@ -43,7 +43,7 @@ sightingsRouter.delete('/:id', async (req, res) => {
 
 /* get all of the sightings */
 sightingsRouter.get('/', async (req, res) => {
-  const sightings = await sightingsRepository.search().return.all()
+  const sightings = await sightingsRepository.search().return.all({ pageSize: 500 })
   res.send(sightings)
 })
 
