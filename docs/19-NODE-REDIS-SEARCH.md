@@ -473,5 +473,5 @@ Oh. And I'm not providing any helper code this time. You need to figure these ou
 
 ----------------------------------------
 
-Now that you've used RediSearch in lots of ways, it's time to check out a much easier way to use RediSearch and RedisJSON together. We're gonna use [Redis OM](20-REDIS-OM.md).
+Now that you've used RediSearch in lots of ways, it's time to check out a much easier way to use RediSearch and RedisJSON together. We're gonna use [Redis OM](20-REDIS-OM-BASICS.md).
 
