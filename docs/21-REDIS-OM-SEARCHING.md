@@ -95,7 +95,7 @@ So, we'll split the difference and use a page size of 500. Here's how you do it:
 ```
 
 
-### Pagination ###
+## Pagination ##
 
 Of course, sometimes we just want a single page of data. Redis OM has you there as well. Instead of calling `.return.all()`, you can call `.return.page()`. This works just like setting a LIMIT does with RediSearch and Node Redis. Go ahead an update your page route to use Redis OM:
 
@@ -106,7 +106,7 @@ Of course, sometimes we just want a single page of data. Redis OM has you there 
 This call will result in a single round trip to Redis. If you have a frontend that needs to page through lots of data, this is a useful way to do that.
 
 
-### Searching ##
+## Actual Searching #
 
 Next we have some actual searching. Your routes that fetch by state, classification, and both need updated. You've probably figured out how to do this already. So go ahead and do it.
 
@@ -138,29 +138,97 @@ And here it is for both:
 ```
 
 
+## Actual Testing ##
+
+So, we've finally got all of our code converted. Go back to some [previous](15-HASHES-TO-JSON.md) [docs](19-NODE-REDIS-SEARCH.md) and try some of the tests. You'll note a couple of things:
+
+- Fields that are `points` are now expressed as a discrete longitude and latitude. That's nice!
+- Timestamp comes back as a ISO-8601 date string.
+- If you try to add one of the JSON docs from the **`data/json`** folder, you'll crash the server. Use the **`data\om`** folder instead.
+
+On the last one, you should do it, see what the error is, and see if you can figure out why this error occurs. And for that matter, why did the data I loaded before work?
+
+Now, on to some of the unimplemented stuff.
+
+
 ### Searching on Text ###
 
+Let's add a route that finds Bigfoot sightings that contain a particular word in the title or the observed field.
+
+The most important thing to know about these fields is that they are `text` fields. The are *not* `string` fields. They are optimized for full-text search with stemming and stop words and all that. So, we can't just call `.equals` on them—instead we need to call `.match` or `.matches`.
+
+Add the following code to the route to implement full-text search on our Bigfoot API:
+
 ```javascript
-```
-
-
-### Searching on Numbers ###
-
-```javascript
-/* get all of the sightings above a temperature */
-sightingsRouter.get('/above-temperature/:temperature', async (req, res) => {
-  const temperature = Number(req.params.temperature)
+  const word = req.params.word
 
   const sightings = await sightingsRepository.search()
-    .where('temperature_mid').is.greaterThanOrEqualTo(temperature)
+    .where('title').matches(word)
+    .or('observed').matches(word)
       .return.all()
 
   res.send(sightings)
-})
 ```
 
+Go ahead and give it a try:
 
-### Searching on Points ###
+```bash
+curl -X GET localhost:8080/sightings/containing/creek
+```
+
+You should get back all the Bigfoot sightings containing the word creek. There's a lot of them. Let's narrow it down a little bit:
+
+```bash
+curl -X GET localhost:8080/sightings/containing/walmart
+```
+
+Note that you can also wildcard the words you want to search for. Let's find words that start with `wal*`:
+
+```bash
+curl -X GET "localhost:8080/sightings/containing/wal*"
+```
+
+That returns a lot more.
+
+Note the quotes. The shell needs them to deal with the `*`.
+
+
+## Searching on Numbers ##
+
+Numbers are pretty easy to search on. We'll do a greater than or equal to search for temperatures ast or above a particular temperature:
+
+```javascript
+  const sightings = await sightingsRepository.search()
+    .where('temperature_mid').is.gte(temperature)
+      .return.all()
+```
+
+Note that we are using the field name that we defined in the `Schema` here to search and not it's location within the JSON document. We're searching on `$.temperature.mid` but we search on the name the `Schema` knows it by.
+
+Let's try it out:
+
+```bash
+curl -X GET localhost:8080/sightings/above-temperature/95
+```
+
+```json
+[]
+```
+
+Hmmm... guess Bigfoot likes it cooler.
+
+```bash
+curl -X GET localhost:8080/sightings/above-temperature/85
+```
+
+Much better.
+
+
+## Searching on Points ##
+
+Ok. We're almost done. Last route to implement. Searching on points. The syntax is a little weird here as we want to find every point within a circle on the Earth. So, we have to define the origin of that circle (i.e. the center) and it's radius.
+
+I'm just gonna show you the code as it's realtively self-explanitory:
 
 ```javascript
 /* get all of the sightings within so many miles of latlng */
@@ -177,11 +245,29 @@ sightingsRouter.get('/within/:radius/miles-of/:longitude,:latitude', async (req,
 })
 ```
 
-
-## Refactoring ##
-
-Remove this code:
+Bits of note in this code. The origin must be *longitude* and then latitude. You can also specify them separately so that the order doesn't matter:
 
 ```javascript
-const sightingKey = id => `bigfoot:sighting:${id}`
+circle.latitude(latitude).longitude(longitude)
 ```
+
+We're looking at a radius in *miles* but you can also use other units:
+
+```javascript
+circle.latitude(latitude).longitude(longitude).radius(50).miles
+circle.latitude(latitude).longitude(longitude).radius(50).feet
+circle.latitude(latitude).longitude(longitude).radius(50).kilometers
+circle.latitude(latitude).longitude(longitude).radius(50).meters
+```
+
+Anyhow, go ahead and add the above code, change it if you like, and test it out:
+
+```bash
+curl -X GET localhost:8080/sightings/within/50/miles-of/-84.5125,39.1
+```
+
+And you'll be rewarded with all of the Bigfoot sightings within 50 miles of Cincinnati!
+
+----------------------------------------
+
+And that's it. We're all done. Go home. I'm gonna take a nap.

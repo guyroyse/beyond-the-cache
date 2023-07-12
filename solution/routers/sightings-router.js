@@ -92,12 +92,24 @@ sightingsRouter.get('/by-state/:state/and-class/:clazz', async (req, res) => {
   res.send(sightings)
 })
 
+/* get all of the sightings containing a word */
+sightingsRouter.get('/containing/:word', async (req, res) => {
+  const word = req.params.word
+
+  const sightings = await sightingsRepository.search()
+    .where('title').matches(word)
+    .or('observed').matches(word)
+      .return.all()
+
+  res.send(sightings)
+})
+
 /* get all of the sightings above a temperature */
 sightingsRouter.get('/above-temperature/:temperature', async (req, res) => {
   const temperature = Number(req.params.temperature)
 
   const sightings = await sightingsRepository.search()
-    .where('temperature_mid').is.greaterThanOrEqualTo(temperature)
+    .where('temperature_mid').is.gte(temperature)
       .return.all()
 
   res.send(sightings)

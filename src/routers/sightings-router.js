@@ -52,6 +52,11 @@ sightingsRouter.get('/by-state/:state/and-class/:class', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
+/* get all of the sightings containing a word */
+sightingsRouter.get('/containing/:word', async (req, res) => {
+  res.send(`"NOT IMPLEMENTED"`)
+})
+
 /* get all of the sightings above a temperature */
 sightingsRouter.get('/above-temperature/:temperature', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
