@@ -179,6 +179,8 @@ And, change the PUT to update an existing Bigfoot sighting by also calling `.sav
   await sightingsRepository.save(id, req.body)
 ```
 
+After doing this, you'll have a couple errors. Here's a hint to fix them. The call to `.save()` is `async`.
+
 
 ### Fetching Objects ###
 
