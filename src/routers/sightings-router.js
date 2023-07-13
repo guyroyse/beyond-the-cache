@@ -43,12 +43,12 @@ sightingsRouter.get('/by-state/:state', async (req, res) => {
 })
 
 /* get all of the sightings for a class */
-sightingsRouter.get('/by-class/:class', async (req, res) => {
+sightingsRouter.get('/by-class/:clazz', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
 /* get all of the sightings for a state and a class */
-sightingsRouter.get('/by-state/:state/and-class/:class', async (req, res) => {
+sightingsRouter.get('/by-state/:state/and-class/:clazz', async (req, res) => {
   res.send(`"NOT IMPLEMENTED"`)
 })
 
