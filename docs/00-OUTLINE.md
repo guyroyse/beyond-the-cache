@@ -27,16 +27,5 @@ This is the outline for the Beyond the Cache with Redis + Node.js workshop. If y
   23. **Hands On**: [Search Numbers and Positions](18-REDISEARCH-NUMERIC-AND-GEO.md)
   24. **Hands On**: [Implementing Search](19-NODE-REDIS-SEARCH.md)
   25. **Presentation**: Introducing Redis OM
-  26. **Hands On**: Schema & Repository
-
-
-
-  25. **Presentation**: Redis Streams
-  26. **Hands On**: [Using Streams](20-REDIS-STREAMS.md)
-  27. **Hands On**: Replacing Our Lists with a Stream
-  28. **Presentation**: Using PubSub
-  29. **Hands On**: Making Bigchat with PubSub
-  30. **Presentation**: Storing Binary Data in Strings, Lists, and Hashes
-  31. **Hands On**: Accepting Photos of Bigfoot
-  32. **Presentation**: Bit Twiddling
-  33. **Hands On**: Decoding 13-bit Messages from Bigfoot
+  26. **Hands On**: [Redis OM Basics](20-REDIS-OM-BASICS.md)
+  27. **Hands On**: [Searching with Redis](21-REDIS-OM-SEARCHING.md)
