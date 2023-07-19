@@ -36,7 +36,7 @@ The following connects to Redis running on `awesome.redis.server` that is listen
 ```javascript
 import { createClient } from 'redis'
 
-createClient({ url: 'redis://alice:foobared@awesome.redis.server:6380' })
+export const redis = createClient({ url: 'redis://alice:foobared@awesome.redis.server:6380' })
 await redis.connect()
 ```
 
