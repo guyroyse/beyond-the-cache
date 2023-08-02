@@ -54,7 +54,7 @@ Now that we have a route to create Bigfoot sightings, let's use it:
 curl \
   -X POST \
   -H "Content-Type: application/json" \
-  -d @../data/hash/bigfoot-sighting-8086.json \
+  -d @../data/hash/bigfoot-sighting-8086.hash.json \
   localhost:8080/sightings
 ```
 
@@ -94,17 +94,16 @@ You should get back all the data that was loaded:
 
 ```json
 {
-  "location": "-81.40079,39.63382",
-  "reportId": "8086",
-  "county": "Noble",
-  "id": "01G95AVST5A9Q6ABCK9T9T1ZK7",
-  "title": "A series of large, human-like footprints are found on a farm near Wayne National Forest",
-  "summary": "Light snow (< 1 in.) starting in the afternoon.",
   "date": "1958-01-15",
-  "location_details": "Closest town was Harriettsville. Closest main road is State Route 145. Right on the border of Noble and Washington Counties.",
+  "classification": "Class B",
+  "id": "01H5804MY07QMHVPZYRNXAF0P4",
   "observed": "While during some yard chores, we noticed a series of tracks going into the hollow on our property. Upon examination, we realized these were very large barefoot human like tracks. They were close to 13 inches long and over 6 inches wide at the toes. They were leading into some thickets so we decided not to follow. What impressed us more than anything was the stride between the tracks. The stride was at least 4 1/2 to 5 feet long. Being very familiar with bears, we knew these were not bear tracks because of the enormous size, lack of claws, and human like shape. The game warden came out the next day to view the tracks. He had no idea what could have made the tracks. Especially anything native to Ohio. To this day, we have no clue what could have made those tracks!",
   "state": "Ohio",
-  "classification": "Class B"
+  "reportId": "8086",
+  "title": "A series of large, human-like footprints are found on a farm near Wayne National Forest",
+  "location_details": "Closest town was Harriettsville. Closest main road is State Route 145. Right on the border of Noble and Washington Counties.",
+  "county": "Noble",
+  "location": "-81.40079,39.63382"
 }
 ```
 
@@ -136,7 +135,7 @@ Let's try it out and replace the sighting at the old ULID with a different Bigfo
 curl \
   -X PUT \
   -H "Content-Type: application/json" \
-  -d @../data/hash/bigfoot-sighting-1024.json \
+  -d @../data/hash/bigfoot-sighting-1024.hash.json \
   localhost:8080/sightings/<your ulid>
 ```
 
@@ -150,17 +149,16 @@ And we see that it did work. The state's now Kentucky and the comments are gone:
 
 ```json
 {
-  "location": "-84.92358,37.3181",
-  "reportId": "1024",
-  "county": "Casey",
-  "id": "01G95AVST5A9Q6ABCK9T9T1ZK7",
-  "title": "An account of bigfoot tool use",
-  "summary": "Clear throughout the day.",
   "date": "1953-10-01",
-  "location_details": "",
+  "classification": "Class A",
+  "id": "01H5804MY07QMHVPZYRNXAF0P4",
   "observed": "When I was young,six years old, Ronnie Joe a friend of mine and myself was playing behind Ronnie's house.  We heard a thumbing sound and moved closer to see what was making the sound.  Just behind a neighbor's house we saw a big foot digging in the ground with a stick of fire wood, at times taking one stick of fire wood and pounding a second stick into the ground. Then he would turn the dirt over, using the stick like a spade. He may have been looking for food, but we never knew for sure. Then the bigfoot stood up and walked our way.  We were only 25ft. to 30ft. from the animal. It was showing its teeth but didn't make a sound.  This was a open field, bright sunshine lit day, nothing between us and the animal, so we got a good look but not a very long look at bigfoot. The animal had a dark brown coat with a lighter, almost grey vest.  He had large teeth and long \"dirty\" finger and toe nails. The nails looked very thick.",
   "state": "Kentucky",
-  "classification": "Class A"
+  "reportId": "1024",
+  "title": "An account of bigfoot tool use",
+  "location_details": "",
+  "county": "Casey",
+  "location": "-84.92358,37.3181"
 }
 ```
 
@@ -234,19 +232,19 @@ Before we can try this out in a meaningful way, we should probably have more tha
 curl \
   -X POST \
   -H "Content-Type: application/json" \
-  -d @../data/hash/bigfoot-sighting-8086.json \
+  -d @../data/hash/bigfoot-sighting-8086.hash.json \
   localhost:8080/sightings
 
 curl \
   -X POST \
   -H "Content-Type: application/json" \
-  -d @../data/hash/bigfoot-sighting-43211.json \
+  -d @../data/hash/bigfoot-sighting-43211.hash.json \
   localhost:8080/sightings
 
 curl \
   -X POST \
   -H "Content-Type: application/json" \
-  -d @../data/hash/bigfoot-sighting-26695.json \
+  -d @../data/hash/bigfoot-sighting-26695.hash.json \
   localhost:8080/sightings
 ```
 

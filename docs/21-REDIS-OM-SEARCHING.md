@@ -76,7 +76,13 @@ sightingsRouter.get('/', async (req, res) => {
 
 Let's simplify it with Redis OM. Based on what you read above, you should be able to figure this out. Go ahead and try. If you get stuck, know that you need to replace to first two lines with a single line of Redis OM.
 
-I'm guessing that you come up with the following:
+Also, you'll need to import the `sightingsRepository`.
+
+```javascript
+import { sightingsRepository } from '../redis/index.js'
+```
+
+I'm guessing that you came up with the following:
 
 ```javascript
   const sightings = await sightingsRepository.search().return.all()
@@ -160,6 +166,7 @@ The most important thing to know about these fields is that they are `text` fiel
 Add the following code to the route to implement full-text search on our Bigfoot API:
 
 ```javascript
+sightingsRouter.get('/containing/:word', async (req, res) => {
   const word = req.params.word
 
   const sightings = await sightingsRepository.search()
@@ -168,6 +175,7 @@ Add the following code to the route to implement full-text search on our Bigfoot
       .return.all()
 
   res.send(sightings)
+})
 ```
 
 Go ahead and give it a try:
@@ -198,9 +206,14 @@ Note the quotes. The shell needs them to deal with the `*`.
 Numbers are pretty easy to search on. We'll do a greater than or equal to search for temperatures ast or above a particular temperature:
 
 ```javascript
+sightingsRouter.get('/above-temperature/:temperature', async (req, res) => {
+  const temperature = Number(req.params.temperature)
   const sightings = await sightingsRepository.search()
     .where('temperature_mid').is.gte(temperature)
       .return.all()
+
+  res.send(sightings)
+})
 ```
 
 Note that we are using the field name that we defined in the `Schema` here to search and not it's location within the JSON document. We're searching on `$.temperature.mid` but we search on the name the `Schema` knows it by.

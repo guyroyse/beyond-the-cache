@@ -5,7 +5,7 @@ Now that we know our way around RediSearch fairly well, we can update our Bigfoo
 We'll be using the RediSearch commands of [FT.CREATE](https://redis.io/commands/ft.create/) and [FT.SEARCH](https://redis.io/commands/ft.search/) in this section.
 
 
-Go ahead and open **`redis/sightings.js`** and `routers/sightings-router.js`** as these are where we'll be making our changes.
+Go ahead and open **`redis/sightings.js`** and **`routers/sightings-router.js`** as these are where we'll be making our changes.
 
 
 ## Endpoints ##
@@ -44,6 +44,12 @@ await redis.ft.create(sightingsIndex, {
 }, {
   ON: 'JSON', PREFIX: 'bigfoot:sighting:'
 })
+```
+
+Oh. And we didn't import the `SchemaFieldTypes` so do that up top somewhere:
+
+```javascript
+import { SchemaFieldTypes } from 'redis'
 ```
 
 This will create the index every time the application is loaded. However, if we try to create the index more than once, we'll get an error. Odds are, you have an index already defined from the previous section. So, you'll see this error right away. So, go ahead and drop that index from RedisInsight:

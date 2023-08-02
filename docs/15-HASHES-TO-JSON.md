@@ -104,7 +104,9 @@ Much tidier.
 
 ## Testing the Changes ##
 
-So that was a lot of changes without a lot of testing. Let's fix that. We had several `curl` commands back when we where writing all this code to work with Hashes. Run them again and see if they work. As you run them, look in RedisInsight and see what they change:
+So that was a lot of changes without a lot of testing. Let's fix that. We had several `curl` commands back when we where writing all this code to work with Hashes. Run them again and see if they work. As you run them, look in RedisInsight and see what they change.
+
+Also, note that we are now adding a different file. Before, we were adding files form the **`docs/hash`** folder but *now* we are adding docs from the **`docs/json`** folder. The files there have more data and are a little JSON-y:
 
 
 ### Add a Bigfoot Sighting ###
