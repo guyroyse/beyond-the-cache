@@ -1,0 +1,45 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.245.0/containers/typescript-node
+{
+	"name": "beyond-the-cache",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "app",
+	"shutdownAction": "stopCompose",
+	"workspaceFolder": "/workspaces/beyond-the-cache",
+
+	// Configure tool-specific properties.
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {
+			// Add the IDs of extensions you want installed when the container is created.
+			"extensions": [
+				"dbaeumer.vscode-eslint",
+				"tomoki1207.pdf",
+				"ms-azuretools.vscode-docker"
+			]
+		}
+	},
+
+	"postCreateCommand": "cd src && sudo chown node node_modules && npm i",
+
+	"remoteUser": "node",
+	"forwardPorts": [8001],
+	"portsAttributes": {
+		"6379": {
+			"label": "Redis",
+			"onAutoForward": "ignore"
+		},
+		"8001": {
+			"label": "Redis Insight",
+			"onAutoForward": "silent"
+		},
+		"8080": {
+			"label": "Bigfoot Tracker",
+			"onAutoForward": "notify"
+		},
+		"9229": {
+			"label": "WebSockets",
+			"onAutoForward": "ignore"
+		}
+	}
+}

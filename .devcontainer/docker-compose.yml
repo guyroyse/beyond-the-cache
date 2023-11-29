@@ -1,0 +1,27 @@
+version: "3.8"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    init: true
+    volumes:
+      - ..:/workspaces/beyond-the-cache:cached
+      - node_modules:/workspaces/beyond-the-cache/src/node_modules
+    container_name: bigfoot-app
+    command: "sleep infinity"
+    network_mode: service:redis-stack
+    depends_on:
+      - redis-stack
+  
+  redis-stack:
+    image: redis/redis-stack:latest
+    volumes:
+     - redis-data:/data
+    ports:
+      - "6379:6379"
+      - "8001:8001"
+
+volumes:
+ redis-data:
+ node_modules:
