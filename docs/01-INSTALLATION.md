@@ -1,18 +1,28 @@
-# Installing Redis Stack & RedisInsight
+# Installing Redis Community Edition & RedisInsight
 
-We'll be using [Redis Stack](https://redis.io/docs/stack/) for our flavor of Redis. Redis Stack includes the Redis that you know and love plus several modules that extend it's capabilities. More on modules later.
+We'll be using a bleeding-edge version of Redis—[Redis 8 Milestone 2](https://redis.io/blog/redis-8-0-m02-the-fastest-redis-ever/)—for this workshop. Redis 8 includes the Redis that you know and love plus several modules that extend its capabilities. More on modules later.
 
 We'll also be using [RedisInsight](https://redis.io/docs/stack/insight/) which is a graphical client for Redis. We'll use it to issue commands and browse our database.
 
-## Installing Using Docker
+## Installing Redis 8 Using Docker
 
 Installing with Docker is pretty easy. Just run the following command:
 
 ```bash
-docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:latest
+docker run -d --name redis -p 6379:6379 redis:8.0-M02
 ```
 
-And that's it. You now have Redis Stack installed and running. _And_ you now have RedisInsight running too. To use it, just point your browser at http://localhost:8001 and browse your database.
+And that's it. You now have Redis 8 installed and running.
+
+## Installing RedisInsight
+
+RedisInsight is available for download from:
+
+- **Microsoft Store**: https://apps.microsoft.com/detail/xp8k1ghcb0f1r2
+- **Apple's App Store**: https://apps.apple.com/us/app/redis-insight/id6446987963
+- **Directly from Redis**: https://redis.io/insight/
+
+Download, run, and follow the instructions.
 
 ## Running Your First Command
 
@@ -35,6 +45,6 @@ I'm gonna be giving you a lot of Redis commands. Don't expect screenshots all th
 PONG
 ```
 
-This is the format used by `redis-cli`, the command-line client that ships with Redis.
+This is the format used by `redis-cli`, a command-line client for Redis.
 
 And that's it. Now, let's start looking at some [Redis basics](02-REDIS-BASICS.md).
